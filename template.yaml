@@ -4,10 +4,19 @@ date_format: 'd/m/Y' # "d/m/Y", "Y-m-d", "F j, Y" for January 1, 2020
 time_format: 'H:i' # "H:i" for 24-hour clock, "g:i A" for 12-hour clock
 start_of_week: '1' # 1= Monday, 7=Sunday
 timezone_string: 'Region/Country' # TODO: values
+gmt_offset: '' # TODO: values
+blog_charset: 'UTF-8' 
 WPLANG: '' # TODO: values
 woo/woocommerce_weight_unit: 'kg' # Measurements weight unit TODO values
 woo/woocommerce_dimension_unit: 'cm' # Measurements dimension unit TODO values
 woo/woocommerce_price_display_suffix: '' # Price display suffix, text to show after your prices
+
+# WooCommerce Permalinks
+woo/woocommerce_permalinks:
+    product_base: '/shop' # Custom base
+    category_base: 'product-category' # Product category base
+    tag_base: 'product-tag' # Product tag base
+    attribute_base: '' # Product attribute base
 
 # Privacy Policy -  Checkout privacy policy
 woo/woocommerce_checkout_privacy_policy_text: "Your personal data will be used to process your order, support your experience throughout this website, and for other purposes described in our [privacy_policy]." # Translate
@@ -93,3 +102,18 @@ wootax/3: # Zero rate
     order: '1'
     class: reduced-rate
     locations: {  }
+
+# Checkout endpoints
+woo/woocommerce_checkout_pay_endpoint: 'order-pay'
+woo/woocommerce_checkout_order_received_endpoint: 'order-received' 
+woo/woocommerce_myaccount_add_payment_method_endpoint: 'add-payment-method'
+woo/woocommerce_myaccount_delete_payment_method_endpoint: 'delete-payment-method'
+woo/woocommerce_myaccount_set_default_payment_method_endpoint: 'set-default-payment-method'
+woo/woocommerce_myaccount_orders_endpoint: 'orders'
+woo/woocommerce_myaccount_view_order_endpoint: 'view-order'
+woo/woocommerce_myaccount_downloads_endpoint: 'downloads'
+woo/woocommerce_myaccount_edit_account_endpoint: 'edit-account'
+woo/woocommerce_myaccount_edit_address_endpoint: 'edit-address'
+woo/woocommerce_myaccount_payment_methods_endpoint: 'payment-methods'
+woo/woocommerce_myaccount_lost_password_endpoint: 'lost-password'
+woo/woocommerce_logout_endpoint: 'customer-logout'
