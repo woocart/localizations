@@ -1,76 +1,78 @@
-woo/woocommerce_admin_notices:
-    - no_shipping_methods
-woo/woocommerce_allow_tracking: 'no'
-woo/woocommerce_allowed_countries: all
-woo/woocommerce_anonymize_completed_orders:
-    number: 1
-    unit: years
-woo/woocommerce_api_enabled: 'no'
-woo/woocommerce_calc_discounts_sequentially: 'no'
-woo/woocommerce_calc_taxes: 'yes'
-woo/woocommerce_cart_page_id: '7'
-woo/woocommerce_cart_redirect_after_add: 'no'
-woo/woocommerce_catalog_columns: '3'
-woo/woocommerce_catalog_rows: '4'
-woo/woocommerce_checkout_highlight_required_fields: 'yes'
-woo/woocommerce_checkout_order_received_endpoint: order-received
-woo/woocommerce_checkout_page_id: '8'
-woo/woocommerce_checkout_pay_endpoint: order-pay
-woo/woocommerce_default_customer_address: geolocation
-woo/woocommerce_delete_inactive_accounts:
+# WordPress
+fresh_site: '0' # Remove new WordPress notifications
+default_role: 'customer' # New User Default Role
+users_can_register: '0' # TODO Shouldn't this be 1?
+show_on_front: 'page' # Your homepage displays
+avatar_default: 'gravatar_default'
+blog_public: '1' # TODO what is this
+permalink_structure: '/blog/%postname%/'
+
+# WooCommerce General
+woo/woocommerce_demo_store: 'yes' # Store notice 
+woo/woocommerce_ship_to_destination: '' # Shipping location(s) TODO Shop to all countries you sell to
+woo/woocommerce_default_customer_address: 'geolocation' # Default customer location
+woo/woocommerce_calc_taxes: 'yes' # Enable taxes
+woo/woocommerce_enable_coupons: 'no' # Enable coupons
+woo/woocommerce_calc_discounts_sequentially: 'yes' # Enable the use of coupon codes
+
+# Products - General
+woo/woocommerce_cart_redirect_after_add: 'no' # Redirect to the basket page after successful addition
+woo/woocommerce_enable_ajax_add_to_cart: 'yes' # Enable AJAX add to basket buttons on archives
+woo/woocommerce_enable_reviews: 'no' # Enable product reviews
+woo/woocommerce_enable_review_rating: 'yes' # Enable star rating on reviews
+woo/woocommerce_review_rating_required: 'yes' # Star ratings should be required, not optional
+woo/woocommerce_review_rating_verification_label: 'yes' # Show "verified owner" label on customer reviews
+woo/woocommerce_review_rating_verification_required: 'yes' # Reviews can only be left by "verified owners"
+
+# Products - Inventory
+woo/woocommerce_manage_stock: 'yes' # Manage stock
+woo/woocommerce_hold_stock_minutes: '60' # Hold stock (minutes)
+woo/woocommerce_notify_low_stock: 'yes' # Enable low stock notifications
+woo/woocommerce_notify_no_stock: 'yes' # Enable out of stock notifications
+woo/woocommerce_notify_low_stock_amount: '2' # Low stock threshold
+woo/woocommerce_notify_no_stock_amount: '0' # Out of stock threshold
+woo/woocommerce_hide_out_of_stock_items: 'no' # Hide out of stock items from the catalog
+woo/woocommerce_stock_format: 'low_amount' # TODO values
+
+# Products - Downloadable products
+woo/woocommerce_file_download_method: 'force' # TODO values
+woo/woocommerce_downloads_require_login: 'yes' # Downloads require login
+woo/woocommerce_downloads_grant_access_after_payment: 'yes' # Grant access to downloadable products after payment
+
+# Shipping Options
+woo/woocommerce_enable_shipping_calc: 'yes' # Enable the shipping calculator on the basket page
+woo/woocommerce_ship_to_destination: 'billing' # Shipping destination
+woo/woocommerce_shipping_cost_requires_address: 'yes' # Hide shipping costs until an address is entered
+woo/woocommerce_shipping_debug_mode: 'no' # Debug mode
+
+# Account & Privacy
+woo/woocommerce_enable_guest_checkout: 'yes' # Allow customers to place orders without an account
+woo/woocommerce_enable_checkout_login_reminder: 'yes' # Allow customers to log into an existing account during checkout
+woo/woocommerce_enable_signup_and_login_from_checkout: 'yes' # Allow customers to create an account during checkout
+woo/woocommerce_enable_myaccount_registration: 'yes' # Allow customers to create an account on the "My account" page
+woo/woocommerce_registration_generate_username: 'yes' # When creating an account, automatically generate a username from the customer's email address
+woo/woocommerce_registration_generate_password: 'yes' # When creating an account, automatically generate an account password
+
+# Personal data retention (GDPR)
+woo/woocommerce_erasure_request_removes_order_data: 'yes' # Remove personal data from orders
+woo/woocommerce_erasure_request_removes_download_data: 'yes' # Remove access to downloads
+woo/woocommerce_delete_inactive_accounts: # Retain inactive accounts
     number: 5
     unit: years
-woo/woocommerce_demo_store: 'yes'
-woo/woocommerce_downloads_grant_access_after_payment: 'yes'
-woo/woocommerce_downloads_require_login: 'no'
-woo/woocommerce_email_footer_text: '{site_title}'
-woo/woocommerce_enable_ajax_add_to_cart: 'yes'
-woo/woocommerce_enable_checkout_login_reminder: 'yes'
-woo/woocommerce_enable_coupons: 'no'
-woo/woocommerce_enable_guest_checkout: 'yes'
-woo/woocommerce_enable_myaccount_registration: 'yes'
-woo/woocommerce_enable_review_rating: 'yes'
-woo/woocommerce_enable_reviews: 'no'
-woo/woocommerce_enable_shipping_calc: 'yes'
-woo/woocommerce_enable_signup_and_login_from_checkout: 'yes'
-woo/woocommerce_erasure_request_removes_download_data: 'yes'
-woo/woocommerce_erasure_request_removes_order_data: 'yes'
-woo/woocommerce_file_download_method: force
-woo/woocommerce_hide_out_of_stock_items: 'no'
-woo/woocommerce_hold_stock_minutes: '60'
-woo/woocommerce_logout_endpoint: customer-logout
-woo/woocommerce_manage_stock: 'yes'
-woo/woocommerce_myaccount_add_payment_method_endpoint: add-payment-method
-woo/woocommerce_myaccount_delete_payment_method_endpoint: delete-payment-method
-woo/woocommerce_myaccount_downloads_endpoint: downloads
-woo/woocommerce_myaccount_edit_account_endpoint: edit-account
-woo/woocommerce_myaccount_edit_address_endpoint: edit-address
-woo/woocommerce_myaccount_lost_password_endpoint: lost-password
-woo/woocommerce_myaccount_orders_endpoint: orders
-woo/woocommerce_myaccount_page_id: '9'
-woo/woocommerce_myaccount_payment_methods_endpoint: payment-methods
-woo/woocommerce_myaccount_set_default_payment_method_endpoint: set-default-payment-method
-woo/woocommerce_myaccount_view_order_endpoint: view-order
-woo/woocommerce_notify_low_stock: 'yes'
-woo/woocommerce_notify_low_stock_amount: '2'
-woo/woocommerce_notify_no_stock: 'yes'
-woo/woocommerce_notify_no_stock_amount: '0'
-woo/woocommerce_permalinks:
-    product_base: /shop
-    category_base: product-category
-    tag_base: product-tag
-    attribute_base: ''
-    use_verbose_page_rules: true
-users_can_register: '0'
-default_comments_page: newest
-default_role: customer
-fresh_site: '0'
-gmt_offset: ''
-permalink_structure: /blog/%postname%/
-show_on_front: page
-avatar_default: gravatar_default
-blog_charset: UTF-8
-blog_public: '1'
+woo/woocommerce_trash_pending_orders: # Retain pending orders
+    number: 30
+    unit: days
+woo/woocommerce_trash_failed_orders: # Retain failed orders
+    number: 15
+    unit: days
+woo/woocommerce_trash_cancelled_orders: # Retain cancelled orders
+    number: 15
+    unit: days
+woo/woocommerce_anonymize_completed_orders: # Retain completed orders
+    number: 1
+    unit: years
+
+# Shipping Zones
 wooship/1:
     name: EU
     order: '0'
@@ -312,23 +314,3 @@ wooship/2:
             location_code: GB
             location_type: country
     methods: {  }
-woo/woocommerce_trash_cancelled_orders:
-    number: 15
-    unit: days
-woo/woocommerce_trash_failed_orders:
-    number: 15
-    unit: days
-woo/woocommerce_trash_pending_orders:
-    number: 30
-    unit: days
-woo/woocommerce_stock_format: low_amount
-woo/woocommerce_ship_to_destination: billing
-woo/woocommerce_shipping_cost_requires_address: 'yes'
-woo/woocommerce_shipping_debug_mode: 'no'
-woo/woocommerce_review_rating_required: 'yes'
-woo/woocommerce_review_rating_verification_label: 'yes'
-woo/woocommerce_review_rating_verification_required: 'no'
-woo/woocommerce_product_type: physical
-woo/woocommerce_queue_flush_rewrite_rules: 'no'
-woo/woocommerce_registration_generate_password: 'yes'
-woo/woocommerce_registration_generate_username: 'yes'
