@@ -9,7 +9,7 @@ permalink_structure: '/blog/%postname%/'
 
 # WooCommerce General
 woo/woocommerce_demo_store: 'yes' # Store notice 
-woo/woocommerce_ship_to_destination: '' # Shipping location(s) TODO Shop to all countries you sell to
+woo/woocommerce_ship_to_destination: '' # Shipping location(s) TODO Ship to all countries you sell to
 woo/woocommerce_default_customer_address: 'geolocation' # Default customer location
 woo/woocommerce_calc_taxes: 'yes' # Enable taxes
 woo/woocommerce_enable_coupons: 'no' # Enable coupons
