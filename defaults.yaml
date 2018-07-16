@@ -1,19 +1,25 @@
 # WordPress
 fresh_site: '0' # Remove new WordPress notifications
 default_role: 'customer' # New User Default Role
-users_can_register: '0' # TODO Shouldn't this be 1?
+users_can_register: '0' # WordPress registration, not recommended for stores.
 show_on_front: 'page' # Your homepage displays
 avatar_default: 'gravatar_default'
-blog_public: '1' # TODO what is this
+blog_public: '1' # Search Engine Visibility
 permalink_structure: '/blog/%postname%/'
 
 # WooCommerce General
 woo/woocommerce_demo_store: 'yes' # Store notice 
-woo/woocommerce_ship_to_destination: '' # Shipping location(s) TODO Ship to all countries you sell to
+woo/woocommerce_allowed_countries: 'all' # Selling location(s), configured by Store Wizard
+woo/woocommerce_ship_to_destination: '' # Shipping location(s), leave empty for Ship to all countries you sell to
+woo/woocommerce_product_type: 'physical' # Type of products sold, configured by Store Wizard
 woo/woocommerce_default_customer_address: 'geolocation' # Default customer location
 woo/woocommerce_calc_taxes: 'yes' # Enable taxes
 woo/woocommerce_enable_coupons: 'no' # Enable coupons
 woo/woocommerce_calc_discounts_sequentially: 'yes' # Enable the use of coupon codes
+woo/woocommerce_queue_flush_rewrite_rules: 'yes' # Leave as-is, used for flushing rules
+woo/woocommerce_api_enabled: 'no' # Leave as-is, used for REST API
+woo/woocommerce_email_footer_text: '{site_title}' # Leave as-is, created by Store Wizard
+woo/woocommerce_checkout_highlight_required_fields: 'yes' # Highly recommended
 
 # Products - General
 woo/woocommerce_cart_redirect_after_add: 'no' # Redirect to the basket page after successful addition
@@ -32,10 +38,10 @@ woo/woocommerce_notify_no_stock: 'yes' # Enable out of stock notifications
 woo/woocommerce_notify_low_stock_amount: '2' # Low stock threshold
 woo/woocommerce_notify_no_stock_amount: '0' # Out of stock threshold
 woo/woocommerce_hide_out_of_stock_items: 'no' # Hide out of stock items from the catalog
-woo/woocommerce_stock_format: 'low_amount' # TODO values
+woo/woocommerce_stock_format: 'low_amount' # Stock display format: never "no_amount", always "", low amount "low_amount"
 
 # Products - Downloadable products
-woo/woocommerce_file_download_method: 'force' # TODO values
+woo/woocommerce_file_download_method: 'force' # "force", "xsendfile", "redirect"
 woo/woocommerce_downloads_require_login: 'yes' # Downloads require login
 woo/woocommerce_downloads_grant_access_after_payment: 'yes' # Grant access to downloadable products after payment
 
@@ -54,6 +60,7 @@ woo/woocommerce_registration_generate_username: 'yes' # When creating an account
 woo/woocommerce_registration_generate_password: 'yes' # When creating an account, automatically generate an account password
 
 # Personal data retention (GDPR)
+woo/woocommerce_allow_tracking: 'no' # No tracking for visitors
 woo/woocommerce_erasure_request_removes_order_data: 'yes' # Remove personal data from orders
 woo/woocommerce_erasure_request_removes_download_data: 'yes' # Remove access to downloads
 woo/woocommerce_delete_inactive_accounts: # Retain inactive accounts
