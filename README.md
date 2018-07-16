@@ -1,6 +1,6 @@
 # WooCart Localizations
 
-This repository contains default setting for WooCart store and specific settings for each country.
+This repository contains default setting for a [WooCart](https://woocart.com/) store and specific settings for each country.
 
 ## Making a new localization
 
