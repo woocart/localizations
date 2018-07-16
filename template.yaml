@@ -3,13 +3,11 @@ woo/woocommerce_default_country: 'LL'
 date_format: 'd/m/Y' # "d/m/Y", "Y-m-d", "F j, Y" for January 1, 2020
 time_format: 'H:i' # "H:i" for 24-hour clock, "g:i A" for 12-hour clock
 start_of_week: '1' # 1= Monday, 7=Sunday
-timezone_string: 'Region/Country' # TODO: values
-gmt_offset: '' # TODO: values
+timezone_string: 'Region/Country' # TODO: where to find WP values for each timezone?
 blog_charset: 'UTF-8' 
 WPLANG: '' # TODO: values
 woo/woocommerce_weight_unit: 'kg' # Measurements weight unit TODO values
 woo/woocommerce_dimension_unit: 'cm' # Measurements dimension unit TODO values
-woo/woocommerce_price_display_suffix: '' # Price display suffix, text to show after your prices
 
 # WooCommerce Permalinks
 woo/woocommerce_permalinks:
@@ -45,10 +43,6 @@ woo/woocommerce_bacs_settings:
     bic: ''
     account_details: ''
 
-# Payments - Check payments
-woo/woocommerce_cheque_settings:
-    enabled: 'no' #TODO values
-
 # Payments -  Cash on delivery
 woo/woocommerce_cod_settings:
     enabled: 'yes'
@@ -58,15 +52,16 @@ woo/woocommerce_cod_settings:
     enable_for_methods: ''
     enable_for_virtual: 'no'
 
-# Tax
-woo/woocommerce_tax_based_on: 'shipping' # Tax based on shipping or billing address TODO review
-woo/woocommerce_tax_classes: 'Reduced rate\nZero rate'# Additional rates TODO review
-woo/woocommerce_tax_display_cart: 'excl' # TODO 
-woo/woocommerce_tax_display_shop: 'excl' # TODO
-woo/woocommerce_tax_round_at_subtotal: 'no' # TODO
-woo/woocommerce_tax_total_display: 'itemized' # TODO
-woo/woocommerce_prices_include_tax: 'no' # TODO is this for entering or showing?
-woo/woocommerce_shipping_tax_class: '' # "inherit" based on cart, "standard", "reduced" or "zero" TODO check values
+# Tax - B2C
+woo/woocommerce_prices_include_tax: 'yes' # Prices entered with tax
+woo/woocommerce_tax_based_on: 'billing' # Tax based on shipping or billing address
+woo/woocommerce_tax_round_at_subtotal: 'no' # Round tax at subtotal level, instead of rounding per line
+woo/woocommerce_tax_classes: 'Reduced rate\nZero rate' # Additional rates
+woo/woocommerce_tax_display_shop: 'incl' # Display prices in the shop
+woo/woocommerce_tax_display_cart: 'incl' # Display prices during basket and checkout 
+woo/woocommerce_shipping_tax_class: 'zero-rate' # "inherit" based on cart, "standard", "reduced-rate" or "zero-rate"
+woo/woocommerce_price_display_suffix: '' # Price display suffix, text to show after your prices
+woo/woocommerce_tax_total_display: 'itemized' # Display tax totals
 
 # Tax rates
 wootax/1: # Standard rate
