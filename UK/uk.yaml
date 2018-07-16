@@ -23,7 +23,7 @@ woo/woocommerce_checkout_privacy_policy_text: "Your personal data will be used t
 woo/woocommerce_registration_privacy_policy_text: 'Your personal data will be used to support your experience throughout this website, to manage access to your account, and for other purposes described in our [privacy_policy].' # Translate
 
 # Currency options
-woo/woocommerce_currency: 'LLL' # TODO Currency
+woo/woocommerce_currency: 'GBP' # Currency
 woo/woocommerce_currency_pos: 'left' # Currency position: left, left_space, right, right_space
 woo/woocommerce_price_thousand_sep: '.' # Thousand separator
 woo/woocommerce_price_decimal_sep: ',' # Decimal separator
