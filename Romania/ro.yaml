@@ -3,7 +3,7 @@ woo/woocommerce_default_country: 'RO:AB'
 date_format: 'd/m/Y' # "d/m/Y", "Y-m-d", "F j, Y" for January 1, 2020
 time_format: 'H:i' # "H:i" for 24-hour clock, "g:i A" for 12-hour clock
 start_of_week: '1' # 1= Monday, 7=Sunday
-timezone_string: 'Europe/Bucharest' # Timezone
+timezone_string: 'Europe/Bucharest' # Timezone string https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 blog_charset: 'UTF-8' 
 WPLANG: 'ro_RO' # WordPress Locale Codes: https://wpastra.com/docs/complete-list-wordpress-locale-codes/
 woo/woocommerce_weight_unit: 'kg' # Measurements weight unit kg, k, lbs, oz
