@@ -30,9 +30,9 @@ Scribbled in secret after endless days, sleepless nights and missed weekends, Ad
 
 Price: £4.99
 
-A very funny and inspiring read! Brilliantly practical with a wide variety of examples that make it relevant for both boys and girls (and adults). This positive and empowering guide, by bestselling mindset author Matthew Syed, will help boys and girls build resilience, fulfil their potential and become successful, happy, awesome adults.
+A very funny and inspiring read! Brilliantly practical with a wide variety of examples that make it relevant for both boys and girls (and adults). This positive and empowering guide, by bestselling mindset author Matthew Syed, will help boys and girls build resilience, fulfill their potential and become successful, happy, awesome adults.
 If you believe you can't do something, the chances are you won't try. But what if you really could get better at maths, or sport or exams? In fact, what if you could excel at anything you put your mind to?
-You Are Awesome can help you do just that, inspiring and empowering young readers to find the confidence to realise their potential. The first children's book from Times journalist, two-time Olympian and best-selling mindset author Matthew Syed, it uses examples of successful people from Mozart to Serena Williams to demonstrate that success really is earned rather than given, and that talent can be acquired. With hard work and determination, practice and self-belief, and, most importantly, a Growth Mindset, there's no reason why anyone can't achieve anything.
+You Are Awesome can help you do just that, inspiring and empowering young readers to find the confidence to realize their potential. The first children's book from Times journalist, two-time Olympian and best-selling mindset author Matthew Syed, it uses examples of successful people from Mozart to Serena Williams to demonstrate that success really is earned rather than given, and that talent can be acquired. With hard work and determination, practice and self-belief, and, most importantly, a Growth Mindset, there's no reason why anyone can't achieve anything.
 Practical, insightful and positive, this is the book to help children build resilience, embrace their mistakes and grow into successful, happy adults.
 
 - The Sunday Times number one bestseller
@@ -43,7 +43,7 @@ Practical, insightful and positive, this is the book to help children build resi
 Price: £9.35
 
 Notes on a Nervous Planet is a fascinating look at the link between anxiety and the world we live in. Matt Haig has written really something rather special here – the definitive user manual for your own head. It’s a self-help book that – unusually for the genre – talks in sensible, practical terms, not in vague aphorisms and allegories. Recommended for anyone who’s ever wobbled, and that’s all of us.
-Haig’s bestseller Reasons to Stay Alive was an engaging self-help memoir which mined personal trauma for valuable life lessons. This follow-up is a rag-bag of personal experience, thoughts and feelings. Some thought-provoking, some pertinent and important. He’s a smart operator who knows his readership and genuinely wants to help them
+Haig’s bestseller Reasons to Stay Alive was an engaging self-help memoir which mined personal trauma for valuable life lessons. This follow-up is a rag-bag of personal experience, thoughts, and feelings. Some thought-provoking, some pertinent and important. He’s a smart operator who knows his readership and genuinely wants to help them
 After experiencing years of anxiety and panic attacks, these questions became urgent matters of life and death for Matt Haig. And he began to look for the link between what he felt and the world around him. 
 
 - A personal and vital look at how to feel happy, human and whole in the twenty-first century
@@ -92,13 +92,13 @@ A finely wrought meditation on the nature of motherhood, the dangers of privileg
 Price: £6.20
 
 Once a celebrated author of short stories now in his twilight years, Anthony Peardew has spent half his life lovingly collecting lost objects, trying to atone for a promise broken many years before.
-Realising he is running out of time, he leaves his house and all its lost treasures to his assistant Laura, the one person he can trust to fulfil his legacy and reunite the thousands of objects with their rightful owners.
+Realising he is running out of time, he leaves his house and all its lost treasures to his assistant Laura, the one person he can trust to fulfill his legacy and reunite the thousands of objects with their rightful owners.
 But the final wishes of the Keeper of Lost Things have unforeseen repercussions which trigger a most serendipitous series of encounters…
 With an unforgettable cast of characters that includes young girls with special powers, handsome gardeners, irritable ghosts and an array of irresistible four-legged friends, The Keeper of Lost Things is a debut novel of endless possibilities and joyful discoveries.
 
 - Winner of the Richard & Judy Readers' Award
 - The perfect holiday read, recommended by thousands of readers
-- One of the Mail on Sunday's 'Best books for the beach this summer
+- One of the Mails on Sunday's 'Best books for the beach this summer
 
 ### Close to Home by Cara Hunter, Richard & Judy Book Club thriller pick 2018 - Paperback
 
@@ -117,7 +117,7 @@ Introducing DI Fawley and his team of Oxford detectives, CLOSE TO HOME is a puls
 Price: £2.63
 
 In 1942, Lale Sokolov arrived in Auschwitz-Birkenau. He was given the job of tattooing the prisoners marked for survival - scratching numbers into his fellow victims' arms in indelible ink to create what would become one of the most potent symbols of the Holocaust. 
-Waiting in line to be tattooed, terrified and shaking, was a young girl. For Lale - a dandy, a jack-the-lad, a bit of a chancer - it was love at first sight. And he was determined not only to survive himself, but to ensure this woman, Gita, did, too.
+Waiting in line to be tattooed, terrified and shaking, was a young girl. For Lale - a dandy, a jack-the-lad, a bit of a chancer - it was love at first sight. And he was determined not only to survive himself but to ensure this woman, Gita, did, too.
 
 - One of the most life-affirming, courageous, unforgettable and human stories of the Holocaust: the love story of the tattooist of Auschwitz.
 - A heart-breaking story of the very best of humanity in the very worst of circumstances.
@@ -128,10 +128,10 @@ Waiting in line to be tattooed, terrified and shaking, was a young girl. For Lal
 
 Price:£5.13
 
-Where's the Unicorn? is set to thrill puzzle fans with its fiendishly difficult brainteasers. Follow a colourful blessing of globetrotting unicorns as they gallop around the world on an incredible whistle-stop tour. 
-From a star-studded film premiere and a flamboyant festival, to a wild safari adventure and a beautiful tropical beach, there are 17 intricately illustrated scenes to search, and seven sensational unicorns to spot in every location.
+Where's the Unicorn? is set to thrill puzzle fans with its fiendishly difficult brainteasers. Follow a colorful blessing of globetrotting unicorns as they gallop around the world on an incredible whistle-stop tour. 
+From a star-studded film premiere and a flamboyant festival to a wild safari adventure and a beautiful tropical beach, there are 17 intricately illustrated scenes to search, and seven sensational unicorns to spot in every location.
 
-- An intermediate search and find book.
+- An intermediate Search And Find book.
 - A lovely A4 book with plenty of different Unicorns to find
 - Great gift for kids. Unicorns are not that difficult to find but there's always one that keeps you searching the same amount of time it took to find all the others combined
 
@@ -139,12 +139,12 @@ From a star-studded film premiere and a flamboyant festival, to a wild safari ad
 
 Price: £6.49
 
-From the phenomenal number-one bestseller David Walliams comes another collection of more hilariously horrible children! Illustrated in glorious and gruesome colour by artist genius, Tony Ross, these stories will appal and delight young readers.
-Just when you thought it was safe to go back to your bookshelf, 10 more horrendously hilarious stories about the absolute worst children ever! From ten-year old Hank and his endless pranks on his poor, long-suffering family, to Tandy and her titanic tantrums – this brand new collection is the perfect companion to World’s Worst Children books 1 and 2 and an ideal gift for the worst children in your life!
+From the phenomenal number-one bestseller David Walliams comes another collection of more hilariously horrible children! Illustrated in glorious and gruesome color by artist genius, Tony Ross, these stories will appeal and delight young readers.
+Just when you thought it was safe to go back to your bookshelf, 10 more horrendously hilarious stories about the absolute worst children ever! From ten-year-old Hank and his endless pranks on his poor, long-suffering family, to Tandy and her titanic tantrums – this brand new collection is the perfect companion to World’s Worst Children books 1 and 2 and an ideal gift for the worst children in your life!
 
 - Fiendishly Funny New Short Stories
-- These gloriously gruesome stories are available now in hardback, ebook and audiobook
-- Best selling Book
+- These gloriously gruesome stories are available now in hardback, ebook, and audiobook
+- Bestselling Book
 - Compendium of catastrophically horrid boys and girls
 
 ## Food & Drink
@@ -154,7 +154,7 @@ Just when you thought it was safe to go back to your bookshelf, 10 more horrendo
 Price: £16.90
 
 Jamie Oliver returns with the second series, focussing on easy family-centric cooking. This is Oliver stripped back-to-basics and all the better for it as he presents a series of simple but tasty recipes. If you're short of time, you can create a tasty meal in no time.
-Even the busiest of us will be able to master dishes to bring the house down. With just FIVE ingredients that have maximum flavour and minimum fuss, you'll be cooking exciting food that's ready in less than 30 minutes.
+Even the busiest of us will be able to master dishes to bring the house down. With just FIVE ingredients that have maximum flavor and minimum fuss, you'll be cooking exciting food that's ready in less than 30 minutes.
 
 - This is Oliver's best book in years
 - Quick and easy meals for every day of the week
@@ -167,10 +167,10 @@ Price: £6.99
 
 Seventy thousand years ago, there were at least six different human species on earth. They were insignificant animals, whose ecological impact was less than that of fireflies or jellyfish. Today, there is only one human species left: Us. Homo sapiens. But we rule this planet.
 Sapiens, the book, takes us on a breath-taking ride through our entire human history to uncover why we are the way we are.
-Sapiens focuses on key processes that shaped humankind and the world around it, such as the advent of agriculture, the creation of money, the spread of religion and the rise of the nation state. Unlike other books of its kind, Sapiens bridges the gaps between history, biology, philosophy and economics in a way never done before. Furthermore, taking both the macro and the micro view, Sapiens conveys not only what happened and why, but also how it felt for individuals.
+Sapiens focuses on key processes that shaped humankind and the world around it, such as the advent of agriculture, the creation of money, the spread of religion and the rise of the nation-state. Unlike other books of its kind, Sapiens bridges the gaps between history, biology, philosophy, and economics in a way never done before. Furthermore, taking both the macro and the micro view, Sapiens conveys not only what happened and why, but also how it felt for individuals.
 
 - A walk through the human history from its evolutionary roots to the age of capitalism and genetic engineering
-- A multi-disciplinary approach of our evolution and its effects
+- A multi-disciplinary approach to our evolution and its effects
 
 
 
