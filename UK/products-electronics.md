@@ -61,7 +61,7 @@ Go beyond the traditional laptop. Backed by the best of Microsoft, including Win
 
 - Microsoft Surface Laptop features a 7th generation Intel Core i5 processor, 256 GB of storage, 8 GB RAM, and up to 14.5 hours of video playback.
 - Backed by the best of Microsoft, including Windows and Office.
-- Four tone-on-tone color combinations, exterior has aluminum casing.
+- Four tone-on-tone color combinations, exterior has an aluminum casing.
 - Natural typing and trackpad experience, ultra-thin and light.
 - Luxurious Alcantara fabric-covered keyboard
 - 3.5 mm headset jack.
@@ -121,18 +121,18 @@ Whether you're looking to enhance your portfolio or just take pictures of your l
 
 Price: 449.68
 
-Capture life's special moments in vibrant, beautiful color and detail with the compact and easy-to-use EOS M100 interchangeable lens camera. These impressive results are simple to achieve thanks to the 24.2 Megapixel CMOS (APS-C) sensor along with features including a 3.0-inch tilt-type LCD that rotates 180° for artistic angles and selfies, a Self Portrait Mode and Creative Assist to help guide you in getting the shot you want. On the video side, Full HD 60p and Dual Pixel CMOS AF let you record stunning and smooth action, while built-in Wi-Fi, NFC and Bluetooth technology lets you share it all, any way you like.
+Capture life's special moments in vibrant, beautiful color and detail with the compact and easy-to-use EOS M100 interchangeable lens camera. These impressive results are simple to achieve thanks to the 24.2 Megapixel CMOS (APS-C) sensor along with features including a 3.0-inch tilt-type LCD that rotates 180° for artistic angles and selfies, a Self Portrait Mode and Creative Assist to help guide you in getting the shot you want. On the video side, Full HD 60p and Dual Pixel CMOS AF let you record stunning and smooth action, while built-in Wi-Fi, NFC, and Bluetooth technology lets you share it all, any way you like.
 
 - Dual Pixel CMOS AF with Phase-detection.
 - 24.2 Megapixel CMOS (APS-C) Sensor.
-- Built-in Wi-Fi, NFC and Bluetooth.
+- Built-in Wi-Fi, NFC, and Bluetooth.
 - Intuitive Touchscreen, 3.0-inch Tilt-type LCD.
 
 ### Olympus PEN E-PL8 with 14-42mm EZ lens kit - Silver and Brown
 
 Price: 449.75
 
-The PEN E-PL9 is perfect for the buyers who’ve outgrown a smartphone and just want a camera that reliably captures sharp, well-exposed images, fits in a bag and doesn’t look like a piece of military hardware. There are cheaper alternatives, but none which match the E-PL9’s balance of simplicity, power, creative effects and kerb appeal.
+The PEN E-PL9 is perfect for the buyers who’ve outgrown a smartphone and just want a camera that reliably captures sharp, well-exposed images, fits in a bag and doesn’t look like a piece of military hardware. There are cheaper alternatives, but none which match the E-PL9’s balance of simplicity, power, creative effects and curb appeal.
 
 - 16 Megapixel live MOS sensor.
 - TruePic VIII Image Processor.
@@ -144,10 +144,10 @@ The PEN E-PL9 is perfect for the buyers who’ve outgrown a smartphone and just 
 
 Price: 786.50
 
-The Fujifilm X-T20, the follow-up to the X-T10, now sports a 24MP X-Trans APS-C CMOS sensor, improved image processor, and new autofocus algorithms. The compact body is made of a magnesium alloy, and the top plate features direct controls for exposure compensation and shutter speed. On the back of the camera is a 3" touchscreen LCD as well as a high resolution electronic viewfinder. Other changes include the addition of the ACROS film simulation mode, Grain Effect and 4K video capture. Wi-Fi is built-in, as well.
+The Fujifilm X-T20, the follow-up to the X-T10, now sports a 24MP X-Trans APS-C CMOS sensor, improved image processor, and new autofocus algorithms. The compact body is made of a magnesium alloy, and the top plate features direct controls for exposure compensation and shutter speed. On the back of the camera is a 3" touchscreen LCD as well as a high-resolution electronic viewfinder. Other changes include the addition of the ACROS film simulation mode, Grain Effect, and 4K video capture. Wi-Fi is built-in, as well.
 
 - 24.3MP X-Trans CMOS III APS-C sensor with no low-pass filter and X-Processor Pro.
-- 5.0Fps Live-view shooting, start-up time of 0.4sec., shutter time lag of 0.050sec. And shooting Interval of 0.25sec.
+- 5.0Fps Live-view shooting, a start-up time of 0.4sec., shutter time lag of 0.050sec. And shooting Interval of 0.25sec.
 - 3.0" tilting Touchscreen panel for operation at almost any angle. Weight (approx.) excluding caps and hoods- 310g.
 - 4K video using the x series’ famous film Simulation effects (including ACROS). you can output recorded video to an external monitor via the HDMI port and input audio from an external microphone.
 - Af-c custom settings for moving subjects.Advanced SR AUTO mode.
@@ -158,7 +158,7 @@ The Fujifilm X-T20, the follow-up to the X-T10, now sports a 24MP X-Trans APS-C 
 
 Price: 199.99
 
-Meet Fitbit Versa, an all-day companion that helps you live your best life. This lightweight, swimproof smartwatch empowers you to reach health and fitness goals with 24/7 heart rate, actionable insights, personalized guidance, on-screen workouts and more. Run your day with notifications, quick replies, apps, and phone-free music. Plus, wear it your way with fresh accessories and clock faces.
+Meet Fitbit Versa, an all-day companion that helps you live your best life. This lightweight, swim-proof smartwatch empowers you to reach health and fitness goals with 24/7 heart rate, actionable insights, personalized guidance, on-screen workouts and more. Run your day with notifications, quick replies, apps, and phone-free music. Plus, wear it your way with fresh accessories and clock faces.
 
 - Track your all-day activity, 24/7 heart rate, & sleep stages, all with a 4+ day battery life (varies with use and other factors).
 - Take your favorite music phone-free by storing 300+ songs or downloading stations from Pandora or playlists from Deezer.
@@ -168,11 +168,11 @@ Meet Fitbit Versa, an all-day companion that helps you live your best life. This
 
 Price: 285.00
 
-The Gear S3 has the aesthetics of a truly premium watch with advanced features built right into the watch design. That's why it's so easy and effortless to use the Gear S3. It's also built for you to go days without needing your phone or to recharge. You get to feel free with the Gear S3.
+The Gear S3 has the aesthetics of a truly premium watch with advanced features built right into the watch design. That's why it's so easy and effortless to use the Gear S3. It's also built for you to go for days without needing your phone or to recharge. You get to feel free with the Gear S3.
 
-- Text, call, and get notifications directly from your Bluetooth connected Gear S3.
+- Text, call and get notifications directly from your Bluetooth connected Gear S3.
 - Make payments with Samsung Pay, almost anywhere you can swipe or tap a credit card.
-- The built-in GPS keeps track of your activity and makes it easy to share your location.The Gear S3 is compatible with both Android and iOS smartphones.
+- The built-in GPS keeps track of your activity and makes it easy to share your location. The Gear S3 is compatible with both Android and iOS smartphones.
 - With military-grade performance, the Gear S3 resists water, dust, extreme temperatures, and the occasional drop.
 
 ### Apple Watch Series 3 42mm, GPS Only - Aluminum with Gray Sport Band
@@ -192,8 +192,8 @@ Price: 470.17
 Running is more than just exercise — it’s a performance. And Forerunner 645 Music has the tools to help you put on an outstanding show every time you lace up your shoes.
 
 - Easily download up to 500 songs to your watch, and connect with Bluetooth headphones (sold separately) for phone-free listening.
-- Syncs music from select streaming services for offline listening (May require premium subscription with a third-party music provider).
-- Garmin Pay contactless payment solution lets you make convenient payments with your watch (available for supported cards from participating banks), so you can leave your cash and cards at home.
+- Syncs music from select streaming services for offline listening (May require a premium subscription with a third-party music provider).
+- Garmin Pay contactless payment solution lets you make convenient payments with your watch (available for supported cards from participating banks) so you can leave your cash and cards at home.
 - Provides advanced running dynamics (when used with Running Dynamics Pod or HRM-Run or HRM-Tri monitor, sold separately), including ground contact time balance, stride length, vertical ratio and more.
 - Uses estimated wrist-based heart rate data to offer performance monitoring features, including evaluating your current training status.
 - Battery life: up to 7 days in smartwatch mode, 5 hours in GPS mode with music.
