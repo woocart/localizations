@@ -898,9 +898,7 @@ wooship/8:
             location_code: ZW
             location_type: country
     methods: {  }
-
-
-
+    
 wooship/9:
     name: 'Middle East'
     order: '0'
