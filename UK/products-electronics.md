@@ -24,8 +24,8 @@ The artificial intelligence (AI) inside every ZenFone 5Z makes it more than just
 - Dual Nano-SIM (4G + 4G); 3G WCDMA B1 / B2 / B5 / B6 / B8 / B19; 4G LTE B1 / B2 / B3 / B5 / B7 / B8 / B18 / B19 / B20 / B26 / B28 / B38 / B39 / B40.
 - Qualcomm SDM845 Snapdragon 845 Octa-core (4x2.7 GHz Kryo 385 Gold & 4x1.7 GHz Kryo 385 Silver) CPU; 128GB ROM, 6GB RAM; Supports microSD, up to 2 TB (uses SIM 2 slot); 3300 mAh battery.
 - Main Camera: Dual: 12 MP (f/1.8, 24mm, 1/2.55", 1.4µm, PDAF) + 120° wide-angle (12mm), phase detection autofocus, OIS, EIS, LED flash; Front Camera: 8 MP (f/2.0, 24mm).
-- 6.2 inches, Super IPS+ LCD capacitive touchscreen, 16M colors.
-- Package Content: ASUS ZenFone 5Z (ZS620KL), ASUS ZenEar Pro Hi-Res earphone with microphone, Type-C USB cable, Ejector pin (SIM tray needle), USB Power adapter (18W), Documentation, Clear soft bumper.
+- 6.2 inches, Super IPS+ LCD capacitive touchscreen, 16M colours.
+- Package Content: ASUS ZenFone 5Z (ZS620KL), ASUS ZenEar Pro Hi-Res earphone with microphone, Type-C USB cable, Ejector pin (SIM tray needle), USB Power Adapter (18W), Documentation, Clear soft bumper.
 
 ### Huawei P20 Pro, Fully Unlocked, 4GLTE, 128GB - Blue
 
@@ -57,11 +57,11 @@ Our vision has always been to create an iPhone that is entirely screen. One so i
 
 Price: 1,199.99
 
-Go beyond the traditional laptop. Backed by the best of Microsoft, including Windows and Office5 Surface Laptop complements your style with rich colors and a natural typing experience enhanced by our Signature Alcantara® fabric-covered keyboard. Thin, light, and powerful, it fits easily in your bag. Surface Laptop is designed for Windows 10 S, streamlined for security and superior performance. Enjoy the Windows you know, Microsoft-verified apps delivered via the Windows Store, and the convenience of the cloud.
+Go beyond the traditional laptop. Backed by the best of Microsoft, including Windows and Office5 Surface Laptop complements your style with rich colours and a natural typing experience enhanced by our Signature Alcantara® fabric-covered keyboard. Thin, light, and powerful, it fits easily in your bag. Surface Laptop is designed for Windows 10 S, streamlined for security and superior performance. Enjoy the Windows you know, Microsoft-verified apps delivered via the Windows Store, and the convenience of the cloud.
 
 - Microsoft Surface Laptop features a 7th generation Intel Core i5 processor, 256 GB of storage, 8 GB RAM, and up to 14.5 hours of video playback.
 - Backed by the best of Microsoft, including Windows and Office.
-- Four tone-on-tone color combinations, exterior has an aluminum casing.
+- Four tone-on-tone colour combinations, exterior has an aluminium casing.
 - Natural typing and trackpad experience, ultra-thin and light.
 - Luxurious Alcantara fabric-covered keyboard
 - 3.5 mm headset jack.
@@ -70,7 +70,7 @@ Go beyond the traditional laptop. Backed by the best of Microsoft, including Win
 
 Price: 1,680.23
 
-ZenBook 3 Deluxe achieves the almost-impossible, featuring a gorgeous 14-inch display in an elegant and compact chassis that’s no bigger than many 13-inch laptops. It’s an unrivaled combination of power and beauty, giving you the perfect balance between portability and productivity. Measuring just 12.9mm thin and weighing only 1.1kg, ZenBook 3 Deluxe has everything you need for superb on-the-go performance, for the ultimate prestige and performance.
+ZenBook 3 Deluxe achieves the almost-impossible, featuring a gorgeous 14-inch display in an elegant and compact chassis that’s no bigger than many 13-inch laptops. It’s an unrivalled combination of power and beauty, giving you the perfect balance between portability and productivity. Measuring just 12.9mm thin and weighing only 1.1kg, ZenBook 3 Deluxe has everything you need for superb on-the-go performance, for the ultimate prestige and performance.
 
 - 8th-Generation Intel Core i7-8550U Quad-Core (1.8GHz, up to 4 GHz, 8 MB cache) + Intel UHD Graphics 620.
 - 14" diagonal Full HD 178 degrees View-Angle (1920 x 1080) Glossy Display, VGA web camera, Standard Notebook Backlight, Chiclet Style Keyboard.
@@ -94,7 +94,7 @@ When each stage of success is earned with hard work and determination, you need 
 
 Price: 2,399.99
 
-It’s razor thin, feather-light, and even faster and more powerful than before. It has the brightest, most colorful Mac notebook display ever. And it features the Touch Bar, a Multi-Touch enabled strip of glass built into the keyboard for instant access to the tools you want, right when you want them. MacBook Pro is built on groundbreaking ideas. And it’s ready for yours.
+It’s razor thin, feather-light, and even faster and more powerful than before. It has the brightest, most colourful Mac notebook display ever. And it features the Touch Bar, a Multi-Touch enabled strip of glass built into the keyboard for instant access to the tools you want, right when you want them. MacBook Pro is built on groundbreaking ideas. And it’s ready for yours.
 
 - 2.9GHz quad-core Intel Core i7 processor with Turbo Boost up to 3.9GHz.
 - 16GB 2133MHz LPDDR3 memory.
@@ -121,7 +121,7 @@ Whether you're looking to enhance your portfolio or just take pictures of your l
 
 Price: 449.68
 
-Capture life's special moments in vibrant, beautiful color and detail with the compact and easy-to-use EOS M100 interchangeable lens camera. These impressive results are simple to achieve thanks to the 24.2 Megapixel CMOS (APS-C) sensor along with features including a 3.0-inch tilt-type LCD that rotates 180° for artistic angles and selfies, a Self Portrait Mode and Creative Assist to help guide you in getting the shot you want. On the video side, Full HD 60p and Dual Pixel CMOS AF let you record stunning and smooth action, while built-in Wi-Fi, NFC, and Bluetooth technology lets you share it all, any way you like.
+Capture life's special moments in vibrant, beautiful colour and detail with the compact and easy-to-use EOS M100 interchangeable lens camera. These impressive results are simple to achieve thanks to the 24.2 Megapixel CMOS (APS-C) sensor along with features including a 3.0-inch tilt-type LCD that rotates 180° for artistic angles and selfies, a Self Portrait Mode and Creative Assist to help guide you in getting the shot you want. On the video side, Full HD 60p and Dual Pixel CMOS AF let you record a stunning and smooth action, while built-in Wi-Fi, NFC, and Bluetooth technology let you share it all, any way you like.
 
 - Dual Pixel CMOS AF with Phase-detection.
 - 24.2 Megapixel CMOS (APS-C) Sensor.
@@ -134,7 +134,7 @@ Price: 449.75
 
 The PEN E-PL9 is perfect for the buyers who’ve outgrown a smartphone and just want a camera that reliably captures sharp, well-exposed images, fits in a bag and doesn’t look like a piece of military hardware. There are cheaper alternatives, but none which match the E-PL9’s balance of simplicity, power, creative effects and curb appeal.
 
-- 16 Megapixel live MOS sensor.
+- 16 Megapixel Live MOS sensor.
 - TruePic VIII Image Processor.
 - 3" 180 Degree Flip down touchscreen.
 - In-body 3-axis image stabilization.
@@ -150,7 +150,7 @@ The Fujifilm X-T20, the follow-up to the X-T10, now sports a 24MP X-Trans APS-C 
 - 5.0Fps Live-view shooting, a start-up time of 0.4sec., shutter time lag of 0.050sec. And shooting Interval of 0.25sec.
 - 3.0" tilting Touchscreen panel for operation at almost any angle. Weight (approx.) excluding caps and hoods- 310g.
 - 4K video using the x series’ famous film Simulation effects (including ACROS). you can output recorded video to an external monitor via the HDMI port and input audio from an external microphone.
-- Af-c custom settings for moving subjects.Advanced SR AUTO mode.
+- AF-C custom settings for moving subjects.Advanced SR AUTO mode.
 
 ## Smartwatches
 
@@ -161,7 +161,7 @@ Price: 199.99
 Meet Fitbit Versa, an all-day companion that helps you live your best life. This lightweight, swim-proof smartwatch empowers you to reach health and fitness goals with 24/7 heart rate, actionable insights, personalized guidance, on-screen workouts and more. Run your day with notifications, quick replies, apps, and phone-free music. Plus, wear it your way with fresh accessories and clock faces.
 
 - Track your all-day activity, 24/7 heart rate, & sleep stages, all with a 4+ day battery life (varies with use and other factors).
-- Take your favorite music phone-free by storing 300+ songs or downloading stations from Pandora or playlists from Deezer.
+- Take your favourite music phone-free by storing 300+ songs or downloading stations from Pandora or playlists from Deezer.
 - Use 15+ exercise modes like Run or Swim (Fitbit Versa is water-resistant to 50 meters) to record workouts and connect to smartphone GPS for more precise real-time pace & distance.
 
 ### Samsung Gear S3 Classic Smartwatch - Steel with Black Band
@@ -173,13 +173,13 @@ The Gear S3 has the aesthetics of a truly premium watch with advanced features b
 - Text, call and get notifications directly from your Bluetooth connected Gear S3.
 - Make payments with Samsung Pay, almost anywhere you can swipe or tap a credit card.
 - The built-in GPS keeps track of your activity and makes it easy to share your location. The Gear S3 is compatible with both Android and iOS smartphones.
-- With military-grade performance, the Gear S3 resists water, dust, extreme temperatures, and the occasional drop.
+- With a military-grade performance, the Gear S3 resists water, dust, extreme temperatures, and the occasional drop.
 
 ### Apple Watch Series 3 42mm, GPS Only - Aluminum with Gray Sport Band
 
 Price: 349.89
 
-Take a call when you’re out on the water. Ask Siri to send a message. Stream your favorite songs on your run. And do it all while leaving your phone behind. Apple Watch Series 3 with cellular. Now you have the freedom to go with just your watch.
+Take a call when you’re out on the water. Ask Siri to send a message. Stream your favourite songs on your run. And do it all while leaving your phone behind. Apple Watch Series 3 with cellular. Now you have the freedom to go with just your watch.
 
 - 1.3 Inch (340 x 272) Display, Changeable Faces with Widgets.
 - Displays Notifications and Runs Apps, Accelerometer and gyroscope, Heart rate sensor.
