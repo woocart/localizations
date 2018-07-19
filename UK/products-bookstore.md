@@ -30,7 +30,7 @@ Scribbled in secret after endless days, sleepless nights and missed weekends, Ad
 
 Price: £4.99
 
-A very funny and inspiring read! Brilliantly practical with a wide variety of examples that make it relevant for both boys and girls (and adults). This positive and empowering guide, by bestselling mindset author Matthew Syed, will help boys and girls build resilience, fulfill their potential and become successful, happy, awesome adults.
+A very funny and inspiring read! Brilliantly practical with a wide variety of examples that make it relevant for both boys and girls (and adults). This positive and empowering guide, by bestselling mindset author Matthew Syed, will help boys and girls build resilience, fulfil their potential and become successful, happy, awesome adults.
 If you believe you can't do something, the chances are you won't try. But what if you really could get better at maths, or sport or exams? In fact, what if you could excel at anything you put your mind to?
 You Are Awesome can help you do just that, inspiring and empowering young readers to find the confidence to realize their potential. The first children's book from Times journalist, two-time Olympian and best-selling mindset author Matthew Syed, it uses examples of successful people from Mozart to Serena Williams to demonstrate that success really is earned rather than given, and that talent can be acquired. With hard work and determination, practice and self-belief, and, most importantly, a Growth Mindset, there's no reason why anyone can't achieve anything.
 Practical, insightful and positive, this is the book to help children build resilience, embrace their mistakes and grow into successful, happy adults.
@@ -92,7 +92,7 @@ A finely wrought meditation on the nature of motherhood, the dangers of privileg
 Price: £6.20
 
 Once a celebrated author of short stories now in his twilight years, Anthony Peardew has spent half his life lovingly collecting lost objects, trying to atone for a promise broken many years before.
-Realising he is running out of time, he leaves his house and all its lost treasures to his assistant Laura, the one person he can trust to fulfill his legacy and reunite the thousands of objects with their rightful owners.
+Realising he is running out of time, he leaves his house and all its lost treasures to his assistant Laura, the one person he can trust to fulfil his legacy and reunite the thousands of objects with their rightful owners.
 But the final wishes of the Keeper of Lost Things have unforeseen repercussions which trigger a most serendipitous series of encounters…
 With an unforgettable cast of characters that includes young girls with special powers, handsome gardeners, irritable ghosts and an array of irresistible four-legged friends, The Keeper of Lost Things is a debut novel of endless possibilities and joyful discoveries.
 
@@ -128,7 +128,7 @@ Waiting in line to be tattooed, terrified and shaking, was a young girl. For Lal
 
 Price:£5.13
 
-Where's the Unicorn? is set to thrill puzzle fans with its fiendishly difficult brainteasers. Follow a colorful blessing of globetrotting unicorns as they gallop around the world on an incredible whistle-stop tour. 
+Where's the Unicorn? is set to thrill puzzle fans with its fiendishly difficult brainteasers. Follow a colourful blessing of globetrotting unicorns as they gallop around the world on an incredible whistle-stop tour. 
 From a star-studded film premiere and a flamboyant festival to a wild safari adventure and a beautiful tropical beach, there are 17 intricately illustrated scenes to search, and seven sensational unicorns to spot in every location.
 
 - An intermediate Search And Find book.
@@ -139,7 +139,7 @@ From a star-studded film premiere and a flamboyant festival to a wild safari adv
 
 Price: £6.49
 
-From the phenomenal number-one bestseller David Walliams comes another collection of more hilariously horrible children! Illustrated in glorious and gruesome color by artist genius, Tony Ross, these stories will appeal and delight young readers.
+From the phenomenal number-one bestseller David Walliams comes another collection of more hilariously horrible children! Illustrated in glorious and gruesome colour by artist genius, Tony Ross, these stories will appeal and delight young readers.
 Just when you thought it was safe to go back to your bookshelf, 10 more horrendously hilarious stories about the absolute worst children ever! From ten-year-old Hank and his endless pranks on his poor, long-suffering family, to Tandy and her titanic tantrums – this brand new collection is the perfect companion to World’s Worst Children books 1 and 2 and an ideal gift for the worst children in your life!
 
 - Fiendishly Funny New Short Stories
@@ -154,7 +154,7 @@ Just when you thought it was safe to go back to your bookshelf, 10 more horrendo
 Price: £16.90
 
 Jamie Oliver returns with the second series, focussing on easy family-centric cooking. This is Oliver stripped back-to-basics and all the better for it as he presents a series of simple but tasty recipes. If you're short of time, you can create a tasty meal in no time.
-Even the busiest of us will be able to master dishes to bring the house down. With just FIVE ingredients that have maximum flavor and minimum fuss, you'll be cooking exciting food that's ready in less than 30 minutes.
+Even the busiest of us will be able to master dishes to bring the house down. With just FIVE ingredients that have maximum flavour and minimum fuss, you'll be cooking exciting food that's ready in less than 30 minutes.
 
 - This is Oliver's best book in years
 - Quick and easy meals for every day of the week
