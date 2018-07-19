@@ -169,7 +169,107 @@ wooship/1:
             location_code: GB
             location_type: country
     methods: {  }
+
 wooship/2:
+    name: EEA
+    order: '0'
+    locations:
+        -
+            location_code: CY
+            location_type: country
+        -
+            location_code: AT
+            location_type: country
+        -
+            location_code: BE
+            location_type: country
+        -
+            location_code: BG
+            location_type: country
+        -
+            location_code: HR
+            location_type: country
+        -
+            location_code: CZ
+            location_type: country
+        -
+            location_code: DK
+            location_type: country
+        -
+            location_code: EE
+            location_type: country
+        -
+            location_code: FI
+            location_type: country
+        -
+            location_code: FR
+            location_type: country
+        -
+            location_code: DE
+            location_type: country
+        -
+            location_code: GR
+            location_type: country
+        -
+            location_code: HU
+            location_type: country
+        -
+            location_code: IE
+            location_type: country
+        -
+            location_code: IT
+            location_type: country
+        -
+            location_code: LV
+            location_type: country
+        -
+            location_code: LT
+            location_type: country
+        -
+            location_code: LU
+            location_type: country
+        -
+            location_code: MT
+            location_type: country
+        -
+            location_code: NL
+            location_type: country
+        -
+            location_code: PL
+            location_type: country
+        -
+            location_code: PT
+            location_type: country
+        -
+            location_code: RO
+            location_type: country
+        -
+            location_code: SK
+            location_type: country
+        -
+            location_code: SI
+            location_type: country
+        -
+            location_code: ES
+            location_type: country
+        -
+            location_code: SE
+            location_type: country
+        -
+            location_code: GB
+            location_type: country  
+        -
+            location_code: IS
+            location_type: country
+        -
+            location_code: LI
+            location_type: country
+        -
+            location_code: 'NO'
+            location_type: country
+    methods: {  }
+
+wooship/3:
     name: Europe
     order: '0'
     locations:
@@ -319,5 +419,617 @@ wooship/2:
             location_type: country
         -
             location_code: GB
+            location_type: country
+    methods: {  }
+
+wooship/4:
+    name: 'North America'
+    order: '0'
+    locations:
+        -
+            location_code: AG
+            location_type: country
+        -
+            location_code: BS
+            location_type: country
+        -
+            location_code: BB
+            location_type: country
+        -
+            location_code: BZ
+            location_type: country
+        -
+            location_code: CA
+            location_type: country
+        -
+            location_code: CR
+            location_type: country
+        -
+            location_code: CU
+            location_type: country
+        -
+            location_code: DM
+            location_type: country
+        -
+            location_code: DO
+            location_type: country
+        -
+            location_code: SV
+            location_type: country
+        -
+            location_code: GD
+            location_type: country
+        -
+            location_code: GT
+            location_type: country
+        -
+            location_code: HT
+            location_type: country
+        -
+            location_code: HN
+            location_type: country
+        -
+            location_code: JM
+            location_type: country
+        -
+            location_code: MX
+            location_type: country
+        -
+            location_code: NI
+            location_type: country
+        -
+            location_code: PA
+            location_type: country
+        -
+            location_code: KN
+            location_type: country
+        -
+            location_code: LC
+            location_type: country
+        -
+            location_code: VC
+            location_type: country
+        -
+            location_code: TT
+            location_type: country
+        -
+            location_code: US
+            location_type: country
+    methods: {  }
+
+wooship/5:
+    name: 'South America'
+    order: '0'
+    locations:
+        -
+            location_code: GS
+            location_type: country
+        -
+            location_code: AR
+            location_type: country
+        -
+            location_code: BO
+            location_type: country
+        -
+            location_code: BR
+            location_type: country
+        -
+            location_code: CL
+            location_type: country
+        -
+            location_code: CO
+            location_type: country
+        -
+            location_code: EC
+            location_type: country
+        -
+            location_code: FK
+            location_type: country
+        -
+            location_code: GF
+            location_type: country
+        -
+            location_code: GY
+            location_type: country
+        -
+            location_code: PY
+            location_type: country
+        -
+            location_code: PE
+            location_type: country
+        -
+            location_code: SR
+            location_type: country
+        -
+            location_code: UY
+            location_type: country
+        -
+            location_code: VE
+            location_type: country
+    methods: {  }
+
+wooship/6:
+    name: Asia
+    order: '0'
+    locations:
+        -
+            location_code: AF
+            location_type: country
+        -
+            location_code: AM
+            location_type: country
+        -
+            location_code: AZ
+            location_type: country
+        -
+            location_code: BH
+            location_type: country
+        -
+            location_code: BD
+            location_type: country
+        -
+            location_code: BT
+            location_type: country
+        -
+            location_code: BN
+            location_type: country
+        -
+            location_code: KH
+            location_type: country
+        -
+            location_code: CN
+            location_type: country
+        -
+            location_code: CY
+            location_type: country
+        -
+            location_code: GE
+            location_type: country
+        -
+            location_code: IN
+            location_type: country
+        -
+            location_code: ID
+            location_type: country
+        -
+            location_code: IR
+            location_type: country
+        -
+            location_code: IQ
+            location_type: country
+        -
+            location_code: IL
+            location_type: country
+        -
+            location_code: JP
+            location_type: country
+        -
+            location_code: JO
+            location_type: country
+        -
+            location_code: KZ
+            location_type: country
+        -
+            location_code: KW
+            location_type: country
+        -
+            location_code: KG
+            location_type: country
+        -
+            location_code: LA
+            location_type: country
+        -
+            location_code: LB
+            location_type: country
+        -
+            location_code: MY
+            location_type: country
+        -
+            location_code: MV
+            location_type: country
+        -
+            location_code: MN
+            location_type: country
+        -
+            location_code: MM
+            location_type: country
+        -
+            location_code: NP
+            location_type: country
+        -
+            location_code: OM
+            location_type: country
+        -
+            location_code: PK
+            location_type: country
+        -
+            location_code: PS
+            location_type: country
+        -
+            location_code: PH
+            location_type: country
+        -
+            location_code: QA
+            location_type: country
+        -
+            location_code: SA
+            location_type: country
+        -
+            location_code: SG
+            location_type: country
+        -
+            location_code: KR
+            location_type: country
+        -
+            location_code: LK
+            location_type: country
+        -
+            location_code: TW
+            location_type: country
+        -
+            location_code: TJ
+            location_type: country
+        -
+            location_code: TH
+            location_type: country
+        -
+            location_code: TL
+            location_type: country
+        -
+            location_code: AE
+            location_type: country
+        -
+            location_code: UZ
+            location_type: country
+        -
+            location_code: VN
+            location_type: country
+        -
+            location_code: YE
+            location_type: country
+        -
+            location_code: RU
+            location_type: country
+        -
+            location_code: TR
+            location_type: country
+    methods: {  }
+
+wooship/7:
+    name: 'Southeast Asia'
+    order: '0'
+    locations:
+        -
+            location_code: BN
+            location_type: country
+        -
+            location_code: KH
+            location_type: country
+        -
+            location_code: ID
+            location_type: country
+        -
+            location_code: LA
+            location_type: country
+        -
+            location_code: MY
+            location_type: country
+        -
+            location_code: MM
+            location_type: country
+        -
+            location_code: PH
+            location_type: country
+        -
+            location_code: SG
+            location_type: country
+        -
+            location_code: TH
+            location_type: country
+        -
+            location_code: VN
+            location_type: country
+    methods: {  }
+
+wooship/8:
+    name: Africa
+    order: '0'
+    locations:
+        -
+            location_code: DZ
+            location_type: country
+        -
+            location_code: AO
+            location_type: country
+        -
+            location_code: BJ
+            location_type: country
+        -
+            location_code: BW
+            location_type: country
+        -
+            location_code: BF
+            location_type: country
+        -
+            location_code: BI
+            location_type: country
+        -
+            location_code: CM
+            location_type: country
+        -
+            location_code: CV
+            location_type: country
+        -
+            location_code: CF
+            location_type: country
+        -
+            location_code: TD
+            location_type: country
+        -
+            location_code: KM
+            location_type: country
+        -
+            location_code: CG
+            location_type: country
+        -
+            location_code: CD
+            location_type: country
+        -
+            location_code: DJ
+            location_type: country
+        -
+            location_code: EG
+            location_type: country
+        -
+            location_code: GQ
+            location_type: country
+        -
+            location_code: ER
+            location_type: country
+        -
+            location_code: ET
+            location_type: country
+        -
+            location_code: GA
+            location_type: country
+        -
+            location_code: GM
+            location_type: country
+        -
+            location_code: GH
+            location_type: country
+        -
+            location_code: GN
+            location_type: country
+        -
+            location_code: GW
+            location_type: country
+        -
+            location_code: CI
+            location_type: country
+        -
+            location_code: KE
+            location_type: country
+        -
+            location_code: LS
+            location_type: country
+        -
+            location_code: LR
+            location_type: country
+        -
+            location_code: LY
+            location_type: country
+        -
+            location_code: MG
+            location_type: country
+        -
+            location_code: MW
+            location_type: country
+        -
+            location_code: ML
+            location_type: country
+        -
+            location_code: MR
+            location_type: country
+        -
+            location_code: MU
+            location_type: country
+        -
+            location_code: MA
+            location_type: country
+        -
+            location_code: MZ
+            location_type: country
+        -
+            location_code: NA
+            location_type: country
+        -
+            location_code: NE
+            location_type: country
+        -
+            location_code: NG
+            location_type: country
+        -
+            location_code: RW
+            location_type: country
+        -
+            location_code: ST
+            location_type: country
+        -
+            location_code: SN
+            location_type: country
+        -
+            location_code: SC
+            location_type: country
+        -
+            location_code: SL
+            location_type: country
+        -
+            location_code: SO
+            location_type: country
+        -
+            location_code: ZA
+            location_type: country
+        -
+            location_code: SS
+            location_type: country
+        -
+            location_code: SD
+            location_type: country
+        -
+            location_code: SZ
+            location_type: country
+        -
+            location_code: TZ
+            location_type: country
+        -
+            location_code: TG
+            location_type: country
+        -
+            location_code: TN
+            location_type: country
+        -
+            location_code: UG
+            location_type: country
+        -
+            location_code: ZM
+            location_type: country
+        -
+            location_code: ZW
+            location_type: country
+    methods: {  }
+    
+wooship/9:
+    name: 'Middle East'
+    order: '0'
+    locations:
+        -
+            location_code: EG
+            location_type: country
+        -
+            location_code: BH
+            location_type: country
+        -
+            location_code: CY
+            location_type: country
+        -
+            location_code: IR
+            location_type: country
+        -
+            location_code: IQ
+            location_type: country
+        -
+            location_code: IL
+            location_type: country
+        -
+            location_code: JO
+            location_type: country
+        -
+            location_code: KW
+            location_type: country
+        -
+            location_code: LB
+            location_type: country
+        -
+            location_code: OM
+            location_type: country
+        -
+            location_code: PS
+            location_type: country
+        -
+            location_code: QA
+            location_type: country
+        -
+            location_code: SA
+            location_type: country
+        -
+            location_code: SY
+            location_type: country
+        -
+            location_code: AE
+            location_type: country
+        -
+            location_code: YE
+            location_type: country
+        -
+            location_code: TR
+            location_type: country
+    methods: {  }
+
+wooship/10:
+    name: 'Australia and Oceania'
+    order: '0'
+    locations:
+        -
+            location_code: AS
+            location_type: country
+        -
+            location_code: AU
+            location_type: country
+        -
+            location_code: CK
+            location_type: country
+        -
+            location_code: FJ
+            location_type: country
+        -
+            location_code: PF
+            location_type: country
+        -
+            location_code: GU
+            location_type: country
+        -
+            location_code: KI
+            location_type: country
+        -
+            location_code: MH
+            location_type: country
+        -
+            location_code: FM
+            location_type: country
+        -
+            location_code: NR
+            location_type: country
+        -
+            location_code: NC
+            location_type: country
+        -
+            location_code: NZ
+            location_type: country
+        -
+            location_code: NU
+            location_type: country
+        -
+            location_code: NF
+            location_type: country
+        -
+            location_code: MP
+            location_type: country
+        -
+            location_code: PG
+            location_type: country
+        -
+            location_code: PN
+            location_type: country
+        -
+            location_code: WS
+            location_type: country
+        -
+            location_code: SB
+            location_type: country
+        -
+            location_code: TK
+            location_type: country
+        -
+            location_code: TO
+            location_type: country
+        -
+            location_code: TV
+            location_type: country
+        -
+            location_code: VU
+            location_type: country
+        -
+            location_code: WF
             location_type: country
     methods: {  }
