@@ -8,7 +8,7 @@ Price: 59.90
 
 This drone has the ability to fly at 3 different speeds and also has an altitude control button so you can hold it steady if you want to take photographs or video. There is the option to turn off the led lights that are on the propeller arms to save battery power, although they are necessary at night to keep sight of your drone. Equipped with the Newest 6-Axis Gyro Control System, this quadcopter has the characteristics of stable flight and easy operation. The camera can support Wi-Fi real-time transmission for IOS or Android System. It is suitable for most cell phones.
 It is very easy to carry around with you in its folded state, with the wings and legs of the drone folded in. The drone is controlled by the included remote control which has all the controls required to do everything with this drone; it also includes a detachable phone holder so that you can record when flying. The built-in camera can be controlled by IOS/Android cell phone via the TOZO drone app which can be downloaded from the Q code on the box. There is a manual included which gives you basic instructions on how to do everything.
-The remote control is similar to a game controller, it is easy to hold and it has easy button controls. There is a one-button take-off and a one-button land that makes flying for a beginner very easy.
+The remote control is similar to a game controller, it is easy to hold and it has easy button controls. Featuring a one-button take-off and a one-button land, it makes flying very easy for a beginner.
 
 - 88% of the customers who bought the drone have rated it with 5 stars
 - Foldable Design - bring it anywhere, saves the space with folding size 122×94×57mm
@@ -22,12 +22,12 @@ The remote control is similar to a game controller, it is easy to hold and it ha
 
 Price:    20.33 
 
-Shake the ground with this menacing T. rex, featuring a dark-green and beige color scheme and bright orange eyes. Open its mouth to reveal razor-sharp teeth, position the huge claws and move its head and tail. This set also includes the remains of the T. rex’s latest prey. Rebuild to create other Mighty Dinosaurs. A powerful triceratops or a terrifying pterodactyl.
+Shake the ground with this menacing T. rex, featuring a dark-green and beige colour scheme and bright orange eyes. Open its mouth to reveal razor-sharp teeth, position the huge claws and move its head and tail. This set also includes the remains of the T. rex’s latest prey. Rebuild to create other Mighty Dinosaurs. A powerful triceratops or a terrifying pterodactyl.
 
 - Features a 3-in-1 T. rex with bright orange eyes, posable joints and head, large claws and an opening mouth with pointed teeth, also includes the dinosaur's prey in the form of a buildable rib cage
 - Stomp through the streets with the scary T. rex
 - Rebuild to create other Mighty Dinosaurs
-- Check out the authentic dark-green and beige color scheme
+- Check out the authentic dark-green and beige colour scheme
 - Pose the T. rex's arms, legs, tail, and head and open its mouth to reveal ferocious teeth
 
 ### Butterfly Garden by Insect Lore
@@ -44,12 +44,12 @@ Create a live butterfly garden. The Insect Lore butterfly habitat is a reusable,
 
 Price: 10.58
 
-Two matching games in one! Includes six different eggs with unique colors and shapes. Improves manual dexterity and promotes recognition of colors and shapes.
-TOMY hide and squeak eggs are a suitable way to develop your child's shape sorting and motor skills and they provide hours of playtime fun. Crack them open to reveal the brightly colored cheeky chicks. It's also a shape sorting game, matching egg bases to the correctly shaped holes in the box. Suitable for children aged 6 months and over.
+Two matching games in one! Includes six different eggs with unique colours and shapes. Improves manual dexterity and promotes recognition of colours and shapes.
+TOMY hide and squeak eggs are a suitable way to develop your child's shape sorting and motor skills and they provide hours of playtime fun. Crack them open to reveal the brightly coloured cheeky chicks. It's also a shape sorting game, matching egg bases to the correctly shaped holes in the box. Suitable for children aged 6 months and over.
 
 - Lots of shape sorting fun
 - Perfect for little hands
-- Promotes recognition of colors and shapes
+- Promotes recognition of colours and shapes
 
 ### Fairy Garden by My Fairy Garden
 
@@ -58,7 +58,7 @@ Price:    11.98
 Create and grow your own magical fairy garden with the Fairy Garden playset. Fairy Belle lives in the pretty fairy cottage with a glittery roof that is removable for easy play.
 Follow the activity guide to learn how to create a beautiful living fairy garden with the grass seeds provided.
 Fairy Garden is a Grow & Play play set that includes everything you need to make Fairy Belle and her mouse friend feel at home. Just add imagination and a little sprinkling of the fairy dust!
-Just one of the collectible My Fairy Garden kits available from Interplay. Recommended for ages 4 years and over.
+Just one of the collectable My Fairy Garden kits available from Interplay. Recommended for ages 4 years and over.
 
 - Includes a magical miniature cottage and a sprinkling of fairy dust
 - Follow the 12-page activity guide to learn how to construct your enchanted miniature cottage and beautiful living garden
@@ -92,11 +92,11 @@ Nickelodeon Slime products were chosen as a finalist for the coveted Toy of the 
 
 Price: 3.95
 
-Add a fun favorite to any kid's party bag with these Mini Party Bubbles. These kids bubbles come in assorted color bottles and are great for entertaining children at a birthday party, bubble party or outdoor picnic. Bubble bottles make easy party bag fillers and game prizes or can be used just for fun at almost any celebration!
+Add a fun favourite to any kid's party bag with these Mini Party Bubbles. These kids bubbles come in assorted colour bottles and are great for entertaining children at a birthday party, bubble party or outdoor picnic. Bubble bottles make easy party bag fillers and game prizes or can be used just for fun at almost any celebration!
 
 - Pack of 24 Mini Party Bubbles
 - Each Bubble Bottle contains 17ml (0.6 fluid oz) of bubble solution
-- Party Bubbles come in assorted color bottles and are capped with a built-in bubble wand
+- Party Bubbles come in assorted colour bottles and are capped with a built-in bubble wand
 - Easy and affordable party bag fillers, game prizes or fun activity at a kids birthday party, summer BBQ or outdoor wedding
 - Coordinate with other party bag fillers and party supplies from Unique Party.
 
@@ -104,12 +104,12 @@ Add a fun favorite to any kid's party bag with these Mini Party Bubbles. These k
 
 Price: 0.25
 
-One ultra colorful ball, also known as a jet-ball or high-bounce ball, with assorted designs and made of rubber-like material. This bounce-ball is great for filling loot bags and pinata. To make the party more fun and playful. Great Value For Money.
+One ultra colourful ball, also known as a jet-ball or high-bounce ball, with assorted designs and made of rubber-like material. This bounce-ball is great for filling loot bags and pinata. To make the party more fun and playful. Great Value For Money.
 Warning: Only for domestic use. To be used under the direct supervision of an adult.
 
 - Large 27mm
 - Super Bouncy Ball
-- Multicoulored
+- Multicoloured
 
 ## Card Games
 
@@ -117,7 +117,7 @@ Warning: Only for domestic use. To be used under the direct supervision of an ad
 
 Price:    19.99
 
-Exploding Kittens is a card game for people who are into kittens and explosions and laser beams and sometimes goats. In this highly-strategic, kitty-powered version of Russian Roulette, players draw cards until someone draws an Exploding Kitten, at which point they explode, they are dead, and they are out of the game, unless that player has a defuse card, which can defuse the Kitten using things like laser pointers, belly rubs, and catnip sandwiches. All of the other cards in the deck are used to move, mitigate, or avoid the Exploding Kittens. Exploding Kittens is the most-backed crowdfunded project ever, the most-funded game in the history of Kickstarter, and has paved the way for peace and tranquility in the modern world. Exploding Kittens is a card game for people who are into kittens and explosions and laser beams and sometimes goats. Family-friendly, party game for 2-5 players (up to 9 players when combined with any other deck). This is the most-backed project in Kickstarter history and all cards feature illustrations by The Oatmeal. 
+Exploding Kittens is a card game for people who are into kittens and explosions and laser beams and sometimes goats. In this highly-strategic, kitty-powered version of Russian Roulette, players draw cards until someone draws an Exploding Kitten, at which point they explode, they are dead, and they are out of the game, unless that player has a defuse card, which can defuse the Kitten using things like laser pointers, belly rubs, and catnip sandwiches. All of the other cards in the deck are used to move, mitigate, or avoid the Exploding Kittens. Exploding Kittens is the most-backed crowdfunded project ever, the most-funded game in the history of Kickstarter, and has paved the way for peace and tranquillity in the modern world. Exploding Kittens is a card game for people who are into kittens and explosions and laser beams and sometimes goats. A family-friendly, party game for 2-5 players (up to 9 players when combined with any other deck). This is the most-backed project in Kickstarter history and all cards feature illustrations by The Oatmeal. 
 Safety Warning: Not suitable for children under 36 months
 
 - Family-friendly, party game for 2-5 players (up to 9 players when combined with any other deck)
@@ -156,10 +156,10 @@ Cards Against Humanity is a party game for horrible people. Unlike most of the p
 Price: 10.99
 
 An ocean life inflatable pool (48" x 10") from Bestway includes 3 equal ring construction, repair patch, water capacity (75%) - 44 gal (167L). For ages 3 + years. Comes in a PVC bag with insert card.
-Bestway Ocean Life Pool is decorated with cute and colorful ocean critter graphics and is the perfect size for toddlers to enjoy a refreshing dip or splash. It’s also incredibly simple to set up. All that you need to do is inflate it and fill it with water!
+Bestway Ocean Life Pool is decorated with cute and colourful ocean critter graphics and is the perfect size for toddlers to enjoy a refreshing dip or splash. It’s also incredibly simple to set up. All that you need to do is inflate it and fill it with water!
 The circular pool wall consists of three equal inflatable rings. These greatly increase stability, reducing the risk of the sides buckling when children clamber in or out of the pool. The design also keeps water loss at a minimum so that the pool doesn’t have to be topped up every ten minutes. It’s a splashing first pool for youngsters!
 
-- Colorful Ocean Life children pool
+- Colourful Ocean Life children pool
 - 3 equal ring construction
 - Repair patch included
 - Easy assembly
@@ -173,7 +173,7 @@ Relax in your own garden? It is possible with this comfortable and comfortable i
 - Great family size pool with Built-in inflatable seats
 - 2x drinks holders, Pre-tested vinyl
 - Convenient drain plug-in floor
-- Folds compactly for traveling and storage
+- Folds compactly for travelling and storage
 
 ### Swim Centre Family Inflatable Pool by Intex
 
@@ -184,7 +184,7 @@ Maximum height to fill with water. Do not overfill. Not suitable for children un
 Use only in shallow water under adult supervision.
 
 - Two air chambers, each with double valve 
-- Capacity 749 liters 
+- Capacity 749 litres 
 - Suitable for children over 6 years
 - Fantastic, vibrant family pool
 
@@ -199,4 +199,4 @@ Warning: Not suitable for children under 3 years. To be used under the direct su
 - Two equal rings
 - Heavy duty repair patch included
 - Pool size: 2.69 m x 1.75 m x 51 cm (inflated)
-- Water capacity: 778 L (208 gal)
+- Water capacity: 778 L (208 gals)
