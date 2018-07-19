@@ -1,4 +1,4 @@
-# Jewelry Products
+# Jewellery Products
 
 ## Bracelets
 
@@ -6,14 +6,14 @@
 
 Price: 59
 
-The soft rose gold plated snake chain forms a brilliant and bold contemporary look. An adjustable sliding closure holds a Swarovski® cushion cut Indian sapphire colored stone and ensures a perfect fit. Stack and sparkle with other ADORE favorites. 
+The soft rose gold plated snake chain forms a brilliant and bold contemporary look. An adjustable sliding closure holds a Swarovski® cushion cut Indian sapphire coloured stone and ensures a perfect fit. Stack and sparkle with other ADORE favourites. 
 
 - Adjustable
 - Slide Clasp
 - Rose Gold Plated / Swarovski® Crystal
 - Packaged in ADORE Jewellery Pouch & Box 
     
-Variants: Rose Gold Plated with teal colored sapphire; Rhodium / Gold Plated with opalescent stone
+Variants: Rose Gold Plated with teal coloured sapphire; Rhodium / Gold Plated with opalescent stone
 
 ### Organic Circle Charm Bracelet, Rhodium/ Gold/ Rose Gold Plated  -  Adore Signature
 
@@ -38,7 +38,7 @@ All Hot Diamonds Products Are Perfectly Presented In Hot Diamonds Packaging With
 - Colour: Silver, White
 - Collection: Adorable
 - Theme: Anniversary, Birthday, Christmas, Mothers Day, Valentine’s Day
-- Jewelry Type: Bracelets
+- Jewellery Type: Bracelets
 - Material: Diamond, Silver, Zirconia
 
 Variant
@@ -50,7 +50,7 @@ Material: Diamond, Rose Gold Plated, Silver, Stone
 
 Price: 75
 
-The Serpentine Sterling Silver & Pink Opal Gemstone Bracelet will add a modern London feel to your daily style. Featuring three exquisite pink opal gems along an adjustable silver chain, creating a bespoke finish. Its unique curved design makes it an extra special piece that is ideal for evening wear or delicate bridal jewelry. 
+The Serpentine Sterling Silver & Pink Opal Gemstone Bracelet will add a modern London feel to your daily style. Featuring three exquisite pink opal gems along an adjustable silver chain, creating a bespoke finish. Its unique curved design makes it an extra special piece that is ideal for evening wear or delicate bridal jewellery. 
 
 - Adjustable stations: 15cm, 17cm and 19cm
 - Material: Sterling Silver
@@ -71,7 +71,7 @@ Price: 100
 
 Price: 75
 
-The Serpentine Sterling Silver & Pink Opal Gemstone Necklace will become the highlight of your silver jewelry collection. Simple yet distinctive its bespoke design features an eye-catching pink opal gemstone encased in a sleek silver curved motif. Featuring an adjustable silver chain and the powerful healing stone associated with good luck it is an ideal gift, and a perfect addition to bridal jewelry.
+The Serpentine Sterling Silver & Pink Opal Gemstone Necklace will become the highlight of your silver jewellery collection. Simple yet distinctive its bespoke design features an eye-catching pink opal gemstone encased in a sleek silver curved motif. Featuring an adjustable silver chain and the powerful healing stone associated with good luck it is an ideal gift, and a perfect addition to bridal jewellery.
 
 - Adjustable stations: 39cm, 41cm, 43cm and 45cm. 
 - Material: Sterling Silver
@@ -165,7 +165,7 @@ Crafted from stunning sterling silver and rose gold plate, this ring from the Dr
 - Colour: Rose Gold, Silver
 - Collection: Droplet 
 - Theme: Anniversary, Birthday, Christmas
-- Jewelry Type: Rings
+- Jewellery Type: Rings
 - Material: Diamond, Rhodium Plated, Rose Gold Plated, Silver 
 
 ### Blossom Ring - The Hot Diamonds Collection
@@ -174,12 +174,12 @@ Price: 75
 
 Inspired by nature, the Blossom collection includes this stunning sterling silver and rose gold ring shaped in the form of a flowers delicate petals. The Blossom Ring is graciously adorned with a real one point diamond and is available in sizes K-S. 
 Hot Diamonds are beautifully crafted from Sterling Silver and are always adorned with at least one real diamond. The perfect accessory to any outfit.
-All jewelry will come beautifully packaged in branded gift box and bag.
+All jewellery will come beautifully packaged in branded gift box and bag.
 
 - Colour: Rose Gold, Silver
 - Collection: Blossom
 - Theme: Anniversary, Birthday, Christmas, Mother’s Day
-- Jewelry Type: Rings
+- Jewellery Type: Rings
 - Material: Diamond, Rhodium Plated, Rose Gold Plated, Silver 
     
 Variants: different sizes (K,L,M,N,O,P,Q,R,S)
@@ -188,13 +188,13 @@ Variants: different sizes (K,L,M,N,O,P,Q,R,S)
 
 Price: 79 
 
-A lavish brilliant ring from CARAT* LONDON featuring a stunning arrangement of gemstones crafted from sterling silver. CARAT* LONDON blends timeless glamour with modern day wearability to deliver luxuriously fine jewelry.
-CARAT* LONDON* is the Official jewelry partner of the British Academy Television Awards and is loved and worn by celebrities worldwide.
-This vintage-inspired ring features a cluster of Round Brilliant and Marquise cut stones. Wear this as your everyday favorite.
+A lavish brilliant ring from CARAT* LONDON featuring a stunning arrangement of gemstones crafted from sterling silver. CARAT* LONDON blends timeless glamour with modern day wearability to deliver luxuriously fine jewellery.
+CARAT* LONDON* is the Official jewellery partner of the British Academy Television Awards and is loved and worn by celebrities worldwide.
+This vintage-inspired ring features a cluster of Round Brilliant and Marquise cut stones. Wear this as your everyday favourite.
 
 - Metal type: Sterling Silver
 - Stone shape: Marquise
-- Stone color: Diamond White
+- Stone colour: Diamond White
     
 Variants: different sizes (F 0.554 inches, H 0.586 inches, J 0.618 inches, L 0.65 inches)
 
@@ -235,7 +235,7 @@ Specification:
 
 Price: 195
 
-Find yourself a lucky charm with this pair of dazzling Ascot Diamond Essentials Sterling Silver Horseshoe earrings. Elegantly crafted in sterling silver and complemented with glistening pavé diamonds, these earrings are perfect for everyday wear. Live and relive the glamorous experience of race day events with a jewelry keepsake that will last for years to come.
+Find yourself a lucky charm with this pair of dazzling Ascot Diamond Essentials Sterling Silver Horseshoe earrings. Elegantly crafted in sterling silver and complemented with glistening pavé diamonds, these earrings are perfect for everyday wear. Live and relive the glamorous experience of race day events with a jewellery keepsake that will last for years to come.
 
 - Material: Sterling Silver
 - Gemstone: Diamond
@@ -256,7 +256,7 @@ Price: 225
 
 Price: 29
 
-Remember the wedding of Prince William to Kate Middleton with these stunning royal blue stud earrings. Inspired by the engagement ring originally worn by Princess Diana this enchanting set will allow you to commemorate this historic occasion in style. Each piece contains a delightful hand set sapphire simulant as its centerpiece exquisitely framed by up to 14 pristine handset cubic zirconias, a high-quality addition to any jewelry collection. 
+Remember the wedding of Prince William to Kate Middleton with these stunning royal blue stud earrings. Inspired by the engagement ring originally worn by Princess Diana this enchanting set will allow you to commemorate this historic occasion in style. Each piece contains a delightful hand set sapphire simulant as its centrepiece exquisitely framed by up to 14 pristine handset cubic zirconias, a high-quality addition to any jewellery collection. 
 
 - Packaged in a Buckley London gift box
 - Measure 10 x 12mm
