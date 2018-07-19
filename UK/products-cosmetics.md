@@ -6,7 +6,7 @@ Translations of the products go into the country's localization folder.
 
 Price: 9.99
 
-Maybelline Super Stay® Full Coverage Foundation delivers 24-hour wear for concentrated coverage and a flawless finish that doesn't fade or shift all day. Saturated color pigments provide an ultra-transforming effect in this long-lasting foundation. The lightweight, yet high-impact coverage formula glides onto the skin for a flawless makeup finish that lasts all day. Oil-free. Doesn't clog pores. Dermatologist tested. 
+Maybelline Super Stay® Full Coverage Foundation delivers 24-hour wear for concentrated coverage and a flawless finish that doesn't fade or shift all day. Saturated colour pigments provide an ultra-transforming effect in this long-lasting foundation. The lightweight, yet high-impact coverage formula glides onto the skin for a flawless makeup finish that lasts all day. Oil-free. Doesn't clog pores. Dermatologist tested. 
 
 - Finish: Soft matte
 - Lightweight hi-pigment coverage
@@ -23,7 +23,7 @@ Variants
 
 Price: 24.99 
 
-Ever wish your fave eyeshadows came in every finish imaginable? Live the dream with the Ultimate Multi-Finish Shadow Palette in your kit. Available in four tone-inspired color combinations, these pro-level palettes are packed with 12 high-performance eyeshadows and pressed pigments. Each new set features a hand-picked selection of four vibrant shades in three mesmerizing finishes-from matte, to shimmer and sparkly metallic. 
+Ever wish your fave eyeshadows came in every finish imaginable? Live the dream with the Ultimate Multi-Finish Shadow Palette in your kit. Available in four tone-inspired colour combinations, these pro-level palettes are packed with 12 high-performance eyeshadows and pressed pigments. Each new set features a hand-picked selection of four vibrant shades in three mesmerizing finishes-from matte, to shimmer and sparkly metallic. 
 
 - Shade tones: Warm Neutrals
 - 12 Shades
@@ -36,14 +36,14 @@ Variants
 ### OPI Nail Lacquer / Polish, The Thrill of Brazil, 15 ml
 
 Price: 13.50
-OPI nail lacquer is setting the industry standard as the most successful professional brand, earning recognition across the globe. The Classics are a collection of our best-selling lacquers in over 100 fashion-forward colours. Nail lacquer is the original nail polish formula that reinvented quality nail color, your top choice if you enjoy updating your manicure weekly.
+OPI nail lacquer is setting the industry standard as the most successful professional brand, earning recognition across the globe. The Classics are a collection of our best-selling lacquers in over 100 fashion-forward colours. Nail lacquer is the original nail polish formula that reinvented quality nail colour, your top choice if you enjoy updating your manicure weekly.
 
 Benefits: Exceptional high gloss finish, with the super-rich, chip resistant, long-lasting colour, from a professional formula.
 Suggested Use: Prepare nails with OPI Natural Base Coat, apply 2 coats of lacquer using a ProWide brush and seal with OPI Top Coat.
 Awards: Sunday Times Style Beauty Awards 2015. Best Beauty Awards 2015.
 
 - For the red-obsessed.
-- Vibrant color for summer fun.
+- Vibrant colour for summer fun.
 - Made in the USA.
 
 ### MAC Lustre Lipstick Patisserie
@@ -55,7 +55,7 @@ A lightweight Lipstick formula with easy glide, sheer-to-medium buildable covera
 - Ingredients: Please refer to packaging, ingredients may vary by finish and shade.
 - Volume: 3g
 
-### Estée Lauder Revitalizing Supreme+, Global Anti-Aging Instant Refinishing Facial, 75ml
+### Estée Lauder Revitalizing Supreme+, Global Anti-Ageing Instant Refinishing Facial, 75ml
 
 Price: 82.99
 
@@ -70,14 +70,14 @@ This high-performance exfoliating treatment sweeps away dry, dulling surface cel
 Price: 104.99
 
 Powerful nighttime renewal for radiant, youthful-looking skin. Instantly adds radiance. Intensely hydrates.
-Advanced Night Repair significantly reduces the look of key signs of aging.
+Advanced Night Repair significantly reduces the look of key signs of ageing.
 
 It maximizes the power of skin's natural nighttime renewal with our exclusive ChronoluxCB™ Technology. Also includes Hyaluronic Acid, nature’s “moisture magnet,” to help lock in moisture.
 
 Lines and wrinkles look significantly reduced. More than 75% of women felt their skin looked more youthful in just 4 weeks. Skin feels smoother, hydrated, stronger. 82% felt their skin was immediately hydrated. Skin looks younger, radiant, more even toned. 83% felt their skin looked healthier, fresher, more rested in just 4 weeks.
 
 Ideal for:
-- multiple signs of aging
+- multiple signs of ageing
 - visible age prevention
 - dryness, dehydration
 - lines and wrinkles
@@ -134,11 +134,11 @@ Key ingredients:
 - Tree Mushroom Extract - Tightens pores and refines skin texture
 - Vitamin E - Softens and protects the skin’s lipid barrier for healthy looking skin
 
-### Laura Geller - Hollywood Blushing baked blush trio
+### Laura Geller - Hollywood Blushing Baked Blush Trio
 
 Price: 25
 
-Laura Geller’s best-selling blush favorites packed in one travel-friendly palette. Four beautiful, universally-flattering shades of pink, peach, warm rose, and bronze so you can handle pale winter skin like a star! One sweep seamlessly blends color for a camera-ready glow that’s close-up approved. 
+Laura Geller’s best-selling blush favourites packed in one travel-friendly palette. Four beautiful, universally-flattering shades of pink, peach, warm rose, and bronze so you can handle pale winter skin like a star! One sweep seamlessly blends colour for a camera-ready glow that’s close-up approved. 
 - easy to use, offering buttery blending and a natural-looking finish
 - the heavenly hues (left to right) start with ‘Pink Grapefruit’, a mauve-beige tone sublimely streaked with shimmering pink
 - next up, ‘Bora Bora’ (which also features a ‘Maui Lip’ imprint) combines pearlescent peach-pink with an opalescent, tawny rose heart
@@ -158,7 +158,7 @@ Olay Regenerist Eye Lifting Serum is specifically designed to treat the delicate
 - Exfoliates smoothes and brightens
 - Fast-absorbing, fragrance-free formula with Amino-Peptide-Complex
 
-### Olay luminous advanced tone perfecting micellar water
+### Olay Luminous Advanced Tone Perfecting Micellar Water
 
 Price: 6
 
@@ -167,10 +167,10 @@ Effortlessly cleanse, hydrate and brighten the look of your skin tone with Olay 
 - It’s formulated with rice bran and aloe extract, and gently sweeps away impurities
 - Leaves skin looking brightened, evenly toned and feeling refreshed
 - Hydrates skin with micellar water for a luminous, healthy-looking and youthful glow
-- Lightweight and won’t leave oily residue on the skin for a smooth and conditioned complexion
-- With a convenient and mess-free pump, this makeup remover is simple to use, requires no rinsing afterward.
+- Lightweight and won’t leave an oily residue on the skin for a smooth and conditioned complexion
+- With a convenient and mess-free pump, this makeup remover is simple to use, requires no rinsing afterwards.
 
-### Olay regenerist luminous overnight mask, 130 ml
+### Olay Regenerist Luminous Overnight Mask, 130 ml
 
 Price: 28.11
 
@@ -189,10 +189,10 @@ Price: 17.71
 
 Reveal brighter, younger looking eyes with Olay Eyes Illuminating Eye Cream.
 This daily treatment cream is specifically designed for the delicate skin around the eye area.
-The skin under the eye is so delicate and thin that it loses moisture 50 percent faster than any other area of the face, therefore showing one's age more than any other area. 
+The skin under the eye is so delicate and thin that it loses moisture 50% faster than any other area of the face, therefore showing one's age more than any other area. 
  In a study where 200 women were assessed for their visible age, those who had poor under eye skin were judged to look 15-35 years older than they actually were. 
 
-- Reduces the appearance of dark circles and discoloration under the eyes
+- Reduces the appearance of dark circles and discolouration under the eyes
 - Instantly minimises tired-looking eyes to reflect a luminous glow
 - Hydrates to nourish under eye area for younger looking eyes
 - Distinctive dual-swirl gel and cream brightening formula with light reflecting particles
