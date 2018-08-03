@@ -4,7 +4,7 @@
 
 ### First Man In: Leading from the Front by Ant Middleton - Hardcover
 
-Price: £10.00
+Price: 10.00
 
 No one is a born leader. But through sheer determination and by confronting life’s challenges, Ant Middleton has come to know the meaning of true leadership. In First Man In, he shares the core lessons he’s learned over the course of his fascinating, exhilarating life.
 After 13 years service in the military, with 4 years as a Special Boat Service (SBS) sniper, Ant Middleton is the epitome of what it takes to excel. He served in the SBS, the naval wing of the special forces, the Royal Marines and 9 Parachute Squadron Royal, achieving what is known as the ‘Holy Trinity’ of the UK’s Elite Forces. As a point man in the SBS, Ant was always the first man through the door, the first man into the dark, and the first man in harm’s way. 
@@ -15,7 +15,7 @@ After 13 years service in the military, with 4 years as a Special Boat Service (
 
 ### This is Going to Hurt: Secret Diaries of a Junior Doctor by Adam Kay - Paperback
 
-Price: £3.75
+Price: 3.75
 
 Welcome to the life of a junior doctor: 97-hour weeks, life and death decisions, a constant tsunami of bodily fluids, and the hospital parking meter earns more than you.
 Scribbled in secret after endless days, sleepless nights and missed weekends, Adam Kay's This is Going to Hurt provides a no-holds-barred account of his time on the NHS front line. Hilarious, horrifying and heartbreaking, this diary is everything you wanted to know – and more than a few things you didn't – about life on and off the hospital ward.
@@ -28,7 +28,7 @@ Scribbled in secret after endless days, sleepless nights and missed weekends, Ad
 
 ### You Are Awesome: Find Your Confidence and Dare to be Brilliant at (Almost) Anything by Matthew Syed - Paperback
 
-Price: £4.99
+Price: 4.99
 
 A very funny and inspiring read! Brilliantly practical with a wide variety of examples that make it relevant for both boys and girls (and adults). This positive and empowering guide, by bestselling mindset author Matthew Syed, will help boys and girls build resilience, fulfil their potential and become successful, happy, awesome adults.
 If you believe you can't do something, the chances are you won't try. But what if you really could get better at maths, or sport or exams? In fact, what if you could excel at anything you put your mind to?
@@ -40,7 +40,7 @@ Practical, insightful and positive, this is the book to help children build resi
 
 ### Notes on a Nervous Planet by Matt Haig - Hardcover
 
-Price: £9.35
+Price: 9.35
 
 Notes on a Nervous Planet is a fascinating look at the link between anxiety and the world we live in. Matt Haig has written really something rather special here – the definitive user manual for your own head. It’s a self-help book that – unusually for the genre – talks in sensible, practical terms, not in vague aphorisms and allegories. Recommended for anyone who’s ever wobbled, and that’s all of us.
 Haig’s bestseller Reasons to Stay Alive was an engaging self-help memoir which mined personal trauma for valuable life lessons. This follow-up is a rag-bag of personal experience, thoughts, and feelings. Some thought-provoking, some pertinent and important. He’s a smart operator who knows his readership and genuinely wants to help them
@@ -51,7 +51,7 @@ After experiencing years of anxiety and panic attacks, these questions became ur
 
 ### 12 Rules for Life: An Antidote to Chaos by Jordan B. Peterson - Hardcover
 
-Price: £11.79
+Price: 11.79
 
 Renowned psychologist Jordan B Peterson’s answer to this most difficult of questions uniquely combines the hard-won truths of ancient tradition with the stunning revelations of cutting-edge scientific research.
 Dr. Peterson tells us why skateboarding boys and girls must be left alone, what terrible fate awaits those who criticize too easily and why you should always pet a cat when you meet one on the street. What does the nervous system of the lowly lobster have to tell us about standing up straight (with our shoulders back) and success in life? Why did ancient Egyptians worship the capacity to pay careful attention as the highest of gods? What dreadful paths do people tread when they become resentful, arrogant and vengeful?
@@ -63,7 +63,7 @@ Dr. Peterson tells us why skateboarding boys and girls must be left alone, what 
 
 ### Eleanor Oliphant is Completely Fine by Gail Honeyman - Paperback
 
-Price: £4.49
+Price: 4.49
 
 Eleanor Oliphant leads a simple life. She wears the same clothes to work every day, eats the same meal deal for lunch every day and buys the same two bottles of vodka to drink every weekend.
 Eleanor Oliphant is happy. Nothing is missing from her carefully timetabled life. Except, sometimes, everything.
@@ -76,7 +76,7 @@ One simple act of kindness is about to shatter the walls Eleanor has built aroun
 
 ### Little Fires Everywhere by Celeste Ng, The New York Times Top Ten Bestseller - Paperback
 
-Price: £5.99
+Price: 5.99
 
 From the bestselling author of Everything I Never Told You, a riveting story that traces the intertwined fates of the picture-perfect Richardson family and the enigmatic mother and daughter who upend their lives.
 This is a book that believes in the transformative powers of art and genuine kindness — and in the promise of new growth, even after devastation, even after everything has turned to ash
@@ -89,7 +89,7 @@ A finely wrought meditation on the nature of motherhood, the dangers of privileg
 
 ### The Keeper of Lost Things by Ruth Hogan, winner of the Richard & Judy Readers' Award - Paperback
 
-Price: £6.20
+Price: 6.20
 
 Once a celebrated author of short stories now in his twilight years, Anthony Peardew has spent half his life lovingly collecting lost objects, trying to atone for a promise broken many years before.
 Realising he is running out of time, he leaves his house and all its lost treasures to his assistant Laura, the one person he can trust to fulfil his legacy and reunite the thousands of objects with their rightful owners.
@@ -102,7 +102,7 @@ With an unforgettable cast of characters that includes young girls with special 
 
 ### Close to Home by Cara Hunter, Richard & Judy Book Club thriller pick 2018 - Paperback
 
-Price:£3.99
+Price:3.99
 
 Someone took Daisy Mason. Someone YOU KNOW.
 Last night, 8-year-old Daisy Mason disappeared from her parents’ summer party. No one in the quiet suburban street saw anything – or at least that’s what they’re saying. DI Adam Fawley is trying to keep an open mind. But he knows that nine times out of ten, it’s someone the victim knew. That means someone is lying. And that Daisy’s time is running out…
@@ -114,7 +114,7 @@ Introducing DI Fawley and his team of Oxford detectives, CLOSE TO HOME is a puls
 
 ### The Tattooist of Auschwitz by Heather Morris, the heart-breaking and unforgettable international bestseller - Kindle Edition
 
-Price: £2.63
+Price: 2.63
 
 In 1942, Lale Sokolov arrived in Auschwitz-Birkenau. He was given the job of tattooing the prisoners marked for survival - scratching numbers into his fellow victims' arms in indelible ink to create what would become one of the most potent symbols of the Holocaust. 
 Waiting in line to be tattooed, terrified and shaking, was a young girl. For Lale - a dandy, a jack-the-lad, a bit of a chancer - it was love at first sight. And he was determined not only to survive himself but to ensure this woman, Gita, did, too.
@@ -126,7 +126,7 @@ Waiting in line to be tattooed, terrified and shaking, was a young girl. For Lal
 
 ### Where's the Unicorn?: A Magical Search-and-Find Book by Sophie Schrey, Jonny Marx, Paul Moran - Paperback
 
-Price:£5.13
+Price:5.13
 
 Where's the Unicorn? is set to thrill puzzle fans with its fiendishly difficult brainteasers. Follow a colourful blessing of globetrotting unicorns as they gallop around the world on an incredible whistle-stop tour. 
 From a star-studded film premiere and a flamboyant festival to a wild safari adventure and a beautiful tropical beach, there are 17 intricately illustrated scenes to search, and seven sensational unicorns to spot in every location.
@@ -137,7 +137,7 @@ From a star-studded film premiere and a flamboyant festival to a wild safari adv
 
 ### The World’s Worst Children 3 by David Walliams - Hardcover
 
-Price: £6.49
+Price: 6.49
 
 From the phenomenal number-one bestseller David Walliams comes another collection of more hilariously horrible children! Illustrated in glorious and gruesome colour by artist genius, Tony Ross, these stories will appeal and delight young readers.
 Just when you thought it was safe to go back to your bookshelf, 10 more horrendously hilarious stories about the absolute worst children ever! From ten-year-old Hank and his endless pranks on his poor, long-suffering family, to Tandy and her titanic tantrums – this brand new collection is the perfect companion to World’s Worst Children books 1 and 2 and an ideal gift for the worst children in your life!
@@ -151,7 +151,7 @@ Just when you thought it was safe to go back to your bookshelf, 10 more horrendo
 
 ### 5 Ingredients - Quick & Easy Food by Jamie Oliver, The UK edition - Hardcover
 
-Price: £16.90
+Price: 16.90
 
 Jamie Oliver returns with the second series, focussing on easy family-centric cooking. This is Oliver stripped back-to-basics and all the better for it as he presents a series of simple but tasty recipes. If you're short of time, you can create a tasty meal in no time.
 Even the busiest of us will be able to master dishes to bring the house down. With just FIVE ingredients that have maximum flavour and minimum fuss, you'll be cooking exciting food that's ready in less than 30 minutes.
@@ -163,7 +163,7 @@ Even the busiest of us will be able to master dishes to bring the house down. Wi
 
 ### Sapiens: A Brief History of Humankind by Yuval Noah Harari - Paperback
 
-Price: £6.99
+Price: 6.99
 
 Seventy thousand years ago, there were at least six different human species on earth. They were insignificant animals, whose ecological impact was less than that of fireflies or jellyfish. Today, there is only one human species left: Us. Homo sapiens. But we rule this planet.
 Sapiens, the book, takes us on a breath-taking ride through our entire human history to uncover why we are the way we are.
@@ -171,7 +171,3 @@ Sapiens focuses on key processes that shaped humankind and the world around it, 
 
 - A walk through the human history from its evolutionary roots to the age of capitalism and genetic engineering
 - A multi-disciplinary approach to our evolution and its effects
-
-
-
-
