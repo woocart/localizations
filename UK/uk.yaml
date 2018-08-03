@@ -53,7 +53,7 @@ wootax/1: # Standard rate
     country: UK
     state: ''
     rate: '20.0000'
-    name: vAT # Translate
+    name: VAT # Translate
     priority: '1'
     compound: '0'
     shipping: '0'
@@ -64,7 +64,7 @@ wootax/2: # Reduced rate
     country: UK
     state: ''
     rate: '5.0000'
-    name: Tax# Translate
+    name: VAT # Translate
     priority: '1'
     compound: '0'
     shipping: '0'
@@ -75,7 +75,7 @@ wootax/3: # Zero rate
     country: UK
     state: ''
     rate: '0.0000'
-    name: Tax # Translate
+    name: VAT # Translate
     priority: '1'
     compound: '0'
     shipping: '0'
