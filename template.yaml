@@ -9,13 +9,6 @@ WPLANG: '' # WordPress Locale Codes: https://wpastra.com/docs/complete-list-word
 woo/woocommerce_weight_unit: 'kg' # Measurements weight unit kg, g, lbs, oz
 woo/woocommerce_dimension_unit: 'cm' # Measurements dimension unit m, cm, mm, in, yd
 
-# WooCommerce Permalinks
-woo/woocommerce_permalinks:
-    product_base: '/shop' # Custom base
-    category_base: 'product-category' # Product category base
-    tag_base: 'product-tag' # Product tag base
-    attribute_base: '' # Product attribute base
-
 # Privacy Policy -  Checkout privacy policy
 woo/woocommerce_checkout_privacy_policy_text: "Your personal data will be used to process your order, support your experience throughout this website, and for other purposes described in our [privacy_policy]." # Translate
 
