@@ -31,7 +31,7 @@ woo/woocommerce_price_num_decimals: '2' # Number of decimals
 
 # Payments - Direct bank transfer
 woo/woocommerce_bacs_settings:
-    enabled: 'yes'
+    enabled: 'yes' # Enable when it's a common payment method
     title: 'Direct bank transfer' # Translate
     description: 'Make your payment directly into our bank account.' # Translate
     instructions: 'Please use your Order ID as the payment reference. Your order will not be shipped until the funds have cleared in our account.' # Translate
@@ -45,7 +45,7 @@ woo/woocommerce_bacs_settings:
 
 # Payments -  Cash on delivery
 woo/woocommerce_cod_settings:
-    enabled: 'yes'
+    enabled: 'yes' # Enable when it's a common payment method
     title: 'Cash on delivery' # Translate
     description: 'Pay with cash upon delivery.' # Translate
     instructions: 'Pay with cash upon delivery.' # Translate
