@@ -66,18 +66,18 @@ wootax/1: # Standard rate
     compound: '0'
     shipping: '0'
     order: '0'
-    class: ''
+    class: 'standard-rate'
     locations: {  }
 wootax/2: # Reduced rate
     country: LL
     state: ''
     rate: '10.0000'
-    name: Tax# Translate
+    name: Tax # Translate
     priority: '1'
     compound: '0'
     shipping: '0'
     order: '0'
-    class: reduced-rate
+    class: 'reduced-rate'
     locations: {  }
 wootax/3: # Zero rate
     country: LL
@@ -88,5 +88,5 @@ wootax/3: # Zero rate
     compound: '0'
     shipping: '0'
     order: '1'
-    class: reduced-rate
+    class: 'zero-rate'
     locations: {  }
