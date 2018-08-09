@@ -9,41 +9,12 @@ WPLANG: '' # WordPress Locale Codes: https://wpastra.com/docs/complete-list-word
 woo/woocommerce_weight_unit: 'kg' # Measurements weight unit kg, g, lbs, oz
 woo/woocommerce_dimension_unit: 'cm' # Measurements dimension unit m, cm, mm, in, yd
 
-# Privacy Policy -  Checkout privacy policy
-woo/woocommerce_checkout_privacy_policy_text: 'Your personal data will be used to process your order, support your experience throughout this website, and for other purposes described in our [privacy_policy].' # Translate
-
-# Privacy Policy - Registration privacy policy
-woo/woocommerce_registration_privacy_policy_text: 'Your personal data will be used to support your experience throughout this website, to manage access to your account, and for other purposes described in our [privacy_policy].' # Translate
-
 # Currency options
 woo/woocommerce_currency: 'LLL' # Currency
 woo/woocommerce_currency_pos: 'right_space' # Currency position: left, left_space, right, right_space
 woo/woocommerce_price_thousand_sep: '.' # Thousand separator
 woo/woocommerce_price_decimal_sep: ',' # Decimal separator
 woo/woocommerce_price_num_decimals: '2' # Number of decimals
-
-# Payments - Direct bank transfer
-woo/woocommerce_bacs_settings:
-    enabled: 'yes' # Enable when it's a common payment method
-    title: 'Direct bank transfer' # Translate
-    description: 'Make your payment directly into our bank account.' # Translate
-    instructions: 'Please use your Order ID as the payment reference. Your order will not be shipped until the funds have cleared in our account.' # Translate
-    account_name: ''
-    account_number: ''
-    sort_code: ''
-    bank_name: ''
-    iban: ''
-    bic: ''
-    account_details: ''
-
-# Payments -  Cash on delivery
-woo/woocommerce_cod_settings:
-    enabled: 'yes' # Enable when it's a common payment method
-    title: 'Cash on delivery' # Translate
-    description: 'Pay with cash upon delivery.' # Translate
-    instructions: 'Pay with cash upon delivery.' # Translate
-    enable_for_methods: ''
-    enable_for_virtual: 'no'
 
 # Tax - B2C
 woo/woocommerce_prices_include_tax: 'yes' # Prices entered with tax
@@ -90,3 +61,32 @@ wootax/3: # Zero rate
     order: '1'
     class: 'zero-rate'
     locations: {  }
+
+# Payments - Direct bank transfer
+woo/woocommerce_bacs_settings:
+    enabled: 'yes' # Enable when it's a common payment method
+    title: 'Direct bank transfer' # Translate
+    description: 'Make your payment directly into our bank account.' # Translate
+    instructions: 'Please use your Order ID as the payment reference. Your order will not be shipped until the funds have cleared in our account.' # Translate
+    account_name: ''
+    account_number: ''
+    sort_code: ''
+    bank_name: ''
+    iban: ''
+    bic: ''
+    account_details: ''
+
+# Payments -  Cash on delivery
+woo/woocommerce_cod_settings:
+    enabled: 'yes' # Enable when it's a common payment method
+    title: 'Cash on delivery' # Translate
+    description: 'Pay with cash upon delivery.' # Translate
+    instructions: 'Pay with cash upon delivery.' # Translate
+    enable_for_methods: ''
+    enable_for_virtual: 'no'
+
+# Privacy Policy -  Checkout privacy policy
+woo/woocommerce_checkout_privacy_policy_text: 'Your personal data will be used to process your order, support your experience throughout this website, and for other purposes described in our [privacy_policy].' # Translate
+
+# Privacy Policy - Registration privacy policy
+woo/woocommerce_registration_privacy_policy_text: 'Your personal data will be used to support your experience throughout this website, to manage access to your account, and for other purposes described in our [privacy_policy].' # Translate
