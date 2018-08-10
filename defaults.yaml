@@ -1,6 +1,8 @@
 # WordPress
 fresh_site: '0' # Remove new WordPress notifications
 default_role: 'customer' # New User Default Role
+default_comment_status: 'closed' # Allow comments
+default_ping_status: 'closed' # Allow pingbacks
 users_can_register: '0' # WordPress registration, not recommended for stores.
 show_on_front: 'page' # Your homepage displays
 avatar_default: 'gravatar_default'
