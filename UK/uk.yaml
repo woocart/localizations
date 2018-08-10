@@ -17,6 +17,7 @@ woo/woocommerce_price_decimal_sep: ',' # Decimal separator
 woo/woocommerce_price_num_decimals: '2' # Number of decimals
 
 # Tax rates
+woo/woocommerce_tax_classes: 'Reduced rate\nZero rate' # If more than one reduced rate add '\nReduced rate 2'
 wootax/1: # Standard rate
     country: UK
     state: ''
