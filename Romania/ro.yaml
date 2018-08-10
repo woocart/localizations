@@ -1,6 +1,6 @@
 # Local Standards
-woo/woocommerce_default_country: 'RO:AB'
-date_format: 'd/m/Y' # "d/m/Y", "Y-m-d", "F j, Y" for January 1, 2020
+woo/woocommerce_default_country: 'RO'
+date_format: 'd/m/Y' # "d/m/Y", "Y-m-d", "F j, Y" for December 1, 2020
 time_format: 'H:i' # "H:i" for 24-hour clock, "g:i A" for 12-hour clock
 start_of_week: '1' # 1= Monday, 7=Sunday
 timezone_string: 'Europe/Bucharest' # Timezone string https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
@@ -9,21 +9,8 @@ WPLANG: 'ro_RO' # WordPress Locale Codes: https://wpastra.com/docs/complete-list
 woo/woocommerce_weight_unit: 'kg' # Measurements weight unit kg, k, lbs, oz
 woo/woocommerce_dimension_unit: 'cm' # Measurements dimension unit m, cm, mm, in, yd
 
-# WooCommerce Permalinks
-woo/woocommerce_permalinks:
-    product_base: '/shop' # Custom base
-    category_base: 'product-category' # Product category base
-    tag_base: 'product-tag' # Product tag base
-    attribute_base: '' # Product attribute base
-
-# Privacy Policy -  Checkout privacy policy
-woo/woocommerce_checkout_privacy_policy_text: "Your personal data will be used to process your order, support your experience throughout this website, and for other purposes described in our [privacy_policy]." # TODO Translate
-
-# Privacy Policy - Registration privacy policy
-woo/woocommerce_registration_privacy_policy_text: 'Your personal data will be used to support your experience throughout this website, to manage access to your account, and for other purposes described in our [privacy_policy].' # TODO Translate
-
 # Currency options
-woo/woocommerce_currency: 'RON' # Currency
+woo/woocommerce_currency: 'RON' # Currency code https://www.iban.com/currency-codes.html
 woo/woocommerce_currency_pos: 'right_space' # Currency position: left, left_space, right, right_space
 woo/woocommerce_price_thousand_sep: '.' # Thousand separator
 woo/woocommerce_price_decimal_sep: ',' # Decimal separator
@@ -52,18 +39,8 @@ woo/woocommerce_cod_settings:
     enable_for_methods: ''
     enable_for_virtual: 'no'
 
-# Tax - B2C
-woo/woocommerce_prices_include_tax: 'yes' # Prices entered with tax
-woo/woocommerce_tax_based_on: 'billing' # Tax based on shipping or billing address
-woo/woocommerce_tax_round_at_subtotal: 'no' # Round tax at subtotal level, instead of rounding per line
-woo/woocommerce_tax_classes: 'Reduced rate\nZero rate' # Additional rates
-woo/woocommerce_tax_display_shop: 'incl' # Display prices in the shop
-woo/woocommerce_tax_display_cart: 'incl' # Display prices during basket and checkout 
-woo/woocommerce_shipping_tax_class: 'zero-rate' # "inherit" based on cart, "standard", "reduced-rate" or "zero-rate"
-woo/woocommerce_price_display_suffix: '' # Price display suffix, text to show after your prices
-woo/woocommerce_tax_total_display: 'itemized' # Display tax totals
-
 # Tax rates
+woo/woocommerce_tax_classes: 'Reduced rate\nReduced rate 2\nZero rate' # Additional rates
 wootax/1: # Standard rate
     country: RO
     state: ''
@@ -73,7 +50,7 @@ wootax/1: # Standard rate
     compound: '0'
     shipping: '0'
     order: '0'
-    class: ''
+    class: 'standard-rate'
     locations: {  }
 wootax/2: # Reduced rate
     country: RO
@@ -84,9 +61,9 @@ wootax/2: # Reduced rate
     compound: '0'
     shipping: '0'
     order: '0'
-    class: reduced-rate
+    class: 'reduced-rate'
     locations: {  }
-wootax/3: # Reduced rate
+wootax/3: # Reduced rate 2
     country: RO
     state: ''
     rate: '5.0000'
@@ -95,7 +72,7 @@ wootax/3: # Reduced rate
     compound: '0'
     shipping: '0'
     order: '0'
-    class: reduced-rate
+    class: 'reduced-rate-2'
     locations: {  }    
 wootax/4: # Zero rate
     country: RO
@@ -106,20 +83,11 @@ wootax/4: # Zero rate
     compound: '0'
     shipping: '0'
     order: '1'
-    class: reduced-rate
+    class: 'zero-rate'
     locations: {  }
 
-# Checkout endpoints
-woo/woocommerce_checkout_pay_endpoint: 'order-pay'
-woo/woocommerce_checkout_order_received_endpoint: 'order-received' 
-woo/woocommerce_myaccount_add_payment_method_endpoint: 'add-payment-method'
-woo/woocommerce_myaccount_delete_payment_method_endpoint: 'delete-payment-method'
-woo/woocommerce_myaccount_set_default_payment_method_endpoint: 'set-default-payment-method'
-woo/woocommerce_myaccount_orders_endpoint: 'orders'
-woo/woocommerce_myaccount_view_order_endpoint: 'view-order'
-woo/woocommerce_myaccount_downloads_endpoint: 'downloads'
-woo/woocommerce_myaccount_edit_account_endpoint: 'edit-account'
-woo/woocommerce_myaccount_edit_address_endpoint: 'edit-address'
-woo/woocommerce_myaccount_payment_methods_endpoint: 'payment-methods'
-woo/woocommerce_myaccount_lost_password_endpoint: 'lost-password'
-woo/woocommerce_logout_endpoint: 'customer-logout'
+# Privacy Policy -  Checkout privacy policy
+woo/woocommerce_checkout_privacy_policy_text: "Your personal data will be used to process your order, support your experience throughout this website, and for other purposes described in our [privacy_policy]." # TODO Translate
+
+# Privacy Policy - Registration privacy policy
+woo/woocommerce_registration_privacy_policy_text: 'Your personal data will be used to support your experience throughout this website, to manage access to your account, and for other purposes described in our [privacy_policy].' # TODO Translate
