@@ -16,29 +16,6 @@ woo/woocommerce_price_thousand_sep: '.' # Thousand separator
 woo/woocommerce_price_decimal_sep: ',' # Decimal separator
 woo/woocommerce_price_num_decimals: '2' # Number of decimals
 
-# Payments - Direct bank transfer
-woo/woocommerce_bacs_settings:
-    enabled: 'yes'
-    title: 'Direct bank transfer' # TODO Translate
-    description: 'Make your payment directly into our bank account.' # TODO Translate
-    instructions: 'Please use your Order ID as the payment reference. Your order will not be shipped until the funds have cleared in our account.' # TODO Translate
-    account_name: ''
-    account_number: ''
-    sort_code: ''
-    bank_name: ''
-    iban: ''
-    bic: ''
-    account_details: ''
-
-# Payments -  Cash on delivery
-woo/woocommerce_cod_settings:
-    enabled: 'yes'
-    title: 'Cash on delivery' # Translate
-    description: 'Pay with cash upon delivery.' # TODO Translate
-    instructions: 'Pay with cash upon delivery.' # TODO Translate
-    enable_for_methods: ''
-    enable_for_virtual: 'no'
-
 # Tax rates
 woo/woocommerce_tax_classes: 'Reduced rate\nReduced rate 2\nZero rate' # Additional rates
 wootax/1: # Standard rate
@@ -85,6 +62,29 @@ wootax/4: # Zero rate
     order: '1'
     class: 'zero-rate'
     locations: {  }
+
+# Payments - Direct bank transfer
+woo/woocommerce_bacs_settings:
+    enabled: 'yes'
+    title: 'Direct bank transfer' # TODO Translate
+    description: 'Make your payment directly into our bank account.' # TODO Translate
+    instructions: 'Please use your Order ID as the payment reference. Your order will not be shipped until the funds have cleared in our account.' # TODO Translate
+    account_name: ''
+    account_number: ''
+    sort_code: ''
+    bank_name: ''
+    iban: ''
+    bic: ''
+    account_details: ''
+
+# Payments -  Cash on delivery
+woo/woocommerce_cod_settings:
+    enabled: 'yes'
+    title: 'Cash on delivery' # Translate
+    description: 'Pay with cash upon delivery.' # TODO Translate
+    instructions: 'Pay with cash upon delivery.' # TODO Translate
+    enable_for_methods: ''
+    enable_for_virtual: 'no'
 
 # Privacy Policy -  Checkout privacy policy
 woo/woocommerce_checkout_privacy_policy_text: "Your personal data will be used to process your order, support your experience throughout this website, and for other purposes described in our [privacy_policy]." # TODO Translate
