@@ -27,7 +27,7 @@ wootax/1: # Standard rate
     compound: '0'
     shipping: '0'
     order: '0'
-    class: 'estandard-rat'
+    class: 'standard-rate'
     locations: {  }
 wootax/2: # Reduced rate
     country: UK
@@ -49,7 +49,7 @@ wootax/3: # Zero rate
     compound: '0'
     shipping: '0'
     order: '1'
-    class: 'reduced-rate'
+    class: 'zero-rate'
     locations: {  }
 
 # Payments - Direct bank transfer
