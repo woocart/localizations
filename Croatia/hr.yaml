@@ -1,0 +1,77 @@
+# Local Standards
+woo/woocommerce_default_country: 'HR' # Country code https://github.com/woocommerce/woocommerce/blob/master/i18n/countries.php
+date_format: 'd/m/Y' # "d/m/Y", "Y-m-d", "F j, Y" for December 1, 2020
+time_format: 'H:i' # "H:i" for 24-hour clock, "g:i A" for 12-hour clock
+start_of_week: '1' # 1= Monday, 7=Sunday
+timezone_string: 'Europe/Zagreb' # Timezone string https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+blog_charset: 'UTF-8' 
+WPLANG: 'hr' # WordPress Locale Codes: https://wpastra.com/docs/complete-list-wordpress-locale-codes/
+woo/woocommerce_weight_unit: 'kg' # Measurements weight unit kg, g, lbs, oz
+woo/woocommerce_dimension_unit: 'cm' # Measurements dimension unit m, cm, mm, in, yd
+# Currency options
+woo/woocommerce_currency: 'HRK' # Currency code https://www.iban.com/currency-codes.html
+woo/woocommerce_currency_pos: 'right_space' # Currency position: left, left_space, right, right_space
+woo/woocommerce_price_thousand_sep: '.' # Thousand separator
+woo/woocommerce_price_decimal_sep: ',' # Decimal separator
+woo/woocommerce_price_num_decimals: '2' # Number of decimals
+
+# Tax rates
+woo/woocommerce_tax_classes: 'Reduced rate\nReduced rate 2\nZero rate' # If more than one reduced rate add '\nReduced rate 2'
+wootax/1: # Standard rate
+    country: 'HR'
+    state: ''
+    rate: '25.0000'
+    name: 'PDV' # Translate
+    priority: '1'
+    compound: '0'
+    shipping: '0'
+    order: '0'
+    class: 'standard-rate'
+    locations: {  }
+wootax/2: # Reduced rate
+    country: 'HR'
+    state: ''
+    rate: '13.0000'
+    name: 'PDV' # Translate
+    priority: '1'
+    compound: '0'
+    shipping: '0'
+    order: '0'
+    class: 'reduced-rate'
+    locations: {  }
+wootax/4: # Reduced rate 2
+    country: 'HR'
+    state: ''
+    rate: '5.0000'
+    name: 'PDV' # Translate
+    priority: '1'
+    compound: '0'
+    shipping: '0'
+    order: '0'
+    class: 'reduced-rate'
+    locations: {  }
+wootax/3: # Zero rate
+    country: 'HR'
+    state: ''
+    rate: '0.0000'
+    name: 'PDV' # Translate
+    priority: '1'
+    compound: '0'
+    shipping: '0'
+    order: '1'
+    class: 'zero-rate'
+    locations: {  }
+
+# Payments - Direct bank transfer
+woo/woocommerce_bacs_settings:
+    enabled: 'no' # Enable when it's a common payment method
+
+# Payments -  Cash on delivery
+woo/woocommerce_cod_settings:
+    enabled: 'no' # Enable when it's a common payment method
+
+# Privacy Policy -  Checkout privacy policy
+woo/woocommerce_checkout_privacy_policy_text: 'Your personal data will be used to process your order, support your experience throughout this website, and for other purposes described in our [privacy_policy].' # Translate
+
+# Privacy Policy - Registration privacy policy
+woo/woocommerce_registration_privacy_policy_text: 'Your personal data will be used to support your experience throughout this website, to manage access to your account, and for other purposes described in our [privacy_policy].' # Translate
