@@ -9,7 +9,7 @@ There are three types of localization: store (WordPress and WooCommerce settings
 **Store Localization**
 
 - Make a copy `template.yaml` and change the values for your country.
-- Name file with the short code of your country `{uk,ru,si}.yaml`.
+- Name file with the short code of your country `Country/local.yaml`.
 - Create a pull request for the changes.
 
 **Legal Pages**
