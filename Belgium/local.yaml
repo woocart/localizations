@@ -1,6 +1,6 @@
 # Local Standards
 woo/woocommerce_default_country: 'BE' # Country code https://github.com/woocommerce/woocommerce/blob/master/i18n/countries.php
-date_format: 'd/m/Y' # "d/m/Y", "Y-m-d", "F j, Y" for December 1, 2020
+date_format: 'd/m/Y' # "d/m/Y", "Y-m-d", "F j, Y" for December 1, 2020 #Standard notation: dd/mm/yyyy for instance: (28/05/2018)
 time_format: 'H:i' # "H:i" for 24-hour clock, "g:i A" for 12-hour clock
 start_of_week: '1' # 1= Monday, 7=Sunday
 timezone_string: 'Europe/Brussels' # Timezone string https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
@@ -63,10 +63,12 @@ wootax/3: # Zero rate
     locations: {  }
 
 # Payments - Direct bank transfer
+# Translation: Bankoverschrijving 
 woo/woocommerce_bacs_settings:
     enabled: 'no' # Enable when it's a common payment method
 
 # Payments -  Cash on delivery
+# Translation: Betaal bij levering
 woo/woocommerce_cod_settings:
     enabled: 'no' # Enable when it's a common payment method
 
