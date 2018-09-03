@@ -1,0 +1,55 @@
+# Local Standards
+woo/woocommerce_default_country: 'TH' # Country code https://github.com/woocommerce/woocommerce/blob/master/i18n/countries.php
+date_format: 'd/m/Y' # "d/m/Y", "Y-m-d", "F j, Y" for December 1, 2020
+time_format: 'H:i' # "H:i" for 24-hour clock, "g:i A" for 12-hour clock
+start_of_week: '1' # 1= Monday, 7=Sunday
+timezone_string: 'Asia/Bangkok' # Timezone string https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+blog_charset: 'UTF-8' 
+WPLANG: 'th' # WordPress Locale Codes: https://wpastra.com/docs/complete-list-wordpress-locale-codes/
+woo/woocommerce_weight_unit: 'kg' # Measurements weight unit kg, g, lbs, oz
+woo/woocommerce_dimension_unit: 'cm' # Measurements dimension unit m, cm, mm, in, yd
+# Currency options
+woo/woocommerce_currency: 'THB' # Currency code https://www.iban.com/currency-codes.html
+woo/woocommerce_currency_pos: 'right' # Currency position: left, left_space, right, right_space
+woo/woocommerce_price_thousand_sep: ',' # Thousand separator
+woo/woocommerce_price_decimal_sep: '.' # Decimal separator
+woo/woocommerce_price_num_decimals: '2' # Number of decimals
+
+# Tax rates
+woo/woocommerce_tax_classes: 'Zero rate' # If more than one reduced rate add '\nReduced rate 2'
+wootax/1: # Standard rate
+    country: 'TH'
+    state: ''
+    rate: '7.0000'
+    name: 'VAT' # Translate
+    priority: '1'
+    compound: '0'
+    shipping: '0'
+    order: '0'
+    class: 'standard-rate'
+    locations: {  }
+wootax/3: # Zero rate
+    country: 'TH'
+    state: ''
+    rate: '0.0000'
+    name: 'VAT' # Translate
+    priority: '1'
+    compound: '0'
+    shipping: '0'
+    order: '1'
+    class: 'zero-rate'
+    locations: {  }
+
+# Payments - Direct bank transfer
+woo/woocommerce_bacs_settings:
+    enabled: 'no' # Enable when it's a common payment method
+
+# Payments -  Cash on delivery
+woo/woocommerce_cod_settings:
+    enabled: 'no' # Enable when it's a common payment method
+
+# Privacy Policy -  Checkout privacy policy
+woo/woocommerce_checkout_privacy_policy_text: 'ข้อมูลส่วนบุคคลของคุณจะถูกใช้เพื่อสนับสนุนประสบการณ์ของคุณในเว็บไซต์นี้เพื่อจัดการการเข้าถึงบัญชีของคุณและเพื่อวัตถุประสงค์อื่น ๆ ที่ได้อธิบายไว้ใน [นโยบายส่วนบุคคล] ของเรา' # Translate
+
+# Privacy Policy - Registration privacy policy
+woo/woocommerce_registration_privacy_policy_text: 'ข้อมูลส่วนบุคคลของคุณจะถูกใช้ในการประมวลผลคำสั่งซื้อของคุณสนับสนุนการใช้งานของคุณตลอดทั่วทั้งเว็บไซต์นี้และเพื่อวัตถุประสงค์อื่น ๆ ที่ได้อธิบายไว้ใน [นโยบายส่วนบุคคล] ของเรา' # Translate
