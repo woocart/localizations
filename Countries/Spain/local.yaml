@@ -71,7 +71,7 @@ woo/woocommerce_cod_settings:
     enabled: 'no' # Enable when it's a common payment method
 
 # Privacy Policy -  Checkout privacy policy
-woo/woocommerce_checkout_privacy_policy_text: 'Your personal data will be used to process your order, support your experience throughout this website, and for other purposes described in our [privacy_policy].' # Translate
+woo/woocommerce_checkout_privacy_policy_text: 'Tus datos personales se utilizarán para procesar tu pedido, ayudar durante tu experiencia en todo esto sitio web, y para otros motivos descritos en nuestra [privacy_policy].' # Translate
 
 # Privacy Policy - Registration privacy policy
-woo/woocommerce_registration_privacy_policy_text: 'Your personal data will be used to support your experience throughout this website, to manage access to your account, and for other purposes described in our [privacy_policy].' # Translate
+woo/woocommerce_registration_privacy_policy_text: 'Tus datos personales se utilizarán para ayudar tu experiencia en todo este sitio web, administrar el acceso a tu cuenta y para otros motivos descritos en nuestra [privacy_policy].' # Translate
