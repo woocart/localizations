@@ -18,6 +18,7 @@ There are three types of localization: store (WordPress and WooCommerce settings
 - Create the legal pages that reflect your local laws. Make sure that they are GDPR compliant and refer to WooCart as one of the third-party service providers. Here is a template:
 
 >Hosting
+>
 >WooCart is a WooCommerce hosting service offered by Niteo GmbH that manages our Service hosting and maintenance. For more information on the privacy practices of Niteo, please visit their [Privacy Policy page](https://niteo.co/legal/privacy).
 
 - Create a pull request for the changes.
