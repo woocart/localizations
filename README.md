@@ -15,7 +15,11 @@ There are three types of localization: store (WordPress and WooCommerce settings
 **Legal Pages**
 
 - The minimum is three legal pages - Privacy Policy, Terms and Conditions, and Returns and Refunds. 
-- Create the legal pages that reflect your local laws. Make sure that they are GDPR compliant and refer to WooCart as one of the third-party service providers. Refer to the UK legal pages for EEA countries example.
+- Create the legal pages that reflect your local laws. Make sure that they are GDPR compliant and refer to WooCart as one of the third-party service providers. Here is an template:
+
+>Hosting
+>WooCart is a WooCommerce hosting service offered by Niteo GmbH that manages our Service hosting and maintenance. For more information on the privacy practices of Niteo, please visit their [Privacy Policy page](https://niteo.co/legal/privacy).
+
 - Create a pull request for the changes.
 
 **Demo Products Translations**
