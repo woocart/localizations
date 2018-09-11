@@ -1,13 +1,13 @@
 # WordPress
-fresh_site: '0' # Remove new WordPress notifications
-default_role: 'customer' # New User Default Role
-default_comment_status: 'closed' # Allow comments
-default_ping_status: 'closed' # Allow pingbacks
-users_can_register: '0' # WordPress registration, not recommended for stores.
-show_on_front: 'page' # Your homepage displays
-avatar_default: 'gravatar_default'
-blog_public: '1' # Search Engine Visibility
-permalink_structure: '/blog/%postname%/'
+wp/fresh_site: '0' # Remove new WordPress notifications
+wp/default_role: 'customer' # New User Default Role
+wp/default_comment_status: 'closed' # Allow comments
+wp/default_ping_status: 'closed' # Allow pingbacks
+wp/users_can_register: '0' # WordPress registration, not recommended for stores.
+wp/show_on_front: 'page' # Your homepage displays
+wp/avatar_default: 'gravatar_default'
+wp/blog_public: '1' # Search Engine Visibility
+wp/permalink_structure: '/blog/%postname%/'
 
 # WooCommerce General
 woo/woocommerce_demo_store: 'yes' # Store notice 
