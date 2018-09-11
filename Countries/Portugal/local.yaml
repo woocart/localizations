@@ -1,11 +1,11 @@
 # Local Standards
 woo/woocommerce_default_country: 'PT' # Country code https://github.com/woocommerce/woocommerce/blob/master/i18n/countries.php
-date_format: 'd/m/Y' # "d/m/Y", "Y-m-d", "F j, Y" for December 1, 2020
-time_format: 'H:i' # "H:i" for 24-hour clock, "g:i A" for 12-hour clock
-start_of_week: '1' # 1= Monday, 7=Sunday
-timezone_string: 'Europe/Lisbon' # Timezone string https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
-blog_charset: 'UTF-8' 
-WPLANG: 'pt_PT' # WordPress Locale Codes: https://wpastra.com/docs/complete-list-wordpress-locale-codes/
+wp/date_format: 'd/m/Y' # "d/m/Y", "Y-m-d", "F j, Y" for December 1, 2020
+wp/time_format: 'H:i' # "H:i" for 24-hour clock, "g:i A" for 12-hour clock
+wp/start_of_week: '1' # 1= Monday, 7=Sunday
+wp/timezone_string: 'Europe/Lisbon' # Timezone string https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+wp/blog_charset: 'UTF-8' 
+wp/WPLANG: 'pt_PT' # WordPress Locale Codes: https://wpastra.com/docs/complete-list-wordpress-locale-codes/
 woo/woocommerce_weight_unit: 'kg' # Measurements weight unit kg, g, lbs, oz
 woo/woocommerce_dimension_unit: 'cm' # Measurements dimension unit m, cm, mm, in, yd
 # Currency options
