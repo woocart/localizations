@@ -16,7 +16,7 @@ env:
   - PIPENV_IGNORE_VIRTUALENVS=1
 
 install:
- - pipenv install --dev --deploy && touch .installed
+ - pipenv install --deploy && touch .installed
 
 script:
  - pipenv run black validate.py --check
