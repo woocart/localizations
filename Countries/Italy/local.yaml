@@ -4,7 +4,7 @@ wp/date_format: 'd/m/Y' # "d/m/Y", "Y-m-d", "F j, Y" for December 1, 2020
 wp/time_format: 'H:i' # "H:i" for 24-hour clock, "g:i A" for 12-hour clock
 wp/start_of_week: '1' # 1= Monday, 7=Sunday
 wp/timezone_string: 'Europe/Rome' # Timezone string https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
-wp/blog_charset: 'UTF-8' 
+wp/blog_charset: 'UTF-8'
 wp/WPLANG: 'it_IT' # WordPress Locale Codes: https://wpastra.com/docs/complete-list-wordpress-locale-codes/
 woo/woocommerce_weight_unit: 'kg' # Measurements weight unit kg, g, lbs, oz
 woo/woocommerce_dimension_unit: 'cm' # Measurements dimension unit m, cm, mm, in, yd
@@ -82,7 +82,7 @@ woo/woocommerce_cod_settings:
     enabled: 'no' # Enable when it's a common payment method
 
 # Privacy Policy -  Checkout privacy policy
-woo/woocommerce_checkout_privacy_policy_text: 'I tuo dati verranno utilizzati per completare il tuo ordine, rendere più piacevole la tua esperienza su questo sito e per le finalità espresse nella nostra [privacy_policy].' # Translate
+woo/woocommerce_checkout_privacy_policy_text: "I tuo dati verranno utilizzati per completare il tuo ordine, rendere più piacevole la tua esperienza su questo sito e per le finalità espresse nella nostra [privacy_policy]." # Translate
 
 # Privacy Policy - Registration privacy policy
-woo/woocommerce_registration_privacy_policy_text: 'I tuo dati verranno utilizzati per rendere più piacevole la tua esperienza su questo sito, per gestire l'accesso al tuo account e per le finalità espresse nella nostra [privacy_policy].' # Translate
+woo/woocommerce_registration_privacy_policy_text: "I tuo dati verranno utilizzati per rendere più piacevole la tua esperienza su questo sito, per gestire l'accesso al tuo account e per le finalità espresse nella nostra [privacy_policy]." # Translate
