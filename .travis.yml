@@ -1,0 +1,27 @@
+sudo: required
+
+# Only run builds for PRs and commits into master
+branches:
+  only:
+    - master
+
+language: python
+python:
+ - 3.7
+dist: xenial
+
+env:
+  global:
+  - PIPENV_VENV_IN_PROJECT=1
+  - PIPENV_IGNORE_VIRTUALENVS=1
+
+install:
+ - pipenv install --dev --deploy && touch .installed
+
+script:
+ - pipenv run black validate.py --check
+ - make lint
+ - make types
+ - make validate
+
+cache: pip
