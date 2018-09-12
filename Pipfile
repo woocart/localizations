@@ -4,9 +4,8 @@ verify_ssl = true
 name = "pypi"
 
 [packages]
-requests = "*"
-
-[dev-packages]
+black = "==18.6b4"
+codespell = "*"
 flake8 = "*"
 flake8-assertive = "*"
 flake8-blind-except = "*"
@@ -24,11 +23,11 @@ flake8-print = "*"
 flake8-self = "*"
 flake8-super-call = "*"
 flake8-tuple = "*"
-codespell = "*"
+mypy = "*"
 pre-commit = "*"
 pre-commit-hooks = "*"
-mypy = "*"
-black = "==18.6b4"
+requests = "*"
+strictyaml = "*"
 
 [requires]
 python_version = "3.7"
