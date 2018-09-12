@@ -49,5 +49,5 @@
         language: system
         types: [non-executable, file, text]
         exclude_types: [svg]
-        exclude: 'Countries'
+        exclude: 'Countries|const.py'
         stages: [push]
