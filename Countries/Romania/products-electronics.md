@@ -1,6 +1,6 @@
 # Products
 
-Translations of the products go into the country's localization folder. 
+Translations of the products go into the country's localization folder.
 
 ## Phones
 
@@ -130,7 +130,7 @@ Aparat foto mirrorless mic, elegant, simplu si conectat cu calitate incredibila 
 
 Price: 2.776,57
 
-Noul model PEN E-PL8 imbina liniile elegante cu functii potrivite pentru abilitatile fara cusur ale persoanelor pasionate de domeniul digital, de moda si noutati. Noua forma si aspectul cu finisaj din piele adauga o nota de eleganta tinutelor, in timp ce tehnologia Olympus permite realizarea de fotografii si video de inalta calitate pentru mediile de socializare. 
+Noul model PEN E-PL8 imbina liniile elegante cu functii potrivite pentru abilitatile fara cusur ale persoanelor pasionate de domeniul digital, de moda si noutati. Noua forma si aspectul cu finisaj din piele adauga o nota de eleganta tinutelor, in timp ce tehnologia Olympus permite realizarea de fotografii si video de inalta calitate pentru mediile de socializare.
 
 - Senzor live MOS de 16 Megapixeli.
 - Procesator imagine TruePic VIII.
@@ -156,7 +156,7 @@ Uita-te prin vizor. Fotografiaza in culori uimitoare. Suprinde momentul. Fujifil
 
 Price: 899,90
 
-Ceasul potrivit pentru orice moment din zi, ce te ajuta sa iti imbunatatesti viata. Traieste mai sanatos! Fitbit Versa te ajuta sa duci o viata mai activa si mai sanatoasa – ceasul inteligent cu o autonomie a bateriei de peste 4 zile, ce iti ofera informatii adaptate tie, muzica si multe alte functii pentru a te ajuta sa iti indeplinesti obiectivele. 
+Ceasul potrivit pentru orice moment din zi, ce te ajuta sa iti imbunatatesti viata. Traieste mai sanatos! Fitbit Versa te ajuta sa duci o viata mai activa si mai sanatoasa – ceasul inteligent cu o autonomie a bateriei de peste 4 zile, ce iti ofera informatii adaptate tie, muzica si multe alte functii pentru a te ajuta sa iti indeplinesti obiectivele.
 
 - Autonomie extinsa a bateriei de peste 4 zile (in functie de folosire si de alti factori).
 - Momoreaza si reda peste 300 de melodii, fara sa mai fie nevoie de telefon.

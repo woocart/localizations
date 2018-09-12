@@ -10,7 +10,7 @@ wp/blog_public: '1' # Search Engine Visibility
 wp/permalink_structure: '/blog/%postname%/'
 
 # WooCommerce General
-woo/woocommerce_demo_store: 'yes' # Store notice 
+woo/woocommerce_demo_store: 'yes' # Store notice
 woo/woocommerce_allowed_countries: 'all' # Selling location(s), configured by Store Wizard
 woo/woocommerce_ship_to_destination: '' # Shipping location(s), leave empty for Ship to all countries you sell to
 woo/woocommerce_product_type: 'physical' # Type of products sold, configured by Store Wizard
@@ -87,7 +87,7 @@ woo/woocommerce_tax_based_on: 'billing' # Tax based on shipping or billing addre
 woo/woocommerce_tax_round_at_subtotal: 'no' # Round tax at subtotal level, instead of rounding per line
 woo/woocommerce_tax_classes: 'Reduced rate\nZero rate' # Additional rates
 woo/woocommerce_tax_display_shop: 'incl' # Display prices with tax in the shop
-woo/woocommerce_tax_display_cart: 'incl' # Display prices with tax during basket and checkout 
+woo/woocommerce_tax_display_cart: 'incl' # Display prices with tax during basket and checkout
 woo/woocommerce_shipping_tax_class: 'zero-rate' # "inherit" based on cart, "standard", "reduced-rate" or "zero-rate"
 woo/woocommerce_price_display_suffix: '' # Price display suffix, text to show after your prices
 woo/woocommerce_tax_total_display: 'itemized' # Display tax totals
@@ -270,7 +270,7 @@ wooship/2:
             location_type: country
         -
             location_code: GB
-            location_type: country  
+            location_type: country
         -
             location_code: IS
             location_type: country
@@ -911,7 +911,7 @@ wooship/8:
             location_code: ZW
             location_type: country
     methods: {  }
-    
+
 wooship/9:
     name: 'Middle East'
     order: '0'
