@@ -3,14 +3,14 @@ woo/woocommerce_default_country: 'IL' # Country code https://github.com/woocomme
 wp/date_format: 'd/m/Y' # "d/m/Y", "Y-m-d", "F j, Y" for December 1, 2020
 wp/time_format: 'H:i' # "H:i" for 24-hour clock, "g:i A" for 12-hour clock
 wp/start_of_week: '7' # 1= Monday, 7=Sunday
-wp/timezone_string: 'Region/Country' # Timezone string https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+wp/timezone_string: 'Asia/Jerusalem' # Timezone string https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 wp/blog_charset: 'UTF-8'
 wp/WPLANG: 'he_IL' # WordPress Locale Codes: https://wpastra.com/docs/complete-list-wordpress-locale-codes/
 woo/woocommerce_weight_unit: 'kg' # Measurements weight unit kg, g, lbs, oz
 woo/woocommerce_dimension_unit: 'cm' # Measurements dimension unit m, cm, mm, in, yd
 
 # Currency options
-woo/woocommerce_currency: 'NLS' # Currency code https://www.iban.com/currency-codes.html
+woo/woocommerce_currency: 'ILS' # Currency code https://www.iban.com/currency-codes.html
 woo/woocommerce_currency_pos: 'left' # Currency position: left, left_space, right, right_space
 woo/woocommerce_price_thousand_sep: ',' # Thousand separator
 woo/woocommerce_price_decimal_sep: '.' # Decimal separator

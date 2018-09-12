@@ -5,7 +5,7 @@ wp/time_format: 'H:i' # "H:i" for 24-hour clock, "g:i A" for 12-hour clock
 wp/start_of_week: '1' # 1= Monday, 7=Sunday
 wp/timezone_string: 'Region/Country' # Timezone string https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 wp/blog_charset: 'UTF-8'
-wp/WPLANG: 'en_US' # WordPress Locale Codes: https://wpastra.com/docs/complete-list-wordpress-locale-codes/
+wp/WPLANG: 'll_LL' # WordPress Locale Codes: https://wpastra.com/docs/complete-list-wordpress-locale-codes/
 woo/woocommerce_weight_unit: 'kg' # Measurements weight unit kg, g, lbs, oz
 woo/woocommerce_dimension_unit: 'cm' # Measurements dimension unit m, cm, mm, in, yd
 
@@ -18,7 +18,7 @@ woo/woocommerce_price_num_decimals: '2' # Number of decimals
 
 # Tax rates
 woo/woocommerce_tax_classes: 'Reduced rate\nZero rate' # If more than one reduced rate add '\nReduced rate 2'
-wootax/1:
+wootax/1: # Standard rate
     country: LL
     state: ''
     rate: '20.0000'
@@ -28,7 +28,7 @@ wootax/1:
     shipping: '0'
     order: '0'
     class: 'standard-rate'
-    locations: '{ }'
+    locations: {  }
 wootax/2: # Reduced rate
     country: LL
     state: ''
@@ -39,7 +39,7 @@ wootax/2: # Reduced rate
     shipping: '0'
     order: '0'
     class: 'reduced-rate'
-    locations: '{  }'
+    locations: {  }
 wootax/3: # Zero rate
     country: LL
     state: ''
@@ -50,7 +50,7 @@ wootax/3: # Zero rate
     shipping: '0'
     order: '1'
     class: 'zero-rate'
-    locations: '{  }'
+    locations: {  }
 
 # Payments - Direct bank transfer
 woo/woocommerce_bacs_settings:
@@ -72,7 +72,7 @@ woo/woocommerce_cod_settings:
     title: 'Cash on delivery' # Translate
     description: 'Pay with cash upon delivery.' # Translate
     instructions: 'Pay with cash upon delivery.' # Translate
-    enable_for_methods: 'no'
+    enable_for_methods: ''
     enable_for_virtual: 'no'
 
 # Privacy Policy -  Checkout privacy policy
