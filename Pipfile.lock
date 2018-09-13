@@ -1,7 +1,7 @@
 {
     "_meta": {
         "hash": {
-            "sha256": "91551961d300d527ab4584c54ab78ee9365cf647122008d36fbe720062fb0fbf"
+            "sha256": "f48b2821295a187267a8fccdf0b40c46839262d11747ebf74aa682c3f9c3bc51"
         },
         "pipfile-spec": 6,
         "requires": {
@@ -92,6 +92,12 @@
             ],
             "index": "pypi",
             "version": "==1.13.0"
+        },
+        "docopt": {
+            "hashes": [
+                "sha256:49b3a825280bd66b3aa83585ef59c4a8c82f2c8a522dbe754a8bc8d08c85c491"
+            ],
+            "version": "==0.6.2"
         },
         "flake8": {
             "hashes": [
@@ -222,6 +228,13 @@
             ],
             "index": "pypi",
             "version": "==0.2.13"
+        },
+        "html-linter": {
+            "hashes": [
+                "sha256:342dad677f2fc810a2562fde0959046ed0d8fa1387bd9e085869e908c1941191"
+            ],
+            "index": "pypi",
+            "version": "==0.4.0"
         },
         "identify": {
             "hashes": [
@@ -381,6 +394,12 @@
             "editable": true,
             "git": "https://github.com/woocart/strictyaml.git",
             "ref": "8963a53672a2031752d17bbd8a23f562bacd7728"
+        },
+        "template-remover": {
+            "hashes": [
+                "sha256:480f1ce63f56affac1edb29356afcca1260e8409cd928fcf9438fc149df5ff41"
+            ],
+            "version": "==0.1.9"
         },
         "testfixtures": {
             "hashes": [
