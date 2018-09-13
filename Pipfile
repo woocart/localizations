@@ -27,7 +27,7 @@ pre-commit = "*"
 pre-commit-hooks = "*"
 requests = "*"
 strictyaml = {git = "https://github.com/woocart/strictyaml.git", editable = true}
-
+html-linter = "*"
 
 [requires]
 python_version = "3.7"

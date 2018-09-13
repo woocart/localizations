@@ -51,3 +51,12 @@
         exclude_types: [svg]
         exclude: 'Countries|const.py'
         stages: [push]
+
+    -   id: htmllint
+        name: HTML Linter
+        description: Checks for HTML syntax errors.
+        entry: pipenv run html_lint.py
+        language: system
+        types: [non-executable, file, text]
+        exclude_types: [svg]
+        stages: [push]
