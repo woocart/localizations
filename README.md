@@ -26,7 +26,7 @@ There are three types of localization: store (WordPress and WooCommerce settings
 **Demo Products Translations**
 
 - Make a copy of `products-template.yaml` and translate the text.
-- Change the price amounts to reflect your local currency.  
+- Change the price amounts to reflect your local currency.
 - Create a pull request for the changes.
 - Continue with other product translations.
 

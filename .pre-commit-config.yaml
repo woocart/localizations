@@ -55,8 +55,9 @@
     -   id: htmllint
         name: HTML Linter
         description: Checks for HTML syntax errors.
-        entry: pipenv run html_lint.py
+        entry: pipenv run html_lint.py --disable=protocol,optional_tag,entities --printfilename
         language: system
+        files: ^Countries/
         types: [non-executable, file, text]
         exclude_types: [svg]
         stages: [push]
