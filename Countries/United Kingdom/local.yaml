@@ -1,5 +1,5 @@
 # Local Standards
-woo/woocommerce_default_country: 'GB' # Country code https://github.com/woocommerce/woocommerce/blob/master/i18n/countries.php
+woo/woocommerce_default_country: 'UK' # Country code https://github.com/woocommerce/woocommerce/blob/master/i18n/countries.php
 wp/date_format: 'd/m/Y' # "d/m/Y", "Y-m-d", "F j, Y" for December 1, 2020
 wp/time_format: 'g:i A' # "H:i" for 24-hour clock, "g:i A" for 12-hour clock
 wp/start_of_week: '1' # 1= Monday, 7=Sunday
@@ -19,7 +19,7 @@ woo/woocommerce_price_num_decimals: '2' # Number of decimals
 # Tax rates
 woo/woocommerce_tax_classes: 'Reduced rate\nZero rate' # If more than one reduced rate add '\nReduced rate 2'
 wootax/1: # Standard rate
-    country: GB
+    country: UK
     state: ''
     rate: '20.0000'
     name: VAT # Translate
@@ -30,7 +30,7 @@ wootax/1: # Standard rate
     class: 'standard-rate'
     locations: {  }
 wootax/2: # Reduced rate
-    country: GB
+    country: UK
     state: ''
     rate: '5.0000'
     name: VAT # Translate
@@ -41,7 +41,7 @@ wootax/2: # Reduced rate
     class: 'reduced-rate'
     locations: {  }
 wootax/3: # Zero rate
-    country: GB
+    country: UK
     state: ''
     rate: '0.0000'
     name: VAT # Translate
