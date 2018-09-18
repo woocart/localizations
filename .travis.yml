@@ -19,7 +19,7 @@ install:
  - pipenv install --deploy && touch .installed
 
 script:
- - pipenv run black validate.py --check
+ - pipenv run black .travis/validate.py --check
  - make lint
  - make types
  - make validate

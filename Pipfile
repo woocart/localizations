@@ -3,7 +3,11 @@ url = "https://pypi.org/simple"
 verify_ssl = true
 name = "pypi"
 
-[packages]
+[requires]
+python_version = "3.7"
+
+[dev-packages]
+"beautifulsoup4" = "*"
 black = "==18.6b4"
 codespell = "*"
 flake8 = "*"
@@ -28,6 +32,3 @@ pre-commit-hooks = "*"
 requests = "*"
 strictyaml = {git = "https://github.com/woocart/strictyaml.git", editable = true}
 html-linter = "*"
-
-[requires]
-python_version = "3.7"
