@@ -6,7 +6,7 @@ name = "pypi"
 [requires]
 python_version = "3.7"
 
-[dev-packages]
+[packages]
 "beautifulsoup4" = "*"
 black = "==18.6b4"
 codespell = "*"

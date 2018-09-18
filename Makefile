@@ -1,6 +1,7 @@
 # convenience makefile to build the dev env and run common commands
 .EXPORT_ALL_VARIABLES:
 PIPENV_VENV_IN_PROJECT = 1
+PIPENV_IGNORE_VIRTUALENVS = 1
 
 all: .installed
 
