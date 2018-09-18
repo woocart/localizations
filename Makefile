@@ -18,7 +18,7 @@ install:
 
 # Run validaion
 validate: .installed
-	@pipenv run python validate.py
+	@pipenv run python .travis/validate.py
 
 # Testing and linting targets
 lint: .installed
@@ -26,21 +26,15 @@ lint: .installed
 
 type: types
 types: .installed
-	@pipenv run mypy validate.py
-	@pipenv run mypy schema.py
-	@pipenv run mypy const.py
+	@pipenv run mypy .travis/*.py
 
 sort: .installed
-	@pipenv run isort -rc --atomic validate.py
-	@pipenv run isort -rc --atomic schema.py
-	@pipenv run isort -rc --atomic const.py
+	@pipenv run isort -rc --atomic .travis/*.py
 
 fmt: format
 black: format
 format: .installed sort
-	@pipenv run black validate.py
-	@pipenv run black schema.py
-	@pipenv run black const.py
+	@pipenv run black .travis/*.py
 
 clean:
 	@if [ -d ".venv/" ]; then pipenv --rm; fi

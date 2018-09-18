@@ -4,6 +4,7 @@ from const import COUNTRIES
 from const import CURRENCIES
 from const import TIMEZONES
 from const import WPLANGS
+from pathlib import Path
 from strictyaml import as_document
 from strictyaml import Bool
 from strictyaml import Decimal
@@ -11,15 +12,26 @@ from strictyaml import Enum
 from strictyaml import Int
 from strictyaml import load as yaml_load
 from strictyaml import Map
+from strictyaml import MapPattern
 from strictyaml import Optional
 from strictyaml import Str
 from strictyaml import YAMLError
 
-import os
 
-
-class YamlSchema:
+class WooSchema:
     """Schema for localization YAML files."""
+
+    # https://github.com/woocart/woocart-defaults/blob/master/src/importers/class-woopage.php#L14
+    pageMeta = {
+        "post_title": Str(),
+        Optional("post_name"): Str(),
+        Optional("post_excerpt"): Str(),
+        Optional("post_status"): Str(),
+        Optional("post_type"): Str(),
+        Optional("post_category"): Str(),
+        Optional("meta_input"): MapPattern(Str(), Str()),
+        Optional("woocart_defaults"): MapPattern(Str(), Str()),
+    }
 
     localization = {
         "woo/woocommerce_default_country": Enum(COUNTRIES),
@@ -138,12 +150,12 @@ class YamlSchema:
         "woo/woocommerce_registration_privacy_policy_text": Str(),
     }
 
-    def load(folder, file, schema):
+    def load(path: Path, schema):
         """Load and validate .yaml file."""
-        with open(os.path.join(folder, file)) as f:
+        with path.open() as f:
 
             # Replace real Country and Timezone values with fakes
-            if file == "template.yaml":
+            if path.name == "template.yaml":
                 schema["woo/woocommerce_default_country"] = Enum(["LL"])
                 schema["wp/timezone_string"] = Enum(["Region/Country"])
                 schema["wp/WPLANG"] = Enum(["ll_LL"])
@@ -164,8 +176,17 @@ class YamlSchema:
                         schema[key] = Map(dict_subschema)
 
             try:
-                return yaml_load(f.read(), Map(schema))
+                return yaml_load(f.read(), Map(schema), path)
             except YAMLError:
                 raise
+
+        return as_document(schema)
+
+    def load_string(data: bytes, schema, path: str):
+        """Load and validate yaml data."""
+        try:
+            return yaml_load(data, Map(schema), path)
+        except YAMLError:
+            raise
 
         return as_document(schema)
