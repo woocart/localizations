@@ -20,12 +20,12 @@ def main():
             comments = soup.find_all(string=lambda text: isinstance(text, Comment))
             if not len(comments):
                 print(
-                    f"\n\033[91m💥 Error parsing {html}. Page meta was not found \n\033[0m"
+                    f"\n\033[91m💥  Error parsing {html}. Page meta was not found \n\033[0m"
                 )
                 exit(255)
             WooSchema.load_string(str(comments[0]), WooSchema.pageMeta, html)
         except StrictYAMLError as err:
-            print(f"\n\033[91m💥 Error parsing localization {err}. \n\033[0m")
+            print(f"\n\033[91m💥  Error parsing localization {err}. \n\033[0m")
             exit(255)
 
     # validate country files
@@ -34,7 +34,7 @@ def main():
             print(f'Validating "{country}" ...')
             WooSchema.load(country, WooSchema.localization)
         except StrictYAMLError as err:
-            print(f"\n\033[91m💥 Error parsing localization {err}. \n\033[0m")
+            print(f"\n\033[91m💥  Error parsing localization {err}. \n\033[0m")
             exit(255)
 
     # validate template.yaml
@@ -43,7 +43,7 @@ def main():
         print(f'Validating "{template}" ...')
         WooSchema.load(template, WooSchema.localization)
     except StrictYAMLError as err:
-        print(f"\n\033[91m💥 Error parsing localization {err}.\n\033[0m")
+        print(f"\n\033[91m💥  Error parsing localization {err}.\n\033[0m")
         exit(255)
 
     print("All done! ✨ ✨ ✨")

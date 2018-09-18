@@ -150,6 +150,7 @@ class WooSchema:
         "woo/woocommerce_registration_privacy_policy_text": Str(),
     }
 
+    @staticmethod
     def load(path: Path, schema):
         """Load and validate .yaml file."""
         with path.open() as f:
@@ -182,6 +183,7 @@ class WooSchema:
 
         return as_document(schema)
 
+    @staticmethod
     def load_string(data: bytes, schema, path: str):
         """Load and validate yaml data."""
         try:

@@ -24,4 +24,9 @@ script:
  - make types
  - make validate
 
-cache: pip
+cache:
+  directories:
+  - $HOME/.pyenv_cache
+  - $HOME/.cache/pip/http/
+  - $HOME/.cache/pipenv/wheels/
+  - $HOME/.cache/pipenv/http/
