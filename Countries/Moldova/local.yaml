@@ -53,3 +53,8 @@ woo/woocommerce_checkout_privacy_policy_text: 'Datele dumneavoastră personale v
 
 # Privacy Policy - Registration privacy policy
 woo/woocommerce_registration_privacy_policy_text: 'Datele dumneavoastră personale vor fii utilizate pentru a sprijini experiența dumneavoastră in acest site, pentru a gestiona accesul contului dumneavoastră, și pentru alte scopuri descrise in [privacy_policy].' # Translate
+
+# Metadata -- KEEP --
+.woo/woocommerce_bacs_settings_format: serialized
+.woo/woocommerce_cod_settings_format: serialized
+# Metadata -- KEEP --

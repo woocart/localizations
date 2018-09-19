@@ -75,3 +75,8 @@ woo/woocommerce_checkout_privacy_policy_text: 'Személyes adatait a rendelések 
 
 # Privacy Policy - Registration privacy policy
 woo/woocommerce_registration_privacy_policy_text: 'Személyes adatait a weboldal fejlesztéséhez, személyes fiókjának hozzáférhetőségéhez és más esetekben is felhasználjuk az [privacy_policy] foglaltak szerint.' # Translate
+
+# Metadata -- KEEP --
+.woo/woocommerce_bacs_settings_format: serialized
+.woo/woocommerce_cod_settings_format: serialized
+# Metadata -- KEEP --

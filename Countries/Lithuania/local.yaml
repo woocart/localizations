@@ -75,3 +75,8 @@ woo/woocommerce_checkout_privacy_policy_text: 'Jūsų asmeniniai duomenys bus na
 
 # Privacy Policy - Registration privacy policy
 woo/woocommerce_registration_privacy_policy_text: 'Jūsų asmeniniai duomenys bus naudojami, kad suteikti kuo malonesnę patirtį mūsų tinklalapyje, valdyti prieigą prie Jūsų paskyros bei kitiems tikslams, kurie yra aprašyti mūsų [privacy_policy].' # Translate
+
+# Metadata -- KEEP --
+.woo/woocommerce_bacs_settings_format: serialized
+.woo/woocommerce_cod_settings_format: serialized
+# Metadata -- KEEP --

@@ -64,3 +64,8 @@ woo/woocommerce_checkout_privacy_policy_text: 'Ваши личные данны�
 
 # Privacy Policy - Registration privacy policy
 woo/woocommerce_registration_privacy_policy_text: 'Ваши личные данные будут использованы для корректной работы данного сайта, для управления доступом к вашему аккаунту и для других целей, описанных в нашей [privacy_policy].' # Translate
+
+# Metadata -- KEEP --
+.woo/woocommerce_bacs_settings_format: serialized
+.woo/woocommerce_cod_settings_format: serialized
+# Metadata -- KEEP --
