@@ -11,28 +11,44 @@ def main():
     """Run the validators."""
 
     root: Path = Path(__file__).resolve().parent.parent
+    valid_htmls = {
+        "legal-cookies.html",
+        "legal-terms-and-conditions.html",
+        "legal-returns-and-refunds.html",
+        "legal-privacy-policy.html",
+    }
 
-    # validate html files
-    for html in root.joinpath("Countries").glob("*/*.html"):
-        try:
-            print(f'Validating "{html}" ...')
-            soup = BS(html.read_text(), "html.parser")
-            comments = soup.find_all(string=lambda text: isinstance(text, Comment))
-            if not len(comments):
-                print(
-                    f"\n\033[91m💥  Error parsing {html}. Page meta was not found \n\033[0m"
-                )
+    for country in root.joinpath("Countries").glob("*"):
+        print(f'\nInspecting "{country.stem}" ...')
+        htmls = []
+        # validate html files
+        for html in country.glob("*.html"):
+            htmls.append(html.name)
+            try:
+                print(f'Validating "{html}" ...')
+                soup = BS(html.read_text(), "html.parser")
+                comments = soup.find_all(string=lambda text: isinstance(text, Comment))
+                if not len(comments):
+                    print(
+                        f"\n\033[91m💥  Error parsing {html}. Page meta was not found \n\033[0m"
+                    )
+                    exit(255)
+                WooSchema.load_string(str(comments[0]), WooSchema.pageMeta, html)
+            except StrictYAMLError as err:
+                print(f"\n\033[91m💥  Error parsing localization {err}. \n\033[0m")
                 exit(255)
-            WooSchema.load_string(str(comments[0]), WooSchema.pageMeta, html)
-        except StrictYAMLError as err:
-            print(f"\n\033[91m💥  Error parsing localization {err}. \n\033[0m")
+
+        if len(htmls) and any(x not in valid_htmls for x in htmls):
+            print(
+                f"\n\033[91m💥  List of detected HTML files '{','.join(htmls)}' and Expected '{','.join(valid_htmls)}' does not match. \n\033[0m"
+            )
             exit(255)
 
-    # validate country files
-    for country in root.joinpath("Countries").glob("*/local.yaml"):
+        # validate country file
+        locale = country.joinpath("local.yaml")
         try:
-            print(f'Validating "{country}" ...')
-            WooSchema.load(country, WooSchema.localization)
+            print(f'Validating "{locale}" ...')
+            WooSchema.load(locale, WooSchema.localization)
         except StrictYAMLError as err:
             print(f"\n\033[91m💥  Error parsing localization {err}. \n\033[0m")
             exit(255)
