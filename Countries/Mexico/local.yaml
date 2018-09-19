@@ -53,3 +53,8 @@ woo/woocommerce_checkout_privacy_policy_text: 'Tus datos personales serán utili
 
 # Privacy Policy - Registration privacy policy
 woo/woocommerce_registration_privacy_policy_text: 'Tus datos personales serán usados para procesar tu orden, apoyar tu experiencia en este sitio, y para otros propósitos descritos en nuestra [política de privacidad].' # Translate
+
+# Metadata -- KEEP --
+.woo/woocommerce_bacs_settings_format: serialized
+.woo/woocommerce_cod_settings_format: serialized
+# Metadata -- KEEP --

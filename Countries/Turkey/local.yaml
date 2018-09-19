@@ -75,3 +75,8 @@ woo/woocommerce_checkout_privacy_policy_text: 'Kişisel verileriniz siparişiniz
 
 # Privacy Policy - Registration privacy policy
 woo/woocommerce_registration_privacy_policy_text: 'Kişisel verileriniz bu web sitesindeki deneyiminizi desteklemek, hesabınıza erişimi yönetmek ve [privacy_policy] sayfamızda açıklanan diğer amaçlar için kullanılacaktır.' # Translate
+
+# Metadata -- KEEP --
+.woo/woocommerce_bacs_settings_format: serialized
+.woo/woocommerce_cod_settings_format: serialized
+# Metadata -- KEEP --

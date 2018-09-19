@@ -43,3 +43,8 @@ woo/woocommerce_checkout_privacy_policy_text: 'הנתונים האישיים ש�
 
 # Privacy Policy - Registration privacy policy
 woo/woocommerce_registration_privacy_policy_text: 'הנתונים האישיים שלך ישמשו לעיבוד ההזמנה שלך, לתמוך בחווית הגלישה שלך באתר זה ולמטרות אחרות המתוארות ב [privacy_policy] שלנו.' # Translate
+
+# Metadata -- KEEP --
+.woo/woocommerce_bacs_settings_format: serialized
+.woo/woocommerce_cod_settings_format: serialized
+# Metadata -- KEEP --

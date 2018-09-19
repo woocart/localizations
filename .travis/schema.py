@@ -148,6 +148,8 @@ class WooSchema:
         ),
         "woo/woocommerce_checkout_privacy_policy_text": Str(),
         "woo/woocommerce_registration_privacy_policy_text": Str(),
+        ".woo/woocommerce_bacs_settings_format": Enum(["serialized"]),
+        ".woo/woocommerce_cod_settings_format": Enum(["serialized"]),
     }
 
     @staticmethod

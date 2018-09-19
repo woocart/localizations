@@ -53,3 +53,8 @@ woo/woocommerce_checkout_privacy_policy_text: 'ข้อมูลส่วนบ
 
 # Privacy Policy - Registration privacy policy
 woo/woocommerce_registration_privacy_policy_text: 'ข้อมูลส่วนบุคคลของคุณจะถูกใช้ในการประมวลผลคำสั่งซื้อของคุณสนับสนุนการใช้งานของคุณตลอดทั่วทั้งเว็บไซต์นี้และเพื่อวัตถุประสงค์อื่น ๆ ที่ได้อธิบายไว้ใน [นโยบายส่วนบุคคล] ของเรา' # Translate
+
+# Metadata -- KEEP --
+.woo/woocommerce_bacs_settings_format: serialized
+.woo/woocommerce_cod_settings_format: serialized
+# Metadata -- KEEP --
