@@ -1046,3 +1046,11 @@ wooship/10:
             location_code: WF
             location_type: country
     methods: {  }
+
+# Metadata -- KEEP --
+.woo/woocommerce_delete_inactive_accounts_format: serialized
+.woo/woocommerce_trash_pending_orders_format: serialized
+.woo/woocommerce_trash_failed_orders_format: serialized
+.woo/woocommerce_trash_cancelled_orders_format: serialized
+.woo/woocommerce_anonymize_completed_orders_format: serialized
+# Metadata -- KEEP --
