@@ -1054,5 +1054,5 @@ wooship/10:
 .woo/woocommerce_trash_failed_orders_format: serialized
 .woo/woocommerce_trash_cancelled_orders_format: serialized
 .woo/woocommerce_anonymize_completed_orders_format: serialized
-.woo/woocommerce_tax_classes_format: implode_newline
+.woo/woocommerce_tax_classes_format: implode_comma
 # Metadata -- KEEP --

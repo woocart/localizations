@@ -12,6 +12,7 @@ def main():
 
     root: Path = Path(__file__).resolve().parent.parent
     valid_htmls = {
+        "cookies-table.html",
         "legal-cookies.html",
         "legal-terms-and-conditions.html",
         "legal-returns-and-refunds.html",
@@ -19,6 +20,8 @@ def main():
     }
 
     for country in root.joinpath("Countries").glob("*"):
+        if str(country.stem).startswith("."):
+            continue
         print(f'\nInspecting "{country.stem}" ...')
         htmls = []
         # validate html files
