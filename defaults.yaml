@@ -12,7 +12,6 @@ wp/permalink_structure: '/blog/%postname%/'
 # WooCommerce General
 woo/woocommerce_demo_store: 'yes' # Store notice
 woo/woocommerce_allowed_countries: 'all' # Selling location(s), configured by Store Wizard
-woo/woocommerce_ship_to_destination: '' # Shipping location(s), leave empty for Ship to all countries you sell to
 woo/woocommerce_product_type: 'physical' # Type of products sold, configured by Store Wizard
 woo/woocommerce_default_customer_address: 'geolocation' # Default customer location
 woo/woocommerce_calc_taxes: 'yes' # Enable taxes
@@ -85,7 +84,9 @@ woo/woocommerce_anonymize_completed_orders: # Retain completed orders
 woo/woocommerce_prices_include_tax: 'yes' # Prices entered with tax
 woo/woocommerce_tax_based_on: 'billing' # Tax based on shipping or billing address
 woo/woocommerce_tax_round_at_subtotal: 'no' # Round tax at subtotal level, instead of rounding per line
-woo/woocommerce_tax_classes: 'Reduced rate\nZero rate' # Additional rates
+woo/woocommerce_tax_classes: | # Additional rates
+  Reduced rate
+  Zero rate
 woo/woocommerce_tax_display_shop: 'incl' # Display prices with tax in the shop
 woo/woocommerce_tax_display_cart: 'incl' # Display prices with tax during basket and checkout
 woo/woocommerce_shipping_tax_class: 'zero-rate' # "inherit" based on cart, "standard", "reduced-rate" or "zero-rate"
