@@ -84,9 +84,9 @@ woo/woocommerce_anonymize_completed_orders: # Retain completed orders
 woo/woocommerce_prices_include_tax: 'yes' # Prices entered with tax
 woo/woocommerce_tax_based_on: 'billing' # Tax based on shipping or billing address
 woo/woocommerce_tax_round_at_subtotal: 'no' # Round tax at subtotal level, instead of rounding per line
-woo/woocommerce_tax_classes: | # Additional rates
-  Reduced rate
-  Zero rate
+woo/woocommerce_tax_classes: # Additional rates
+  - Reduced
+  - Zero
 woo/woocommerce_tax_display_shop: 'incl' # Display prices with tax in the shop
 woo/woocommerce_tax_display_cart: 'incl' # Display prices with tax during basket and checkout
 woo/woocommerce_shipping_tax_class: 'zero-rate' # "inherit" based on cart, "standard", "reduced-rate" or "zero-rate"
