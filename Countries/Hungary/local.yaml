@@ -19,7 +19,8 @@ woo/woocommerce_price_num_decimals: '2' # Number of decimals
 woo/woocommerce_tax_classes:
    - Reduced
    - Reduced 2
-   - Zero # If more than one reduced rate add '\nReduced rate 2'
+   - Zero
+
 wootax/1: # Standard rate
     country: 'HU'
     state: ''
@@ -29,7 +30,7 @@ wootax/1: # Standard rate
     compound: '0'
     shipping: '0'
     order: '0'
-    class: 'standard-rate'
+    class: ''
     locations: {  }
 wootax/2: # Reduced rate
     country: 'HU'
@@ -40,9 +41,9 @@ wootax/2: # Reduced rate
     compound: '0'
     shipping: '0'
     order: '0'
-    class: 'reduced-rate'
+    class: 'reduced'
     locations: {  }
-wootax/4: # Reduced rate 2
+wootax/3: # Reduced rate 2
     country: 'HU'
     state: ''
     rate: '5.0000'
@@ -51,9 +52,9 @@ wootax/4: # Reduced rate 2
     compound: '0'
     shipping: '0'
     order: '0'
-    class: 'reduced-rate'
+    class: 'reduced-2'
     locations: {  }
-wootax/3: # Zero rate
+wootax/4: # Zero rate
     country: 'HU'
     state: ''
     rate: '0.0000'
@@ -62,7 +63,7 @@ wootax/3: # Zero rate
     compound: '0'
     shipping: '0'
     order: '1'
-    class: 'zero-rate'
+    class: 'zero'
     locations: {  }
 
 # Payments - Direct bank transfer

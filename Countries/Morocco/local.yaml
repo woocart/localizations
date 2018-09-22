@@ -31,7 +31,7 @@ wootax/1: # Standard rate
     compound: '0'
     shipping: '0'
     order: '0'
-    class: 'standard-rate'
+    class: ''
     locations: {  }
 wootax/2: # Reduced rate
     country: 'MA'
@@ -42,7 +42,7 @@ wootax/2: # Reduced rate
     compound: '0'
     shipping: '0'
     order: '0'
-    class: 'reduced-rate'
+    class: 'reduced'
     locations: {  }
 wootax/4: # Reduced rate 2
     country: 'MA'
@@ -53,7 +53,7 @@ wootax/4: # Reduced rate 2
     compound: '0'
     shipping: '0'
     order: '0'
-    class: 'reduced-rate'
+    class: 'reduced'
     locations: {  }
 wootax/5: # Reduced rate 3
     country: 'MA'
@@ -64,7 +64,7 @@ wootax/5: # Reduced rate 3
     compound: '0'
     shipping: '0'
     order: '0'
-    class: 'reduced-rate'
+    class: 'reduced'
     locations: {  }
 wootax/3: # Zero rate
     country: 'MA'
@@ -75,7 +75,7 @@ wootax/3: # Zero rate
     compound: '0'
     shipping: '0'
     order: '1'
-    class: 'zero-rate'
+    class: 'zero'
     locations: {  }
 
 # Payments - Direct bank transfer

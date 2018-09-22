@@ -27,9 +27,9 @@ wootax/1: # Standard rate
     compound: '0'
     shipping: '0'
     order: '0'
-    class: 'standard-rate'
+    class: ''
     locations: {  }
-wootax/3: # Zero rate
+wootax/2: # Zero rate
     country: 'PK'
     state: ''
     rate: '0.0000'
@@ -38,7 +38,7 @@ wootax/3: # Zero rate
     compound: '0'
     shipping: '0'
     order: '1'
-    class: 'zero-rate'
+    class: 'zero'
     locations: {  }
 
 # Payments - Direct bank transfer

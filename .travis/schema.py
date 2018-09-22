@@ -5,6 +5,7 @@ from const import CURRENCIES
 from const import TIMEZONES
 from const import WPLANGS
 from pathlib import Path
+from strictyaml import Any
 from strictyaml import as_document
 from strictyaml import Bool
 from strictyaml import Decimal
@@ -14,8 +15,11 @@ from strictyaml import load as yaml_load
 from strictyaml import Map
 from strictyaml import MapPattern
 from strictyaml import Optional
+from strictyaml import Seq
 from strictyaml import Str
 from strictyaml import YAMLError
+
+import copy
 
 
 class WooSchema:
@@ -50,77 +54,7 @@ class WooSchema:
         "woo/woocommerce_price_thousand_sep": Enum([".", ","]),
         "woo/woocommerce_price_decimal_sep": Enum([",", "."]),
         "woo/woocommerce_price_num_decimals": Enum(["2"]),
-        "woo/woocommerce_tax_classes": Str(),
-        Optional("wootax/1"): Map(
-            {
-                "country": Enum(COUNTRIES),
-                "state": Str(),
-                "rate": Decimal(),
-                "name": Str(),
-                "priority": Int(),
-                "compound": Int(),
-                "shipping": Int(),
-                "order": Int(),
-                "class": Str(),
-                "locations": Map({}),
-            }
-        ),
-        Optional("wootax/2"): Map(
-            {
-                "country": Enum(COUNTRIES),
-                "state": Str(),
-                "rate": Decimal(),
-                "name": Str(),
-                "priority": Int(),
-                "compound": Int(),
-                "shipping": Int(),
-                "order": Int(),
-                "class": Str(),
-                "locations": Map({}),
-            }
-        ),
-        Optional("wootax/3"): Map(
-            {
-                "country": Enum(COUNTRIES),
-                "state": Str(),
-                "rate": Decimal(),
-                "name": Str(),
-                "priority": Int(),
-                "compound": Int(),
-                "shipping": Int(),
-                "order": Int(),
-                "class": Str(),
-                "locations": Map({}),
-            }
-        ),
-        Optional("wootax/4"): Map(
-            {
-                "country": Enum(COUNTRIES),
-                "state": Str(),
-                "rate": Decimal(),
-                "name": Str(),
-                "priority": Int(),
-                "compound": Int(),
-                "shipping": Int(),
-                "order": Int(),
-                "class": Str(),
-                "locations": Map({}),
-            }
-        ),
-        Optional("wootax/5"): Map(
-            {
-                "country": Enum(COUNTRIES),
-                "state": Str(),
-                "rate": Decimal(),
-                "name": Str(),
-                "priority": Int(),
-                "compound": Int(),
-                "shipping": Int(),
-                "order": Int(),
-                "class": Str(),
-                "locations": Map({}),
-            }
-        ),
+        Optional("woo/woocommerce_tax_classes"): Seq(Str()),
         "woo/woocommerce_bacs_settings": Map(
             {
                 "enabled": Bool(),
@@ -150,36 +84,52 @@ class WooSchema:
         "woo/woocommerce_registration_privacy_policy_text": Str(),
         ".woo/woocommerce_bacs_settings_format": Enum(["serialized"]),
         ".woo/woocommerce_cod_settings_format": Enum(["serialized"]),
+        ".woo/woocommerce_tax_classes_format": Enum(["implode_newline"]),
     }
 
     @staticmethod
-    def load(path: Path, schema):
+    def load(path: Path, schema_pointer):
         """Load and validate .yaml file."""
+        schema = copy.deepcopy(schema_pointer)
         with path.open() as f:
+            yaml = f.read()
+            data = yaml_load(yaml, Any())
+            is_template = path.name == "template.yaml"
 
             # Replace real Country and Timezone values with fakes
-            if path.name == "template.yaml":
+            if is_template:
                 schema["woo/woocommerce_default_country"] = Enum(["LL"])
                 schema["wp/timezone_string"] = Enum(["Region/Country"])
                 schema["wp/WPLANG"] = Enum(["ll_LL"])
                 schema["woo/woocommerce_currency"] = Enum(["LLL"])
 
-                for key in schema.keys():
-                    if str(key) == 'Optional("wootax/1")':
-                        dict_subschema = schema[key]._validator_dict
-                        dict_subschema["country"] = Enum(["LL"])
-                        schema[key] = Map(dict_subschema)
-                    if str(key) == 'Optional("wootax/2")':
-                        dict_subschema = schema[key]._validator_dict
-                        dict_subschema["country"] = Enum(["LL"])
-                        schema[key] = Map(dict_subschema)
-                    if str(key) == 'Optional("wootax/3")':
-                        dict_subschema = schema[key]._validator_dict
-                        dict_subschema["country"] = Enum(["LL"])
-                        schema[key] = Map(dict_subschema)
+            if "woo/woocommerce_tax_classes" in data:
+                # Inspect that tax classes and taxes match
 
+                # create enum for taxes from defined tax_classes
+                tax_classes = [
+                    str(tax).lower().replace(" ", "-")
+                    for tax in data["woo/woocommerce_tax_classes"]
+                ]
+                # +1 is for standard schema which is never defined in tax class
+                for x in range(len(tax_classes) + 1):
+                    # start counting with 1
+                    schema[f"wootax/{x+1}"] = Map(
+                        {
+                            "country": Enum(["LL"]) if is_template else Enum(COUNTRIES),
+                            "state": Str(),
+                            "rate": Decimal(),
+                            "name": Str(),
+                            "priority": Int(),
+                            "compound": Int(),
+                            "shipping": Int(),
+                            "order": Int(),
+                            "class": Enum([""]) if x == 0 else Enum(tax_classes),
+                            "locations": Map({}),
+                        }
+                    )
             try:
-                return yaml_load(f.read(), Map(schema), path)
+                return yaml_load(yaml, Map(schema), path)
             except YAMLError:
                 raise
 

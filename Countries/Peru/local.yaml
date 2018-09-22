@@ -15,8 +15,8 @@ woo/woocommerce_price_thousand_sep: ',' # Thousand separator
 woo/woocommerce_price_decimal_sep: '.' # Decimal separator
 woo/woocommerce_price_num_decimals: '2' # Number of decimals
 
-# Tax rates
-woo/woocommerce_tax_classes: '' # If more than one reduced rate add '\nReduced rate 2'
+woo/woocommerce_tax_classes: [] # Only standard class
+
 wootax/1: # Standard rate
     country: 'PE'
     state: ''
@@ -26,7 +26,7 @@ wootax/1: # Standard rate
     compound: '0'
     shipping: '0'
     order: '0'
-    class: 'standard-rate'
+    class: ''
     locations: {  }
 
 # Payments - Direct bank transfer
@@ -46,4 +46,5 @@ woo/woocommerce_registration_privacy_policy_text: 'Tus datos personales serán u
 # Metadata -- KEEP --
 .woo/woocommerce_bacs_settings_format: serialized
 .woo/woocommerce_cod_settings_format: serialized
+.woo/woocommerce_tax_classes_format: implode_newline
 # Metadata -- KEEP --
