@@ -17,7 +17,10 @@ woo/woocommerce_price_decimal_sep: ',' # Decimal separator
 woo/woocommerce_price_num_decimals: '2' # Number of decimals
 
 # Tax rates
-woo/woocommerce_tax_classes: 'Reduced rate\nReduced rate 2\nZero rate' # Additional rates
+woo/woocommerce_tax_classes:
+   - Reduced
+   - Reduced 2
+   - Zero # Additional rates
 wootax/1: # Standard rate
     country: RO
     state: ''
@@ -95,4 +98,5 @@ woo/woocommerce_registration_privacy_policy_text: 'Datele tale personale vor fi 
 # Metadata -- KEEP --
 .woo/woocommerce_bacs_settings_format: serialized
 .woo/woocommerce_cod_settings_format: serialized
+.woo/woocommerce_tax_classes_format: implode_newline
 # Metadata -- KEEP --
