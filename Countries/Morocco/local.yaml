@@ -16,7 +16,12 @@ woo/woocommerce_price_decimal_sep: '.' # Decimal separator
 woo/woocommerce_price_num_decimals: '2' # Number of decimals
 
 # Tax rates
-woo/woocommerce_tax_classes: 'Reduced rate\nReduced rate 2\nReduced rate 3\nZero rate' # If more than one reduced rate add '\nReduced rate 2'
+woo/woocommerce_tax_classes:
+  - Reduced
+  - Reduced 2
+  - Reduced 3
+  - Zero
+
 wootax/1: # Standard rate
     country: 'MA'
     state: ''
@@ -90,4 +95,5 @@ woo/woocommerce_registration_privacy_policy_text: 'Your personal data will be us
 # Metadata -- KEEP --
 .woo/woocommerce_bacs_settings_format: serialized
 .woo/woocommerce_cod_settings_format: serialized
+.woo/woocommerce_tax_classes_format: implode_newline
 # Metadata -- KEEP --
