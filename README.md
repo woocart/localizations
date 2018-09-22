@@ -34,6 +34,17 @@ There are three types of localization: store (WordPress and WooCommerce settings
 
 [Open a new issue](https://github.com/woocart/localizations/issues) and explain the proposed change in detail, if possible with external sources.
 
+
+## Supported WordPress shortcodes
+
+- `[woo-include page="SOME-NAME"]` - Inlines content from page with slug `SOME-NAME`
+- `[woo-include post="SOME-NAME"]` - Inlines content from post with slug `SOME-NAME`
+- `[company-name]` - Displays company name
+- `[tax-id]` - Displays tax id
+- `[policy-page]` - Displays HTML A element with link to the policy page
+- `[store-url]` - Displays HTML A element with link to the store page
+- `[store-name]` - Displays store name
+
 ## Importing
 
 WIP
