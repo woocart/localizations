@@ -19,7 +19,7 @@ There are three types of localization: store (WordPress and WooCommerce settings
 
 >WooCart Hosting
 >
->WooCart is a WooCommerce hosting service offered by Niteo GmbH that manages our Service hosting and maintenance. For more information on the privacy practices of Niteo, please visit their [Privacy Policy page](https://woocart.com.co/legal/privacy).
+>WooCart is a WooCommerce hosting service offered by Niteo GmbH that manages our Service hosting and maintenance. For more information on the privacy practices of Niteo, please visit their [Privacy Policy page](https://woocart.com/legal/privacy).
 
 - Create a pull request for the changes.
 
