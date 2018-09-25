@@ -49,7 +49,7 @@
         language: system
         types: [non-executable, file, text]
         exclude_types: [svg]
-        exclude: 'Countries|const.py'
+        exclude: 'Countries|const.py|.travis/dictionaries'
         stages: [push]
 
     -   id: htmllint

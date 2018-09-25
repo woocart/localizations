@@ -6,6 +6,8 @@ from pathlib import Path
 from schema import WooSchema
 from strictyaml import StrictYAMLError
 
+import subprocess
+
 
 def main():
     """Run the validators."""
@@ -49,12 +51,39 @@ def main():
 
         # validate country file
         locale = country.joinpath("local.yaml")
+        language = "en"
         try:
             print(f'Validating "{locale}" ...')
-            WooSchema.load(locale, WooSchema.localization)
+            schema = WooSchema.load(locale, WooSchema.localization)
+            language = str(schema["wp/WPLANG"]).split("_")[0]
         except StrictYAMLError as err:
             print(f"\n\033[91m💥  Error parsing localization {err}. \n\033[0m")
             exit(255)
+
+        # spellcheck
+        if language in ["en", "ro", "sl"]:
+            for html in country.glob("*.html"):
+                cat = subprocess.Popen(("cat", html), stdout=subprocess.PIPE)
+                english = subprocess.Popen(
+                    (
+                        "aspell --lang=en --encoding=utf-8 "
+                        "--personal=./.travis/dictionaries/en.pws list"
+                    ).split(" "),
+                    stdin=cat.stdout,
+                    stdout=subprocess.PIPE,
+                )
+                output = subprocess.check_output(
+                    (
+                        f"aspell --lang={language} --encoding=utf-8 "
+                        f"--personal=./.travis/dictionaries/{language}.pws list"
+                    ).split(" "),
+                    stdin=english.stdout,
+                )
+                if output:
+                    print(
+                        f"\n\033[91m💥  Found spelling mistakes in {country.name}/{html.name}: \n{output.decode()}\033[0m"
+                    )
+                    exit(255)
 
     # validate template.yaml
     try:
