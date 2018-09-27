@@ -41,3 +41,9 @@ clean:
 	@if [ -d ".venv/" ]; then pipenv --rm; fi
 	@rm -rf .git/hooks/pre-commit .git/hooks/pre-push
 	@rm -f .installed
+
+gen:
+	pipenv run python .travis/csv2html.py csv/electronics.csv Countries/.common/electronics
+	pipenv run python .travis/csv2html.py csv/bookstore.csv Countries/.common/bookstore
+	pipenv run python .travis/csv2html.py csv/toys.csv Countries/.common/toys
+	pipenv run python .travis/csv2html.py csv/jewellery.csv Countries/.common/jewellery

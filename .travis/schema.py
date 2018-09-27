@@ -26,6 +26,14 @@ class WooSchema:
     """Schema for localization YAML files."""
 
     # https://github.com/woocart/woocart-defaults/blob/master/src/importers/class-woopage.php#L14
+    productMeta = {
+        "title": Str(),
+        Optional("description"): Str(),
+        Optional("price"): Str(),
+        Optional("images"): Seq(Str()),
+    }
+
+    # https://github.com/woocart/woocart-defaults/blob/master/src/importers/class-woopage.php#L14
     pageMeta = {
         "post_title": Str(),
         Optional("post_name"): Str(),

@@ -16,9 +16,13 @@ def main():
     valid_htmls = {
         "cookies-table.html",
         "legal-cookies.html",
-        "legal-terms-and-conditions.html",
-        "legal-returns-and-refunds.html",
         "legal-privacy-policy.html",
+        "legal-returns-and-refunds.html",
+        "legal-terms-and-conditions.html",
+        "products-bookstore.html",
+        "products-electronics.html",
+        "products-jewellery.html",
+        "products-toys.html",
     }
 
     for country in root.joinpath("Countries").glob("*"):
@@ -38,7 +42,11 @@ def main():
                         f"\n\033[91m💥  Error parsing {html}. Page meta was not found \n\033[0m"
                     )
                     exit(255)
-                WooSchema.load_string(str(comments[0]), WooSchema.pageMeta, html)
+                if str(html.name).startswith("products-"):
+                    WooSchema.load_string(str(comments[0]), WooSchema.productMeta, html)
+                else:
+                    WooSchema.load_string(str(comments[0]), WooSchema.pageMeta, html)
+
             except StrictYAMLError as err:
                 print(f"\n\033[91m💥  Error parsing localization {err}. \n\033[0m")
                 exit(255)
