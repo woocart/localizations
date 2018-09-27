@@ -45,6 +45,17 @@ There are three types of localization: store (WordPress and WooCommerce settings
 - `[store-url]` - Displays HTML A element with link to the store page
 - `[store-name]` - Displays store name
 
-## Importing
 
-WIP
+## Exporting products from WooCommerce
+
+- Go tho the `Products`> Export
+- Select `Name`, `Description`, `Short Description`, `Regular Price`, `Images` in the export field.
+- Save file to `csv` folder
+- Run `pipenv run python .travis/csv2html.py csv/your_file_name.csv Countries/.common/store_name` to generate product HTML page and download images for products.
+
+## Translating the products
+
+- Copy the products HTML you want to translate to the Country folder
+- Edit the `title`, `description` and body fields.
+
+Both HTML and Markdown are supported for the body of the product.
