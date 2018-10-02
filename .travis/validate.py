@@ -14,6 +14,8 @@ def main():
 
     root: Path = Path(__file__).resolve().parent.parent
     valid_htmls = {
+        "about.html",
+        "contact.html",
         "cookies-table.html",
         "legal-cookies.html",
         "legal-privacy-policy.html",
