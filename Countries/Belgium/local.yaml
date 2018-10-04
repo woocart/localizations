@@ -46,7 +46,7 @@ wootax/4: # Reduced rate 2
     country: 'BE'
     state: ''
     rate: '6.0000'
-    name: 'BTW'# Translate
+    name: 'BTW' # Translate
     priority: '1'
     compound: '0'
     shipping: '0'
@@ -57,7 +57,7 @@ wootax/3: # Zero rate
     country: 'BE'
     state: ''
     rate: '0.0000'
-    name: 'BTW'# Translate
+    name: 'BTW' # Translate
     priority: '1'
     compound: '0'
     shipping: '0'
