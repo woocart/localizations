@@ -28,9 +28,10 @@ class WooSchema:
     # https://github.com/woocart/woocart-defaults/blob/master/src/importers/class-woopage.php#L14
     productMeta = {
         "title": Str(),
-        Optional("description"): Str(),
+        "description": Str(),
         Optional("price"): Str(),
-        Optional("images"): Seq(Str()),
+        Optional("category"): Str(),
+        "images": Seq(Str()),
     }
 
     # https://github.com/woocart/woocart-defaults/blob/master/src/importers/class-woopage.php#L14
