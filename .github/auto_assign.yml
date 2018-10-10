@@ -1,0 +1,12 @@
+# https://github.com/behaviorbot/request-info
+
+# Set to true to add reviewers to pull requests
+addReviewers: true
+
+# Set to true to add assignees to pull requests
+addAssignees: true
+
+# A list of reviewers to be added to pull requests (GitHub user name)
+reviewers:
+  - dz0ny
+  - zupo
