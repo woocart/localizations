@@ -1,4 +1,4 @@
-[![WooCart Project](https://img.shields.io/badge/powered%20by-WooCart-943af9.svg)](https://woocart.com) [![Build Status](https://travis-ci.com/woocart/localizations.svg?branch=master)](https://travis-ci.com/woocart/localizations) 
+[![WooCart Project](https://img.shields.io/badge/powered%20by-WooCart-943af9.svg)](https://woocart.com) [![Build Status](https://travis-ci.com/woocart/localizations.svg?branch=master)](https://travis-ci.com/woocart/localizations)
 # WooCart Localizations
 
 This repository contains default setting for a [WooCart](https://woocart.com/) store and specific settings for each country.
