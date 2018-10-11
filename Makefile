@@ -47,3 +47,7 @@ gen:
 	pipenv run python .travis/csv2html.py csv/bookstore.csv Countries/.common/bookstore
 	pipenv run python .travis/csv2html.py csv/toys.csv Countries/.common/toys
 	pipenv run python .travis/csv2html.py csv/jewellery.csv Countries/.common/jewellery
+
+
+optimize:
+	jpegoptim  --all-progressive --strip-all -m75 -o -t Countries/.common/*/*.jpg
