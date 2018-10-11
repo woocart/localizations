@@ -50,4 +50,5 @@ gen:
 
 
 optimize:
+	find Countries/.common/ -iname "*.jpg" -exec convert {} -resize 960x960\> {} \;
 	jpegoptim  --all-progressive --strip-all -m75 -o -t Countries/.common/*/*.jpg
