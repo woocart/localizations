@@ -23,12 +23,15 @@ from typing import List
 # WPLang model
 model = []
 model.append("WPLANGS: List[str] = [")
+model.append('  "en_US",  # WordPress base')
 log.info("Fetching info")
 res = requests.get(f"http://api.wordpress.org/translations/core/1.0/")
 res.raise_for_status()
-for translation in res.json()["translations"]:
+langs = res.json()["translations"]
+for translation in langs:
     wplang = translation["language"]
-    log.info("Adding", language=wplang, name=translation["english_name"])
-    model.append(f'  "{wplang}",')  # noqa: C408
+    name = translation["english_name"]
+    log.info("Adding", language=wplang, name=name)
+    model.append(f'  "{wplang}",  # {name}')  # noqa: C408
 model.append("]")
 Path(".travis/wplang.py").write_text(HEADER + "\n".join(model))
