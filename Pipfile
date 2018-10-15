@@ -32,3 +32,8 @@ pre-commit-hooks = "*"
 requests = "*"
 strictyaml = {git = "https://github.com/woocart/strictyaml.git", editable = true}
 html-linter = "*"
+structlog = "*"
+
+[dev-packages]
+structlog = "*"
+requests = "*"

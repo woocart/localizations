@@ -3,7 +3,6 @@
 from const import COUNTRIES
 from const import CURRENCIES
 from const import TIMEZONES
-from const import WPLANGS
 from pathlib import Path
 from strictyaml import Any
 from strictyaml import as_document
@@ -18,6 +17,7 @@ from strictyaml import Optional
 from strictyaml import Seq
 from strictyaml import Str
 from strictyaml import YAMLError
+from wplang import WPLANGS
 
 import copy
 
