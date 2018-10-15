@@ -42,13 +42,15 @@ clean:
 	@rm -rf .git/hooks/pre-commit .git/hooks/pre-push
 	@rm -f .installed
 
-gen:
+gen: codegen
 	pipenv run python .travis/csv2html.py csv/electronics.csv Countries/.common/electronics
 	pipenv run python .travis/csv2html.py csv/bookstore.csv Countries/.common/bookstore
 	pipenv run python .travis/csv2html.py csv/toys.csv Countries/.common/toys
 	pipenv run python .travis/csv2html.py csv/jewellery.csv Countries/.common/jewellery
 
-
 optimize:
 	find Countries/.common/ -iname "*.jpg" -exec convert {} -resize 960x960\> {} \;
 	jpegoptim  --all-progressive --strip-all -m75 -o -t Countries/.common/*/*.jpg
+
+codegen:
+	pipenv run python .codegen/update_const.py
