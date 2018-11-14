@@ -9,6 +9,15 @@ wp/avatar_default: 'gravatar_default'
 wp/blog_public: '1' # Search Engine Visibility
 wp/permalink_structure: '/blog/%postname%/'
 
+# Better Tax Handling Plugin (options)
+wp/b2b_sales : 'none' # (B2B) Disable state for B2B transactions
+wp/tax_id_required: 'yes' # (B2B) Tax ID required for B2B transactions
+wp/tax_home_country: 'yes' # (B2B) Charge tax on sales in the home country
+wp/tax_eu_with_vatid: 'yes' # (B2B) Do not charge tax if Tax ID is provided
+wp/tax_charge_vat: 'yes' # (B2B) Do not charge tax for B2B sales outside the country
+wp/vat_digital_goods_enable: 'no' # (B2C - EU) Enable digital goods for B2C
+wp/vat_distance_selling_enable: 'no' # (B2C - EU) Enable distance selling for B2C
+
 # WooCommerce General
 woo/woocommerce_demo_store: 'yes' # Store notice
 woo/woocommerce_allowed_countries: 'all' # Selling location(s), configured by Store Wizard
