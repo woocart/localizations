@@ -1,7 +1,7 @@
 [![WooCart Project](https://img.shields.io/badge/powered%20by-WooCart-943af9.svg)](https://woocart.com) [![Build Status](https://travis-ci.com/woocart/localizations.svg?branch=master)](https://travis-ci.com/woocart/localizations)
 # WooCart Localizations
 
-This repository contains default setting for a [WooCart](https://woocart.com/) store and specific settings for each country.
+This repository contains default settings for a [WooCart](https://woocart.com/) store and specific settings for each country.
 
 ## Making a new localization
 
@@ -49,7 +49,7 @@ There are three types of localization: store (WordPress and WooCommerce settings
 
 ## Exporting products from WooCommerce
 
-- Go tho the `Products`> Export
+- Go to `Products` > `Export`
 - Select `Name`, `Description`, `Short Description`, `Regular Price`, `Images` in the export field.
 - Save file to `csv` folder
 - Run `pipenv run python .travis/csv2html.py csv/your_file_name.csv Countries/.common/store_name` to generate product HTML page and download images for products.
