@@ -53,7 +53,7 @@ class WooSchema:
         "wp/start_of_week": Enum(["1", "2", "3", "4", "5", "6", "7"]),
         "wp/timezone_string": Enum(TIMEZONES),
         "wp/blog_charset": Enum(["UTF-8"]),
-        "wp/WPLANG": Enum(WPLANGS),
+        "wp/DEFAULT_WPLANG": Enum(WPLANGS),
         "woo/woocommerce_weight_unit": Enum(["kg", "k", "lbs", "oz"]),
         "woo/woocommerce_dimension_unit": Enum(["m", "cm", "mm", "in", "yd"]),
         "woo/woocommerce_currency": Enum(CURRENCIES),
@@ -109,7 +109,7 @@ class WooSchema:
             if is_template:
                 schema["woo/woocommerce_default_country"] = Enum(["LL"])
                 schema["wp/timezone_string"] = Enum(["Region/Country"])
-                schema["wp/WPLANG"] = Enum(["ll_LL"])
+                schema["wp/DEFAULT_WPLANG"] = Enum(["ll_LL"])
                 schema["woo/woocommerce_currency"] = Enum(["LLL"])
 
             if "woo/woocommerce_tax_classes" in data:
