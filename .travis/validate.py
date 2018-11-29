@@ -65,7 +65,7 @@ def main():
         try:
             print(f'Validating "{locale}" ...')
             schema = WooSchema.load(locale, WooSchema.localization)
-            language = str(schema["wp/WPLANG"]).split("_")[0]
+            language = str(schema["wp/DEFAULT_WPLANG"]).split("_")[0]
         except StrictYAMLError as err:
             print(f"\n\033[91m💥  Error parsing localization {err}. \n\033[0m")
             exit(255)

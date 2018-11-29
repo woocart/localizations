@@ -5,7 +5,7 @@ wp/time_format: 'H:i' # "H:i" for 24-hour clock, "g:i A" for 12-hour clock
 wp/start_of_week: '1' # 1= Monday, 7=Sunday
 wp/timezone_string: 'Europe/Warsaw' # Timezone string https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 wp/blog_charset: 'UTF-8'
-wp/WPLANG: 'pl_PL' # http://api.wordpress.org/translations/core/1.0/
+wp/DEFAULT_WPLANG: 'pl_PL' # http://api.wordpress.org/translations/core/1.0/
 woo/woocommerce_weight_unit: 'kg' # Measurements weight unit kg, g, lbs, oz
 woo/woocommerce_dimension_unit: 'cm' # Measurements dimension unit m, cm, mm, in, yd
 # Currency options
