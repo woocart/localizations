@@ -48,7 +48,7 @@ woo/woocommerce_downloads_grant_access_after_payment: 'yes' # Grant access to do
 
 # Shipping Options
 woo/woocommerce_enable_shipping_calc: 'yes' # Enable the shipping calculator on the basket page
-woo/woocommerce_ship_to_destination: 'billing' # Shipping destination
+woo/woocommerce_ship_to_destination: 'shipping' # Shipping destination
 woo/woocommerce_shipping_cost_requires_address: 'yes' # Hide shipping costs until an address is entered
 woo/woocommerce_shipping_debug_mode: 'no' # Debug mode
 
