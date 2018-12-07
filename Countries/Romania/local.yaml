@@ -70,8 +70,8 @@ wootax/4: # Zero rate
 woo/woocommerce_bacs_settings:
     enabled: 'yes'
     title: 'Transfer bancar' # Translate
-    description: 'Plateste direct in contul nostru bancar.' # Translate
-    instructions: 'Te rugam sa utilizezi numarul comenzii tale ca referinta a platii. Comanda ta va fi livrata doar dupa ce plata se regaseste in contul nostru.' # Translate
+    description: 'Plătește direct în contul nostru bancar.' # Translate
+    instructions: 'Te rugăm să utilizezi numărul comenzii tale ca referință a plății. Comanda ta va fi livrată doar după ce plata se regăsește în contul nostru.' # Translate
     account_name: ''
     account_number: ''
     sort_code: ''
@@ -84,20 +84,20 @@ woo/woocommerce_bacs_settings:
 woo/woocommerce_cod_settings:
     enabled: 'yes'
     title: 'Plata cash la livrare' # Translate
-    description: 'Plateste cash la livrare.' # Translate
-    instructions: 'Plateste cash la livrare.' # Translate
+    description: 'Plătește cash la livrare.' # Translate
+    instructions: 'Plătește cash la livrare.' # Translate
     enable_for_methods: ''
     enable_for_virtual: 'no'
 
 # Privacy Policy -  Checkout privacy policy
-woo/woocommerce_checkout_privacy_policy_text: "Datele tale personale vor fi utilizate pentru a-ti procesa comanda, a-ti furniza cea mai buna experienta la utilizarea website-ului si pentru alte scopuri descrise in [privacy_policy]." # Translate
+woo/woocommerce_checkout_privacy_policy_text: "Datele tale personale vor fi utilizate pentru a-ți procesa comanda, a-ți furniza cea mai bună experiență la utilizarea website-ului și pentru alte scopuri descrise în [privacy_policy]." # Translate
 
 # Privacy Policy - Registration privacy policy
-woo/woocommerce_registration_privacy_policy_text: 'Datele tale personale vor fi utilizate pentru a-ti furniza cea mai buna experienta la utilizarea website-ului, pentru a-ti putea accesa contul si pentru alte scopuri descrise in [privacy_policy].' # Translate
+woo/woocommerce_registration_privacy_policy_text: 'Datele tale personale vor fi utilizate pentru a-ți furniza cea mai bună experiență la utilizarea website-ului, pentru a-ți putea accesa contul și pentru alte scopuri descrise în [privacy_policy].' # Translate
 
 # Store tagline
 wp/blogdescription: 'Just another WooCart store'
-wp/woocommerce_demo_store_notice: 'This is a demo store for testing purposes — no orders shall be fulfilled. Powered by <a href="https://woocart.com/">WooCart<a/>.'
+wp/woocommerce_demo_store_notice: 'Acesta este un magazin demo doar pentru testare — nu trebuie facută nicio comandă. Cu sprijinul <a href="https://woocart.com/">WooCart<a/>.'
 
 # Metadata -- KEEP --
 .woo/woocommerce_bacs_settings_format: serialized
