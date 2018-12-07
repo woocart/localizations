@@ -54,6 +54,8 @@ class WooSchema:
         "wp/timezone_string": Enum(TIMEZONES),
         "wp/blog_charset": Enum(["UTF-8"]),
         "wp/DEFAULT_WPLANG": Enum(WPLANGS),
+        Optional("wp/blogdescription"): Str(),
+        Optional("wp/woocommerce_demo_store_notice"): Str(),
         "woo/woocommerce_weight_unit": Enum(["kg", "k", "lbs", "oz"]),
         "woo/woocommerce_dimension_unit": Enum(["m", "cm", "mm", "in", "yd"]),
         "woo/woocommerce_currency": Enum(CURRENCIES),

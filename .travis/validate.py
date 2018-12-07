@@ -14,6 +14,8 @@ def main():
 
     root: Path = Path(__file__).resolve().parent.parent
     valid_htmls = {
+        "home.html",
+        "blog.html",
         "about.html",
         "contact.html",
         "cookies-table.html",
@@ -56,6 +58,9 @@ def main():
         if len(htmls) and any(x not in valid_htmls for x in htmls):
             print(
                 f"\n\033[91m💥  List of detected HTML files '{','.join(htmls)}' and Expected '{','.join(valid_htmls)}' does not match. \n\033[0m"
+            )
+            print(
+                f"\n\033[91m💥  Extra files '{','.join(set(htmls).difference(valid_htmls))}' \n\033[0m"
             )
             exit(255)
 
