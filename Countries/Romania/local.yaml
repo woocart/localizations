@@ -95,6 +95,10 @@ woo/woocommerce_checkout_privacy_policy_text: "Datele tale personale vor fi util
 # Privacy Policy - Registration privacy policy
 woo/woocommerce_registration_privacy_policy_text: 'Datele tale personale vor fi utilizate pentru a-ti furniza cea mai buna experienta la utilizarea website-ului, pentru a-ti putea accesa contul si pentru alte scopuri descrise in [privacy_policy].' # Translate
 
+# Store tagline
+wp/blogdescription: 'Just another WooCart store'
+wp/woocommerce_demo_store_notice: 'This is a demo store for testing purposes — no orders shall be fulfilled. Powered by <a href="https://woocart.com/">WooCart<a/>.'
+
 # Metadata -- KEEP --
 .woo/woocommerce_bacs_settings_format: serialized
 .woo/woocommerce_cod_settings_format: serialized
