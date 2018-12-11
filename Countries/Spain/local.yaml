@@ -1,5 +1,5 @@
 # Local Standards
-woo/woocommerce_default_country: 'ES' # Country code https://github.com/woocommerce/woocommerce/blob/master/i18n/countries.php
+woo/woocommerce_default_country: 'ES:M' # Country code https://github.com/woocommerce/woocommerce/blob/master/i18n/countries.php
 wp/date_format: 'd/m/Y' # "d/m/Y", "Y-m-d", "F j, Y" for December 1, 2020
 wp/time_format: 'H:i' # "H:i" for 24-hour clock, "g:i A" for 12-hour clock
 wp/start_of_week: '1' # 1= Monday, 7=Sunday
