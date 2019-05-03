@@ -6,12 +6,62 @@ post_status: publish
 woocart_defaults:
   wp/wp_page_for_contact: $ID
 -->
-[contact-form-7 title="Contact form 1"]
 
-<h2>Company Information</h2>
+<!-- wp:cover {"url":"https://demo-config.mywoocart.com/wp-content/uploads/2019/01/contact-bg-free-img.jpg","id":778} -->
+<div class="wp-block-cover has-background-dim"
+  style="background-image:url(https://demo-config.mywoocart.com/wp-content/uploads/2019/01/contact-bg-free-img.jpg)">
+  <p class="wp-block-cover-text"><strong>Contact Us</strong></p>
+</div>
+<!-- /wp:cover -->
 
-<p>
-[company-name]
-[company-address]
-[company-postcode] [company-city]
-</p>
+<!-- wp:columns {"className":"ast-container"} -->
+<div class="wp-block-columns has-2-columns ast-container">
+  <!-- wp:column -->
+  <div class="wp-block-column">
+    <!-- wp:spacer {"height":40} -->
+    <div style="height:40px" aria-hidden="true" class="wp-block-spacer"></div>
+    <!-- /wp:spacer -->
+
+    <!-- wp:shortcode -->
+    [contact-form-7 title="Contact form"]
+    <!-- /wp:shortcode -->
+
+    <!-- wp:spacer {"height":40} -->
+    <div style="height:40px" aria-hidden="true" class="wp-block-spacer"></div>
+    <!-- /wp:spacer -->
+  </div>
+  <!-- /wp:column -->
+
+  <!-- wp:column -->
+  <div class="wp-block-column">
+    <!-- wp:spacer {"height":40} -->
+    <div style="height:40px" aria-hidden="true" class="wp-block-spacer"></div>
+    <!-- /wp:spacer -->
+
+    <!-- wp:paragraph {"fontSize":"medium"} -->
+    <p class="has-medium-font-size"><strong>Questions, Concerns, Comments? You tell us. We listen.</strong></p>
+    <!-- /wp:paragraph -->
+
+    <!-- wp:paragraph -->
+    <p>Email: info@example.com</p>
+    <!-- /wp:paragraph -->
+
+    <!-- wp:paragraph -->
+    <p>Toll-free number: 1800 123 4567<br>Monday to Saturday - 9:00 am to 7:00 pm<br>Sunday - 10:00 am to 5:00 pm</p>
+    <!-- /wp:paragraph -->
+
+    <!-- wp:paragraph {"fontSize":"medium"} -->
+    <p class="has-medium-font-size"><strong>Company Information</strong></p>
+    <!-- /wp:paragraph -->
+
+    <!-- wp:paragraph -->
+    <p>[company-name]<br>[company-address]<br>[company-postcode] [company-city]<br></p>
+    <!-- /wp:paragraph -->
+
+    <!-- wp:spacer {"height":40} -->
+    <div style="height:40px" aria-hidden="true" class="wp-block-spacer"></div>
+    <!-- /wp:spacer -->
+  </div>
+  <!-- /wp:column -->
+</div>
+<!-- /wp:columns -->
