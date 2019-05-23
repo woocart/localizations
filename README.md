@@ -45,6 +45,15 @@ There are three types of localization: store (WordPress and WooCommerce settings
 - `[policy-page]` - Displays HTML A element with link to the policy page
 - `[store-url]` - Displays HTML A element with link to the store page
 - `[store-name]` - Displays store name
+- `[cookie-page]` - Displays HTML A element with link to the cookie page
+- `[returns-page]` - Displays HTML A element with link to the returns & refunds page
+- `[terms-page]` - Displays HTML A element with link to the terms & conditions page
+- `[contact-page]` - Displays HTML A element with link to the contact us page
+- `[woo-permalink] - Displays HTML A element with link to the page for which the `page_id` is provided as an argument
+
+### Usage
+- Default: `[woo-permalink option="page_id"]`
+- Custom content: `[woo-permalink option="page_id"]<a href="%s">Some text</a>[/woo-permalink]`
 
 
 ## Exporting products from WooCommerce
