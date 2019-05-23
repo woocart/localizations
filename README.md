@@ -49,7 +49,7 @@ There are three types of localization: store (WordPress and WooCommerce settings
 - `[returns-page]` - Displays HTML A element with link to the returns & refunds page
 - `[terms-page]` - Displays HTML A element with link to the terms & conditions page
 - `[contact-page]` - Displays HTML A element with link to the contact us page
-- `[woo-permalink] - Displays HTML A element with link to the page for which the `page_id` is provided as an argument
+- `[woo-permalink]` - Displays HTML A element with link to the page for which the `page_id` is provided as an argument
 
 ### Usage
 - Default: `[woo-permalink option="page_id"]`
