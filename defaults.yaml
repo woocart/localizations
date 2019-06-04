@@ -21,7 +21,7 @@ woo/woocommerce_queue_flush_rewrite_rules: 'yes' # Leave as-is, used for flushin
 woo/woocommerce_api_enabled: 'no' # Leave as-is, used for REST API
 woo/woocommerce_email_footer_text: '{site_title}' # Leave as-is, created by Store Wizard
 woo/woocommerce_checkout_highlight_required_fields: 'yes' # Highly recommended
-woo/woocommerce_checkout_terms_and_conditions_checkbox_text: 'I\'ve read and accept the [terms-page]<a href="%s">Terms & Conditions</a>[/terms-page]' # Default text for terms & conditions checkbox on checkout
+woo/woocommerce_checkout_terms_and_conditions_checkbox_text: "I've read and accept the [terms-page]<a href=\"%s\">Terms & Conditions</a>[/terms-page]" # Default text for terms & conditions checkbox on checkout
 
 # Products - General
 woo/woocommerce_cart_redirect_after_add: 'no' # Redirect to the basket page after successful addition
