@@ -13,10 +13,14 @@ woocart_defaults:
   wp/page_on_front: $ID
 -->
 
-<!-- wp:cover {"url":"/wp-content/uploads/demo-content/home-1.jpg","contentAlign":"left","id":1050} -->
-<div class="wp-block-cover has-background-dim has-left-content"
+<!-- wp:cover {"url":"/wp-content/uploads/demo-content/home-1.jpg","id":778} -->
+<div class="wp-block-cover has-background-dim"
   style="background-image:url(/wp-content/uploads/demo-content/home-1.jpg)">
-  <p class="wp-block-cover-text">Welcome to the<br>[company-name] store</p>
+  <div class="wp-block-cover__inner-container">
+    <!-- wp:paragraph {"align":"center","placeholder":"Write title…","fontSize":"large"} -->
+    <p style="text-align:center" class="has-large-font-size"><strong>Home</strong></p>
+    <!-- /wp:paragraph -->
+  </div>
 </div>
 <!-- /wp:cover -->
 
