@@ -1,0 +1,8723 @@
+wootax/14712:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '70001'
+    location_type: postcode
+  name: JEFFERSON PARISH
+  order: '0'
+  priority: '0'
+  rate: '9.2'
+  shipping: '0'
+  state: LA
+wootax/14713:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '70002'
+    location_type: postcode
+  name: JEFFERSON PARISH
+  order: '0'
+  priority: '0'
+  rate: '9.2'
+  shipping: '0'
+  state: LA
+wootax/14714:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '70003'
+    location_type: postcode
+  name: JEFFERSON PARISH
+  order: '0'
+  priority: '0'
+  rate: '9.2'
+  shipping: '0'
+  state: LA
+wootax/14715:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '70004'
+    location_type: postcode
+  name: JEFFERSON PARISH
+  order: '0'
+  priority: '0'
+  rate: '9.2'
+  shipping: '0'
+  state: LA
+wootax/14716:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '70005'
+    location_type: postcode
+  name: JEFFERSON PARISH
+  order: '0'
+  priority: '0'
+  rate: '9.2'
+  shipping: '0'
+  state: LA
+wootax/14717:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '70006'
+    location_type: postcode
+  name: JEFFERSON PARISH
+  order: '0'
+  priority: '0'
+  rate: '9.2'
+  shipping: '0'
+  state: LA
+wootax/14718:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '70009'
+    location_type: postcode
+  name: JEFFERSON PARISH
+  order: '0'
+  priority: '0'
+  rate: '9.2'
+  shipping: '0'
+  state: LA
+wootax/14719:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '70010'
+    location_type: postcode
+  name: JEFFERSON PARISH
+  order: '0'
+  priority: '0'
+  rate: '9.2'
+  shipping: '0'
+  state: LA
+wootax/14720:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '70011'
+    location_type: postcode
+  name: JEFFERSON PARISH
+  order: '0'
+  priority: '0'
+  rate: '9.2'
+  shipping: '0'
+  state: LA
+wootax/14721:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '70030'
+    location_type: postcode
+  name: SAINT CHARLES PARISH
+  order: '0'
+  priority: '0'
+  rate: '9.45'
+  shipping: '0'
+  state: LA
+wootax/14722:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '70031'
+    location_type: postcode
+  name: SAINT CHARLES PARISH
+  order: '0'
+  priority: '0'
+  rate: '9.45'
+  shipping: '0'
+  state: LA
+wootax/14723:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '70032'
+    location_type: postcode
+  name: SAINT BERNARD PARISH
+  order: '0'
+  priority: '0'
+  rate: '9.45'
+  shipping: '0'
+  state: LA
+wootax/14724:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '70033'
+    location_type: postcode
+  name: JEFFERSON PARISH
+  order: '0'
+  priority: '0'
+  rate: '9.2'
+  shipping: '0'
+  state: LA
+wootax/14725:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '70036'
+    location_type: postcode
+  name: JEFFERSON PARISH
+  order: '0'
+  priority: '0'
+  rate: '9.2'
+  shipping: '0'
+  state: LA
+wootax/14726:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '70037'
+    location_type: postcode
+  name: PLAQUEMINES PARISH
+  order: '0'
+  priority: '0'
+  rate: '8.95'
+  shipping: '0'
+  state: LA
+wootax/14727:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '70038'
+    location_type: postcode
+  name: PLAQUEMINES PARISH
+  order: '0'
+  priority: '0'
+  rate: '8.95'
+  shipping: '0'
+  state: LA
+wootax/14728:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '70039'
+    location_type: postcode
+  name: SAINT CHARLES PARISH
+  order: '0'
+  priority: '0'
+  rate: '9.45'
+  shipping: '0'
+  state: LA
+wootax/14729:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '70040'
+    location_type: postcode
+  name: PLAQUEMINES PARISH
+  order: '0'
+  priority: '0'
+  rate: '8.95'
+  shipping: '0'
+  state: LA
+wootax/14730:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '70041'
+    location_type: postcode
+  name: PLAQUEMINES PARISH
+  order: '0'
+  priority: '0'
+  rate: '8.95'
+  shipping: '0'
+  state: LA
+wootax/14731:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '70043'
+    location_type: postcode
+  name: SAINT BERNARD PARISH
+  order: '0'
+  priority: '0'
+  rate: '9.45'
+  shipping: '0'
+  state: LA
+wootax/14732:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '70047'
+    location_type: postcode
+  name: SAINT CHARLES PARISH
+  order: '0'
+  priority: '0'
+  rate: '9.45'
+  shipping: '0'
+  state: LA
+wootax/14733:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '70049'
+    location_type: postcode
+  name: ST JOHN THE BAPTIST PARISH
+  order: '0'
+  priority: '0'
+  rate: '9.7'
+  shipping: '0'
+  state: LA
+wootax/14734:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '70050'
+    location_type: postcode
+  name: PLAQUEMINES PARISH
+  order: '0'
+  priority: '0'
+  rate: '8.95'
+  shipping: '0'
+  state: LA
+wootax/14735:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '70051'
+    location_type: postcode
+  name: ST JOHN THE BAPTIST PARISH
+  order: '0'
+  priority: '0'
+  rate: '9.7'
+  shipping: '0'
+  state: LA
+wootax/14736:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '70052'
+    location_type: postcode
+  name: GRAMERCY
+  order: '0'
+  priority: '0'
+  rate: '8.45'
+  shipping: '0'
+  state: LA
+wootax/14737:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '70053'
+    location_type: postcode
+  name: GRETNA
+  order: '0'
+  priority: '0'
+  rate: '9.2'
+  shipping: '0'
+  state: LA
+wootax/14738:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '70054'
+    location_type: postcode
+  name: GRETNA
+  order: '0'
+  priority: '0'
+  rate: '9.2'
+  shipping: '0'
+  state: LA
+wootax/14739:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '70055'
+    location_type: postcode
+  name: JEFFERSON PARISH
+  order: '0'
+  priority: '0'
+  rate: '9.2'
+  shipping: '0'
+  state: LA
+wootax/14740:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '70056'
+    location_type: postcode
+  name: JEFFERSON PARISH
+  order: '0'
+  priority: '0'
+  rate: '9.2'
+  shipping: '0'
+  state: LA
+wootax/14741:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '70057'
+    location_type: postcode
+  name: SAINT CHARLES PARISH
+  order: '0'
+  priority: '0'
+  rate: '9.45'
+  shipping: '0'
+  state: LA
+wootax/14742:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '70058'
+    location_type: postcode
+  name: JEFFERSON PARISH
+  order: '0'
+  priority: '0'
+  rate: '9.2'
+  shipping: '0'
+  state: LA
+wootax/14743:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '70059'
+    location_type: postcode
+  name: JEFFERSON PARISH
+  order: '0'
+  priority: '0'
+  rate: '9.2'
+  shipping: '0'
+  state: LA
+wootax/14744:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '70060'
+    location_type: postcode
+  name: JEFFERSON PARISH
+  order: '0'
+  priority: '0'
+  rate: '9.2'
+  shipping: '0'
+  state: LA
+wootax/14745:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '70062'
+    location_type: postcode
+  name: KENNER
+  order: '0'
+  priority: '0'
+  rate: '9.2'
+  shipping: '0'
+  state: LA
+wootax/14746:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '70063'
+    location_type: postcode
+  name: KENNER
+  order: '0'
+  priority: '0'
+  rate: '9.2'
+  shipping: '0'
+  state: LA
+wootax/14747:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '70064'
+    location_type: postcode
+  name: KENNER
+  order: '0'
+  priority: '0'
+  rate: '9.2'
+  shipping: '0'
+  state: LA
+wootax/14748:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '70065'
+    location_type: postcode
+  name: KENNER
+  order: '0'
+  priority: '0'
+  rate: '9.2'
+  shipping: '0'
+  state: LA
+wootax/14749:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '70067'
+    location_type: postcode
+  name: JEFFERSON PARISH
+  order: '0'
+  priority: '0'
+  rate: '9.2'
+  shipping: '0'
+  state: LA
+wootax/14750:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '70068'
+    location_type: postcode
+  name: ST JOHN THE BAPTIST PARISH
+  order: '0'
+  priority: '0'
+  rate: '9.7'
+  shipping: '0'
+  state: LA
+wootax/14751:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '70069'
+    location_type: postcode
+  name: ST JOHN THE BAPTIST PARISH
+  order: '0'
+  priority: '0'
+  rate: '9.7'
+  shipping: '0'
+  state: LA
+wootax/14752:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '70070'
+    location_type: postcode
+  name: SAINT CHARLES PARISH
+  order: '0'
+  priority: '0'
+  rate: '9.45'
+  shipping: '0'
+  state: LA
+wootax/14753:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '70071'
+    location_type: postcode
+  name: LUTCHER
+  order: '0'
+  priority: '0'
+  rate: '8.95'
+  shipping: '0'
+  state: LA
+wootax/14754:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '70072'
+    location_type: postcode
+  name: JEFFERSON PARISH
+  order: '0'
+  priority: '0'
+  rate: '9.2'
+  shipping: '0'
+  state: LA
+wootax/14755:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '70073'
+    location_type: postcode
+  name: JEFFERSON PARISH
+  order: '0'
+  priority: '0'
+  rate: '9.2'
+  shipping: '0'
+  state: LA
+wootax/14756:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '70075'
+    location_type: postcode
+  name: SAINT BERNARD PARISH
+  order: '0'
+  priority: '0'
+  rate: '9.45'
+  shipping: '0'
+  state: LA
+wootax/14757:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '70076'
+    location_type: postcode
+  name: ST JOHN THE BAPTIST PARISH
+  order: '0'
+  priority: '0'
+  rate: '9.7'
+  shipping: '0'
+  state: LA
+wootax/14758:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '70078'
+    location_type: postcode
+  name: SAINT CHARLES PARISH
+  order: '0'
+  priority: '0'
+  rate: '9.45'
+  shipping: '0'
+  state: LA
+wootax/14759:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '70079'
+    location_type: postcode
+  name: SAINT CHARLES PARISH
+  order: '0'
+  priority: '0'
+  rate: '9.45'
+  shipping: '0'
+  state: LA
+wootax/14760:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '70080'
+    location_type: postcode
+  name: SAINT CHARLES PARISH
+  order: '0'
+  priority: '0'
+  rate: '9.45'
+  shipping: '0'
+  state: LA
+wootax/14761:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '70082'
+    location_type: postcode
+  name: PLAQUEMINES PARISH
+  order: '0'
+  priority: '0'
+  rate: '8.95'
+  shipping: '0'
+  state: LA
+wootax/14762:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '70083'
+    location_type: postcode
+  name: PLAQUEMINES PARISH
+  order: '0'
+  priority: '0'
+  rate: '8.95'
+  shipping: '0'
+  state: LA
+wootax/14763:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '70084'
+    location_type: postcode
+  name: ST JOHN THE BAPTIST PARISH
+  order: '0'
+  priority: '0'
+  rate: '9.7'
+  shipping: '0'
+  state: LA
+wootax/14764:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '70085'
+    location_type: postcode
+  name: SAINT BERNARD PARISH
+  order: '0'
+  priority: '0'
+  rate: '9.45'
+  shipping: '0'
+  state: LA
+wootax/14765:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '70086'
+    location_type: postcode
+  name: SAINT JAMES PARISH
+  order: '0'
+  priority: '0'
+  rate: '7.95'
+  shipping: '0'
+  state: LA
+wootax/14766:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '70087'
+    location_type: postcode
+  name: SAINT CHARLES PARISH
+  order: '0'
+  priority: '0'
+  rate: '9.45'
+  shipping: '0'
+  state: LA
+wootax/14767:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '70090'
+    location_type: postcode
+  name: SAINT JAMES PARISH
+  order: '0'
+  priority: '0'
+  rate: '7.95'
+  shipping: '0'
+  state: LA
+wootax/14768:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '70091'
+    location_type: postcode
+  name: PLAQUEMINES PARISH
+  order: '0'
+  priority: '0'
+  rate: '8.95'
+  shipping: '0'
+  state: LA
+wootax/14769:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '70092'
+    location_type: postcode
+  name: SAINT BERNARD PARISH
+  order: '0'
+  priority: '0'
+  rate: '9.45'
+  shipping: '0'
+  state: LA
+wootax/14770:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '70094'
+    location_type: postcode
+  name: JEFFERSON PARISH
+  order: '0'
+  priority: '0'
+  rate: '9.2'
+  shipping: '0'
+  state: LA
+wootax/14771:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '70096'
+    location_type: postcode
+  name: WESTWEGO
+  order: '0'
+  priority: '0'
+  rate: '9.2'
+  shipping: '0'
+  state: LA
+wootax/14772:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '70112'
+    location_type: postcode
+  name: NEW ORLEANS
+  order: '0'
+  priority: '0'
+  rate: '9.45'
+  shipping: '0'
+  state: LA
+wootax/14773:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '70113'
+    location_type: postcode
+  name: NEW ORLEANS
+  order: '0'
+  priority: '0'
+  rate: '9.45'
+  shipping: '0'
+  state: LA
+wootax/14774:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '70114'
+    location_type: postcode
+  name: NEW ORLEANS
+  order: '0'
+  priority: '0'
+  rate: '9.45'
+  shipping: '0'
+  state: LA
+wootax/14775:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '70115'
+    location_type: postcode
+  name: NEW ORLEANS
+  order: '0'
+  priority: '0'
+  rate: '9.45'
+  shipping: '0'
+  state: LA
+wootax/14776:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '70116'
+    location_type: postcode
+  name: NEW ORLEANS
+  order: '0'
+  priority: '0'
+  rate: '9.45'
+  shipping: '0'
+  state: LA
+wootax/14777:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '70117'
+    location_type: postcode
+  name: NEW ORLEANS
+  order: '0'
+  priority: '0'
+  rate: '9.45'
+  shipping: '0'
+  state: LA
+wootax/14778:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '70118'
+    location_type: postcode
+  name: NEW ORLEANS
+  order: '0'
+  priority: '0'
+  rate: '9.45'
+  shipping: '0'
+  state: LA
+wootax/14779:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '70119'
+    location_type: postcode
+  name: NEW ORLEANS
+  order: '0'
+  priority: '0'
+  rate: '9.45'
+  shipping: '0'
+  state: LA
+wootax/14780:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '70121'
+    location_type: postcode
+  name: JEFFERSON PARISH
+  order: '0'
+  priority: '0'
+  rate: '9.2'
+  shipping: '0'
+  state: LA
+wootax/14781:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '70122'
+    location_type: postcode
+  name: NEW ORLEANS
+  order: '0'
+  priority: '0'
+  rate: '9.45'
+  shipping: '0'
+  state: LA
+wootax/14782:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '70123'
+    location_type: postcode
+  name: JEFFERSON PARISH
+  order: '0'
+  priority: '0'
+  rate: '9.2'
+  shipping: '0'
+  state: LA
+wootax/14783:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '70124'
+    location_type: postcode
+  name: NEW ORLEANS
+  order: '0'
+  priority: '0'
+  rate: '9.45'
+  shipping: '0'
+  state: LA
+wootax/14784:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '70125'
+    location_type: postcode
+  name: NEW ORLEANS
+  order: '0'
+  priority: '0'
+  rate: '9.45'
+  shipping: '0'
+  state: LA
+wootax/14785:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '70126'
+    location_type: postcode
+  name: NEW ORLEANS
+  order: '0'
+  priority: '0'
+  rate: '9.45'
+  shipping: '0'
+  state: LA
+wootax/14786:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '70127'
+    location_type: postcode
+  name: NEW ORLEANS
+  order: '0'
+  priority: '0'
+  rate: '9.45'
+  shipping: '0'
+  state: LA
+wootax/14787:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '70128'
+    location_type: postcode
+  name: NEW ORLEANS
+  order: '0'
+  priority: '0'
+  rate: '9.45'
+  shipping: '0'
+  state: LA
+wootax/14788:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '70129'
+    location_type: postcode
+  name: NEW ORLEANS
+  order: '0'
+  priority: '0'
+  rate: '9.45'
+  shipping: '0'
+  state: LA
+wootax/14789:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '70130'
+    location_type: postcode
+  name: NEW ORLEANS
+  order: '0'
+  priority: '0'
+  rate: '9.45'
+  shipping: '0'
+  state: LA
+wootax/14790:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '70131'
+    location_type: postcode
+  name: NEW ORLEANS
+  order: '0'
+  priority: '0'
+  rate: '9.45'
+  shipping: '0'
+  state: LA
+wootax/14791:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '70139'
+    location_type: postcode
+  name: NEW ORLEANS
+  order: '0'
+  priority: '0'
+  rate: '9.45'
+  shipping: '0'
+  state: LA
+wootax/14792:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '70141'
+    location_type: postcode
+  name: KENNER
+  order: '0'
+  priority: '0'
+  rate: '9.2'
+  shipping: '0'
+  state: LA
+wootax/14793:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '70142'
+    location_type: postcode
+  name: NEW ORLEANS
+  order: '0'
+  priority: '0'
+  rate: '9.45'
+  shipping: '0'
+  state: LA
+wootax/14794:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '70143'
+    location_type: postcode
+  name: NEW ORLEANS
+  order: '0'
+  priority: '0'
+  rate: '9.45'
+  shipping: '0'
+  state: LA
+wootax/14795:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '70145'
+    location_type: postcode
+  name: NEW ORLEANS
+  order: '0'
+  priority: '0'
+  rate: '9.45'
+  shipping: '0'
+  state: LA
+wootax/14796:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '70146'
+    location_type: postcode
+  name: NEW ORLEANS
+  order: '0'
+  priority: '0'
+  rate: '9.45'
+  shipping: '0'
+  state: LA
+wootax/14797:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '70148'
+    location_type: postcode
+  name: NEW ORLEANS
+  order: '0'
+  priority: '0'
+  rate: '9.45'
+  shipping: '0'
+  state: LA
+wootax/14798:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '70150'
+    location_type: postcode
+  name: NEW ORLEANS
+  order: '0'
+  priority: '0'
+  rate: '9.45'
+  shipping: '0'
+  state: LA
+wootax/14799:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '70151'
+    location_type: postcode
+  name: NEW ORLEANS
+  order: '0'
+  priority: '0'
+  rate: '9.45'
+  shipping: '0'
+  state: LA
+wootax/14800:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '70152'
+    location_type: postcode
+  name: NEW ORLEANS
+  order: '0'
+  priority: '0'
+  rate: '9.45'
+  shipping: '0'
+  state: LA
+wootax/14801:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '70153'
+    location_type: postcode
+  name: NEW ORLEANS
+  order: '0'
+  priority: '0'
+  rate: '9.45'
+  shipping: '0'
+  state: LA
+wootax/14802:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '70156'
+    location_type: postcode
+  name: NEW ORLEANS
+  order: '0'
+  priority: '0'
+  rate: '9.45'
+  shipping: '0'
+  state: LA
+wootax/14803:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '70157'
+    location_type: postcode
+  name: NEW ORLEANS
+  order: '0'
+  priority: '0'
+  rate: '9.45'
+  shipping: '0'
+  state: LA
+wootax/14804:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '70158'
+    location_type: postcode
+  name: NEW ORLEANS
+  order: '0'
+  priority: '0'
+  rate: '9.45'
+  shipping: '0'
+  state: LA
+wootax/14805:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '70159'
+    location_type: postcode
+  name: NEW ORLEANS
+  order: '0'
+  priority: '0'
+  rate: '9.45'
+  shipping: '0'
+  state: LA
+wootax/14806:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '70163'
+    location_type: postcode
+  name: NEW ORLEANS
+  order: '0'
+  priority: '0'
+  rate: '9.45'
+  shipping: '0'
+  state: LA
+wootax/14807:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '70165'
+    location_type: postcode
+  name: NEW ORLEANS
+  order: '0'
+  priority: '0'
+  rate: '9.45'
+  shipping: '0'
+  state: LA
+wootax/14808:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '70170'
+    location_type: postcode
+  name: NEW ORLEANS
+  order: '0'
+  priority: '0'
+  rate: '9.45'
+  shipping: '0'
+  state: LA
+wootax/14809:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '70172'
+    location_type: postcode
+  name: NEW ORLEANS
+  order: '0'
+  priority: '0'
+  rate: '9.45'
+  shipping: '0'
+  state: LA
+wootax/14810:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '70174'
+    location_type: postcode
+  name: NEW ORLEANS
+  order: '0'
+  priority: '0'
+  rate: '9.45'
+  shipping: '0'
+  state: LA
+wootax/14811:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '70175'
+    location_type: postcode
+  name: NEW ORLEANS
+  order: '0'
+  priority: '0'
+  rate: '9.45'
+  shipping: '0'
+  state: LA
+wootax/14812:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '70176'
+    location_type: postcode
+  name: NEW ORLEANS
+  order: '0'
+  priority: '0'
+  rate: '9.45'
+  shipping: '0'
+  state: LA
+wootax/14813:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '70177'
+    location_type: postcode
+  name: NEW ORLEANS
+  order: '0'
+  priority: '0'
+  rate: '9.45'
+  shipping: '0'
+  state: LA
+wootax/14814:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '70178'
+    location_type: postcode
+  name: NEW ORLEANS
+  order: '0'
+  priority: '0'
+  rate: '9.45'
+  shipping: '0'
+  state: LA
+wootax/14815:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '70179'
+    location_type: postcode
+  name: NEW ORLEANS
+  order: '0'
+  priority: '0'
+  rate: '9.45'
+  shipping: '0'
+  state: LA
+wootax/14816:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '70181'
+    location_type: postcode
+  name: NEW ORLEANS
+  order: '0'
+  priority: '0'
+  rate: '9.45'
+  shipping: '0'
+  state: LA
+wootax/14817:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '70182'
+    location_type: postcode
+  name: NEW ORLEANS
+  order: '0'
+  priority: '0'
+  rate: '9.45'
+  shipping: '0'
+  state: LA
+wootax/14818:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '70183'
+    location_type: postcode
+  name: JEFFERSON PARISH
+  order: '0'
+  priority: '0'
+  rate: '9.2'
+  shipping: '0'
+  state: LA
+wootax/14819:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '70184'
+    location_type: postcode
+  name: NEW ORLEANS
+  order: '0'
+  priority: '0'
+  rate: '9.45'
+  shipping: '0'
+  state: LA
+wootax/14820:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '70185'
+    location_type: postcode
+  name: NEW ORLEANS
+  order: '0'
+  priority: '0'
+  rate: '9.45'
+  shipping: '0'
+  state: LA
+wootax/14821:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '70186'
+    location_type: postcode
+  name: NEW ORLEANS
+  order: '0'
+  priority: '0'
+  rate: '9.45'
+  shipping: '0'
+  state: LA
+wootax/14822:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '70190'
+    location_type: postcode
+  name: NEW ORLEANS
+  order: '0'
+  priority: '0'
+  rate: '9.45'
+  shipping: '0'
+  state: LA
+wootax/14823:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '70301'
+    location_type: postcode
+  name: THIBODAUX
+  order: '0'
+  priority: '0'
+  rate: '9.4'
+  shipping: '0'
+  state: LA
+wootax/14824:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '70310'
+    location_type: postcode
+  name: THIBODAUX
+  order: '0'
+  priority: '0'
+  rate: '9.4'
+  shipping: '0'
+  state: LA
+wootax/14825:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '70339'
+    location_type: postcode
+  name: ASSUMPTION PARISH
+  order: '0'
+  priority: '0'
+  rate: '9.45'
+  shipping: '0'
+  state: LA
+wootax/14826:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '70340'
+    location_type: postcode
+  name: ST. MARY PARISH / WARDS 6  9 UNINC.
+  order: '0'
+  priority: '0'
+  rate: '8.45'
+  shipping: '0'
+  state: LA
+wootax/14827:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '70341'
+    location_type: postcode
+  name: ASSUMPTION PARISH
+  order: '0'
+  priority: '0'
+  rate: '9.45'
+  shipping: '0'
+  state: LA
+wootax/14828:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '70342'
+    location_type: postcode
+  name: WARDS 5 AND 8
+  order: '0'
+  priority: '0'
+  rate: '8.45'
+  shipping: '0'
+  state: LA
+wootax/14829:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '70343'
+    location_type: postcode
+  name: TERREBONNE PARISH
+  order: '0'
+  priority: '0'
+  rate: '9.95'
+  shipping: '0'
+  state: LA
+wootax/14830:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '70344'
+    location_type: postcode
+  name: TERREBONNE PARISH
+  order: '0'
+  priority: '0'
+  rate: '9.95'
+  shipping: '0'
+  state: LA
+wootax/14831:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '70345'
+    location_type: postcode
+  name: LAFOURCHE PA DIST2 SOUTH
+  order: '0'
+  priority: '0'
+  rate: '9.85'
+  shipping: '0'
+  state: LA
+wootax/14832:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '70346'
+    location_type: postcode
+  name: DONALDSONVILLE
+  order: '0'
+  priority: '0'
+  rate: '9.45'
+  shipping: '0'
+  state: LA
+wootax/14833:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '70352'
+    location_type: postcode
+  name: TERREBONNE PARISH
+  order: '0'
+  priority: '0'
+  rate: '9.95'
+  shipping: '0'
+  state: LA
+wootax/14834:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '70353'
+    location_type: postcode
+  name: TERREBONNE PARISH
+  order: '0'
+  priority: '0'
+  rate: '9.95'
+  shipping: '0'
+  state: LA
+wootax/14835:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '70354'
+    location_type: postcode
+  name: LAFOURCHE PA DIST2 SOUTH
+  order: '0'
+  priority: '0'
+  rate: '9.85'
+  shipping: '0'
+  state: LA
+wootax/14836:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '70355'
+    location_type: postcode
+  name: LAFOURCHE PA REMAINDER
+  order: '0'
+  priority: '0'
+  rate: '9.6'
+  shipping: '0'
+  state: LA
+wootax/14837:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '70356'
+    location_type: postcode
+  name: TERREBONNE PARISH
+  order: '0'
+  priority: '0'
+  rate: '9.95'
+  shipping: '0'
+  state: LA
+wootax/14838:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '70357'
+    location_type: postcode
+  name: GOLDEN MEADOW
+  order: '0'
+  priority: '0'
+  rate: '9.85'
+  shipping: '0'
+  state: LA
+wootax/14839:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '70358'
+    location_type: postcode
+  name: GRAND ISLE
+  order: '0'
+  priority: '0'
+  rate: '9.2'
+  shipping: '0'
+  state: LA
+wootax/14840:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '70359'
+    location_type: postcode
+  name: TERREBONNE PARISH
+  order: '0'
+  priority: '0'
+  rate: '9.95'
+  shipping: '0'
+  state: LA
+wootax/14841:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '70360'
+    location_type: postcode
+  name: TERREBONNE PARISH
+  order: '0'
+  priority: '0'
+  rate: '9.95'
+  shipping: '0'
+  state: LA
+wootax/14842:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '70361'
+    location_type: postcode
+  name: TERREBONNE PARISH
+  order: '0'
+  priority: '0'
+  rate: '9.95'
+  shipping: '0'
+  state: LA
+wootax/14843:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '70363'
+    location_type: postcode
+  name: TERREBONNE PARISH
+  order: '0'
+  priority: '0'
+  rate: '9.95'
+  shipping: '0'
+  state: LA
+wootax/14844:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '70364'
+    location_type: postcode
+  name: TERREBONNE PARISH
+  order: '0'
+  priority: '0'
+  rate: '9.95'
+  shipping: '0'
+  state: LA
+wootax/14845:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '70371'
+    location_type: postcode
+  name: LAFOURCHE PA REMAINDER
+  order: '0'
+  priority: '0'
+  rate: '9.6'
+  shipping: '0'
+  state: LA
+wootax/14846:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '70372'
+    location_type: postcode
+  name: ASSUMPTION PARISH
+  order: '0'
+  priority: '0'
+  rate: '9.45'
+  shipping: '0'
+  state: LA
+wootax/14847:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '70373'
+    location_type: postcode
+  name: LAFOURCHE PA DIST2 SOUTH
+  order: '0'
+  priority: '0'
+  rate: '9.85'
+  shipping: '0'
+  state: LA
+wootax/14848:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '70374'
+    location_type: postcode
+  name: LOCKPORT
+  order: '0'
+  priority: '0'
+  rate: '9.6'
+  shipping: '0'
+  state: LA
+wootax/14849:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '70375'
+    location_type: postcode
+  name: LAFOURCHE PA REMAINDER
+  order: '0'
+  priority: '0'
+  rate: '9.6'
+  shipping: '0'
+  state: LA
+wootax/14850:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '70377'
+    location_type: postcode
+  name: TERREBONNE PARISH
+  order: '0'
+  priority: '0'
+  rate: '9.95'
+  shipping: '0'
+  state: LA
+wootax/14851:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '70380'
+    location_type: postcode
+  name: MORGAN
+  order: '0'
+  priority: '0'
+  rate: '8.75'
+  shipping: '0'
+  state: LA
+wootax/14852:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '70381'
+    location_type: postcode
+  name: MORGAN
+  order: '0'
+  priority: '0'
+  rate: '8.75'
+  shipping: '0'
+  state: LA
+wootax/14853:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '70390'
+    location_type: postcode
+  name: ASSUMPTION PARISH
+  order: '0'
+  priority: '0'
+  rate: '9.45'
+  shipping: '0'
+  state: LA
+wootax/14854:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '70391'
+    location_type: postcode
+  name: ASSUMPTION PARISH
+  order: '0'
+  priority: '0'
+  rate: '9.45'
+  shipping: '0'
+  state: LA
+wootax/14855:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '70392'
+    location_type: postcode
+  name: WARDS 5 AND 8
+  order: '0'
+  priority: '0'
+  rate: '8.45'
+  shipping: '0'
+  state: LA
+wootax/14856:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '70393'
+    location_type: postcode
+  name: ASSUMPTION PARISH
+  order: '0'
+  priority: '0'
+  rate: '9.45'
+  shipping: '0'
+  state: LA
+wootax/14857:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '70394'
+    location_type: postcode
+  name: LAFOURCHE PA REMAINDER
+  order: '0'
+  priority: '0'
+  rate: '9.6'
+  shipping: '0'
+  state: LA
+wootax/14858:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '70395'
+    location_type: postcode
+  name: TERREBONNE PARISH
+  order: '0'
+  priority: '0'
+  rate: '9.95'
+  shipping: '0'
+  state: LA
+wootax/14859:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '70397'
+    location_type: postcode
+  name: TERREBONNE PARISH
+  order: '0'
+  priority: '0'
+  rate: '9.95'
+  shipping: '0'
+  state: LA
+wootax/14860:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '70401'
+    location_type: postcode
+  name: HAMMOND
+  order: '0'
+  priority: '0'
+  rate: '9.45'
+  shipping: '0'
+  state: LA
+wootax/14861:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '70402'
+    location_type: postcode
+  name: HAMMOND
+  order: '0'
+  priority: '0'
+  rate: '9.45'
+  shipping: '0'
+  state: LA
+wootax/14862:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '70403'
+    location_type: postcode
+  name: TANGIPAHOA PARISH
+  order: '0'
+  priority: '0'
+  rate: '7.45'
+  shipping: '0'
+  state: LA
+wootax/14863:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '70404'
+    location_type: postcode
+  name: HAMMOND
+  order: '0'
+  priority: '0'
+  rate: '9.45'
+  shipping: '0'
+  state: LA
+wootax/14864:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '70420'
+    location_type: postcode
+  name: SAINT TAMMANY PA DIST 3
+  order: '0'
+  priority: '0'
+  rate: '8.7'
+  shipping: '0'
+  state: LA
+wootax/14865:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '70421'
+    location_type: postcode
+  name: TANGIPAHOA PARISH
+  order: '0'
+  priority: '0'
+  rate: '7.45'
+  shipping: '0'
+  state: LA
+wootax/14866:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '70422'
+    location_type: postcode
+  name: TANGIPAHOA PARISH
+  order: '0'
+  priority: '0'
+  rate: '7.45'
+  shipping: '0'
+  state: LA
+wootax/14867:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '70426'
+    location_type: postcode
+  name: WASHINGTON PARISH
+  order: '0'
+  priority: '0'
+  rate: '9.28'
+  shipping: '0'
+  state: LA
+wootax/14868:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '70427'
+    location_type: postcode
+  name: BOGALUSA
+  order: '0'
+  priority: '0'
+  rate: '9.943'
+  shipping: '0'
+  state: LA
+wootax/14869:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '70431'
+    location_type: postcode
+  name: SAINT TAMMANY PA DIST 3
+  order: '0'
+  priority: '0'
+  rate: '8.7'
+  shipping: '0'
+  state: LA
+wootax/14870:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '70433'
+    location_type: postcode
+  name: SAINT TAMMANY PA DIST 3
+  order: '0'
+  priority: '0'
+  rate: '8.7'
+  shipping: '0'
+  state: LA
+wootax/14871:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '70434'
+    location_type: postcode
+  name: COVINGTON
+  order: '0'
+  priority: '0'
+  rate: '8.7'
+  shipping: '0'
+  state: LA
+wootax/14872:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '70435'
+    location_type: postcode
+  name: SAINT TAMMANY PA DIST 3
+  order: '0'
+  priority: '0'
+  rate: '8.7'
+  shipping: '0'
+  state: LA
+wootax/14873:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '70436'
+    location_type: postcode
+  name: 'TANGIPAHOA FIRE DISTRICT #1'
+  order: '0'
+  priority: '0'
+  rate: '7.95'
+  shipping: '0'
+  state: LA
+wootax/14874:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '70437'
+    location_type: postcode
+  name: SAINT TAMMANY PA DIST 3
+  order: '0'
+  priority: '0'
+  rate: '8.7'
+  shipping: '0'
+  state: LA
+wootax/14875:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '70438'
+    location_type: postcode
+  name: WASHINGTON PARISH
+  order: '0'
+  priority: '0'
+  rate: '9.28'
+  shipping: '0'
+  state: LA
+wootax/14876:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '70441'
+    location_type: postcode
+  name: SAINT HELENA PARISH
+  order: '0'
+  priority: '0'
+  rate: '9.45'
+  shipping: '0'
+  state: LA
+wootax/14877:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '70442'
+    location_type: postcode
+  name: TANGIPAHOA PARISH
+  order: '0'
+  priority: '0'
+  rate: '7.45'
+  shipping: '0'
+  state: LA
+wootax/14878:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '70443'
+    location_type: postcode
+  name: TANGIPAHOA PARISH
+  order: '0'
+  priority: '0'
+  rate: '7.45'
+  shipping: '0'
+  state: LA
+wootax/14879:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '70444'
+    location_type: postcode
+  name: TANGIPAHOA PARISH
+  order: '0'
+  priority: '0'
+  rate: '7.45'
+  shipping: '0'
+  state: LA
+wootax/14880:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '70445'
+    location_type: postcode
+  name: SAINT TAMMANY PA DIST 3
+  order: '0'
+  priority: '0'
+  rate: '8.7'
+  shipping: '0'
+  state: LA
+wootax/14881:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '70446'
+    location_type: postcode
+  name: TANGIPAHOA PARISH
+  order: '0'
+  priority: '0'
+  rate: '7.45'
+  shipping: '0'
+  state: LA
+wootax/14882:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '70447'
+    location_type: postcode
+  name: SAINT TAMMANY PA DIST 3
+  order: '0'
+  priority: '0'
+  rate: '8.7'
+  shipping: '0'
+  state: LA
+wootax/14883:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '70448'
+    location_type: postcode
+  name: SAINT TAMMANY PA DIST 3
+  order: '0'
+  priority: '0'
+  rate: '8.7'
+  shipping: '0'
+  state: LA
+wootax/14884:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '70449'
+    location_type: postcode
+  name: SCHOOL TAX DIST 33
+  order: '0'
+  priority: '0'
+  rate: '9.45'
+  shipping: '0'
+  state: LA
+wootax/14885:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '70450'
+    location_type: postcode
+  name: WASHINGTON PARISH
+  order: '0'
+  priority: '0'
+  rate: '9.28'
+  shipping: '0'
+  state: LA
+wootax/14886:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '70451'
+    location_type: postcode
+  name: TANGIPAHOA PARISH
+  order: '0'
+  priority: '0'
+  rate: '7.45'
+  shipping: '0'
+  state: LA
+wootax/14887:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '70452'
+    location_type: postcode
+  name: SAINT TAMMANY PA DIST 3
+  order: '0'
+  priority: '0'
+  rate: '8.7'
+  shipping: '0'
+  state: LA
+wootax/14888:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '70453'
+    location_type: postcode
+  name: SAINT HELENA PARISH
+  order: '0'
+  priority: '0'
+  rate: '9.45'
+  shipping: '0'
+  state: LA
+wootax/14889:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '70454'
+    location_type: postcode
+  name: TANGIPAHOA PARISH
+  order: '0'
+  priority: '0'
+  rate: '7.45'
+  shipping: '0'
+  state: LA
+wootax/14890:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '70455'
+    location_type: postcode
+  name: TANGIPAHOA PARISH
+  order: '0'
+  priority: '0'
+  rate: '7.45'
+  shipping: '0'
+  state: LA
+wootax/14891:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '70456'
+    location_type: postcode
+  name: 'TANGIPAHOA FIRE DISTRICT #1'
+  order: '0'
+  priority: '0'
+  rate: '7.95'
+  shipping: '0'
+  state: LA
+wootax/14892:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '70457'
+    location_type: postcode
+  name: SAINT TAMMANY PA DIST 3
+  order: '0'
+  priority: '0'
+  rate: '8.7'
+  shipping: '0'
+  state: LA
+wootax/14893:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '70458'
+    location_type: postcode
+  name: SLIDELL
+  order: '0'
+  priority: '0'
+  rate: '8.7'
+  shipping: '0'
+  state: LA
+wootax/14894:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '70459'
+    location_type: postcode
+  name: SLIDELL
+  order: '0'
+  priority: '0'
+  rate: '8.7'
+  shipping: '0'
+  state: LA
+wootax/14895:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '70460'
+    location_type: postcode
+  name: SAINT TAMMANY PA DIST 3
+  order: '0'
+  priority: '0'
+  rate: '8.7'
+  shipping: '0'
+  state: LA
+wootax/14896:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '70461'
+    location_type: postcode
+  name: SAINT TAMMANY PA DIST 3
+  order: '0'
+  priority: '0'
+  rate: '8.7'
+  shipping: '0'
+  state: LA
+wootax/14897:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '70462'
+    location_type: postcode
+  name: LIVINGSTON PARISH
+  order: '0'
+  priority: '0'
+  rate: '8.45'
+  shipping: '0'
+  state: LA
+wootax/14898:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '70463'
+    location_type: postcode
+  name: SUN
+  order: '0'
+  priority: '0'
+  rate: '9.2'
+  shipping: '0'
+  state: LA
+wootax/14899:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '70464'
+    location_type: postcode
+  name: SAINT TAMMANY PA DIST 3
+  order: '0'
+  priority: '0'
+  rate: '8.7'
+  shipping: '0'
+  state: LA
+wootax/14900:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '70465'
+    location_type: postcode
+  name: TANGIPAHOA
+  order: '0'
+  priority: '0'
+  rate: '9.45'
+  shipping: '0'
+  state: LA
+wootax/14901:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '70466'
+    location_type: postcode
+  name: TANGIPAHOA PARISH
+  order: '0'
+  priority: '0'
+  rate: '7.45'
+  shipping: '0'
+  state: LA
+wootax/14902:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '70469'
+    location_type: postcode
+  name: SLIDELL
+  order: '0'
+  priority: '0'
+  rate: '8.7'
+  shipping: '0'
+  state: LA
+wootax/14903:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '70470'
+    location_type: postcode
+  name: MANDEVILLE
+  order: '0'
+  priority: '0'
+  rate: '9.2'
+  shipping: '0'
+  state: LA
+wootax/14904:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '70471'
+    location_type: postcode
+  name: SAINT TAMMANY PA DIST 3
+  order: '0'
+  priority: '0'
+  rate: '8.7'
+  shipping: '0'
+  state: LA
+wootax/14905:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '70501'
+    location_type: postcode
+  name: LAFAYETTE
+  order: '0'
+  priority: '0'
+  rate: '8.45'
+  shipping: '0'
+  state: LA
+wootax/14906:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '70502'
+    location_type: postcode
+  name: LAFAYETTE
+  order: '0'
+  priority: '0'
+  rate: '8.45'
+  shipping: '0'
+  state: LA
+wootax/14907:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '70503'
+    location_type: postcode
+  name: LAFAYETTE
+  order: '0'
+  priority: '0'
+  rate: '8.45'
+  shipping: '0'
+  state: LA
+wootax/14908:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '70504'
+    location_type: postcode
+  name: LAFAYETTE
+  order: '0'
+  priority: '0'
+  rate: '8.45'
+  shipping: '0'
+  state: LA
+wootax/14909:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '70505'
+    location_type: postcode
+  name: LAFAYETTE
+  order: '0'
+  priority: '0'
+  rate: '8.45'
+  shipping: '0'
+  state: LA
+wootax/14910:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '70506'
+    location_type: postcode
+  name: LAFAYETTE
+  order: '0'
+  priority: '0'
+  rate: '8.45'
+  shipping: '0'
+  state: LA
+wootax/14911:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '70507'
+    location_type: postcode
+  name: LAFAYETTE
+  order: '0'
+  priority: '0'
+  rate: '8.45'
+  shipping: '0'
+  state: LA
+wootax/14912:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '70508'
+    location_type: postcode
+  name: LAFAYETTE
+  order: '0'
+  priority: '0'
+  rate: '8.45'
+  shipping: '0'
+  state: LA
+wootax/14913:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '70509'
+    location_type: postcode
+  name: LAFAYETTE
+  order: '0'
+  priority: '0'
+  rate: '8.45'
+  shipping: '0'
+  state: LA
+wootax/14914:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '70510'
+    location_type: postcode
+  name: ABBEVILLE
+  order: '0'
+  priority: '0'
+  rate: '9.95'
+  shipping: '0'
+  state: LA
+wootax/14915:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '70512'
+    location_type: postcode
+  name: SAINT LANDRY PARISH
+  order: '0'
+  priority: '0'
+  rate: '10'
+  shipping: '0'
+  state: LA
+wootax/14916:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '70513'
+    location_type: postcode
+  name: IBERIA PARISH
+  order: '0'
+  priority: '0'
+  rate: '7.7'
+  shipping: '0'
+  state: LA
+wootax/14917:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '70514'
+    location_type: postcode
+  name: ST. MARY PARISH / WARDS 1 2 3 4 7 10
+  order: '0'
+  priority: '0'
+  rate: '8.45'
+  shipping: '0'
+  state: LA
+wootax/14918:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '70515'
+    location_type: postcode
+  name: ACADIA PARISH
+  order: '0'
+  priority: '0'
+  rate: '8.7'
+  shipping: '0'
+  state: LA
+wootax/14919:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '70516'
+    location_type: postcode
+  name: ACADIA PARISH
+  order: '0'
+  priority: '0'
+  rate: '8.7'
+  shipping: '0'
+  state: LA
+wootax/14920:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '70517'
+    location_type: postcode
+  name: SAINT MARTIN PA DIST 1
+  order: '0'
+  priority: '0'
+  rate: '7.95'
+  shipping: '0'
+  state: LA
+wootax/14921:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '70518'
+    location_type: postcode
+  name: ST. MARTIN PARISH / DISTRICT NO. 2
+  order: '0'
+  priority: '0'
+  rate: '7.95'
+  shipping: '0'
+  state: LA
+wootax/14922:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '70519'
+    location_type: postcode
+  name: ST. MARTIN PARISH / DISTRICT NO. 2
+  order: '0'
+  priority: '0'
+  rate: '7.95'
+  shipping: '0'
+  state: LA
+wootax/14923:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '70520'
+    location_type: postcode
+  name: LAFAYETTE PARISH
+  order: '0'
+  priority: '0'
+  rate: '8.45'
+  shipping: '0'
+  state: LA
+wootax/14924:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '70521'
+    location_type: postcode
+  name: SAINT MARTIN PA DIST 1
+  order: '0'
+  priority: '0'
+  rate: '7.95'
+  shipping: '0'
+  state: LA
+wootax/14925:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '70522'
+    location_type: postcode
+  name: ST. MARY PARISH / WARDS 1 2 3 4 7 10
+  order: '0'
+  priority: '0'
+  rate: '8.45'
+  shipping: '0'
+  state: LA
+wootax/14926:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '70523'
+    location_type: postcode
+  name: ST. MARY PARISH / WARDS 1 2 3 4 7 10
+  order: '0'
+  priority: '0'
+  rate: '8.45'
+  shipping: '0'
+  state: LA
+wootax/14927:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '70524'
+    location_type: postcode
+  name: CHATAIGNIER
+  order: '0'
+  priority: '0'
+  rate: '9.45'
+  shipping: '0'
+  state: LA
+wootax/14928:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '70525'
+    location_type: postcode
+  name: ACADIA PARISH
+  order: '0'
+  priority: '0'
+  rate: '8.7'
+  shipping: '0'
+  state: LA
+wootax/14929:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '70526'
+    location_type: postcode
+  name: CROWLEY
+  order: '0'
+  priority: '0'
+  rate: '9.95'
+  shipping: '0'
+  state: LA
+wootax/14930:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '70528'
+    location_type: postcode
+  name: DELCAMBRE (VERMILION CO)
+  order: '0'
+  priority: '0'
+  rate: '9.7'
+  shipping: '0'
+  state: LA
+wootax/14931:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '70529'
+    location_type: postcode
+  name: LAFAYETTE PARISH
+  order: '0'
+  priority: '0'
+  rate: '8.45'
+  shipping: '0'
+  state: LA
+wootax/14932:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '70531'
+    location_type: postcode
+  name: ACADIA PARISH
+  order: '0'
+  priority: '0'
+  rate: '8.7'
+  shipping: '0'
+  state: LA
+wootax/14933:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '70532'
+    location_type: postcode
+  name: JEFFERSON DAVIS PA REMAIN
+  order: '0'
+  priority: '0'
+  rate: '9.45'
+  shipping: '0'
+  state: LA
+wootax/14934:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '70533'
+    location_type: postcode
+  name: 'VERMILLON PARISH / ABBEVILLE HOSPITAL #2'
+  order: '0'
+  priority: '0'
+  rate: '8.7'
+  shipping: '0'
+  state: LA
+wootax/14935:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '70534'
+    location_type: postcode
+  name: ESTHERWOOD
+  order: '0'
+  priority: '0'
+  rate: '8.7'
+  shipping: '0'
+  state: LA
+wootax/14936:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '70535'
+    location_type: postcode
+  name: EUNICE (ST. LANDRY CO)
+  order: '0'
+  priority: '0'
+  rate: '10.2'
+  shipping: '0'
+  state: LA
+wootax/14937:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '70537'
+    location_type: postcode
+  name: ACADIA PARISH
+  order: '0'
+  priority: '0'
+  rate: '8.7'
+  shipping: '0'
+  state: LA
+wootax/14938:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '70538'
+    location_type: postcode
+  name: ST. MARY PARISH / WARDS 1 2 3 4 7 10
+  order: '0'
+  priority: '0'
+  rate: '8.45'
+  shipping: '0'
+  state: LA
+wootax/14939:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '70540'
+    location_type: postcode
+  name: ST. MARY PARISH / WARDS 1 2 3 4 7 10
+  order: '0'
+  priority: '0'
+  rate: '8.45'
+  shipping: '0'
+  state: LA
+wootax/14940:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '70541'
+    location_type: postcode
+  name: GRAND COTEAU
+  order: '0'
+  priority: '0'
+  rate: '10'
+  shipping: '0'
+  state: LA
+wootax/14941:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '70542'
+    location_type: postcode
+  name: VERMILION PARISH
+  order: '0'
+  priority: '0'
+  rate: '8.2'
+  shipping: '0'
+  state: LA
+wootax/14942:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '70543'
+    location_type: postcode
+  name: ACADIA PARISH
+  order: '0'
+  priority: '0'
+  rate: '8.7'
+  shipping: '0'
+  state: LA
+wootax/14943:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '70544'
+    location_type: postcode
+  name: JEANERETTE
+  order: '0'
+  priority: '0'
+  rate: '8.95'
+  shipping: '0'
+  state: LA
+wootax/14944:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '70546'
+    location_type: postcode
+  name: JENNINGS
+  order: '0'
+  priority: '0'
+  rate: '9.95'
+  shipping: '0'
+  state: LA
+wootax/14945:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '70548'
+    location_type: postcode
+  name: 'VERMILLON PARISH / KAPLAN HOSPITAL #1'
+  order: '0'
+  priority: '0'
+  rate: '9.2'
+  shipping: '0'
+  state: LA
+wootax/14946:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '70549'
+    location_type: postcode
+  name: LAKE ARTHUR
+  order: '0'
+  priority: '0'
+  rate: '9.95'
+  shipping: '0'
+  state: LA
+wootax/14947:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '70550'
+    location_type: postcode
+  name: SAINT LANDRY PARISH
+  order: '0'
+  priority: '0'
+  rate: '10'
+  shipping: '0'
+  state: LA
+wootax/14948:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '70551'
+    location_type: postcode
+  name: LEONVILLE
+  order: '0'
+  priority: '0'
+  rate: '8'
+  shipping: '0'
+  state: LA
+wootax/14949:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '70552'
+    location_type: postcode
+  name: IBERIA PARISH
+  order: '0'
+  priority: '0'
+  rate: '7.7'
+  shipping: '0'
+  state: LA
+wootax/14950:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '70554'
+    location_type: postcode
+  name: MAMOU
+  order: '0'
+  priority: '0'
+  rate: '9.45'
+  shipping: '0'
+  state: LA
+wootax/14951:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '70555'
+    location_type: postcode
+  name: 'VERMILLON PARISH / ABBEVILLE HOSPITAL #2'
+  order: '0'
+  priority: '0'
+  rate: '8.7'
+  shipping: '0'
+  state: LA
+wootax/14952:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '70556'
+    location_type: postcode
+  name: MERMENTAU
+  order: '0'
+  priority: '0'
+  rate: '8.7'
+  shipping: '0'
+  state: LA
+wootax/14953:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '70558'
+    location_type: postcode
+  name: LAFAYETTE PARISH
+  order: '0'
+  priority: '0'
+  rate: '8.45'
+  shipping: '0'
+  state: LA
+wootax/14954:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '70559'
+    location_type: postcode
+  name: ACADIA PARISH
+  order: '0'
+  priority: '0'
+  rate: '8.7'
+  shipping: '0'
+  state: LA
+wootax/14955:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '70560'
+    location_type: postcode
+  name: NEW IBERIA
+  order: '0'
+  priority: '0'
+  rate: '9.45'
+  shipping: '0'
+  state: LA
+wootax/14956:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '70562'
+    location_type: postcode
+  name: NEW IBERIA
+  order: '0'
+  priority: '0'
+  rate: '9.45'
+  shipping: '0'
+  state: LA
+wootax/14957:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '70563'
+    location_type: postcode
+  name: IBERIA PARISH
+  order: '0'
+  priority: '0'
+  rate: '7.7'
+  shipping: '0'
+  state: LA
+wootax/14958:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '70569'
+    location_type: postcode
+  name: IBERIA PARISH
+  order: '0'
+  priority: '0'
+  rate: '7.7'
+  shipping: '0'
+  state: LA
+wootax/14959:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '70570'
+    location_type: postcode
+  name: OPELOUSAS
+  order: '0'
+  priority: '0'
+  rate: '10.2'
+  shipping: '0'
+  state: LA
+wootax/14960:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '70571'
+    location_type: postcode
+  name: OPELOUSAS DDD EDD
+  order: '0'
+  priority: '0'
+  rate: '11.2'
+  shipping: '0'
+  state: LA
+wootax/14961:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '70575'
+    location_type: postcode
+  name: 'VERMILLON PARISH / ABBEVILLE HOSPITAL #2'
+  order: '0'
+  priority: '0'
+  rate: '8.7'
+  shipping: '0'
+  state: LA
+wootax/14962:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '70576'
+    location_type: postcode
+  name: PINE PRAIRIE
+  order: '0'
+  priority: '0'
+  rate: '9.45'
+  shipping: '0'
+  state: LA
+wootax/14963:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '70577'
+    location_type: postcode
+  name: SAINT LANDRY PARISH
+  order: '0'
+  priority: '0'
+  rate: '10'
+  shipping: '0'
+  state: LA
+wootax/14964:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '70578'
+    location_type: postcode
+  name: RAYNE
+  order: '0'
+  priority: '0'
+  rate: '9.45'
+  shipping: '0'
+  state: LA
+wootax/14965:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '70580'
+    location_type: postcode
+  name: EVANGELINE PARISH
+  order: '0'
+  priority: '0'
+  rate: '9.45'
+  shipping: '0'
+  state: LA
+wootax/14966:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '70581'
+    location_type: postcode
+  name: JEFFERSON DAVIS PA REMAIN
+  order: '0'
+  priority: '0'
+  rate: '9.45'
+  shipping: '0'
+  state: LA
+wootax/14967:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '70582'
+    location_type: postcode
+  name: ST. MARTINVILLE
+  order: '0'
+  priority: '0'
+  rate: '8.95'
+  shipping: '0'
+  state: LA
+wootax/14968:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '70583'
+    location_type: postcode
+  name: SCOTT
+  order: '0'
+  priority: '0'
+  rate: '8.45'
+  shipping: '0'
+  state: LA
+wootax/14969:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '70584'
+    location_type: postcode
+  name: SAINT LANDRY PARISH
+  order: '0'
+  priority: '0'
+  rate: '10'
+  shipping: '0'
+  state: LA
+wootax/14970:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '70585'
+    location_type: postcode
+  name: TURKEY CREEK
+  order: '0'
+  priority: '0'
+  rate: '9.45'
+  shipping: '0'
+  state: LA
+wootax/14971:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '70586'
+    location_type: postcode
+  name: EVANGELINE PARISH
+  order: '0'
+  priority: '0'
+  rate: '9.45'
+  shipping: '0'
+  state: LA
+wootax/14972:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '70589'
+    location_type: postcode
+  name: SAINT LANDRY PARISH
+  order: '0'
+  priority: '0'
+  rate: '10'
+  shipping: '0'
+  state: LA
+wootax/14973:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '70591'
+    location_type: postcode
+  name: WELSH
+  order: '0'
+  priority: '0'
+  rate: '9.45'
+  shipping: '0'
+  state: LA
+wootax/14974:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '70592'
+    location_type: postcode
+  name: YOUNGSVILLE
+  order: '0'
+  priority: '0'
+  rate: '9.95'
+  shipping: '0'
+  state: LA
+wootax/14975:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '70593'
+    location_type: postcode
+  name: LAFAYETTE
+  order: '0'
+  priority: '0'
+  rate: '8.45'
+  shipping: '0'
+  state: LA
+wootax/14976:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '70596'
+    location_type: postcode
+  name: LAFAYETTE
+  order: '0'
+  priority: '0'
+  rate: '8.45'
+  shipping: '0'
+  state: LA
+wootax/14977:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '70598'
+    location_type: postcode
+  name: LAFAYETTE
+  order: '0'
+  priority: '0'
+  rate: '8.45'
+  shipping: '0'
+  state: LA
+wootax/14978:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '70601'
+    location_type: postcode
+  name: LAKE CHARLES
+  order: '0'
+  priority: '0'
+  rate: '10.2'
+  shipping: '0'
+  state: LA
+wootax/14979:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '70602'
+    location_type: postcode
+  name: LAKE CHARLES
+  order: '0'
+  priority: '0'
+  rate: '10.2'
+  shipping: '0'
+  state: LA
+wootax/14980:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '70605'
+    location_type: postcode
+  name: LAKE CHARLES
+  order: '0'
+  priority: '0'
+  rate: '10.2'
+  shipping: '0'
+  state: LA
+wootax/14981:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '70606'
+    location_type: postcode
+  name: LAKE CHARLES
+  order: '0'
+  priority: '0'
+  rate: '10.2'
+  shipping: '0'
+  state: LA
+wootax/14982:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '70607'
+    location_type: postcode
+  name: LAKE CHARLES
+  order: '0'
+  priority: '0'
+  rate: '10.2'
+  shipping: '0'
+  state: LA
+wootax/14983:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '70611'
+    location_type: postcode
+  name: CALCASIEU PA INSIDE WARD 1
+  order: '0'
+  priority: '0'
+  rate: '10.2'
+  shipping: '0'
+  state: LA
+wootax/14984:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '70612'
+    location_type: postcode
+  name: CALCASIEU PA INSIDE WARD 1
+  order: '0'
+  priority: '0'
+  rate: '10.2'
+  shipping: '0'
+  state: LA
+wootax/14985:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '70615'
+    location_type: postcode
+  name: CALCASIEU PARISH/WARD 1
+  order: '0'
+  priority: '0'
+  rate: '10.2'
+  shipping: '0'
+  state: LA
+wootax/14986:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '70616'
+    location_type: postcode
+  name: LAKE CHARLES
+  order: '0'
+  priority: '0'
+  rate: '10.2'
+  shipping: '0'
+  state: LA
+wootax/14987:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '70629'
+    location_type: postcode
+  name: LAKE CHARLES
+  order: '0'
+  priority: '0'
+  rate: '10.2'
+  shipping: '0'
+  state: LA
+wootax/14988:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '70630'
+    location_type: postcode
+  name: CALCASIEU PARISH/WARD 1
+  order: '0'
+  priority: '0'
+  rate: '10.2'
+  shipping: '0'
+  state: LA
+wootax/14989:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '70631'
+    location_type: postcode
+  name: CAMERON PARISH
+  order: '0'
+  priority: '0'
+  rate: '4.45'
+  shipping: '0'
+  state: LA
+wootax/14990:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '70632'
+    location_type: postcode
+  name: CAMERON PARISH
+  order: '0'
+  priority: '0'
+  rate: '4.45'
+  shipping: '0'
+  state: LA
+wootax/14991:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '70633'
+    location_type: postcode
+  name: DEQUINCY
+  order: '0'
+  priority: '0'
+  rate: '10.2'
+  shipping: '0'
+  state: LA
+wootax/14992:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '70634'
+    location_type: postcode
+  name: DERIDDER
+  order: '0'
+  priority: '0'
+  rate: '9.45'
+  shipping: '0'
+  state: LA
+wootax/14993:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '70637'
+    location_type: postcode
+  name: BEAUREGARD PARISH
+  order: '0'
+  priority: '0'
+  rate: '9.2'
+  shipping: '0'
+  state: LA
+wootax/14994:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '70638'
+    location_type: postcode
+  name: ELIZABETH
+  order: '0'
+  priority: '0'
+  rate: '10.45'
+  shipping: '0'
+  state: LA
+wootax/14995:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '70639'
+    location_type: postcode
+  name: VERNON PARISH
+  order: '0'
+  priority: '0'
+  rate: '8.45'
+  shipping: '0'
+  state: LA
+wootax/14996:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '70640'
+    location_type: postcode
+  name: FENTON
+  order: '0'
+  priority: '0'
+  rate: '9.45'
+  shipping: '0'
+  state: LA
+wootax/14997:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '70643'
+    location_type: postcode
+  name: CAMERON PARISH
+  order: '0'
+  priority: '0'
+  rate: '4.45'
+  shipping: '0'
+  state: LA
+wootax/14998:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '70644'
+    location_type: postcode
+  name: ALLEN PARISH
+  order: '0'
+  priority: '0'
+  rate: '9.15'
+  shipping: '0'
+  state: LA
+wootax/14999:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '70645'
+    location_type: postcode
+  name: CAMERON PARISH
+  order: '0'
+  priority: '0'
+  rate: '4.45'
+  shipping: '0'
+  state: LA
+wootax/15000:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '70646'
+    location_type: postcode
+  name: CALCASIEU PARISH/WARD 1
+  order: '0'
+  priority: '0'
+  rate: '10.2'
+  shipping: '0'
+  state: LA
+wootax/15001:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '70647'
+    location_type: postcode
+  name: CALCASIEU PARISH/WARD 1
+  order: '0'
+  priority: '0'
+  rate: '10.2'
+  shipping: '0'
+  state: LA
+wootax/15002:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '70648'
+    location_type: postcode
+  name: ALLEN PARISH
+  order: '0'
+  priority: '0'
+  rate: '9.15'
+  shipping: '0'
+  state: LA
+wootax/15003:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '70650'
+    location_type: postcode
+  name: JEFFERSON DAVIS PA REMAIN
+  order: '0'
+  priority: '0'
+  rate: '9.45'
+  shipping: '0'
+  state: LA
+wootax/15004:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '70651'
+    location_type: postcode
+  name: ALLEN PARISH
+  order: '0'
+  priority: '0'
+  rate: '9.15'
+  shipping: '0'
+  state: LA
+wootax/15005:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '70652'
+    location_type: postcode
+  name: BEAUREGARD PARISH
+  order: '0'
+  priority: '0'
+  rate: '9.2'
+  shipping: '0'
+  state: LA
+wootax/15006:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '70653'
+    location_type: postcode
+  name: BEAUREGARD PARISH
+  order: '0'
+  priority: '0'
+  rate: '9.2'
+  shipping: '0'
+  state: LA
+wootax/15007:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '70654'
+    location_type: postcode
+  name: ALLEN PARISH
+  order: '0'
+  priority: '0'
+  rate: '9.15'
+  shipping: '0'
+  state: LA
+wootax/15008:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '70655'
+    location_type: postcode
+  name: ALLEN PARISH
+  order: '0'
+  priority: '0'
+  rate: '9.15'
+  shipping: '0'
+  state: LA
+wootax/15009:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '70656'
+    location_type: postcode
+  name: VERNON PARISH
+  order: '0'
+  priority: '0'
+  rate: '8.45'
+  shipping: '0'
+  state: LA
+wootax/15010:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '70657'
+    location_type: postcode
+  name: BEAUREGARD PARISH
+  order: '0'
+  priority: '0'
+  rate: '9.2'
+  shipping: '0'
+  state: LA
+wootax/15011:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '70658'
+    location_type: postcode
+  name: ALLEN PARISH
+  order: '0'
+  priority: '0'
+  rate: '9.15'
+  shipping: '0'
+  state: LA
+wootax/15012:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '70659'
+    location_type: postcode
+  name: ROSEPINE
+  order: '0'
+  priority: '0'
+  rate: '9.95'
+  shipping: '0'
+  state: LA
+wootax/15013:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '70660'
+    location_type: postcode
+  name: BEAUREGARD PARISH
+  order: '0'
+  priority: '0'
+  rate: '9.2'
+  shipping: '0'
+  state: LA
+wootax/15014:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '70661'
+    location_type: postcode
+  name: CALCASIEU PARISH/WARD 1
+  order: '0'
+  priority: '0'
+  rate: '10.2'
+  shipping: '0'
+  state: LA
+wootax/15015:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '70662'
+    location_type: postcode
+  name: BEAUREGARD PARISH
+  order: '0'
+  priority: '0'
+  rate: '9.2'
+  shipping: '0'
+  state: LA
+wootax/15016:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '70663'
+    location_type: postcode
+  name: SULPHUR
+  order: '0'
+  priority: '0'
+  rate: '10.2'
+  shipping: '0'
+  state: LA
+wootax/15017:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '70665'
+    location_type: postcode
+  name: CALCASIEU PARISH/WARD 1
+  order: '0'
+  priority: '0'
+  rate: '10.2'
+  shipping: '0'
+  state: LA
+wootax/15018:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '70668'
+    location_type: postcode
+  name: VINTON
+  order: '0'
+  priority: '0'
+  rate: '10.2'
+  shipping: '0'
+  state: LA
+wootax/15019:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '70669'
+    location_type: postcode
+  name: CALCASIEU PARISH/WARD 1
+  order: '0'
+  priority: '0'
+  rate: '10.2'
+  shipping: '0'
+  state: LA
+wootax/15020:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '70704'
+    location_type: postcode
+  name: BAKER / BAKER SCHOOL DISTRICT
+  order: '0'
+  priority: '0'
+  rate: '10.45'
+  shipping: '0'
+  state: LA
+wootax/15021:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '70706'
+    location_type: postcode
+  name: 'SCHOOL DISTRICT TAX #22'
+  order: '0'
+  priority: '0'
+  rate: '9.95'
+  shipping: '0'
+  state: LA
+wootax/15022:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '70710'
+    location_type: postcode
+  name: ADDIS
+  order: '0'
+  priority: '0'
+  rate: '9.45'
+  shipping: '0'
+  state: LA
+wootax/15023:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '70711'
+    location_type: postcode
+  name: LIVINGSTON PARISH
+  order: '0'
+  priority: '0'
+  rate: '8.45'
+  shipping: '0'
+  state: LA
+wootax/15024:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '70712'
+    location_type: postcode
+  name: WEST FELICIANA PARISH
+  order: '0'
+  priority: '0'
+  rate: '9.45'
+  shipping: '0'
+  state: LA
+wootax/15025:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '70714'
+    location_type: postcode
+  name: BAKER / BAKER SCHOOL DISTRICT
+  order: '0'
+  priority: '0'
+  rate: '10.45'
+  shipping: '0'
+  state: LA
+wootax/15026:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '70715'
+    location_type: postcode
+  name: POINTE COUPEE PARISH
+  order: '0'
+  priority: '0'
+  rate: '8.45'
+  shipping: '0'
+  state: LA
+wootax/15027:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '70718'
+    location_type: postcode
+  name: GONZALES
+  order: '0'
+  priority: '0'
+  rate: '8.95'
+  shipping: '0'
+  state: LA
+wootax/15028:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '70719'
+    location_type: postcode
+  name: BRUSLY
+  order: '0'
+  priority: '0'
+  rate: '9.45'
+  shipping: '0'
+  state: LA
+wootax/15029:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '70721'
+    location_type: postcode
+  name: ST. GABRIEL
+  order: '0'
+  priority: '0'
+  rate: '10.116'
+  shipping: '0'
+  state: LA
+wootax/15030:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '70722'
+    location_type: postcode
+  name: EAST FELICIANA PARISH
+  order: '0'
+  priority: '0'
+  rate: '9.45'
+  shipping: '0'
+  state: LA
+wootax/15031:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '70723'
+    location_type: postcode
+  name: SAINT JAMES PARISH
+  order: '0'
+  priority: '0'
+  rate: '7.95'
+  shipping: '0'
+  state: LA
+wootax/15032:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '70725'
+    location_type: postcode
+  name: ASCENSION PARISH
+  order: '0'
+  priority: '0'
+  rate: '8.95'
+  shipping: '0'
+  state: LA
+wootax/15033:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '70726'
+    location_type: postcode
+  name: 'LIVINGSTON PARISH / WARD 2  DRAINAGE #1'
+  order: '0'
+  priority: '0'
+  rate: '8.95'
+  shipping: '0'
+  state: LA
+wootax/15034:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '70727'
+    location_type: postcode
+  name: DENHAM SPRINGS
+  order: '0'
+  priority: '0'
+  rate: '9.95'
+  shipping: '0'
+  state: LA
+wootax/15035:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '70728'
+    location_type: postcode
+  name: ASCENSION PARISH
+  order: '0'
+  priority: '0'
+  rate: '8.95'
+  shipping: '0'
+  state: LA
+wootax/15036:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '70729'
+    location_type: postcode
+  name: WEST BATON ROUGE PARISH
+  order: '0'
+  priority: '0'
+  rate: '9.45'
+  shipping: '0'
+  state: LA
+wootax/15037:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '70730'
+    location_type: postcode
+  name: EAST FELICIANA PARISH
+  order: '0'
+  priority: '0'
+  rate: '9.45'
+  shipping: '0'
+  state: LA
+wootax/15038:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '70732'
+    location_type: postcode
+  name: FORDOCHE
+  order: '0'
+  priority: '0'
+  rate: '9.45'
+  shipping: '0'
+  state: LA
+wootax/15039:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '70733'
+    location_type: postcode
+  name: FRENCH SETTLEMENT
+  order: '0'
+  priority: '0'
+  rate: '8.45'
+  shipping: '0'
+  state: LA
+wootax/15040:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '70734'
+    location_type: postcode
+  name: ASCENSION PARISH
+  order: '0'
+  priority: '0'
+  rate: '8.95'
+  shipping: '0'
+  state: LA
+wootax/15041:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '70736'
+    location_type: postcode
+  name: POINTE COUPEE PARISH
+  order: '0'
+  priority: '0'
+  rate: '8.45'
+  shipping: '0'
+  state: LA
+wootax/15042:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '70737'
+    location_type: postcode
+  name: ASCENSION PARISH
+  order: '0'
+  priority: '0'
+  rate: '8.95'
+  shipping: '0'
+  state: LA
+wootax/15043:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '70738'
+    location_type: postcode
+  name: ASCENSION PARISH
+  order: '0'
+  priority: '0'
+  rate: '8.95'
+  shipping: '0'
+  state: LA
+wootax/15044:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '70739'
+    location_type: postcode
+  name: CENTRAL
+  order: '0'
+  priority: '0'
+  rate: '10.45'
+  shipping: '0'
+  state: LA
+wootax/15045:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '70740'
+    location_type: postcode
+  name: IBERVILLE PARISH
+  order: '0'
+  priority: '0'
+  rate: '9.45'
+  shipping: '0'
+  state: LA
+wootax/15046:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '70743'
+    location_type: postcode
+  name: SAINT JAMES PARISH
+  order: '0'
+  priority: '0'
+  rate: '7.95'
+  shipping: '0'
+  state: LA
+wootax/15047:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '70744'
+    location_type: postcode
+  name: LIVINGSTON PARISH
+  order: '0'
+  priority: '0'
+  rate: '8.45'
+  shipping: '0'
+  state: LA
+wootax/15048:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '70747'
+    location_type: postcode
+  name: POINTE COUPEE PARISH
+  order: '0'
+  priority: '0'
+  rate: '8.45'
+  shipping: '0'
+  state: LA
+wootax/15049:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '70748'
+    location_type: postcode
+  name: EAST FELICIANA PARISH
+  order: '0'
+  priority: '0'
+  rate: '9.45'
+  shipping: '0'
+  state: LA
+wootax/15050:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '70749'
+    location_type: postcode
+  name: POINTE COUPEE PARISH
+  order: '0'
+  priority: '0'
+  rate: '8.45'
+  shipping: '0'
+  state: LA
+wootax/15051:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '70750'
+    location_type: postcode
+  name: SAINT LANDRY PARISH
+  order: '0'
+  priority: '0'
+  rate: '10'
+  shipping: '0'
+  state: LA
+wootax/15052:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '70752'
+    location_type: postcode
+  name: POINTE COUPEE PARISH
+  order: '0'
+  priority: '0'
+  rate: '8.45'
+  shipping: '0'
+  state: LA
+wootax/15053:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '70753'
+    location_type: postcode
+  name: POINTE COUPEE PARISH
+  order: '0'
+  priority: '0'
+  rate: '8.45'
+  shipping: '0'
+  state: LA
+wootax/15054:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '70754'
+    location_type: postcode
+  name: LIVINGSTON PARISH
+  order: '0'
+  priority: '0'
+  rate: '8.45'
+  shipping: '0'
+  state: LA
+wootax/15055:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '70755'
+    location_type: postcode
+  name: LIVONIA
+  order: '0'
+  priority: '0'
+  rate: '9.45'
+  shipping: '0'
+  state: LA
+wootax/15056:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '70756'
+    location_type: postcode
+  name: POINTE COUPEE PARISH
+  order: '0'
+  priority: '0'
+  rate: '8.45'
+  shipping: '0'
+  state: LA
+wootax/15057:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '70757'
+    location_type: postcode
+  name: IBERVILLE PARISH
+  order: '0'
+  priority: '0'
+  rate: '9.45'
+  shipping: '0'
+  state: LA
+wootax/15058:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '70759'
+    location_type: postcode
+  name: POINTE COUPEE PARISH
+  order: '0'
+  priority: '0'
+  rate: '8.45'
+  shipping: '0'
+  state: LA
+wootax/15059:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '70760'
+    location_type: postcode
+  name: NEW ROADS
+  order: '0'
+  priority: '0'
+  rate: '9.45'
+  shipping: '0'
+  state: LA
+wootax/15060:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '70761'
+    location_type: postcode
+  name: EAST FELICIANA PARISH
+  order: '0'
+  priority: '0'
+  rate: '9.45'
+  shipping: '0'
+  state: LA
+wootax/15061:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '70762'
+    location_type: postcode
+  name: POINTE COUPEE PARISH
+  order: '0'
+  priority: '0'
+  rate: '8.45'
+  shipping: '0'
+  state: LA
+wootax/15062:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '70763'
+    location_type: postcode
+  name: SAINT JAMES PARISH
+  order: '0'
+  priority: '0'
+  rate: '7.95'
+  shipping: '0'
+  state: LA
+wootax/15063:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '70764'
+    location_type: postcode
+  name: IBERVILLE PARISH
+  order: '0'
+  priority: '0'
+  rate: '9.45'
+  shipping: '0'
+  state: LA
+wootax/15064:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '70767'
+    location_type: postcode
+  name: WEST BATON ROUGE PARISH
+  order: '0'
+  priority: '0'
+  rate: '9.45'
+  shipping: '0'
+  state: LA
+wootax/15065:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '70769'
+    location_type: postcode
+  name: ASCENSION PARISH
+  order: '0'
+  priority: '0'
+  rate: '8.95'
+  shipping: '0'
+  state: LA
+wootax/15066:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '70770'
+    location_type: postcode
+  name: EAST BATON ROUGE PAR / ZACHARY SD
+  order: '0'
+  priority: '0'
+  rate: '9.95'
+  shipping: '0'
+  state: LA
+wootax/15067:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '70772'
+    location_type: postcode
+  name: ROSEDALE
+  order: '0'
+  priority: '0'
+  rate: '9.45'
+  shipping: '0'
+  state: LA
+wootax/15068:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '70773'
+    location_type: postcode
+  name: POINTE COUPEE PARISH
+  order: '0'
+  priority: '0'
+  rate: '8.45'
+  shipping: '0'
+  state: LA
+wootax/15069:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '70774'
+    location_type: postcode
+  name: ASCENSION PARISH
+  order: '0'
+  priority: '0'
+  rate: '8.95'
+  shipping: '0'
+  state: LA
+wootax/15070:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '70775'
+    location_type: postcode
+  name: WEST FELICIANA PARISH
+  order: '0'
+  priority: '0'
+  rate: '9.45'
+  shipping: '0'
+  state: LA
+wootax/15071:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '70776'
+    location_type: postcode
+  name: ST. GABRIEL
+  order: '0'
+  priority: '0'
+  rate: '10.116'
+  shipping: '0'
+  state: LA
+wootax/15072:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '70777'
+    location_type: postcode
+  name: EAST FELICIANA PARISH
+  order: '0'
+  priority: '0'
+  rate: '9.45'
+  shipping: '0'
+  state: LA
+wootax/15073:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '70778'
+    location_type: postcode
+  name: SORRENTO
+  order: '0'
+  priority: '0'
+  rate: '8.95'
+  shipping: '0'
+  state: LA
+wootax/15074:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '70780'
+    location_type: postcode
+  name: ST. GABRIEL
+  order: '0'
+  priority: '0'
+  rate: '10.116'
+  shipping: '0'
+  state: LA
+wootax/15075:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '70782'
+    location_type: postcode
+  name: WEST FELICIANA PARISH
+  order: '0'
+  priority: '0'
+  rate: '9.45'
+  shipping: '0'
+  state: LA
+wootax/15076:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '70783'
+    location_type: postcode
+  name: POINTE COUPEE PARISH
+  order: '0'
+  priority: '0'
+  rate: '8.45'
+  shipping: '0'
+  state: LA
+wootax/15077:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '70784'
+    location_type: postcode
+  name: WEST FELICIANA PARISH
+  order: '0'
+  priority: '0'
+  rate: '9.45'
+  shipping: '0'
+  state: LA
+wootax/15078:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '70785'
+    location_type: postcode
+  name: WALKER
+  order: '0'
+  priority: '0'
+  rate: '9.95'
+  shipping: '0'
+  state: LA
+wootax/15079:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '70786'
+    location_type: postcode
+  name: 'SCHOOL DISTRICT TAX #22'
+  order: '0'
+  priority: '0'
+  rate: '9.95'
+  shipping: '0'
+  state: LA
+wootax/15080:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '70787'
+    location_type: postcode
+  name: WEST FELICIANA PARISH
+  order: '0'
+  priority: '0'
+  rate: '9.45'
+  shipping: '0'
+  state: LA
+wootax/15081:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '70788'
+    location_type: postcode
+  name: IBERVILLE PARISH
+  order: '0'
+  priority: '0'
+  rate: '9.45'
+  shipping: '0'
+  state: LA
+wootax/15082:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '70789'
+    location_type: postcode
+  name: EAST FELICIANA PARISH
+  order: '0'
+  priority: '0'
+  rate: '9.45'
+  shipping: '0'
+  state: LA
+wootax/15083:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '70791'
+    location_type: postcode
+  name: ZACHARY
+  order: '0'
+  priority: '0'
+  rate: '9.95'
+  shipping: '0'
+  state: LA
+wootax/15084:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '70801'
+    location_type: postcode
+  name: BATON ROUGE
+  order: '0'
+  priority: '0'
+  rate: '9.95'
+  shipping: '0'
+  state: LA
+wootax/15085:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '70802'
+    location_type: postcode
+  name: BATON ROUGE
+  order: '0'
+  priority: '0'
+  rate: '9.95'
+  shipping: '0'
+  state: LA
+wootax/15086:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '70803'
+    location_type: postcode
+  name: EAST BATON ROUGE PAR / ZACHARY SD
+  order: '0'
+  priority: '0'
+  rate: '9.95'
+  shipping: '0'
+  state: LA
+wootax/15087:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '70804'
+    location_type: postcode
+  name: BATON ROUGE
+  order: '0'
+  priority: '0'
+  rate: '9.95'
+  shipping: '0'
+  state: LA
+wootax/15088:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '70805'
+    location_type: postcode
+  name: BATON ROUGE
+  order: '0'
+  priority: '0'
+  rate: '9.95'
+  shipping: '0'
+  state: LA
+wootax/15089:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '70806'
+    location_type: postcode
+  name: BATON ROUGE
+  order: '0'
+  priority: '0'
+  rate: '9.95'
+  shipping: '0'
+  state: LA
+wootax/15090:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '70807'
+    location_type: postcode
+  name: BATON ROUGE
+  order: '0'
+  priority: '0'
+  rate: '9.95'
+  shipping: '0'
+  state: LA
+wootax/15091:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '70808'
+    location_type: postcode
+  name: BATON ROUGE
+  order: '0'
+  priority: '0'
+  rate: '9.95'
+  shipping: '0'
+  state: LA
+wootax/15092:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '70809'
+    location_type: postcode
+  name: EAST BATON ROUGE PAR / ZACHARY SD
+  order: '0'
+  priority: '0'
+  rate: '9.95'
+  shipping: '0'
+  state: LA
+wootax/15093:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '70810'
+    location_type: postcode
+  name: EAST BATON ROUGE PAR / ZACHARY SD
+  order: '0'
+  priority: '0'
+  rate: '9.95'
+  shipping: '0'
+  state: LA
+wootax/15094:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '70811'
+    location_type: postcode
+  name: EAST BATON ROUGE PAR / ZACHARY SD
+  order: '0'
+  priority: '0'
+  rate: '9.95'
+  shipping: '0'
+  state: LA
+wootax/15095:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '70812'
+    location_type: postcode
+  name: E BATON ROUGE PA SCH DIST
+  order: '0'
+  priority: '0'
+  rate: '9.95'
+  shipping: '0'
+  state: LA
+wootax/15096:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '70814'
+    location_type: postcode
+  name: BATON ROUGE
+  order: '0'
+  priority: '0'
+  rate: '9.95'
+  shipping: '0'
+  state: LA
+wootax/15097:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '70815'
+    location_type: postcode
+  name: BATON ROUGE
+  order: '0'
+  priority: '0'
+  rate: '9.95'
+  shipping: '0'
+  state: LA
+wootax/15098:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '70816'
+    location_type: postcode
+  name: BATON ROUGE
+  order: '0'
+  priority: '0'
+  rate: '9.95'
+  shipping: '0'
+  state: LA
+wootax/15099:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '70817'
+    location_type: postcode
+  name: EAST BATON ROUGE PAR / ZACHARY SD
+  order: '0'
+  priority: '0'
+  rate: '9.95'
+  shipping: '0'
+  state: LA
+wootax/15100:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '70818'
+    location_type: postcode
+  name: CENTRAL
+  order: '0'
+  priority: '0'
+  rate: '10.45'
+  shipping: '0'
+  state: LA
+wootax/15101:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '70819'
+    location_type: postcode
+  name: EAST BATON ROUGE PAR / ZACHARY SD
+  order: '0'
+  priority: '0'
+  rate: '9.95'
+  shipping: '0'
+  state: LA
+wootax/15102:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '70820'
+    location_type: postcode
+  name: BATON ROUGE
+  order: '0'
+  priority: '0'
+  rate: '9.95'
+  shipping: '0'
+  state: LA
+wootax/15103:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '70821'
+    location_type: postcode
+  name: BATON ROUGE
+  order: '0'
+  priority: '0'
+  rate: '9.95'
+  shipping: '0'
+  state: LA
+wootax/15104:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '70825'
+    location_type: postcode
+  name: BATON ROUGE
+  order: '0'
+  priority: '0'
+  rate: '9.95'
+  shipping: '0'
+  state: LA
+wootax/15105:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '70827'
+    location_type: postcode
+  name: EAST BATON ROUGE PAR / ZACHARY SD
+  order: '0'
+  priority: '0'
+  rate: '9.95'
+  shipping: '0'
+  state: LA
+wootax/15106:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '70835'
+    location_type: postcode
+  name: BATON ROUGE
+  order: '0'
+  priority: '0'
+  rate: '9.95'
+  shipping: '0'
+  state: LA
+wootax/15107:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '70836'
+    location_type: postcode
+  name: BATON ROUGE
+  order: '0'
+  priority: '0'
+  rate: '9.95'
+  shipping: '0'
+  state: LA
+wootax/15108:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '70873'
+    location_type: postcode
+  name: BATON ROUGE
+  order: '0'
+  priority: '0'
+  rate: '9.95'
+  shipping: '0'
+  state: LA
+wootax/15109:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '70874'
+    location_type: postcode
+  name: BATON ROUGE
+  order: '0'
+  priority: '0'
+  rate: '9.95'
+  shipping: '0'
+  state: LA
+wootax/15110:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '70879'
+    location_type: postcode
+  name: EAST BATON ROUGE PAR / ZACHARY SD
+  order: '0'
+  priority: '0'
+  rate: '9.95'
+  shipping: '0'
+  state: LA
+wootax/15111:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '70884'
+    location_type: postcode
+  name: EAST BATON ROUGE PAR / ZACHARY SD
+  order: '0'
+  priority: '0'
+  rate: '9.95'
+  shipping: '0'
+  state: LA
+wootax/15112:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '70892'
+    location_type: postcode
+  name: BATON ROUGE
+  order: '0'
+  priority: '0'
+  rate: '9.95'
+  shipping: '0'
+  state: LA
+wootax/15113:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '70893'
+    location_type: postcode
+  name: BATON ROUGE
+  order: '0'
+  priority: '0'
+  rate: '9.95'
+  shipping: '0'
+  state: LA
+wootax/15114:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '70895'
+    location_type: postcode
+  name: BATON ROUGE
+  order: '0'
+  priority: '0'
+  rate: '9.95'
+  shipping: '0'
+  state: LA
+wootax/15115:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '70896'
+    location_type: postcode
+  name: BATON ROUGE
+  order: '0'
+  priority: '0'
+  rate: '9.95'
+  shipping: '0'
+  state: LA
+wootax/15116:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '70898'
+    location_type: postcode
+  name: BATON ROUGE
+  order: '0'
+  priority: '0'
+  rate: '9.95'
+  shipping: '0'
+  state: LA
+wootax/15117:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '71001'
+    location_type: postcode
+  name: ARCADIA
+  order: '0'
+  priority: '0'
+  rate: '9.95'
+  shipping: '0'
+  state: LA
+wootax/15118:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '71002'
+    location_type: postcode
+  name: ASHLAND
+  order: '0'
+  priority: '0'
+  rate: '8.45'
+  shipping: '0'
+  state: LA
+wootax/15119:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '71003'
+    location_type: postcode
+  name: CLAIBORNE PARISH
+  order: '0'
+  priority: '0'
+  rate: '8.075'
+  shipping: '0'
+  state: LA
+wootax/15120:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '71004'
+    location_type: postcode
+  name: N CADDO HOSP DIST
+  order: '0'
+  priority: '0'
+  rate: '8.8'
+  shipping: '0'
+  state: LA
+wootax/15121:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '71006'
+    location_type: postcode
+  name: BOSSIER PARISH
+  order: '0'
+  priority: '0'
+  rate: '8.7'
+  shipping: '0'
+  state: LA
+wootax/15122:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '71007'
+    location_type: postcode
+  name: CADDO PARISH
+  order: '0'
+  priority: '0'
+  rate: '7.8'
+  shipping: '0'
+  state: LA
+wootax/15123:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '71008'
+    location_type: postcode
+  name: BIENVILLE PARISH
+  order: '0'
+  priority: '0'
+  rate: '7.45'
+  shipping: '0'
+  state: LA
+wootax/15124:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '71009'
+    location_type: postcode
+  name: BLANCHARD
+  order: '0'
+  priority: '0'
+  rate: '9.8'
+  shipping: '0'
+  state: LA
+wootax/15125:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '71016'
+    location_type: postcode
+  name: BIENVILLE PARISH
+  order: '0'
+  priority: '0'
+  rate: '7.45'
+  shipping: '0'
+  state: LA
+wootax/15126:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '71018'
+    location_type: postcode
+  name: WEBSTER PARISH
+  order: '0'
+  priority: '0'
+  rate: '7.45'
+  shipping: '0'
+  state: LA
+wootax/15127:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '71019'
+    location_type: postcode
+  name: RED RIVER PARISH
+  order: '0'
+  priority: '0'
+  rate: '8.95'
+  shipping: '0'
+  state: LA
+wootax/15128:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '71021'
+    location_type: postcode
+  name: CULLEN
+  order: '0'
+  priority: '0'
+  rate: '9.95'
+  shipping: '0'
+  state: LA
+wootax/15129:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '71023'
+    location_type: postcode
+  name: WEBSTER PARISH
+  order: '0'
+  priority: '0'
+  rate: '7.45'
+  shipping: '0'
+  state: LA
+wootax/15130:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '71024'
+    location_type: postcode
+  name: WEBSTER PARISH
+  order: '0'
+  priority: '0'
+  rate: '7.45'
+  shipping: '0'
+  state: LA
+wootax/15131:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '71027'
+    location_type: postcode
+  name: DE SOTO PARISH
+  order: '0'
+  priority: '0'
+  rate: '8.45'
+  shipping: '0'
+  state: LA
+wootax/15132:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '71028'
+    location_type: postcode
+  name: BIENVILLE PARISH
+  order: '0'
+  priority: '0'
+  rate: '7.45'
+  shipping: '0'
+  state: LA
+wootax/15133:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '71029'
+    location_type: postcode
+  name: N CADDO HOSP DIST
+  order: '0'
+  priority: '0'
+  rate: '8.8'
+  shipping: '0'
+  state: LA
+wootax/15134:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '71030'
+    location_type: postcode
+  name: DE SOTO PARISH
+  order: '0'
+  priority: '0'
+  rate: '8.45'
+  shipping: '0'
+  state: LA
+wootax/15135:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '71031'
+    location_type: postcode
+  name: NATCHITOCHES PARISH
+  order: '0'
+  priority: '0'
+  rate: '8.45'
+  shipping: '0'
+  state: LA
+wootax/15136:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '71032'
+    location_type: postcode
+  name: DE SOTO PARISH
+  order: '0'
+  priority: '0'
+  rate: '8.45'
+  shipping: '0'
+  state: LA
+wootax/15137:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '71033'
+    location_type: postcode
+  name: GREENWOOD
+  order: '0'
+  priority: '0'
+  rate: '8.8'
+  shipping: '0'
+  state: LA
+wootax/15138:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '71034'
+    location_type: postcode
+  name: HALL SUMMIT
+  order: '0'
+  priority: '0'
+  rate: '9.95'
+  shipping: '0'
+  state: LA
+wootax/15139:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '71037'
+    location_type: postcode
+  name: BOSSIER PARISH
+  order: '0'
+  priority: '0'
+  rate: '8.7'
+  shipping: '0'
+  state: LA
+wootax/15140:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '71038'
+    location_type: postcode
+  name: HAYNESVILLE
+  order: '0'
+  priority: '0'
+  rate: '9.575'
+  shipping: '0'
+  state: LA
+wootax/15141:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '71039'
+    location_type: postcode
+  name: WEBSTER PARISH
+  order: '0'
+  priority: '0'
+  rate: '7.45'
+  shipping: '0'
+  state: LA
+wootax/15142:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '71040'
+    location_type: postcode
+  name: CLAIBORNE PARISH
+  order: '0'
+  priority: '0'
+  rate: '8.075'
+  shipping: '0'
+  state: LA
+wootax/15143:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '71043'
+    location_type: postcode
+  name: HOSSTON
+  order: '0'
+  priority: '0'
+  rate: '8.8'
+  shipping: '0'
+  state: LA
+wootax/15144:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '71044'
+    location_type: postcode
+  name: N CADDO HOSP DIST
+  order: '0'
+  priority: '0'
+  rate: '8.8'
+  shipping: '0'
+  state: LA
+wootax/15145:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '71045'
+    location_type: postcode
+  name: BIENVILLE PARISH
+  order: '0'
+  priority: '0'
+  rate: '7.45'
+  shipping: '0'
+  state: LA
+wootax/15146:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '71046'
+    location_type: postcode
+  name: DE SOTO PARISH
+  order: '0'
+  priority: '0'
+  rate: '8.45'
+  shipping: '0'
+  state: LA
+wootax/15147:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '71047'
+    location_type: postcode
+  name: CADDO PARISH
+  order: '0'
+  priority: '0'
+  rate: '7.8'
+  shipping: '0'
+  state: LA
+wootax/15148:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '71048'
+    location_type: postcode
+  name: CLAIBORNE PARISH
+  order: '0'
+  priority: '0'
+  rate: '8.075'
+  shipping: '0'
+  state: LA
+wootax/15149:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '71049'
+    location_type: postcode
+  name: DE SOTO PARISH
+  order: '0'
+  priority: '0'
+  rate: '8.45'
+  shipping: '0'
+  state: LA
+wootax/15150:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '71051'
+    location_type: postcode
+  name: BOSSIER PARISH
+  order: '0'
+  priority: '0'
+  rate: '8.7'
+  shipping: '0'
+  state: LA
+wootax/15151:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '71052'
+    location_type: postcode
+  name: DE SOTO PARISH
+  order: '0'
+  priority: '0'
+  rate: '8.45'
+  shipping: '0'
+  state: LA
+wootax/15152:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '71055'
+    location_type: postcode
+  name: MINDEN
+  order: '0'
+  priority: '0'
+  rate: '9.95'
+  shipping: '0'
+  state: LA
+wootax/15153:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '71060'
+    location_type: postcode
+  name: N CADDO HOSP DIST
+  order: '0'
+  priority: '0'
+  rate: '8.8'
+  shipping: '0'
+  state: LA
+wootax/15154:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '71061'
+    location_type: postcode
+  name: N CADDO HOSP DIST
+  order: '0'
+  priority: '0'
+  rate: '8.8'
+  shipping: '0'
+  state: LA
+wootax/15155:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '71063'
+    location_type: postcode
+  name: DE SOTO PARISH
+  order: '0'
+  priority: '0'
+  rate: '8.45'
+  shipping: '0'
+  state: LA
+wootax/15156:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '71064'
+    location_type: postcode
+  name: BOSSIER PARISH
+  order: '0'
+  priority: '0'
+  rate: '8.7'
+  shipping: '0'
+  state: LA
+wootax/15157:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '71065'
+    location_type: postcode
+  name: SABINE PARISH
+  order: '0'
+  priority: '0'
+  rate: '9.075'
+  shipping: '0'
+  state: LA
+wootax/15158:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '71066'
+    location_type: postcode
+  name: NATCHITOCHES PARISH
+  order: '0'
+  priority: '0'
+  rate: '8.45'
+  shipping: '0'
+  state: LA
+wootax/15159:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '71067'
+    location_type: postcode
+  name: BOSSIER PARISH
+  order: '0'
+  priority: '0'
+  rate: '8.7'
+  shipping: '0'
+  state: LA
+wootax/15160:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '71068'
+    location_type: postcode
+  name: BIENVILLE PARISH
+  order: '0'
+  priority: '0'
+  rate: '7.45'
+  shipping: '0'
+  state: LA
+wootax/15161:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '71069'
+    location_type: postcode
+  name: N CADDO HOSP DIST
+  order: '0'
+  priority: '0'
+  rate: '8.8'
+  shipping: '0'
+  state: LA
+wootax/15162:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '71070'
+    location_type: postcode
+  name: NATCHITOCHES PARISH
+  order: '0'
+  priority: '0'
+  rate: '8.45'
+  shipping: '0'
+  state: LA
+wootax/15163:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '71071'
+    location_type: postcode
+  name: WEBSTER PARISH
+  order: '0'
+  priority: '0'
+  rate: '7.45'
+  shipping: '0'
+  state: LA
+wootax/15164:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '71072'
+    location_type: postcode
+  name: WEBSTER PARISH
+  order: '0'
+  priority: '0'
+  rate: '7.45'
+  shipping: '0'
+  state: LA
+wootax/15165:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '71073'
+    location_type: postcode
+  name: SIBLEY
+  order: '0'
+  priority: '0'
+  rate: '9.95'
+  shipping: '0'
+  state: LA
+wootax/15166:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '71075'
+    location_type: postcode
+  name: SPRINGHILL
+  order: '0'
+  priority: '0'
+  rate: '9.95'
+  shipping: '0'
+  state: LA
+wootax/15167:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '71078'
+    location_type: postcode
+  name: DE SOTO PARISH
+  order: '0'
+  priority: '0'
+  rate: '8.45'
+  shipping: '0'
+  state: LA
+wootax/15168:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '71079'
+    location_type: postcode
+  name: CLAIBORNE PARISH
+  order: '0'
+  priority: '0'
+  rate: '8.075'
+  shipping: '0'
+  state: LA
+wootax/15169:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '71080'
+    location_type: postcode
+  name: BIENVILLE PARISH
+  order: '0'
+  priority: '0'
+  rate: '7.45'
+  shipping: '0'
+  state: LA
+wootax/15170:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '71082'
+    location_type: postcode
+  name: VIVIAN
+  order: '0'
+  priority: '0'
+  rate: '9.8'
+  shipping: '0'
+  state: LA
+wootax/15171:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '71101'
+    location_type: postcode
+  name: SHREVEPORT (CADDO CO)
+  order: '0'
+  priority: '0'
+  rate: '9.05'
+  shipping: '0'
+  state: LA
+wootax/15172:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '71102'
+    location_type: postcode
+  name: SHREVEPORT (CADDO CO)
+  order: '0'
+  priority: '0'
+  rate: '9.05'
+  shipping: '0'
+  state: LA
+wootax/15173:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '71103'
+    location_type: postcode
+  name: SHREVEPORT (CADDO CO)
+  order: '0'
+  priority: '0'
+  rate: '9.05'
+  shipping: '0'
+  state: LA
+wootax/15174:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '71104'
+    location_type: postcode
+  name: SHREVEPORT (CADDO CO)
+  order: '0'
+  priority: '0'
+  rate: '9.05'
+  shipping: '0'
+  state: LA
+wootax/15175:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '71105'
+    location_type: postcode
+  name: SHREVEPORT (CADDO CO)
+  order: '0'
+  priority: '0'
+  rate: '9.05'
+  shipping: '0'
+  state: LA
+wootax/15176:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '71106'
+    location_type: postcode
+  name: SHREVEPORT (CADDO CO)
+  order: '0'
+  priority: '0'
+  rate: '9.05'
+  shipping: '0'
+  state: LA
+wootax/15177:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '71107'
+    location_type: postcode
+  name: SHREVEPORT (CADDO CO)
+  order: '0'
+  priority: '0'
+  rate: '9.05'
+  shipping: '0'
+  state: LA
+wootax/15178:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '71108'
+    location_type: postcode
+  name: SHREVEPORT (CADDO CO)
+  order: '0'
+  priority: '0'
+  rate: '9.05'
+  shipping: '0'
+  state: LA
+wootax/15179:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '71109'
+    location_type: postcode
+  name: SHREVEPORT (CADDO CO)
+  order: '0'
+  priority: '0'
+  rate: '9.05'
+  shipping: '0'
+  state: LA
+wootax/15180:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '71110'
+    location_type: postcode
+  name: BOSSIER
+  order: '0'
+  priority: '0'
+  rate: '9.45'
+  shipping: '0'
+  state: LA
+wootax/15181:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '71111'
+    location_type: postcode
+  name: BOSSIER
+  order: '0'
+  priority: '0'
+  rate: '9.45'
+  shipping: '0'
+  state: LA
+wootax/15182:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '71112'
+    location_type: postcode
+  name: BOSSIER
+  order: '0'
+  priority: '0'
+  rate: '9.45'
+  shipping: '0'
+  state: LA
+wootax/15183:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '71113'
+    location_type: postcode
+  name: BOSSIER
+  order: '0'
+  priority: '0'
+  rate: '9.45'
+  shipping: '0'
+  state: LA
+wootax/15184:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '71115'
+    location_type: postcode
+  name: SHREVEPORT (CADDO CO)
+  order: '0'
+  priority: '0'
+  rate: '9.05'
+  shipping: '0'
+  state: LA
+wootax/15185:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '71118'
+    location_type: postcode
+  name: SHREVEPORT (CADDO CO)
+  order: '0'
+  priority: '0'
+  rate: '9.05'
+  shipping: '0'
+  state: LA
+wootax/15186:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '71119'
+    location_type: postcode
+  name: SHREVEPORT (CADDO CO)
+  order: '0'
+  priority: '0'
+  rate: '9.05'
+  shipping: '0'
+  state: LA
+wootax/15187:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '71129'
+    location_type: postcode
+  name: SHREVEPORT (CADDO CO)
+  order: '0'
+  priority: '0'
+  rate: '9.05'
+  shipping: '0'
+  state: LA
+wootax/15188:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '71133'
+    location_type: postcode
+  name: SHREVEPORT (CADDO CO)
+  order: '0'
+  priority: '0'
+  rate: '9.05'
+  shipping: '0'
+  state: LA
+wootax/15189:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '71134'
+    location_type: postcode
+  name: SHREVEPORT (CADDO CO)
+  order: '0'
+  priority: '0'
+  rate: '9.05'
+  shipping: '0'
+  state: LA
+wootax/15190:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '71135'
+    location_type: postcode
+  name: SHREVEPORT (CADDO CO)
+  order: '0'
+  priority: '0'
+  rate: '9.05'
+  shipping: '0'
+  state: LA
+wootax/15191:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '71136'
+    location_type: postcode
+  name: SHREVEPORT (CADDO CO)
+  order: '0'
+  priority: '0'
+  rate: '9.05'
+  shipping: '0'
+  state: LA
+wootax/15192:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '71137'
+    location_type: postcode
+  name: SHREVEPORT (BOSSIER CO)
+  order: '0'
+  priority: '0'
+  rate: '9.7'
+  shipping: '0'
+  state: LA
+wootax/15193:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '71138'
+    location_type: postcode
+  name: SHREVEPORT (CADDO CO)
+  order: '0'
+  priority: '0'
+  rate: '9.05'
+  shipping: '0'
+  state: LA
+wootax/15194:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '71148'
+    location_type: postcode
+  name: SHREVEPORT (CADDO CO)
+  order: '0'
+  priority: '0'
+  rate: '9.05'
+  shipping: '0'
+  state: LA
+wootax/15195:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '71149'
+    location_type: postcode
+  name: SHREVEPORT (CADDO CO)
+  order: '0'
+  priority: '0'
+  rate: '9.05'
+  shipping: '0'
+  state: LA
+wootax/15196:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '71150'
+    location_type: postcode
+  name: SHREVEPORT (CADDO CO)
+  order: '0'
+  priority: '0'
+  rate: '9.05'
+  shipping: '0'
+  state: LA
+wootax/15197:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '71161'
+    location_type: postcode
+  name: SHREVEPORT (CADDO CO)
+  order: '0'
+  priority: '0'
+  rate: '9.05'
+  shipping: '0'
+  state: LA
+wootax/15198:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '71162'
+    location_type: postcode
+  name: SHREVEPORT (CADDO CO)
+  order: '0'
+  priority: '0'
+  rate: '9.05'
+  shipping: '0'
+  state: LA
+wootax/15199:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '71163'
+    location_type: postcode
+  name: SHREVEPORT (CADDO CO)
+  order: '0'
+  priority: '0'
+  rate: '9.05'
+  shipping: '0'
+  state: LA
+wootax/15200:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '71164'
+    location_type: postcode
+  name: SHREVEPORT (CADDO CO)
+  order: '0'
+  priority: '0'
+  rate: '9.05'
+  shipping: '0'
+  state: LA
+wootax/15201:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '71165'
+    location_type: postcode
+  name: SHREVEPORT (CADDO CO)
+  order: '0'
+  priority: '0'
+  rate: '9.05'
+  shipping: '0'
+  state: LA
+wootax/15202:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '71166'
+    location_type: postcode
+  name: SHREVEPORT (CADDO CO)
+  order: '0'
+  priority: '0'
+  rate: '9.05'
+  shipping: '0'
+  state: LA
+wootax/15203:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '71171'
+    location_type: postcode
+  name: BOSSIER
+  order: '0'
+  priority: '0'
+  rate: '9.45'
+  shipping: '0'
+  state: LA
+wootax/15204:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '71172'
+    location_type: postcode
+  name: BOSSIER
+  order: '0'
+  priority: '0'
+  rate: '9.45'
+  shipping: '0'
+  state: LA
+wootax/15205:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '71201'
+    location_type: postcode
+  name: MONROE
+  order: '0'
+  priority: '0'
+  rate: '10.44'
+  shipping: '0'
+  state: LA
+wootax/15206:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '71202'
+    location_type: postcode
+  name: OUACHITA
+  order: '0'
+  priority: '0'
+  rate: '10.44'
+  shipping: '0'
+  state: LA
+wootax/15207:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '71203'
+    location_type: postcode
+  name: OUACHITA PARISH / EAST
+  order: '0'
+  priority: '0'
+  rate: '10.44'
+  shipping: '0'
+  state: LA
+wootax/15208:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '71207'
+    location_type: postcode
+  name: MONROE
+  order: '0'
+  priority: '0'
+  rate: '10.44'
+  shipping: '0'
+  state: LA
+wootax/15209:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '71209'
+    location_type: postcode
+  name: MONROE
+  order: '0'
+  priority: '0'
+  rate: '10.44'
+  shipping: '0'
+  state: LA
+wootax/15210:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '71210'
+    location_type: postcode
+  name: MONROE
+  order: '0'
+  priority: '0'
+  rate: '10.44'
+  shipping: '0'
+  state: LA
+wootax/15211:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '71211'
+    location_type: postcode
+  name: MONROE
+  order: '0'
+  priority: '0'
+  rate: '10.44'
+  shipping: '0'
+  state: LA
+wootax/15212:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '71212'
+    location_type: postcode
+  name: MONROE
+  order: '0'
+  priority: '0'
+  rate: '10.44'
+  shipping: '0'
+  state: LA
+wootax/15213:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '71213'
+    location_type: postcode
+  name: MONROE
+  order: '0'
+  priority: '0'
+  rate: '10.44'
+  shipping: '0'
+  state: LA
+wootax/15214:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '71218'
+    location_type: postcode
+  name: RICHLAND PARISH
+  order: '0'
+  priority: '0'
+  rate: '8.45'
+  shipping: '0'
+  state: LA
+wootax/15215:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '71219'
+    location_type: postcode
+  name: FRANKLIN PARISH
+  order: '0'
+  priority: '0'
+  rate: '8.45'
+  shipping: '0'
+  state: LA
+wootax/15216:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '71220'
+    location_type: postcode
+  name: BASTROP / TAX DISTRICT 1
+  order: '0'
+  priority: '0'
+  rate: '10.45'
+  shipping: '0'
+  state: LA
+wootax/15217:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '71222'
+    location_type: postcode
+  name: UNION PARISH
+  order: '0'
+  priority: '0'
+  rate: '9.45'
+  shipping: '0'
+  state: LA
+wootax/15218:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '71223'
+    location_type: postcode
+  name: MOREHOUSE PARISH
+  order: '0'
+  priority: '0'
+  rate: '8.45'
+  shipping: '0'
+  state: LA
+wootax/15219:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '71225'
+    location_type: postcode
+  name: OUACHITA PA
+  order: '0'
+  priority: '0'
+  rate: '10.44'
+  shipping: '0'
+  state: LA
+wootax/15220:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '71226'
+    location_type: postcode
+  name: JACKSON PARISH
+  order: '0'
+  priority: '0'
+  rate: '8.45'
+  shipping: '0'
+  state: LA
+wootax/15221:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '71227'
+    location_type: postcode
+  name: LINCOLN PARISH
+  order: '0'
+  priority: '0'
+  rate: '7.7'
+  shipping: '0'
+  state: LA
+wootax/15222:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '71229'
+    location_type: postcode
+  name: MOREHOUSE PARISH
+  order: '0'
+  priority: '0'
+  rate: '8.45'
+  shipping: '0'
+  state: LA
+wootax/15223:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '71230'
+    location_type: postcode
+  name: FRANKLIN PARISH
+  order: '0'
+  priority: '0'
+  rate: '8.45'
+  shipping: '0'
+  state: LA
+wootax/15224:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '71232'
+    location_type: postcode
+  name: DELHI
+  order: '0'
+  priority: '0'
+  rate: '10.45'
+  shipping: '0'
+  state: LA
+wootax/15225:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '71233'
+    location_type: postcode
+  name: DELTA
+  order: '0'
+  priority: '0'
+  rate: '8.95'
+  shipping: '0'
+  state: LA
+wootax/15226:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '71234'
+    location_type: postcode
+  name: UNION PARISH
+  order: '0'
+  priority: '0'
+  rate: '9.45'
+  shipping: '0'
+  state: LA
+wootax/15227:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '71235'
+    location_type: postcode
+  name: LINCOLN PARISH
+  order: '0'
+  priority: '0'
+  rate: '7.7'
+  shipping: '0'
+  state: LA
+wootax/15228:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '71237'
+    location_type: postcode
+  name: WEST CARROLL PARISH
+  order: '0'
+  priority: '0'
+  rate: '9.45'
+  shipping: '0'
+  state: LA
+wootax/15229:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '71238'
+    location_type: postcode
+  name: OUACHITA PA
+  order: '0'
+  priority: '0'
+  rate: '10.44'
+  shipping: '0'
+  state: LA
+wootax/15230:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '71240'
+    location_type: postcode
+  name: OUACHITA PARISH / EAST
+  order: '0'
+  priority: '0'
+  rate: '10.44'
+  shipping: '0'
+  state: LA
+wootax/15231:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '71241'
+    location_type: postcode
+  name: UNION PARISH
+  order: '0'
+  priority: '0'
+  rate: '9.45'
+  shipping: '0'
+  state: LA
+wootax/15232:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '71242'
+    location_type: postcode
+  name: FOREST
+  order: '0'
+  priority: '0'
+  rate: '9.45'
+  shipping: '0'
+  state: LA
+wootax/15233:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '71243'
+    location_type: postcode
+  name: FRANKLIN PARISH
+  order: '0'
+  priority: '0'
+  rate: '8.45'
+  shipping: '0'
+  state: LA
+wootax/15234:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '71245'
+    location_type: postcode
+  name: GRAMBLING
+  order: '0'
+  priority: '0'
+  rate: '9.7'
+  shipping: '0'
+  state: LA
+wootax/15235:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '71247'
+    location_type: postcode
+  name: HODGE
+  order: '0'
+  priority: '0'
+  rate: '9.45'
+  shipping: '0'
+  state: LA
+wootax/15236:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '71249'
+    location_type: postcode
+  name: FRANKLIN PARISH
+  order: '0'
+  priority: '0'
+  rate: '8.45'
+  shipping: '0'
+  state: LA
+wootax/15237:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '71250'
+    location_type: postcode
+  name: MOREHOUSE PARISH
+  order: '0'
+  priority: '0'
+  rate: '8.45'
+  shipping: '0'
+  state: LA
+wootax/15238:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '71251'
+    location_type: postcode
+  name: JACKSON PARISH
+  order: '0'
+  priority: '0'
+  rate: '8.45'
+  shipping: '0'
+  state: LA
+wootax/15239:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '71253'
+    location_type: postcode
+  name: KILBOURNE
+  order: '0'
+  priority: '0'
+  rate: '9.45'
+  shipping: '0'
+  state: LA
+wootax/15240:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '71254'
+    location_type: postcode
+  name: LAKE PROVIDENCE
+  order: '0'
+  priority: '0'
+  rate: '11.45'
+  shipping: '0'
+  state: LA
+wootax/15241:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '71256'
+    location_type: postcode
+  name: UNION PARISH
+  order: '0'
+  priority: '0'
+  rate: '9.45'
+  shipping: '0'
+  state: LA
+wootax/15242:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '71259'
+    location_type: postcode
+  name: RICHLAND PARISH
+  order: '0'
+  priority: '0'
+  rate: '8.45'
+  shipping: '0'
+  state: LA
+wootax/15243:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '71260'
+    location_type: postcode
+  name: UNION PARISH
+  order: '0'
+  priority: '0'
+  rate: '9.45'
+  shipping: '0'
+  state: LA
+wootax/15244:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '71261'
+    location_type: postcode
+  name: MOREHOUSE PARISH
+  order: '0'
+  priority: '0'
+  rate: '8.45'
+  shipping: '0'
+  state: LA
+wootax/15245:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '71263'
+    location_type: postcode
+  name: WEST CARROLL PARISH
+  order: '0'
+  priority: '0'
+  rate: '9.45'
+  shipping: '0'
+  state: LA
+wootax/15246:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '71264'
+    location_type: postcode
+  name: MOREHOUSE PARISH
+  order: '0'
+  priority: '0'
+  rate: '8.45'
+  shipping: '0'
+  state: LA
+wootax/15247:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '71266'
+    location_type: postcode
+  name: WEST CARROLL PARISH
+  order: '0'
+  priority: '0'
+  rate: '9.45'
+  shipping: '0'
+  state: LA
+wootax/15248:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '71268'
+    location_type: postcode
+  name: JACKSON PARISH
+  order: '0'
+  priority: '0'
+  rate: '8.45'
+  shipping: '0'
+  state: LA
+wootax/15249:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '71269'
+    location_type: postcode
+  name: RICHLAND PARISH
+  order: '0'
+  priority: '0'
+  rate: '8.45'
+  shipping: '0'
+  state: LA
+wootax/15250:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '71270'
+    location_type: postcode
+  name: RUSTON
+  order: '0'
+  priority: '0'
+  rate: '9.95'
+  shipping: '0'
+  state: LA
+wootax/15251:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '71272'
+    location_type: postcode
+  name: RUSTON
+  order: '0'
+  priority: '0'
+  rate: '9.95'
+  shipping: '0'
+  state: LA
+wootax/15252:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '71273'
+    location_type: postcode
+  name: RUSTON
+  order: '0'
+  priority: '0'
+  rate: '9.95'
+  shipping: '0'
+  state: LA
+wootax/15253:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '71275'
+    location_type: postcode
+  name: LINCOLN PARISH
+  order: '0'
+  priority: '0'
+  rate: '7.7'
+  shipping: '0'
+  state: LA
+wootax/15254:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '71276'
+    location_type: postcode
+  name: EAST CARROLL PARISH
+  order: '0'
+  priority: '0'
+  rate: '9.45'
+  shipping: '0'
+  state: LA
+wootax/15255:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '71277'
+    location_type: postcode
+  name: UNION PARISH
+  order: '0'
+  priority: '0'
+  rate: '9.45'
+  shipping: '0'
+  state: LA
+wootax/15256:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '71279'
+    location_type: postcode
+  name: RICHLAND PARISH
+  order: '0'
+  priority: '0'
+  rate: '8.45'
+  shipping: '0'
+  state: LA
+wootax/15257:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '71280'
+    location_type: postcode
+  name: STERLINGTON
+  order: '0'
+  priority: '0'
+  rate: '10.95'
+  shipping: '0'
+  state: LA
+wootax/15258:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '71281'
+    location_type: postcode
+  name: OUACHITA PARISH / EAST
+  order: '0'
+  priority: '0'
+  rate: '10.44'
+  shipping: '0'
+  state: LA
+wootax/15259:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '71282'
+    location_type: postcode
+  name: TALLULAH
+  order: '0'
+  priority: '0'
+  rate: '9.95'
+  shipping: '0'
+  state: LA
+wootax/15260:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '71286'
+    location_type: postcode
+  name: EAST CARROLL PARISH
+  order: '0'
+  priority: '0'
+  rate: '9.45'
+  shipping: '0'
+  state: LA
+wootax/15261:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '71291'
+    location_type: postcode
+  name: WEST MONROE
+  order: '0'
+  priority: '0'
+  rate: '10.44'
+  shipping: '0'
+  state: LA
+wootax/15262:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '71292'
+    location_type: postcode
+  name: OUACHITA PA
+  order: '0'
+  priority: '0'
+  rate: '10.44'
+  shipping: '0'
+  state: LA
+wootax/15263:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '71294'
+    location_type: postcode
+  name: WEST MONROE
+  order: '0'
+  priority: '0'
+  rate: '10.44'
+  shipping: '0'
+  state: LA
+wootax/15264:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '71295'
+    location_type: postcode
+  name: FRANKLIN PARISH
+  order: '0'
+  priority: '0'
+  rate: '8.45'
+  shipping: '0'
+  state: LA
+wootax/15265:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '71301'
+    location_type: postcode
+  name: ALEXANDRIA
+  order: '0'
+  priority: '0'
+  rate: '9.95'
+  shipping: '0'
+  state: LA
+wootax/15266:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '71302'
+    location_type: postcode
+  name: ALEXANDRIA
+  order: '0'
+  priority: '0'
+  rate: '9.95'
+  shipping: '0'
+  state: LA
+wootax/15267:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '71303'
+    location_type: postcode
+  name: ALEXANDRIA
+  order: '0'
+  priority: '0'
+  rate: '9.95'
+  shipping: '0'
+  state: LA
+wootax/15268:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '71306'
+    location_type: postcode
+  name: ALEXANDRIA
+  order: '0'
+  priority: '0'
+  rate: '9.95'
+  shipping: '0'
+  state: LA
+wootax/15269:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '71307'
+    location_type: postcode
+  name: ALEXANDRIA
+  order: '0'
+  priority: '0'
+  rate: '9.95'
+  shipping: '0'
+  state: LA
+wootax/15270:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '71309'
+    location_type: postcode
+  name: ALEXANDRIA
+  order: '0'
+  priority: '0'
+  rate: '9.95'
+  shipping: '0'
+  state: LA
+wootax/15271:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '71315'
+    location_type: postcode
+  name: ALEXANDRIA
+  order: '0'
+  priority: '0'
+  rate: '9.95'
+  shipping: '0'
+  state: LA
+wootax/15272:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '71316'
+    location_type: postcode
+  name: CONCORDIA PARISH
+  order: '0'
+  priority: '0'
+  rate: '9.2'
+  shipping: '0'
+  state: LA
+wootax/15273:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '71320'
+    location_type: postcode
+  name: AVOYELLES PARISH
+  order: '0'
+  priority: '0'
+  rate: '7.7'
+  shipping: '0'
+  state: LA
+wootax/15274:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '71322'
+    location_type: postcode
+  name: BUNKIE
+  order: '0'
+  priority: '0'
+  rate: '9.7'
+  shipping: '0'
+  state: LA
+wootax/15275:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '71323'
+    location_type: postcode
+  name: AVOYELLES PARISH
+  order: '0'
+  priority: '0'
+  rate: '7.7'
+  shipping: '0'
+  state: LA
+wootax/15276:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '71324'
+    location_type: postcode
+  name: FRANKLIN PARISH
+  order: '0'
+  priority: '0'
+  rate: '8.45'
+  shipping: '0'
+  state: LA
+wootax/15277:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '71325'
+    location_type: postcode
+  name: RAPIDES PARISH / DISTRICT NO. 3
+  order: '0'
+  priority: '0'
+  rate: '7.95'
+  shipping: '0'
+  state: LA
+wootax/15278:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '71326'
+    location_type: postcode
+  name: CATAHOULA PARISH
+  order: '0'
+  priority: '0'
+  rate: '10.45'
+  shipping: '0'
+  state: LA
+wootax/15279:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '71327'
+    location_type: postcode
+  name: AVOYELLES PARISH
+  order: '0'
+  priority: '0'
+  rate: '7.7'
+  shipping: '0'
+  state: LA
+wootax/15280:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '71328'
+    location_type: postcode
+  name: RAPIDES PARISH / DISTRICT NO. 3
+  order: '0'
+  priority: '0'
+  rate: '7.95'
+  shipping: '0'
+  state: LA
+wootax/15281:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '71329'
+    location_type: postcode
+  name: AVOYELLES PARISH
+  order: '0'
+  priority: '0'
+  rate: '7.7'
+  shipping: '0'
+  state: LA
+wootax/15282:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '71330'
+    location_type: postcode
+  name: RAPIDES PARISH / DISTRICT NO. 3
+  order: '0'
+  priority: '0'
+  rate: '7.95'
+  shipping: '0'
+  state: LA
+wootax/15283:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '71331'
+    location_type: postcode
+  name: AVOYELLES PARISH
+  order: '0'
+  priority: '0'
+  rate: '7.7'
+  shipping: '0'
+  state: LA
+wootax/15284:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '71333'
+    location_type: postcode
+  name: AVOYELLES PARISH
+  order: '0'
+  priority: '0'
+  rate: '7.7'
+  shipping: '0'
+  state: LA
+wootax/15285:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '71334'
+    location_type: postcode
+  name: CONCORDIA PARISH
+  order: '0'
+  priority: '0'
+  rate: '9.2'
+  shipping: '0'
+  state: LA
+wootax/15286:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '71336'
+    location_type: postcode
+  name: FRANKLIN PARISH
+  order: '0'
+  priority: '0'
+  rate: '8.45'
+  shipping: '0'
+  state: LA
+wootax/15287:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '71339'
+    location_type: postcode
+  name: AVOYELLES PARISH
+  order: '0'
+  priority: '0'
+  rate: '7.7'
+  shipping: '0'
+  state: LA
+wootax/15288:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '71340'
+    location_type: postcode
+  name: CATAHOULA PARISH
+  order: '0'
+  priority: '0'
+  rate: '10.45'
+  shipping: '0'
+  state: LA
+wootax/15289:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '71341'
+    location_type: postcode
+  name: AVOYELLES PARISH
+  order: '0'
+  priority: '0'
+  rate: '7.7'
+  shipping: '0'
+  state: LA
+wootax/15290:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '71342'
+    location_type: postcode
+  name: LA SALLE PARISH
+  order: '0'
+  priority: '0'
+  rate: '7.95'
+  shipping: '0'
+  state: LA
+wootax/15291:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '71343'
+    location_type: postcode
+  name: CATAHOULA PARISH
+  order: '0'
+  priority: '0'
+  rate: '10.45'
+  shipping: '0'
+  state: LA
+wootax/15292:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '71345'
+    location_type: postcode
+  name: SAINT LANDRY PARISH
+  order: '0'
+  priority: '0'
+  rate: '10'
+  shipping: '0'
+  state: LA
+wootax/15293:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '71346'
+    location_type: postcode
+  name: FIRE DISTRICT 18 SP
+  order: '0'
+  priority: '0'
+  rate: '8.45'
+  shipping: '0'
+  state: LA
+wootax/15294:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '71348'
+    location_type: postcode
+  name: RAPIDES PARISH / DISTRICT NO. 3
+  order: '0'
+  priority: '0'
+  rate: '7.95'
+  shipping: '0'
+  state: LA
+wootax/15295:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '71350'
+    location_type: postcode
+  name: AVOYELLES PARISH
+  order: '0'
+  priority: '0'
+  rate: '7.7'
+  shipping: '0'
+  state: LA
+wootax/15296:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '71351'
+    location_type: postcode
+  name: AVOYELLES PARISH
+  order: '0'
+  priority: '0'
+  rate: '7.7'
+  shipping: '0'
+  state: LA
+wootax/15297:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '71353'
+    location_type: postcode
+  name: SAINT LANDRY PARISH
+  order: '0'
+  priority: '0'
+  rate: '10'
+  shipping: '0'
+  state: LA
+wootax/15298:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '71354'
+    location_type: postcode
+  name: CONCORDIA PARISH
+  order: '0'
+  priority: '0'
+  rate: '9.2'
+  shipping: '0'
+  state: LA
+wootax/15299:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '71355'
+    location_type: postcode
+  name: AVOYELLES PARISH
+  order: '0'
+  priority: '0'
+  rate: '7.7'
+  shipping: '0'
+  state: LA
+wootax/15300:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '71356'
+    location_type: postcode
+  name: SAINT LANDRY PARISH
+  order: '0'
+  priority: '0'
+  rate: '10'
+  shipping: '0'
+  state: LA
+wootax/15301:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '71357'
+    location_type: postcode
+  name: TENSAS PARISH
+  order: '0'
+  priority: '0'
+  rate: '9.7'
+  shipping: '0'
+  state: LA
+wootax/15302:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '71358'
+    location_type: postcode
+  name: SAINT LANDRY PARISH
+  order: '0'
+  priority: '0'
+  rate: '10'
+  shipping: '0'
+  state: LA
+wootax/15303:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '71359'
+    location_type: postcode
+  name: PINEVILLE
+  order: '0'
+  priority: '0'
+  rate: '9.95'
+  shipping: '0'
+  state: LA
+wootax/15304:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '71360'
+    location_type: postcode
+  name: RAPIDES PARISH / DISTRICT NO. 3
+  order: '0'
+  priority: '0'
+  rate: '7.95'
+  shipping: '0'
+  state: LA
+wootax/15305:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '71362'
+    location_type: postcode
+  name: AVOYELLES PARISH
+  order: '0'
+  priority: '0'
+  rate: '7.7'
+  shipping: '0'
+  state: LA
+wootax/15306:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '71363'
+    location_type: postcode
+  name: CATAHOULA PARISH
+  order: '0'
+  priority: '0'
+  rate: '10.45'
+  shipping: '0'
+  state: LA
+wootax/15307:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '71365'
+    location_type: postcode
+  name: RAPIDES PARISH / DISTRICT NO. 3
+  order: '0'
+  priority: '0'
+  rate: '7.95'
+  shipping: '0'
+  state: LA
+wootax/15308:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '71366'
+    location_type: postcode
+  name: TENSAS PARISH
+  order: '0'
+  priority: '0'
+  rate: '9.7'
+  shipping: '0'
+  state: LA
+wootax/15309:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '71367'
+    location_type: postcode
+  name: EVANGELINE PARISH
+  order: '0'
+  priority: '0'
+  rate: '9.45'
+  shipping: '0'
+  state: LA
+wootax/15310:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '71368'
+    location_type: postcode
+  name: CATAHOULA PARISH
+  order: '0'
+  priority: '0'
+  rate: '10.45'
+  shipping: '0'
+  state: LA
+wootax/15311:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '71369'
+    location_type: postcode
+  name: AVOYELLES PARISH
+  order: '0'
+  priority: '0'
+  rate: '7.7'
+  shipping: '0'
+  state: LA
+wootax/15312:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '71371'
+    location_type: postcode
+  name: LA SALLE PARISH
+  order: '0'
+  priority: '0'
+  rate: '7.95'
+  shipping: '0'
+  state: LA
+wootax/15313:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '71373'
+    location_type: postcode
+  name: VIDALIA
+  order: '0'
+  priority: '0'
+  rate: '9.2'
+  shipping: '0'
+  state: LA
+wootax/15314:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '71375'
+    location_type: postcode
+  name: TENSAS PARISH
+  order: '0'
+  priority: '0'
+  rate: '9.7'
+  shipping: '0'
+  state: LA
+wootax/15315:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '71378'
+    location_type: postcode
+  name: FRANKLIN PARISH
+  order: '0'
+  priority: '0'
+  rate: '8.45'
+  shipping: '0'
+  state: LA
+wootax/15316:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '71401'
+    location_type: postcode
+  name: CATAHOULA PARISH
+  order: '0'
+  priority: '0'
+  rate: '10.45'
+  shipping: '0'
+  state: LA
+wootax/15317:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '71403'
+    location_type: postcode
+  name: VERNON PARISH
+  order: '0'
+  priority: '0'
+  rate: '8.45'
+  shipping: '0'
+  state: LA
+wootax/15318:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '71404'
+    location_type: postcode
+  name: WINN PARISH
+  order: '0'
+  priority: '0'
+  rate: '8.45'
+  shipping: '0'
+  state: LA
+wootax/15319:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '71405'
+    location_type: postcode
+  name: BALL
+  order: '0'
+  priority: '0'
+  rate: '9.95'
+  shipping: '0'
+  state: LA
+wootax/15320:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '71406'
+    location_type: postcode
+  name: SABINE PARISH
+  order: '0'
+  priority: '0'
+  rate: '9.075'
+  shipping: '0'
+  state: LA
+wootax/15321:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '71407'
+    location_type: postcode
+  name: GRANT PARISH
+  order: '0'
+  priority: '0'
+  rate: '8.45'
+  shipping: '0'
+  state: LA
+wootax/15322:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '71409'
+    location_type: postcode
+  name: RAPIDES PARISH / DISTRICT NO. 3
+  order: '0'
+  priority: '0'
+  rate: '7.95'
+  shipping: '0'
+  state: LA
+wootax/15323:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '71410'
+    location_type: postcode
+  name: CALVIN
+  order: '0'
+  priority: '0'
+  rate: '8.45'
+  shipping: '0'
+  state: LA
+wootax/15324:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '71411'
+    location_type: postcode
+  name: NATCHITOCHES PARISH
+  order: '0'
+  priority: '0'
+  rate: '8.45'
+  shipping: '0'
+  state: LA
+wootax/15325:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '71414'
+    location_type: postcode
+  name: CLARENCE
+  order: '0'
+  priority: '0'
+  rate: '9.45'
+  shipping: '0'
+  state: LA
+wootax/15326:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '71415'
+    location_type: postcode
+  name: CLARKS
+  order: '0'
+  priority: '0'
+  rate: '9.45'
+  shipping: '0'
+  state: LA
+wootax/15327:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '71416'
+    location_type: postcode
+  name: NATCHITOCHES PARISH
+  order: '0'
+  priority: '0'
+  rate: '8.45'
+  shipping: '0'
+  state: LA
+wootax/15328:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '71417'
+    location_type: postcode
+  name: GRANT PARISH
+  order: '0'
+  priority: '0'
+  rate: '8.45'
+  shipping: '0'
+  state: LA
+wootax/15329:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '71418'
+    location_type: postcode
+  name: CALDWELL PARISH
+  order: '0'
+  priority: '0'
+  rate: '9.45'
+  shipping: '0'
+  state: LA
+wootax/15330:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '71419'
+    location_type: postcode
+  name: SABINE PARISH
+  order: '0'
+  priority: '0'
+  rate: '9.075'
+  shipping: '0'
+  state: LA
+wootax/15331:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '71422'
+    location_type: postcode
+  name: WINN PARISH
+  order: '0'
+  priority: '0'
+  rate: '8.45'
+  shipping: '0'
+  state: LA
+wootax/15332:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '71423'
+    location_type: postcode
+  name: GRANT PARISH
+  order: '0'
+  priority: '0'
+  rate: '8.45'
+  shipping: '0'
+  state: LA
+wootax/15333:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '71424'
+    location_type: postcode
+  name: RAPIDES PARISH / DISTRICT NO. 3
+  order: '0'
+  priority: '0'
+  rate: '7.95'
+  shipping: '0'
+  state: LA
+wootax/15334:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '71425'
+    location_type: postcode
+  name: CATAHOULA PARISH
+  order: '0'
+  priority: '0'
+  rate: '10.45'
+  shipping: '0'
+  state: LA
+wootax/15335:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '71426'
+    location_type: postcode
+  name: FISHER
+  order: '0'
+  priority: '0'
+  rate: '9.075'
+  shipping: '0'
+  state: LA
+wootax/15336:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '71427'
+    location_type: postcode
+  name: RAPIDES PARISH / DISTRICT NO. 3
+  order: '0'
+  priority: '0'
+  rate: '7.95'
+  shipping: '0'
+  state: LA
+wootax/15337:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '71428'
+    location_type: postcode
+  name: NATCHITOCHES PARISH
+  order: '0'
+  priority: '0'
+  rate: '8.45'
+  shipping: '0'
+  state: LA
+wootax/15338:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '71429'
+    location_type: postcode
+  name: SABINE PARISH
+  order: '0'
+  priority: '0'
+  rate: '9.075'
+  shipping: '0'
+  state: LA
+wootax/15339:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '71430'
+    location_type: postcode
+  name: RAPIDES PA FIRE DIST 17
+  order: '0'
+  priority: '0'
+  rate: '8.95'
+  shipping: '0'
+  state: LA
+wootax/15340:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '71432'
+    location_type: postcode
+  name: GRANT PARISH
+  order: '0'
+  priority: '0'
+  rate: '8.45'
+  shipping: '0'
+  state: LA
+wootax/15341:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '71433'
+    location_type: postcode
+  name: RAPIDES PARISH / DISTRICT NO. 3
+  order: '0'
+  priority: '0'
+  rate: '7.95'
+  shipping: '0'
+  state: LA
+wootax/15342:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '71434'
+    location_type: postcode
+  name: NATCHITOCHES PARISH
+  order: '0'
+  priority: '0'
+  rate: '8.45'
+  shipping: '0'
+  state: LA
+wootax/15343:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '71435'
+    location_type: postcode
+  name: CALDWELL PARISH
+  order: '0'
+  priority: '0'
+  rate: '9.45'
+  shipping: '0'
+  state: LA
+wootax/15344:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '71438'
+    location_type: postcode
+  name: VERNON PARISH
+  order: '0'
+  priority: '0'
+  rate: '8.45'
+  shipping: '0'
+  state: LA
+wootax/15345:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '71439'
+    location_type: postcode
+  name: VERNON PARISH
+  order: '0'
+  priority: '0'
+  rate: '8.45'
+  shipping: '0'
+  state: LA
+wootax/15346:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '71440'
+    location_type: postcode
+  name: WINN PARISH
+  order: '0'
+  priority: '0'
+  rate: '8.45'
+  shipping: '0'
+  state: LA
+wootax/15347:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '71441'
+    location_type: postcode
+  name: CALDWELL PARISH
+  order: '0'
+  priority: '0'
+  rate: '9.45'
+  shipping: '0'
+  state: LA
+wootax/15348:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '71443'
+    location_type: postcode
+  name: LEESVILLE
+  order: '0'
+  priority: '0'
+  rate: '9.95'
+  shipping: '0'
+  state: LA
+wootax/15349:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '71446'
+    location_type: postcode
+  name: VERNON PARISH
+  order: '0'
+  priority: '0'
+  rate: '8.45'
+  shipping: '0'
+  state: LA
+wootax/15350:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '71447'
+    location_type: postcode
+  name: RAPIDES PARISH / DISTRICT NO. 3
+  order: '0'
+  priority: '0'
+  rate: '7.95'
+  shipping: '0'
+  state: LA
+wootax/15351:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '71448'
+    location_type: postcode
+  name: RAPIDES PA FIRE DIST 17
+  order: '0'
+  priority: '0'
+  rate: '8.95'
+  shipping: '0'
+  state: LA
+wootax/15352:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '71449'
+    location_type: postcode
+  name: SABINE PARISH
+  order: '0'
+  priority: '0'
+  rate: '9.075'
+  shipping: '0'
+  state: LA
+wootax/15353:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '71450'
+    location_type: postcode
+  name: NATCHITOCHES PARISH
+  order: '0'
+  priority: '0'
+  rate: '8.45'
+  shipping: '0'
+  state: LA
+wootax/15354:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '71452'
+    location_type: postcode
+  name: NATCHITOCHES PARISH
+  order: '0'
+  priority: '0'
+  rate: '8.45'
+  shipping: '0'
+  state: LA
+wootax/15355:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '71454'
+    location_type: postcode
+  name: GRANT PARISH
+  order: '0'
+  priority: '0'
+  rate: '8.45'
+  shipping: '0'
+  state: LA
+wootax/15356:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '71455'
+    location_type: postcode
+  name: RAPIDES PARISH / DISTRICT NO. 3
+  order: '0'
+  priority: '0'
+  rate: '7.95'
+  shipping: '0'
+  state: LA
+wootax/15357:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '71456'
+    location_type: postcode
+  name: NATCHITOCHES PARISH
+  order: '0'
+  priority: '0'
+  rate: '8.45'
+  shipping: '0'
+  state: LA
+wootax/15358:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '71457'
+    location_type: postcode
+  name: NATCHITOCHES
+  order: '0'
+  priority: '0'
+  rate: '9.95'
+  shipping: '0'
+  state: LA
+wootax/15359:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '71458'
+    location_type: postcode
+  name: NATCHITOCHES
+  order: '0'
+  priority: '0'
+  rate: '9.95'
+  shipping: '0'
+  state: LA
+wootax/15360:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '71459'
+    location_type: postcode
+  name: VERNON PARISH
+  order: '0'
+  priority: '0'
+  rate: '8.45'
+  shipping: '0'
+  state: LA
+wootax/15361:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '71460'
+    location_type: postcode
+  name: SABINE PARISH
+  order: '0'
+  priority: '0'
+  rate: '9.075'
+  shipping: '0'
+  state: LA
+wootax/15362:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '71461'
+    location_type: postcode
+  name: NEW LLANO
+  order: '0'
+  priority: '0'
+  rate: '9.95'
+  shipping: '0'
+  state: LA
+wootax/15363:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '71462'
+    location_type: postcode
+  name: SABINE PARISH
+  order: '0'
+  priority: '0'
+  rate: '9.075'
+  shipping: '0'
+  state: LA
+wootax/15364:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '71463'
+    location_type: postcode
+  name: OAKDALE
+  order: '0'
+  priority: '0'
+  rate: '10.45'
+  shipping: '0'
+  state: LA
+wootax/15365:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '71465'
+    location_type: postcode
+  name: LA SALLE PARISH
+  order: '0'
+  priority: '0'
+  rate: '7.95'
+  shipping: '0'
+  state: LA
+wootax/15366:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '71466'
+    location_type: postcode
+  name: RAPIDES PARISH / DISTRICT NO. 3
+  order: '0'
+  priority: '0'
+  rate: '7.95'
+  shipping: '0'
+  state: LA
+wootax/15367:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '71467'
+    location_type: postcode
+  name: GRANT PARISH
+  order: '0'
+  priority: '0'
+  rate: '8.45'
+  shipping: '0'
+  state: LA
+wootax/15368:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '71468'
+    location_type: postcode
+  name: NATCHITOCHES PARISH
+  order: '0'
+  priority: '0'
+  rate: '8.45'
+  shipping: '0'
+  state: LA
+wootax/15369:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '71469'
+    location_type: postcode
+  name: NATCHITOCHES PARISH
+  order: '0'
+  priority: '0'
+  rate: '8.45'
+  shipping: '0'
+  state: LA
+wootax/15370:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '71471'
+    location_type: postcode
+  name: WINN PARISH
+  order: '0'
+  priority: '0'
+  rate: '8.45'
+  shipping: '0'
+  state: LA
+wootax/15371:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '71472'
+    location_type: postcode
+  name: RAPIDES PARISH / DISTRICT NO. 3
+  order: '0'
+  priority: '0'
+  rate: '7.95'
+  shipping: '0'
+  state: LA
+wootax/15372:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '71473'
+    location_type: postcode
+  name: WINN PARISH
+  order: '0'
+  priority: '0'
+  rate: '8.45'
+  shipping: '0'
+  state: LA
+wootax/15373:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '71474'
+    location_type: postcode
+  name: SIMPSON
+  order: '0'
+  priority: '0'
+  rate: '8.45'
+  shipping: '0'
+  state: LA
+wootax/15374:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '71475'
+    location_type: postcode
+  name: VERNON PARISH
+  order: '0'
+  priority: '0'
+  rate: '8.45'
+  shipping: '0'
+  state: LA
+wootax/15375:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '71477'
+    location_type: postcode
+  name: RAPIDES PARISH / DISTRICT NO. 3
+  order: '0'
+  priority: '0'
+  rate: '7.95'
+  shipping: '0'
+  state: LA
+wootax/15376:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '71479'
+    location_type: postcode
+  name: TULLOS
+  order: '0'
+  priority: '0'
+  rate: '7.95'
+  shipping: '0'
+  state: LA
+wootax/15377:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '71480'
+    location_type: postcode
+  name: URANIA
+  order: '0'
+  priority: '0'
+  rate: '7.95'
+  shipping: '0'
+  state: LA
+wootax/15378:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '71483'
+    location_type: postcode
+  name: WINNFIELD
+  order: '0'
+  priority: '0'
+  rate: '9.95'
+  shipping: '0'
+  state: LA
+wootax/15379:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '71485'
+    location_type: postcode
+  name: WOODWORTH
+  order: '0'
+  priority: '0'
+  rate: '9.95'
+  shipping: '0'
+  state: LA
+wootax/15380:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '71486'
+    location_type: postcode
+  name: SABINE PARISH
+  order: '0'
+  priority: '0'
+  rate: '9.075'
+  shipping: '0'
+  state: LA
+wootax/15381:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '71496'
+    location_type: postcode
+  name: LEESVILLE
+  order: '0'
+  priority: '0'
+  rate: '9.95'
+  shipping: '0'
+  state: LA
+wootax/15382:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '71497'
+    location_type: postcode
+  name: NATCHITOCHES
+  order: '0'
+  priority: '0'
+  rate: '9.95'
+  shipping: '0'
+  state: LA

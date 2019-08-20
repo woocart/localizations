@@ -1,0 +1,1170 @@
+wootax/31745:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: 02801
+    location_type: postcode
+  name: LITTLE COMPTON
+  order: '0'
+  priority: '0'
+  rate: '7'
+  shipping: '1'
+  state: RI
+wootax/31746:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: 02802
+    location_type: postcode
+  name: LINCOLN
+  order: '0'
+  priority: '0'
+  rate: '7'
+  shipping: '1'
+  state: RI
+wootax/31747:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: 02804
+    location_type: postcode
+  name: HOPKINTON
+  order: '0'
+  priority: '0'
+  rate: '7'
+  shipping: '1'
+  state: RI
+wootax/31748:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: 02806
+    location_type: postcode
+  name: BARRINGTON
+  order: '0'
+  priority: '0'
+  rate: '7'
+  shipping: '1'
+  state: RI
+wootax/31749:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: 02807
+    location_type: postcode
+  name: NEW SHOREHAM
+  order: '0'
+  priority: '0'
+  rate: '7'
+  shipping: '1'
+  state: RI
+wootax/31750:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: 02808
+    location_type: postcode
+  name: WESTERLY
+  order: '0'
+  priority: '0'
+  rate: '7'
+  shipping: '1'
+  state: RI
+wootax/31751:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: 02809
+    location_type: postcode
+  name: BRISTOL
+  order: '0'
+  priority: '0'
+  rate: '7'
+  shipping: '1'
+  state: RI
+wootax/31752:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: 02812
+    location_type: postcode
+  name: RICHMOND
+  order: '0'
+  priority: '0'
+  rate: '7'
+  shipping: '1'
+  state: RI
+wootax/31753:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: 02813
+    location_type: postcode
+  name: CHARLESTOWN
+  order: '0'
+  priority: '0'
+  rate: '7'
+  shipping: '1'
+  state: RI
+wootax/31754:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: 02814
+    location_type: postcode
+  name: GLOCESTER
+  order: '0'
+  priority: '0'
+  rate: '7'
+  shipping: '1'
+  state: RI
+wootax/31755:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: 02815
+    location_type: postcode
+  name: SCITUATE
+  order: '0'
+  priority: '0'
+  rate: '7'
+  shipping: '1'
+  state: RI
+wootax/31756:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: 02816
+    location_type: postcode
+  name: COVENTRY
+  order: '0'
+  priority: '0'
+  rate: '7'
+  shipping: '1'
+  state: RI
+wootax/31757:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: 02817
+    location_type: postcode
+  name: WEST GREENWICH
+  order: '0'
+  priority: '0'
+  rate: '7'
+  shipping: '1'
+  state: RI
+wootax/31758:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: 02818
+    location_type: postcode
+  name: EAST GREENWICH
+  order: '0'
+  priority: '0'
+  rate: '7'
+  shipping: '1'
+  state: RI
+wootax/31759:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: 02822
+    location_type: postcode
+  name: EXETER
+  order: '0'
+  priority: '0'
+  rate: '7'
+  shipping: '1'
+  state: RI
+wootax/31760:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: 02823
+    location_type: postcode
+  name: RHODE ISLAND STATE
+  order: '0'
+  priority: '0'
+  rate: '7'
+  shipping: '1'
+  state: RI
+wootax/31761:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: 02824
+    location_type: postcode
+  name: NORTH SMITHFIELD
+  order: '0'
+  priority: '0'
+  rate: '7'
+  shipping: '1'
+  state: RI
+wootax/31762:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: 02825
+    location_type: postcode
+  name: FOSTER
+  order: '0'
+  priority: '0'
+  rate: '7'
+  shipping: '1'
+  state: RI
+wootax/31763:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: 02826
+    location_type: postcode
+  name: BURRILLVILLE
+  order: '0'
+  priority: '0'
+  rate: '7'
+  shipping: '1'
+  state: RI
+wootax/31764:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: 02827
+    location_type: postcode
+  name: COVENTRY
+  order: '0'
+  priority: '0'
+  rate: '7'
+  shipping: '1'
+  state: RI
+wootax/31765:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: 02828
+    location_type: postcode
+  name: SMITHFIELD
+  order: '0'
+  priority: '0'
+  rate: '7'
+  shipping: '1'
+  state: RI
+wootax/31766:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: 02829
+    location_type: postcode
+  name: GLOCESTER
+  order: '0'
+  priority: '0'
+  rate: '7'
+  shipping: '1'
+  state: RI
+wootax/31767:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: 02830
+    location_type: postcode
+  name: BURRILLVILLE
+  order: '0'
+  priority: '0'
+  rate: '7'
+  shipping: '1'
+  state: RI
+wootax/31768:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: 02831
+    location_type: postcode
+  name: SCITUATE
+  order: '0'
+  priority: '0'
+  rate: '7'
+  shipping: '1'
+  state: RI
+wootax/31769:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: 02832
+    location_type: postcode
+  name: HOPKINTON
+  order: '0'
+  priority: '0'
+  rate: '7'
+  shipping: '1'
+  state: RI
+wootax/31770:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: 02833
+    location_type: postcode
+  name: HOPKINTON
+  order: '0'
+  priority: '0'
+  rate: '7'
+  shipping: '1'
+  state: RI
+wootax/31771:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: 02835
+    location_type: postcode
+  name: JAMESTOWN
+  order: '0'
+  priority: '0'
+  rate: '7'
+  shipping: '1'
+  state: RI
+wootax/31772:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: 02836
+    location_type: postcode
+  name: RICHMOND
+  order: '0'
+  priority: '0'
+  rate: '7'
+  shipping: '1'
+  state: RI
+wootax/31773:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: 02837
+    location_type: postcode
+  name: LITTLE COMPTON
+  order: '0'
+  priority: '0'
+  rate: '7'
+  shipping: '1'
+  state: RI
+wootax/31774:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: 02838
+    location_type: postcode
+  name: LINCOLN
+  order: '0'
+  priority: '0'
+  rate: '7'
+  shipping: '1'
+  state: RI
+wootax/31775:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: 02839
+    location_type: postcode
+  name: BURRILLVILLE
+  order: '0'
+  priority: '0'
+  rate: '7'
+  shipping: '1'
+  state: RI
+wootax/31776:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: 02840
+    location_type: postcode
+  name: NEWPORT
+  order: '0'
+  priority: '0'
+  rate: '7'
+  shipping: '1'
+  state: RI
+wootax/31777:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: 02841
+    location_type: postcode
+  name: NEWPORT
+  order: '0'
+  priority: '0'
+  rate: '7'
+  shipping: '1'
+  state: RI
+wootax/31778:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: 02842
+    location_type: postcode
+  name: MIDDLETOWN
+  order: '0'
+  priority: '0'
+  rate: '7'
+  shipping: '1'
+  state: RI
+wootax/31779:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: 02852
+    location_type: postcode
+  name: NORTH KINGSTOWN
+  order: '0'
+  priority: '0'
+  rate: '7'
+  shipping: '1'
+  state: RI
+wootax/31780:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: 02857
+    location_type: postcode
+  name: SCITUATE
+  order: '0'
+  priority: '0'
+  rate: '7'
+  shipping: '1'
+  state: RI
+wootax/31781:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: 02858
+    location_type: postcode
+  name: BURRILLVILLE
+  order: '0'
+  priority: '0'
+  rate: '7'
+  shipping: '1'
+  state: RI
+wootax/31782:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: 02859
+    location_type: postcode
+  name: BURRILLVILLE
+  order: '0'
+  priority: '0'
+  rate: '7'
+  shipping: '1'
+  state: RI
+wootax/31783:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: 02860
+    location_type: postcode
+  name: PAWTUCKET
+  order: '0'
+  priority: '0'
+  rate: '7'
+  shipping: '1'
+  state: RI
+wootax/31784:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: 02861
+    location_type: postcode
+  name: PAWTUCKET
+  order: '0'
+  priority: '0'
+  rate: '7'
+  shipping: '1'
+  state: RI
+wootax/31785:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: 02862
+    location_type: postcode
+  name: PAWTUCKET
+  order: '0'
+  priority: '0'
+  rate: '7'
+  shipping: '1'
+  state: RI
+wootax/31786:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: 02863
+    location_type: postcode
+  name: CENTRAL FALLS
+  order: '0'
+  priority: '0'
+  rate: '7'
+  shipping: '1'
+  state: RI
+wootax/31787:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: 02864
+    location_type: postcode
+  name: CUMBERLAND
+  order: '0'
+  priority: '0'
+  rate: '7'
+  shipping: '1'
+  state: RI
+wootax/31788:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: 02865
+    location_type: postcode
+  name: LINCOLN
+  order: '0'
+  priority: '0'
+  rate: '7'
+  shipping: '1'
+  state: RI
+wootax/31789:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: 02871
+    location_type: postcode
+  name: PORTSMOUTH
+  order: '0'
+  priority: '0'
+  rate: '7'
+  shipping: '1'
+  state: RI
+wootax/31790:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: 02872
+    location_type: postcode
+  name: PORTSMOUTH
+  order: '0'
+  priority: '0'
+  rate: '7'
+  shipping: '1'
+  state: RI
+wootax/31791:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: 02873
+    location_type: postcode
+  name: HOPKINTON
+  order: '0'
+  priority: '0'
+  rate: '7'
+  shipping: '1'
+  state: RI
+wootax/31792:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: 02874
+    location_type: postcode
+  name: NORTH KINGSTOWN
+  order: '0'
+  priority: '0'
+  rate: '7'
+  shipping: '1'
+  state: RI
+wootax/31793:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: 02875
+    location_type: postcode
+  name: RICHMOND
+  order: '0'
+  priority: '0'
+  rate: '7'
+  shipping: '1'
+  state: RI
+wootax/31794:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: 02876
+    location_type: postcode
+  name: NORTH SMITHFIELD
+  order: '0'
+  priority: '0'
+  rate: '7'
+  shipping: '1'
+  state: RI
+wootax/31795:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: 02877
+    location_type: postcode
+  name: NORTH KINGSTOWN
+  order: '0'
+  priority: '0'
+  rate: '7'
+  shipping: '1'
+  state: RI
+wootax/31796:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: 02878
+    location_type: postcode
+  name: TIVERTON
+  order: '0'
+  priority: '0'
+  rate: '7'
+  shipping: '1'
+  state: RI
+wootax/31797:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: 02879
+    location_type: postcode
+  name: SOUTH KINGSTOWN
+  order: '0'
+  priority: '0'
+  rate: '7'
+  shipping: '1'
+  state: RI
+wootax/31798:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: 02880
+    location_type: postcode
+  name: SOUTH KINGSTOWN
+  order: '0'
+  priority: '0'
+  rate: '7'
+  shipping: '1'
+  state: RI
+wootax/31799:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: 02881
+    location_type: postcode
+  name: SOUTH KINGSTOWN
+  order: '0'
+  priority: '0'
+  rate: '7'
+  shipping: '1'
+  state: RI
+wootax/31800:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: 02882
+    location_type: postcode
+  name: NARRAGANSETT
+  order: '0'
+  priority: '0'
+  rate: '7'
+  shipping: '1'
+  state: RI
+wootax/31801:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: 02883
+    location_type: postcode
+  name: SOUTH KINGSTOWN
+  order: '0'
+  priority: '0'
+  rate: '7'
+  shipping: '1'
+  state: RI
+wootax/31802:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: 02885
+    location_type: postcode
+  name: WARREN
+  order: '0'
+  priority: '0'
+  rate: '7'
+  shipping: '1'
+  state: RI
+wootax/31803:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: 02886
+    location_type: postcode
+  name: WARWICK
+  order: '0'
+  priority: '0'
+  rate: '7'
+  shipping: '1'
+  state: RI
+wootax/31804:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: 02887
+    location_type: postcode
+  name: WARWICK
+  order: '0'
+  priority: '0'
+  rate: '7'
+  shipping: '1'
+  state: RI
+wootax/31805:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: 02888
+    location_type: postcode
+  name: WARWICK
+  order: '0'
+  priority: '0'
+  rate: '7'
+  shipping: '1'
+  state: RI
+wootax/31806:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: 02889
+    location_type: postcode
+  name: WARWICK
+  order: '0'
+  priority: '0'
+  rate: '7'
+  shipping: '1'
+  state: RI
+wootax/31807:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: 02891
+    location_type: postcode
+  name: WESTERLY
+  order: '0'
+  priority: '0'
+  rate: '7'
+  shipping: '1'
+  state: RI
+wootax/31808:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: 02892
+    location_type: postcode
+  name: SOUTH KINGSTOWN
+  order: '0'
+  priority: '0'
+  rate: '7'
+  shipping: '1'
+  state: RI
+wootax/31809:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: 02893
+    location_type: postcode
+  name: WEST WARWICK
+  order: '0'
+  priority: '0'
+  rate: '7'
+  shipping: '1'
+  state: RI
+wootax/31810:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: 02894
+    location_type: postcode
+  name: RICHMOND
+  order: '0'
+  priority: '0'
+  rate: '7'
+  shipping: '1'
+  state: RI
+wootax/31811:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: 02895
+    location_type: postcode
+  name: WOONSOCKET
+  order: '0'
+  priority: '0'
+  rate: '7'
+  shipping: '1'
+  state: RI
+wootax/31812:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: 02896
+    location_type: postcode
+  name: NORTH SMITHFIELD
+  order: '0'
+  priority: '0'
+  rate: '7'
+  shipping: '1'
+  state: RI
+wootax/31813:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: 02898
+    location_type: postcode
+  name: RICHMOND
+  order: '0'
+  priority: '0'
+  rate: '7'
+  shipping: '1'
+  state: RI
+wootax/31814:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: 02901
+    location_type: postcode
+  name: PROVIDENCE
+  order: '0'
+  priority: '0'
+  rate: '7'
+  shipping: '1'
+  state: RI
+wootax/31815:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: 02902
+    location_type: postcode
+  name: PROVIDENCE
+  order: '0'
+  priority: '0'
+  rate: '7'
+  shipping: '1'
+  state: RI
+wootax/31816:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: 02903
+    location_type: postcode
+  name: PROVIDENCE
+  order: '0'
+  priority: '0'
+  rate: '7'
+  shipping: '1'
+  state: RI
+wootax/31817:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: 02904
+    location_type: postcode
+  name: NORTH PROVIDENCE
+  order: '0'
+  priority: '0'
+  rate: '7'
+  shipping: '1'
+  state: RI
+wootax/31818:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: 02905
+    location_type: postcode
+  name: PROVIDENCE
+  order: '0'
+  priority: '0'
+  rate: '7'
+  shipping: '1'
+  state: RI
+wootax/31819:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: 02906
+    location_type: postcode
+  name: PROVIDENCE
+  order: '0'
+  priority: '0'
+  rate: '7'
+  shipping: '1'
+  state: RI
+wootax/31820:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: 02907
+    location_type: postcode
+  name: PROVIDENCE
+  order: '0'
+  priority: '0'
+  rate: '7'
+  shipping: '1'
+  state: RI
+wootax/31821:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: 02908
+    location_type: postcode
+  name: PROVIDENCE
+  order: '0'
+  priority: '0'
+  rate: '7'
+  shipping: '1'
+  state: RI
+wootax/31822:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: 02909
+    location_type: postcode
+  name: PROVIDENCE
+  order: '0'
+  priority: '0'
+  rate: '7'
+  shipping: '1'
+  state: RI
+wootax/31823:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: 02910
+    location_type: postcode
+  name: CRANSTON
+  order: '0'
+  priority: '0'
+  rate: '7'
+  shipping: '1'
+  state: RI
+wootax/31824:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: 02911
+    location_type: postcode
+  name: NORTH PROVIDENCE
+  order: '0'
+  priority: '0'
+  rate: '7'
+  shipping: '1'
+  state: RI
+wootax/31825:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: 02912
+    location_type: postcode
+  name: PROVIDENCE
+  order: '0'
+  priority: '0'
+  rate: '7'
+  shipping: '1'
+  state: RI
+wootax/31826:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: 02914
+    location_type: postcode
+  name: EAST PROVIDENCE
+  order: '0'
+  priority: '0'
+  rate: '7'
+  shipping: '1'
+  state: RI
+wootax/31827:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: 02915
+    location_type: postcode
+  name: EAST PROVIDENCE
+  order: '0'
+  priority: '0'
+  rate: '7'
+  shipping: '1'
+  state: RI
+wootax/31828:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: 02916
+    location_type: postcode
+  name: EAST PROVIDENCE
+  order: '0'
+  priority: '0'
+  rate: '7'
+  shipping: '1'
+  state: RI
+wootax/31829:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: 02917
+    location_type: postcode
+  name: SMITHFIELD
+  order: '0'
+  priority: '0'
+  rate: '7'
+  shipping: '1'
+  state: RI
+wootax/31830:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: 02918
+    location_type: postcode
+  name: PROVIDENCE
+  order: '0'
+  priority: '0'
+  rate: '7'
+  shipping: '1'
+  state: RI
+wootax/31831:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: 02919
+    location_type: postcode
+  name: JOHNSTON
+  order: '0'
+  priority: '0'
+  rate: '7'
+  shipping: '1'
+  state: RI
+wootax/31832:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: 02920
+    location_type: postcode
+  name: CRANSTON
+  order: '0'
+  priority: '0'
+  rate: '7'
+  shipping: '1'
+  state: RI
+wootax/31833:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: 02921
+    location_type: postcode
+  name: CRANSTON
+  order: '0'
+  priority: '0'
+  rate: '7'
+  shipping: '1'
+  state: RI
+wootax/31834:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: 02940
+    location_type: postcode
+  name: PROVIDENCE
+  order: '0'
+  priority: '0'
+  rate: '7'
+  shipping: '1'
+  state: RI

@@ -1,0 +1,4940 @@
+wootax/32359:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '57001'
+    location_type: postcode
+  name: ALCESTER
+  order: '0'
+  priority: '0'
+  rate: '6.5'
+  shipping: '1'
+  state: SD
+wootax/32360:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '57002'
+    location_type: postcode
+  name: AURORA
+  order: '0'
+  priority: '0'
+  rate: '5.5'
+  shipping: '1'
+  state: SD
+wootax/32361:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '57003'
+    location_type: postcode
+  name: MINNEHAHA
+  order: '0'
+  priority: '0'
+  rate: '4.5'
+  shipping: '1'
+  state: SD
+wootax/32362:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '57004'
+    location_type: postcode
+  name: BERESFORD
+  order: '0'
+  priority: '0'
+  rate: '6.5'
+  shipping: '1'
+  state: SD
+wootax/32363:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '57005'
+    location_type: postcode
+  name: BRANDON
+  order: '0'
+  priority: '0'
+  rate: '6.5'
+  shipping: '1'
+  state: SD
+wootax/32364:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '57006'
+    location_type: postcode
+  name: BROOKINGS BUSINESS IMPROVEMENT DISTRICT NO. 1
+  order: '0'
+  priority: '0'
+  rate: '6.5'
+  shipping: '1'
+  state: SD
+wootax/32365:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '57007'
+    location_type: postcode
+  name: BROOKINGS BUSINESS IMPROVEMENT DISTRICT NO. 1
+  order: '0'
+  priority: '0'
+  rate: '6.5'
+  shipping: '1'
+  state: SD
+wootax/32366:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '57010'
+    location_type: postcode
+  name: CLAY
+  order: '0'
+  priority: '0'
+  rate: '4.5'
+  shipping: '1'
+  state: SD
+wootax/32367:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '57012'
+    location_type: postcode
+  name: MCCOOK
+  order: '0'
+  priority: '0'
+  rate: '4.5'
+  shipping: '1'
+  state: SD
+wootax/32368:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '57013'
+    location_type: postcode
+  name: CANTON
+  order: '0'
+  priority: '0'
+  rate: '6.5'
+  shipping: '1'
+  state: SD
+wootax/32369:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '57014'
+    location_type: postcode
+  name: CENTERVILLE
+  order: '0'
+  priority: '0'
+  rate: '6.5'
+  shipping: '1'
+  state: SD
+wootax/32370:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '57015'
+    location_type: postcode
+  name: TURNER
+  order: '0'
+  priority: '0'
+  rate: '4.5'
+  shipping: '1'
+  state: SD
+wootax/32371:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '57016'
+    location_type: postcode
+  name: LAKE
+  order: '0'
+  priority: '0'
+  rate: '4.5'
+  shipping: '1'
+  state: SD
+wootax/32372:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '57017'
+    location_type: postcode
+  name: MOODY
+  order: '0'
+  priority: '0'
+  rate: '4.5'
+  shipping: '1'
+  state: SD
+wootax/32373:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '57018'
+    location_type: postcode
+  name: COLTON
+  order: '0'
+  priority: '0'
+  rate: '6.5'
+  shipping: '1'
+  state: SD
+wootax/32374:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '57020'
+    location_type: postcode
+  name: CROOKS
+  order: '0'
+  priority: '0'
+  rate: '6.5'
+  shipping: '1'
+  state: SD
+wootax/32375:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '57021'
+    location_type: postcode
+  name: TURNER
+  order: '0'
+  priority: '0'
+  rate: '4.5'
+  shipping: '1'
+  state: SD
+wootax/32376:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '57022'
+    location_type: postcode
+  name: DELL RAPIDS
+  order: '0'
+  priority: '0'
+  rate: '6.5'
+  shipping: '1'
+  state: SD
+wootax/32377:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '57024'
+    location_type: postcode
+  name: EGAN
+  order: '0'
+  priority: '0'
+  rate: '6.5'
+  shipping: '1'
+  state: SD
+wootax/32378:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '57025'
+    location_type: postcode
+  name: ELK POINT
+  order: '0'
+  priority: '0'
+  rate: '6.5'
+  shipping: '1'
+  state: SD
+wootax/32379:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '57026'
+    location_type: postcode
+  name: ELKTON
+  order: '0'
+  priority: '0'
+  rate: '6.5'
+  shipping: '1'
+  state: SD
+wootax/32380:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '57027'
+    location_type: postcode
+  name: FAIRVIEW
+  order: '0'
+  priority: '0'
+  rate: '6.5'
+  shipping: '1'
+  state: SD
+wootax/32381:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '57028'
+    location_type: postcode
+  name: FLANDREAU
+  order: '0'
+  priority: '0'
+  rate: '6.5'
+  shipping: '1'
+  state: SD
+wootax/32382:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '57029'
+    location_type: postcode
+  name: FREEMAN
+  order: '0'
+  priority: '0'
+  rate: '6.5'
+  shipping: '1'
+  state: SD
+wootax/32383:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '57030'
+    location_type: postcode
+  name: MINNEHAHA
+  order: '0'
+  priority: '0'
+  rate: '4.5'
+  shipping: '1'
+  state: SD
+wootax/32384:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '57031'
+    location_type: postcode
+  name: YANKTON
+  order: '0'
+  priority: '0'
+  rate: '4.5'
+  shipping: '1'
+  state: SD
+wootax/32385:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '57032'
+    location_type: postcode
+  name: HARRISBURG
+  order: '0'
+  priority: '0'
+  rate: '6.5'
+  shipping: '1'
+  state: SD
+wootax/32386:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '57033'
+    location_type: postcode
+  name: HARTFORD
+  order: '0'
+  priority: '0'
+  rate: '6.5'
+  shipping: '1'
+  state: SD
+wootax/32387:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '57034'
+    location_type: postcode
+  name: LINCOLN
+  order: '0'
+  priority: '0'
+  rate: '4.5'
+  shipping: '1'
+  state: SD
+wootax/32388:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '57035'
+    location_type: postcode
+  name: HUMBOLDT
+  order: '0'
+  priority: '0'
+  rate: '6.5'
+  shipping: '1'
+  state: SD
+wootax/32389:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '57036'
+    location_type: postcode
+  name: TURNER
+  order: '0'
+  priority: '0'
+  rate: '4.5'
+  shipping: '1'
+  state: SD
+wootax/32390:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '57037'
+    location_type: postcode
+  name: YANKTON
+  order: '0'
+  priority: '0'
+  rate: '4.5'
+  shipping: '1'
+  state: SD
+wootax/32391:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '57038'
+    location_type: postcode
+  name: UNION
+  order: '0'
+  priority: '0'
+  rate: '4.5'
+  shipping: '1'
+  state: SD
+wootax/32392:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '57039'
+    location_type: postcode
+  name: LENNOX
+  order: '0'
+  priority: '0'
+  rate: '6.5'
+  shipping: '1'
+  state: SD
+wootax/32393:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '57040'
+    location_type: postcode
+  name: YANKTON
+  order: '0'
+  priority: '0'
+  rate: '4.5'
+  shipping: '1'
+  state: SD
+wootax/32394:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '57041'
+    location_type: postcode
+  name: MINNEHAHA
+  order: '0'
+  priority: '0'
+  rate: '4.5'
+  shipping: '1'
+  state: SD
+wootax/32395:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '57042'
+    location_type: postcode
+  name: MADISON
+  order: '0'
+  priority: '0'
+  rate: '6.5'
+  shipping: '1'
+  state: SD
+wootax/32396:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '57043'
+    location_type: postcode
+  name: TURNER
+  order: '0'
+  priority: '0'
+  rate: '4.5'
+  shipping: '1'
+  state: SD
+wootax/32397:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '57045'
+    location_type: postcode
+  name: MENNO
+  order: '0'
+  priority: '0'
+  rate: '6.5'
+  shipping: '1'
+  state: SD
+wootax/32398:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '57046'
+    location_type: postcode
+  name: YANKTON
+  order: '0'
+  priority: '0'
+  rate: '4.5'
+  shipping: '1'
+  state: SD
+wootax/32399:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '57047'
+    location_type: postcode
+  name: MONROE
+  order: '0'
+  priority: '0'
+  rate: '6.5'
+  shipping: '1'
+  state: SD
+wootax/32400:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '57048'
+    location_type: postcode
+  name: MCCOOK
+  order: '0'
+  priority: '0'
+  rate: '4.5'
+  shipping: '1'
+  state: SD
+wootax/32401:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '57049'
+    location_type: postcode
+  name: NORTH SIOUX CITY
+  order: '0'
+  priority: '0'
+  rate: '6.5'
+  shipping: '1'
+  state: SD
+wootax/32402:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '57050'
+    location_type: postcode
+  name: LAKE
+  order: '0'
+  priority: '0'
+  rate: '4.5'
+  shipping: '1'
+  state: SD
+wootax/32403:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '57051'
+    location_type: postcode
+  name: KINGSBURY
+  order: '0'
+  priority: '0'
+  rate: '4.5'
+  shipping: '1'
+  state: SD
+wootax/32404:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '57052'
+    location_type: postcode
+  name: HUTCHINSON
+  order: '0'
+  priority: '0'
+  rate: '4.5'
+  shipping: '1'
+  state: SD
+wootax/32405:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '57053'
+    location_type: postcode
+  name: TURNER
+  order: '0'
+  priority: '0'
+  rate: '4.5'
+  shipping: '1'
+  state: SD
+wootax/32406:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '57054'
+    location_type: postcode
+  name: LAKE
+  order: '0'
+  priority: '0'
+  rate: '4.5'
+  shipping: '1'
+  state: SD
+wootax/32407:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '57055'
+    location_type: postcode
+  name: MINNEHAHA
+  order: '0'
+  priority: '0'
+  rate: '4.5'
+  shipping: '1'
+  state: SD
+wootax/32408:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '57057'
+    location_type: postcode
+  name: LAKE
+  order: '0'
+  priority: '0'
+  rate: '4.5'
+  shipping: '1'
+  state: SD
+wootax/32409:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '57058'
+    location_type: postcode
+  name: SALEM
+  order: '0'
+  priority: '0'
+  rate: '6.5'
+  shipping: '1'
+  state: SD
+wootax/32410:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '57059'
+    location_type: postcode
+  name: SCOTLAND
+  order: '0'
+  priority: '0'
+  rate: '6.5'
+  shipping: '1'
+  state: SD
+wootax/32411:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '57061'
+    location_type: postcode
+  name: SINAI
+  order: '0'
+  priority: '0'
+  rate: '4.5'
+  shipping: '1'
+  state: SD
+wootax/32412:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '57062'
+    location_type: postcode
+  name: SPRINGFIELD
+  order: '0'
+  priority: '0'
+  rate: '6.5'
+  shipping: '1'
+  state: SD
+wootax/32413:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '57063'
+    location_type: postcode
+  name: BON HOMME
+  order: '0'
+  priority: '0'
+  rate: '4.5'
+  shipping: '1'
+  state: SD
+wootax/32414:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '57064'
+    location_type: postcode
+  name: TEA
+  order: '0'
+  priority: '0'
+  rate: '6.5'
+  shipping: '1'
+  state: SD
+wootax/32415:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '57065'
+    location_type: postcode
+  name: MOODY
+  order: '0'
+  priority: '0'
+  rate: '4.5'
+  shipping: '1'
+  state: SD
+wootax/32416:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '57066'
+    location_type: postcode
+  name: TYNDALL
+  order: '0'
+  priority: '0'
+  rate: '6.5'
+  shipping: '1'
+  state: SD
+wootax/32417:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '57067'
+    location_type: postcode
+  name: YANKTON
+  order: '0'
+  priority: '0'
+  rate: '4.5'
+  shipping: '1'
+  state: SD
+wootax/32418:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '57068'
+    location_type: postcode
+  name: VALLEY SPRINGS
+  order: '0'
+  priority: '0'
+  rate: '6.5'
+  shipping: '1'
+  state: SD
+wootax/32419:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '57069'
+    location_type: postcode
+  name: VERMILLION
+  order: '0'
+  priority: '0'
+  rate: '6.5'
+  shipping: '1'
+  state: SD
+wootax/32420:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '57070'
+    location_type: postcode
+  name: TURNER
+  order: '0'
+  priority: '0'
+  rate: '4.5'
+  shipping: '1'
+  state: SD
+wootax/32421:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '57071'
+    location_type: postcode
+  name: VOLGA
+  order: '0'
+  priority: '0'
+  rate: '6.5'
+  shipping: '1'
+  state: SD
+wootax/32422:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '57072'
+    location_type: postcode
+  name: YANKTON
+  order: '0'
+  priority: '0'
+  rate: '4.5'
+  shipping: '1'
+  state: SD
+wootax/32423:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '57073'
+    location_type: postcode
+  name: CLAY
+  order: '0'
+  priority: '0'
+  rate: '4.5'
+  shipping: '1'
+  state: SD
+wootax/32424:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '57075'
+    location_type: postcode
+  name: LAKE
+  order: '0'
+  priority: '0'
+  rate: '4.5'
+  shipping: '1'
+  state: SD
+wootax/32425:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '57076'
+    location_type: postcode
+  name: MINER
+  order: '0'
+  priority: '0'
+  rate: '4.5'
+  shipping: '1'
+  state: SD
+wootax/32426:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '57077'
+    location_type: postcode
+  name: WORTHING
+  order: '0'
+  priority: '0'
+  rate: '6.5'
+  shipping: '1'
+  state: SD
+wootax/32427:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '57078'
+    location_type: postcode
+  name: YANKTON
+  order: '0'
+  priority: '0'
+  rate: '6.5'
+  shipping: '1'
+  state: SD
+wootax/32428:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '57101'
+    location_type: postcode
+  name: SIOUX FALLS CONVENTION AND VISITORS BUREAU BUSINESS IMPROVEMENT DISTRICT
+  order: '0'
+  priority: '0'
+  rate: '6.5'
+  shipping: '1'
+  state: SD
+wootax/32429:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '57103'
+    location_type: postcode
+  name: SIOUX FALLS CONVENTION AND VISITORS BUREAU BUSINESS IMPROVEMENT DISTRICT
+  order: '0'
+  priority: '0'
+  rate: '6.5'
+  shipping: '1'
+  state: SD
+wootax/32430:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '57104'
+    location_type: postcode
+  name: SIOUX FALLS CONVENTION AND VISITORS BUREAU BUSINESS IMPROVEMENT DISTRICT
+  order: '0'
+  priority: '0'
+  rate: '6.5'
+  shipping: '1'
+  state: SD
+wootax/32431:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '57105'
+    location_type: postcode
+  name: SIOUX FALLS CONVENTION AND VISITORS BUREAU BUSINESS IMPROVEMENT DISTRICT
+  order: '0'
+  priority: '0'
+  rate: '6.5'
+  shipping: '1'
+  state: SD
+wootax/32432:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '57106'
+    location_type: postcode
+  name: SIOUX FALLS CONVENTION AND VISITORS BUREAU BUSINESS IMPROVEMENT DISTRICT
+  order: '0'
+  priority: '0'
+  rate: '6.5'
+  shipping: '1'
+  state: SD
+wootax/32433:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '57107'
+    location_type: postcode
+  name: SIOUX FALLS CONVENTION AND VISITORS BUREAU BUSINESS IMPROVEMENT DISTRICT
+  order: '0'
+  priority: '0'
+  rate: '6.5'
+  shipping: '1'
+  state: SD
+wootax/32434:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '57108'
+    location_type: postcode
+  name: SIOUX FALLS CONVENTION AND VISITORS BUREAU BUSINESS IMPROVEMENT DISTRICT
+  order: '0'
+  priority: '0'
+  rate: '6.5'
+  shipping: '1'
+  state: SD
+wootax/32435:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '57109'
+    location_type: postcode
+  name: SIOUX FALLS CONVENTION AND VISITORS BUREAU BUSINESS IMPROVEMENT DISTRICT
+  order: '0'
+  priority: '0'
+  rate: '6.5'
+  shipping: '1'
+  state: SD
+wootax/32436:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '57110'
+    location_type: postcode
+  name: SIOUX FALLS CONVENTION AND VISITORS BUREAU BUSINESS IMPROVEMENT DISTRICT
+  order: '0'
+  priority: '0'
+  rate: '6.5'
+  shipping: '1'
+  state: SD
+wootax/32437:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '57118'
+    location_type: postcode
+  name: SIOUX FALLS CONVENTION AND VISITORS BUREAU BUSINESS IMPROVEMENT DISTRICT
+  order: '0'
+  priority: '0'
+  rate: '6.5'
+  shipping: '1'
+  state: SD
+wootax/32438:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '57186'
+    location_type: postcode
+  name: SIOUX FALLS CONVENTION AND VISITORS BUREAU BUSINESS IMPROVEMENT DISTRICT
+  order: '0'
+  priority: '0'
+  rate: '6.5'
+  shipping: '1'
+  state: SD
+wootax/32439:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '57193'
+    location_type: postcode
+  name: SIOUX FALLS CONVENTION AND VISITORS BUREAU BUSINESS IMPROVEMENT DISTRICT
+  order: '0'
+  priority: '0'
+  rate: '6.5'
+  shipping: '1'
+  state: SD
+wootax/32440:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '57197'
+    location_type: postcode
+  name: SIOUX FALLS CONVENTION AND VISITORS BUREAU BUSINESS IMPROVEMENT DISTRICT
+  order: '0'
+  priority: '0'
+  rate: '6.5'
+  shipping: '1'
+  state: SD
+wootax/32441:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '57198'
+    location_type: postcode
+  name: SIOUX FALLS CONVENTION AND VISITORS BUREAU BUSINESS IMPROVEMENT DISTRICT
+  order: '0'
+  priority: '0'
+  rate: '6.5'
+  shipping: '1'
+  state: SD
+wootax/32442:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '57201'
+    location_type: postcode
+  name: WATERTOWN BUSINESS IMPROVEMENT DISTRICT
+  order: '0'
+  priority: '0'
+  rate: '6.5'
+  shipping: '1'
+  state: SD
+wootax/32443:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '57212'
+    location_type: postcode
+  name: ARLINGTON
+  order: '0'
+  priority: '0'
+  rate: '6.5'
+  shipping: '1'
+  state: SD
+wootax/32444:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '57213'
+    location_type: postcode
+  name: DEUEL
+  order: '0'
+  priority: '0'
+  rate: '4.5'
+  shipping: '1'
+  state: SD
+wootax/32445:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '57214'
+    location_type: postcode
+  name: BADGER
+  order: '0'
+  priority: '0'
+  rate: '4.5'
+  shipping: '1'
+  state: SD
+wootax/32446:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '57216'
+    location_type: postcode
+  name: BIG STONE CITY
+  order: '0'
+  priority: '0'
+  rate: '6.5'
+  shipping: '1'
+  state: SD
+wootax/32447:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '57217'
+    location_type: postcode
+  name: CLARK
+  order: '0'
+  priority: '0'
+  rate: '4.5'
+  shipping: '1'
+  state: SD
+wootax/32448:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '57218'
+    location_type: postcode
+  name: DEUEL
+  order: '0'
+  priority: '0'
+  rate: '4.5'
+  shipping: '1'
+  state: SD
+wootax/32449:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '57219'
+    location_type: postcode
+  name: DAY
+  order: '0'
+  priority: '0'
+  rate: '4.5'
+  shipping: '1'
+  state: SD
+wootax/32450:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '57220'
+    location_type: postcode
+  name: BROOKINGS
+  order: '0'
+  priority: '0'
+  rate: '4.5'
+  shipping: '1'
+  state: SD
+wootax/32451:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '57221'
+    location_type: postcode
+  name: BRYANT
+  order: '0'
+  priority: '0'
+  rate: '6.5'
+  shipping: '1'
+  state: SD
+wootax/32452:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '57223'
+    location_type: postcode
+  name: HAMLIN
+  order: '0'
+  priority: '0'
+  rate: '4.5'
+  shipping: '1'
+  state: SD
+wootax/32453:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '57224'
+    location_type: postcode
+  name: ROBERTS
+  order: '0'
+  priority: '0'
+  rate: '4.5'
+  shipping: '1'
+  state: SD
+wootax/32454:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '57225'
+    location_type: postcode
+  name: CLARK
+  order: '0'
+  priority: '0'
+  rate: '6.5'
+  shipping: '1'
+  state: SD
+wootax/32455:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '57226'
+    location_type: postcode
+  name: CLEAR LAKE
+  order: '0'
+  priority: '0'
+  rate: '6.5'
+  shipping: '1'
+  state: SD
+wootax/32456:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '57227'
+    location_type: postcode
+  name: ROBERTS
+  order: '0'
+  priority: '0'
+  rate: '4.5'
+  shipping: '1'
+  state: SD
+wootax/32457:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '57231'
+    location_type: postcode
+  name: DE SMET
+  order: '0'
+  priority: '0'
+  rate: '6.5'
+  shipping: '1'
+  state: SD
+wootax/32458:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '57232'
+    location_type: postcode
+  name: MARSHALL
+  order: '0'
+  priority: '0'
+  rate: '4.5'
+  shipping: '1'
+  state: SD
+wootax/32459:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '57233'
+    location_type: postcode
+  name: KINGSBURY
+  order: '0'
+  priority: '0'
+  rate: '4.5'
+  shipping: '1'
+  state: SD
+wootax/32460:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '57234'
+    location_type: postcode
+  name: ESTELLINE
+  order: '0'
+  priority: '0'
+  rate: '6.5'
+  shipping: '1'
+  state: SD
+wootax/32461:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '57235'
+    location_type: postcode
+  name: CODINGTON
+  order: '0'
+  priority: '0'
+  rate: '4.5'
+  shipping: '1'
+  state: SD
+wootax/32462:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '57236'
+    location_type: postcode
+  name: CLARK
+  order: '0'
+  priority: '0'
+  rate: '4.5'
+  shipping: '1'
+  state: SD
+wootax/32463:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '57237'
+    location_type: postcode
+  name: DEUEL
+  order: '0'
+  priority: '0'
+  rate: '4.5'
+  shipping: '1'
+  state: SD
+wootax/32464:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '57238'
+    location_type: postcode
+  name: DEUEL
+  order: '0'
+  priority: '0'
+  rate: '4.5'
+  shipping: '1'
+  state: SD
+wootax/32465:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '57239'
+    location_type: postcode
+  name: DAY
+  order: '0'
+  priority: '0'
+  rate: '4.5'
+  shipping: '1'
+  state: SD
+wootax/32466:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '57241'
+    location_type: postcode
+  name: HAMLIN
+  order: '0'
+  priority: '0'
+  rate: '4.5'
+  shipping: '1'
+  state: SD
+wootax/32467:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '57242'
+    location_type: postcode
+  name: HAMLIN
+  order: '0'
+  priority: '0'
+  rate: '4.5'
+  shipping: '1'
+  state: SD
+wootax/32468:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '57243'
+    location_type: postcode
+  name: CODINGTON
+  order: '0'
+  priority: '0'
+  rate: '4.5'
+  shipping: '1'
+  state: SD
+wootax/32469:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '57245'
+    location_type: postcode
+  name: KRANZBURG
+  order: '0'
+  priority: '0'
+  rate: '6.5'
+  shipping: '1'
+  state: SD
+wootax/32470:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '57246'
+    location_type: postcode
+  name: GRANT
+  order: '0'
+  priority: '0'
+  rate: '4.5'
+  shipping: '1'
+  state: SD
+wootax/32471:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '57247'
+    location_type: postcode
+  name: MARSHALL
+  order: '0'
+  priority: '0'
+  rate: '4.5'
+  shipping: '1'
+  state: SD
+wootax/32472:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '57248'
+    location_type: postcode
+  name: HAMLIN
+  order: '0'
+  priority: '0'
+  rate: '4.5'
+  shipping: '1'
+  state: SD
+wootax/32473:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '57249'
+    location_type: postcode
+  name: LAKE PRESTON
+  order: '0'
+  priority: '0'
+  rate: '6.5'
+  shipping: '1'
+  state: SD
+wootax/32474:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '57251'
+    location_type: postcode
+  name: GRANT
+  order: '0'
+  priority: '0'
+  rate: '4.5'
+  shipping: '1'
+  state: SD
+wootax/32475:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '57252'
+    location_type: postcode
+  name: MILBANK
+  order: '0'
+  priority: '0'
+  rate: '6.5'
+  shipping: '1'
+  state: SD
+wootax/32476:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '57255'
+    location_type: postcode
+  name: ROBERTS
+  order: '0'
+  priority: '0'
+  rate: '4.5'
+  shipping: '1'
+  state: SD
+wootax/32477:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '57256'
+    location_type: postcode
+  name: GRANT
+  order: '0'
+  priority: '0'
+  rate: '4.5'
+  shipping: '1'
+  state: SD
+wootax/32478:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '57257'
+    location_type: postcode
+  name: ROBERTS
+  order: '0'
+  priority: '0'
+  rate: '4.5'
+  shipping: '1'
+  state: SD
+wootax/32479:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '57258'
+    location_type: postcode
+  name: CLARK
+  order: '0'
+  priority: '0'
+  rate: '4.5'
+  shipping: '1'
+  state: SD
+wootax/32480:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '57259'
+    location_type: postcode
+  name: REVILLO
+  order: '0'
+  priority: '0'
+  rate: '5.5'
+  shipping: '1'
+  state: SD
+wootax/32481:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '57260'
+    location_type: postcode
+  name: ROBERTS
+  order: '0'
+  priority: '0'
+  rate: '4.5'
+  shipping: '1'
+  state: SD
+wootax/32482:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '57261'
+    location_type: postcode
+  name: DAY
+  order: '0'
+  priority: '0'
+  rate: '4.5'
+  shipping: '1'
+  state: SD
+wootax/32483:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '57262'
+    location_type: postcode
+  name: SISSETON
+  order: '0'
+  priority: '0'
+  rate: '6.5'
+  shipping: '1'
+  state: SD
+wootax/32484:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '57263'
+    location_type: postcode
+  name: CODINGTON
+  order: '0'
+  priority: '0'
+  rate: '4.5'
+  shipping: '1'
+  state: SD
+wootax/32485:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '57264'
+    location_type: postcode
+  name: GRANT
+  order: '0'
+  priority: '0'
+  rate: '4.5'
+  shipping: '1'
+  state: SD
+wootax/32486:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '57265'
+    location_type: postcode
+  name: GRANT
+  order: '0'
+  priority: '0'
+  rate: '4.5'
+  shipping: '1'
+  state: SD
+wootax/32487:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '57266'
+    location_type: postcode
+  name: GRANT
+  order: '0'
+  priority: '0'
+  rate: '4.5'
+  shipping: '1'
+  state: SD
+wootax/32488:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '57268'
+    location_type: postcode
+  name: BROOKINGS
+  order: '0'
+  priority: '0'
+  rate: '4.5'
+  shipping: '1'
+  state: SD
+wootax/32489:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '57269'
+    location_type: postcode
+  name: GRANT
+  order: '0'
+  priority: '0'
+  rate: '4.5'
+  shipping: '1'
+  state: SD
+wootax/32490:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '57270'
+    location_type: postcode
+  name: MARSHALL
+  order: '0'
+  priority: '0'
+  rate: '4.5'
+  shipping: '1'
+  state: SD
+wootax/32491:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '57271'
+    location_type: postcode
+  name: VIENNA
+  order: '0'
+  priority: '0'
+  rate: '4.5'
+  shipping: '1'
+  state: SD
+wootax/32492:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '57272'
+    location_type: postcode
+  name: CODINGTON
+  order: '0'
+  priority: '0'
+  rate: '4.5'
+  shipping: '1'
+  state: SD
+wootax/32493:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '57273'
+    location_type: postcode
+  name: DAY
+  order: '0'
+  priority: '0'
+  rate: '4.5'
+  shipping: '1'
+  state: SD
+wootax/32494:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '57274'
+    location_type: postcode
+  name: WEBSTER
+  order: '0'
+  priority: '0'
+  rate: '6.5'
+  shipping: '1'
+  state: SD
+wootax/32495:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '57276'
+    location_type: postcode
+  name: BROOKINGS
+  order: '0'
+  priority: '0'
+  rate: '4.5'
+  shipping: '1'
+  state: SD
+wootax/32496:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '57278'
+    location_type: postcode
+  name: CLARK
+  order: '0'
+  priority: '0'
+  rate: '4.5'
+  shipping: '1'
+  state: SD
+wootax/32497:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '57279'
+    location_type: postcode
+  name: ROBERTS
+  order: '0'
+  priority: '0'
+  rate: '4.5'
+  shipping: '1'
+  state: SD
+wootax/32498:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '57301'
+    location_type: postcode
+  name: MITCHELL
+  order: '0'
+  priority: '0'
+  rate: '6.5'
+  shipping: '1'
+  state: SD
+wootax/32499:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '57311'
+    location_type: postcode
+  name: HANSON
+  order: '0'
+  priority: '0'
+  rate: '4.5'
+  shipping: '1'
+  state: SD
+wootax/32500:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '57312'
+    location_type: postcode
+  name: BEADLE
+  order: '0'
+  priority: '0'
+  rate: '4.5'
+  shipping: '1'
+  state: SD
+wootax/32501:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '57313'
+    location_type: postcode
+  name: ARMOUR
+  order: '0'
+  priority: '0'
+  rate: '6.5'
+  shipping: '1'
+  state: SD
+wootax/32502:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '57314'
+    location_type: postcode
+  name: SANBORN
+  order: '0'
+  priority: '0'
+  rate: '4.5'
+  shipping: '1'
+  state: SD
+wootax/32503:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '57315'
+    location_type: postcode
+  name: BON HOMME
+  order: '0'
+  priority: '0'
+  rate: '4.5'
+  shipping: '1'
+  state: SD
+wootax/32504:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '57317'
+    location_type: postcode
+  name: GREGORY
+  order: '0'
+  priority: '0'
+  rate: '4.5'
+  shipping: '1'
+  state: SD
+wootax/32505:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '57319'
+    location_type: postcode
+  name: BRIDGEWATER
+  order: '0'
+  priority: '0'
+  rate: '6.5'
+  shipping: '1'
+  state: SD
+wootax/32506:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '57321'
+    location_type: postcode
+  name: MINER
+  order: '0'
+  priority: '0'
+  rate: '4.5'
+  shipping: '1'
+  state: SD
+wootax/32507:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '57322'
+    location_type: postcode
+  name: BEADLE
+  order: '0'
+  priority: '0'
+  rate: '4.5'
+  shipping: '1'
+  state: SD
+wootax/32508:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '57323'
+    location_type: postcode
+  name: CARTHAGE
+  order: '0'
+  priority: '0'
+  rate: '6.5'
+  shipping: '1'
+  state: SD
+wootax/32509:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '57324'
+    location_type: postcode
+  name: BEADLE
+  order: '0'
+  priority: '0'
+  rate: '4.5'
+  shipping: '1'
+  state: SD
+wootax/32510:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '57325'
+    location_type: postcode
+  name: CHAMBERLAIN BUSINESS IMPROVEMENT DISTRICT NO. 1
+  order: '0'
+  priority: '0'
+  rate: '6.5'
+  shipping: '1'
+  state: SD
+wootax/32511:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '57328'
+    location_type: postcode
+  name: DOUGLAS
+  order: '0'
+  priority: '0'
+  rate: '4.5'
+  shipping: '1'
+  state: SD
+wootax/32512:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '57329'
+    location_type: postcode
+  name: CHARLES MIX
+  order: '0'
+  priority: '0'
+  rate: '4.5'
+  shipping: '1'
+  state: SD
+wootax/32513:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '57330'
+    location_type: postcode
+  name: DOUGLAS
+  order: '0'
+  priority: '0'
+  rate: '4.5'
+  shipping: '1'
+  state: SD
+wootax/32514:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '57331'
+    location_type: postcode
+  name: HUTCHINSON
+  order: '0'
+  priority: '0'
+  rate: '4.5'
+  shipping: '1'
+  state: SD
+wootax/32515:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '57332'
+    location_type: postcode
+  name: EMERY
+  order: '0'
+  priority: '0'
+  rate: '6.5'
+  shipping: '1'
+  state: SD
+wootax/32516:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '57334'
+    location_type: postcode
+  name: DAVISON
+  order: '0'
+  priority: '0'
+  rate: '4.5'
+  shipping: '1'
+  state: SD
+wootax/32517:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '57335'
+    location_type: postcode
+  name: GREGORY
+  order: '0'
+  priority: '0'
+  rate: '4.5'
+  shipping: '1'
+  state: SD
+wootax/32518:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '57337'
+    location_type: postcode
+  name: MINER
+  order: '0'
+  priority: '0'
+  rate: '4.5'
+  shipping: '1'
+  state: SD
+wootax/32519:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '57339'
+    location_type: postcode
+  name: BUFFALO CO CROW CREEK
+  order: '0'
+  priority: '0'
+  rate: '4.5'
+  shipping: '1'
+  state: SD
+wootax/32520:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '57340'
+    location_type: postcode
+  name: HANSON
+  order: '0'
+  priority: '0'
+  rate: '4.5'
+  shipping: '1'
+  state: SD
+wootax/32521:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '57341'
+    location_type: postcode
+  name: BUFFALO
+  order: '0'
+  priority: '0'
+  rate: '4.5'
+  shipping: '1'
+  state: SD
+wootax/32522:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '57342'
+    location_type: postcode
+  name: CHARLES MIX
+  order: '0'
+  priority: '0'
+  rate: '4.5'
+  shipping: '1'
+  state: SD
+wootax/32523:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '57344'
+    location_type: postcode
+  name: DOUGLAS
+  order: '0'
+  priority: '0'
+  rate: '4.5'
+  shipping: '1'
+  state: SD
+wootax/32524:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '57345'
+    location_type: postcode
+  name: HYDE
+  order: '0'
+  priority: '0'
+  rate: '4.5'
+  shipping: '1'
+  state: SD
+wootax/32525:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '57346'
+    location_type: postcode
+  name: HYDE CO CROW CREEK
+  order: '0'
+  priority: '0'
+  rate: '4.5'
+  shipping: '1'
+  state: SD
+wootax/32526:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '57348'
+    location_type: postcode
+  name: BEADLE
+  order: '0'
+  priority: '0'
+  rate: '4.5'
+  shipping: '1'
+  state: SD
+wootax/32527:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '57349'
+    location_type: postcode
+  name: HOWARD
+  order: '0'
+  priority: '0'
+  rate: '6.5'
+  shipping: '1'
+  state: SD
+wootax/32528:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '57350'
+    location_type: postcode
+  name: HURON BUSINESS IMPROVEMENT DISTRICT NO. 1
+  order: '0'
+  priority: '0'
+  rate: '6.5'
+  shipping: '1'
+  state: SD
+wootax/32529:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '57353'
+    location_type: postcode
+  name: KINGSBURY
+  order: '0'
+  priority: '0'
+  rate: '4.5'
+  shipping: '1'
+  state: SD
+wootax/32530:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '57354'
+    location_type: postcode
+  name: HUTCHINSON
+  order: '0'
+  priority: '0'
+  rate: '4.5'
+  shipping: '1'
+  state: SD
+wootax/32531:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '57355'
+    location_type: postcode
+  name: KIMBALL
+  order: '0'
+  priority: '0'
+  rate: '6.5'
+  shipping: '1'
+  state: SD
+wootax/32532:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '57356'
+    location_type: postcode
+  name: CHARLES MIX
+  order: '0'
+  priority: '0'
+  rate: '4.5'
+  shipping: '1'
+  state: SD
+wootax/32533:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '57359'
+    location_type: postcode
+  name: SANBORN
+  order: '0'
+  priority: '0'
+  rate: '4.5'
+  shipping: '1'
+  state: SD
+wootax/32534:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '57362'
+    location_type: postcode
+  name: MILLER
+  order: '0'
+  priority: '0'
+  rate: '6.5'
+  shipping: '1'
+  state: SD
+wootax/32535:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '57363'
+    location_type: postcode
+  name: DAVISON
+  order: '0'
+  priority: '0'
+  rate: '4.5'
+  shipping: '1'
+  state: SD
+wootax/32536:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '57364'
+    location_type: postcode
+  name: DOUGLAS
+  order: '0'
+  priority: '0'
+  rate: '4.5'
+  shipping: '1'
+  state: SD
+wootax/32537:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '57365'
+    location_type: postcode
+  name: OACOMA
+  order: '0'
+  priority: '0'
+  rate: '6.5'
+  shipping: '1'
+  state: SD
+wootax/32538:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '57366'
+    location_type: postcode
+  name: PARKSTON
+  order: '0'
+  priority: '0'
+  rate: '6.5'
+  shipping: '1'
+  state: SD
+wootax/32539:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '57367'
+    location_type: postcode
+  name: PICKSTOWN
+  order: '0'
+  priority: '0'
+  rate: '6.5'
+  shipping: '1'
+  state: SD
+wootax/32540:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '57368'
+    location_type: postcode
+  name: PLANKINTON
+  order: '0'
+  priority: '0'
+  rate: '6.5'
+  shipping: '1'
+  state: SD
+wootax/32541:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '57369'
+    location_type: postcode
+  name: CHARLES MIX
+  order: '0'
+  priority: '0'
+  rate: '4.5'
+  shipping: '1'
+  state: SD
+wootax/32542:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '57370'
+    location_type: postcode
+  name: BRULE
+  order: '0'
+  priority: '0'
+  rate: '4.5'
+  shipping: '1'
+  state: SD
+wootax/32543:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '57371'
+    location_type: postcode
+  name: HAND
+  order: '0'
+  priority: '0'
+  rate: '4.5'
+  shipping: '1'
+  state: SD
+wootax/32544:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '57373'
+    location_type: postcode
+  name: HAND
+  order: '0'
+  priority: '0'
+  rate: '4.5'
+  shipping: '1'
+  state: SD
+wootax/32545:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '57374'
+    location_type: postcode
+  name: MCCOOK
+  order: '0'
+  priority: '0'
+  rate: '4.5'
+  shipping: '1'
+  state: SD
+wootax/32546:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '57375'
+    location_type: postcode
+  name: AURORA
+  order: '0'
+  priority: '0'
+  rate: '4.5'
+  shipping: '1'
+  state: SD
+wootax/32547:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '57376'
+    location_type: postcode
+  name: HUTCHINSON
+  order: '0'
+  priority: '0'
+  rate: '4.5'
+  shipping: '1'
+  state: SD
+wootax/32548:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '57379'
+    location_type: postcode
+  name: BEADLE
+  order: '0'
+  priority: '0'
+  rate: '4.5'
+  shipping: '1'
+  state: SD
+wootax/32549:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '57380'
+    location_type: postcode
+  name: CHARLES MIX
+  order: '0'
+  priority: '0'
+  rate: '4.5'
+  shipping: '1'
+  state: SD
+wootax/32550:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '57381'
+    location_type: postcode
+  name: HAND
+  order: '0'
+  priority: '0'
+  rate: '4.5'
+  shipping: '1'
+  state: SD
+wootax/32551:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '57382'
+    location_type: postcode
+  name: WESSINGTON SPRINGS
+  order: '0'
+  priority: '0'
+  rate: '6.5'
+  shipping: '1'
+  state: SD
+wootax/32552:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '57383'
+    location_type: postcode
+  name: AURORA
+  order: '0'
+  priority: '0'
+  rate: '4.5'
+  shipping: '1'
+  state: SD
+wootax/32553:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '57384'
+    location_type: postcode
+  name: BEADLE
+  order: '0'
+  priority: '0'
+  rate: '4.5'
+  shipping: '1'
+  state: SD
+wootax/32554:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '57385'
+    location_type: postcode
+  name: WOONSOCKET
+  order: '0'
+  priority: '0'
+  rate: '6.5'
+  shipping: '1'
+  state: SD
+wootax/32555:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '57386'
+    location_type: postcode
+  name: YALE
+  order: '0'
+  priority: '0'
+  rate: '5.5'
+  shipping: '1'
+  state: SD
+wootax/32556:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '57399'
+    location_type: postcode
+  name: HURON BUSINESS IMPROVEMENT DISTRICT NO. 1
+  order: '0'
+  priority: '0'
+  rate: '6.5'
+  shipping: '1'
+  state: SD
+wootax/32557:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '57401'
+    location_type: postcode
+  name: ABERDEEN
+  order: '0'
+  priority: '0'
+  rate: '6.5'
+  shipping: '1'
+  state: SD
+wootax/32558:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '57402'
+    location_type: postcode
+  name: ABERDEEN
+  order: '0'
+  priority: '0'
+  rate: '6.5'
+  shipping: '1'
+  state: SD
+wootax/32559:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '57421'
+    location_type: postcode
+  name: MARSHALL
+  order: '0'
+  priority: '0'
+  rate: '4.5'
+  shipping: '1'
+  state: SD
+wootax/32560:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '57422'
+    location_type: postcode
+  name: DAY
+  order: '0'
+  priority: '0'
+  rate: '4.5'
+  shipping: '1'
+  state: SD
+wootax/32561:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '57424'
+    location_type: postcode
+  name: SPINK
+  order: '0'
+  priority: '0'
+  rate: '4.5'
+  shipping: '1'
+  state: SD
+wootax/32562:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '57426'
+    location_type: postcode
+  name: BROWN
+  order: '0'
+  priority: '0'
+  rate: '4.5'
+  shipping: '1'
+  state: SD
+wootax/32563:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '57427'
+    location_type: postcode
+  name: BROWN
+  order: '0'
+  priority: '0'
+  rate: '4.5'
+  shipping: '1'
+  state: SD
+wootax/32564:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '57428'
+    location_type: postcode
+  name: EDMUNDS
+  order: '0'
+  priority: '0'
+  rate: '4.5'
+  shipping: '1'
+  state: SD
+wootax/32565:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '57429'
+    location_type: postcode
+  name: BRENTFORD
+  order: '0'
+  priority: '0'
+  rate: '4.5'
+  shipping: '1'
+  state: SD
+wootax/32566:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '57430'
+    location_type: postcode
+  name: BRITTON
+  order: '0'
+  priority: '0'
+  rate: '6.5'
+  shipping: '1'
+  state: SD
+wootax/32567:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '57432'
+    location_type: postcode
+  name: BROWN
+  order: '0'
+  priority: '0'
+  rate: '4.5'
+  shipping: '1'
+  state: SD
+wootax/32568:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '57433'
+    location_type: postcode
+  name: BROWN
+  order: '0'
+  priority: '0'
+  rate: '4.5'
+  shipping: '1'
+  state: SD
+wootax/32569:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '57434'
+    location_type: postcode
+  name: CONDE
+  order: '0'
+  priority: '0'
+  rate: '6.5'
+  shipping: '1'
+  state: SD
+wootax/32570:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '57435'
+    location_type: postcode
+  name: CRESBARD
+  order: '0'
+  priority: '0'
+  rate: '4.5'
+  shipping: '1'
+  state: SD
+wootax/32571:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '57436'
+    location_type: postcode
+  name: SPINK
+  order: '0'
+  priority: '0'
+  rate: '4.5'
+  shipping: '1'
+  state: SD
+wootax/32572:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '57437'
+    location_type: postcode
+  name: EUREKA
+  order: '0'
+  priority: '0'
+  rate: '6.5'
+  shipping: '1'
+  state: SD
+wootax/32573:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '57438'
+    location_type: postcode
+  name: FAULKTON
+  order: '0'
+  priority: '0'
+  rate: '6.5'
+  shipping: '1'
+  state: SD
+wootax/32574:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '57439'
+    location_type: postcode
+  name: BROWN
+  order: '0'
+  priority: '0'
+  rate: '4.5'
+  shipping: '1'
+  state: SD
+wootax/32575:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '57440'
+    location_type: postcode
+  name: SPINK
+  order: '0'
+  priority: '0'
+  rate: '4.5'
+  shipping: '1'
+  state: SD
+wootax/32576:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '57441'
+    location_type: postcode
+  name: BROWN
+  order: '0'
+  priority: '0'
+  rate: '4.5'
+  shipping: '1'
+  state: SD
+wootax/32577:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '57442'
+    location_type: postcode
+  name: GETTYSBURG
+  order: '0'
+  priority: '0'
+  rate: '6.5'
+  shipping: '1'
+  state: SD
+wootax/32578:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '57445'
+    location_type: postcode
+  name: GROTON
+  order: '0'
+  priority: '0'
+  rate: '6.5'
+  shipping: '1'
+  state: SD
+wootax/32579:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '57446'
+    location_type: postcode
+  name: HECLA
+  order: '0'
+  priority: '0'
+  rate: '5.5'
+  shipping: '1'
+  state: SD
+wootax/32580:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '57448'
+    location_type: postcode
+  name: HOSMER
+  order: '0'
+  priority: '0'
+  rate: '6.5'
+  shipping: '1'
+  state: SD
+wootax/32581:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '57449'
+    location_type: postcode
+  name: BROWN
+  order: '0'
+  priority: '0'
+  rate: '4.5'
+  shipping: '1'
+  state: SD
+wootax/32582:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '57450'
+    location_type: postcode
+  name: HOVEN
+  order: '0'
+  priority: '0'
+  rate: '6.5'
+  shipping: '1'
+  state: SD
+wootax/32583:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '57451'
+    location_type: postcode
+  name: EDMUNDS
+  order: '0'
+  priority: '0'
+  rate: '4.5'
+  shipping: '1'
+  state: SD
+wootax/32584:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '57452'
+    location_type: postcode
+  name: WALWORTH
+  order: '0'
+  priority: '0'
+  rate: '4.5'
+  shipping: '1'
+  state: SD
+wootax/32585:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '57454'
+    location_type: postcode
+  name: LANGFORD
+  order: '0'
+  priority: '0'
+  rate: '6.5'
+  shipping: '1'
+  state: SD
+wootax/32586:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '57455'
+    location_type: postcode
+  name: LEBANON
+  order: '0'
+  priority: '0'
+  rate: '4.5'
+  shipping: '1'
+  state: SD
+wootax/32587:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '57456'
+    location_type: postcode
+  name: MCPHERSON
+  order: '0'
+  priority: '0'
+  rate: '4.5'
+  shipping: '1'
+  state: SD
+wootax/32588:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '57457'
+    location_type: postcode
+  name: MCPHERSON
+  order: '0'
+  priority: '0'
+  rate: '4.5'
+  shipping: '1'
+  state: SD
+wootax/32589:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '57460'
+    location_type: postcode
+  name: BROWN
+  order: '0'
+  priority: '0'
+  rate: '4.5'
+  shipping: '1'
+  state: SD
+wootax/32590:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '57461'
+    location_type: postcode
+  name: SPINK
+  order: '0'
+  priority: '0'
+  rate: '4.5'
+  shipping: '1'
+  state: SD
+wootax/32591:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '57465'
+    location_type: postcode
+  name: SPINK
+  order: '0'
+  priority: '0'
+  rate: '4.5'
+  shipping: '1'
+  state: SD
+wootax/32592:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '57466'
+    location_type: postcode
+  name: FAULK
+  order: '0'
+  priority: '0'
+  rate: '4.5'
+  shipping: '1'
+  state: SD
+wootax/32593:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '57467'
+    location_type: postcode
+  name: HAND
+  order: '0'
+  priority: '0'
+  rate: '4.5'
+  shipping: '1'
+  state: SD
+wootax/32594:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '57468'
+    location_type: postcode
+  name: DAY
+  order: '0'
+  priority: '0'
+  rate: '4.5'
+  shipping: '1'
+  state: SD
+wootax/32595:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '57469'
+    location_type: postcode
+  name: REDFIELD
+  order: '0'
+  priority: '0'
+  rate: '6.5'
+  shipping: '1'
+  state: SD
+wootax/32596:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '57470'
+    location_type: postcode
+  name: HAND
+  order: '0'
+  priority: '0'
+  rate: '4.5'
+  shipping: '1'
+  state: SD
+wootax/32597:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '57471'
+    location_type: postcode
+  name: EDMUNDS
+  order: '0'
+  priority: '0'
+  rate: '4.5'
+  shipping: '1'
+  state: SD
+wootax/32598:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '57472'
+    location_type: postcode
+  name: WALWORTH
+  order: '0'
+  priority: '0'
+  rate: '4.5'
+  shipping: '1'
+  state: SD
+wootax/32599:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '57473'
+    location_type: postcode
+  name: FAULK
+  order: '0'
+  priority: '0'
+  rate: '4.5'
+  shipping: '1'
+  state: SD
+wootax/32600:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '57474'
+    location_type: postcode
+  name: STRATFORD
+  order: '0'
+  priority: '0'
+  rate: '6.5'
+  shipping: '1'
+  state: SD
+wootax/32601:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '57475'
+    location_type: postcode
+  name: POTTER
+  order: '0'
+  priority: '0'
+  rate: '4.5'
+  shipping: '1'
+  state: SD
+wootax/32602:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '57476'
+    location_type: postcode
+  name: SPINK
+  order: '0'
+  priority: '0'
+  rate: '4.5'
+  shipping: '1'
+  state: SD
+wootax/32603:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '57477'
+    location_type: postcode
+  name: SPINK
+  order: '0'
+  priority: '0'
+  rate: '4.5'
+  shipping: '1'
+  state: SD
+wootax/32604:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '57479'
+    location_type: postcode
+  name: WARNER
+  order: '0'
+  priority: '0'
+  rate: '6.5'
+  shipping: '1'
+  state: SD
+wootax/32605:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '57481'
+    location_type: postcode
+  name: BROWN
+  order: '0'
+  priority: '0'
+  rate: '4.5'
+  shipping: '1'
+  state: SD
+wootax/32606:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '57501'
+    location_type: postcode
+  name: PIERRE
+  order: '0'
+  priority: '0'
+  rate: '6.5'
+  shipping: '1'
+  state: SD
+wootax/32607:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '57520'
+    location_type: postcode
+  name: SULLY
+  order: '0'
+  priority: '0'
+  rate: '4.5'
+  shipping: '1'
+  state: SD
+wootax/32608:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '57521'
+    location_type: postcode
+  name: BELVIDERE
+  order: '0'
+  priority: '0'
+  rate: '6.5'
+  shipping: '1'
+  state: SD
+wootax/32609:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '57522'
+    location_type: postcode
+  name: BLUNT
+  order: '0'
+  priority: '0'
+  rate: '5.5'
+  shipping: '1'
+  state: SD
+wootax/32610:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '57523'
+    location_type: postcode
+  name: BURKE
+  order: '0'
+  priority: '0'
+  rate: '6.5'
+  shipping: '1'
+  state: SD
+wootax/32611:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '57528'
+    location_type: postcode
+  name: TRIPP
+  order: '0'
+  priority: '0'
+  rate: '4.5'
+  shipping: '1'
+  state: SD
+wootax/32612:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '57529'
+    location_type: postcode
+  name: TRIPP
+  order: '0'
+  priority: '0'
+  rate: '4.5'
+  shipping: '1'
+  state: SD
+wootax/32613:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '57531'
+    location_type: postcode
+  name: JONES
+  order: '0'
+  priority: '0'
+  rate: '4.5'
+  shipping: '1'
+  state: SD
+wootax/32614:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '57532'
+    location_type: postcode
+  name: FORT PIERRE
+  order: '0'
+  priority: '0'
+  rate: '6.5'
+  shipping: '1'
+  state: SD
+wootax/32615:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '57533'
+    location_type: postcode
+  name: GREGORY
+  order: '0'
+  priority: '0'
+  rate: '6.5'
+  shipping: '1'
+  state: SD
+wootax/32616:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '57534'
+    location_type: postcode
+  name: TRIPP
+  order: '0'
+  priority: '0'
+  rate: '4.5'
+  shipping: '1'
+  state: SD
+wootax/32617:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '57536'
+    location_type: postcode
+  name: HUGHES
+  order: '0'
+  priority: '0'
+  rate: '4.5'
+  shipping: '1'
+  state: SD
+wootax/32618:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '57537'
+    location_type: postcode
+  name: STANLEY
+  order: '0'
+  priority: '0'
+  rate: '4.5'
+  shipping: '1'
+  state: SD
+wootax/32619:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '57538'
+    location_type: postcode
+  name: HERRICK
+  order: '0'
+  priority: '0'
+  rate: '4.5'
+  shipping: '1'
+  state: SD
+wootax/32620:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '57540'
+    location_type: postcode
+  name: HYDE
+  order: '0'
+  priority: '0'
+  rate: '4.5'
+  shipping: '1'
+  state: SD
+wootax/32621:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '57541'
+    location_type: postcode
+  name: TRIPP
+  order: '0'
+  priority: '0'
+  rate: '4.5'
+  shipping: '1'
+  state: SD
+wootax/32622:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '57543'
+    location_type: postcode
+  name: KADOKA
+  order: '0'
+  priority: '0'
+  rate: '6.5'
+  shipping: '1'
+  state: SD
+wootax/32623:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '57544'
+    location_type: postcode
+  name: KENNEBEC
+  order: '0'
+  priority: '0'
+  rate: '6.5'
+  shipping: '1'
+  state: SD
+wootax/32624:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '57547'
+    location_type: postcode
+  name: JACKSON CO PINE RIDGE
+  order: '0'
+  priority: '0'
+  rate: '4.5'
+  shipping: '1'
+  state: SD
+wootax/32625:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '57548'
+    location_type: postcode
+  name: LOWER BRULE
+  order: '0'
+  priority: '0'
+  rate: '4.5'
+  shipping: '1'
+  state: SD
+wootax/32626:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '57551'
+    location_type: postcode
+  name: BENNETT
+  order: '0'
+  priority: '0'
+  rate: '4.5'
+  shipping: '1'
+  state: SD
+wootax/32627:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '57552'
+    location_type: postcode
+  name: HAAKON
+  order: '0'
+  priority: '0'
+  rate: '4.5'
+  shipping: '1'
+  state: SD
+wootax/32628:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '57553'
+    location_type: postcode
+  name: HAAKON
+  order: '0'
+  priority: '0'
+  rate: '4.5'
+  shipping: '1'
+  state: SD
+wootax/32629:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '57555'
+    location_type: postcode
+  name: TODD CO
+  order: '0'
+  priority: '0'
+  rate: '4.5'
+  shipping: '1'
+  state: SD
+wootax/32630:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '57559'
+    location_type: postcode
+  name: MURDO
+  order: '0'
+  priority: '0'
+  rate: '6.5'
+  shipping: '1'
+  state: SD
+wootax/32631:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '57560'
+    location_type: postcode
+  name: MELLETTE
+  order: '0'
+  priority: '0'
+  rate: '4.5'
+  shipping: '1'
+  state: SD
+wootax/32632:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '57562'
+    location_type: postcode
+  name: JONES
+  order: '0'
+  priority: '0'
+  rate: '4.5'
+  shipping: '1'
+  state: SD
+wootax/32633:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '57563'
+    location_type: postcode
+  name: TODD CO
+  order: '0'
+  priority: '0'
+  rate: '4.5'
+  shipping: '1'
+  state: SD
+wootax/32634:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '57564'
+    location_type: postcode
+  name: ONIDA
+  order: '0'
+  priority: '0'
+  rate: '6.5'
+  shipping: '1'
+  state: SD
+wootax/32635:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '57566'
+    location_type: postcode
+  name: TODD CO
+  order: '0'
+  priority: '0'
+  rate: '4.5'
+  shipping: '1'
+  state: SD
+wootax/32636:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '57567'
+    location_type: postcode
+  name: HAAKON
+  order: '0'
+  priority: '0'
+  rate: '4.5'
+  shipping: '1'
+  state: SD
+wootax/32637:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '57568'
+    location_type: postcode
+  name: LYMAN
+  order: '0'
+  priority: '0'
+  rate: '4.5'
+  shipping: '1'
+  state: SD
+wootax/32638:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '57569'
+    location_type: postcode
+  name: LYMAN
+  order: '0'
+  priority: '0'
+  rate: '4.5'
+  shipping: '1'
+  state: SD
+wootax/32639:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '57570'
+    location_type: postcode
+  name: TODD CO
+  order: '0'
+  priority: '0'
+  rate: '4.5'
+  shipping: '1'
+  state: SD
+wootax/32640:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '57571'
+    location_type: postcode
+  name: GREGORY
+  order: '0'
+  priority: '0'
+  rate: '4.5'
+  shipping: '1'
+  state: SD
+wootax/32641:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '57572'
+    location_type: postcode
+  name: SAINT FRANCIS
+  order: '0'
+  priority: '0'
+  rate: '4.5'
+  shipping: '1'
+  state: SD
+wootax/32642:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '57574'
+    location_type: postcode
+  name: BENNETT
+  order: '0'
+  priority: '0'
+  rate: '4.5'
+  shipping: '1'
+  state: SD
+wootax/32643:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '57576'
+    location_type: postcode
+  name: LYMAN
+  order: '0'
+  priority: '0'
+  rate: '4.5'
+  shipping: '1'
+  state: SD
+wootax/32644:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '57577'
+    location_type: postcode
+  name: JACKSON CO PINE RIDGE
+  order: '0'
+  priority: '0'
+  rate: '4.5'
+  shipping: '1'
+  state: SD
+wootax/32645:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '57579'
+    location_type: postcode
+  name: WHITE RIVER
+  order: '0'
+  priority: '0'
+  rate: '6.5'
+  shipping: '1'
+  state: SD
+wootax/32646:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '57580'
+    location_type: postcode
+  name: WINNER
+  order: '0'
+  priority: '0'
+  rate: '6.5'
+  shipping: '1'
+  state: SD
+wootax/32647:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '57584'
+    location_type: postcode
+  name: TRIPP
+  order: '0'
+  priority: '0'
+  rate: '4.5'
+  shipping: '1'
+  state: SD
+wootax/32648:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '57585'
+    location_type: postcode
+  name: MELLETTE
+  order: '0'
+  priority: '0'
+  rate: '4.5'
+  shipping: '1'
+  state: SD
+wootax/32649:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '57601'
+    location_type: postcode
+  name: MOBRIDGE
+  order: '0'
+  priority: '0'
+  rate: '6.5'
+  shipping: '1'
+  state: SD
+wootax/32650:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '57620'
+    location_type: postcode
+  name: PERKINS
+  order: '0'
+  priority: '0'
+  rate: '4.5'
+  shipping: '1'
+  state: SD
+wootax/32651:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '57621'
+    location_type: postcode
+  name: CORSON CO
+  order: '0'
+  priority: '0'
+  rate: '4.5'
+  shipping: '1'
+  state: SD
+wootax/32652:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '57622'
+    location_type: postcode
+  name: ZIEBACH CO
+  order: '0'
+  priority: '0'
+  rate: '4.5'
+  shipping: '1'
+  state: SD
+wootax/32653:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '57623'
+    location_type: postcode
+  name: DUPREE
+  order: '0'
+  priority: '0'
+  rate: '5.5'
+  shipping: '1'
+  state: SD
+wootax/32654:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '57625'
+    location_type: postcode
+  name: EAGLE BUTTE (DEWEY CO)
+  order: '0'
+  priority: '0'
+  rate: '6.5'
+  shipping: '1'
+  state: SD
+wootax/32655:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '57626'
+    location_type: postcode
+  name: MEADE
+  order: '0'
+  priority: '0'
+  rate: '4.5'
+  shipping: '1'
+  state: SD
+wootax/32656:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '57630'
+    location_type: postcode
+  name: DEWEY CO
+  order: '0'
+  priority: '0'
+  rate: '4.5'
+  shipping: '1'
+  state: SD
+wootax/32657:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '57631'
+    location_type: postcode
+  name: WALWORTH
+  order: '0'
+  priority: '0'
+  rate: '4.5'
+  shipping: '1'
+  state: SD
+wootax/32658:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '57632'
+    location_type: postcode
+  name: CAMPBELL
+  order: '0'
+  priority: '0'
+  rate: '4.5'
+  shipping: '1'
+  state: SD
+wootax/32659:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '57633'
+    location_type: postcode
+  name: ISABEL
+  order: '0'
+  priority: '0'
+  rate: '6.5'
+  shipping: '1'
+  state: SD
+wootax/32660:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '57634'
+    location_type: postcode
+  name: CORSON CO
+  order: '0'
+  priority: '0'
+  rate: '4.5'
+  shipping: '1'
+  state: SD
+wootax/32661:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '57636'
+    location_type: postcode
+  name: DEWEY CO
+  order: '0'
+  priority: '0'
+  rate: '4.5'
+  shipping: '1'
+  state: SD
+wootax/32662:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '57638'
+    location_type: postcode
+  name: LEMMON
+  order: '0'
+  priority: '0'
+  rate: '6.5'
+  shipping: '1'
+  state: SD
+wootax/32663:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '57639'
+    location_type: postcode
+  name: CORSON CO
+  order: '0'
+  priority: '0'
+  rate: '4.5'
+  shipping: '1'
+  state: SD
+wootax/32664:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '57640'
+    location_type: postcode
+  name: PERKINS
+  order: '0'
+  priority: '0'
+  rate: '4.5'
+  shipping: '1'
+  state: SD
+wootax/32665:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '57641'
+    location_type: postcode
+  name: CORSON CO
+  order: '0'
+  priority: '0'
+  rate: '4.5'
+  shipping: '1'
+  state: SD
+wootax/32666:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '57642'
+    location_type: postcode
+  name: MCLAUGHLIN
+  order: '0'
+  priority: '0'
+  rate: '6.5'
+  shipping: '1'
+  state: SD
+wootax/32667:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '57644'
+    location_type: postcode
+  name: PERKINS
+  order: '0'
+  priority: '0'
+  rate: '4.5'
+  shipping: '1'
+  state: SD
+wootax/32668:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '57645'
+    location_type: postcode
+  name: CORSON CO
+  order: '0'
+  priority: '0'
+  rate: '4.5'
+  shipping: '1'
+  state: SD
+wootax/32669:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '57646'
+    location_type: postcode
+  name: CAMPBELL
+  order: '0'
+  priority: '0'
+  rate: '4.5'
+  shipping: '1'
+  state: SD
+wootax/32670:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '57648'
+    location_type: postcode
+  name: CAMPBELL
+  order: '0'
+  priority: '0'
+  rate: '4.5'
+  shipping: '1'
+  state: SD
+wootax/32671:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '57649'
+    location_type: postcode
+  name: PERKINS
+  order: '0'
+  priority: '0'
+  rate: '4.5'
+  shipping: '1'
+  state: SD
+wootax/32672:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '57650'
+    location_type: postcode
+  name: HARDING
+  order: '0'
+  priority: '0'
+  rate: '4.5'
+  shipping: '1'
+  state: SD
+wootax/32673:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '57651'
+    location_type: postcode
+  name: HARDING
+  order: '0'
+  priority: '0'
+  rate: '4.5'
+  shipping: '1'
+  state: SD
+wootax/32674:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '57652'
+    location_type: postcode
+  name: DEWEY CO
+  order: '0'
+  priority: '0'
+  rate: '4.5'
+  shipping: '1'
+  state: SD
+wootax/32675:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '57656'
+    location_type: postcode
+  name: TIMBER LAKE
+  order: '0'
+  priority: '0'
+  rate: '6.5'
+  shipping: '1'
+  state: SD
+wootax/32676:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '57657'
+    location_type: postcode
+  name: CORSON CO
+  order: '0'
+  priority: '0'
+  rate: '4.5'
+  shipping: '1'
+  state: SD
+wootax/32677:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '57658'
+    location_type: postcode
+  name: CORSON CO
+  order: '0'
+  priority: '0'
+  rate: '4.5'
+  shipping: '1'
+  state: SD
+wootax/32678:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '57659'
+    location_type: postcode
+  name: CORSON CO
+  order: '0'
+  priority: '0'
+  rate: '4.5'
+  shipping: '1'
+  state: SD
+wootax/32679:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '57660'
+    location_type: postcode
+  name: CORSON CO
+  order: '0'
+  priority: '0'
+  rate: '4.5'
+  shipping: '1'
+  state: SD
+wootax/32680:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '57661'
+    location_type: postcode
+  name: DEWEY CO
+  order: '0'
+  priority: '0'
+  rate: '4.5'
+  shipping: '1'
+  state: SD
+wootax/32681:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '57701'
+    location_type: postcode
+  name: RAPID CITY BUSINESS IMPROVEMENT DISTRICT NO. 1
+  order: '0'
+  priority: '0'
+  rate: '6.5'
+  shipping: '1'
+  state: SD
+wootax/32682:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '57702'
+    location_type: postcode
+  name: RAPID CITY BUSINESS IMPROVEMENT DISTRICT NO. 1
+  order: '0'
+  priority: '0'
+  rate: '6.5'
+  shipping: '1'
+  state: SD
+wootax/32683:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '57703'
+    location_type: postcode
+  name: PENNINGTON
+  order: '0'
+  priority: '0'
+  rate: '4.5'
+  shipping: '1'
+  state: SD
+wootax/32684:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '57706'
+    location_type: postcode
+  name: BOX ELDER
+  order: '0'
+  priority: '0'
+  rate: '6.5'
+  shipping: '1'
+  state: SD
+wootax/32685:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '57709'
+    location_type: postcode
+  name: RAPID CITY BUSINESS IMPROVEMENT DISTRICT NO. 1
+  order: '0'
+  priority: '0'
+  rate: '6.5'
+  shipping: '1'
+  state: SD
+wootax/32686:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '57714'
+    location_type: postcode
+  name: BENNETT
+  order: '0'
+  priority: '0'
+  rate: '4.5'
+  shipping: '1'
+  state: SD
+wootax/32687:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '57716'
+    location_type: postcode
+  name: OGLALA LAKOTA CO
+  order: '0'
+  priority: '0'
+  rate: '4.5'
+  shipping: '1'
+  state: SD
+wootax/32688:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '57717'
+    location_type: postcode
+  name: BELLE FOURCHE
+  order: '0'
+  priority: '0'
+  rate: '6.5'
+  shipping: '1'
+  state: SD
+wootax/32689:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '57718'
+    location_type: postcode
+  name: MEADE
+  order: '0'
+  priority: '0'
+  rate: '4.5'
+  shipping: '1'
+  state: SD
+wootax/32690:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '57719'
+    location_type: postcode
+  name: BOX ELDER
+  order: '0'
+  priority: '0'
+  rate: '6.5'
+  shipping: '1'
+  state: SD
+wootax/32691:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '57720'
+    location_type: postcode
+  name: HARDING
+  order: '0'
+  priority: '0'
+  rate: '4.5'
+  shipping: '1'
+  state: SD
+wootax/32692:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '57722'
+    location_type: postcode
+  name: BUFFALO GAP
+  order: '0'
+  priority: '0'
+  rate: '4.5'
+  shipping: '1'
+  state: SD
+wootax/32693:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '57724'
+    location_type: postcode
+  name: CAMP CROOK
+  order: '0'
+  priority: '0'
+  rate: '5.5'
+  shipping: '1'
+  state: SD
+wootax/32694:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '57725'
+    location_type: postcode
+  name: PENNINGTON
+  order: '0'
+  priority: '0'
+  rate: '4.5'
+  shipping: '1'
+  state: SD
+wootax/32695:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '57730'
+    location_type: postcode
+  name: CUSTER
+  order: '0'
+  priority: '0'
+  rate: '6.5'
+  shipping: '1'
+  state: SD
+wootax/32696:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '57732'
+    location_type: postcode
+  name: DEADWOOD BUSINESS IMPROVEMENT DISTRICT NO. 7
+  order: '0'
+  priority: '0'
+  rate: '6.5'
+  shipping: '1'
+  state: SD
+wootax/32697:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '57735'
+    location_type: postcode
+  name: EDGEMONT
+  order: '0'
+  priority: '0'
+  rate: '6.5'
+  shipping: '1'
+  state: SD
+wootax/32698:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '57737'
+    location_type: postcode
+  name: MEADE
+  order: '0'
+  priority: '0'
+  rate: '4.5'
+  shipping: '1'
+  state: SD
+wootax/32699:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '57738'
+    location_type: postcode
+  name: FAIRBURN
+  order: '0'
+  priority: '0'
+  rate: '4.5'
+  shipping: '1'
+  state: SD
+wootax/32700:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '57741'
+    location_type: postcode
+  name: MEADE
+  order: '0'
+  priority: '0'
+  rate: '4.5'
+  shipping: '1'
+  state: SD
+wootax/32701:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '57744'
+    location_type: postcode
+  name: CUSTER
+  order: '0'
+  priority: '0'
+  rate: '4.5'
+  shipping: '1'
+  state: SD
+wootax/32702:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '57745'
+    location_type: postcode
+  name: PENNINGTON
+  order: '0'
+  priority: '0'
+  rate: '4.5'
+  shipping: '1'
+  state: SD
+wootax/32703:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '57747'
+    location_type: postcode
+  name: HOT SPRINGS BUSINESS IMPROVEMENT DISTRICT NO. 1
+  order: '0'
+  priority: '0'
+  rate: '6.5'
+  shipping: '1'
+  state: SD
+wootax/32704:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '57748'
+    location_type: postcode
+  name: MEADE
+  order: '0'
+  priority: '0'
+  rate: '4.5'
+  shipping: '1'
+  state: SD
+wootax/32705:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '57750'
+    location_type: postcode
+  name: JACKSON
+  order: '0'
+  priority: '0'
+  rate: '4.5'
+  shipping: '1'
+  state: SD
+wootax/32706:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '57751'
+    location_type: postcode
+  name: KEYSTONE
+  order: '0'
+  priority: '0'
+  rate: '6.5'
+  shipping: '1'
+  state: SD
+wootax/32707:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '57752'
+    location_type: postcode
+  name: OGLALA LAKOTA CO
+  order: '0'
+  priority: '0'
+  rate: '4.5'
+  shipping: '1'
+  state: SD
+wootax/32708:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '57754'
+    location_type: postcode
+  name: LEAD
+  order: '0'
+  priority: '0'
+  rate: '6.5'
+  shipping: '1'
+  state: SD
+wootax/32709:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '57755'
+    location_type: postcode
+  name: HARDING
+  order: '0'
+  priority: '0'
+  rate: '4.5'
+  shipping: '1'
+  state: SD
+wootax/32710:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '57756'
+    location_type: postcode
+  name: OGLALA LAKOTA CO
+  order: '0'
+  priority: '0'
+  rate: '4.5'
+  shipping: '1'
+  state: SD
+wootax/32711:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '57758'
+    location_type: postcode
+  name: MEADE
+  order: '0'
+  priority: '0'
+  rate: '4.5'
+  shipping: '1'
+  state: SD
+wootax/32712:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '57759'
+    location_type: postcode
+  name: LAWRENCE
+  order: '0'
+  priority: '0'
+  rate: '4.5'
+  shipping: '1'
+  state: SD
+wootax/32713:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '57760'
+    location_type: postcode
+  name: BUTTE
+  order: '0'
+  priority: '0'
+  rate: '4.5'
+  shipping: '1'
+  state: SD
+wootax/32714:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '57761'
+    location_type: postcode
+  name: NEW UNDERWOOD
+  order: '0'
+  priority: '0'
+  rate: '6.5'
+  shipping: '1'
+  state: SD
+wootax/32715:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '57762'
+    location_type: postcode
+  name: BUTTE
+  order: '0'
+  priority: '0'
+  rate: '4.5'
+  shipping: '1'
+  state: SD
+wootax/32716:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '57763'
+    location_type: postcode
+  name: OELRICHS
+  order: '0'
+  priority: '0'
+  rate: '4.5'
+  shipping: '1'
+  state: SD
+wootax/32717:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '57764'
+    location_type: postcode
+  name: OGLALA LAKOTA CO
+  order: '0'
+  priority: '0'
+  rate: '4.5'
+  shipping: '1'
+  state: SD
+wootax/32718:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '57766'
+    location_type: postcode
+  name: FALL RIVER
+  order: '0'
+  priority: '0'
+  rate: '4.5'
+  shipping: '1'
+  state: SD
+wootax/32719:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '57767'
+    location_type: postcode
+  name: PENNINGTON
+  order: '0'
+  priority: '0'
+  rate: '4.5'
+  shipping: '1'
+  state: SD
+wootax/32720:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '57769'
+    location_type: postcode
+  name: MEADE
+  order: '0'
+  priority: '0'
+  rate: '4.5'
+  shipping: '1'
+  state: SD
+wootax/32721:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '57770'
+    location_type: postcode
+  name: OGLALA LAKOTA CO
+  order: '0'
+  priority: '0'
+  rate: '4.5'
+  shipping: '1'
+  state: SD
+wootax/32722:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '57772'
+    location_type: postcode
+  name: OGLALA LAKOTA CO
+  order: '0'
+  priority: '0'
+  rate: '4.5'
+  shipping: '1'
+  state: SD
+wootax/32723:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '57773'
+    location_type: postcode
+  name: PRINGLE
+  order: '0'
+  priority: '0'
+  rate: '6.5'
+  shipping: '1'
+  state: SD
+wootax/32724:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '57775'
+    location_type: postcode
+  name: PENNINGTON
+  order: '0'
+  priority: '0'
+  rate: '4.5'
+  shipping: '1'
+  state: SD
+wootax/32725:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '57776'
+    location_type: postcode
+  name: HARDING
+  order: '0'
+  priority: '0'
+  rate: '4.5'
+  shipping: '1'
+  state: SD
+wootax/32726:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '57779'
+    location_type: postcode
+  name: LAWRENCE
+  order: '0'
+  priority: '0'
+  rate: '4.5'
+  shipping: '1'
+  state: SD
+wootax/32727:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '57780'
+    location_type: postcode
+  name: PENNINGTON
+  order: '0'
+  priority: '0'
+  rate: '4.5'
+  shipping: '1'
+  state: SD
+wootax/32728:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '57782'
+    location_type: postcode
+  name: FALL RIVER
+  order: '0'
+  priority: '0'
+  rate: '4.5'
+  shipping: '1'
+  state: SD
+wootax/32729:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '57783'
+    location_type: postcode
+  name: SPEARFISH
+  order: '0'
+  priority: '0'
+  rate: '6.5'
+  shipping: '1'
+  state: SD
+wootax/32730:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '57785'
+    location_type: postcode
+  name: STURGIS
+  order: '0'
+  priority: '0'
+  rate: '6.5'
+  shipping: '1'
+  state: SD
+wootax/32731:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '57787'
+    location_type: postcode
+  name: MEADE
+  order: '0'
+  priority: '0'
+  rate: '4.5'
+  shipping: '1'
+  state: SD
+wootax/32732:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '57788'
+    location_type: postcode
+  name: MEADE
+  order: '0'
+  priority: '0'
+  rate: '4.5'
+  shipping: '1'
+  state: SD
+wootax/32733:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '57790'
+    location_type: postcode
+  name: PENNINGTON
+  order: '0'
+  priority: '0'
+  rate: '4.5'
+  shipping: '1'
+  state: SD
+wootax/32734:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '57791'
+    location_type: postcode
+  name: MEADE
+  order: '0'
+  priority: '0'
+  rate: '4.5'
+  shipping: '1'
+  state: SD
+wootax/32735:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '57792'
+    location_type: postcode
+  name: MEADE
+  order: '0'
+  priority: '0'
+  rate: '4.5'
+  shipping: '1'
+  state: SD
+wootax/32736:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '57793'
+    location_type: postcode
+  name: WHITEWOOD
+  order: '0'
+  priority: '0'
+  rate: '6.5'
+  shipping: '1'
+  state: SD
+wootax/32737:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '57794'
+    location_type: postcode
+  name: OGLALA LAKOTA CO
+  order: '0'
+  priority: '0'
+  rate: '4.5'
+  shipping: '1'
+  state: SD
+wootax/32738:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '57799'
+    location_type: postcode
+  name: SPEARFISH
+  order: '0'
+  priority: '0'
+  rate: '6.5'
+  shipping: '1'
+  state: SD

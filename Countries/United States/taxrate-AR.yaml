@@ -1,0 +1,8944 @@
+wootax/1022:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '71601'
+    location_type: postcode
+  name: PINE BLUFF
+  order: '0'
+  priority: '0'
+  rate: '10'
+  shipping: '1'
+  state: AR
+wootax/1023:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '71602'
+    location_type: postcode
+  name: PINE BLUFF
+  order: '0'
+  priority: '0'
+  rate: '10'
+  shipping: '1'
+  state: AR
+wootax/1024:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '71603'
+    location_type: postcode
+  name: PINE BLUFF
+  order: '0'
+  priority: '0'
+  rate: '10'
+  shipping: '1'
+  state: AR
+wootax/1025:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '71630'
+    location_type: postcode
+  name: ARKANSAS CITY
+  order: '0'
+  priority: '0'
+  rate: '8'
+  shipping: '1'
+  state: AR
+wootax/1026:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '71631'
+    location_type: postcode
+  name: BRADLEY COUNTY
+  order: '0'
+  priority: '0'
+  rate: '8.5'
+  shipping: '1'
+  state: AR
+wootax/1027:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '71635'
+    location_type: postcode
+  name: ASHLEY COUNTY
+  order: '0'
+  priority: '0'
+  rate: '8'
+  shipping: '1'
+  state: AR
+wootax/1028:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '71638'
+    location_type: postcode
+  name: DERMOTT
+  order: '0'
+  priority: '0'
+  rate: '10.5'
+  shipping: '1'
+  state: AR
+wootax/1029:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '71639'
+    location_type: postcode
+  name: DUMAS
+  order: '0'
+  priority: '0'
+  rate: '10.5'
+  shipping: '1'
+  state: AR
+wootax/1030:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '71640'
+    location_type: postcode
+  name: EUDORA
+  order: '0'
+  priority: '0'
+  rate: '10.5'
+  shipping: '1'
+  state: AR
+wootax/1031:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '71642'
+    location_type: postcode
+  name: ASHLEY COUNTY
+  order: '0'
+  priority: '0'
+  rate: '8'
+  shipping: '1'
+  state: AR
+wootax/1032:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '71643'
+    location_type: postcode
+  name: GOULD
+  order: '0'
+  priority: '0'
+  rate: '11.5'
+  shipping: '1'
+  state: AR
+wootax/1033:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '71644'
+    location_type: postcode
+  name: JEFFERSON COUNTY
+  order: '0'
+  priority: '0'
+  rate: '7.75'
+  shipping: '1'
+  state: AR
+wootax/1034:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '71646'
+    location_type: postcode
+  name: ASHLEY COUNTY
+  order: '0'
+  priority: '0'
+  rate: '8'
+  shipping: '1'
+  state: AR
+wootax/1035:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '71647'
+    location_type: postcode
+  name: BRADLEY COUNTY
+  order: '0'
+  priority: '0'
+  rate: '8.5'
+  shipping: '1'
+  state: AR
+wootax/1036:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '71651'
+    location_type: postcode
+  name: BRADLEY COUNTY
+  order: '0'
+  priority: '0'
+  rate: '8.5'
+  shipping: '1'
+  state: AR
+wootax/1037:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '71652'
+    location_type: postcode
+  name: CLEVELAND COUNTY
+  order: '0'
+  priority: '0'
+  rate: '9.75'
+  shipping: '1'
+  state: AR
+wootax/1038:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '71653'
+    location_type: postcode
+  name: LAKE VILLAGE
+  order: '0'
+  priority: '0'
+  rate: '10.5'
+  shipping: '1'
+  state: AR
+wootax/1039:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '71654'
+    location_type: postcode
+  name: MCGEHEE
+  order: '0'
+  priority: '0'
+  rate: '11'
+  shipping: '1'
+  state: AR
+wootax/1040:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '71655'
+    location_type: postcode
+  name: MONTICELLO
+  order: '0'
+  priority: '0'
+  rate: '9.75'
+  shipping: '1'
+  state: AR
+wootax/1041:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '71658'
+    location_type: postcode
+  name: ASHLEY COUNTY
+  order: '0'
+  priority: '0'
+  rate: '8'
+  shipping: '1'
+  state: AR
+wootax/1042:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '71659'
+    location_type: postcode
+  name: JEFFERSON COUNTY
+  order: '0'
+  priority: '0'
+  rate: '7.75'
+  shipping: '1'
+  state: AR
+wootax/1043:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '71660'
+    location_type: postcode
+  name: CLEVELAND COUNTY
+  order: '0'
+  priority: '0'
+  rate: '9.75'
+  shipping: '1'
+  state: AR
+wootax/1044:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '71661'
+    location_type: postcode
+  name: ASHLEY COUNTY
+  order: '0'
+  priority: '0'
+  rate: '8'
+  shipping: '1'
+  state: AR
+wootax/1045:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '71662'
+    location_type: postcode
+  name: DESHA COUNTY
+  order: '0'
+  priority: '0'
+  rate: '8'
+  shipping: '1'
+  state: AR
+wootax/1046:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '71663'
+    location_type: postcode
+  name: ASHLEY COUNTY
+  order: '0'
+  priority: '0'
+  rate: '8'
+  shipping: '1'
+  state: AR
+wootax/1047:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '71665'
+    location_type: postcode
+  name: CLEVELAND COUNTY
+  order: '0'
+  priority: '0'
+  rate: '9.75'
+  shipping: '1'
+  state: AR
+wootax/1048:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '71667'
+    location_type: postcode
+  name: LINCOLN COUNTY
+  order: '0'
+  priority: '0'
+  rate: '8.5'
+  shipping: '1'
+  state: AR
+wootax/1049:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '71670'
+    location_type: postcode
+  name: DESHA COUNTY
+  order: '0'
+  priority: '0'
+  rate: '8'
+  shipping: '1'
+  state: AR
+wootax/1050:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '71671'
+    location_type: postcode
+  name: WARREN
+  order: '0'
+  priority: '0'
+  rate: '9.5'
+  shipping: '1'
+  state: AR
+wootax/1051:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '71674'
+    location_type: postcode
+  name: DESHA COUNTY
+  order: '0'
+  priority: '0'
+  rate: '8'
+  shipping: '1'
+  state: AR
+wootax/1052:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '71675'
+    location_type: postcode
+  name: DREW COUNTY
+  order: '0'
+  priority: '0'
+  rate: '8.75'
+  shipping: '1'
+  state: AR
+wootax/1053:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '71676'
+    location_type: postcode
+  name: ASHLEY COUNTY
+  order: '0'
+  priority: '0'
+  rate: '8'
+  shipping: '1'
+  state: AR
+wootax/1054:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '71677'
+    location_type: postcode
+  name: WINCHESTER
+  order: '0'
+  priority: '0'
+  rate: '8.75'
+  shipping: '1'
+  state: AR
+wootax/1055:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '71678'
+    location_type: postcode
+  name: LINCOLN COUNTY
+  order: '0'
+  priority: '0'
+  rate: '8.5'
+  shipping: '1'
+  state: AR
+wootax/1056:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '71701'
+    location_type: postcode
+  name: CAMDEN
+  order: '0'
+  priority: '0'
+  rate: '11.25'
+  shipping: '1'
+  state: AR
+wootax/1057:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '71720'
+    location_type: postcode
+  name: OUACHITA COUNTY
+  order: '0'
+  priority: '0'
+  rate: '9.5'
+  shipping: '1'
+  state: AR
+wootax/1058:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '71721'
+    location_type: postcode
+  name: CLARK COUNTY
+  order: '0'
+  priority: '0'
+  rate: '8'
+  shipping: '1'
+  state: AR
+wootax/1059:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '71722'
+    location_type: postcode
+  name: BLUFF CITY
+  order: '0'
+  priority: '0'
+  rate: '8.5'
+  shipping: '1'
+  state: AR
+wootax/1060:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '71724'
+    location_type: postcode
+  name: CALION
+  order: '0'
+  priority: '0'
+  rate: '8.5'
+  shipping: '1'
+  state: AR
+wootax/1061:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '71725'
+    location_type: postcode
+  name: DALLAS COUNTY
+  order: '0'
+  priority: '0'
+  rate: '8.5'
+  shipping: '1'
+  state: AR
+wootax/1062:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '71726'
+    location_type: postcode
+  name: OUACHITA COUNTY
+  order: '0'
+  priority: '0'
+  rate: '9.5'
+  shipping: '1'
+  state: AR
+wootax/1063:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '71728'
+    location_type: postcode
+  name: CLARK COUNTY
+  order: '0'
+  priority: '0'
+  rate: '8'
+  shipping: '1'
+  state: AR
+wootax/1064:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '71730'
+    location_type: postcode
+  name: EL DORADO
+  order: '0'
+  priority: '0'
+  rate: '9.75'
+  shipping: '1'
+  state: AR
+wootax/1065:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '71731'
+    location_type: postcode
+  name: EL DORADO
+  order: '0'
+  priority: '0'
+  rate: '9.75'
+  shipping: '1'
+  state: AR
+wootax/1066:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '71740'
+    location_type: postcode
+  name: COLUMBIA COUNTY
+  order: '0'
+  priority: '0'
+  rate: '8'
+  shipping: '1'
+  state: AR
+wootax/1067:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '71742'
+    location_type: postcode
+  name: FORDYCE
+  order: '0'
+  priority: '0'
+  rate: '10'
+  shipping: '1'
+  state: AR
+wootax/1068:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '71743'
+    location_type: postcode
+  name: GURDON
+  order: '0'
+  priority: '0'
+  rate: '9.5'
+  shipping: '1'
+  state: AR
+wootax/1069:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '71744'
+    location_type: postcode
+  name: CALHOUN COUNTY
+  order: '0'
+  priority: '0'
+  rate: '9'
+  shipping: '1'
+  state: AR
+wootax/1070:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '71745'
+    location_type: postcode
+  name: HARRELL
+  order: '0'
+  priority: '0'
+  rate: '9'
+  shipping: '1'
+  state: AR
+wootax/1071:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '71747'
+    location_type: postcode
+  name: UNION COUNTY
+  order: '0'
+  priority: '0'
+  rate: '8.5'
+  shipping: '1'
+  state: AR
+wootax/1072:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '71748'
+    location_type: postcode
+  name: DALLAS COUNTY
+  order: '0'
+  priority: '0'
+  rate: '8.5'
+  shipping: '1'
+  state: AR
+wootax/1073:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '71749'
+    location_type: postcode
+  name: UNION COUNTY
+  order: '0'
+  priority: '0'
+  rate: '8.5'
+  shipping: '1'
+  state: AR
+wootax/1074:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '71750'
+    location_type: postcode
+  name: UNION COUNTY
+  order: '0'
+  priority: '0'
+  rate: '8.5'
+  shipping: '1'
+  state: AR
+wootax/1075:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '71751'
+    location_type: postcode
+  name: OUACHITA COUNTY
+  order: '0'
+  priority: '0'
+  rate: '9.5'
+  shipping: '1'
+  state: AR
+wootax/1076:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '71752'
+    location_type: postcode
+  name: COLUMBIA COUNTY
+  order: '0'
+  priority: '0'
+  rate: '8'
+  shipping: '1'
+  state: AR
+wootax/1077:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '71753'
+    location_type: postcode
+  name: MAGNOLIA
+  order: '0'
+  priority: '0'
+  rate: '10.375'
+  shipping: '1'
+  state: AR
+wootax/1078:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '71754'
+    location_type: postcode
+  name: MAGNOLIA
+  order: '0'
+  priority: '0'
+  rate: '10.375'
+  shipping: '1'
+  state: AR
+wootax/1079:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '71758'
+    location_type: postcode
+  name: UNION COUNTY
+  order: '0'
+  priority: '0'
+  rate: '8.5'
+  shipping: '1'
+  state: AR
+wootax/1080:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '71759'
+    location_type: postcode
+  name: NORPHLET
+  order: '0'
+  priority: '0'
+  rate: '8.5'
+  shipping: '1'
+  state: AR
+wootax/1081:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '71762'
+    location_type: postcode
+  name: SMACKOVER
+  order: '0'
+  priority: '0'
+  rate: '8.5'
+  shipping: '1'
+  state: AR
+wootax/1082:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '71763'
+    location_type: postcode
+  name: DALLAS COUNTY
+  order: '0'
+  priority: '0'
+  rate: '8.5'
+  shipping: '1'
+  state: AR
+wootax/1083:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '71764'
+    location_type: postcode
+  name: OUACHITA COUNTY
+  order: '0'
+  priority: '0'
+  rate: '9.5'
+  shipping: '1'
+  state: AR
+wootax/1084:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '71765'
+    location_type: postcode
+  name: UNION COUNTY
+  order: '0'
+  priority: '0'
+  rate: '8.5'
+  shipping: '1'
+  state: AR
+wootax/1085:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '71766'
+    location_type: postcode
+  name: THORNTON
+  order: '0'
+  priority: '0'
+  rate: '10'
+  shipping: '1'
+  state: AR
+wootax/1086:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '71770'
+    location_type: postcode
+  name: COLUMBIA COUNTY
+  order: '0'
+  priority: '0'
+  rate: '8'
+  shipping: '1'
+  state: AR
+wootax/1087:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '71772'
+    location_type: postcode
+  name: WHELEN SPRINGS
+  order: '0'
+  priority: '0'
+  rate: '8'
+  shipping: '1'
+  state: AR
+wootax/1088:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '71801'
+    location_type: postcode
+  name: HOPE
+  order: '0'
+  priority: '0'
+  rate: '9.5'
+  shipping: '1'
+  state: AR
+wootax/1089:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '71820'
+    location_type: postcode
+  name: LITTLE RIVER COUNTY
+  order: '0'
+  priority: '0'
+  rate: '8.75'
+  shipping: '1'
+  state: AR
+wootax/1090:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '71822'
+    location_type: postcode
+  name: ASHDOWN
+  order: '0'
+  priority: '0'
+  rate: '10.75'
+  shipping: '1'
+  state: AR
+wootax/1091:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '71823'
+    location_type: postcode
+  name: BEN LOMOND
+  order: '0'
+  priority: '0'
+  rate: '8.625'
+  shipping: '1'
+  state: AR
+wootax/1092:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '71825'
+    location_type: postcode
+  name: HEMPSTEAD COUNTY
+  order: '0'
+  priority: '0'
+  rate: '8.5'
+  shipping: '1'
+  state: AR
+wootax/1093:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '71826'
+    location_type: postcode
+  name: LAFAYETTE COUNTY
+  order: '0'
+  priority: '0'
+  rate: '8.75'
+  shipping: '1'
+  state: AR
+wootax/1094:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '71827'
+    location_type: postcode
+  name: LAFAYETTE COUNTY
+  order: '0'
+  priority: '0'
+  rate: '8.75'
+  shipping: '1'
+  state: AR
+wootax/1095:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '71828'
+    location_type: postcode
+  name: CALE
+  order: '0'
+  priority: '0'
+  rate: '8.5'
+  shipping: '1'
+  state: AR
+wootax/1096:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '71831'
+    location_type: postcode
+  name: HEMPSTEAD COUNTY
+  order: '0'
+  priority: '0'
+  rate: '8.5'
+  shipping: '1'
+  state: AR
+wootax/1097:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '71832'
+    location_type: postcode
+  name: DE QUEEN
+  order: '0'
+  priority: '0'
+  rate: '9.625'
+  shipping: '1'
+  state: AR
+wootax/1098:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '71833'
+    location_type: postcode
+  name: HOWARD COUNTY
+  order: '0'
+  priority: '0'
+  rate: '9.25'
+  shipping: '1'
+  state: AR
+wootax/1099:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '71834'
+    location_type: postcode
+  name: MILLER COUNTY
+  order: '0'
+  priority: '0'
+  rate: '7.75'
+  shipping: '1'
+  state: AR
+wootax/1100:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '71835'
+    location_type: postcode
+  name: NEVADA COUNTY
+  order: '0'
+  priority: '0'
+  rate: '8.5'
+  shipping: '1'
+  state: AR
+wootax/1101:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '71836'
+    location_type: postcode
+  name: LITTLE RIVER COUNTY
+  order: '0'
+  priority: '0'
+  rate: '8.75'
+  shipping: '1'
+  state: AR
+wootax/1102:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '71837'
+    location_type: postcode
+  name: MILLER COUNTY
+  order: '0'
+  priority: '0'
+  rate: '7.75'
+  shipping: '1'
+  state: AR
+wootax/1103:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '71838'
+    location_type: postcode
+  name: HEMPSTEAD COUNTY
+  order: '0'
+  priority: '0'
+  rate: '8.5'
+  shipping: '1'
+  state: AR
+wootax/1104:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '71839'
+    location_type: postcode
+  name: GARLAND (CITY)
+  order: '0'
+  priority: '0'
+  rate: '8.75'
+  shipping: '1'
+  state: AR
+wootax/1105:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '71840'
+    location_type: postcode
+  name: MILLER COUNTY
+  order: '0'
+  priority: '0'
+  rate: '7.75'
+  shipping: '1'
+  state: AR
+wootax/1106:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '71841'
+    location_type: postcode
+  name: SEVIER COUNTY
+  order: '0'
+  priority: '0'
+  rate: '8.625'
+  shipping: '1'
+  state: AR
+wootax/1107:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '71842'
+    location_type: postcode
+  name: SEVIER COUNTY
+  order: '0'
+  priority: '0'
+  rate: '8.625'
+  shipping: '1'
+  state: AR
+wootax/1108:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '71845'
+    location_type: postcode
+  name: LEWISVILLE
+  order: '0'
+  priority: '0'
+  rate: '9.75'
+  shipping: '1'
+  state: AR
+wootax/1109:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '71846'
+    location_type: postcode
+  name: SEVIER COUNTY
+  order: '0'
+  priority: '0'
+  rate: '8.625'
+  shipping: '1'
+  state: AR
+wootax/1110:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '71847'
+    location_type: postcode
+  name: HEMPSTEAD COUNTY
+  order: '0'
+  priority: '0'
+  rate: '8.5'
+  shipping: '1'
+  state: AR
+wootax/1111:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '71851'
+    location_type: postcode
+  name: HOWARD COUNTY
+  order: '0'
+  priority: '0'
+  rate: '9.25'
+  shipping: '1'
+  state: AR
+wootax/1112:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '71852'
+    location_type: postcode
+  name: NASHVILLE
+  order: '0'
+  priority: '0'
+  rate: '10.25'
+  shipping: '1'
+  state: AR
+wootax/1113:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '71853'
+    location_type: postcode
+  name: LITTLE RIVER COUNTY
+  order: '0'
+  priority: '0'
+  rate: '8.75'
+  shipping: '1'
+  state: AR
+wootax/1114:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '71854'
+    location_type: postcode
+  name: TEXARKANA
+  order: '0'
+  priority: '0'
+  rate: '10.25'
+  shipping: '1'
+  state: AR
+wootax/1115:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '71855'
+    location_type: postcode
+  name: HEMPSTEAD COUNTY
+  order: '0'
+  priority: '0'
+  rate: '8.5'
+  shipping: '1'
+  state: AR
+wootax/1116:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '71857'
+    location_type: postcode
+  name: PRESCOTT
+  order: '0'
+  priority: '0'
+  rate: '9.5'
+  shipping: '1'
+  state: AR
+wootax/1117:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '71858'
+    location_type: postcode
+  name: NEVADA COUNTY
+  order: '0'
+  priority: '0'
+  rate: '8.5'
+  shipping: '1'
+  state: AR
+wootax/1118:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '71859'
+    location_type: postcode
+  name: HEMPSTEAD COUNTY
+  order: '0'
+  priority: '0'
+  rate: '8.5'
+  shipping: '1'
+  state: AR
+wootax/1119:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '71860'
+    location_type: postcode
+  name: STAMPS
+  order: '0'
+  priority: '0'
+  rate: '9.75'
+  shipping: '1'
+  state: AR
+wootax/1120:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '71861'
+    location_type: postcode
+  name: COLUMBIA COUNTY
+  order: '0'
+  priority: '0'
+  rate: '8'
+  shipping: '1'
+  state: AR
+wootax/1121:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '71862'
+    location_type: postcode
+  name: HEMPSTEAD COUNTY
+  order: '0'
+  priority: '0'
+  rate: '8.5'
+  shipping: '1'
+  state: AR
+wootax/1122:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '71864'
+    location_type: postcode
+  name: WILLISVILLE
+  order: '0'
+  priority: '0'
+  rate: '8.5'
+  shipping: '1'
+  state: AR
+wootax/1123:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '71865'
+    location_type: postcode
+  name: WILTON
+  order: '0'
+  priority: '0'
+  rate: '9.75'
+  shipping: '1'
+  state: AR
+wootax/1124:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '71866'
+    location_type: postcode
+  name: LITTLE RIVER COUNTY
+  order: '0'
+  priority: '0'
+  rate: '8.75'
+  shipping: '1'
+  state: AR
+wootax/1125:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '71901'
+    location_type: postcode
+  name: HOT SPRINGS (CITY)
+  order: '0'
+  priority: '0'
+  rate: '9.5'
+  shipping: '1'
+  state: AR
+wootax/1126:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '71902'
+    location_type: postcode
+  name: HOT SPRINGS (CITY)
+  order: '0'
+  priority: '0'
+  rate: '9.5'
+  shipping: '1'
+  state: AR
+wootax/1127:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '71903'
+    location_type: postcode
+  name: HOT SPRINGS (CITY)
+  order: '0'
+  priority: '0'
+  rate: '9.5'
+  shipping: '1'
+  state: AR
+wootax/1128:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '71909'
+    location_type: postcode
+  name: GARLAND COUNTY
+  order: '0'
+  priority: '0'
+  rate: '8'
+  shipping: '1'
+  state: AR
+wootax/1129:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '71910'
+    location_type: postcode
+  name: GARLAND COUNTY
+  order: '0'
+  priority: '0'
+  rate: '8'
+  shipping: '1'
+  state: AR
+wootax/1130:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '71913'
+    location_type: postcode
+  name: HOT SPRINGS (CITY)
+  order: '0'
+  priority: '0'
+  rate: '9.5'
+  shipping: '1'
+  state: AR
+wootax/1131:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '71914'
+    location_type: postcode
+  name: HOT SPRINGS (CITY)
+  order: '0'
+  priority: '0'
+  rate: '9.5'
+  shipping: '1'
+  state: AR
+wootax/1132:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '71921'
+    location_type: postcode
+  name: CLARK COUNTY
+  order: '0'
+  priority: '0'
+  rate: '8'
+  shipping: '1'
+  state: AR
+wootax/1133:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '71922'
+    location_type: postcode
+  name: ANTOINE
+  order: '0'
+  priority: '0'
+  rate: '8.5'
+  shipping: '1'
+  state: AR
+wootax/1134:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '71923'
+    location_type: postcode
+  name: ARKADELPHIA
+  order: '0'
+  priority: '0'
+  rate: '9'
+  shipping: '1'
+  state: AR
+wootax/1135:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '71929'
+    location_type: postcode
+  name: HOT SPRING COUNTY
+  order: '0'
+  priority: '0'
+  rate: '8'
+  shipping: '1'
+  state: AR
+wootax/1136:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '71932'
+    location_type: postcode
+  name: POLK COUNTY
+  order: '0'
+  priority: '0'
+  rate: '8.5'
+  shipping: '1'
+  state: AR
+wootax/1137:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '71933'
+    location_type: postcode
+  name: HOT SPRING COUNTY
+  order: '0'
+  priority: '0'
+  rate: '8'
+  shipping: '1'
+  state: AR
+wootax/1138:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '71935'
+    location_type: postcode
+  name: MONTGOMERY COUNTY
+  order: '0'
+  priority: '0'
+  rate: '9.5'
+  shipping: '1'
+  state: AR
+wootax/1139:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '71937'
+    location_type: postcode
+  name: POLK COUNTY
+  order: '0'
+  priority: '0'
+  rate: '8.5'
+  shipping: '1'
+  state: AR
+wootax/1140:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '71940'
+    location_type: postcode
+  name: PIKE COUNTY
+  order: '0'
+  priority: '0'
+  rate: '8.5'
+  shipping: '1'
+  state: AR
+wootax/1141:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '71941'
+    location_type: postcode
+  name: HOT SPRING COUNTY
+  order: '0'
+  priority: '0'
+  rate: '8'
+  shipping: '1'
+  state: AR
+wootax/1142:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '71942'
+    location_type: postcode
+  name: FRIENDSHIP
+  order: '0'
+  priority: '0'
+  rate: '8'
+  shipping: '1'
+  state: AR
+wootax/1143:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '71943'
+    location_type: postcode
+  name: GLENWOOD
+  order: '0'
+  priority: '0'
+  rate: '10'
+  shipping: '1'
+  state: AR
+wootax/1144:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '71944'
+    location_type: postcode
+  name: POLK COUNTY
+  order: '0'
+  priority: '0'
+  rate: '8.5'
+  shipping: '1'
+  state: AR
+wootax/1145:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '71945'
+    location_type: postcode
+  name: POLK COUNTY
+  order: '0'
+  priority: '0'
+  rate: '8.5'
+  shipping: '1'
+  state: AR
+wootax/1146:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '71949'
+    location_type: postcode
+  name: GARLAND COUNTY
+  order: '0'
+  priority: '0'
+  rate: '8'
+  shipping: '1'
+  state: AR
+wootax/1147:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '71950'
+    location_type: postcode
+  name: PIKE COUNTY
+  order: '0'
+  priority: '0'
+  rate: '8.5'
+  shipping: '1'
+  state: AR
+wootax/1148:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '71952'
+    location_type: postcode
+  name: PIKE COUNTY
+  order: '0'
+  priority: '0'
+  rate: '8.5'
+  shipping: '1'
+  state: AR
+wootax/1149:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '71953'
+    location_type: postcode
+  name: MENA
+  order: '0'
+  priority: '0'
+  rate: '9.5'
+  shipping: '1'
+  state: AR
+wootax/1150:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '71956'
+    location_type: postcode
+  name: GARLAND COUNTY
+  order: '0'
+  priority: '0'
+  rate: '8'
+  shipping: '1'
+  state: AR
+wootax/1151:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '71957'
+    location_type: postcode
+  name: MONTGOMERY COUNTY
+  order: '0'
+  priority: '0'
+  rate: '9.5'
+  shipping: '1'
+  state: AR
+wootax/1152:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '71958'
+    location_type: postcode
+  name: MURFREESBORO
+  order: '0'
+  priority: '0'
+  rate: '10'
+  shipping: '1'
+  state: AR
+wootax/1153:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '71959'
+    location_type: postcode
+  name: PIKE COUNTY
+  order: '0'
+  priority: '0'
+  rate: '8.5'
+  shipping: '1'
+  state: AR
+wootax/1154:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '71960'
+    location_type: postcode
+  name: MONTGOMERY COUNTY
+  order: '0'
+  priority: '0'
+  rate: '9.5'
+  shipping: '1'
+  state: AR
+wootax/1155:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '71961'
+    location_type: postcode
+  name: MONTGOMERY COUNTY
+  order: '0'
+  priority: '0'
+  rate: '9.5'
+  shipping: '1'
+  state: AR
+wootax/1156:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '71962'
+    location_type: postcode
+  name: CLARK COUNTY
+  order: '0'
+  priority: '0'
+  rate: '8'
+  shipping: '1'
+  state: AR
+wootax/1157:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '71964'
+    location_type: postcode
+  name: GARLAND COUNTY
+  order: '0'
+  priority: '0'
+  rate: '8'
+  shipping: '1'
+  state: AR
+wootax/1158:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '71965'
+    location_type: postcode
+  name: MONTGOMERY COUNTY
+  order: '0'
+  priority: '0'
+  rate: '9.5'
+  shipping: '1'
+  state: AR
+wootax/1159:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '71966'
+    location_type: postcode
+  name: ODEN
+  order: '0'
+  priority: '0'
+  rate: '9.5'
+  shipping: '1'
+  state: AR
+wootax/1160:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '71968'
+    location_type: postcode
+  name: GARLAND COUNTY
+  order: '0'
+  priority: '0'
+  rate: '8'
+  shipping: '1'
+  state: AR
+wootax/1161:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '71969'
+    location_type: postcode
+  name: MONTGOMERY COUNTY
+  order: '0'
+  priority: '0'
+  rate: '9.5'
+  shipping: '1'
+  state: AR
+wootax/1162:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '71970'
+    location_type: postcode
+  name: MONTGOMERY COUNTY
+  order: '0'
+  priority: '0'
+  rate: '9.5'
+  shipping: '1'
+  state: AR
+wootax/1163:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '71971'
+    location_type: postcode
+  name: HOWARD COUNTY
+  order: '0'
+  priority: '0'
+  rate: '9.25'
+  shipping: '1'
+  state: AR
+wootax/1164:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '71972'
+    location_type: postcode
+  name: POLK COUNTY
+  order: '0'
+  priority: '0'
+  rate: '8.5'
+  shipping: '1'
+  state: AR
+wootax/1165:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '71973'
+    location_type: postcode
+  name: POLK COUNTY
+  order: '0'
+  priority: '0'
+  rate: '8.5'
+  shipping: '1'
+  state: AR
+wootax/1166:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '71998'
+    location_type: postcode
+  name: ARKADELPHIA
+  order: '0'
+  priority: '0'
+  rate: '9'
+  shipping: '1'
+  state: AR
+wootax/1167:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '71999'
+    location_type: postcode
+  name: ARKADELPHIA
+  order: '0'
+  priority: '0'
+  rate: '9'
+  shipping: '1'
+  state: AR
+wootax/1168:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '72001'
+    location_type: postcode
+  name: PERRY COUNTY
+  order: '0'
+  priority: '0'
+  rate: '8.75'
+  shipping: '1'
+  state: AR
+wootax/1169:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '72002'
+    location_type: postcode
+  name: SALINE
+  order: '0'
+  priority: '0'
+  rate: '6.875'
+  shipping: '1'
+  state: AR
+wootax/1170:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '72003'
+    location_type: postcode
+  name: ARKANSAS COUNTY
+  order: '0'
+  priority: '0'
+  rate: '7.5'
+  shipping: '1'
+  state: AR
+wootax/1171:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '72004'
+    location_type: postcode
+  name: JEFFERSON COUNTY
+  order: '0'
+  priority: '0'
+  rate: '7.75'
+  shipping: '1'
+  state: AR
+wootax/1172:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '72005'
+    location_type: postcode
+  name: JACKSON COUNTY
+  order: '0'
+  priority: '0'
+  rate: '8.75'
+  shipping: '1'
+  state: AR
+wootax/1173:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '72006'
+    location_type: postcode
+  name: AUGUSTA
+  order: '0'
+  priority: '0'
+  rate: '9.5'
+  shipping: '1'
+  state: AR
+wootax/1174:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '72007'
+    location_type: postcode
+  name: LONOKE COUNTY
+  order: '0'
+  priority: '0'
+  rate: '7.5'
+  shipping: '1'
+  state: AR
+wootax/1175:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '72010'
+    location_type: postcode
+  name: BALD KNOB
+  order: '0'
+  priority: '0'
+  rate: '9.75'
+  shipping: '1'
+  state: AR
+wootax/1176:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '72011'
+    location_type: postcode
+  name: SALINE
+  order: '0'
+  priority: '0'
+  rate: '6.875'
+  shipping: '1'
+  state: AR
+wootax/1177:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '72012'
+    location_type: postcode
+  name: BEEBE
+  order: '0'
+  priority: '0'
+  rate: '9.25'
+  shipping: '1'
+  state: AR
+wootax/1178:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '72013'
+    location_type: postcode
+  name: VAN BUREN COUNTY
+  order: '0'
+  priority: '0'
+  rate: '8.5'
+  shipping: '1'
+  state: AR
+wootax/1179:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '72014'
+    location_type: postcode
+  name: BEEDEVILLE
+  order: '0'
+  priority: '0'
+  rate: '9.25'
+  shipping: '1'
+  state: AR
+wootax/1180:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '72015'
+    location_type: postcode
+  name: BENTON
+  order: '0'
+  priority: '0'
+  rate: '9.375'
+  shipping: '1'
+  state: AR
+wootax/1181:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '72016'
+    location_type: postcode
+  name: PERRY COUNTY
+  order: '0'
+  priority: '0'
+  rate: '8.75'
+  shipping: '1'
+  state: AR
+wootax/1182:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '72017'
+    location_type: postcode
+  name: PRAIRIE COUNTY
+  order: '0'
+  priority: '0'
+  rate: '8'
+  shipping: '1'
+  state: AR
+wootax/1183:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '72018'
+    location_type: postcode
+  name: BENTON
+  order: '0'
+  priority: '0'
+  rate: '9.375'
+  shipping: '1'
+  state: AR
+wootax/1184:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '72019'
+    location_type: postcode
+  name: SALINE
+  order: '0'
+  priority: '0'
+  rate: '6.875'
+  shipping: '1'
+  state: AR
+wootax/1185:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '72020'
+    location_type: postcode
+  name: JACKSON COUNTY
+  order: '0'
+  priority: '0'
+  rate: '8.75'
+  shipping: '1'
+  state: AR
+wootax/1186:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '72021'
+    location_type: postcode
+  name: BRINKLEY
+  order: '0'
+  priority: '0'
+  rate: '9.5'
+  shipping: '1'
+  state: AR
+wootax/1187:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '72022'
+    location_type: postcode
+  name: BRYANT
+  order: '0'
+  priority: '0'
+  rate: '9.875'
+  shipping: '1'
+  state: AR
+wootax/1188:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '72023'
+    location_type: postcode
+  name: CABOT
+  order: '0'
+  priority: '0'
+  rate: '9.5'
+  shipping: '1'
+  state: AR
+wootax/1189:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '72024'
+    location_type: postcode
+  name: LONOKE COUNTY
+  order: '0'
+  priority: '0'
+  rate: '7.5'
+  shipping: '1'
+  state: AR
+wootax/1190:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '72025'
+    location_type: postcode
+  name: PERRY COUNTY
+  order: '0'
+  priority: '0'
+  rate: '8.75'
+  shipping: '1'
+  state: AR
+wootax/1191:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '72026'
+    location_type: postcode
+  name: ARKANSAS COUNTY
+  order: '0'
+  priority: '0'
+  rate: '7.5'
+  shipping: '1'
+  state: AR
+wootax/1192:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '72027'
+    location_type: postcode
+  name: CONWAY COUNTY
+  order: '0'
+  priority: '0'
+  rate: '8.25'
+  shipping: '1'
+  state: AR
+wootax/1193:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '72028'
+    location_type: postcode
+  name: VAN BUREN COUNTY
+  order: '0'
+  priority: '0'
+  rate: '8.5'
+  shipping: '1'
+  state: AR
+wootax/1194:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '72029'
+    location_type: postcode
+  name: CLARENDON
+  order: '0'
+  priority: '0'
+  rate: '9.5'
+  shipping: '1'
+  state: AR
+wootax/1195:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '72030'
+    location_type: postcode
+  name: CONWAY COUNTY
+  order: '0'
+  priority: '0'
+  rate: '8.25'
+  shipping: '1'
+  state: AR
+wootax/1196:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '72031'
+    location_type: postcode
+  name: VAN BUREN COUNTY
+  order: '0'
+  priority: '0'
+  rate: '8.5'
+  shipping: '1'
+  state: AR
+wootax/1197:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '72032'
+    location_type: postcode
+  name: CONWAY (CITY)
+  order: '0'
+  priority: '0'
+  rate: '9.125'
+  shipping: '1'
+  state: AR
+wootax/1198:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '72033'
+    location_type: postcode
+  name: CONWAY (CITY)
+  order: '0'
+  priority: '0'
+  rate: '9.125'
+  shipping: '1'
+  state: AR
+wootax/1199:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '72034'
+    location_type: postcode
+  name: CONWAY (CITY)
+  order: '0'
+  priority: '0'
+  rate: '9.125'
+  shipping: '1'
+  state: AR
+wootax/1200:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '72035'
+    location_type: postcode
+  name: CONWAY (CITY)
+  order: '0'
+  priority: '0'
+  rate: '9.125'
+  shipping: '1'
+  state: AR
+wootax/1201:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '72036'
+    location_type: postcode
+  name: COTTON PLANT
+  order: '0'
+  priority: '0'
+  rate: '9.5'
+  shipping: '1'
+  state: AR
+wootax/1202:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '72037'
+    location_type: postcode
+  name: COY
+  order: '0'
+  priority: '0'
+  rate: '7.5'
+  shipping: '1'
+  state: AR
+wootax/1203:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '72038'
+    location_type: postcode
+  name: ARKANSAS COUNTY
+  order: '0'
+  priority: '0'
+  rate: '7.5'
+  shipping: '1'
+  state: AR
+wootax/1204:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '72039'
+    location_type: postcode
+  name: VAN BUREN COUNTY
+  order: '0'
+  priority: '0'
+  rate: '8.5'
+  shipping: '1'
+  state: AR
+wootax/1205:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '72040'
+    location_type: postcode
+  name: DES ARC
+  order: '0'
+  priority: '0'
+  rate: '11'
+  shipping: '1'
+  state: AR
+wootax/1206:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '72041'
+    location_type: postcode
+  name: PRAIRIE COUNTY
+  order: '0'
+  priority: '0'
+  rate: '8'
+  shipping: '1'
+  state: AR
+wootax/1207:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '72042'
+    location_type: postcode
+  name: DEWITT
+  order: '0'
+  priority: '0'
+  rate: '11'
+  shipping: '1'
+  state: AR
+wootax/1208:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '72043'
+    location_type: postcode
+  name: DIAZ
+  order: '0'
+  priority: '0'
+  rate: '9.75'
+  shipping: '1'
+  state: AR
+wootax/1209:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '72044'
+    location_type: postcode
+  name: CLEBURNE COUNTY
+  order: '0'
+  priority: '0'
+  rate: '8.125'
+  shipping: '1'
+  state: AR
+wootax/1210:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '72045'
+    location_type: postcode
+  name: WHITE COUNTY
+  order: '0'
+  priority: '0'
+  rate: '8.25'
+  shipping: '1'
+  state: AR
+wootax/1211:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '72046'
+    location_type: postcode
+  name: ENGLAND
+  order: '0'
+  priority: '0'
+  rate: '10.5'
+  shipping: '1'
+  state: AR
+wootax/1212:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '72047'
+    location_type: postcode
+  name: FAULKNER COUNTY
+  order: '0'
+  priority: '0'
+  rate: '7'
+  shipping: '1'
+  state: AR
+wootax/1213:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '72048'
+    location_type: postcode
+  name: ARKANSAS COUNTY
+  order: '0'
+  priority: '0'
+  rate: '7.5'
+  shipping: '1'
+  state: AR
+wootax/1214:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '72051'
+    location_type: postcode
+  name: STONE COUNTY
+  order: '0'
+  priority: '0'
+  rate: '7.5'
+  shipping: '1'
+  state: AR
+wootax/1215:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '72052'
+    location_type: postcode
+  name: GARNER
+  order: '0'
+  priority: '0'
+  rate: '8.25'
+  shipping: '1'
+  state: AR
+wootax/1216:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '72053'
+    location_type: postcode
+  name: PULASKI COUNTY
+  order: '0'
+  priority: '0'
+  rate: '7.5'
+  shipping: '1'
+  state: AR
+wootax/1217:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '72055'
+    location_type: postcode
+  name: ARKANSAS COUNTY
+  order: '0'
+  priority: '0'
+  rate: '7.5'
+  shipping: '1'
+  state: AR
+wootax/1218:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '72057'
+    location_type: postcode
+  name: GRANT COUNTY
+  order: '0'
+  priority: '0'
+  rate: '7.75'
+  shipping: '1'
+  state: AR
+wootax/1219:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '72058'
+    location_type: postcode
+  name: FAULKNER COUNTY
+  order: '0'
+  priority: '0'
+  rate: '7'
+  shipping: '1'
+  state: AR
+wootax/1220:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '72059'
+    location_type: postcode
+  name: WOODRUFF COUNTY
+  order: '0'
+  priority: '0'
+  rate: '8.5'
+  shipping: '1'
+  state: AR
+wootax/1221:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '72060'
+    location_type: postcode
+  name: PRAIRIE COUNTY
+  order: '0'
+  priority: '0'
+  rate: '8'
+  shipping: '1'
+  state: AR
+wootax/1222:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '72061'
+    location_type: postcode
+  name: GUY
+  order: '0'
+  priority: '0'
+  rate: '8.5'
+  shipping: '1'
+  state: AR
+wootax/1223:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '72063'
+    location_type: postcode
+  name: CONWAY COUNTY
+  order: '0'
+  priority: '0'
+  rate: '8.25'
+  shipping: '1'
+  state: AR
+wootax/1224:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '72064'
+    location_type: postcode
+  name: HAZEN
+  order: '0'
+  priority: '0'
+  rate: '11'
+  shipping: '1'
+  state: AR
+wootax/1225:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '72065'
+    location_type: postcode
+  name: SALINE
+  order: '0'
+  priority: '0'
+  rate: '6.875'
+  shipping: '1'
+  state: AR
+wootax/1226:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '72066'
+    location_type: postcode
+  name: PRAIRIE COUNTY
+  order: '0'
+  priority: '0'
+  rate: '8'
+  shipping: '1'
+  state: AR
+wootax/1227:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '72067'
+    location_type: postcode
+  name: CLEBURNE COUNTY
+  order: '0'
+  priority: '0'
+  rate: '8.125'
+  shipping: '1'
+  state: AR
+wootax/1228:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '72068'
+    location_type: postcode
+  name: HIGGINSON
+  order: '0'
+  priority: '0'
+  rate: '9.25'
+  shipping: '1'
+  state: AR
+wootax/1229:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '72069'
+    location_type: postcode
+  name: MONROE
+  order: '0'
+  priority: '0'
+  rate: '6.5'
+  shipping: '1'
+  state: AR
+wootax/1230:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '72070'
+    location_type: postcode
+  name: PERRY COUNTY
+  order: '0'
+  priority: '0'
+  rate: '8.75'
+  shipping: '1'
+  state: AR
+wootax/1231:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '72072'
+    location_type: postcode
+  name: LONOKE COUNTY
+  order: '0'
+  priority: '0'
+  rate: '7.5'
+  shipping: '1'
+  state: AR
+wootax/1232:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '72073'
+    location_type: postcode
+  name: ARKANSAS COUNTY
+  order: '0'
+  priority: '0'
+  rate: '7.5'
+  shipping: '1'
+  state: AR
+wootax/1233:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '72074'
+    location_type: postcode
+  name: HUNTER
+  order: '0'
+  priority: '0'
+  rate: '8.5'
+  shipping: '1'
+  state: AR
+wootax/1234:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '72075'
+    location_type: postcode
+  name: JACKSONPORT
+  order: '0'
+  priority: '0'
+  rate: '8.75'
+  shipping: '1'
+  state: AR
+wootax/1235:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '72076'
+    location_type: postcode
+  name: JACKSONVILLE
+  order: '0'
+  priority: '0'
+  rate: '9.5'
+  shipping: '1'
+  state: AR
+wootax/1236:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '72078'
+    location_type: postcode
+  name: JACKSONVILLE
+  order: '0'
+  priority: '0'
+  rate: '9.5'
+  shipping: '1'
+  state: AR
+wootax/1237:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '72079'
+    location_type: postcode
+  name: JEFFERSON COUNTY
+  order: '0'
+  priority: '0'
+  rate: '7.75'
+  shipping: '1'
+  state: AR
+wootax/1238:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '72080'
+    location_type: postcode
+  name: VAN BUREN COUNTY
+  order: '0'
+  priority: '0'
+  rate: '8.5'
+  shipping: '1'
+  state: AR
+wootax/1239:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '72081'
+    location_type: postcode
+  name: WHITE COUNTY
+  order: '0'
+  priority: '0'
+  rate: '8.25'
+  shipping: '1'
+  state: AR
+wootax/1240:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '72082'
+    location_type: postcode
+  name: KENSETT
+  order: '0'
+  priority: '0'
+  rate: '8.25'
+  shipping: '1'
+  state: AR
+wootax/1241:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '72083'
+    location_type: postcode
+  name: KEO
+  order: '0'
+  priority: '0'
+  rate: '8.5'
+  shipping: '1'
+  state: AR
+wootax/1242:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '72084'
+    location_type: postcode
+  name: LEOLA
+  order: '0'
+  priority: '0'
+  rate: '7.75'
+  shipping: '1'
+  state: AR
+wootax/1243:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '72085'
+    location_type: postcode
+  name: LETONA
+  order: '0'
+  priority: '0'
+  rate: '8.25'
+  shipping: '1'
+  state: AR
+wootax/1244:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '72086'
+    location_type: postcode
+  name: LONOKE COUNTY
+  order: '0'
+  priority: '0'
+  rate: '7.5'
+  shipping: '1'
+  state: AR
+wootax/1245:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '72087'
+    location_type: postcode
+  name: SALINE
+  order: '0'
+  priority: '0'
+  rate: '6.875'
+  shipping: '1'
+  state: AR
+wootax/1246:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '72088'
+    location_type: postcode
+  name: FAIRFIELD BAY (VAN BUREN CO)
+  order: '0'
+  priority: '0'
+  rate: '10'
+  shipping: '1'
+  state: AR
+wootax/1247:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '72089'
+    location_type: postcode
+  name: BRYANT
+  order: '0'
+  priority: '0'
+  rate: '9.875'
+  shipping: '1'
+  state: AR
+wootax/1248:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '72099'
+    location_type: postcode
+  name: JACKSONVILLE
+  order: '0'
+  priority: '0'
+  rate: '9.5'
+  shipping: '1'
+  state: AR
+wootax/1249:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '72101'
+    location_type: postcode
+  name: WOODRUFF COUNTY
+  order: '0'
+  priority: '0'
+  rate: '8.5'
+  shipping: '1'
+  state: AR
+wootax/1250:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '72102'
+    location_type: postcode
+  name: WHITE COUNTY
+  order: '0'
+  priority: '0'
+  rate: '8.25'
+  shipping: '1'
+  state: AR
+wootax/1251:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '72103'
+    location_type: postcode
+  name: SALINE
+  order: '0'
+  priority: '0'
+  rate: '6.875'
+  shipping: '1'
+  state: AR
+wootax/1252:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '72104'
+    location_type: postcode
+  name: HOT SPRING COUNTY
+  order: '0'
+  priority: '0'
+  rate: '8'
+  shipping: '1'
+  state: AR
+wootax/1253:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '72105'
+    location_type: postcode
+  name: HOT SPRING COUNTY
+  order: '0'
+  priority: '0'
+  rate: '8'
+  shipping: '1'
+  state: AR
+wootax/1254:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '72106'
+    location_type: postcode
+  name: FAULKNER COUNTY
+  order: '0'
+  priority: '0'
+  rate: '7'
+  shipping: '1'
+  state: AR
+wootax/1255:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '72107'
+    location_type: postcode
+  name: MENIFEE
+  order: '0'
+  priority: '0'
+  rate: '11.25'
+  shipping: '1'
+  state: AR
+wootax/1256:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '72108'
+    location_type: postcode
+  name: MONROE
+  order: '0'
+  priority: '0'
+  rate: '6.5'
+  shipping: '1'
+  state: AR
+wootax/1257:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '72110'
+    location_type: postcode
+  name: MORRILTON
+  order: '0'
+  priority: '0'
+  rate: '9.25'
+  shipping: '1'
+  state: AR
+wootax/1258:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '72111'
+    location_type: postcode
+  name: FAULKNER COUNTY
+  order: '0'
+  priority: '0'
+  rate: '7'
+  shipping: '1'
+  state: AR
+wootax/1259:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '72112'
+    location_type: postcode
+  name: NEWPORT
+  order: '0'
+  priority: '0'
+  rate: '10.25'
+  shipping: '1'
+  state: AR
+wootax/1260:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '72113'
+    location_type: postcode
+  name: MAUMELLE
+  order: '0'
+  priority: '0'
+  rate: '9.5'
+  shipping: '1'
+  state: AR
+wootax/1261:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '72114'
+    location_type: postcode
+  name: NORTH LITTLE ROCK
+  order: '0'
+  priority: '0'
+  rate: '9.5'
+  shipping: '1'
+  state: AR
+wootax/1262:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '72115'
+    location_type: postcode
+  name: NORTH LITTLE ROCK
+  order: '0'
+  priority: '0'
+  rate: '9.5'
+  shipping: '1'
+  state: AR
+wootax/1263:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '72116'
+    location_type: postcode
+  name: NORTH LITTLE ROCK
+  order: '0'
+  priority: '0'
+  rate: '9.5'
+  shipping: '1'
+  state: AR
+wootax/1264:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '72117'
+    location_type: postcode
+  name: NORTH LITTLE ROCK
+  order: '0'
+  priority: '0'
+  rate: '9.5'
+  shipping: '1'
+  state: AR
+wootax/1265:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '72118'
+    location_type: postcode
+  name: NORTH LITTLE ROCK
+  order: '0'
+  priority: '0'
+  rate: '9.5'
+  shipping: '1'
+  state: AR
+wootax/1266:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '72119'
+    location_type: postcode
+  name: NORTH LITTLE ROCK
+  order: '0'
+  priority: '0'
+  rate: '9.5'
+  shipping: '1'
+  state: AR
+wootax/1267:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '72120'
+    location_type: postcode
+  name: SHERWOOD
+  order: '0'
+  priority: '0'
+  rate: '9.5'
+  shipping: '1'
+  state: AR
+wootax/1268:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '72121'
+    location_type: postcode
+  name: WHITE COUNTY
+  order: '0'
+  priority: '0'
+  rate: '8.25'
+  shipping: '1'
+  state: AR
+wootax/1269:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '72122'
+    location_type: postcode
+  name: SALINE
+  order: '0'
+  priority: '0'
+  rate: '6.875'
+  shipping: '1'
+  state: AR
+wootax/1270:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '72123'
+    location_type: postcode
+  name: PATTERSON
+  order: '0'
+  priority: '0'
+  rate: '9.5'
+  shipping: '1'
+  state: AR
+wootax/1271:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '72124'
+    location_type: postcode
+  name: NORTH LITTLE ROCK
+  order: '0'
+  priority: '0'
+  rate: '9.5'
+  shipping: '1'
+  state: AR
+wootax/1272:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '72125'
+    location_type: postcode
+  name: PERRY COUNTY
+  order: '0'
+  priority: '0'
+  rate: '8.75'
+  shipping: '1'
+  state: AR
+wootax/1273:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '72126'
+    location_type: postcode
+  name: PERRY COUNTY
+  order: '0'
+  priority: '0'
+  rate: '8.75'
+  shipping: '1'
+  state: AR
+wootax/1274:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '72127'
+    location_type: postcode
+  name: CONWAY COUNTY
+  order: '0'
+  priority: '0'
+  rate: '8.25'
+  shipping: '1'
+  state: AR
+wootax/1275:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '72128'
+    location_type: postcode
+  name: GRANT COUNTY
+  order: '0'
+  priority: '0'
+  rate: '7.75'
+  shipping: '1'
+  state: AR
+wootax/1276:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '72129'
+    location_type: postcode
+  name: GRANT COUNTY
+  order: '0'
+  priority: '0'
+  rate: '7.75'
+  shipping: '1'
+  state: AR
+wootax/1277:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '72130'
+    location_type: postcode
+  name: CLEBURNE COUNTY
+  order: '0'
+  priority: '0'
+  rate: '8.125'
+  shipping: '1'
+  state: AR
+wootax/1278:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '72131'
+    location_type: postcode
+  name: CLEBURNE COUNTY
+  order: '0'
+  priority: '0'
+  rate: '8.125'
+  shipping: '1'
+  state: AR
+wootax/1279:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '72132'
+    location_type: postcode
+  name: JEFFERSON COUNTY
+  order: '0'
+  priority: '0'
+  rate: '7.75'
+  shipping: '1'
+  state: AR
+wootax/1280:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '72133'
+    location_type: postcode
+  name: JEFFERSON COUNTY
+  order: '0'
+  priority: '0'
+  rate: '7.75'
+  shipping: '1'
+  state: AR
+wootax/1281:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '72134'
+    location_type: postcode
+  name: MONROE
+  order: '0'
+  priority: '0'
+  rate: '6.5'
+  shipping: '1'
+  state: AR
+wootax/1282:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '72135'
+    location_type: postcode
+  name: PULASKI COUNTY
+  order: '0'
+  priority: '0'
+  rate: '7.5'
+  shipping: '1'
+  state: AR
+wootax/1283:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '72136'
+    location_type: postcode
+  name: WHITE COUNTY
+  order: '0'
+  priority: '0'
+  rate: '8.25'
+  shipping: '1'
+  state: AR
+wootax/1284:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '72137'
+    location_type: postcode
+  name: WHITE COUNTY
+  order: '0'
+  priority: '0'
+  rate: '8.25'
+  shipping: '1'
+  state: AR
+wootax/1285:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '72139'
+    location_type: postcode
+  name: RUSSELL
+  order: '0'
+  priority: '0'
+  rate: '8.25'
+  shipping: '1'
+  state: AR
+wootax/1286:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '72140'
+    location_type: postcode
+  name: ST. CHARLES
+  order: '0'
+  priority: '0'
+  rate: '9.5'
+  shipping: '1'
+  state: AR
+wootax/1287:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '72141'
+    location_type: postcode
+  name: VAN BUREN COUNTY
+  order: '0'
+  priority: '0'
+  rate: '8.5'
+  shipping: '1'
+  state: AR
+wootax/1288:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '72142'
+    location_type: postcode
+  name: PULASKI COUNTY
+  order: '0'
+  priority: '0'
+  rate: '7.5'
+  shipping: '1'
+  state: AR
+wootax/1289:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '72143'
+    location_type: postcode
+  name: SEARCY (CITY)
+  order: '0'
+  priority: '0'
+  rate: '9.75'
+  shipping: '1'
+  state: AR
+wootax/1290:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '72145'
+    location_type: postcode
+  name: SEARCY (CITY)
+  order: '0'
+  priority: '0'
+  rate: '9.75'
+  shipping: '1'
+  state: AR
+wootax/1291:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '72149'
+    location_type: postcode
+  name: SEARCY (CITY)
+  order: '0'
+  priority: '0'
+  rate: '9.75'
+  shipping: '1'
+  state: AR
+wootax/1292:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '72150'
+    location_type: postcode
+  name: GRANT COUNTY
+  order: '0'
+  priority: '0'
+  rate: '7.75'
+  shipping: '1'
+  state: AR
+wootax/1293:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '72152'
+    location_type: postcode
+  name: JEFFERSON COUNTY
+  order: '0'
+  priority: '0'
+  rate: '7.75'
+  shipping: '1'
+  state: AR
+wootax/1294:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '72153'
+    location_type: postcode
+  name: VAN BUREN COUNTY
+  order: '0'
+  priority: '0'
+  rate: '8.5'
+  shipping: '1'
+  state: AR
+wootax/1295:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '72156'
+    location_type: postcode
+  name: CONWAY COUNTY
+  order: '0'
+  priority: '0'
+  rate: '8.25'
+  shipping: '1'
+  state: AR
+wootax/1296:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '72157'
+    location_type: postcode
+  name: CONWAY COUNTY
+  order: '0'
+  priority: '0'
+  rate: '8.25'
+  shipping: '1'
+  state: AR
+wootax/1297:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '72160'
+    location_type: postcode
+  name: STUTTGART
+  order: '0'
+  priority: '0'
+  rate: '10.5'
+  shipping: '1'
+  state: AR
+wootax/1298:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '72164'
+    location_type: postcode
+  name: PULASKI COUNTY
+  order: '0'
+  priority: '0'
+  rate: '7.5'
+  shipping: '1'
+  state: AR
+wootax/1299:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '72165'
+    location_type: postcode
+  name: INDEPENDENCE COUNTY
+  order: '0'
+  priority: '0'
+  rate: '8'
+  shipping: '1'
+  state: AR
+wootax/1300:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '72166'
+    location_type: postcode
+  name: ARKANSAS COUNTY
+  order: '0'
+  priority: '0'
+  rate: '7.5'
+  shipping: '1'
+  state: AR
+wootax/1301:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '72167'
+    location_type: postcode
+  name: SALINE
+  order: '0'
+  priority: '0'
+  rate: '6.875'
+  shipping: '1'
+  state: AR
+wootax/1302:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '72168'
+    location_type: postcode
+  name: JEFFERSON COUNTY
+  order: '0'
+  priority: '0'
+  rate: '7.75'
+  shipping: '1'
+  state: AR
+wootax/1303:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '72169'
+    location_type: postcode
+  name: JACKSON COUNTY
+  order: '0'
+  priority: '0'
+  rate: '8.75'
+  shipping: '1'
+  state: AR
+wootax/1304:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '72170'
+    location_type: postcode
+  name: ULM
+  order: '0'
+  priority: '0'
+  rate: '8'
+  shipping: '1'
+  state: AR
+wootax/1305:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '72173'
+    location_type: postcode
+  name: FAULKNER COUNTY
+  order: '0'
+  priority: '0'
+  rate: '7'
+  shipping: '1'
+  state: AR
+wootax/1306:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '72175'
+    location_type: postcode
+  name: JEFFERSON COUNTY
+  order: '0'
+  priority: '0'
+  rate: '7.75'
+  shipping: '1'
+  state: AR
+wootax/1307:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '72176'
+    location_type: postcode
+  name: LONOKE COUNTY
+  order: '0'
+  priority: '0'
+  rate: '7.5'
+  shipping: '1'
+  state: AR
+wootax/1308:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '72178'
+    location_type: postcode
+  name: WEST POINT
+  order: '0'
+  priority: '0'
+  rate: '8.25'
+  shipping: '1'
+  state: AR
+wootax/1309:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '72179'
+    location_type: postcode
+  name: CLEBURNE COUNTY
+  order: '0'
+  priority: '0'
+  rate: '8.125'
+  shipping: '1'
+  state: AR
+wootax/1310:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '72180'
+    location_type: postcode
+  name: PULASKI COUNTY
+  order: '0'
+  priority: '0'
+  rate: '7.5'
+  shipping: '1'
+  state: AR
+wootax/1311:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '72181'
+    location_type: postcode
+  name: FAULKNER COUNTY
+  order: '0'
+  priority: '0'
+  rate: '7'
+  shipping: '1'
+  state: AR
+wootax/1312:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '72182'
+    location_type: postcode
+  name: JEFFERSON COUNTY
+  order: '0'
+  priority: '0'
+  rate: '7.75'
+  shipping: '1'
+  state: AR
+wootax/1313:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '72183'
+    location_type: postcode
+  name: WRIGHTSVILLE
+  order: '0'
+  priority: '0'
+  rate: '7.5'
+  shipping: '1'
+  state: AR
+wootax/1314:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '72190'
+    location_type: postcode
+  name: NORTH LITTLE ROCK
+  order: '0'
+  priority: '0'
+  rate: '9.5'
+  shipping: '1'
+  state: AR
+wootax/1315:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '72199'
+    location_type: postcode
+  name: PULASKI COUNTY
+  order: '0'
+  priority: '0'
+  rate: '7.5'
+  shipping: '1'
+  state: AR
+wootax/1316:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '72201'
+    location_type: postcode
+  name: LITTLE ROCK
+  order: '0'
+  priority: '0'
+  rate: '9'
+  shipping: '1'
+  state: AR
+wootax/1317:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '72202'
+    location_type: postcode
+  name: LITTLE ROCK
+  order: '0'
+  priority: '0'
+  rate: '9'
+  shipping: '1'
+  state: AR
+wootax/1318:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '72203'
+    location_type: postcode
+  name: LITTLE ROCK
+  order: '0'
+  priority: '0'
+  rate: '9'
+  shipping: '1'
+  state: AR
+wootax/1319:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '72204'
+    location_type: postcode
+  name: LITTLE ROCK
+  order: '0'
+  priority: '0'
+  rate: '9'
+  shipping: '1'
+  state: AR
+wootax/1320:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '72205'
+    location_type: postcode
+  name: LITTLE ROCK
+  order: '0'
+  priority: '0'
+  rate: '9'
+  shipping: '1'
+  state: AR
+wootax/1321:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '72206'
+    location_type: postcode
+  name: PULASKI COUNTY
+  order: '0'
+  priority: '0'
+  rate: '7.5'
+  shipping: '1'
+  state: AR
+wootax/1322:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '72207'
+    location_type: postcode
+  name: LITTLE ROCK
+  order: '0'
+  priority: '0'
+  rate: '9'
+  shipping: '1'
+  state: AR
+wootax/1323:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '72209'
+    location_type: postcode
+  name: LITTLE ROCK
+  order: '0'
+  priority: '0'
+  rate: '9'
+  shipping: '1'
+  state: AR
+wootax/1324:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '72210'
+    location_type: postcode
+  name: PULASKI COUNTY
+  order: '0'
+  priority: '0'
+  rate: '7.5'
+  shipping: '1'
+  state: AR
+wootax/1325:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '72211'
+    location_type: postcode
+  name: LITTLE ROCK
+  order: '0'
+  priority: '0'
+  rate: '9'
+  shipping: '1'
+  state: AR
+wootax/1326:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '72212'
+    location_type: postcode
+  name: LITTLE ROCK
+  order: '0'
+  priority: '0'
+  rate: '9'
+  shipping: '1'
+  state: AR
+wootax/1327:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '72214'
+    location_type: postcode
+  name: LITTLE ROCK
+  order: '0'
+  priority: '0'
+  rate: '9'
+  shipping: '1'
+  state: AR
+wootax/1328:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '72215'
+    location_type: postcode
+  name: LITTLE ROCK
+  order: '0'
+  priority: '0'
+  rate: '9'
+  shipping: '1'
+  state: AR
+wootax/1329:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '72216'
+    location_type: postcode
+  name: LITTLE ROCK
+  order: '0'
+  priority: '0'
+  rate: '9'
+  shipping: '1'
+  state: AR
+wootax/1330:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '72217'
+    location_type: postcode
+  name: LITTLE ROCK
+  order: '0'
+  priority: '0'
+  rate: '9'
+  shipping: '1'
+  state: AR
+wootax/1331:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '72219'
+    location_type: postcode
+  name: LITTLE ROCK
+  order: '0'
+  priority: '0'
+  rate: '9'
+  shipping: '1'
+  state: AR
+wootax/1332:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '72221'
+    location_type: postcode
+  name: LITTLE ROCK
+  order: '0'
+  priority: '0'
+  rate: '9'
+  shipping: '1'
+  state: AR
+wootax/1333:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '72222'
+    location_type: postcode
+  name: LITTLE ROCK
+  order: '0'
+  priority: '0'
+  rate: '9'
+  shipping: '1'
+  state: AR
+wootax/1334:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '72223'
+    location_type: postcode
+  name: LITTLE ROCK
+  order: '0'
+  priority: '0'
+  rate: '9'
+  shipping: '1'
+  state: AR
+wootax/1335:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '72225'
+    location_type: postcode
+  name: LITTLE ROCK
+  order: '0'
+  priority: '0'
+  rate: '9'
+  shipping: '1'
+  state: AR
+wootax/1336:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '72227'
+    location_type: postcode
+  name: LITTLE ROCK
+  order: '0'
+  priority: '0'
+  rate: '9'
+  shipping: '1'
+  state: AR
+wootax/1337:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '72231'
+    location_type: postcode
+  name: NORTH LITTLE ROCK
+  order: '0'
+  priority: '0'
+  rate: '9.5'
+  shipping: '1'
+  state: AR
+wootax/1338:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '72255'
+    location_type: postcode
+  name: LITTLE ROCK
+  order: '0'
+  priority: '0'
+  rate: '9'
+  shipping: '1'
+  state: AR
+wootax/1339:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '72260'
+    location_type: postcode
+  name: LITTLE ROCK
+  order: '0'
+  priority: '0'
+  rate: '9'
+  shipping: '1'
+  state: AR
+wootax/1340:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '72301'
+    location_type: postcode
+  name: WEST MEMPHIS
+  order: '0'
+  priority: '0'
+  rate: '10.75'
+  shipping: '1'
+  state: AR
+wootax/1341:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '72310'
+    location_type: postcode
+  name: MISSISSIPPI COUNTY
+  order: '0'
+  priority: '0'
+  rate: '9'
+  shipping: '1'
+  state: AR
+wootax/1342:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '72311'
+    location_type: postcode
+  name: AUBREY
+  order: '0'
+  priority: '0'
+  rate: '7.5'
+  shipping: '1'
+  state: AR
+wootax/1343:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '72312'
+    location_type: postcode
+  name: PHILLIPS COUNTY
+  order: '0'
+  priority: '0'
+  rate: '8.5'
+  shipping: '1'
+  state: AR
+wootax/1344:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '72313'
+    location_type: postcode
+  name: BASSETT
+  order: '0'
+  priority: '0'
+  rate: '9'
+  shipping: '1'
+  state: AR
+wootax/1345:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '72315'
+    location_type: postcode
+  name: BLYTHEVILLE
+  order: '0'
+  priority: '0'
+  rate: '10.5'
+  shipping: '1'
+  state: AR
+wootax/1346:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '72316'
+    location_type: postcode
+  name: BLYTHEVILLE
+  order: '0'
+  priority: '0'
+  rate: '10.5'
+  shipping: '1'
+  state: AR
+wootax/1347:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '72320'
+    location_type: postcode
+  name: LEE COUNTY
+  order: '0'
+  priority: '0'
+  rate: '7.5'
+  shipping: '1'
+  state: AR
+wootax/1348:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '72321'
+    location_type: postcode
+  name: BURDETTE
+  order: '0'
+  priority: '0'
+  rate: '9'
+  shipping: '1'
+  state: AR
+wootax/1349:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '72322'
+    location_type: postcode
+  name: CALDWELL
+  order: '0'
+  priority: '0'
+  rate: '8.5'
+  shipping: '1'
+  state: AR
+wootax/1350:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '72324'
+    location_type: postcode
+  name: CROSS COUNTY
+  order: '0'
+  priority: '0'
+  rate: '8.5'
+  shipping: '1'
+  state: AR
+wootax/1351:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '72325'
+    location_type: postcode
+  name: CLARKEDALE
+  order: '0'
+  priority: '0'
+  rate: '9.25'
+  shipping: '1'
+  state: AR
+wootax/1352:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '72326'
+    location_type: postcode
+  name: ST. FRANCIS COUNTY
+  order: '0'
+  priority: '0'
+  rate: '8.5'
+  shipping: '1'
+  state: AR
+wootax/1353:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '72327'
+    location_type: postcode
+  name: CRITTENDEN COUNTY
+  order: '0'
+  priority: '0'
+  rate: '9.25'
+  shipping: '1'
+  state: AR
+wootax/1354:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '72328'
+    location_type: postcode
+  name: PHILLIPS COUNTY
+  order: '0'
+  priority: '0'
+  rate: '8.5'
+  shipping: '1'
+  state: AR
+wootax/1355:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '72329'
+    location_type: postcode
+  name: MISSISSIPPI COUNTY
+  order: '0'
+  priority: '0'
+  rate: '9'
+  shipping: '1'
+  state: AR
+wootax/1356:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '72330'
+    location_type: postcode
+  name: MISSISSIPPI COUNTY
+  order: '0'
+  priority: '0'
+  rate: '9'
+  shipping: '1'
+  state: AR
+wootax/1357:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '72331'
+    location_type: postcode
+  name: EARLE
+  order: '0'
+  priority: '0'
+  rate: '11.25'
+  shipping: '1'
+  state: AR
+wootax/1358:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '72332'
+    location_type: postcode
+  name: EDMONDSON
+  order: '0'
+  priority: '0'
+  rate: '9.25'
+  shipping: '1'
+  state: AR
+wootax/1359:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '72333'
+    location_type: postcode
+  name: PHILLIPS COUNTY
+  order: '0'
+  priority: '0'
+  rate: '8.5'
+  shipping: '1'
+  state: AR
+wootax/1360:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '72335'
+    location_type: postcode
+  name: FORREST
+  order: '0'
+  priority: '0'
+  rate: '10.375'
+  shipping: '1'
+  state: AR
+wootax/1361:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '72338'
+    location_type: postcode
+  name: MISSISSIPPI COUNTY
+  order: '0'
+  priority: '0'
+  rate: '9'
+  shipping: '1'
+  state: AR
+wootax/1362:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '72339'
+    location_type: postcode
+  name: GILMORE
+  order: '0'
+  priority: '0'
+  rate: '10.25'
+  shipping: '1'
+  state: AR
+wootax/1363:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '72340'
+    location_type: postcode
+  name: ST. FRANCIS COUNTY
+  order: '0'
+  priority: '0'
+  rate: '8.5'
+  shipping: '1'
+  state: AR
+wootax/1364:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '72341'
+    location_type: postcode
+  name: HAYNES
+  order: '0'
+  priority: '0'
+  rate: '7.5'
+  shipping: '1'
+  state: AR
+wootax/1365:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '72342'
+    location_type: postcode
+  name: WEST HELENA
+  order: '0'
+  priority: '0'
+  rate: '10.5'
+  shipping: '1'
+  state: AR
+wootax/1366:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '72346'
+    location_type: postcode
+  name: ST. FRANCIS COUNTY
+  order: '0'
+  priority: '0'
+  rate: '8.5'
+  shipping: '1'
+  state: AR
+wootax/1367:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '72347'
+    location_type: postcode
+  name: CROSS COUNTY
+  order: '0'
+  priority: '0'
+  rate: '8.5'
+  shipping: '1'
+  state: AR
+wootax/1368:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '72348'
+    location_type: postcode
+  name: CRITTENDEN COUNTY
+  order: '0'
+  priority: '0'
+  rate: '9.25'
+  shipping: '1'
+  state: AR
+wootax/1369:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '72350'
+    location_type: postcode
+  name: MISSISSIPPI COUNTY
+  order: '0'
+  priority: '0'
+  rate: '9'
+  shipping: '1'
+  state: AR
+wootax/1370:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '72351'
+    location_type: postcode
+  name: KEISER
+  order: '0'
+  priority: '0'
+  rate: '11'
+  shipping: '1'
+  state: AR
+wootax/1371:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '72352'
+    location_type: postcode
+  name: LA GRANGE
+  order: '0'
+  priority: '0'
+  rate: '7.5'
+  shipping: '1'
+  state: AR
+wootax/1372:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '72353'
+    location_type: postcode
+  name: PHILLIPS COUNTY
+  order: '0'
+  priority: '0'
+  rate: '8.5'
+  shipping: '1'
+  state: AR
+wootax/1373:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '72354'
+    location_type: postcode
+  name: LE PANTO
+  order: '0'
+  priority: '0'
+  rate: '10'
+  shipping: '1'
+  state: AR
+wootax/1374:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '72355'
+    location_type: postcode
+  name: PHILLIPS COUNTY
+  order: '0'
+  priority: '0'
+  rate: '8.5'
+  shipping: '1'
+  state: AR
+wootax/1375:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '72358'
+    location_type: postcode
+  name: LUXORA
+  order: '0'
+  priority: '0'
+  rate: '10'
+  shipping: '1'
+  state: AR
+wootax/1376:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '72359'
+    location_type: postcode
+  name: MADISON (CITY)
+  order: '0'
+  priority: '0'
+  rate: '9.5'
+  shipping: '1'
+  state: AR
+wootax/1377:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '72360'
+    location_type: postcode
+  name: MARIANNA
+  order: '0'
+  priority: '0'
+  rate: '9.5'
+  shipping: '1'
+  state: AR
+wootax/1378:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '72364'
+    location_type: postcode
+  name: MARION (CITY)
+  order: '0'
+  priority: '0'
+  rate: '11.25'
+  shipping: '1'
+  state: AR
+wootax/1379:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '72365'
+    location_type: postcode
+  name: MARKED TREE
+  order: '0'
+  priority: '0'
+  rate: '9.75'
+  shipping: '1'
+  state: AR
+wootax/1380:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '72366'
+    location_type: postcode
+  name: PHILLIPS COUNTY
+  order: '0'
+  priority: '0'
+  rate: '8.5'
+  shipping: '1'
+  state: AR
+wootax/1381:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '72367'
+    location_type: postcode
+  name: PHILLIPS COUNTY
+  order: '0'
+  priority: '0'
+  rate: '8.5'
+  shipping: '1'
+  state: AR
+wootax/1382:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '72368'
+    location_type: postcode
+  name: LEE COUNTY
+  order: '0'
+  priority: '0'
+  rate: '7.5'
+  shipping: '1'
+  state: AR
+wootax/1383:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '72369'
+    location_type: postcode
+  name: PHILLIPS COUNTY
+  order: '0'
+  priority: '0'
+  rate: '8.5'
+  shipping: '1'
+  state: AR
+wootax/1384:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '72370'
+    location_type: postcode
+  name: OSCEOLA
+  order: '0'
+  priority: '0'
+  rate: '10'
+  shipping: '1'
+  state: AR
+wootax/1385:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '72372'
+    location_type: postcode
+  name: ST. FRANCIS COUNTY
+  order: '0'
+  priority: '0'
+  rate: '8.5'
+  shipping: '1'
+  state: AR
+wootax/1386:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '72373'
+    location_type: postcode
+  name: CROSS COUNTY
+  order: '0'
+  priority: '0'
+  rate: '8.5'
+  shipping: '1'
+  state: AR
+wootax/1387:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '72374'
+    location_type: postcode
+  name: PHILLIPS COUNTY
+  order: '0'
+  priority: '0'
+  rate: '8.5'
+  shipping: '1'
+  state: AR
+wootax/1388:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '72376'
+    location_type: postcode
+  name: CRITTENDEN COUNTY
+  order: '0'
+  priority: '0'
+  rate: '9.25'
+  shipping: '1'
+  state: AR
+wootax/1389:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '72377'
+    location_type: postcode
+  name: POINSETT COUNTY
+  order: '0'
+  priority: '0'
+  rate: '7.75'
+  shipping: '1'
+  state: AR
+wootax/1390:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '72379'
+    location_type: postcode
+  name: DESHA COUNTY
+  order: '0'
+  priority: '0'
+  rate: '8'
+  shipping: '1'
+  state: AR
+wootax/1391:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '72383'
+    location_type: postcode
+  name: PHILLIPS COUNTY
+  order: '0'
+  priority: '0'
+  rate: '8.5'
+  shipping: '1'
+  state: AR
+wootax/1392:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '72384'
+    location_type: postcode
+  name: CRITTENDEN COUNTY
+  order: '0'
+  priority: '0'
+  rate: '9.25'
+  shipping: '1'
+  state: AR
+wootax/1393:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '72386'
+    location_type: postcode
+  name: POINSETT COUNTY
+  order: '0'
+  priority: '0'
+  rate: '7.75'
+  shipping: '1'
+  state: AR
+wootax/1394:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '72387'
+    location_type: postcode
+  name: CROSS COUNTY
+  order: '0'
+  priority: '0'
+  rate: '8.5'
+  shipping: '1'
+  state: AR
+wootax/1395:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '72389'
+    location_type: postcode
+  name: PHILLIPS COUNTY
+  order: '0'
+  priority: '0'
+  rate: '8.5'
+  shipping: '1'
+  state: AR
+wootax/1396:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '72390'
+    location_type: postcode
+  name: WEST HELENA
+  order: '0'
+  priority: '0'
+  rate: '10.5'
+  shipping: '1'
+  state: AR
+wootax/1397:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '72391'
+    location_type: postcode
+  name: MISSISSIPPI COUNTY
+  order: '0'
+  priority: '0'
+  rate: '9'
+  shipping: '1'
+  state: AR
+wootax/1398:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '72392'
+    location_type: postcode
+  name: WHEATLEY
+  order: '0'
+  priority: '0'
+  rate: '9.5'
+  shipping: '1'
+  state: AR
+wootax/1399:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '72394'
+    location_type: postcode
+  name: ST. FRANCIS COUNTY
+  order: '0'
+  priority: '0'
+  rate: '8.5'
+  shipping: '1'
+  state: AR
+wootax/1400:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '72395'
+    location_type: postcode
+  name: WILSON
+  order: '0'
+  priority: '0'
+  rate: '10'
+  shipping: '1'
+  state: AR
+wootax/1401:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '72396'
+    location_type: postcode
+  name: WYNNE
+  order: '0'
+  priority: '0'
+  rate: '9.5'
+  shipping: '1'
+  state: AR
+wootax/1402:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '72401'
+    location_type: postcode
+  name: JONESBORO
+  order: '0'
+  priority: '0'
+  rate: '8.5'
+  shipping: '1'
+  state: AR
+wootax/1403:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '72402'
+    location_type: postcode
+  name: JONESBORO
+  order: '0'
+  priority: '0'
+  rate: '8.5'
+  shipping: '1'
+  state: AR
+wootax/1404:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '72403'
+    location_type: postcode
+  name: JONESBORO
+  order: '0'
+  priority: '0'
+  rate: '8.5'
+  shipping: '1'
+  state: AR
+wootax/1405:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '72404'
+    location_type: postcode
+  name: JONESBORO
+  order: '0'
+  priority: '0'
+  rate: '8.5'
+  shipping: '1'
+  state: AR
+wootax/1406:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '72405'
+    location_type: postcode
+  name: JONESBORO
+  order: '0'
+  priority: '0'
+  rate: '8.5'
+  shipping: '1'
+  state: AR
+wootax/1407:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '72410'
+    location_type: postcode
+  name: LAWRENCE COUNTY
+  order: '0'
+  priority: '0'
+  rate: '9'
+  shipping: '1'
+  state: AR
+wootax/1408:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '72411'
+    location_type: postcode
+  name: BAY
+  order: '0'
+  priority: '0'
+  rate: '8.5'
+  shipping: '1'
+  state: AR
+wootax/1409:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '72412'
+    location_type: postcode
+  name: GREENE COUNTY
+  order: '0'
+  priority: '0'
+  rate: '8.25'
+  shipping: '1'
+  state: AR
+wootax/1410:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '72413'
+    location_type: postcode
+  name: RANDOLPH COUNTY
+  order: '0'
+  priority: '0'
+  rate: '7.75'
+  shipping: '1'
+  state: AR
+wootax/1411:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '72414'
+    location_type: postcode
+  name: CRAIGHEAD COUNTY
+  order: '0'
+  priority: '0'
+  rate: '7.5'
+  shipping: '1'
+  state: AR
+wootax/1412:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '72415'
+    location_type: postcode
+  name: BLACK ROCK
+  order: '0'
+  priority: '0'
+  rate: '10'
+  shipping: '1'
+  state: AR
+wootax/1413:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '72416'
+    location_type: postcode
+  name: CRAIGHEAD COUNTY
+  order: '0'
+  priority: '0'
+  rate: '7.5'
+  shipping: '1'
+  state: AR
+wootax/1414:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '72417'
+    location_type: postcode
+  name: BROOKLAND
+  order: '0'
+  priority: '0'
+  rate: '10.5'
+  shipping: '1'
+  state: AR
+wootax/1415:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '72419'
+    location_type: postcode
+  name: CRAIGHEAD COUNTY
+  order: '0'
+  priority: '0'
+  rate: '7.5'
+  shipping: '1'
+  state: AR
+wootax/1416:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '72421'
+    location_type: postcode
+  name: CRAIGHEAD COUNTY
+  order: '0'
+  priority: '0'
+  rate: '7.5'
+  shipping: '1'
+  state: AR
+wootax/1417:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '72422'
+    location_type: postcode
+  name: CORNING
+  order: '0'
+  priority: '0'
+  rate: '9.75'
+  shipping: '1'
+  state: AR
+wootax/1418:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '72424'
+    location_type: postcode
+  name: DATTO
+  order: '0'
+  priority: '0'
+  rate: '8'
+  shipping: '1'
+  state: AR
+wootax/1419:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '72425'
+    location_type: postcode
+  name: GREENE COUNTY
+  order: '0'
+  priority: '0'
+  rate: '8.25'
+  shipping: '1'
+  state: AR
+wootax/1420:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '72426'
+    location_type: postcode
+  name: DELL
+  order: '0'
+  priority: '0'
+  rate: '9'
+  shipping: '1'
+  state: AR
+wootax/1421:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '72427'
+    location_type: postcode
+  name: EGYPT
+  order: '0'
+  priority: '0'
+  rate: '7.5'
+  shipping: '1'
+  state: AR
+wootax/1422:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '72428'
+    location_type: postcode
+  name: ETOWAH
+  order: '0'
+  priority: '0'
+  rate: '10'
+  shipping: '1'
+  state: AR
+wootax/1423:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '72429'
+    location_type: postcode
+  name: POINSETT COUNTY
+  order: '0'
+  priority: '0'
+  rate: '7.75'
+  shipping: '1'
+  state: AR
+wootax/1424:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '72430'
+    location_type: postcode
+  name: CLAY COUNTY
+  order: '0'
+  priority: '0'
+  rate: '8'
+  shipping: '1'
+  state: AR
+wootax/1425:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '72431'
+    location_type: postcode
+  name: JACKSON COUNTY
+  order: '0'
+  priority: '0'
+  rate: '8.75'
+  shipping: '1'
+  state: AR
+wootax/1426:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '72432'
+    location_type: postcode
+  name: POINSETT COUNTY
+  order: '0'
+  priority: '0'
+  rate: '7.75'
+  shipping: '1'
+  state: AR
+wootax/1427:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '72433'
+    location_type: postcode
+  name: HOXIE
+  order: '0'
+  priority: '0'
+  rate: '10'
+  shipping: '1'
+  state: AR
+wootax/1428:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '72434'
+    location_type: postcode
+  name: RANDOLPH COUNTY
+  order: '0'
+  priority: '0'
+  rate: '7.75'
+  shipping: '1'
+  state: AR
+wootax/1429:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '72435'
+    location_type: postcode
+  name: CLAY COUNTY
+  order: '0'
+  priority: '0'
+  rate: '8'
+  shipping: '1'
+  state: AR
+wootax/1430:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '72436'
+    location_type: postcode
+  name: GREENE COUNTY
+  order: '0'
+  priority: '0'
+  rate: '8.25'
+  shipping: '1'
+  state: AR
+wootax/1431:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '72437'
+    location_type: postcode
+  name: CRAIGHEAD COUNTY
+  order: '0'
+  priority: '0'
+  rate: '7.5'
+  shipping: '1'
+  state: AR
+wootax/1432:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '72438'
+    location_type: postcode
+  name: LEACHVILLE
+  order: '0'
+  priority: '0'
+  rate: '9'
+  shipping: '1'
+  state: AR
+wootax/1433:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '72440'
+    location_type: postcode
+  name: LYNN
+  order: '0'
+  priority: '0'
+  rate: '9'
+  shipping: '1'
+  state: AR
+wootax/1434:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '72441'
+    location_type: postcode
+  name: CLAY COUNTY
+  order: '0'
+  priority: '0'
+  rate: '8'
+  shipping: '1'
+  state: AR
+wootax/1435:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '72442'
+    location_type: postcode
+  name: MISSISSIPPI COUNTY
+  order: '0'
+  priority: '0'
+  rate: '9'
+  shipping: '1'
+  state: AR
+wootax/1436:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '72443'
+    location_type: postcode
+  name: GREENE COUNTY
+  order: '0'
+  priority: '0'
+  rate: '8.25'
+  shipping: '1'
+  state: AR
+wootax/1437:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '72444'
+    location_type: postcode
+  name: RANDOLPH COUNTY
+  order: '0'
+  priority: '0'
+  rate: '7.75'
+  shipping: '1'
+  state: AR
+wootax/1438:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '72445'
+    location_type: postcode
+  name: MINTURN
+  order: '0'
+  priority: '0'
+  rate: '9'
+  shipping: '1'
+  state: AR
+wootax/1439:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '72447'
+    location_type: postcode
+  name: MONETTE
+  order: '0'
+  priority: '0'
+  rate: '8.5'
+  shipping: '1'
+  state: AR
+wootax/1440:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '72449'
+    location_type: postcode
+  name: RANDOLPH COUNTY
+  order: '0'
+  priority: '0'
+  rate: '7.75'
+  shipping: '1'
+  state: AR
+wootax/1441:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '72450'
+    location_type: postcode
+  name: PARAGOULD
+  order: '0'
+  priority: '0'
+  rate: '9'
+  shipping: '1'
+  state: AR
+wootax/1442:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '72451'
+    location_type: postcode
+  name: PARAGOULD
+  order: '0'
+  priority: '0'
+  rate: '9'
+  shipping: '1'
+  state: AR
+wootax/1443:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '72453'
+    location_type: postcode
+  name: CLAY COUNTY
+  order: '0'
+  priority: '0'
+  rate: '8'
+  shipping: '1'
+  state: AR
+wootax/1444:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '72454'
+    location_type: postcode
+  name: PIGGOTT
+  order: '0'
+  priority: '0'
+  rate: '10'
+  shipping: '1'
+  state: AR
+wootax/1445:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '72455'
+    location_type: postcode
+  name: RANDOLPH COUNTY
+  order: '0'
+  priority: '0'
+  rate: '7.75'
+  shipping: '1'
+  state: AR
+wootax/1446:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '72456'
+    location_type: postcode
+  name: CLAY COUNTY
+  order: '0'
+  priority: '0'
+  rate: '8'
+  shipping: '1'
+  state: AR
+wootax/1447:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '72457'
+    location_type: postcode
+  name: PORTIA
+  order: '0'
+  priority: '0'
+  rate: '10'
+  shipping: '1'
+  state: AR
+wootax/1448:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '72458'
+    location_type: postcode
+  name: LAWRENCE COUNTY
+  order: '0'
+  priority: '0'
+  rate: '9'
+  shipping: '1'
+  state: AR
+wootax/1449:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '72459'
+    location_type: postcode
+  name: RANDOLPH COUNTY
+  order: '0'
+  priority: '0'
+  rate: '7.75'
+  shipping: '1'
+  state: AR
+wootax/1450:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '72460'
+    location_type: postcode
+  name: RANDOLPH COUNTY
+  order: '0'
+  priority: '0'
+  rate: '7.75'
+  shipping: '1'
+  state: AR
+wootax/1451:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '72461'
+    location_type: postcode
+  name: RECTOR
+  order: '0'
+  priority: '0'
+  rate: '10'
+  shipping: '1'
+  state: AR
+wootax/1452:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '72462'
+    location_type: postcode
+  name: REYNO
+  order: '0'
+  priority: '0'
+  rate: '7.75'
+  shipping: '1'
+  state: AR
+wootax/1453:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '72464'
+    location_type: postcode
+  name: CLAY COUNTY
+  order: '0'
+  priority: '0'
+  rate: '8'
+  shipping: '1'
+  state: AR
+wootax/1454:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '72465'
+    location_type: postcode
+  name: SEDGWICK
+  order: '0'
+  priority: '0'
+  rate: '9'
+  shipping: '1'
+  state: AR
+wootax/1455:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '72466'
+    location_type: postcode
+  name: LAWRENCE COUNTY
+  order: '0'
+  priority: '0'
+  rate: '9'
+  shipping: '1'
+  state: AR
+wootax/1456:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '72467'
+    location_type: postcode
+  name: JONESBORO
+  order: '0'
+  priority: '0'
+  rate: '8.5'
+  shipping: '1'
+  state: AR
+wootax/1457:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '72469'
+    location_type: postcode
+  name: LAWRENCE COUNTY
+  order: '0'
+  priority: '0'
+  rate: '9'
+  shipping: '1'
+  state: AR
+wootax/1458:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '72470'
+    location_type: postcode
+  name: CLAY COUNTY
+  order: '0'
+  priority: '0'
+  rate: '8'
+  shipping: '1'
+  state: AR
+wootax/1459:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '72471'
+    location_type: postcode
+  name: SWIFTON
+  order: '0'
+  priority: '0'
+  rate: '9.75'
+  shipping: '1'
+  state: AR
+wootax/1460:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '72472'
+    location_type: postcode
+  name: TRUMANN
+  order: '0'
+  priority: '0'
+  rate: '9.75'
+  shipping: '1'
+  state: AR
+wootax/1461:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '72473'
+    location_type: postcode
+  name: TUCKERMAN
+  order: '0'
+  priority: '0'
+  rate: '10'
+  shipping: '1'
+  state: AR
+wootax/1462:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '72474'
+    location_type: postcode
+  name: GREENE COUNTY
+  order: '0'
+  priority: '0'
+  rate: '8.25'
+  shipping: '1'
+  state: AR
+wootax/1463:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '72475'
+    location_type: postcode
+  name: WALDENBURG
+  order: '0'
+  priority: '0'
+  rate: '9.25'
+  shipping: '1'
+  state: AR
+wootax/1464:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '72476'
+    location_type: postcode
+  name: WALNUT RIDGE
+  order: '0'
+  priority: '0'
+  rate: '11'
+  shipping: '1'
+  state: AR
+wootax/1465:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '72478'
+    location_type: postcode
+  name: RANDOLPH COUNTY
+  order: '0'
+  priority: '0'
+  rate: '7.75'
+  shipping: '1'
+  state: AR
+wootax/1466:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '72479'
+    location_type: postcode
+  name: POINSETT COUNTY
+  order: '0'
+  priority: '0'
+  rate: '7.75'
+  shipping: '1'
+  state: AR
+wootax/1467:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '72482'
+    location_type: postcode
+  name: SHARP COUNTY
+  order: '0'
+  priority: '0'
+  rate: '8.25'
+  shipping: '1'
+  state: AR
+wootax/1468:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '72501'
+    location_type: postcode
+  name: INDEPENDENCE COUNTY
+  order: '0'
+  priority: '0'
+  rate: '8'
+  shipping: '1'
+  state: AR
+wootax/1469:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '72512'
+    location_type: postcode
+  name: HORSESHOE BEND (IZARD CO)
+  order: '0'
+  priority: '0'
+  rate: '9'
+  shipping: '1'
+  state: AR
+wootax/1470:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '72513'
+    location_type: postcode
+  name: FULTON COUNTY
+  order: '0'
+  priority: '0'
+  rate: '9.5'
+  shipping: '1'
+  state: AR
+wootax/1471:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '72515'
+    location_type: postcode
+  name: FULTON COUNTY
+  order: '0'
+  priority: '0'
+  rate: '9.5'
+  shipping: '1'
+  state: AR
+wootax/1472:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '72517'
+    location_type: postcode
+  name: IZARD COUNTY
+  order: '0'
+  priority: '0'
+  rate: '7'
+  shipping: '1'
+  state: AR
+wootax/1473:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '72519'
+    location_type: postcode
+  name: BAXTER COUNTY
+  order: '0'
+  priority: '0'
+  rate: '7.75'
+  shipping: '1'
+  state: AR
+wootax/1474:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '72520'
+    location_type: postcode
+  name: FULTON COUNTY
+  order: '0'
+  priority: '0'
+  rate: '9.5'
+  shipping: '1'
+  state: AR
+wootax/1475:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '72521'
+    location_type: postcode
+  name: SHARP COUNTY
+  order: '0'
+  priority: '0'
+  rate: '8.25'
+  shipping: '1'
+  state: AR
+wootax/1476:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '72522'
+    location_type: postcode
+  name: INDEPENDENCE COUNTY
+  order: '0'
+  priority: '0'
+  rate: '8'
+  shipping: '1'
+  state: AR
+wootax/1477:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '72523'
+    location_type: postcode
+  name: CLEBURNE COUNTY
+  order: '0'
+  priority: '0'
+  rate: '8.125'
+  shipping: '1'
+  state: AR
+wootax/1478:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '72524'
+    location_type: postcode
+  name: INDEPENDENCE COUNTY
+  order: '0'
+  priority: '0'
+  rate: '8'
+  shipping: '1'
+  state: AR
+wootax/1479:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '72526'
+    location_type: postcode
+  name: CUSHMAN
+  order: '0'
+  priority: '0'
+  rate: '8'
+  shipping: '1'
+  state: AR
+wootax/1480:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '72527'
+    location_type: postcode
+  name: INDEPENDENCE COUNTY
+  order: '0'
+  priority: '0'
+  rate: '8'
+  shipping: '1'
+  state: AR
+wootax/1481:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '72528'
+    location_type: postcode
+  name: IZARD COUNTY
+  order: '0'
+  priority: '0'
+  rate: '7'
+  shipping: '1'
+  state: AR
+wootax/1482:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '72529'
+    location_type: postcode
+  name: CHEROKEE VILLAGE
+  order: '0'
+  priority: '0'
+  rate: '9.25'
+  shipping: '1'
+  state: AR
+wootax/1483:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '72530'
+    location_type: postcode
+  name: CLEBURNE COUNTY
+  order: '0'
+  priority: '0'
+  rate: '8.125'
+  shipping: '1'
+  state: AR
+wootax/1484:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '72531'
+    location_type: postcode
+  name: BAXTER COUNTY
+  order: '0'
+  priority: '0'
+  rate: '7.75'
+  shipping: '1'
+  state: AR
+wootax/1485:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '72532'
+    location_type: postcode
+  name: SHARP COUNTY
+  order: '0'
+  priority: '0'
+  rate: '8.25'
+  shipping: '1'
+  state: AR
+wootax/1486:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '72533'
+    location_type: postcode
+  name: STONE COUNTY
+  order: '0'
+  priority: '0'
+  rate: '7.5'
+  shipping: '1'
+  state: AR
+wootax/1487:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '72534'
+    location_type: postcode
+  name: INDEPENDENCE COUNTY
+  order: '0'
+  priority: '0'
+  rate: '8'
+  shipping: '1'
+  state: AR
+wootax/1488:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '72536'
+    location_type: postcode
+  name: FRANKLIN (CITY)
+  order: '0'
+  priority: '0'
+  rate: '8'
+  shipping: '1'
+  state: AR
+wootax/1489:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '72537'
+    location_type: postcode
+  name: BAXTER COUNTY
+  order: '0'
+  priority: '0'
+  rate: '7.75'
+  shipping: '1'
+  state: AR
+wootax/1490:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '72538'
+    location_type: postcode
+  name: FULTON COUNTY
+  order: '0'
+  priority: '0'
+  rate: '9.5'
+  shipping: '1'
+  state: AR
+wootax/1491:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '72539'
+    location_type: postcode
+  name: FULTON COUNTY
+  order: '0'
+  priority: '0'
+  rate: '9.5'
+  shipping: '1'
+  state: AR
+wootax/1492:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '72540'
+    location_type: postcode
+  name: IZARD COUNTY
+  order: '0'
+  priority: '0'
+  rate: '7'
+  shipping: '1'
+  state: AR
+wootax/1493:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '72542'
+    location_type: postcode
+  name: SHARP COUNTY
+  order: '0'
+  priority: '0'
+  rate: '8.25'
+  shipping: '1'
+  state: AR
+wootax/1494:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '72543'
+    location_type: postcode
+  name: CLEBURNE COUNTY
+  order: '0'
+  priority: '0'
+  rate: '8.125'
+  shipping: '1'
+  state: AR
+wootax/1495:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '72544'
+    location_type: postcode
+  name: BAXTER COUNTY
+  order: '0'
+  priority: '0'
+  rate: '7.75'
+  shipping: '1'
+  state: AR
+wootax/1496:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '72545'
+    location_type: postcode
+  name: HEBER SPRINGS
+  order: '0'
+  priority: '0'
+  rate: '9.125'
+  shipping: '1'
+  state: AR
+wootax/1497:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '72546'
+    location_type: postcode
+  name: CLEBURNE COUNTY
+  order: '0'
+  priority: '0'
+  rate: '8.125'
+  shipping: '1'
+  state: AR
+wootax/1498:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '72550'
+    location_type: postcode
+  name: INDEPENDENCE COUNTY
+  order: '0'
+  priority: '0'
+  rate: '8'
+  shipping: '1'
+  state: AR
+wootax/1499:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '72553'
+    location_type: postcode
+  name: MAGNESS
+  order: '0'
+  priority: '0'
+  rate: '8'
+  shipping: '1'
+  state: AR
+wootax/1500:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '72554'
+    location_type: postcode
+  name: FULTON COUNTY
+  order: '0'
+  priority: '0'
+  rate: '9.5'
+  shipping: '1'
+  state: AR
+wootax/1501:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '72555'
+    location_type: postcode
+  name: STONE COUNTY
+  order: '0'
+  priority: '0'
+  rate: '7.5'
+  shipping: '1'
+  state: AR
+wootax/1502:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '72556'
+    location_type: postcode
+  name: IZARD COUNTY
+  order: '0'
+  priority: '0'
+  rate: '7'
+  shipping: '1'
+  state: AR
+wootax/1503:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '72560'
+    location_type: postcode
+  name: STONE COUNTY
+  order: '0'
+  priority: '0'
+  rate: '7.5'
+  shipping: '1'
+  state: AR
+wootax/1504:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '72561'
+    location_type: postcode
+  name: IZARD COUNTY
+  order: '0'
+  priority: '0'
+  rate: '7'
+  shipping: '1'
+  state: AR
+wootax/1505:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '72562'
+    location_type: postcode
+  name: NEWARK
+  order: '0'
+  priority: '0'
+  rate: '8'
+  shipping: '1'
+  state: AR
+wootax/1506:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '72564'
+    location_type: postcode
+  name: INDEPENDENCE COUNTY
+  order: '0'
+  priority: '0'
+  rate: '8'
+  shipping: '1'
+  state: AR
+wootax/1507:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '72565'
+    location_type: postcode
+  name: OXFORD
+  order: '0'
+  priority: '0'
+  rate: '8'
+  shipping: '1'
+  state: AR
+wootax/1508:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '72566'
+    location_type: postcode
+  name: IZARD COUNTY
+  order: '0'
+  priority: '0'
+  rate: '7'
+  shipping: '1'
+  state: AR
+wootax/1509:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '72567'
+    location_type: postcode
+  name: STONE COUNTY
+  order: '0'
+  priority: '0'
+  rate: '7.5'
+  shipping: '1'
+  state: AR
+wootax/1510:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '72568'
+    location_type: postcode
+  name: INDEPENDENCE COUNTY
+  order: '0'
+  priority: '0'
+  rate: '8'
+  shipping: '1'
+  state: AR
+wootax/1511:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '72569'
+    location_type: postcode
+  name: SHARP COUNTY
+  order: '0'
+  priority: '0'
+  rate: '8.25'
+  shipping: '1'
+  state: AR
+wootax/1512:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '72571'
+    location_type: postcode
+  name: INDEPENDENCE COUNTY
+  order: '0'
+  priority: '0'
+  rate: '8'
+  shipping: '1'
+  state: AR
+wootax/1513:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '72572'
+    location_type: postcode
+  name: LAWRENCE COUNTY
+  order: '0'
+  priority: '0'
+  rate: '9'
+  shipping: '1'
+  state: AR
+wootax/1514:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '72573'
+    location_type: postcode
+  name: IZARD COUNTY
+  order: '0'
+  priority: '0'
+  rate: '7'
+  shipping: '1'
+  state: AR
+wootax/1515:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '72575'
+    location_type: postcode
+  name: INDEPENDENCE COUNTY
+  order: '0'
+  priority: '0'
+  rate: '8'
+  shipping: '1'
+  state: AR
+wootax/1516:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '72576'
+    location_type: postcode
+  name: FULTON COUNTY
+  order: '0'
+  priority: '0'
+  rate: '9.5'
+  shipping: '1'
+  state: AR
+wootax/1517:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '72577'
+    location_type: postcode
+  name: IZARD COUNTY
+  order: '0'
+  priority: '0'
+  rate: '7'
+  shipping: '1'
+  state: AR
+wootax/1518:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '72578'
+    location_type: postcode
+  name: FULTON COUNTY
+  order: '0'
+  priority: '0'
+  rate: '9.5'
+  shipping: '1'
+  state: AR
+wootax/1519:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '72579'
+    location_type: postcode
+  name: INDEPENDENCE COUNTY
+  order: '0'
+  priority: '0'
+  rate: '8'
+  shipping: '1'
+  state: AR
+wootax/1520:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '72581'
+    location_type: postcode
+  name: CLEBURNE COUNTY
+  order: '0'
+  priority: '0'
+  rate: '8.125'
+  shipping: '1'
+  state: AR
+wootax/1521:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '72583'
+    location_type: postcode
+  name: FULTON COUNTY
+  order: '0'
+  priority: '0'
+  rate: '9.5'
+  shipping: '1'
+  state: AR
+wootax/1522:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '72584'
+    location_type: postcode
+  name: IZARD COUNTY
+  order: '0'
+  priority: '0'
+  rate: '7'
+  shipping: '1'
+  state: AR
+wootax/1523:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '72585'
+    location_type: postcode
+  name: IZARD COUNTY
+  order: '0'
+  priority: '0'
+  rate: '7'
+  shipping: '1'
+  state: AR
+wootax/1524:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '72587'
+    location_type: postcode
+  name: IZARD COUNTY
+  order: '0'
+  priority: '0'
+  rate: '7'
+  shipping: '1'
+  state: AR
+wootax/1525:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '72601'
+    location_type: postcode
+  name: BOONE COUNTY
+  order: '0'
+  priority: '0'
+  rate: '7.75'
+  shipping: '1'
+  state: AR
+wootax/1526:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '72602'
+    location_type: postcode
+  name: HARRISON
+  order: '0'
+  priority: '0'
+  rate: '9'
+  shipping: '1'
+  state: AR
+wootax/1527:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '72611'
+    location_type: postcode
+  name: CARROLL COUNTY
+  order: '0'
+  priority: '0'
+  rate: '7'
+  shipping: '1'
+  state: AR
+wootax/1528:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '72613'
+    location_type: postcode
+  name: BEAVER
+  order: '0'
+  priority: '0'
+  rate: '7'
+  shipping: '1'
+  state: AR
+wootax/1529:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '72615'
+    location_type: postcode
+  name: BERGMAN
+  order: '0'
+  priority: '0'
+  rate: '7.75'
+  shipping: '1'
+  state: AR
+wootax/1530:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '72616'
+    location_type: postcode
+  name: CARROLL COUNTY
+  order: '0'
+  priority: '0'
+  rate: '7'
+  shipping: '1'
+  state: AR
+wootax/1531:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '72617'
+    location_type: postcode
+  name: BAXTER COUNTY
+  order: '0'
+  priority: '0'
+  rate: '7.75'
+  shipping: '1'
+  state: AR
+wootax/1532:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '72619'
+    location_type: postcode
+  name: BULL SHOALS
+  order: '0'
+  priority: '0'
+  rate: '10.25'
+  shipping: '1'
+  state: AR
+wootax/1533:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '72623'
+    location_type: postcode
+  name: BAXTER COUNTY
+  order: '0'
+  priority: '0'
+  rate: '7.75'
+  shipping: '1'
+  state: AR
+wootax/1534:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '72624'
+    location_type: postcode
+  name: NEWTON COUNTY
+  order: '0'
+  priority: '0'
+  rate: '7.5'
+  shipping: '1'
+  state: AR
+wootax/1535:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '72626'
+    location_type: postcode
+  name: COTTER
+  order: '0'
+  priority: '0'
+  rate: '9.75'
+  shipping: '1'
+  state: AR
+wootax/1536:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '72628'
+    location_type: postcode
+  name: NEWTON COUNTY
+  order: '0'
+  priority: '0'
+  rate: '7.5'
+  shipping: '1'
+  state: AR
+wootax/1537:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '72629'
+    location_type: postcode
+  name: VAN BUREN COUNTY
+  order: '0'
+  priority: '0'
+  rate: '8.5'
+  shipping: '1'
+  state: AR
+wootax/1538:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '72631'
+    location_type: postcode
+  name: CARROLL COUNTY
+  order: '0'
+  priority: '0'
+  rate: '7'
+  shipping: '1'
+  state: AR
+wootax/1539:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '72632'
+    location_type: postcode
+  name: CARROLL COUNTY
+  order: '0'
+  priority: '0'
+  rate: '7'
+  shipping: '1'
+  state: AR
+wootax/1540:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '72633'
+    location_type: postcode
+  name: BOONE COUNTY
+  order: '0'
+  priority: '0'
+  rate: '7.75'
+  shipping: '1'
+  state: AR
+wootax/1541:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '72634'
+    location_type: postcode
+  name: MARION COUNTY
+  order: '0'
+  priority: '0'
+  rate: '8.25'
+  shipping: '1'
+  state: AR
+wootax/1542:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '72635'
+    location_type: postcode
+  name: BAXTER COUNTY
+  order: '0'
+  priority: '0'
+  rate: '7.75'
+  shipping: '1'
+  state: AR
+wootax/1543:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '72636'
+    location_type: postcode
+  name: GILBERT
+  order: '0'
+  priority: '0'
+  rate: '9'
+  shipping: '1'
+  state: AR
+wootax/1544:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '72638'
+    location_type: postcode
+  name: CARROLL COUNTY
+  order: '0'
+  priority: '0'
+  rate: '7'
+  shipping: '1'
+  state: AR
+wootax/1545:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '72639'
+    location_type: postcode
+  name: SEARCY COUNTY
+  order: '0'
+  priority: '0'
+  rate: '8'
+  shipping: '1'
+  state: AR
+wootax/1546:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '72640'
+    location_type: postcode
+  name: NEWTON COUNTY
+  order: '0'
+  priority: '0'
+  rate: '7.5'
+  shipping: '1'
+  state: AR
+wootax/1547:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '72641'
+    location_type: postcode
+  name: JASPER
+  order: '0'
+  priority: '0'
+  rate: '9.5'
+  shipping: '1'
+  state: AR
+wootax/1548:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '72642'
+    location_type: postcode
+  name: BAXTER COUNTY
+  order: '0'
+  priority: '0'
+  rate: '7.75'
+  shipping: '1'
+  state: AR
+wootax/1549:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '72644'
+    location_type: postcode
+  name: BOONE COUNTY
+  order: '0'
+  priority: '0'
+  rate: '7.75'
+  shipping: '1'
+  state: AR
+wootax/1550:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '72645'
+    location_type: postcode
+  name: SEARCY COUNTY
+  order: '0'
+  priority: '0'
+  rate: '8'
+  shipping: '1'
+  state: AR
+wootax/1551:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '72648'
+    location_type: postcode
+  name: NEWTON COUNTY
+  order: '0'
+  priority: '0'
+  rate: '7.5'
+  shipping: '1'
+  state: AR
+wootax/1552:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '72650'
+    location_type: postcode
+  name: SEARCY COUNTY
+  order: '0'
+  priority: '0'
+  rate: '8'
+  shipping: '1'
+  state: AR
+wootax/1553:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '72651'
+    location_type: postcode
+  name: BAXTER COUNTY
+  order: '0'
+  priority: '0'
+  rate: '7.75'
+  shipping: '1'
+  state: AR
+wootax/1554:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '72653'
+    location_type: postcode
+  name: BAXTER COUNTY
+  order: '0'
+  priority: '0'
+  rate: '7.75'
+  shipping: '1'
+  state: AR
+wootax/1555:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '72654'
+    location_type: postcode
+  name: MOUNTAIN HOME
+  order: '0'
+  priority: '0'
+  rate: '9.125'
+  shipping: '1'
+  state: AR
+wootax/1556:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '72655'
+    location_type: postcode
+  name: NEWTON COUNTY
+  order: '0'
+  priority: '0'
+  rate: '7.5'
+  shipping: '1'
+  state: AR
+wootax/1557:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '72657'
+    location_type: postcode
+  name: STONE COUNTY
+  order: '0'
+  priority: '0'
+  rate: '7.5'
+  shipping: '1'
+  state: AR
+wootax/1558:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '72658'
+    location_type: postcode
+  name: BAXTER COUNTY
+  order: '0'
+  priority: '0'
+  rate: '7.75'
+  shipping: '1'
+  state: AR
+wootax/1559:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '72659'
+    location_type: postcode
+  name: NORFORK
+  order: '0'
+  priority: '0'
+  rate: '8.75'
+  shipping: '1'
+  state: AR
+wootax/1560:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '72660'
+    location_type: postcode
+  name: CARROLL COUNTY
+  order: '0'
+  priority: '0'
+  rate: '7'
+  shipping: '1'
+  state: AR
+wootax/1561:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '72661'
+    location_type: postcode
+  name: MARION COUNTY
+  order: '0'
+  priority: '0'
+  rate: '8.25'
+  shipping: '1'
+  state: AR
+wootax/1562:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '72662'
+    location_type: postcode
+  name: BOONE COUNTY
+  order: '0'
+  priority: '0'
+  rate: '7.75'
+  shipping: '1'
+  state: AR
+wootax/1563:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '72663'
+    location_type: postcode
+  name: STONE COUNTY
+  order: '0'
+  priority: '0'
+  rate: '7.5'
+  shipping: '1'
+  state: AR
+wootax/1564:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '72666'
+    location_type: postcode
+  name: NEWTON COUNTY
+  order: '0'
+  priority: '0'
+  rate: '7.5'
+  shipping: '1'
+  state: AR
+wootax/1565:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '72668'
+    location_type: postcode
+  name: MARION COUNTY
+  order: '0'
+  priority: '0'
+  rate: '8.25'
+  shipping: '1'
+  state: AR
+wootax/1566:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '72669'
+    location_type: postcode
+  name: PINDALL
+  order: '0'
+  priority: '0'
+  rate: '8'
+  shipping: '1'
+  state: AR
+wootax/1567:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '72670'
+    location_type: postcode
+  name: NEWTON COUNTY
+  order: '0'
+  priority: '0'
+  rate: '7.5'
+  shipping: '1'
+  state: AR
+wootax/1568:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '72672'
+    location_type: postcode
+  name: PYATT
+  order: '0'
+  priority: '0'
+  rate: '8.75'
+  shipping: '1'
+  state: AR
+wootax/1569:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '72675'
+    location_type: postcode
+  name: SEARCY COUNTY
+  order: '0'
+  priority: '0'
+  rate: '8'
+  shipping: '1'
+  state: AR
+wootax/1570:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '72677'
+    location_type: postcode
+  name: SUMMIT
+  order: '0'
+  priority: '0'
+  rate: '9.25'
+  shipping: '1'
+  state: AR
+wootax/1571:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '72679'
+    location_type: postcode
+  name: POPE COUNTY
+  order: '0'
+  priority: '0'
+  rate: '7.5'
+  shipping: '1'
+  state: AR
+wootax/1572:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '72680'
+    location_type: postcode
+  name: STONE COUNTY
+  order: '0'
+  priority: '0'
+  rate: '7.5'
+  shipping: '1'
+  state: AR
+wootax/1573:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '72682'
+    location_type: postcode
+  name: MARION COUNTY
+  order: '0'
+  priority: '0'
+  rate: '8.25'
+  shipping: '1'
+  state: AR
+wootax/1574:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '72683'
+    location_type: postcode
+  name: NEWTON COUNTY
+  order: '0'
+  priority: '0'
+  rate: '7.5'
+  shipping: '1'
+  state: AR
+wootax/1575:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '72685'
+    location_type: postcode
+  name: BOONE COUNTY
+  order: '0'
+  priority: '0'
+  rate: '7.75'
+  shipping: '1'
+  state: AR
+wootax/1576:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '72686'
+    location_type: postcode
+  name: SEARCY COUNTY
+  order: '0'
+  priority: '0'
+  rate: '8'
+  shipping: '1'
+  state: AR
+wootax/1577:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '72687'
+    location_type: postcode
+  name: MARION COUNTY
+  order: '0'
+  priority: '0'
+  rate: '8.25'
+  shipping: '1'
+  state: AR
+wootax/1578:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '72701'
+    location_type: postcode
+  name: FAYETTEVILLE
+  order: '0'
+  priority: '0'
+  rate: '9.75'
+  shipping: '1'
+  state: AR
+wootax/1579:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '72702'
+    location_type: postcode
+  name: FAYETTEVILLE
+  order: '0'
+  priority: '0'
+  rate: '9.75'
+  shipping: '1'
+  state: AR
+wootax/1580:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '72703'
+    location_type: postcode
+  name: FAYETTEVILLE
+  order: '0'
+  priority: '0'
+  rate: '9.75'
+  shipping: '1'
+  state: AR
+wootax/1581:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '72704'
+    location_type: postcode
+  name: FAYETTEVILLE
+  order: '0'
+  priority: '0'
+  rate: '9.75'
+  shipping: '1'
+  state: AR
+wootax/1582:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '72711'
+    location_type: postcode
+  name: AVOCA
+  order: '0'
+  priority: '0'
+  rate: '8.5'
+  shipping: '1'
+  state: AR
+wootax/1583:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '72712'
+    location_type: postcode
+  name: BENTONVILLE
+  order: '0'
+  priority: '0'
+  rate: '9.5'
+  shipping: '1'
+  state: AR
+wootax/1584:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '72713'
+    location_type: postcode
+  name: BENTONVILLE
+  order: '0'
+  priority: '0'
+  rate: '9.5'
+  shipping: '1'
+  state: AR
+wootax/1585:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '72714'
+    location_type: postcode
+  name: BELLA VISTA
+  order: '0'
+  priority: '0'
+  rate: '8.5'
+  shipping: '1'
+  state: AR
+wootax/1586:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '72715'
+    location_type: postcode
+  name: BELLA VISTA
+  order: '0'
+  priority: '0'
+  rate: '8.5'
+  shipping: '1'
+  state: AR
+wootax/1587:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '72716'
+    location_type: postcode
+  name: BENTONVILLE
+  order: '0'
+  priority: '0'
+  rate: '9.5'
+  shipping: '1'
+  state: AR
+wootax/1588:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '72717'
+    location_type: postcode
+  name: WASHINGTON COUNTY
+  order: '0'
+  priority: '0'
+  rate: '7.75'
+  shipping: '1'
+  state: AR
+wootax/1589:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '72718'
+    location_type: postcode
+  name: CAVE SPRINGS
+  order: '0'
+  priority: '0'
+  rate: '8.5'
+  shipping: '1'
+  state: AR
+wootax/1590:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '72719'
+    location_type: postcode
+  name: CENTERTON
+  order: '0'
+  priority: '0'
+  rate: '9.5'
+  shipping: '1'
+  state: AR
+wootax/1591:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '72721'
+    location_type: postcode
+  name: MADISON COUNTY
+  order: '0'
+  priority: '0'
+  rate: '8.5'
+  shipping: '1'
+  state: AR
+wootax/1592:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '72722'
+    location_type: postcode
+  name: BENTON COUNTY
+  order: '0'
+  priority: '0'
+  rate: '7.5'
+  shipping: '1'
+  state: AR
+wootax/1593:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '72727'
+    location_type: postcode
+  name: MADISON COUNTY
+  order: '0'
+  priority: '0'
+  rate: '8.5'
+  shipping: '1'
+  state: AR
+wootax/1594:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '72728'
+    location_type: postcode
+  name: ELM SPRINGS (WASHINGTON CO)
+  order: '0'
+  priority: '0'
+  rate: '8.75'
+  shipping: '1'
+  state: AR
+wootax/1595:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '72729'
+    location_type: postcode
+  name: WASHINGTON COUNTY
+  order: '0'
+  priority: '0'
+  rate: '7.75'
+  shipping: '1'
+  state: AR
+wootax/1596:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '72730'
+    location_type: postcode
+  name: FARMINGTON
+  order: '0'
+  priority: '0'
+  rate: '9.75'
+  shipping: '1'
+  state: AR
+wootax/1597:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '72732'
+    location_type: postcode
+  name: BENTON COUNTY
+  order: '0'
+  priority: '0'
+  rate: '7.5'
+  shipping: '1'
+  state: AR
+wootax/1598:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '72733'
+    location_type: postcode
+  name: GATEWAY
+  order: '0'
+  priority: '0'
+  rate: '7.5'
+  shipping: '1'
+  state: AR
+wootax/1599:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '72734'
+    location_type: postcode
+  name: BENTON COUNTY
+  order: '0'
+  priority: '0'
+  rate: '7.5'
+  shipping: '1'
+  state: AR
+wootax/1600:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '72735'
+    location_type: postcode
+  name: GOSHEN
+  order: '0'
+  priority: '0'
+  rate: '8.75'
+  shipping: '1'
+  state: AR
+wootax/1601:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '72736'
+    location_type: postcode
+  name: BENTON COUNTY
+  order: '0'
+  priority: '0'
+  rate: '7.5'
+  shipping: '1'
+  state: AR
+wootax/1602:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '72737'
+    location_type: postcode
+  name: FAYETTEVILLE
+  order: '0'
+  priority: '0'
+  rate: '9.75'
+  shipping: '1'
+  state: AR
+wootax/1603:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '72738'
+    location_type: postcode
+  name: MADISON COUNTY
+  order: '0'
+  priority: '0'
+  rate: '8.5'
+  shipping: '1'
+  state: AR
+wootax/1604:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '72739'
+    location_type: postcode
+  name: GRAVETTE
+  order: '0'
+  priority: '0'
+  rate: '9.5'
+  shipping: '1'
+  state: AR
+wootax/1605:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '72740'
+    location_type: postcode
+  name: MADISON COUNTY
+  order: '0'
+  priority: '0'
+  rate: '8.5'
+  shipping: '1'
+  state: AR
+wootax/1606:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '72742'
+    location_type: postcode
+  name: MADISON COUNTY
+  order: '0'
+  priority: '0'
+  rate: '8.5'
+  shipping: '1'
+  state: AR
+wootax/1607:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '72744'
+    location_type: postcode
+  name: WASHINGTON COUNTY
+  order: '0'
+  priority: '0'
+  rate: '7.75'
+  shipping: '1'
+  state: AR
+wootax/1608:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '72745'
+    location_type: postcode
+  name: LOWELL
+  order: '0'
+  priority: '0'
+  rate: '9.5'
+  shipping: '1'
+  state: AR
+wootax/1609:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '72747'
+    location_type: postcode
+  name: BENTON COUNTY
+  order: '0'
+  priority: '0'
+  rate: '7.5'
+  shipping: '1'
+  state: AR
+wootax/1610:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '72749'
+    location_type: postcode
+  name: WASHINGTON COUNTY
+  order: '0'
+  priority: '0'
+  rate: '7.75'
+  shipping: '1'
+  state: AR
+wootax/1611:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '72751'
+    location_type: postcode
+  name: PEA RIDGE
+  order: '0'
+  priority: '0'
+  rate: '8.5'
+  shipping: '1'
+  state: AR
+wootax/1612:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '72752'
+    location_type: postcode
+  name: MADISON COUNTY
+  order: '0'
+  priority: '0'
+  rate: '8.5'
+  shipping: '1'
+  state: AR
+wootax/1613:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '72753'
+    location_type: postcode
+  name: WASHINGTON COUNTY
+  order: '0'
+  priority: '0'
+  rate: '7.75'
+  shipping: '1'
+  state: AR
+wootax/1614:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '72756'
+    location_type: postcode
+  name: ROGERS
+  order: '0'
+  priority: '0'
+  rate: '9.5'
+  shipping: '1'
+  state: AR
+wootax/1615:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '72757'
+    location_type: postcode
+  name: ROGERS
+  order: '0'
+  priority: '0'
+  rate: '9.5'
+  shipping: '1'
+  state: AR
+wootax/1616:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '72758'
+    location_type: postcode
+  name: ROGERS
+  order: '0'
+  priority: '0'
+  rate: '9.5'
+  shipping: '1'
+  state: AR
+wootax/1617:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '72760'
+    location_type: postcode
+  name: MADISON COUNTY
+  order: '0'
+  priority: '0'
+  rate: '8.5'
+  shipping: '1'
+  state: AR
+wootax/1618:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '72761'
+    location_type: postcode
+  name: SILOAM SPRINGS
+  order: '0'
+  priority: '0'
+  rate: '9.5'
+  shipping: '1'
+  state: AR
+wootax/1619:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '72762'
+    location_type: postcode
+  name: SPRINGDALE (WASHINGTON CO)
+  order: '0'
+  priority: '0'
+  rate: '9.75'
+  shipping: '1'
+  state: AR
+wootax/1620:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '72764'
+    location_type: postcode
+  name: SPRINGDALE (WASHINGTON CO)
+  order: '0'
+  priority: '0'
+  rate: '9.75'
+  shipping: '1'
+  state: AR
+wootax/1621:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '72765'
+    location_type: postcode
+  name: SPRINGDALE (WASHINGTON CO)
+  order: '0'
+  priority: '0'
+  rate: '9.75'
+  shipping: '1'
+  state: AR
+wootax/1622:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '72766'
+    location_type: postcode
+  name: SPRINGDALE (WASHINGTON CO)
+  order: '0'
+  priority: '0'
+  rate: '9.75'
+  shipping: '1'
+  state: AR
+wootax/1623:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '72768'
+    location_type: postcode
+  name: BENTON COUNTY
+  order: '0'
+  priority: '0'
+  rate: '7.5'
+  shipping: '1'
+  state: AR
+wootax/1624:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '72769'
+    location_type: postcode
+  name: WASHINGTON COUNTY
+  order: '0'
+  priority: '0'
+  rate: '7.75'
+  shipping: '1'
+  state: AR
+wootax/1625:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '72770'
+    location_type: postcode
+  name: TONTITOWN
+  order: '0'
+  priority: '0'
+  rate: '10.5'
+  shipping: '1'
+  state: AR
+wootax/1626:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '72773'
+    location_type: postcode
+  name: MADISON COUNTY
+  order: '0'
+  priority: '0'
+  rate: '8.5'
+  shipping: '1'
+  state: AR
+wootax/1627:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '72774'
+    location_type: postcode
+  name: WASHINGTON COUNTY
+  order: '0'
+  priority: '0'
+  rate: '7.75'
+  shipping: '1'
+  state: AR
+wootax/1628:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '72776'
+    location_type: postcode
+  name: MADISON COUNTY
+  order: '0'
+  priority: '0'
+  rate: '8.5'
+  shipping: '1'
+  state: AR
+wootax/1629:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '72801'
+    location_type: postcode
+  name: RUSSELLVILLE
+  order: '0'
+  priority: '0'
+  rate: '9'
+  shipping: '1'
+  state: AR
+wootax/1630:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '72802'
+    location_type: postcode
+  name: POPE COUNTY
+  order: '0'
+  priority: '0'
+  rate: '7.5'
+  shipping: '1'
+  state: AR
+wootax/1631:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '72811'
+    location_type: postcode
+  name: RUSSELLVILLE
+  order: '0'
+  priority: '0'
+  rate: '9'
+  shipping: '1'
+  state: AR
+wootax/1632:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '72812'
+    location_type: postcode
+  name: RUSSELLVILLE
+  order: '0'
+  priority: '0'
+  rate: '9'
+  shipping: '1'
+  state: AR
+wootax/1633:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '72820'
+    location_type: postcode
+  name: FRANKLIN COUNTY
+  order: '0'
+  priority: '0'
+  rate: '8.5'
+  shipping: '1'
+  state: AR
+wootax/1634:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '72821'
+    location_type: postcode
+  name: FRANKLIN COUNTY
+  order: '0'
+  priority: '0'
+  rate: '8.5'
+  shipping: '1'
+  state: AR
+wootax/1635:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '72823'
+    location_type: postcode
+  name: POPE COUNTY
+  order: '0'
+  priority: '0'
+  rate: '7.5'
+  shipping: '1'
+  state: AR
+wootax/1636:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '72824'
+    location_type: postcode
+  name: YELL COUNTY
+  order: '0'
+  priority: '0'
+  rate: '8.375'
+  shipping: '1'
+  state: AR
+wootax/1637:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '72826'
+    location_type: postcode
+  name: BLUE MOUNTAIN
+  order: '0'
+  priority: '0'
+  rate: '9.5'
+  shipping: '1'
+  state: AR
+wootax/1638:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '72827'
+    location_type: postcode
+  name: YELL COUNTY
+  order: '0'
+  priority: '0'
+  rate: '8.375'
+  shipping: '1'
+  state: AR
+wootax/1639:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '72828'
+    location_type: postcode
+  name: YELL COUNTY
+  order: '0'
+  priority: '0'
+  rate: '8.375'
+  shipping: '1'
+  state: AR
+wootax/1640:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '72829'
+    location_type: postcode
+  name: YELL COUNTY
+  order: '0'
+  priority: '0'
+  rate: '8.375'
+  shipping: '1'
+  state: AR
+wootax/1641:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '72830'
+    location_type: postcode
+  name: JOHNSON COUNTY
+  order: '0'
+  priority: '0'
+  rate: '7.5'
+  shipping: '1'
+  state: AR
+wootax/1642:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '72832'
+    location_type: postcode
+  name: COAL HILL
+  order: '0'
+  priority: '0'
+  rate: '8.5'
+  shipping: '1'
+  state: AR
+wootax/1643:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '72833'
+    location_type: postcode
+  name: YELL COUNTY
+  order: '0'
+  priority: '0'
+  rate: '8.375'
+  shipping: '1'
+  state: AR
+wootax/1644:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '72834'
+    location_type: postcode
+  name: YELL COUNTY
+  order: '0'
+  priority: '0'
+  rate: '8.375'
+  shipping: '1'
+  state: AR
+wootax/1645:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '72835'
+    location_type: postcode
+  name: LOGAN COUNTY
+  order: '0'
+  priority: '0'
+  rate: '8.5'
+  shipping: '1'
+  state: AR
+wootax/1646:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '72837'
+    location_type: postcode
+  name: POPE COUNTY
+  order: '0'
+  priority: '0'
+  rate: '7.5'
+  shipping: '1'
+  state: AR
+wootax/1647:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '72838'
+    location_type: postcode
+  name: YELL COUNTY
+  order: '0'
+  priority: '0'
+  rate: '8.375'
+  shipping: '1'
+  state: AR
+wootax/1648:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '72839'
+    location_type: postcode
+  name: JOHNSON COUNTY
+  order: '0'
+  priority: '0'
+  rate: '7.5'
+  shipping: '1'
+  state: AR
+wootax/1649:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '72840'
+    location_type: postcode
+  name: JOHNSON COUNTY
+  order: '0'
+  priority: '0'
+  rate: '7.5'
+  shipping: '1'
+  state: AR
+wootax/1650:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '72841'
+    location_type: postcode
+  name: SCOTT COUNTY
+  order: '0'
+  priority: '0'
+  rate: '9.125'
+  shipping: '1'
+  state: AR
+wootax/1651:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '72842'
+    location_type: postcode
+  name: YELL COUNTY
+  order: '0'
+  priority: '0'
+  rate: '8.375'
+  shipping: '1'
+  state: AR
+wootax/1652:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '72843'
+    location_type: postcode
+  name: POPE COUNTY
+  order: '0'
+  priority: '0'
+  rate: '7.5'
+  shipping: '1'
+  state: AR
+wootax/1653:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '72845'
+    location_type: postcode
+  name: KNOXVILLE
+  order: '0'
+  priority: '0'
+  rate: '7.5'
+  shipping: '1'
+  state: AR
+wootax/1654:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '72846'
+    location_type: postcode
+  name: JOHNSON COUNTY
+  order: '0'
+  priority: '0'
+  rate: '7.5'
+  shipping: '1'
+  state: AR
+wootax/1655:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '72847'
+    location_type: postcode
+  name: POPE COUNTY
+  order: '0'
+  priority: '0'
+  rate: '7.5'
+  shipping: '1'
+  state: AR
+wootax/1656:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '72851'
+    location_type: postcode
+  name: LOGAN COUNTY
+  order: '0'
+  priority: '0'
+  rate: '8.5'
+  shipping: '1'
+  state: AR
+wootax/1657:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '72852'
+    location_type: postcode
+  name: JOHNSON COUNTY
+  order: '0'
+  priority: '0'
+  rate: '7.5'
+  shipping: '1'
+  state: AR
+wootax/1658:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '72853'
+    location_type: postcode
+  name: YELL COUNTY
+  order: '0'
+  priority: '0'
+  rate: '8.375'
+  shipping: '1'
+  state: AR
+wootax/1659:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '72854'
+    location_type: postcode
+  name: JOHNSON COUNTY
+  order: '0'
+  priority: '0'
+  rate: '7.5'
+  shipping: '1'
+  state: AR
+wootax/1660:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '72855'
+    location_type: postcode
+  name: PARIS
+  order: '0'
+  priority: '0'
+  rate: '10'
+  shipping: '1'
+  state: AR
+wootax/1661:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '72856'
+    location_type: postcode
+  name: POPE COUNTY
+  order: '0'
+  priority: '0'
+  rate: '7.5'
+  shipping: '1'
+  state: AR
+wootax/1662:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '72857'
+    location_type: postcode
+  name: YELL COUNTY
+  order: '0'
+  priority: '0'
+  rate: '8.375'
+  shipping: '1'
+  state: AR
+wootax/1663:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '72858'
+    location_type: postcode
+  name: POTTSVILLE
+  order: '0'
+  priority: '0'
+  rate: '9'
+  shipping: '1'
+  state: AR
+wootax/1664:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '72860'
+    location_type: postcode
+  name: YELL COUNTY
+  order: '0'
+  priority: '0'
+  rate: '8.375'
+  shipping: '1'
+  state: AR
+wootax/1665:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '72863'
+    location_type: postcode
+  name: LOGAN COUNTY
+  order: '0'
+  priority: '0'
+  rate: '8.5'
+  shipping: '1'
+  state: AR
+wootax/1666:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '72865'
+    location_type: postcode
+  name: LOGAN COUNTY
+  order: '0'
+  priority: '0'
+  rate: '8.5'
+  shipping: '1'
+  state: AR
+wootax/1667:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '72901'
+    location_type: postcode
+  name: FORT SMITH
+  order: '0'
+  priority: '0'
+  rate: '9.75'
+  shipping: '1'
+  state: AR
+wootax/1668:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '72902'
+    location_type: postcode
+  name: FORT SMITH
+  order: '0'
+  priority: '0'
+  rate: '9.75'
+  shipping: '1'
+  state: AR
+wootax/1669:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '72903'
+    location_type: postcode
+  name: FORT SMITH
+  order: '0'
+  priority: '0'
+  rate: '9.75'
+  shipping: '1'
+  state: AR
+wootax/1670:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '72904'
+    location_type: postcode
+  name: FORT SMITH
+  order: '0'
+  priority: '0'
+  rate: '9.75'
+  shipping: '1'
+  state: AR
+wootax/1671:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '72905'
+    location_type: postcode
+  name: FORT SMITH
+  order: '0'
+  priority: '0'
+  rate: '9.75'
+  shipping: '1'
+  state: AR
+wootax/1672:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '72906'
+    location_type: postcode
+  name: FORT SMITH
+  order: '0'
+  priority: '0'
+  rate: '9.75'
+  shipping: '1'
+  state: AR
+wootax/1673:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '72908'
+    location_type: postcode
+  name: FORT SMITH
+  order: '0'
+  priority: '0'
+  rate: '9.75'
+  shipping: '1'
+  state: AR
+wootax/1674:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '72913'
+    location_type: postcode
+  name: FORT SMITH
+  order: '0'
+  priority: '0'
+  rate: '9.75'
+  shipping: '1'
+  state: AR
+wootax/1675:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '72914'
+    location_type: postcode
+  name: FORT SMITH
+  order: '0'
+  priority: '0'
+  rate: '9.75'
+  shipping: '1'
+  state: AR
+wootax/1676:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '72916'
+    location_type: postcode
+  name: SEBASTIAN COUNTY
+  order: '0'
+  priority: '0'
+  rate: '7.75'
+  shipping: '1'
+  state: AR
+wootax/1677:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '72917'
+    location_type: postcode
+  name: FORT SMITH
+  order: '0'
+  priority: '0'
+  rate: '9.75'
+  shipping: '1'
+  state: AR
+wootax/1678:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '72918'
+    location_type: postcode
+  name: FORT SMITH
+  order: '0'
+  priority: '0'
+  rate: '9.75'
+  shipping: '1'
+  state: AR
+wootax/1679:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '72919'
+    location_type: postcode
+  name: FORT SMITH
+  order: '0'
+  priority: '0'
+  rate: '9.75'
+  shipping: '1'
+  state: AR
+wootax/1680:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '72921'
+    location_type: postcode
+  name: CRAWFORD COUNTY
+  order: '0'
+  priority: '0'
+  rate: '8.25'
+  shipping: '1'
+  state: AR
+wootax/1681:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '72923'
+    location_type: postcode
+  name: BARLING
+  order: '0'
+  priority: '0'
+  rate: '9.75'
+  shipping: '1'
+  state: AR
+wootax/1682:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '72926'
+    location_type: postcode
+  name: SCOTT COUNTY
+  order: '0'
+  priority: '0'
+  rate: '9.125'
+  shipping: '1'
+  state: AR
+wootax/1683:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '72927'
+    location_type: postcode
+  name: LOGAN COUNTY
+  order: '0'
+  priority: '0'
+  rate: '8.5'
+  shipping: '1'
+  state: AR
+wootax/1684:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '72928'
+    location_type: postcode
+  name: FRANKLIN COUNTY
+  order: '0'
+  priority: '0'
+  rate: '8.5'
+  shipping: '1'
+  state: AR
+wootax/1685:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '72930'
+    location_type: postcode
+  name: FRANKLIN COUNTY
+  order: '0'
+  priority: '0'
+  rate: '8.5'
+  shipping: '1'
+  state: AR
+wootax/1686:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '72932'
+    location_type: postcode
+  name: CEDARVILLE
+  order: '0'
+  priority: '0'
+  rate: '9.25'
+  shipping: '1'
+  state: AR
+wootax/1687:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '72933'
+    location_type: postcode
+  name: CHARLESTON
+  order: '0'
+  priority: '0'
+  rate: '10'
+  shipping: '1'
+  state: AR
+wootax/1688:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '72934'
+    location_type: postcode
+  name: CRAWFORD COUNTY
+  order: '0'
+  priority: '0'
+  rate: '8.25'
+  shipping: '1'
+  state: AR
+wootax/1689:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '72935'
+    location_type: postcode
+  name: DYER
+  order: '0'
+  priority: '0'
+  rate: '9.25'
+  shipping: '1'
+  state: AR
+wootax/1690:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '72936'
+    location_type: postcode
+  name: SEBASTIAN COUNTY
+  order: '0'
+  priority: '0'
+  rate: '7.75'
+  shipping: '1'
+  state: AR
+wootax/1691:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '72937'
+    location_type: postcode
+  name: SEBASTIAN COUNTY
+  order: '0'
+  priority: '0'
+  rate: '7.75'
+  shipping: '1'
+  state: AR
+wootax/1692:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '72938'
+    location_type: postcode
+  name: HARTFORD
+  order: '0'
+  priority: '0'
+  rate: '9.75'
+  shipping: '1'
+  state: AR
+wootax/1693:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '72940'
+    location_type: postcode
+  name: SEBASTIAN COUNTY
+  order: '0'
+  priority: '0'
+  rate: '7.75'
+  shipping: '1'
+  state: AR
+wootax/1694:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '72941'
+    location_type: postcode
+  name: SEBASTIAN COUNTY
+  order: '0'
+  priority: '0'
+  rate: '7.75'
+  shipping: '1'
+  state: AR
+wootax/1695:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '72943'
+    location_type: postcode
+  name: LOGAN COUNTY
+  order: '0'
+  priority: '0'
+  rate: '8.5'
+  shipping: '1'
+  state: AR
+wootax/1696:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '72944'
+    location_type: postcode
+  name: SEBASTIAN COUNTY
+  order: '0'
+  priority: '0'
+  rate: '7.75'
+  shipping: '1'
+  state: AR
+wootax/1697:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '72945'
+    location_type: postcode
+  name: MIDLAND
+  order: '0'
+  priority: '0'
+  rate: '7.75'
+  shipping: '1'
+  state: AR
+wootax/1698:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '72946'
+    location_type: postcode
+  name: CRAWFORD COUNTY
+  order: '0'
+  priority: '0'
+  rate: '8.25'
+  shipping: '1'
+  state: AR
+wootax/1699:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '72947'
+    location_type: postcode
+  name: CRAWFORD COUNTY
+  order: '0'
+  priority: '0'
+  rate: '8.25'
+  shipping: '1'
+  state: AR
+wootax/1700:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '72948'
+    location_type: postcode
+  name: CRAWFORD COUNTY
+  order: '0'
+  priority: '0'
+  rate: '8.25'
+  shipping: '1'
+  state: AR
+wootax/1701:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '72949'
+    location_type: postcode
+  name: FRANKLIN COUNTY
+  order: '0'
+  priority: '0'
+  rate: '8.5'
+  shipping: '1'
+  state: AR
+wootax/1702:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '72950'
+    location_type: postcode
+  name: SCOTT COUNTY
+  order: '0'
+  priority: '0'
+  rate: '9.125'
+  shipping: '1'
+  state: AR
+wootax/1703:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '72951'
+    location_type: postcode
+  name: FRANKLIN COUNTY
+  order: '0'
+  priority: '0'
+  rate: '8.5'
+  shipping: '1'
+  state: AR
+wootax/1704:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '72952'
+    location_type: postcode
+  name: CRAWFORD COUNTY
+  order: '0'
+  priority: '0'
+  rate: '8.25'
+  shipping: '1'
+  state: AR
+wootax/1705:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '72955'
+    location_type: postcode
+  name: CRAWFORD COUNTY
+  order: '0'
+  priority: '0'
+  rate: '8.25'
+  shipping: '1'
+  state: AR
+wootax/1706:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '72956'
+    location_type: postcode
+  name: VAN BUREN (CITY)
+  order: '0'
+  priority: '0'
+  rate: '10.25'
+  shipping: '1'
+  state: AR
+wootax/1707:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '72957'
+    location_type: postcode
+  name: VAN BUREN (CITY)
+  order: '0'
+  priority: '0'
+  rate: '10.25'
+  shipping: '1'
+  state: AR
+wootax/1708:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '72958'
+    location_type: postcode
+  name: SCOTT COUNTY
+  order: '0'
+  priority: '0'
+  rate: '9.125'
+  shipping: '1'
+  state: AR
+wootax/1709:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '72959'
+    location_type: postcode
+  name: WASHINGTON COUNTY
+  order: '0'
+  priority: '0'
+  rate: '7.75'
+  shipping: '1'
+  state: AR

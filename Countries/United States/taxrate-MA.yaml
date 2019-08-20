@@ -1,0 +1,8502 @@
+wootax/15383:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '01001'
+    location_type: postcode
+  name: AGAWAM
+  order: '0'
+  priority: '0'
+  rate: '6.25'
+  shipping: '0'
+  state: MA
+wootax/15384:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '01002'
+    location_type: postcode
+  name: AMHERST
+  order: '0'
+  priority: '0'
+  rate: '6.25'
+  shipping: '0'
+  state: MA
+wootax/15385:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '01003'
+    location_type: postcode
+  name: AMHERST
+  order: '0'
+  priority: '0'
+  rate: '6.25'
+  shipping: '0'
+  state: MA
+wootax/15386:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '01004'
+    location_type: postcode
+  name: AMHERST
+  order: '0'
+  priority: '0'
+  rate: '6.25'
+  shipping: '0'
+  state: MA
+wootax/15387:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '01005'
+    location_type: postcode
+  name: BARRE
+  order: '0'
+  priority: '0'
+  rate: '6.25'
+  shipping: '0'
+  state: MA
+wootax/15388:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '01007'
+    location_type: postcode
+  name: BELCHERTOWN
+  order: '0'
+  priority: '0'
+  rate: '6.25'
+  shipping: '0'
+  state: MA
+wootax/15389:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: 01008
+    location_type: postcode
+  name: BLANDFORD
+  order: '0'
+  priority: '0'
+  rate: '6.25'
+  shipping: '0'
+  state: MA
+wootax/15390:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: 01009
+    location_type: postcode
+  name: MASSACHUSETTS STATE
+  order: '0'
+  priority: '0'
+  rate: '6.25'
+  shipping: '0'
+  state: MA
+wootax/15391:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '01010'
+    location_type: postcode
+  name: BRIMFIELD
+  order: '0'
+  priority: '0'
+  rate: '6.25'
+  shipping: '0'
+  state: MA
+wootax/15392:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '01011'
+    location_type: postcode
+  name: CHESTER
+  order: '0'
+  priority: '0'
+  rate: '6.25'
+  shipping: '0'
+  state: MA
+wootax/15393:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '01012'
+    location_type: postcode
+  name: CHESTERFIELD
+  order: '0'
+  priority: '0'
+  rate: '6.25'
+  shipping: '0'
+  state: MA
+wootax/15394:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '01013'
+    location_type: postcode
+  name: CHICOPEE
+  order: '0'
+  priority: '0'
+  rate: '6.25'
+  shipping: '0'
+  state: MA
+wootax/15395:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '01014'
+    location_type: postcode
+  name: CHICOPEE
+  order: '0'
+  priority: '0'
+  rate: '6.25'
+  shipping: '0'
+  state: MA
+wootax/15396:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '01020'
+    location_type: postcode
+  name: CHICOPEE
+  order: '0'
+  priority: '0'
+  rate: '6.25'
+  shipping: '0'
+  state: MA
+wootax/15397:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '01021'
+    location_type: postcode
+  name: CHICOPEE
+  order: '0'
+  priority: '0'
+  rate: '6.25'
+  shipping: '0'
+  state: MA
+wootax/15398:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '01022'
+    location_type: postcode
+  name: CHICOPEE
+  order: '0'
+  priority: '0'
+  rate: '6.25'
+  shipping: '0'
+  state: MA
+wootax/15399:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '01026'
+    location_type: postcode
+  name: CUMMINGTON
+  order: '0'
+  priority: '0'
+  rate: '6.25'
+  shipping: '0'
+  state: MA
+wootax/15400:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '01027'
+    location_type: postcode
+  name: EASTHAMPTON
+  order: '0'
+  priority: '0'
+  rate: '6.25'
+  shipping: '0'
+  state: MA
+wootax/15401:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: 01028
+    location_type: postcode
+  name: EAST LONGMEADOW
+  order: '0'
+  priority: '0'
+  rate: '6.25'
+  shipping: '0'
+  state: MA
+wootax/15402:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: 01029
+    location_type: postcode
+  name: OTIS
+  order: '0'
+  priority: '0'
+  rate: '6.25'
+  shipping: '0'
+  state: MA
+wootax/15403:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '01030'
+    location_type: postcode
+  name: AGAWAM
+  order: '0'
+  priority: '0'
+  rate: '6.25'
+  shipping: '0'
+  state: MA
+wootax/15404:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '01031'
+    location_type: postcode
+  name: HARDWICK
+  order: '0'
+  priority: '0'
+  rate: '6.25'
+  shipping: '0'
+  state: MA
+wootax/15405:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '01032'
+    location_type: postcode
+  name: GOSHEN
+  order: '0'
+  priority: '0'
+  rate: '6.25'
+  shipping: '0'
+  state: MA
+wootax/15406:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '01033'
+    location_type: postcode
+  name: GRANBY
+  order: '0'
+  priority: '0'
+  rate: '6.25'
+  shipping: '0'
+  state: MA
+wootax/15407:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '01034'
+    location_type: postcode
+  name: GRANVILLE
+  order: '0'
+  priority: '0'
+  rate: '6.25'
+  shipping: '0'
+  state: MA
+wootax/15408:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '01035'
+    location_type: postcode
+  name: HADLEY
+  order: '0'
+  priority: '0'
+  rate: '6.25'
+  shipping: '0'
+  state: MA
+wootax/15409:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '01036'
+    location_type: postcode
+  name: MASSACHUSETTS STATE
+  order: '0'
+  priority: '0'
+  rate: '6.25'
+  shipping: '0'
+  state: MA
+wootax/15410:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '01037'
+    location_type: postcode
+  name: HARDWICK
+  order: '0'
+  priority: '0'
+  rate: '6.25'
+  shipping: '0'
+  state: MA
+wootax/15411:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: 01038
+    location_type: postcode
+  name: HATFIELD
+  order: '0'
+  priority: '0'
+  rate: '6.25'
+  shipping: '0'
+  state: MA
+wootax/15412:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: 01039
+    location_type: postcode
+  name: WILLIAMSBURG
+  order: '0'
+  priority: '0'
+  rate: '6.25'
+  shipping: '0'
+  state: MA
+wootax/15413:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '01040'
+    location_type: postcode
+  name: HOLYOKE
+  order: '0'
+  priority: '0'
+  rate: '6.25'
+  shipping: '0'
+  state: MA
+wootax/15414:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '01041'
+    location_type: postcode
+  name: HOLYOKE
+  order: '0'
+  priority: '0'
+  rate: '6.25'
+  shipping: '0'
+  state: MA
+wootax/15415:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '01050'
+    location_type: postcode
+  name: HUNTINGTON
+  order: '0'
+  priority: '0'
+  rate: '6.25'
+  shipping: '0'
+  state: MA
+wootax/15416:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '01053'
+    location_type: postcode
+  name: NORTHAMPTON
+  order: '0'
+  priority: '0'
+  rate: '6.25'
+  shipping: '0'
+  state: MA
+wootax/15417:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '01054'
+    location_type: postcode
+  name: LEVERETT
+  order: '0'
+  priority: '0'
+  rate: '6.25'
+  shipping: '0'
+  state: MA
+wootax/15418:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '01056'
+    location_type: postcode
+  name: LUDLOW
+  order: '0'
+  priority: '0'
+  rate: '6.25'
+  shipping: '0'
+  state: MA
+wootax/15419:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '01057'
+    location_type: postcode
+  name: MONSON
+  order: '0'
+  priority: '0'
+  rate: '6.25'
+  shipping: '0'
+  state: MA
+wootax/15420:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: 01059
+    location_type: postcode
+  name: AMHERST
+  order: '0'
+  priority: '0'
+  rate: '6.25'
+  shipping: '0'
+  state: MA
+wootax/15421:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '01060'
+    location_type: postcode
+  name: NORTHAMPTON
+  order: '0'
+  priority: '0'
+  rate: '6.25'
+  shipping: '0'
+  state: MA
+wootax/15422:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '01061'
+    location_type: postcode
+  name: NORTHAMPTON
+  order: '0'
+  priority: '0'
+  rate: '6.25'
+  shipping: '0'
+  state: MA
+wootax/15423:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '01062'
+    location_type: postcode
+  name: NORTHAMPTON
+  order: '0'
+  priority: '0'
+  rate: '6.25'
+  shipping: '0'
+  state: MA
+wootax/15424:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '01063'
+    location_type: postcode
+  name: NORTHAMPTON
+  order: '0'
+  priority: '0'
+  rate: '6.25'
+  shipping: '0'
+  state: MA
+wootax/15425:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '01066'
+    location_type: postcode
+  name: HATFIELD
+  order: '0'
+  priority: '0'
+  rate: '6.25'
+  shipping: '0'
+  state: MA
+wootax/15426:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: 01068
+    location_type: postcode
+  name: OAKHAM
+  order: '0'
+  priority: '0'
+  rate: '6.25'
+  shipping: '0'
+  state: MA
+wootax/15427:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: 01069
+    location_type: postcode
+  name: PALMER
+  order: '0'
+  priority: '0'
+  rate: '6.25'
+  shipping: '0'
+  state: MA
+wootax/15428:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '01070'
+    location_type: postcode
+  name: PLAINFIELD
+  order: '0'
+  priority: '0'
+  rate: '6.25'
+  shipping: '0'
+  state: MA
+wootax/15429:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '01071'
+    location_type: postcode
+  name: RUSSELL
+  order: '0'
+  priority: '0'
+  rate: '6.25'
+  shipping: '0'
+  state: MA
+wootax/15430:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '01072'
+    location_type: postcode
+  name: SHUTESBURY
+  order: '0'
+  priority: '0'
+  rate: '6.25'
+  shipping: '0'
+  state: MA
+wootax/15431:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '01073'
+    location_type: postcode
+  name: SOUTHAMPTON
+  order: '0'
+  priority: '0'
+  rate: '6.25'
+  shipping: '0'
+  state: MA
+wootax/15432:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '01074'
+    location_type: postcode
+  name: MASSACHUSETTS STATE
+  order: '0'
+  priority: '0'
+  rate: '6.25'
+  shipping: '0'
+  state: MA
+wootax/15433:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '01075'
+    location_type: postcode
+  name: SOUTH HADLEY
+  order: '0'
+  priority: '0'
+  rate: '6.25'
+  shipping: '0'
+  state: MA
+wootax/15434:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '01077'
+    location_type: postcode
+  name: SOUTHWICK
+  order: '0'
+  priority: '0'
+  rate: '6.25'
+  shipping: '0'
+  state: MA
+wootax/15435:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: 01079
+    location_type: postcode
+  name: MASSACHUSETTS STATE
+  order: '0'
+  priority: '0'
+  rate: '6.25'
+  shipping: '0'
+  state: MA
+wootax/15436:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: 01080
+    location_type: postcode
+  name: PALMER
+  order: '0'
+  priority: '0'
+  rate: '6.25'
+  shipping: '0'
+  state: MA
+wootax/15437:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: 01081
+    location_type: postcode
+  name: WALES
+  order: '0'
+  priority: '0'
+  rate: '6.25'
+  shipping: '0'
+  state: MA
+wootax/15438:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: 01082
+    location_type: postcode
+  name: WARE
+  order: '0'
+  priority: '0'
+  rate: '6.25'
+  shipping: '0'
+  state: MA
+wootax/15439:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: 01083
+    location_type: postcode
+  name: WARREN
+  order: '0'
+  priority: '0'
+  rate: '6.25'
+  shipping: '0'
+  state: MA
+wootax/15440:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: 01084
+    location_type: postcode
+  name: CHESTERFIELD
+  order: '0'
+  priority: '0'
+  rate: '6.25'
+  shipping: '0'
+  state: MA
+wootax/15441:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: 01085
+    location_type: postcode
+  name: WESTFIELD
+  order: '0'
+  priority: '0'
+  rate: '6.25'
+  shipping: '0'
+  state: MA
+wootax/15442:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: 01088
+    location_type: postcode
+  name: HATFIELD
+  order: '0'
+  priority: '0'
+  rate: '6.25'
+  shipping: '0'
+  state: MA
+wootax/15443:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: 01089
+    location_type: postcode
+  name: WEST SPRINGFIELD
+  order: '0'
+  priority: '0'
+  rate: '6.25'
+  shipping: '0'
+  state: MA
+wootax/15444:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: 01090
+    location_type: postcode
+  name: WEST SPRINGFIELD
+  order: '0'
+  priority: '0'
+  rate: '6.25'
+  shipping: '0'
+  state: MA
+wootax/15445:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: 01092
+    location_type: postcode
+  name: WARREN
+  order: '0'
+  priority: '0'
+  rate: '6.25'
+  shipping: '0'
+  state: MA
+wootax/15446:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: 01093
+    location_type: postcode
+  name: WHATELY
+  order: '0'
+  priority: '0'
+  rate: '6.25'
+  shipping: '0'
+  state: MA
+wootax/15447:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: 01094
+    location_type: postcode
+  name: HARDWICK
+  order: '0'
+  priority: '0'
+  rate: '6.25'
+  shipping: '0'
+  state: MA
+wootax/15448:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: 01095
+    location_type: postcode
+  name: WILBRAHAM
+  order: '0'
+  priority: '0'
+  rate: '6.25'
+  shipping: '0'
+  state: MA
+wootax/15449:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: 01096
+    location_type: postcode
+  name: WILLIAMSBURG
+  order: '0'
+  priority: '0'
+  rate: '6.25'
+  shipping: '0'
+  state: MA
+wootax/15450:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: 01097
+    location_type: postcode
+  name: MASSACHUSETTS STATE
+  order: '0'
+  priority: '0'
+  rate: '6.25'
+  shipping: '0'
+  state: MA
+wootax/15451:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: 01098
+    location_type: postcode
+  name: WORTHINGTON
+  order: '0'
+  priority: '0'
+  rate: '6.25'
+  shipping: '0'
+  state: MA
+wootax/15452:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '01101'
+    location_type: postcode
+  name: SPRINGFIELD
+  order: '0'
+  priority: '0'
+  rate: '6.25'
+  shipping: '0'
+  state: MA
+wootax/15453:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '01103'
+    location_type: postcode
+  name: SPRINGFIELD
+  order: '0'
+  priority: '0'
+  rate: '6.25'
+  shipping: '0'
+  state: MA
+wootax/15454:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '01104'
+    location_type: postcode
+  name: SPRINGFIELD
+  order: '0'
+  priority: '0'
+  rate: '6.25'
+  shipping: '0'
+  state: MA
+wootax/15455:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '01105'
+    location_type: postcode
+  name: SPRINGFIELD
+  order: '0'
+  priority: '0'
+  rate: '6.25'
+  shipping: '0'
+  state: MA
+wootax/15456:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '01106'
+    location_type: postcode
+  name: LONGMEADOW
+  order: '0'
+  priority: '0'
+  rate: '6.25'
+  shipping: '0'
+  state: MA
+wootax/15457:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '01107'
+    location_type: postcode
+  name: SPRINGFIELD
+  order: '0'
+  priority: '0'
+  rate: '6.25'
+  shipping: '0'
+  state: MA
+wootax/15458:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: 01108
+    location_type: postcode
+  name: SPRINGFIELD
+  order: '0'
+  priority: '0'
+  rate: '6.25'
+  shipping: '0'
+  state: MA
+wootax/15459:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: 01109
+    location_type: postcode
+  name: SPRINGFIELD
+  order: '0'
+  priority: '0'
+  rate: '6.25'
+  shipping: '0'
+  state: MA
+wootax/15460:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '01111'
+    location_type: postcode
+  name: SPRINGFIELD
+  order: '0'
+  priority: '0'
+  rate: '6.25'
+  shipping: '0'
+  state: MA
+wootax/15461:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '01115'
+    location_type: postcode
+  name: SPRINGFIELD
+  order: '0'
+  priority: '0'
+  rate: '6.25'
+  shipping: '0'
+  state: MA
+wootax/15462:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '01116'
+    location_type: postcode
+  name: LONGMEADOW
+  order: '0'
+  priority: '0'
+  rate: '6.25'
+  shipping: '0'
+  state: MA
+wootax/15463:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: 01118
+    location_type: postcode
+  name: SPRINGFIELD
+  order: '0'
+  priority: '0'
+  rate: '6.25'
+  shipping: '0'
+  state: MA
+wootax/15464:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: 01119
+    location_type: postcode
+  name: SPRINGFIELD
+  order: '0'
+  priority: '0'
+  rate: '6.25'
+  shipping: '0'
+  state: MA
+wootax/15465:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: 01128
+    location_type: postcode
+  name: SPRINGFIELD
+  order: '0'
+  priority: '0'
+  rate: '6.25'
+  shipping: '0'
+  state: MA
+wootax/15466:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: 01129
+    location_type: postcode
+  name: SPRINGFIELD
+  order: '0'
+  priority: '0'
+  rate: '6.25'
+  shipping: '0'
+  state: MA
+wootax/15467:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: 01138
+    location_type: postcode
+  name: SPRINGFIELD
+  order: '0'
+  priority: '0'
+  rate: '6.25'
+  shipping: '0'
+  state: MA
+wootax/15468:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: 01139
+    location_type: postcode
+  name: SPRINGFIELD
+  order: '0'
+  priority: '0'
+  rate: '6.25'
+  shipping: '0'
+  state: MA
+wootax/15469:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '01144'
+    location_type: postcode
+  name: SPRINGFIELD
+  order: '0'
+  priority: '0'
+  rate: '6.25'
+  shipping: '0'
+  state: MA
+wootax/15470:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '01151'
+    location_type: postcode
+  name: SPRINGFIELD
+  order: '0'
+  priority: '0'
+  rate: '6.25'
+  shipping: '0'
+  state: MA
+wootax/15471:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '01152'
+    location_type: postcode
+  name: SPRINGFIELD
+  order: '0'
+  priority: '0'
+  rate: '6.25'
+  shipping: '0'
+  state: MA
+wootax/15472:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: 01199
+    location_type: postcode
+  name: SPRINGFIELD
+  order: '0'
+  priority: '0'
+  rate: '6.25'
+  shipping: '0'
+  state: MA
+wootax/15473:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '01201'
+    location_type: postcode
+  name: PITTSFIELD
+  order: '0'
+  priority: '0'
+  rate: '6.25'
+  shipping: '0'
+  state: MA
+wootax/15474:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '01202'
+    location_type: postcode
+  name: PITTSFIELD
+  order: '0'
+  priority: '0'
+  rate: '6.25'
+  shipping: '0'
+  state: MA
+wootax/15475:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '01203'
+    location_type: postcode
+  name: PITTSFIELD
+  order: '0'
+  priority: '0'
+  rate: '6.25'
+  shipping: '0'
+  state: MA
+wootax/15476:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '01220'
+    location_type: postcode
+  name: ADAMS
+  order: '0'
+  priority: '0'
+  rate: '6.25'
+  shipping: '0'
+  state: MA
+wootax/15477:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '01222'
+    location_type: postcode
+  name: SHEFFIELD
+  order: '0'
+  priority: '0'
+  rate: '6.25'
+  shipping: '0'
+  state: MA
+wootax/15478:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '01223'
+    location_type: postcode
+  name: BECKET
+  order: '0'
+  priority: '0'
+  rate: '6.25'
+  shipping: '0'
+  state: MA
+wootax/15479:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '01224'
+    location_type: postcode
+  name: LANESBOROUGH
+  order: '0'
+  priority: '0'
+  rate: '6.25'
+  shipping: '0'
+  state: MA
+wootax/15480:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '01225'
+    location_type: postcode
+  name: CHESHIRE
+  order: '0'
+  priority: '0'
+  rate: '6.25'
+  shipping: '0'
+  state: MA
+wootax/15481:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '01226'
+    location_type: postcode
+  name: DALTON
+  order: '0'
+  priority: '0'
+  rate: '6.25'
+  shipping: '0'
+  state: MA
+wootax/15482:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '01227'
+    location_type: postcode
+  name: DALTON
+  order: '0'
+  priority: '0'
+  rate: '6.25'
+  shipping: '0'
+  state: MA
+wootax/15483:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: 01229
+    location_type: postcode
+  name: MASSACHUSETTS STATE
+  order: '0'
+  priority: '0'
+  rate: '6.25'
+  shipping: '0'
+  state: MA
+wootax/15484:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '01230'
+    location_type: postcode
+  name: GREAT BARRINGTON
+  order: '0'
+  priority: '0'
+  rate: '6.25'
+  shipping: '0'
+  state: MA
+wootax/15485:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '01235'
+    location_type: postcode
+  name: HINSDALE
+  order: '0'
+  priority: '0'
+  rate: '6.25'
+  shipping: '0'
+  state: MA
+wootax/15486:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '01236'
+    location_type: postcode
+  name: GREAT BARRINGTON
+  order: '0'
+  priority: '0'
+  rate: '6.25'
+  shipping: '0'
+  state: MA
+wootax/15487:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '01237'
+    location_type: postcode
+  name: LANESBOROUGH
+  order: '0'
+  priority: '0'
+  rate: '6.25'
+  shipping: '0'
+  state: MA
+wootax/15488:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: 01238
+    location_type: postcode
+  name: LEE
+  order: '0'
+  priority: '0'
+  rate: '6.25'
+  shipping: '0'
+  state: MA
+wootax/15489:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '01240'
+    location_type: postcode
+  name: LENOX
+  order: '0'
+  priority: '0'
+  rate: '6.25'
+  shipping: '0'
+  state: MA
+wootax/15490:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '01242'
+    location_type: postcode
+  name: MASSACHUSETTS STATE
+  order: '0'
+  priority: '0'
+  rate: '6.25'
+  shipping: '0'
+  state: MA
+wootax/15491:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '01243'
+    location_type: postcode
+  name: MIDDLEFIELD
+  order: '0'
+  priority: '0'
+  rate: '6.25'
+  shipping: '0'
+  state: MA
+wootax/15492:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '01244'
+    location_type: postcode
+  name: MASSACHUSETTS STATE
+  order: '0'
+  priority: '0'
+  rate: '6.25'
+  shipping: '0'
+  state: MA
+wootax/15493:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '01245'
+    location_type: postcode
+  name: MONTEREY
+  order: '0'
+  priority: '0'
+  rate: '6.25'
+  shipping: '0'
+  state: MA
+wootax/15494:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '01247'
+    location_type: postcode
+  name: NORTH ADAMS
+  order: '0'
+  priority: '0'
+  rate: '6.25'
+  shipping: '0'
+  state: MA
+wootax/15495:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '01252'
+    location_type: postcode
+  name: GREAT BARRINGTON
+  order: '0'
+  priority: '0'
+  rate: '6.25'
+  shipping: '0'
+  state: MA
+wootax/15496:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '01253'
+    location_type: postcode
+  name: OTIS
+  order: '0'
+  priority: '0'
+  rate: '6.25'
+  shipping: '0'
+  state: MA
+wootax/15497:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '01254'
+    location_type: postcode
+  name: RICHMOND
+  order: '0'
+  priority: '0'
+  rate: '6.25'
+  shipping: '0'
+  state: MA
+wootax/15498:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '01255'
+    location_type: postcode
+  name: SANDISFIELD
+  order: '0'
+  priority: '0'
+  rate: '6.25'
+  shipping: '0'
+  state: MA
+wootax/15499:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '01256'
+    location_type: postcode
+  name: SAVOY
+  order: '0'
+  priority: '0'
+  rate: '6.25'
+  shipping: '0'
+  state: MA
+wootax/15500:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '01257'
+    location_type: postcode
+  name: SHEFFIELD
+  order: '0'
+  priority: '0'
+  rate: '6.25'
+  shipping: '0'
+  state: MA
+wootax/15501:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: 01258
+    location_type: postcode
+  name: EGREMONT
+  order: '0'
+  priority: '0'
+  rate: '6.25'
+  shipping: '0'
+  state: MA
+wootax/15502:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: 01259
+    location_type: postcode
+  name: NEW MARLBOROUGH
+  order: '0'
+  priority: '0'
+  rate: '6.25'
+  shipping: '0'
+  state: MA
+wootax/15503:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '01260'
+    location_type: postcode
+  name: MASSACHUSETTS STATE
+  order: '0'
+  priority: '0'
+  rate: '6.25'
+  shipping: '0'
+  state: MA
+wootax/15504:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '01262'
+    location_type: postcode
+  name: STOCKBRIDGE
+  order: '0'
+  priority: '0'
+  rate: '6.25'
+  shipping: '0'
+  state: MA
+wootax/15505:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '01263'
+    location_type: postcode
+  name: STOCKBRIDGE
+  order: '0'
+  priority: '0'
+  rate: '6.25'
+  shipping: '0'
+  state: MA
+wootax/15506:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '01264'
+    location_type: postcode
+  name: TYRINGHAM
+  order: '0'
+  priority: '0'
+  rate: '6.25'
+  shipping: '0'
+  state: MA
+wootax/15507:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '01266'
+    location_type: postcode
+  name: WEST STOCKBRIDGE
+  order: '0'
+  priority: '0'
+  rate: '6.25'
+  shipping: '0'
+  state: MA
+wootax/15508:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '01267'
+    location_type: postcode
+  name: WILLIAMSTOWN
+  order: '0'
+  priority: '0'
+  rate: '6.25'
+  shipping: '0'
+  state: MA
+wootax/15509:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '01270'
+    location_type: postcode
+  name: WINDSOR
+  order: '0'
+  priority: '0'
+  rate: '6.25'
+  shipping: '0'
+  state: MA
+wootax/15510:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '01301'
+    location_type: postcode
+  name: GREENFIELD
+  order: '0'
+  priority: '0'
+  rate: '6.25'
+  shipping: '0'
+  state: MA
+wootax/15511:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '01302'
+    location_type: postcode
+  name: GREENFIELD
+  order: '0'
+  priority: '0'
+  rate: '6.25'
+  shipping: '0'
+  state: MA
+wootax/15512:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '01330'
+    location_type: postcode
+  name: ASHFIELD
+  order: '0'
+  priority: '0'
+  rate: '6.25'
+  shipping: '0'
+  state: MA
+wootax/15513:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '01331'
+    location_type: postcode
+  name: ATHOL
+  order: '0'
+  priority: '0'
+  rate: '6.25'
+  shipping: '0'
+  state: MA
+wootax/15514:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '01337'
+    location_type: postcode
+  name: BERNARDSTON
+  order: '0'
+  priority: '0'
+  rate: '6.25'
+  shipping: '0'
+  state: MA
+wootax/15515:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: 01338
+    location_type: postcode
+  name: BUCKLAND
+  order: '0'
+  priority: '0'
+  rate: '6.25'
+  shipping: '0'
+  state: MA
+wootax/15516:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: 01339
+    location_type: postcode
+  name: CHARLEMONT
+  order: '0'
+  priority: '0'
+  rate: '6.25'
+  shipping: '0'
+  state: MA
+wootax/15517:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '01340'
+    location_type: postcode
+  name: COLRAIN
+  order: '0'
+  priority: '0'
+  rate: '6.25'
+  shipping: '0'
+  state: MA
+wootax/15518:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '01341'
+    location_type: postcode
+  name: CONWAY
+  order: '0'
+  priority: '0'
+  rate: '6.25'
+  shipping: '0'
+  state: MA
+wootax/15519:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '01342'
+    location_type: postcode
+  name: DEERFIELD
+  order: '0'
+  priority: '0'
+  rate: '6.25'
+  shipping: '0'
+  state: MA
+wootax/15520:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '01343'
+    location_type: postcode
+  name: FLORIDA
+  order: '0'
+  priority: '0'
+  rate: '6.25'
+  shipping: '0'
+  state: MA
+wootax/15521:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '01344'
+    location_type: postcode
+  name: ERVING
+  order: '0'
+  priority: '0'
+  rate: '6.25'
+  shipping: '0'
+  state: MA
+wootax/15522:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '01346'
+    location_type: postcode
+  name: HEATH
+  order: '0'
+  priority: '0'
+  rate: '6.25'
+  shipping: '0'
+  state: MA
+wootax/15523:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '01347'
+    location_type: postcode
+  name: MONTAGUE
+  order: '0'
+  priority: '0'
+  rate: '6.25'
+  shipping: '0'
+  state: MA
+wootax/15524:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: 01349
+    location_type: postcode
+  name: MONTAGUE
+  order: '0'
+  priority: '0'
+  rate: '6.25'
+  shipping: '0'
+  state: MA
+wootax/15525:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '01350'
+    location_type: postcode
+  name: MONROE
+  order: '0'
+  priority: '0'
+  rate: '6.25'
+  shipping: '0'
+  state: MA
+wootax/15526:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '01351'
+    location_type: postcode
+  name: MONTAGUE
+  order: '0'
+  priority: '0'
+  rate: '6.25'
+  shipping: '0'
+  state: MA
+wootax/15527:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '01354'
+    location_type: postcode
+  name: GILL
+  order: '0'
+  priority: '0'
+  rate: '6.25'
+  shipping: '0'
+  state: MA
+wootax/15528:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '01355'
+    location_type: postcode
+  name: NEW SALEM
+  order: '0'
+  priority: '0'
+  rate: '6.25'
+  shipping: '0'
+  state: MA
+wootax/15529:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '01360'
+    location_type: postcode
+  name: NORTHFIELD
+  order: '0'
+  priority: '0'
+  rate: '6.25'
+  shipping: '0'
+  state: MA
+wootax/15530:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '01364'
+    location_type: postcode
+  name: ORANGE
+  order: '0'
+  priority: '0'
+  rate: '6.25'
+  shipping: '0'
+  state: MA
+wootax/15531:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '01366'
+    location_type: postcode
+  name: PETERSHAM
+  order: '0'
+  priority: '0'
+  rate: '6.25'
+  shipping: '0'
+  state: MA
+wootax/15532:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '01367'
+    location_type: postcode
+  name: ROWE
+  order: '0'
+  priority: '0'
+  rate: '6.25'
+  shipping: '0'
+  state: MA
+wootax/15533:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: 01368
+    location_type: postcode
+  name: ROYALSTON
+  order: '0'
+  priority: '0'
+  rate: '6.25'
+  shipping: '0'
+  state: MA
+wootax/15534:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '01370'
+    location_type: postcode
+  name: SHELBURNE
+  order: '0'
+  priority: '0'
+  rate: '6.25'
+  shipping: '0'
+  state: MA
+wootax/15535:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '01373'
+    location_type: postcode
+  name: DEERFIELD
+  order: '0'
+  priority: '0'
+  rate: '6.25'
+  shipping: '0'
+  state: MA
+wootax/15536:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '01375'
+    location_type: postcode
+  name: SUNDERLAND
+  order: '0'
+  priority: '0'
+  rate: '6.25'
+  shipping: '0'
+  state: MA
+wootax/15537:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '01376'
+    location_type: postcode
+  name: MONTAGUE
+  order: '0'
+  priority: '0'
+  rate: '6.25'
+  shipping: '0'
+  state: MA
+wootax/15538:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: 01378
+    location_type: postcode
+  name: WARWICK
+  order: '0'
+  priority: '0'
+  rate: '6.25'
+  shipping: '0'
+  state: MA
+wootax/15539:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: 01379
+    location_type: postcode
+  name: WENDELL
+  order: '0'
+  priority: '0'
+  rate: '6.25'
+  shipping: '0'
+  state: MA
+wootax/15540:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: 01380
+    location_type: postcode
+  name: WENDELL
+  order: '0'
+  priority: '0'
+  rate: '6.25'
+  shipping: '0'
+  state: MA
+wootax/15541:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '01420'
+    location_type: postcode
+  name: FITCHBURG
+  order: '0'
+  priority: '0'
+  rate: '6.25'
+  shipping: '0'
+  state: MA
+wootax/15542:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '01430'
+    location_type: postcode
+  name: ASHBURNHAM
+  order: '0'
+  priority: '0'
+  rate: '6.25'
+  shipping: '0'
+  state: MA
+wootax/15543:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '01431'
+    location_type: postcode
+  name: ASHBY
+  order: '0'
+  priority: '0'
+  rate: '6.25'
+  shipping: '0'
+  state: MA
+wootax/15544:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '01432'
+    location_type: postcode
+  name: AYER
+  order: '0'
+  priority: '0'
+  rate: '6.25'
+  shipping: '0'
+  state: MA
+wootax/15545:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '01434'
+    location_type: postcode
+  name: DEVENS
+  order: '0'
+  priority: '0'
+  rate: '6.25'
+  shipping: '0'
+  state: MA
+wootax/15546:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '01436'
+    location_type: postcode
+  name: TEMPLETON
+  order: '0'
+  priority: '0'
+  rate: '6.25'
+  shipping: '0'
+  state: MA
+wootax/15547:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: 01438
+    location_type: postcode
+  name: TEMPLETON
+  order: '0'
+  priority: '0'
+  rate: '6.25'
+  shipping: '0'
+  state: MA
+wootax/15548:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '01440'
+    location_type: postcode
+  name: GARDNER
+  order: '0'
+  priority: '0'
+  rate: '6.25'
+  shipping: '0'
+  state: MA
+wootax/15549:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '01441'
+    location_type: postcode
+  name: WESTMINSTER
+  order: '0'
+  priority: '0'
+  rate: '6.25'
+  shipping: '0'
+  state: MA
+wootax/15550:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '01450'
+    location_type: postcode
+  name: GROTON
+  order: '0'
+  priority: '0'
+  rate: '6.25'
+  shipping: '0'
+  state: MA
+wootax/15551:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '01451'
+    location_type: postcode
+  name: HARVARD
+  order: '0'
+  priority: '0'
+  rate: '6.25'
+  shipping: '0'
+  state: MA
+wootax/15552:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '01452'
+    location_type: postcode
+  name: HUBBARDSTON
+  order: '0'
+  priority: '0'
+  rate: '6.25'
+  shipping: '0'
+  state: MA
+wootax/15553:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '01453'
+    location_type: postcode
+  name: LEOMINSTER
+  order: '0'
+  priority: '0'
+  rate: '6.25'
+  shipping: '0'
+  state: MA
+wootax/15554:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '01460'
+    location_type: postcode
+  name: LITTLETON
+  order: '0'
+  priority: '0'
+  rate: '6.25'
+  shipping: '0'
+  state: MA
+wootax/15555:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '01462'
+    location_type: postcode
+  name: LUNENBURG
+  order: '0'
+  priority: '0'
+  rate: '6.25'
+  shipping: '0'
+  state: MA
+wootax/15556:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '01463'
+    location_type: postcode
+  name: PEPPERELL
+  order: '0'
+  priority: '0'
+  rate: '6.25'
+  shipping: '0'
+  state: MA
+wootax/15557:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '01464'
+    location_type: postcode
+  name: SHIRLEY
+  order: '0'
+  priority: '0'
+  rate: '6.25'
+  shipping: '0'
+  state: MA
+wootax/15558:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '01467'
+    location_type: postcode
+  name: HARVARD
+  order: '0'
+  priority: '0'
+  rate: '6.25'
+  shipping: '0'
+  state: MA
+wootax/15559:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: 01468
+    location_type: postcode
+  name: TEMPLETON
+  order: '0'
+  priority: '0'
+  rate: '6.25'
+  shipping: '0'
+  state: MA
+wootax/15560:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: 01469
+    location_type: postcode
+  name: TOWNSEND
+  order: '0'
+  priority: '0'
+  rate: '6.25'
+  shipping: '0'
+  state: MA
+wootax/15561:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '01470'
+    location_type: postcode
+  name: GROTON
+  order: '0'
+  priority: '0'
+  rate: '6.25'
+  shipping: '0'
+  state: MA
+wootax/15562:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '01471'
+    location_type: postcode
+  name: GROTON
+  order: '0'
+  priority: '0'
+  rate: '6.25'
+  shipping: '0'
+  state: MA
+wootax/15563:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '01472'
+    location_type: postcode
+  name: GROTON
+  order: '0'
+  priority: '0'
+  rate: '6.25'
+  shipping: '0'
+  state: MA
+wootax/15564:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '01473'
+    location_type: postcode
+  name: WESTMINSTER
+  order: '0'
+  priority: '0'
+  rate: '6.25'
+  shipping: '0'
+  state: MA
+wootax/15565:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '01474'
+    location_type: postcode
+  name: TOWNSEND
+  order: '0'
+  priority: '0'
+  rate: '6.25'
+  shipping: '0'
+  state: MA
+wootax/15566:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '01475'
+    location_type: postcode
+  name: WINCHENDON
+  order: '0'
+  priority: '0'
+  rate: '6.25'
+  shipping: '0'
+  state: MA
+wootax/15567:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '01501'
+    location_type: postcode
+  name: AUBURN
+  order: '0'
+  priority: '0'
+  rate: '6.25'
+  shipping: '0'
+  state: MA
+wootax/15568:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '01503'
+    location_type: postcode
+  name: BERLIN
+  order: '0'
+  priority: '0'
+  rate: '6.25'
+  shipping: '0'
+  state: MA
+wootax/15569:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '01504'
+    location_type: postcode
+  name: BLACKSTONE
+  order: '0'
+  priority: '0'
+  rate: '6.25'
+  shipping: '0'
+  state: MA
+wootax/15570:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '01505'
+    location_type: postcode
+  name: BOYLSTON
+  order: '0'
+  priority: '0'
+  rate: '6.25'
+  shipping: '0'
+  state: MA
+wootax/15571:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '01506'
+    location_type: postcode
+  name: BROOKFIELD
+  order: '0'
+  priority: '0'
+  rate: '6.25'
+  shipping: '0'
+  state: MA
+wootax/15572:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '01507'
+    location_type: postcode
+  name: CHARLTON
+  order: '0'
+  priority: '0'
+  rate: '6.25'
+  shipping: '0'
+  state: MA
+wootax/15573:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: 01508
+    location_type: postcode
+  name: MASSACHUSETTS STATE
+  order: '0'
+  priority: '0'
+  rate: '6.25'
+  shipping: '0'
+  state: MA
+wootax/15574:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: 01509
+    location_type: postcode
+  name: CHARLTON
+  order: '0'
+  priority: '0'
+  rate: '6.25'
+  shipping: '0'
+  state: MA
+wootax/15575:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '01510'
+    location_type: postcode
+  name: CLINTON
+  order: '0'
+  priority: '0'
+  rate: '6.25'
+  shipping: '0'
+  state: MA
+wootax/15576:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '01515'
+    location_type: postcode
+  name: EAST BROOKFIELD
+  order: '0'
+  priority: '0'
+  rate: '6.25'
+  shipping: '0'
+  state: MA
+wootax/15577:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '01516'
+    location_type: postcode
+  name: DOUGLAS
+  order: '0'
+  priority: '0'
+  rate: '6.25'
+  shipping: '0'
+  state: MA
+wootax/15578:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '01517'
+    location_type: postcode
+  name: PRINCETON
+  order: '0'
+  priority: '0'
+  rate: '6.25'
+  shipping: '0'
+  state: MA
+wootax/15579:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: 01518
+    location_type: postcode
+  name: STURBRIDGE
+  order: '0'
+  priority: '0'
+  rate: '6.25'
+  shipping: '0'
+  state: MA
+wootax/15580:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: 01519
+    location_type: postcode
+  name: GRAFTON
+  order: '0'
+  priority: '0'
+  rate: '6.25'
+  shipping: '0'
+  state: MA
+wootax/15581:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '01520'
+    location_type: postcode
+  name: HOLDEN
+  order: '0'
+  priority: '0'
+  rate: '6.25'
+  shipping: '0'
+  state: MA
+wootax/15582:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '01521'
+    location_type: postcode
+  name: HOLLAND
+  order: '0'
+  priority: '0'
+  rate: '6.25'
+  shipping: '0'
+  state: MA
+wootax/15583:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '01522'
+    location_type: postcode
+  name: HOLDEN
+  order: '0'
+  priority: '0'
+  rate: '6.25'
+  shipping: '0'
+  state: MA
+wootax/15584:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '01523'
+    location_type: postcode
+  name: LANCASTER
+  order: '0'
+  priority: '0'
+  rate: '6.25'
+  shipping: '0'
+  state: MA
+wootax/15585:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '01524'
+    location_type: postcode
+  name: LEICESTER
+  order: '0'
+  priority: '0'
+  rate: '6.25'
+  shipping: '0'
+  state: MA
+wootax/15586:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '01525'
+    location_type: postcode
+  name: UXBRIDGE
+  order: '0'
+  priority: '0'
+  rate: '6.25'
+  shipping: '0'
+  state: MA
+wootax/15587:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '01526'
+    location_type: postcode
+  name: MASSACHUSETTS STATE
+  order: '0'
+  priority: '0'
+  rate: '6.25'
+  shipping: '0'
+  state: MA
+wootax/15588:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '01527'
+    location_type: postcode
+  name: MILLBURY
+  order: '0'
+  priority: '0'
+  rate: '6.25'
+  shipping: '0'
+  state: MA
+wootax/15589:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: 01529
+    location_type: postcode
+  name: MILLVILLE
+  order: '0'
+  priority: '0'
+  rate: '6.25'
+  shipping: '0'
+  state: MA
+wootax/15590:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '01531'
+    location_type: postcode
+  name: NEW BRAINTREE
+  order: '0'
+  priority: '0'
+  rate: '6.25'
+  shipping: '0'
+  state: MA
+wootax/15591:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '01532'
+    location_type: postcode
+  name: NORTHBOROUGH
+  order: '0'
+  priority: '0'
+  rate: '6.25'
+  shipping: '0'
+  state: MA
+wootax/15592:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '01534'
+    location_type: postcode
+  name: NORTHBRIDGE
+  order: '0'
+  priority: '0'
+  rate: '6.25'
+  shipping: '0'
+  state: MA
+wootax/15593:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '01535'
+    location_type: postcode
+  name: NORTH BROOKFIELD
+  order: '0'
+  priority: '0'
+  rate: '6.25'
+  shipping: '0'
+  state: MA
+wootax/15594:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '01536'
+    location_type: postcode
+  name: GRAFTON
+  order: '0'
+  priority: '0'
+  rate: '6.25'
+  shipping: '0'
+  state: MA
+wootax/15595:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '01537'
+    location_type: postcode
+  name: OXFORD
+  order: '0'
+  priority: '0'
+  rate: '6.25'
+  shipping: '0'
+  state: MA
+wootax/15596:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: 01538
+    location_type: postcode
+  name: UXBRIDGE
+  order: '0'
+  priority: '0'
+  rate: '6.25'
+  shipping: '0'
+  state: MA
+wootax/15597:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '01540'
+    location_type: postcode
+  name: OXFORD
+  order: '0'
+  priority: '0'
+  rate: '6.25'
+  shipping: '0'
+  state: MA
+wootax/15598:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '01541'
+    location_type: postcode
+  name: PRINCETON
+  order: '0'
+  priority: '0'
+  rate: '6.25'
+  shipping: '0'
+  state: MA
+wootax/15599:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '01542'
+    location_type: postcode
+  name: LEICESTER
+  order: '0'
+  priority: '0'
+  rate: '6.25'
+  shipping: '0'
+  state: MA
+wootax/15600:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '01543'
+    location_type: postcode
+  name: RUTLAND
+  order: '0'
+  priority: '0'
+  rate: '6.25'
+  shipping: '0'
+  state: MA
+wootax/15601:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '01545'
+    location_type: postcode
+  name: SHREWSBURY
+  order: '0'
+  priority: '0'
+  rate: '6.25'
+  shipping: '0'
+  state: MA
+wootax/15602:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '01546'
+    location_type: postcode
+  name: SHREWSBURY
+  order: '0'
+  priority: '0'
+  rate: '6.25'
+  shipping: '0'
+  state: MA
+wootax/15603:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '01550'
+    location_type: postcode
+  name: SOUTHBRIDGE
+  order: '0'
+  priority: '0'
+  rate: '6.25'
+  shipping: '0'
+  state: MA
+wootax/15604:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '01560'
+    location_type: postcode
+  name: GRAFTON
+  order: '0'
+  priority: '0'
+  rate: '6.25'
+  shipping: '0'
+  state: MA
+wootax/15605:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '01561'
+    location_type: postcode
+  name: LANCASTER
+  order: '0'
+  priority: '0'
+  rate: '6.25'
+  shipping: '0'
+  state: MA
+wootax/15606:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '01562'
+    location_type: postcode
+  name: SPENCER
+  order: '0'
+  priority: '0'
+  rate: '6.25'
+  shipping: '0'
+  state: MA
+wootax/15607:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '01564'
+    location_type: postcode
+  name: STERLING
+  order: '0'
+  priority: '0'
+  rate: '6.25'
+  shipping: '0'
+  state: MA
+wootax/15608:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '01566'
+    location_type: postcode
+  name: STURBRIDGE
+  order: '0'
+  priority: '0'
+  rate: '6.25'
+  shipping: '0'
+  state: MA
+wootax/15609:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: 01568
+    location_type: postcode
+  name: UPTON
+  order: '0'
+  priority: '0'
+  rate: '6.25'
+  shipping: '0'
+  state: MA
+wootax/15610:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: 01569
+    location_type: postcode
+  name: UXBRIDGE
+  order: '0'
+  priority: '0'
+  rate: '6.25'
+  shipping: '0'
+  state: MA
+wootax/15611:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '01570'
+    location_type: postcode
+  name: WEBSTER
+  order: '0'
+  priority: '0'
+  rate: '6.25'
+  shipping: '0'
+  state: MA
+wootax/15612:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '01571'
+    location_type: postcode
+  name: DUDLEY
+  order: '0'
+  priority: '0'
+  rate: '6.25'
+  shipping: '0'
+  state: MA
+wootax/15613:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: 01581
+    location_type: postcode
+  name: WESTBOROUGH
+  order: '0'
+  priority: '0'
+  rate: '6.25'
+  shipping: '0'
+  state: MA
+wootax/15614:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: 01583
+    location_type: postcode
+  name: WEST BOYLSTON
+  order: '0'
+  priority: '0'
+  rate: '6.25'
+  shipping: '0'
+  state: MA
+wootax/15615:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: 01585
+    location_type: postcode
+  name: WEST BROOKFIELD
+  order: '0'
+  priority: '0'
+  rate: '6.25'
+  shipping: '0'
+  state: MA
+wootax/15616:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: 01586
+    location_type: postcode
+  name: MILLBURY
+  order: '0'
+  priority: '0'
+  rate: '6.25'
+  shipping: '0'
+  state: MA
+wootax/15617:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: 01588
+    location_type: postcode
+  name: NORTHBRIDGE
+  order: '0'
+  priority: '0'
+  rate: '6.25'
+  shipping: '0'
+  state: MA
+wootax/15618:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: 01590
+    location_type: postcode
+  name: SUTTON
+  order: '0'
+  priority: '0'
+  rate: '6.25'
+  shipping: '0'
+  state: MA
+wootax/15619:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '01601'
+    location_type: postcode
+  name: WORCESTER
+  order: '0'
+  priority: '0'
+  rate: '6.25'
+  shipping: '0'
+  state: MA
+wootax/15620:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '01602'
+    location_type: postcode
+  name: WORCESTER
+  order: '0'
+  priority: '0'
+  rate: '6.25'
+  shipping: '0'
+  state: MA
+wootax/15621:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '01603'
+    location_type: postcode
+  name: WORCESTER
+  order: '0'
+  priority: '0'
+  rate: '6.25'
+  shipping: '0'
+  state: MA
+wootax/15622:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '01604'
+    location_type: postcode
+  name: WORCESTER
+  order: '0'
+  priority: '0'
+  rate: '6.25'
+  shipping: '0'
+  state: MA
+wootax/15623:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '01605'
+    location_type: postcode
+  name: WORCESTER
+  order: '0'
+  priority: '0'
+  rate: '6.25'
+  shipping: '0'
+  state: MA
+wootax/15624:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '01606'
+    location_type: postcode
+  name: WORCESTER
+  order: '0'
+  priority: '0'
+  rate: '6.25'
+  shipping: '0'
+  state: MA
+wootax/15625:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '01607'
+    location_type: postcode
+  name: WORCESTER
+  order: '0'
+  priority: '0'
+  rate: '6.25'
+  shipping: '0'
+  state: MA
+wootax/15626:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: 01608
+    location_type: postcode
+  name: WORCESTER
+  order: '0'
+  priority: '0'
+  rate: '6.25'
+  shipping: '0'
+  state: MA
+wootax/15627:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: 01609
+    location_type: postcode
+  name: WORCESTER
+  order: '0'
+  priority: '0'
+  rate: '6.25'
+  shipping: '0'
+  state: MA
+wootax/15628:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '01610'
+    location_type: postcode
+  name: WORCESTER
+  order: '0'
+  priority: '0'
+  rate: '6.25'
+  shipping: '0'
+  state: MA
+wootax/15629:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '01611'
+    location_type: postcode
+  name: LEICESTER
+  order: '0'
+  priority: '0'
+  rate: '6.25'
+  shipping: '0'
+  state: MA
+wootax/15630:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '01612'
+    location_type: postcode
+  name: PAXTON
+  order: '0'
+  priority: '0'
+  rate: '6.25'
+  shipping: '0'
+  state: MA
+wootax/15631:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '01613'
+    location_type: postcode
+  name: WORCESTER
+  order: '0'
+  priority: '0'
+  rate: '6.25'
+  shipping: '0'
+  state: MA
+wootax/15632:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '01614'
+    location_type: postcode
+  name: LEICESTER
+  order: '0'
+  priority: '0'
+  rate: '6.25'
+  shipping: '0'
+  state: MA
+wootax/15633:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '01653'
+    location_type: postcode
+  name: FITCHBURG
+  order: '0'
+  priority: '0'
+  rate: '6.25'
+  shipping: '0'
+  state: MA
+wootax/15634:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '01655'
+    location_type: postcode
+  name: WORCESTER
+  order: '0'
+  priority: '0'
+  rate: '6.25'
+  shipping: '0'
+  state: MA
+wootax/15635:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '01701'
+    location_type: postcode
+  name: FRAMINGHAM
+  order: '0'
+  priority: '0'
+  rate: '6.25'
+  shipping: '0'
+  state: MA
+wootax/15636:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '01702'
+    location_type: postcode
+  name: FRAMINGHAM
+  order: '0'
+  priority: '0'
+  rate: '6.25'
+  shipping: '0'
+  state: MA
+wootax/15637:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '01703'
+    location_type: postcode
+  name: FRAMINGHAM
+  order: '0'
+  priority: '0'
+  rate: '6.25'
+  shipping: '0'
+  state: MA
+wootax/15638:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '01704'
+    location_type: postcode
+  name: FRAMINGHAM
+  order: '0'
+  priority: '0'
+  rate: '6.25'
+  shipping: '0'
+  state: MA
+wootax/15639:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: 01718
+    location_type: postcode
+  name: ACTON
+  order: '0'
+  priority: '0'
+  rate: '6.25'
+  shipping: '0'
+  state: MA
+wootax/15640:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: 01719
+    location_type: postcode
+  name: BOXBOROUGH
+  order: '0'
+  priority: '0'
+  rate: '6.25'
+  shipping: '0'
+  state: MA
+wootax/15641:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '01720'
+    location_type: postcode
+  name: ACTON
+  order: '0'
+  priority: '0'
+  rate: '6.25'
+  shipping: '0'
+  state: MA
+wootax/15642:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '01721'
+    location_type: postcode
+  name: ASHLAND
+  order: '0'
+  priority: '0'
+  rate: '6.25'
+  shipping: '0'
+  state: MA
+wootax/15643:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '01730'
+    location_type: postcode
+  name: BEDFORD
+  order: '0'
+  priority: '0'
+  rate: '6.25'
+  shipping: '0'
+  state: MA
+wootax/15644:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '01731'
+    location_type: postcode
+  name: LINCOLN
+  order: '0'
+  priority: '0'
+  rate: '6.25'
+  shipping: '0'
+  state: MA
+wootax/15645:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '01740'
+    location_type: postcode
+  name: BOLTON
+  order: '0'
+  priority: '0'
+  rate: '6.25'
+  shipping: '0'
+  state: MA
+wootax/15646:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '01741'
+    location_type: postcode
+  name: CARLISLE
+  order: '0'
+  priority: '0'
+  rate: '6.25'
+  shipping: '0'
+  state: MA
+wootax/15647:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '01742'
+    location_type: postcode
+  name: CONCORD
+  order: '0'
+  priority: '0'
+  rate: '6.25'
+  shipping: '0'
+  state: MA
+wootax/15648:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '01745'
+    location_type: postcode
+  name: SOUTHBOROUGH
+  order: '0'
+  priority: '0'
+  rate: '6.25'
+  shipping: '0'
+  state: MA
+wootax/15649:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '01746'
+    location_type: postcode
+  name: HOLLISTON
+  order: '0'
+  priority: '0'
+  rate: '6.25'
+  shipping: '0'
+  state: MA
+wootax/15650:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '01747'
+    location_type: postcode
+  name: HOPEDALE
+  order: '0'
+  priority: '0'
+  rate: '6.25'
+  shipping: '0'
+  state: MA
+wootax/15651:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: 01748
+    location_type: postcode
+  name: HOPKINTON
+  order: '0'
+  priority: '0'
+  rate: '6.25'
+  shipping: '0'
+  state: MA
+wootax/15652:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: 01749
+    location_type: postcode
+  name: HUDSON
+  order: '0'
+  priority: '0'
+  rate: '6.25'
+  shipping: '0'
+  state: MA
+wootax/15653:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '01752'
+    location_type: postcode
+  name: MARLBOROUGH
+  order: '0'
+  priority: '0'
+  rate: '6.25'
+  shipping: '0'
+  state: MA
+wootax/15654:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '01754'
+    location_type: postcode
+  name: MAYNARD
+  order: '0'
+  priority: '0'
+  rate: '6.25'
+  shipping: '0'
+  state: MA
+wootax/15655:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '01756'
+    location_type: postcode
+  name: MENDON
+  order: '0'
+  priority: '0'
+  rate: '6.25'
+  shipping: '0'
+  state: MA
+wootax/15656:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '01757'
+    location_type: postcode
+  name: MILFORD
+  order: '0'
+  priority: '0'
+  rate: '6.25'
+  shipping: '0'
+  state: MA
+wootax/15657:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '01760'
+    location_type: postcode
+  name: NATICK
+  order: '0'
+  priority: '0'
+  rate: '6.25'
+  shipping: '0'
+  state: MA
+wootax/15658:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '01770'
+    location_type: postcode
+  name: SHERBORN
+  order: '0'
+  priority: '0'
+  rate: '6.25'
+  shipping: '0'
+  state: MA
+wootax/15659:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '01772'
+    location_type: postcode
+  name: SOUTHBOROUGH
+  order: '0'
+  priority: '0'
+  rate: '6.25'
+  shipping: '0'
+  state: MA
+wootax/15660:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '01773'
+    location_type: postcode
+  name: LINCOLN
+  order: '0'
+  priority: '0'
+  rate: '6.25'
+  shipping: '0'
+  state: MA
+wootax/15661:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '01775'
+    location_type: postcode
+  name: STOW
+  order: '0'
+  priority: '0'
+  rate: '6.25'
+  shipping: '0'
+  state: MA
+wootax/15662:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '01776'
+    location_type: postcode
+  name: SUDBURY
+  order: '0'
+  priority: '0'
+  rate: '6.25'
+  shipping: '0'
+  state: MA
+wootax/15663:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: 01778
+    location_type: postcode
+  name: WAYLAND
+  order: '0'
+  priority: '0'
+  rate: '6.25'
+  shipping: '0'
+  state: MA
+wootax/15664:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: 01784
+    location_type: postcode
+  name: HOPKINTON
+  order: '0'
+  priority: '0'
+  rate: '6.25'
+  shipping: '0'
+  state: MA
+wootax/15665:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: 01801
+    location_type: postcode
+  name: WOBURN
+  order: '0'
+  priority: '0'
+  rate: '6.25'
+  shipping: '0'
+  state: MA
+wootax/15666:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: 01803
+    location_type: postcode
+  name: BURLINGTON
+  order: '0'
+  priority: '0'
+  rate: '6.25'
+  shipping: '0'
+  state: MA
+wootax/15667:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: 01805
+    location_type: postcode
+  name: BURLINGTON
+  order: '0'
+  priority: '0'
+  rate: '6.25'
+  shipping: '0'
+  state: MA
+wootax/15668:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: 01810
+    location_type: postcode
+  name: ANDOVER
+  order: '0'
+  priority: '0'
+  rate: '6.25'
+  shipping: '0'
+  state: MA
+wootax/15669:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: 01812
+    location_type: postcode
+  name: ANDOVER
+  order: '0'
+  priority: '0'
+  rate: '6.25'
+  shipping: '0'
+  state: MA
+wootax/15670:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: 01821
+    location_type: postcode
+  name: BILLERICA
+  order: '0'
+  priority: '0'
+  rate: '6.25'
+  shipping: '0'
+  state: MA
+wootax/15671:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: 01822
+    location_type: postcode
+  name: BILLERICA
+  order: '0'
+  priority: '0'
+  rate: '6.25'
+  shipping: '0'
+  state: MA
+wootax/15672:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: 01824
+    location_type: postcode
+  name: CHELMSFORD
+  order: '0'
+  priority: '0'
+  rate: '6.25'
+  shipping: '0'
+  state: MA
+wootax/15673:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: 01826
+    location_type: postcode
+  name: DRACUT
+  order: '0'
+  priority: '0'
+  rate: '6.25'
+  shipping: '0'
+  state: MA
+wootax/15674:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: 01827
+    location_type: postcode
+  name: DUNSTABLE
+  order: '0'
+  priority: '0'
+  rate: '6.25'
+  shipping: '0'
+  state: MA
+wootax/15675:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: 01830
+    location_type: postcode
+  name: HAVERHILL
+  order: '0'
+  priority: '0'
+  rate: '6.25'
+  shipping: '0'
+  state: MA
+wootax/15676:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: 01831
+    location_type: postcode
+  name: HAVERHILL
+  order: '0'
+  priority: '0'
+  rate: '6.25'
+  shipping: '0'
+  state: MA
+wootax/15677:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: 01832
+    location_type: postcode
+  name: HAVERHILL
+  order: '0'
+  priority: '0'
+  rate: '6.25'
+  shipping: '0'
+  state: MA
+wootax/15678:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: 01833
+    location_type: postcode
+  name: GEORGETOWN
+  order: '0'
+  priority: '0'
+  rate: '6.25'
+  shipping: '0'
+  state: MA
+wootax/15679:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: 01834
+    location_type: postcode
+  name: GROVELAND
+  order: '0'
+  priority: '0'
+  rate: '6.25'
+  shipping: '0'
+  state: MA
+wootax/15680:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: 01835
+    location_type: postcode
+  name: HAVERHILL
+  order: '0'
+  priority: '0'
+  rate: '6.25'
+  shipping: '0'
+  state: MA
+wootax/15681:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: 01840
+    location_type: postcode
+  name: LAWRENCE
+  order: '0'
+  priority: '0'
+  rate: '6.25'
+  shipping: '0'
+  state: MA
+wootax/15682:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: 01841
+    location_type: postcode
+  name: LAWRENCE
+  order: '0'
+  priority: '0'
+  rate: '6.25'
+  shipping: '0'
+  state: MA
+wootax/15683:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: 01842
+    location_type: postcode
+  name: LAWRENCE
+  order: '0'
+  priority: '0'
+  rate: '6.25'
+  shipping: '0'
+  state: MA
+wootax/15684:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: 01843
+    location_type: postcode
+  name: LAWRENCE
+  order: '0'
+  priority: '0'
+  rate: '6.25'
+  shipping: '0'
+  state: MA
+wootax/15685:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: 01844
+    location_type: postcode
+  name: METHUEN
+  order: '0'
+  priority: '0'
+  rate: '6.25'
+  shipping: '0'
+  state: MA
+wootax/15686:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: 01845
+    location_type: postcode
+  name: NORTH ANDOVER
+  order: '0'
+  priority: '0'
+  rate: '6.25'
+  shipping: '0'
+  state: MA
+wootax/15687:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: 01850
+    location_type: postcode
+  name: LOWELL
+  order: '0'
+  priority: '0'
+  rate: '6.25'
+  shipping: '0'
+  state: MA
+wootax/15688:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: 01851
+    location_type: postcode
+  name: LOWELL
+  order: '0'
+  priority: '0'
+  rate: '6.25'
+  shipping: '0'
+  state: MA
+wootax/15689:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: 01852
+    location_type: postcode
+  name: LOWELL
+  order: '0'
+  priority: '0'
+  rate: '6.25'
+  shipping: '0'
+  state: MA
+wootax/15690:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: 01853
+    location_type: postcode
+  name: LOWELL
+  order: '0'
+  priority: '0'
+  rate: '6.25'
+  shipping: '0'
+  state: MA
+wootax/15691:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: 01854
+    location_type: postcode
+  name: LOWELL
+  order: '0'
+  priority: '0'
+  rate: '6.25'
+  shipping: '0'
+  state: MA
+wootax/15692:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: 01860
+    location_type: postcode
+  name: MERRIMAC
+  order: '0'
+  priority: '0'
+  rate: '6.25'
+  shipping: '0'
+  state: MA
+wootax/15693:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: 01862
+    location_type: postcode
+  name: BILLERICA
+  order: '0'
+  priority: '0'
+  rate: '6.25'
+  shipping: '0'
+  state: MA
+wootax/15694:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: 01863
+    location_type: postcode
+  name: CHELMSFORD
+  order: '0'
+  priority: '0'
+  rate: '6.25'
+  shipping: '0'
+  state: MA
+wootax/15695:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: 01864
+    location_type: postcode
+  name: NORTH READING
+  order: '0'
+  priority: '0'
+  rate: '6.25'
+  shipping: '0'
+  state: MA
+wootax/15696:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: 01865
+    location_type: postcode
+  name: BILLERICA
+  order: '0'
+  priority: '0'
+  rate: '6.25'
+  shipping: '0'
+  state: MA
+wootax/15697:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: 01866
+    location_type: postcode
+  name: BILLERICA
+  order: '0'
+  priority: '0'
+  rate: '6.25'
+  shipping: '0'
+  state: MA
+wootax/15698:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: 01867
+    location_type: postcode
+  name: READING
+  order: '0'
+  priority: '0'
+  rate: '6.25'
+  shipping: '0'
+  state: MA
+wootax/15699:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: 01876
+    location_type: postcode
+  name: TEWKSBURY
+  order: '0'
+  priority: '0'
+  rate: '6.25'
+  shipping: '0'
+  state: MA
+wootax/15700:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: 01879
+    location_type: postcode
+  name: TYNGSBOROUGH
+  order: '0'
+  priority: '0'
+  rate: '6.25'
+  shipping: '0'
+  state: MA
+wootax/15701:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: 01880
+    location_type: postcode
+  name: WAKEFIELD
+  order: '0'
+  priority: '0'
+  rate: '6.25'
+  shipping: '0'
+  state: MA
+wootax/15702:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: 01885
+    location_type: postcode
+  name: MASSACHUSETTS STATE
+  order: '0'
+  priority: '0'
+  rate: '6.25'
+  shipping: '0'
+  state: MA
+wootax/15703:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: 01886
+    location_type: postcode
+  name: WESTFORD
+  order: '0'
+  priority: '0'
+  rate: '6.25'
+  shipping: '0'
+  state: MA
+wootax/15704:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: 01887
+    location_type: postcode
+  name: WILMINGTON
+  order: '0'
+  priority: '0'
+  rate: '6.25'
+  shipping: '0'
+  state: MA
+wootax/15705:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: 01888
+    location_type: postcode
+  name: WOBURN
+  order: '0'
+  priority: '0'
+  rate: '6.25'
+  shipping: '0'
+  state: MA
+wootax/15706:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: 01889
+    location_type: postcode
+  name: NORTH READING
+  order: '0'
+  priority: '0'
+  rate: '6.25'
+  shipping: '0'
+  state: MA
+wootax/15707:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: 01890
+    location_type: postcode
+  name: WINCHESTER
+  order: '0'
+  priority: '0'
+  rate: '6.25'
+  shipping: '0'
+  state: MA
+wootax/15708:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: 01899
+    location_type: postcode
+  name: ANDOVER
+  order: '0'
+  priority: '0'
+  rate: '6.25'
+  shipping: '0'
+  state: MA
+wootax/15709:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: 01901
+    location_type: postcode
+  name: LYNN
+  order: '0'
+  priority: '0'
+  rate: '6.25'
+  shipping: '0'
+  state: MA
+wootax/15710:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: 01902
+    location_type: postcode
+  name: LYNN
+  order: '0'
+  priority: '0'
+  rate: '6.25'
+  shipping: '0'
+  state: MA
+wootax/15711:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: 01903
+    location_type: postcode
+  name: LYNN
+  order: '0'
+  priority: '0'
+  rate: '6.25'
+  shipping: '0'
+  state: MA
+wootax/15712:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: 01904
+    location_type: postcode
+  name: LYNN
+  order: '0'
+  priority: '0'
+  rate: '6.25'
+  shipping: '0'
+  state: MA
+wootax/15713:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: 01905
+    location_type: postcode
+  name: LYNN
+  order: '0'
+  priority: '0'
+  rate: '6.25'
+  shipping: '0'
+  state: MA
+wootax/15714:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: 01906
+    location_type: postcode
+  name: SAUGUS
+  order: '0'
+  priority: '0'
+  rate: '6.25'
+  shipping: '0'
+  state: MA
+wootax/15715:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: 01907
+    location_type: postcode
+  name: SWAMPSCOTT
+  order: '0'
+  priority: '0'
+  rate: '6.25'
+  shipping: '0'
+  state: MA
+wootax/15716:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: 01908
+    location_type: postcode
+  name: NAHANT
+  order: '0'
+  priority: '0'
+  rate: '6.25'
+  shipping: '0'
+  state: MA
+wootax/15717:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: 01910
+    location_type: postcode
+  name: LYNN
+  order: '0'
+  priority: '0'
+  rate: '6.25'
+  shipping: '0'
+  state: MA
+wootax/15718:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: 01913
+    location_type: postcode
+  name: AMESBURY
+  order: '0'
+  priority: '0'
+  rate: '6.25'
+  shipping: '0'
+  state: MA
+wootax/15719:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: 01915
+    location_type: postcode
+  name: BEVERLY
+  order: '0'
+  priority: '0'
+  rate: '6.25'
+  shipping: '0'
+  state: MA
+wootax/15720:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: 01921
+    location_type: postcode
+  name: BOXFORD
+  order: '0'
+  priority: '0'
+  rate: '6.25'
+  shipping: '0'
+  state: MA
+wootax/15721:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: 01922
+    location_type: postcode
+  name: NEWBURY
+  order: '0'
+  priority: '0'
+  rate: '6.25'
+  shipping: '0'
+  state: MA
+wootax/15722:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: 01923
+    location_type: postcode
+  name: DANVERS
+  order: '0'
+  priority: '0'
+  rate: '6.25'
+  shipping: '0'
+  state: MA
+wootax/15723:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: 01929
+    location_type: postcode
+  name: ESSEX
+  order: '0'
+  priority: '0'
+  rate: '6.25'
+  shipping: '0'
+  state: MA
+wootax/15724:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: 01930
+    location_type: postcode
+  name: GLOUCESTER
+  order: '0'
+  priority: '0'
+  rate: '6.25'
+  shipping: '0'
+  state: MA
+wootax/15725:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: 01931
+    location_type: postcode
+  name: GLOUCESTER
+  order: '0'
+  priority: '0'
+  rate: '6.25'
+  shipping: '0'
+  state: MA
+wootax/15726:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: 01936
+    location_type: postcode
+  name: HAMILTON
+  order: '0'
+  priority: '0'
+  rate: '6.25'
+  shipping: '0'
+  state: MA
+wootax/15727:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: 01937
+    location_type: postcode
+  name: MASSACHUSETTS STATE
+  order: '0'
+  priority: '0'
+  rate: '6.25'
+  shipping: '0'
+  state: MA
+wootax/15728:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: 01938
+    location_type: postcode
+  name: IPSWICH
+  order: '0'
+  priority: '0'
+  rate: '6.25'
+  shipping: '0'
+  state: MA
+wootax/15729:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: 01940
+    location_type: postcode
+  name: LYNNFIELD
+  order: '0'
+  priority: '0'
+  rate: '6.25'
+  shipping: '0'
+  state: MA
+wootax/15730:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: 01944
+    location_type: postcode
+  name: MANCHESTER BY THE SEA
+  order: '0'
+  priority: '0'
+  rate: '6.25'
+  shipping: '0'
+  state: MA
+wootax/15731:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: 01945
+    location_type: postcode
+  name: MARBLEHEAD
+  order: '0'
+  priority: '0'
+  rate: '6.25'
+  shipping: '0'
+  state: MA
+wootax/15732:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: 01949
+    location_type: postcode
+  name: MIDDLETON
+  order: '0'
+  priority: '0'
+  rate: '6.25'
+  shipping: '0'
+  state: MA
+wootax/15733:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: 01950
+    location_type: postcode
+  name: NEWBURYPORT
+  order: '0'
+  priority: '0'
+  rate: '6.25'
+  shipping: '0'
+  state: MA
+wootax/15734:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: 01951
+    location_type: postcode
+  name: NEWBURY
+  order: '0'
+  priority: '0'
+  rate: '6.25'
+  shipping: '0'
+  state: MA
+wootax/15735:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: 01952
+    location_type: postcode
+  name: SALISBURY
+  order: '0'
+  priority: '0'
+  rate: '6.25'
+  shipping: '0'
+  state: MA
+wootax/15736:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: 01960
+    location_type: postcode
+  name: PEABODY
+  order: '0'
+  priority: '0'
+  rate: '6.25'
+  shipping: '0'
+  state: MA
+wootax/15737:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: 01961
+    location_type: postcode
+  name: PEABODY
+  order: '0'
+  priority: '0'
+  rate: '6.25'
+  shipping: '0'
+  state: MA
+wootax/15738:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: 01965
+    location_type: postcode
+  name: BEVERLY
+  order: '0'
+  priority: '0'
+  rate: '6.25'
+  shipping: '0'
+  state: MA
+wootax/15739:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: 01966
+    location_type: postcode
+  name: ROCKPORT
+  order: '0'
+  priority: '0'
+  rate: '6.25'
+  shipping: '0'
+  state: MA
+wootax/15740:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: 01969
+    location_type: postcode
+  name: ROWLEY
+  order: '0'
+  priority: '0'
+  rate: '6.25'
+  shipping: '0'
+  state: MA
+wootax/15741:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: 01970
+    location_type: postcode
+  name: SALEM
+  order: '0'
+  priority: '0'
+  rate: '6.25'
+  shipping: '0'
+  state: MA
+wootax/15742:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: 01971
+    location_type: postcode
+  name: SALEM
+  order: '0'
+  priority: '0'
+  rate: '6.25'
+  shipping: '0'
+  state: MA
+wootax/15743:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: 01982
+    location_type: postcode
+  name: HAMILTON
+  order: '0'
+  priority: '0'
+  rate: '6.25'
+  shipping: '0'
+  state: MA
+wootax/15744:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: 01983
+    location_type: postcode
+  name: TOPSFIELD
+  order: '0'
+  priority: '0'
+  rate: '6.25'
+  shipping: '0'
+  state: MA
+wootax/15745:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: 01984
+    location_type: postcode
+  name: WENHAM
+  order: '0'
+  priority: '0'
+  rate: '6.25'
+  shipping: '0'
+  state: MA
+wootax/15746:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: 01985
+    location_type: postcode
+  name: WEST NEWBURY
+  order: '0'
+  priority: '0'
+  rate: '6.25'
+  shipping: '0'
+  state: MA
+wootax/15747:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: 02018
+    location_type: postcode
+  name: HINGHAM
+  order: '0'
+  priority: '0'
+  rate: '6.25'
+  shipping: '0'
+  state: MA
+wootax/15748:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: 02019
+    location_type: postcode
+  name: BELLINGHAM
+  order: '0'
+  priority: '0'
+  rate: '6.25'
+  shipping: '0'
+  state: MA
+wootax/15749:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '02020'
+    location_type: postcode
+  name: MARSHFIELD
+  order: '0'
+  priority: '0'
+  rate: '6.25'
+  shipping: '0'
+  state: MA
+wootax/15750:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '02021'
+    location_type: postcode
+  name: CANTON
+  order: '0'
+  priority: '0'
+  rate: '6.25'
+  shipping: '0'
+  state: MA
+wootax/15751:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '02025'
+    location_type: postcode
+  name: COHASSET
+  order: '0'
+  priority: '0'
+  rate: '6.25'
+  shipping: '0'
+  state: MA
+wootax/15752:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '02026'
+    location_type: postcode
+  name: DEDHAM
+  order: '0'
+  priority: '0'
+  rate: '6.25'
+  shipping: '0'
+  state: MA
+wootax/15753:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '02027'
+    location_type: postcode
+  name: DEDHAM
+  order: '0'
+  priority: '0'
+  rate: '6.25'
+  shipping: '0'
+  state: MA
+wootax/15754:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '02030'
+    location_type: postcode
+  name: DOVER
+  order: '0'
+  priority: '0'
+  rate: '6.25'
+  shipping: '0'
+  state: MA
+wootax/15755:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '02032'
+    location_type: postcode
+  name: WALPOLE
+  order: '0'
+  priority: '0'
+  rate: '6.25'
+  shipping: '0'
+  state: MA
+wootax/15756:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '02035'
+    location_type: postcode
+  name: FOXBOROUGH
+  order: '0'
+  priority: '0'
+  rate: '6.25'
+  shipping: '0'
+  state: MA
+wootax/15757:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: 02038
+    location_type: postcode
+  name: FRANKLIN
+  order: '0'
+  priority: '0'
+  rate: '6.25'
+  shipping: '0'
+  state: MA
+wootax/15758:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '02041'
+    location_type: postcode
+  name: MARION
+  order: '0'
+  priority: '0'
+  rate: '6.25'
+  shipping: '0'
+  state: MA
+wootax/15759:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '02043'
+    location_type: postcode
+  name: HINGHAM
+  order: '0'
+  priority: '0'
+  rate: '6.25'
+  shipping: '0'
+  state: MA
+wootax/15760:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '02044'
+    location_type: postcode
+  name: HINGHAM
+  order: '0'
+  priority: '0'
+  rate: '6.25'
+  shipping: '0'
+  state: MA
+wootax/15761:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '02045'
+    location_type: postcode
+  name: HULL
+  order: '0'
+  priority: '0'
+  rate: '6.25'
+  shipping: '0'
+  state: MA
+wootax/15762:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '02047'
+    location_type: postcode
+  name: HULL
+  order: '0'
+  priority: '0'
+  rate: '6.25'
+  shipping: '0'
+  state: MA
+wootax/15763:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: 02048
+    location_type: postcode
+  name: MANSFIELD
+  order: '0'
+  priority: '0'
+  rate: '6.25'
+  shipping: '0'
+  state: MA
+wootax/15764:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '02050'
+    location_type: postcode
+  name: MARSHFIELD
+  order: '0'
+  priority: '0'
+  rate: '6.25'
+  shipping: '0'
+  state: MA
+wootax/15765:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '02051'
+    location_type: postcode
+  name: MARSHFIELD
+  order: '0'
+  priority: '0'
+  rate: '6.25'
+  shipping: '0'
+  state: MA
+wootax/15766:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '02052'
+    location_type: postcode
+  name: MEDFIELD
+  order: '0'
+  priority: '0'
+  rate: '6.25'
+  shipping: '0'
+  state: MA
+wootax/15767:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '02053'
+    location_type: postcode
+  name: MEDWAY
+  order: '0'
+  priority: '0'
+  rate: '6.25'
+  shipping: '0'
+  state: MA
+wootax/15768:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '02054'
+    location_type: postcode
+  name: MILLIS
+  order: '0'
+  priority: '0'
+  rate: '6.25'
+  shipping: '0'
+  state: MA
+wootax/15769:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '02056'
+    location_type: postcode
+  name: NORFOLK
+  order: '0'
+  priority: '0'
+  rate: '6.25'
+  shipping: '0'
+  state: MA
+wootax/15770:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: 02059
+    location_type: postcode
+  name: MARSHFIELD
+  order: '0'
+  priority: '0'
+  rate: '6.25'
+  shipping: '0'
+  state: MA
+wootax/15771:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '02060'
+    location_type: postcode
+  name: SCITUATE
+  order: '0'
+  priority: '0'
+  rate: '6.25'
+  shipping: '0'
+  state: MA
+wootax/15772:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '02061'
+    location_type: postcode
+  name: NORWELL
+  order: '0'
+  priority: '0'
+  rate: '6.25'
+  shipping: '0'
+  state: MA
+wootax/15773:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '02062'
+    location_type: postcode
+  name: NORWOOD
+  order: '0'
+  priority: '0'
+  rate: '6.25'
+  shipping: '0'
+  state: MA
+wootax/15774:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '02065'
+    location_type: postcode
+  name: MARSHFIELD
+  order: '0'
+  priority: '0'
+  rate: '6.25'
+  shipping: '0'
+  state: MA
+wootax/15775:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '02066'
+    location_type: postcode
+  name: SCITUATE
+  order: '0'
+  priority: '0'
+  rate: '6.25'
+  shipping: '0'
+  state: MA
+wootax/15776:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '02067'
+    location_type: postcode
+  name: SHARON
+  order: '0'
+  priority: '0'
+  rate: '6.25'
+  shipping: '0'
+  state: MA
+wootax/15777:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '02070'
+    location_type: postcode
+  name: MASSACHUSETTS STATE
+  order: '0'
+  priority: '0'
+  rate: '6.25'
+  shipping: '0'
+  state: MA
+wootax/15778:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '02071'
+    location_type: postcode
+  name: WALPOLE
+  order: '0'
+  priority: '0'
+  rate: '6.25'
+  shipping: '0'
+  state: MA
+wootax/15779:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '02072'
+    location_type: postcode
+  name: STOUGHTON
+  order: '0'
+  priority: '0'
+  rate: '6.25'
+  shipping: '0'
+  state: MA
+wootax/15780:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: 02081
+    location_type: postcode
+  name: WALPOLE
+  order: '0'
+  priority: '0'
+  rate: '6.25'
+  shipping: '0'
+  state: MA
+wootax/15781:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: 02090
+    location_type: postcode
+  name: WESTWOOD
+  order: '0'
+  priority: '0'
+  rate: '6.25'
+  shipping: '0'
+  state: MA
+wootax/15782:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: 02093
+    location_type: postcode
+  name: WRENTHAM
+  order: '0'
+  priority: '0'
+  rate: '6.25'
+  shipping: '0'
+  state: MA
+wootax/15783:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: 02108
+    location_type: postcode
+  name: BOSTON
+  order: '0'
+  priority: '0'
+  rate: '6.25'
+  shipping: '0'
+  state: MA
+wootax/15784:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: 02109
+    location_type: postcode
+  name: BOSTON
+  order: '0'
+  priority: '0'
+  rate: '6.25'
+  shipping: '0'
+  state: MA
+wootax/15785:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '02110'
+    location_type: postcode
+  name: BOSTON
+  order: '0'
+  priority: '0'
+  rate: '6.25'
+  shipping: '0'
+  state: MA
+wootax/15786:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '02111'
+    location_type: postcode
+  name: BOSTON
+  order: '0'
+  priority: '0'
+  rate: '6.25'
+  shipping: '0'
+  state: MA
+wootax/15787:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '02112'
+    location_type: postcode
+  name: BOSTON
+  order: '0'
+  priority: '0'
+  rate: '6.25'
+  shipping: '0'
+  state: MA
+wootax/15788:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '02113'
+    location_type: postcode
+  name: BOSTON
+  order: '0'
+  priority: '0'
+  rate: '6.25'
+  shipping: '0'
+  state: MA
+wootax/15789:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '02114'
+    location_type: postcode
+  name: BOSTON
+  order: '0'
+  priority: '0'
+  rate: '6.25'
+  shipping: '0'
+  state: MA
+wootax/15790:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '02115'
+    location_type: postcode
+  name: BOSTON
+  order: '0'
+  priority: '0'
+  rate: '6.25'
+  shipping: '0'
+  state: MA
+wootax/15791:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '02116'
+    location_type: postcode
+  name: BOSTON
+  order: '0'
+  priority: '0'
+  rate: '6.25'
+  shipping: '0'
+  state: MA
+wootax/15792:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '02117'
+    location_type: postcode
+  name: BOSTON
+  order: '0'
+  priority: '0'
+  rate: '6.25'
+  shipping: '0'
+  state: MA
+wootax/15793:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: 02118
+    location_type: postcode
+  name: BOSTON
+  order: '0'
+  priority: '0'
+  rate: '6.25'
+  shipping: '0'
+  state: MA
+wootax/15794:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: 02119
+    location_type: postcode
+  name: BOSTON
+  order: '0'
+  priority: '0'
+  rate: '6.25'
+  shipping: '0'
+  state: MA
+wootax/15795:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '02120'
+    location_type: postcode
+  name: BOSTON
+  order: '0'
+  priority: '0'
+  rate: '6.25'
+  shipping: '0'
+  state: MA
+wootax/15796:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '02121'
+    location_type: postcode
+  name: BOSTON
+  order: '0'
+  priority: '0'
+  rate: '6.25'
+  shipping: '0'
+  state: MA
+wootax/15797:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '02122'
+    location_type: postcode
+  name: BOSTON
+  order: '0'
+  priority: '0'
+  rate: '6.25'
+  shipping: '0'
+  state: MA
+wootax/15798:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '02123'
+    location_type: postcode
+  name: BOSTON
+  order: '0'
+  priority: '0'
+  rate: '6.25'
+  shipping: '0'
+  state: MA
+wootax/15799:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '02124'
+    location_type: postcode
+  name: BOSTON
+  order: '0'
+  priority: '0'
+  rate: '6.25'
+  shipping: '0'
+  state: MA
+wootax/15800:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '02125'
+    location_type: postcode
+  name: BOSTON
+  order: '0'
+  priority: '0'
+  rate: '6.25'
+  shipping: '0'
+  state: MA
+wootax/15801:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '02126'
+    location_type: postcode
+  name: BOSTON
+  order: '0'
+  priority: '0'
+  rate: '6.25'
+  shipping: '0'
+  state: MA
+wootax/15802:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '02127'
+    location_type: postcode
+  name: BOSTON
+  order: '0'
+  priority: '0'
+  rate: '6.25'
+  shipping: '0'
+  state: MA
+wootax/15803:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: 02128
+    location_type: postcode
+  name: BOSTON
+  order: '0'
+  priority: '0'
+  rate: '6.25'
+  shipping: '0'
+  state: MA
+wootax/15804:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: 02129
+    location_type: postcode
+  name: BOSTON
+  order: '0'
+  priority: '0'
+  rate: '6.25'
+  shipping: '0'
+  state: MA
+wootax/15805:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '02130'
+    location_type: postcode
+  name: BOSTON
+  order: '0'
+  priority: '0'
+  rate: '6.25'
+  shipping: '0'
+  state: MA
+wootax/15806:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '02131'
+    location_type: postcode
+  name: BOSTON
+  order: '0'
+  priority: '0'
+  rate: '6.25'
+  shipping: '0'
+  state: MA
+wootax/15807:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '02132'
+    location_type: postcode
+  name: BOSTON
+  order: '0'
+  priority: '0'
+  rate: '6.25'
+  shipping: '0'
+  state: MA
+wootax/15808:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '02133'
+    location_type: postcode
+  name: BOSTON
+  order: '0'
+  priority: '0'
+  rate: '6.25'
+  shipping: '0'
+  state: MA
+wootax/15809:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '02134'
+    location_type: postcode
+  name: BOSTON
+  order: '0'
+  priority: '0'
+  rate: '6.25'
+  shipping: '0'
+  state: MA
+wootax/15810:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '02135'
+    location_type: postcode
+  name: BOSTON
+  order: '0'
+  priority: '0'
+  rate: '6.25'
+  shipping: '0'
+  state: MA
+wootax/15811:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '02136'
+    location_type: postcode
+  name: BOSTON
+  order: '0'
+  priority: '0'
+  rate: '6.25'
+  shipping: '0'
+  state: MA
+wootax/15812:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '02137'
+    location_type: postcode
+  name: BOSTON
+  order: '0'
+  priority: '0'
+  rate: '6.25'
+  shipping: '0'
+  state: MA
+wootax/15813:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: 02138
+    location_type: postcode
+  name: CAMBRIDGE
+  order: '0'
+  priority: '0'
+  rate: '6.25'
+  shipping: '0'
+  state: MA
+wootax/15814:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: 02139
+    location_type: postcode
+  name: CAMBRIDGE
+  order: '0'
+  priority: '0'
+  rate: '6.25'
+  shipping: '0'
+  state: MA
+wootax/15815:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '02140'
+    location_type: postcode
+  name: CAMBRIDGE
+  order: '0'
+  priority: '0'
+  rate: '6.25'
+  shipping: '0'
+  state: MA
+wootax/15816:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '02141'
+    location_type: postcode
+  name: CAMBRIDGE
+  order: '0'
+  priority: '0'
+  rate: '6.25'
+  shipping: '0'
+  state: MA
+wootax/15817:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '02142'
+    location_type: postcode
+  name: CAMBRIDGE
+  order: '0'
+  priority: '0'
+  rate: '6.25'
+  shipping: '0'
+  state: MA
+wootax/15818:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '02143'
+    location_type: postcode
+  name: SOMERVILLE
+  order: '0'
+  priority: '0'
+  rate: '6.25'
+  shipping: '0'
+  state: MA
+wootax/15819:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '02144'
+    location_type: postcode
+  name: SOMERVILLE
+  order: '0'
+  priority: '0'
+  rate: '6.25'
+  shipping: '0'
+  state: MA
+wootax/15820:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '02145'
+    location_type: postcode
+  name: SOMERVILLE
+  order: '0'
+  priority: '0'
+  rate: '6.25'
+  shipping: '0'
+  state: MA
+wootax/15821:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: 02148
+    location_type: postcode
+  name: MALDEN
+  order: '0'
+  priority: '0'
+  rate: '6.25'
+  shipping: '0'
+  state: MA
+wootax/15822:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: 02149
+    location_type: postcode
+  name: EVERETT
+  order: '0'
+  priority: '0'
+  rate: '6.25'
+  shipping: '0'
+  state: MA
+wootax/15823:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '02150'
+    location_type: postcode
+  name: CHELSEA
+  order: '0'
+  priority: '0'
+  rate: '6.25'
+  shipping: '0'
+  state: MA
+wootax/15824:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '02151'
+    location_type: postcode
+  name: REVERE
+  order: '0'
+  priority: '0'
+  rate: '6.25'
+  shipping: '0'
+  state: MA
+wootax/15825:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '02152'
+    location_type: postcode
+  name: WINTHROP
+  order: '0'
+  priority: '0'
+  rate: '6.25'
+  shipping: '0'
+  state: MA
+wootax/15826:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '02155'
+    location_type: postcode
+  name: MEDFORD
+  order: '0'
+  priority: '0'
+  rate: '6.25'
+  shipping: '0'
+  state: MA
+wootax/15827:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '02163'
+    location_type: postcode
+  name: BOSTON
+  order: '0'
+  priority: '0'
+  rate: '6.25'
+  shipping: '0'
+  state: MA
+wootax/15828:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: 02169
+    location_type: postcode
+  name: QUINCY
+  order: '0'
+  priority: '0'
+  rate: '6.25'
+  shipping: '0'
+  state: MA
+wootax/15829:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '02170'
+    location_type: postcode
+  name: QUINCY
+  order: '0'
+  priority: '0'
+  rate: '6.25'
+  shipping: '0'
+  state: MA
+wootax/15830:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '02171'
+    location_type: postcode
+  name: QUINCY
+  order: '0'
+  priority: '0'
+  rate: '6.25'
+  shipping: '0'
+  state: MA
+wootax/15831:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '02176'
+    location_type: postcode
+  name: MELROSE
+  order: '0'
+  priority: '0'
+  rate: '6.25'
+  shipping: '0'
+  state: MA
+wootax/15832:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: 02180
+    location_type: postcode
+  name: STONEHAM
+  order: '0'
+  priority: '0'
+  rate: '6.25'
+  shipping: '0'
+  state: MA
+wootax/15833:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: 02184
+    location_type: postcode
+  name: BRAINTREE
+  order: '0'
+  priority: '0'
+  rate: '6.25'
+  shipping: '0'
+  state: MA
+wootax/15834:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: 02185
+    location_type: postcode
+  name: BRAINTREE
+  order: '0'
+  priority: '0'
+  rate: '6.25'
+  shipping: '0'
+  state: MA
+wootax/15835:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: 02186
+    location_type: postcode
+  name: MILTON
+  order: '0'
+  priority: '0'
+  rate: '6.25'
+  shipping: '0'
+  state: MA
+wootax/15836:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: 02188
+    location_type: postcode
+  name: WEYMOUTH
+  order: '0'
+  priority: '0'
+  rate: '6.25'
+  shipping: '0'
+  state: MA
+wootax/15837:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: 02189
+    location_type: postcode
+  name: WEYMOUTH
+  order: '0'
+  priority: '0'
+  rate: '6.25'
+  shipping: '0'
+  state: MA
+wootax/15838:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: 02190
+    location_type: postcode
+  name: WEYMOUTH
+  order: '0'
+  priority: '0'
+  rate: '6.25'
+  shipping: '0'
+  state: MA
+wootax/15839:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: 02191
+    location_type: postcode
+  name: WEYMOUTH
+  order: '0'
+  priority: '0'
+  rate: '6.25'
+  shipping: '0'
+  state: MA
+wootax/15840:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: 02196
+    location_type: postcode
+  name: BOSTON
+  order: '0'
+  priority: '0'
+  rate: '6.25'
+  shipping: '0'
+  state: MA
+wootax/15841:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: 02199
+    location_type: postcode
+  name: BOSTON
+  order: '0'
+  priority: '0'
+  rate: '6.25'
+  shipping: '0'
+  state: MA
+wootax/15842:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '02201'
+    location_type: postcode
+  name: BOSTON
+  order: '0'
+  priority: '0'
+  rate: '6.25'
+  shipping: '0'
+  state: MA
+wootax/15843:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '02203'
+    location_type: postcode
+  name: BOSTON
+  order: '0'
+  priority: '0'
+  rate: '6.25'
+  shipping: '0'
+  state: MA
+wootax/15844:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '02205'
+    location_type: postcode
+  name: BOSTON
+  order: '0'
+  priority: '0'
+  rate: '6.25'
+  shipping: '0'
+  state: MA
+wootax/15845:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '02210'
+    location_type: postcode
+  name: BOSTON
+  order: '0'
+  priority: '0'
+  rate: '6.25'
+  shipping: '0'
+  state: MA
+wootax/15846:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '02215'
+    location_type: postcode
+  name: BOSTON
+  order: '0'
+  priority: '0'
+  rate: '6.25'
+  shipping: '0'
+  state: MA
+wootax/15847:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '02217'
+    location_type: postcode
+  name: MASSACHUSETTS STATE
+  order: '0'
+  priority: '0'
+  rate: '6.25'
+  shipping: '0'
+  state: MA
+wootax/15848:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '02222'
+    location_type: postcode
+  name: BOSTON
+  order: '0'
+  priority: '0'
+  rate: '6.25'
+  shipping: '0'
+  state: MA
+wootax/15849:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: 02238
+    location_type: postcode
+  name: CAMBRIDGE
+  order: '0'
+  priority: '0'
+  rate: '6.25'
+  shipping: '0'
+  state: MA
+wootax/15850:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: 02269
+    location_type: postcode
+  name: QUINCY
+  order: '0'
+  priority: '0'
+  rate: '6.25'
+  shipping: '0'
+  state: MA
+wootax/15851:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '02301'
+    location_type: postcode
+  name: BROCKTON
+  order: '0'
+  priority: '0'
+  rate: '6.25'
+  shipping: '0'
+  state: MA
+wootax/15852:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '02302'
+    location_type: postcode
+  name: BROCKTON
+  order: '0'
+  priority: '0'
+  rate: '6.25'
+  shipping: '0'
+  state: MA
+wootax/15853:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '02303'
+    location_type: postcode
+  name: BROCKTON
+  order: '0'
+  priority: '0'
+  rate: '6.25'
+  shipping: '0'
+  state: MA
+wootax/15854:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '02304'
+    location_type: postcode
+  name: BROCKTON
+  order: '0'
+  priority: '0'
+  rate: '6.25'
+  shipping: '0'
+  state: MA
+wootax/15855:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '02305'
+    location_type: postcode
+  name: BROCKTON
+  order: '0'
+  priority: '0'
+  rate: '6.25'
+  shipping: '0'
+  state: MA
+wootax/15856:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '02322'
+    location_type: postcode
+  name: AVON
+  order: '0'
+  priority: '0'
+  rate: '6.25'
+  shipping: '0'
+  state: MA
+wootax/15857:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '02324'
+    location_type: postcode
+  name: BRIDGEWATER
+  order: '0'
+  priority: '0'
+  rate: '6.25'
+  shipping: '0'
+  state: MA
+wootax/15858:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '02325'
+    location_type: postcode
+  name: MASSACHUSETTS STATE
+  order: '0'
+  priority: '0'
+  rate: '6.25'
+  shipping: '0'
+  state: MA
+wootax/15859:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '02327'
+    location_type: postcode
+  name: PEMBROKE
+  order: '0'
+  priority: '0'
+  rate: '6.25'
+  shipping: '0'
+  state: MA
+wootax/15860:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '02330'
+    location_type: postcode
+  name: CARVER
+  order: '0'
+  priority: '0'
+  rate: '6.25'
+  shipping: '0'
+  state: MA
+wootax/15861:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '02331'
+    location_type: postcode
+  name: DUXBURY
+  order: '0'
+  priority: '0'
+  rate: '6.25'
+  shipping: '0'
+  state: MA
+wootax/15862:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '02332'
+    location_type: postcode
+  name: DUXBURY
+  order: '0'
+  priority: '0'
+  rate: '6.25'
+  shipping: '0'
+  state: MA
+wootax/15863:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '02333'
+    location_type: postcode
+  name: EAST BRIDGEWATER
+  order: '0'
+  priority: '0'
+  rate: '6.25'
+  shipping: '0'
+  state: MA
+wootax/15864:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '02334'
+    location_type: postcode
+  name: EASTON
+  order: '0'
+  priority: '0'
+  rate: '6.25'
+  shipping: '0'
+  state: MA
+wootax/15865:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '02337'
+    location_type: postcode
+  name: MASSACHUSETTS STATE
+  order: '0'
+  priority: '0'
+  rate: '6.25'
+  shipping: '0'
+  state: MA
+wootax/15866:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: 02338
+    location_type: postcode
+  name: HALIFAX
+  order: '0'
+  priority: '0'
+  rate: '6.25'
+  shipping: '0'
+  state: MA
+wootax/15867:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: 02339
+    location_type: postcode
+  name: HANOVER
+  order: '0'
+  priority: '0'
+  rate: '6.25'
+  shipping: '0'
+  state: MA
+wootax/15868:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '02341'
+    location_type: postcode
+  name: HANSON
+  order: '0'
+  priority: '0'
+  rate: '6.25'
+  shipping: '0'
+  state: MA
+wootax/15869:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '02343'
+    location_type: postcode
+  name: HOLBROOK
+  order: '0'
+  priority: '0'
+  rate: '6.25'
+  shipping: '0'
+  state: MA
+wootax/15870:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '02344'
+    location_type: postcode
+  name: MIDDLEBOROUGH
+  order: '0'
+  priority: '0'
+  rate: '6.25'
+  shipping: '0'
+  state: MA
+wootax/15871:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '02345'
+    location_type: postcode
+  name: PLYMOUTH
+  order: '0'
+  priority: '0'
+  rate: '6.25'
+  shipping: '0'
+  state: MA
+wootax/15872:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '02346'
+    location_type: postcode
+  name: MIDDLEBOROUGH
+  order: '0'
+  priority: '0'
+  rate: '6.25'
+  shipping: '0'
+  state: MA
+wootax/15873:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '02347'
+    location_type: postcode
+  name: LAKEVILLE
+  order: '0'
+  priority: '0'
+  rate: '6.25'
+  shipping: '0'
+  state: MA
+wootax/15874:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: 02348
+    location_type: postcode
+  name: LAKEVILLE
+  order: '0'
+  priority: '0'
+  rate: '6.25'
+  shipping: '0'
+  state: MA
+wootax/15875:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: 02349
+    location_type: postcode
+  name: MIDDLEBOROUGH
+  order: '0'
+  priority: '0'
+  rate: '6.25'
+  shipping: '0'
+  state: MA
+wootax/15876:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '02350'
+    location_type: postcode
+  name: HANSON
+  order: '0'
+  priority: '0'
+  rate: '6.25'
+  shipping: '0'
+  state: MA
+wootax/15877:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '02351'
+    location_type: postcode
+  name: ABINGTON
+  order: '0'
+  priority: '0'
+  rate: '6.25'
+  shipping: '0'
+  state: MA
+wootax/15878:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '02355'
+    location_type: postcode
+  name: CARVER
+  order: '0'
+  priority: '0'
+  rate: '6.25'
+  shipping: '0'
+  state: MA
+wootax/15879:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '02356'
+    location_type: postcode
+  name: EASTON
+  order: '0'
+  priority: '0'
+  rate: '6.25'
+  shipping: '0'
+  state: MA
+wootax/15880:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '02357'
+    location_type: postcode
+  name: FALL RIVER
+  order: '0'
+  priority: '0'
+  rate: '6.25'
+  shipping: '0'
+  state: MA
+wootax/15881:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: 02358
+    location_type: postcode
+  name: PEMBROKE
+  order: '0'
+  priority: '0'
+  rate: '6.25'
+  shipping: '0'
+  state: MA
+wootax/15882:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: 02359
+    location_type: postcode
+  name: PEMBROKE
+  order: '0'
+  priority: '0'
+  rate: '6.25'
+  shipping: '0'
+  state: MA
+wootax/15883:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '02360'
+    location_type: postcode
+  name: PLYMOUTH
+  order: '0'
+  priority: '0'
+  rate: '6.25'
+  shipping: '0'
+  state: MA
+wootax/15884:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '02361'
+    location_type: postcode
+  name: PLYMOUTH
+  order: '0'
+  priority: '0'
+  rate: '6.25'
+  shipping: '0'
+  state: MA
+wootax/15885:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '02362'
+    location_type: postcode
+  name: PLYMOUTH
+  order: '0'
+  priority: '0'
+  rate: '6.25'
+  shipping: '0'
+  state: MA
+wootax/15886:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '02364'
+    location_type: postcode
+  name: KINGSTON
+  order: '0'
+  priority: '0'
+  rate: '6.25'
+  shipping: '0'
+  state: MA
+wootax/15887:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '02366'
+    location_type: postcode
+  name: CARVER
+  order: '0'
+  priority: '0'
+  rate: '6.25'
+  shipping: '0'
+  state: MA
+wootax/15888:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '02367'
+    location_type: postcode
+  name: PLYMPTON
+  order: '0'
+  priority: '0'
+  rate: '6.25'
+  shipping: '0'
+  state: MA
+wootax/15889:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: 02368
+    location_type: postcode
+  name: RANDOLPH, MA
+  order: '0'
+  priority: '0'
+  rate: '6.25'
+  shipping: '0'
+  state: MA
+wootax/15890:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '02370'
+    location_type: postcode
+  name: ROCKLAND
+  order: '0'
+  priority: '0'
+  rate: '6.25'
+  shipping: '0'
+  state: MA
+wootax/15891:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '02375'
+    location_type: postcode
+  name: EASTON
+  order: '0'
+  priority: '0'
+  rate: '6.25'
+  shipping: '0'
+  state: MA
+wootax/15892:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: 02379
+    location_type: postcode
+  name: WEST BRIDGEWATER
+  order: '0'
+  priority: '0'
+  rate: '6.25'
+  shipping: '0'
+  state: MA
+wootax/15893:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: 02381
+    location_type: postcode
+  name: MASSACHUSETTS STATE
+  order: '0'
+  priority: '0'
+  rate: '6.25'
+  shipping: '0'
+  state: MA
+wootax/15894:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: 02382
+    location_type: postcode
+  name: WHITMAN
+  order: '0'
+  priority: '0'
+  rate: '6.25'
+  shipping: '0'
+  state: MA
+wootax/15895:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '02420'
+    location_type: postcode
+  name: LEXINGTON
+  order: '0'
+  priority: '0'
+  rate: '6.25'
+  shipping: '0'
+  state: MA
+wootax/15896:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '02421'
+    location_type: postcode
+  name: LEXINGTON
+  order: '0'
+  priority: '0'
+  rate: '6.25'
+  shipping: '0'
+  state: MA
+wootax/15897:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '02445'
+    location_type: postcode
+  name: BROOKLINE
+  order: '0'
+  priority: '0'
+  rate: '6.25'
+  shipping: '0'
+  state: MA
+wootax/15898:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '02446'
+    location_type: postcode
+  name: BROOKLINE
+  order: '0'
+  priority: '0'
+  rate: '6.25'
+  shipping: '0'
+  state: MA
+wootax/15899:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '02447'
+    location_type: postcode
+  name: BROOKLINE
+  order: '0'
+  priority: '0'
+  rate: '6.25'
+  shipping: '0'
+  state: MA
+wootax/15900:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '02451'
+    location_type: postcode
+  name: WALTHAM
+  order: '0'
+  priority: '0'
+  rate: '6.25'
+  shipping: '0'
+  state: MA
+wootax/15901:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '02452'
+    location_type: postcode
+  name: WALTHAM
+  order: '0'
+  priority: '0'
+  rate: '6.25'
+  shipping: '0'
+  state: MA
+wootax/15902:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '02453'
+    location_type: postcode
+  name: WALTHAM
+  order: '0'
+  priority: '0'
+  rate: '6.25'
+  shipping: '0'
+  state: MA
+wootax/15903:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '02454'
+    location_type: postcode
+  name: WALTHAM
+  order: '0'
+  priority: '0'
+  rate: '6.25'
+  shipping: '0'
+  state: MA
+wootax/15904:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '02455'
+    location_type: postcode
+  name: WALTHAM
+  order: '0'
+  priority: '0'
+  rate: '6.25'
+  shipping: '0'
+  state: MA
+wootax/15905:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: 02458
+    location_type: postcode
+  name: NEWTON
+  order: '0'
+  priority: '0'
+  rate: '6.25'
+  shipping: '0'
+  state: MA
+wootax/15906:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: 02459
+    location_type: postcode
+  name: NEWTON
+  order: '0'
+  priority: '0'
+  rate: '6.25'
+  shipping: '0'
+  state: MA
+wootax/15907:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '02460'
+    location_type: postcode
+  name: NEWTON
+  order: '0'
+  priority: '0'
+  rate: '6.25'
+  shipping: '0'
+  state: MA
+wootax/15908:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '02461'
+    location_type: postcode
+  name: NEWTON
+  order: '0'
+  priority: '0'
+  rate: '6.25'
+  shipping: '0'
+  state: MA
+wootax/15909:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '02462'
+    location_type: postcode
+  name: NEWTON
+  order: '0'
+  priority: '0'
+  rate: '6.25'
+  shipping: '0'
+  state: MA
+wootax/15910:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '02464'
+    location_type: postcode
+  name: NEWTON
+  order: '0'
+  priority: '0'
+  rate: '6.25'
+  shipping: '0'
+  state: MA
+wootax/15911:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '02465'
+    location_type: postcode
+  name: NEWTON
+  order: '0'
+  priority: '0'
+  rate: '6.25'
+  shipping: '0'
+  state: MA
+wootax/15912:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '02466'
+    location_type: postcode
+  name: NEWTON
+  order: '0'
+  priority: '0'
+  rate: '6.25'
+  shipping: '0'
+  state: MA
+wootax/15913:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '02467'
+    location_type: postcode
+  name: NEWTON
+  order: '0'
+  priority: '0'
+  rate: '6.25'
+  shipping: '0'
+  state: MA
+wootax/15914:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: 02468
+    location_type: postcode
+  name: NEWTON
+  order: '0'
+  priority: '0'
+  rate: '6.25'
+  shipping: '0'
+  state: MA
+wootax/15915:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '02471'
+    location_type: postcode
+  name: WATERTOWN
+  order: '0'
+  priority: '0'
+  rate: '6.25'
+  shipping: '0'
+  state: MA
+wootax/15916:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '02472'
+    location_type: postcode
+  name: WATERTOWN
+  order: '0'
+  priority: '0'
+  rate: '6.25'
+  shipping: '0'
+  state: MA
+wootax/15917:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '02474'
+    location_type: postcode
+  name: ARLINGTON
+  order: '0'
+  priority: '0'
+  rate: '6.25'
+  shipping: '0'
+  state: MA
+wootax/15918:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '02476'
+    location_type: postcode
+  name: ARLINGTON
+  order: '0'
+  priority: '0'
+  rate: '6.25'
+  shipping: '0'
+  state: MA
+wootax/15919:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '02477'
+    location_type: postcode
+  name: WATERTOWN
+  order: '0'
+  priority: '0'
+  rate: '6.25'
+  shipping: '0'
+  state: MA
+wootax/15920:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: 02478
+    location_type: postcode
+  name: BELMONT
+  order: '0'
+  priority: '0'
+  rate: '6.25'
+  shipping: '0'
+  state: MA
+wootax/15921:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: 02481
+    location_type: postcode
+  name: WELLESLEY
+  order: '0'
+  priority: '0'
+  rate: '6.25'
+  shipping: '0'
+  state: MA
+wootax/15922:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: 02482
+    location_type: postcode
+  name: WELLESLEY
+  order: '0'
+  priority: '0'
+  rate: '6.25'
+  shipping: '0'
+  state: MA
+wootax/15923:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: 02492
+    location_type: postcode
+  name: NEEDHAM
+  order: '0'
+  priority: '0'
+  rate: '6.25'
+  shipping: '0'
+  state: MA
+wootax/15924:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: 02493
+    location_type: postcode
+  name: WESTON
+  order: '0'
+  priority: '0'
+  rate: '6.25'
+  shipping: '0'
+  state: MA
+wootax/15925:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: 02494
+    location_type: postcode
+  name: NEEDHAM
+  order: '0'
+  priority: '0'
+  rate: '6.25'
+  shipping: '0'
+  state: MA
+wootax/15926:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '02532'
+    location_type: postcode
+  name: BOURNE
+  order: '0'
+  priority: '0'
+  rate: '6.25'
+  shipping: '0'
+  state: MA
+wootax/15927:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '02534'
+    location_type: postcode
+  name: BOURNE
+  order: '0'
+  priority: '0'
+  rate: '6.25'
+  shipping: '0'
+  state: MA
+wootax/15928:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '02535'
+    location_type: postcode
+  name: CHILMARK
+  order: '0'
+  priority: '0'
+  rate: '6.25'
+  shipping: '0'
+  state: MA
+wootax/15929:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '02536'
+    location_type: postcode
+  name: FALMOUTH
+  order: '0'
+  priority: '0'
+  rate: '6.25'
+  shipping: '0'
+  state: MA
+wootax/15930:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '02537'
+    location_type: postcode
+  name: SANDWICH
+  order: '0'
+  priority: '0'
+  rate: '6.25'
+  shipping: '0'
+  state: MA
+wootax/15931:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: 02538
+    location_type: postcode
+  name: WAREHAM
+  order: '0'
+  priority: '0'
+  rate: '6.25'
+  shipping: '0'
+  state: MA
+wootax/15932:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: 02539
+    location_type: postcode
+  name: EDGARTOWN
+  order: '0'
+  priority: '0'
+  rate: '6.25'
+  shipping: '0'
+  state: MA
+wootax/15933:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '02540'
+    location_type: postcode
+  name: FALMOUTH
+  order: '0'
+  priority: '0'
+  rate: '6.25'
+  shipping: '0'
+  state: MA
+wootax/15934:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '02541'
+    location_type: postcode
+  name: FALMOUTH
+  order: '0'
+  priority: '0'
+  rate: '6.25'
+  shipping: '0'
+  state: MA
+wootax/15935:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '02542'
+    location_type: postcode
+  name: BOURNE
+  order: '0'
+  priority: '0'
+  rate: '6.25'
+  shipping: '0'
+  state: MA
+wootax/15936:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '02543'
+    location_type: postcode
+  name: FALMOUTH
+  order: '0'
+  priority: '0'
+  rate: '6.25'
+  shipping: '0'
+  state: MA
+wootax/15937:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '02552'
+    location_type: postcode
+  name: CHILMARK
+  order: '0'
+  priority: '0'
+  rate: '6.25'
+  shipping: '0'
+  state: MA
+wootax/15938:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '02553'
+    location_type: postcode
+  name: BOURNE
+  order: '0'
+  priority: '0'
+  rate: '6.25'
+  shipping: '0'
+  state: MA
+wootax/15939:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '02554'
+    location_type: postcode
+  name: NANTUCKET
+  order: '0'
+  priority: '0'
+  rate: '6.25'
+  shipping: '0'
+  state: MA
+wootax/15940:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '02556'
+    location_type: postcode
+  name: FALMOUTH
+  order: '0'
+  priority: '0'
+  rate: '6.25'
+  shipping: '0'
+  state: MA
+wootax/15941:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '02557'
+    location_type: postcode
+  name: OAK BLUFFS
+  order: '0'
+  priority: '0'
+  rate: '6.25'
+  shipping: '0'
+  state: MA
+wootax/15942:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: 02558
+    location_type: postcode
+  name: WAREHAM
+  order: '0'
+  priority: '0'
+  rate: '6.25'
+  shipping: '0'
+  state: MA
+wootax/15943:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: 02559
+    location_type: postcode
+  name: BOURNE
+  order: '0'
+  priority: '0'
+  rate: '6.25'
+  shipping: '0'
+  state: MA
+wootax/15944:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '02561'
+    location_type: postcode
+  name: BOURNE
+  order: '0'
+  priority: '0'
+  rate: '6.25'
+  shipping: '0'
+  state: MA
+wootax/15945:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '02562'
+    location_type: postcode
+  name: BOURNE
+  order: '0'
+  priority: '0'
+  rate: '6.25'
+  shipping: '0'
+  state: MA
+wootax/15946:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '02563'
+    location_type: postcode
+  name: SANDWICH
+  order: '0'
+  priority: '0'
+  rate: '6.25'
+  shipping: '0'
+  state: MA
+wootax/15947:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '02564'
+    location_type: postcode
+  name: NANTUCKET
+  order: '0'
+  priority: '0'
+  rate: '6.25'
+  shipping: '0'
+  state: MA
+wootax/15948:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: 02568
+    location_type: postcode
+  name: TISBURY
+  order: '0'
+  priority: '0'
+  rate: '6.25'
+  shipping: '0'
+  state: MA
+wootax/15949:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '02571'
+    location_type: postcode
+  name: WAREHAM
+  order: '0'
+  priority: '0'
+  rate: '6.25'
+  shipping: '0'
+  state: MA
+wootax/15950:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '02574'
+    location_type: postcode
+  name: FALMOUTH
+  order: '0'
+  priority: '0'
+  rate: '6.25'
+  shipping: '0'
+  state: MA
+wootax/15951:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '02575'
+    location_type: postcode
+  name: WEST TISBURY
+  order: '0'
+  priority: '0'
+  rate: '6.25'
+  shipping: '0'
+  state: MA
+wootax/15952:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '02576'
+    location_type: postcode
+  name: WAREHAM
+  order: '0'
+  priority: '0'
+  rate: '6.25'
+  shipping: '0'
+  state: MA
+wootax/15953:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: 02584
+    location_type: postcode
+  name: NANTUCKET
+  order: '0'
+  priority: '0'
+  rate: '6.25'
+  shipping: '0'
+  state: MA
+wootax/15954:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '02601'
+    location_type: postcode
+  name: BARNSTABLE
+  order: '0'
+  priority: '0'
+  rate: '6.25'
+  shipping: '0'
+  state: MA
+wootax/15955:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '02630'
+    location_type: postcode
+  name: BARNSTABLE
+  order: '0'
+  priority: '0'
+  rate: '6.25'
+  shipping: '0'
+  state: MA
+wootax/15956:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '02631'
+    location_type: postcode
+  name: BREWSTER
+  order: '0'
+  priority: '0'
+  rate: '6.25'
+  shipping: '0'
+  state: MA
+wootax/15957:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '02632'
+    location_type: postcode
+  name: BARNSTABLE
+  order: '0'
+  priority: '0'
+  rate: '6.25'
+  shipping: '0'
+  state: MA
+wootax/15958:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '02633'
+    location_type: postcode
+  name: CHATHAM
+  order: '0'
+  priority: '0'
+  rate: '6.25'
+  shipping: '0'
+  state: MA
+wootax/15959:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '02634'
+    location_type: postcode
+  name: BARNSTABLE
+  order: '0'
+  priority: '0'
+  rate: '6.25'
+  shipping: '0'
+  state: MA
+wootax/15960:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '02635'
+    location_type: postcode
+  name: BARNSTABLE
+  order: '0'
+  priority: '0'
+  rate: '6.25'
+  shipping: '0'
+  state: MA
+wootax/15961:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '02637'
+    location_type: postcode
+  name: BARNSTABLE
+  order: '0'
+  priority: '0'
+  rate: '6.25'
+  shipping: '0'
+  state: MA
+wootax/15962:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: 02638
+    location_type: postcode
+  name: DENNIS
+  order: '0'
+  priority: '0'
+  rate: '6.25'
+  shipping: '0'
+  state: MA
+wootax/15963:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: 02639
+    location_type: postcode
+  name: DENNIS
+  order: '0'
+  priority: '0'
+  rate: '6.25'
+  shipping: '0'
+  state: MA
+wootax/15964:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '02641'
+    location_type: postcode
+  name: DENNIS
+  order: '0'
+  priority: '0'
+  rate: '6.25'
+  shipping: '0'
+  state: MA
+wootax/15965:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '02642'
+    location_type: postcode
+  name: EASTHAM
+  order: '0'
+  priority: '0'
+  rate: '6.25'
+  shipping: '0'
+  state: MA
+wootax/15966:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '02643'
+    location_type: postcode
+  name: ORLEANS
+  order: '0'
+  priority: '0'
+  rate: '6.25'
+  shipping: '0'
+  state: MA
+wootax/15967:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '02644'
+    location_type: postcode
+  name: SANDWICH
+  order: '0'
+  priority: '0'
+  rate: '6.25'
+  shipping: '0'
+  state: MA
+wootax/15968:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '02645'
+    location_type: postcode
+  name: HARWICH
+  order: '0'
+  priority: '0'
+  rate: '6.25'
+  shipping: '0'
+  state: MA
+wootax/15969:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '02646'
+    location_type: postcode
+  name: HARWICH
+  order: '0'
+  priority: '0'
+  rate: '6.25'
+  shipping: '0'
+  state: MA
+wootax/15970:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '02647'
+    location_type: postcode
+  name: BARNSTABLE
+  order: '0'
+  priority: '0'
+  rate: '6.25'
+  shipping: '0'
+  state: MA
+wootax/15971:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: 02648
+    location_type: postcode
+  name: BARNSTABLE
+  order: '0'
+  priority: '0'
+  rate: '6.25'
+  shipping: '0'
+  state: MA
+wootax/15972:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: 02649
+    location_type: postcode
+  name: MASHPEE
+  order: '0'
+  priority: '0'
+  rate: '6.25'
+  shipping: '0'
+  state: MA
+wootax/15973:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '02650'
+    location_type: postcode
+  name: CHATHAM
+  order: '0'
+  priority: '0'
+  rate: '6.25'
+  shipping: '0'
+  state: MA
+wootax/15974:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '02651'
+    location_type: postcode
+  name: MASSACHUSETTS STATE
+  order: '0'
+  priority: '0'
+  rate: '6.25'
+  shipping: '0'
+  state: MA
+wootax/15975:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '02652'
+    location_type: postcode
+  name: TRURO
+  order: '0'
+  priority: '0'
+  rate: '6.25'
+  shipping: '0'
+  state: MA
+wootax/15976:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '02653'
+    location_type: postcode
+  name: ORLEANS
+  order: '0'
+  priority: '0'
+  rate: '6.25'
+  shipping: '0'
+  state: MA
+wootax/15977:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '02655'
+    location_type: postcode
+  name: BARNSTABLE
+  order: '0'
+  priority: '0'
+  rate: '6.25'
+  shipping: '0'
+  state: MA
+wootax/15978:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '02657'
+    location_type: postcode
+  name: PROVINCETOWN
+  order: '0'
+  priority: '0'
+  rate: '6.25'
+  shipping: '0'
+  state: MA
+wootax/15979:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: 02659
+    location_type: postcode
+  name: CHATHAM
+  order: '0'
+  priority: '0'
+  rate: '6.25'
+  shipping: '0'
+  state: MA
+wootax/15980:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '02660'
+    location_type: postcode
+  name: DENNIS
+  order: '0'
+  priority: '0'
+  rate: '6.25'
+  shipping: '0'
+  state: MA
+wootax/15981:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '02661'
+    location_type: postcode
+  name: HARWICH
+  order: '0'
+  priority: '0'
+  rate: '6.25'
+  shipping: '0'
+  state: MA
+wootax/15982:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '02662'
+    location_type: postcode
+  name: ORLEANS
+  order: '0'
+  priority: '0'
+  rate: '6.25'
+  shipping: '0'
+  state: MA
+wootax/15983:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '02663'
+    location_type: postcode
+  name: WELLFLEET
+  order: '0'
+  priority: '0'
+  rate: '6.25'
+  shipping: '0'
+  state: MA
+wootax/15984:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '02664'
+    location_type: postcode
+  name: YARMOUTH
+  order: '0'
+  priority: '0'
+  rate: '6.25'
+  shipping: '0'
+  state: MA
+wootax/15985:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '02666'
+    location_type: postcode
+  name: TRURO
+  order: '0'
+  priority: '0'
+  rate: '6.25'
+  shipping: '0'
+  state: MA
+wootax/15986:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '02667'
+    location_type: postcode
+  name: WELLFLEET
+  order: '0'
+  priority: '0'
+  rate: '6.25'
+  shipping: '0'
+  state: MA
+wootax/15987:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: 02668
+    location_type: postcode
+  name: BARNSTABLE
+  order: '0'
+  priority: '0'
+  rate: '6.25'
+  shipping: '0'
+  state: MA
+wootax/15988:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: 02669
+    location_type: postcode
+  name: BARNSTABLE
+  order: '0'
+  priority: '0'
+  rate: '6.25'
+  shipping: '0'
+  state: MA
+wootax/15989:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '02670'
+    location_type: postcode
+  name: DENNIS
+  order: '0'
+  priority: '0'
+  rate: '6.25'
+  shipping: '0'
+  state: MA
+wootax/15990:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '02671'
+    location_type: postcode
+  name: HARWICH
+  order: '0'
+  priority: '0'
+  rate: '6.25'
+  shipping: '0'
+  state: MA
+wootax/15991:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '02672'
+    location_type: postcode
+  name: BARNSTABLE
+  order: '0'
+  priority: '0'
+  rate: '6.25'
+  shipping: '0'
+  state: MA
+wootax/15992:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '02673'
+    location_type: postcode
+  name: YARMOUTH
+  order: '0'
+  priority: '0'
+  rate: '6.25'
+  shipping: '0'
+  state: MA
+wootax/15993:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '02675'
+    location_type: postcode
+  name: YARMOUTH
+  order: '0'
+  priority: '0'
+  rate: '6.25'
+  shipping: '0'
+  state: MA
+wootax/15994:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '02702'
+    location_type: postcode
+  name: FREETOWN
+  order: '0'
+  priority: '0'
+  rate: '6.25'
+  shipping: '0'
+  state: MA
+wootax/15995:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '02703'
+    location_type: postcode
+  name: ATTLEBORO
+  order: '0'
+  priority: '0'
+  rate: '6.25'
+  shipping: '0'
+  state: MA
+wootax/15996:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '02712'
+    location_type: postcode
+  name: NORTON
+  order: '0'
+  priority: '0'
+  rate: '6.25'
+  shipping: '0'
+  state: MA
+wootax/15997:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '02713'
+    location_type: postcode
+  name: GOSNOLD
+  order: '0'
+  priority: '0'
+  rate: '6.25'
+  shipping: '0'
+  state: MA
+wootax/15998:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '02715'
+    location_type: postcode
+  name: DIGHTON
+  order: '0'
+  priority: '0'
+  rate: '6.25'
+  shipping: '0'
+  state: MA
+wootax/15999:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '02717'
+    location_type: postcode
+  name: FREETOWN
+  order: '0'
+  priority: '0'
+  rate: '6.25'
+  shipping: '0'
+  state: MA
+wootax/16000:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: 02718
+    location_type: postcode
+  name: TAUNTON
+  order: '0'
+  priority: '0'
+  rate: '6.25'
+  shipping: '0'
+  state: MA
+wootax/16001:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: 02719
+    location_type: postcode
+  name: FAIRHAVEN
+  order: '0'
+  priority: '0'
+  rate: '6.25'
+  shipping: '0'
+  state: MA
+wootax/16002:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '02720'
+    location_type: postcode
+  name: FALL RIVER
+  order: '0'
+  priority: '0'
+  rate: '6.25'
+  shipping: '0'
+  state: MA
+wootax/16003:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '02721'
+    location_type: postcode
+  name: FALL RIVER
+  order: '0'
+  priority: '0'
+  rate: '6.25'
+  shipping: '0'
+  state: MA
+wootax/16004:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '02722'
+    location_type: postcode
+  name: WESTPORT
+  order: '0'
+  priority: '0'
+  rate: '6.25'
+  shipping: '0'
+  state: MA
+wootax/16005:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '02723'
+    location_type: postcode
+  name: FALL RIVER
+  order: '0'
+  priority: '0'
+  rate: '6.25'
+  shipping: '0'
+  state: MA
+wootax/16006:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '02724'
+    location_type: postcode
+  name: FALL RIVER
+  order: '0'
+  priority: '0'
+  rate: '6.25'
+  shipping: '0'
+  state: MA
+wootax/16007:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '02725'
+    location_type: postcode
+  name: SOMERSET
+  order: '0'
+  priority: '0'
+  rate: '6.25'
+  shipping: '0'
+  state: MA
+wootax/16008:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '02726'
+    location_type: postcode
+  name: SOMERSET
+  order: '0'
+  priority: '0'
+  rate: '6.25'
+  shipping: '0'
+  state: MA
+wootax/16009:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: 02738
+    location_type: postcode
+  name: MARION
+  order: '0'
+  priority: '0'
+  rate: '6.25'
+  shipping: '0'
+  state: MA
+wootax/16010:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: 02739
+    location_type: postcode
+  name: MATTAPOISETT
+  order: '0'
+  priority: '0'
+  rate: '6.25'
+  shipping: '0'
+  state: MA
+wootax/16011:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '02740'
+    location_type: postcode
+  name: NEW BEDFORD
+  order: '0'
+  priority: '0'
+  rate: '6.25'
+  shipping: '0'
+  state: MA
+wootax/16012:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '02741'
+    location_type: postcode
+  name: NEW BEDFORD
+  order: '0'
+  priority: '0'
+  rate: '6.25'
+  shipping: '0'
+  state: MA
+wootax/16013:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '02742'
+    location_type: postcode
+  name: NEW BEDFORD
+  order: '0'
+  priority: '0'
+  rate: '6.25'
+  shipping: '0'
+  state: MA
+wootax/16014:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '02743'
+    location_type: postcode
+  name: ACUSHNET
+  order: '0'
+  priority: '0'
+  rate: '6.25'
+  shipping: '0'
+  state: MA
+wootax/16015:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '02744'
+    location_type: postcode
+  name: NEW BEDFORD
+  order: '0'
+  priority: '0'
+  rate: '6.25'
+  shipping: '0'
+  state: MA
+wootax/16016:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '02745'
+    location_type: postcode
+  name: NEW BEDFORD
+  order: '0'
+  priority: '0'
+  rate: '6.25'
+  shipping: '0'
+  state: MA
+wootax/16017:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '02746'
+    location_type: postcode
+  name: NEW BEDFORD
+  order: '0'
+  priority: '0'
+  rate: '6.25'
+  shipping: '0'
+  state: MA
+wootax/16018:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '02747'
+    location_type: postcode
+  name: DARTMOUTH
+  order: '0'
+  priority: '0'
+  rate: '6.25'
+  shipping: '0'
+  state: MA
+wootax/16019:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: 02748
+    location_type: postcode
+  name: DARTMOUTH
+  order: '0'
+  priority: '0'
+  rate: '6.25'
+  shipping: '0'
+  state: MA
+wootax/16020:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '02760'
+    location_type: postcode
+  name: NORTH ATTLEBOROUGH
+  order: '0'
+  priority: '0'
+  rate: '6.25'
+  shipping: '0'
+  state: MA
+wootax/16021:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '02761'
+    location_type: postcode
+  name: NORTH ATTLEBOROUGH
+  order: '0'
+  priority: '0'
+  rate: '6.25'
+  shipping: '0'
+  state: MA
+wootax/16022:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '02762'
+    location_type: postcode
+  name: PLAINVILLE
+  order: '0'
+  priority: '0'
+  rate: '6.25'
+  shipping: '0'
+  state: MA
+wootax/16023:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '02763'
+    location_type: postcode
+  name: NORTH ATTLEBOROUGH
+  order: '0'
+  priority: '0'
+  rate: '6.25'
+  shipping: '0'
+  state: MA
+wootax/16024:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '02764'
+    location_type: postcode
+  name: DIGHTON
+  order: '0'
+  priority: '0'
+  rate: '6.25'
+  shipping: '0'
+  state: MA
+wootax/16025:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '02766'
+    location_type: postcode
+  name: NORTON
+  order: '0'
+  priority: '0'
+  rate: '6.25'
+  shipping: '0'
+  state: MA
+wootax/16026:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '02767'
+    location_type: postcode
+  name: RAYNHAM
+  order: '0'
+  priority: '0'
+  rate: '6.25'
+  shipping: '0'
+  state: MA
+wootax/16027:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: 02768
+    location_type: postcode
+  name: RAYNHAM
+  order: '0'
+  priority: '0'
+  rate: '6.25'
+  shipping: '0'
+  state: MA
+wootax/16028:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: 02769
+    location_type: postcode
+  name: REHOBOTH
+  order: '0'
+  priority: '0'
+  rate: '6.25'
+  shipping: '0'
+  state: MA
+wootax/16029:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '02770'
+    location_type: postcode
+  name: ROCHESTER
+  order: '0'
+  priority: '0'
+  rate: '6.25'
+  shipping: '0'
+  state: MA
+wootax/16030:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '02771'
+    location_type: postcode
+  name: SEEKONK
+  order: '0'
+  priority: '0'
+  rate: '6.25'
+  shipping: '0'
+  state: MA
+wootax/16031:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '02777'
+    location_type: postcode
+  name: SWANSEA
+  order: '0'
+  priority: '0'
+  rate: '6.25'
+  shipping: '0'
+  state: MA
+wootax/16032:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: 02779
+    location_type: postcode
+  name: BERKLEY
+  order: '0'
+  priority: '0'
+  rate: '6.25'
+  shipping: '0'
+  state: MA
+wootax/16033:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: 02780
+    location_type: postcode
+  name: TAUNTON
+  order: '0'
+  priority: '0'
+  rate: '6.25'
+  shipping: '0'
+  state: MA
+wootax/16034:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: 02790
+    location_type: postcode
+  name: WESTPORT
+  order: '0'
+  priority: '0'
+  rate: '6.25'
+  shipping: '0'
+  state: MA
+wootax/16035:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: 02791
+    location_type: postcode
+  name: WESTPORT
+  order: '0'
+  priority: '0'
+  rate: '6.25'
+  shipping: '0'
+  state: MA
+wootax/16036:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '05501'
+    location_type: postcode
+  name: ANDOVER
+  order: '0'
+  priority: '0'
+  rate: '6.25'
+  shipping: '0'
+  state: MA

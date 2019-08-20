@@ -1,0 +1,6539 @@
+wootax/20211:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '38601'
+    location_type: postcode
+  name: LAFAYETTE
+  order: '0'
+  priority: '0'
+  rate: '7'
+  shipping: '1'
+  state: MS
+wootax/20212:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '38602'
+    location_type: postcode
+  name: TATE
+  order: '0'
+  priority: '0'
+  rate: '7'
+  shipping: '1'
+  state: MS
+wootax/20213:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '38603'
+    location_type: postcode
+  name: BENTON
+  order: '0'
+  priority: '0'
+  rate: '7'
+  shipping: '1'
+  state: MS
+wootax/20214:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '38606'
+    location_type: postcode
+  name: PANOLA
+  order: '0'
+  priority: '0'
+  rate: '7'
+  shipping: '1'
+  state: MS
+wootax/20215:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '38609'
+    location_type: postcode
+  name: QUITMAN
+  order: '0'
+  priority: '0'
+  rate: '7'
+  shipping: '1'
+  state: MS
+wootax/20216:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '38610'
+    location_type: postcode
+  name: TIPPAH
+  order: '0'
+  priority: '0'
+  rate: '7'
+  shipping: '1'
+  state: MS
+wootax/20217:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '38611'
+    location_type: postcode
+  name: MARSHALL
+  order: '0'
+  priority: '0'
+  rate: '7'
+  shipping: '1'
+  state: MS
+wootax/20218:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '38614'
+    location_type: postcode
+  name: CLARKSDALE
+  order: '0'
+  priority: '0'
+  rate: '7'
+  shipping: '1'
+  state: MS
+wootax/20219:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '38617'
+    location_type: postcode
+  name: COAHOMA
+  order: '0'
+  priority: '0'
+  rate: '7'
+  shipping: '1'
+  state: MS
+wootax/20220:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '38618'
+    location_type: postcode
+  name: TATE
+  order: '0'
+  priority: '0'
+  rate: '7'
+  shipping: '1'
+  state: MS
+wootax/20221:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '38619'
+    location_type: postcode
+  name: PANOLA
+  order: '0'
+  priority: '0'
+  rate: '7'
+  shipping: '1'
+  state: MS
+wootax/20222:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '38620'
+    location_type: postcode
+  name: PANOLA
+  order: '0'
+  priority: '0'
+  rate: '7'
+  shipping: '1'
+  state: MS
+wootax/20223:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '38621'
+    location_type: postcode
+  name: PANOLA
+  order: '0'
+  priority: '0'
+  rate: '7'
+  shipping: '1'
+  state: MS
+wootax/20224:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '38622'
+    location_type: postcode
+  name: CROWDER
+  order: '0'
+  priority: '0'
+  rate: '7'
+  shipping: '1'
+  state: MS
+wootax/20225:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '38623'
+    location_type: postcode
+  name: QUITMAN
+  order: '0'
+  priority: '0'
+  rate: '7'
+  shipping: '1'
+  state: MS
+wootax/20226:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '38625'
+    location_type: postcode
+  name: TIPPAH
+  order: '0'
+  priority: '0'
+  rate: '7'
+  shipping: '1'
+  state: MS
+wootax/20227:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '38626'
+    location_type: postcode
+  name: TUNICA
+  order: '0'
+  priority: '0'
+  rate: '7'
+  shipping: '1'
+  state: MS
+wootax/20228:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '38627'
+    location_type: postcode
+  name: UNION
+  order: '0'
+  priority: '0'
+  rate: '7'
+  shipping: '1'
+  state: MS
+wootax/20229:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '38629'
+    location_type: postcode
+  name: TIPPAH
+  order: '0'
+  priority: '0'
+  rate: '7'
+  shipping: '1'
+  state: MS
+wootax/20230:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '38631'
+    location_type: postcode
+  name: FRIARS POINT
+  order: '0'
+  priority: '0'
+  rate: '7'
+  shipping: '1'
+  state: MS
+wootax/20231:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '38632'
+    location_type: postcode
+  name: DESOTO
+  order: '0'
+  priority: '0'
+  rate: '7'
+  shipping: '1'
+  state: MS
+wootax/20232:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '38633'
+    location_type: postcode
+  name: BENTON
+  order: '0'
+  priority: '0'
+  rate: '7'
+  shipping: '1'
+  state: MS
+wootax/20233:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '38635'
+    location_type: postcode
+  name: MARSHALL
+  order: '0'
+  priority: '0'
+  rate: '7'
+  shipping: '1'
+  state: MS
+wootax/20234:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '38637'
+    location_type: postcode
+  name: HORN LAKE
+  order: '0'
+  priority: '0'
+  rate: '7'
+  shipping: '1'
+  state: MS
+wootax/20235:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '38638'
+    location_type: postcode
+  name: TATE
+  order: '0'
+  priority: '0'
+  rate: '7'
+  shipping: '1'
+  state: MS
+wootax/20236:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '38639'
+    location_type: postcode
+  name: JONESTOWN
+  order: '0'
+  priority: '0'
+  rate: '7'
+  shipping: '1'
+  state: MS
+wootax/20237:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '38641'
+    location_type: postcode
+  name: DESOTO
+  order: '0'
+  priority: '0'
+  rate: '7'
+  shipping: '1'
+  state: MS
+wootax/20238:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '38642'
+    location_type: postcode
+  name: BENTON
+  order: '0'
+  priority: '0'
+  rate: '7'
+  shipping: '1'
+  state: MS
+wootax/20239:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '38643'
+    location_type: postcode
+  name: QUITMAN
+  order: '0'
+  priority: '0'
+  rate: '7'
+  shipping: '1'
+  state: MS
+wootax/20240:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '38644'
+    location_type: postcode
+  name: LULA
+  order: '0'
+  priority: '0'
+  rate: '7'
+  shipping: '1'
+  state: MS
+wootax/20241:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '38645'
+    location_type: postcode
+  name: COAHOMA
+  order: '0'
+  priority: '0'
+  rate: '7'
+  shipping: '1'
+  state: MS
+wootax/20242:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '38646'
+    location_type: postcode
+  name: QUITMAN
+  order: '0'
+  priority: '0'
+  rate: '7'
+  shipping: '1'
+  state: MS
+wootax/20243:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '38647'
+    location_type: postcode
+  name: BENTON
+  order: '0'
+  priority: '0'
+  rate: '7'
+  shipping: '1'
+  state: MS
+wootax/20244:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '38649'
+    location_type: postcode
+  name: HOLLY SPRINGS
+  order: '0'
+  priority: '0'
+  rate: '7'
+  shipping: '1'
+  state: MS
+wootax/20245:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '38650'
+    location_type: postcode
+  name: UNION
+  order: '0'
+  priority: '0'
+  rate: '7'
+  shipping: '1'
+  state: MS
+wootax/20246:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '38651'
+    location_type: postcode
+  name: DESOTO
+  order: '0'
+  priority: '0'
+  rate: '7'
+  shipping: '1'
+  state: MS
+wootax/20247:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '38652'
+    location_type: postcode
+  name: NEW ALBANY
+  order: '0'
+  priority: '0'
+  rate: '7'
+  shipping: '1'
+  state: MS
+wootax/20248:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '38654'
+    location_type: postcode
+  name: OLIVE BRANCH
+  order: '0'
+  priority: '0'
+  rate: '7'
+  shipping: '1'
+  state: MS
+wootax/20249:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '38655'
+    location_type: postcode
+  name: OXFORD
+  order: '0'
+  priority: '0'
+  rate: '7'
+  shipping: '1'
+  state: MS
+wootax/20250:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '38658'
+    location_type: postcode
+  name: PANOLA
+  order: '0'
+  priority: '0'
+  rate: '7'
+  shipping: '1'
+  state: MS
+wootax/20251:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '38659'
+    location_type: postcode
+  name: MARSHALL
+  order: '0'
+  priority: '0'
+  rate: '7'
+  shipping: '1'
+  state: MS
+wootax/20252:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '38661'
+    location_type: postcode
+  name: MARSHALL
+  order: '0'
+  priority: '0'
+  rate: '7'
+  shipping: '1'
+  state: MS
+wootax/20253:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '38663'
+    location_type: postcode
+  name: TIPPAH
+  order: '0'
+  priority: '0'
+  rate: '7'
+  shipping: '1'
+  state: MS
+wootax/20254:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '38664'
+    location_type: postcode
+  name: TUNICA
+  order: '0'
+  priority: '0'
+  rate: '7'
+  shipping: '1'
+  state: MS
+wootax/20255:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '38665'
+    location_type: postcode
+  name: TATE
+  order: '0'
+  priority: '0'
+  rate: '7'
+  shipping: '1'
+  state: MS
+wootax/20256:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '38666'
+    location_type: postcode
+  name: PANOLA
+  order: '0'
+  priority: '0'
+  rate: '7'
+  shipping: '1'
+  state: MS
+wootax/20257:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '38668'
+    location_type: postcode
+  name: TATE
+  order: '0'
+  priority: '0'
+  rate: '7'
+  shipping: '1'
+  state: MS
+wootax/20258:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '38670'
+    location_type: postcode
+  name: QUITMAN
+  order: '0'
+  priority: '0'
+  rate: '7'
+  shipping: '1'
+  state: MS
+wootax/20259:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '38671'
+    location_type: postcode
+  name: SOUTHAVEN
+  order: '0'
+  priority: '0'
+  rate: '7'
+  shipping: '1'
+  state: MS
+wootax/20260:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '38672'
+    location_type: postcode
+  name: SOUTHAVEN
+  order: '0'
+  priority: '0'
+  rate: '7'
+  shipping: '1'
+  state: MS
+wootax/20261:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '38673'
+    location_type: postcode
+  name: LAFAYETTE
+  order: '0'
+  priority: '0'
+  rate: '7'
+  shipping: '1'
+  state: MS
+wootax/20262:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '38674'
+    location_type: postcode
+  name: TIPPAH
+  order: '0'
+  priority: '0'
+  rate: '7'
+  shipping: '1'
+  state: MS
+wootax/20263:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '38676'
+    location_type: postcode
+  name: TUNICA
+  order: '0'
+  priority: '0'
+  rate: '7'
+  shipping: '1'
+  state: MS
+wootax/20264:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '38677'
+    location_type: postcode
+  name: LAFAYETTE
+  order: '0'
+  priority: '0'
+  rate: '7'
+  shipping: '1'
+  state: MS
+wootax/20265:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '38679'
+    location_type: postcode
+  name: MARSHALL
+  order: '0'
+  priority: '0'
+  rate: '7'
+  shipping: '1'
+  state: MS
+wootax/20266:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '38680'
+    location_type: postcode
+  name: DESOTO
+  order: '0'
+  priority: '0'
+  rate: '7'
+  shipping: '1'
+  state: MS
+wootax/20267:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '38683'
+    location_type: postcode
+  name: TIPPAH
+  order: '0'
+  priority: '0'
+  rate: '7'
+  shipping: '1'
+  state: MS
+wootax/20268:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '38685'
+    location_type: postcode
+  name: MARSHALL
+  order: '0'
+  priority: '0'
+  rate: '7'
+  shipping: '1'
+  state: MS
+wootax/20269:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '38686'
+    location_type: postcode
+  name: WALLS
+  order: '0'
+  priority: '0'
+  rate: '7'
+  shipping: '1'
+  state: MS
+wootax/20270:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '38701'
+    location_type: postcode
+  name: GREENVILLE
+  order: '0'
+  priority: '0'
+  rate: '7'
+  shipping: '1'
+  state: MS
+wootax/20271:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '38703'
+    location_type: postcode
+  name: GREENVILLE
+  order: '0'
+  priority: '0'
+  rate: '7'
+  shipping: '1'
+  state: MS
+wootax/20272:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '38720'
+    location_type: postcode
+  name: COAHOMA
+  order: '0'
+  priority: '0'
+  rate: '7'
+  shipping: '1'
+  state: MS
+wootax/20273:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '38721'
+    location_type: postcode
+  name: SHARKEY
+  order: '0'
+  priority: '0'
+  rate: '7'
+  shipping: '1'
+  state: MS
+wootax/20274:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '38722'
+    location_type: postcode
+  name: ARCOLA
+  order: '0'
+  priority: '0'
+  rate: '7'
+  shipping: '1'
+  state: MS
+wootax/20275:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '38723'
+    location_type: postcode
+  name: WASHINGTON
+  order: '0'
+  priority: '0'
+  rate: '7'
+  shipping: '1'
+  state: MS
+wootax/20276:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '38725'
+    location_type: postcode
+  name: BOLIVAR
+  order: '0'
+  priority: '0'
+  rate: '7'
+  shipping: '1'
+  state: MS
+wootax/20277:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '38726'
+    location_type: postcode
+  name: BOLIVAR
+  order: '0'
+  priority: '0'
+  rate: '7'
+  shipping: '1'
+  state: MS
+wootax/20278:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '38730'
+    location_type: postcode
+  name: BOLIVAR
+  order: '0'
+  priority: '0'
+  rate: '7'
+  shipping: '1'
+  state: MS
+wootax/20279:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '38731'
+    location_type: postcode
+  name: WASHINGTON
+  order: '0'
+  priority: '0'
+  rate: '7'
+  shipping: '1'
+  state: MS
+wootax/20280:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '38732'
+    location_type: postcode
+  name: CLEVELAND
+  order: '0'
+  priority: '0'
+  rate: '7'
+  shipping: '1'
+  state: MS
+wootax/20281:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '38733'
+    location_type: postcode
+  name: CLEVELAND
+  order: '0'
+  priority: '0'
+  rate: '7'
+  shipping: '1'
+  state: MS
+wootax/20282:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '38736'
+    location_type: postcode
+  name: SUNFLOWER
+  order: '0'
+  priority: '0'
+  rate: '7'
+  shipping: '1'
+  state: MS
+wootax/20283:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '38737'
+    location_type: postcode
+  name: DREW
+  order: '0'
+  priority: '0'
+  rate: '7'
+  shipping: '1'
+  state: MS
+wootax/20284:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '38738'
+    location_type: postcode
+  name: DREW
+  order: '0'
+  priority: '0'
+  rate: '7'
+  shipping: '1'
+  state: MS
+wootax/20285:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '38739'
+    location_type: postcode
+  name: COAHOMA
+  order: '0'
+  priority: '0'
+  rate: '7'
+  shipping: '1'
+  state: MS
+wootax/20286:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '38740'
+    location_type: postcode
+  name: BOLIVAR
+  order: '0'
+  priority: '0'
+  rate: '7'
+  shipping: '1'
+  state: MS
+wootax/20287:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '38744'
+    location_type: postcode
+  name: WASHINGTON
+  order: '0'
+  priority: '0'
+  rate: '7'
+  shipping: '1'
+  state: MS
+wootax/20288:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '38745'
+    location_type: postcode
+  name: ISSAQUENA
+  order: '0'
+  priority: '0'
+  rate: '7'
+  shipping: '1'
+  state: MS
+wootax/20289:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '38746'
+    location_type: postcode
+  name: BOLIVAR
+  order: '0'
+  priority: '0'
+  rate: '7'
+  shipping: '1'
+  state: MS
+wootax/20290:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '38748'
+    location_type: postcode
+  name: HOLLANDALE
+  order: '0'
+  priority: '0'
+  rate: '7'
+  shipping: '1'
+  state: MS
+wootax/20291:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '38749'
+    location_type: postcode
+  name: SUNFLOWER
+  order: '0'
+  priority: '0'
+  rate: '7'
+  shipping: '1'
+  state: MS
+wootax/20292:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '38751'
+    location_type: postcode
+  name: INDIANOLA
+  order: '0'
+  priority: '0'
+  rate: '7'
+  shipping: '1'
+  state: MS
+wootax/20293:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '38753'
+    location_type: postcode
+  name: INVERNESS
+  order: '0'
+  priority: '0'
+  rate: '7'
+  shipping: '1'
+  state: MS
+wootax/20294:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '38754'
+    location_type: postcode
+  name: HUMPHREYS
+  order: '0'
+  priority: '0'
+  rate: '7'
+  shipping: '1'
+  state: MS
+wootax/20295:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '38756'
+    location_type: postcode
+  name: LELAND
+  order: '0'
+  priority: '0'
+  rate: '7'
+  shipping: '1'
+  state: MS
+wootax/20296:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '38759'
+    location_type: postcode
+  name: BOLIVAR
+  order: '0'
+  priority: '0'
+  rate: '7'
+  shipping: '1'
+  state: MS
+wootax/20297:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '38760'
+    location_type: postcode
+  name: METCALFE
+  order: '0'
+  priority: '0'
+  rate: '7'
+  shipping: '1'
+  state: MS
+wootax/20298:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '38761'
+    location_type: postcode
+  name: MOORHEAD
+  order: '0'
+  priority: '0'
+  rate: '7'
+  shipping: '1'
+  state: MS
+wootax/20299:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '38762'
+    location_type: postcode
+  name: MOUND BAYOU
+  order: '0'
+  priority: '0'
+  rate: '7'
+  shipping: '1'
+  state: MS
+wootax/20300:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '38764'
+    location_type: postcode
+  name: PACE
+  order: '0'
+  priority: '0'
+  rate: '7'
+  shipping: '1'
+  state: MS
+wootax/20301:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '38765'
+    location_type: postcode
+  name: SHARKEY
+  order: '0'
+  priority: '0'
+  rate: '7'
+  shipping: '1'
+  state: MS
+wootax/20302:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '38767'
+    location_type: postcode
+  name: COAHOMA
+  order: '0'
+  priority: '0'
+  rate: '7'
+  shipping: '1'
+  state: MS
+wootax/20303:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '38768'
+    location_type: postcode
+  name: SUNFLOWER
+  order: '0'
+  priority: '0'
+  rate: '7'
+  shipping: '1'
+  state: MS
+wootax/20304:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '38769'
+    location_type: postcode
+  name: ROSEDALE
+  order: '0'
+  priority: '0'
+  rate: '7'
+  shipping: '1'
+  state: MS
+wootax/20305:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '38771'
+    location_type: postcode
+  name: RULEVILLE
+  order: '0'
+  priority: '0'
+  rate: '7'
+  shipping: '1'
+  state: MS
+wootax/20306:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '38772'
+    location_type: postcode
+  name: BOLIVAR
+  order: '0'
+  priority: '0'
+  rate: '7'
+  shipping: '1'
+  state: MS
+wootax/20307:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '38773'
+    location_type: postcode
+  name: BOLIVAR
+  order: '0'
+  priority: '0'
+  rate: '7'
+  shipping: '1'
+  state: MS
+wootax/20308:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '38774'
+    location_type: postcode
+  name: SHELBY
+  order: '0'
+  priority: '0'
+  rate: '7'
+  shipping: '1'
+  state: MS
+wootax/20309:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '38776'
+    location_type: postcode
+  name: WASHINGTON
+  order: '0'
+  priority: '0'
+  rate: '7'
+  shipping: '1'
+  state: MS
+wootax/20310:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '38778'
+    location_type: postcode
+  name: SUNFLOWER
+  order: '0'
+  priority: '0'
+  rate: '7'
+  shipping: '1'
+  state: MS
+wootax/20311:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '38780'
+    location_type: postcode
+  name: WASHINGTON
+  order: '0'
+  priority: '0'
+  rate: '7'
+  shipping: '1'
+  state: MS
+wootax/20312:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '38781'
+    location_type: postcode
+  name: WINSTONVILLE
+  order: '0'
+  priority: '0'
+  rate: '7'
+  shipping: '1'
+  state: MS
+wootax/20313:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '38782'
+    location_type: postcode
+  name: GREENVILLE
+  order: '0'
+  priority: '0'
+  rate: '7'
+  shipping: '1'
+  state: MS
+wootax/20314:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '38801'
+    location_type: postcode
+  name: TUPELO
+  order: '0'
+  priority: '0'
+  rate: '7.25'
+  shipping: '1'
+  state: MS
+wootax/20315:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '38802'
+    location_type: postcode
+  name: TUPELO
+  order: '0'
+  priority: '0'
+  rate: '7.25'
+  shipping: '1'
+  state: MS
+wootax/20316:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '38803'
+    location_type: postcode
+  name: TUPELO
+  order: '0'
+  priority: '0'
+  rate: '7.25'
+  shipping: '1'
+  state: MS
+wootax/20317:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '38804'
+    location_type: postcode
+  name: TUPELO
+  order: '0'
+  priority: '0'
+  rate: '7.25'
+  shipping: '1'
+  state: MS
+wootax/20318:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '38820'
+    location_type: postcode
+  name: ALGOMA
+  order: '0'
+  priority: '0'
+  rate: '7'
+  shipping: '1'
+  state: MS
+wootax/20319:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '38821'
+    location_type: postcode
+  name: AMORY
+  order: '0'
+  priority: '0'
+  rate: '7'
+  shipping: '1'
+  state: MS
+wootax/20320:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '38824'
+    location_type: postcode
+  name: BALDWYN
+  order: '0'
+  priority: '0'
+  rate: '7'
+  shipping: '1'
+  state: MS
+wootax/20321:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '38825'
+    location_type: postcode
+  name: MONROE
+  order: '0'
+  priority: '0'
+  rate: '7'
+  shipping: '1'
+  state: MS
+wootax/20322:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '38826'
+    location_type: postcode
+  name: TUPELO
+  order: '0'
+  priority: '0'
+  rate: '7.25'
+  shipping: '1'
+  state: MS
+wootax/20323:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '38827'
+    location_type: postcode
+  name: BELMONT
+  order: '0'
+  priority: '0'
+  rate: '7'
+  shipping: '1'
+  state: MS
+wootax/20324:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '38828'
+    location_type: postcode
+  name: UNION
+  order: '0'
+  priority: '0'
+  rate: '7'
+  shipping: '1'
+  state: MS
+wootax/20325:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '38829'
+    location_type: postcode
+  name: BOONEVILLE
+  order: '0'
+  priority: '0'
+  rate: '7'
+  shipping: '1'
+  state: MS
+wootax/20326:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '38833'
+    location_type: postcode
+  name: BURNSVILLE
+  order: '0'
+  priority: '0'
+  rate: '7'
+  shipping: '1'
+  state: MS
+wootax/20327:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '38834'
+    location_type: postcode
+  name: CORINTH
+  order: '0'
+  priority: '0'
+  rate: '7'
+  shipping: '1'
+  state: MS
+wootax/20328:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '38835'
+    location_type: postcode
+  name: CORINTH
+  order: '0'
+  priority: '0'
+  rate: '7'
+  shipping: '1'
+  state: MS
+wootax/20329:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '38838'
+    location_type: postcode
+  name: TISHOMINGO
+  order: '0'
+  priority: '0'
+  rate: '7'
+  shipping: '1'
+  state: MS
+wootax/20330:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '38839'
+    location_type: postcode
+  name: DERMA
+  order: '0'
+  priority: '0'
+  rate: '7'
+  shipping: '1'
+  state: MS
+wootax/20331:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '38841'
+    location_type: postcode
+  name: PONTOTOC
+  order: '0'
+  priority: '0'
+  rate: '7'
+  shipping: '1'
+  state: MS
+wootax/20332:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '38843'
+    location_type: postcode
+  name: ITAWAMBA
+  order: '0'
+  priority: '0'
+  rate: '7'
+  shipping: '1'
+  state: MS
+wootax/20333:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '38844'
+    location_type: postcode
+  name: MONROE
+  order: '0'
+  priority: '0'
+  rate: '7'
+  shipping: '1'
+  state: MS
+wootax/20334:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '38846'
+    location_type: postcode
+  name: ALCORN
+  order: '0'
+  priority: '0'
+  rate: '7'
+  shipping: '1'
+  state: MS
+wootax/20335:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '38847'
+    location_type: postcode
+  name: ITAWAMBA
+  order: '0'
+  priority: '0'
+  rate: '7'
+  shipping: '1'
+  state: MS
+wootax/20336:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '38848'
+    location_type: postcode
+  name: MONROE
+  order: '0'
+  priority: '0'
+  rate: '7'
+  shipping: '1'
+  state: MS
+wootax/20337:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '38849'
+    location_type: postcode
+  name: LEE
+  order: '0'
+  priority: '0'
+  rate: '7'
+  shipping: '1'
+  state: MS
+wootax/20338:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '38850'
+    location_type: postcode
+  name: CHICKASAW
+  order: '0'
+  priority: '0'
+  rate: '7'
+  shipping: '1'
+  state: MS
+wootax/20339:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '38851'
+    location_type: postcode
+  name: CHICKASAW
+  order: '0'
+  priority: '0'
+  rate: '7'
+  shipping: '1'
+  state: MS
+wootax/20340:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '38852'
+    location_type: postcode
+  name: TISHOMINGO
+  order: '0'
+  priority: '0'
+  rate: '7'
+  shipping: '1'
+  state: MS
+wootax/20341:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '38855'
+    location_type: postcode
+  name: ITAWAMBA
+  order: '0'
+  priority: '0'
+  rate: '7'
+  shipping: '1'
+  state: MS
+wootax/20342:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '38856'
+    location_type: postcode
+  name: ITAWAMBA
+  order: '0'
+  priority: '0'
+  rate: '7'
+  shipping: '1'
+  state: MS
+wootax/20343:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '38857'
+    location_type: postcode
+  name: LEE
+  order: '0'
+  priority: '0'
+  rate: '7'
+  shipping: '1'
+  state: MS
+wootax/20344:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '38858'
+    location_type: postcode
+  name: ITAWAMBA
+  order: '0'
+  priority: '0'
+  rate: '7'
+  shipping: '1'
+  state: MS
+wootax/20345:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '38859'
+    location_type: postcode
+  name: PRENTISS
+  order: '0'
+  priority: '0'
+  rate: '7'
+  shipping: '1'
+  state: MS
+wootax/20346:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '38860'
+    location_type: postcode
+  name: OKOLONA
+  order: '0'
+  priority: '0'
+  rate: '7'
+  shipping: '1'
+  state: MS
+wootax/20347:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '38862'
+    location_type: postcode
+  name: LEE
+  order: '0'
+  priority: '0'
+  rate: '7'
+  shipping: '1'
+  state: MS
+wootax/20348:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '38863'
+    location_type: postcode
+  name: PONTOTOC
+  order: '0'
+  priority: '0'
+  rate: '7'
+  shipping: '1'
+  state: MS
+wootax/20349:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '38864'
+    location_type: postcode
+  name: PONTOTOC
+  order: '0'
+  priority: '0'
+  rate: '7'
+  shipping: '1'
+  state: MS
+wootax/20350:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '38865'
+    location_type: postcode
+  name: ALCORN
+  order: '0'
+  priority: '0'
+  rate: '7'
+  shipping: '1'
+  state: MS
+wootax/20351:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '38866'
+    location_type: postcode
+  name: LEE
+  order: '0'
+  priority: '0'
+  rate: '7'
+  shipping: '1'
+  state: MS
+wootax/20352:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '38868'
+    location_type: postcode
+  name: LEE
+  order: '0'
+  priority: '0'
+  rate: '7'
+  shipping: '1'
+  state: MS
+wootax/20353:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '38869'
+    location_type: postcode
+  name: SHERMAN
+  order: '0'
+  priority: '0'
+  rate: '7'
+  shipping: '1'
+  state: MS
+wootax/20354:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '38870'
+    location_type: postcode
+  name: MONROE
+  order: '0'
+  priority: '0'
+  rate: '7'
+  shipping: '1'
+  state: MS
+wootax/20355:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '38871'
+    location_type: postcode
+  name: PONTOTOC
+  order: '0'
+  priority: '0'
+  rate: '7'
+  shipping: '1'
+  state: MS
+wootax/20356:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '38873'
+    location_type: postcode
+  name: TISHOMINGO
+  order: '0'
+  priority: '0'
+  rate: '7'
+  shipping: '1'
+  state: MS
+wootax/20357:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '38874'
+    location_type: postcode
+  name: TOCCOPOLA
+  order: '0'
+  priority: '0'
+  rate: '7'
+  shipping: '1'
+  state: MS
+wootax/20358:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '38875'
+    location_type: postcode
+  name: HOUSTON
+  order: '0'
+  priority: '0'
+  rate: '7'
+  shipping: '1'
+  state: MS
+wootax/20359:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '38876'
+    location_type: postcode
+  name: ITAWAMBA
+  order: '0'
+  priority: '0'
+  rate: '7'
+  shipping: '1'
+  state: MS
+wootax/20360:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '38877'
+    location_type: postcode
+  name: CHICKASAW
+  order: '0'
+  priority: '0'
+  rate: '7'
+  shipping: '1'
+  state: MS
+wootax/20361:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '38878'
+    location_type: postcode
+  name: CALHOUN
+  order: '0'
+  priority: '0'
+  rate: '7'
+  shipping: '1'
+  state: MS
+wootax/20362:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '38879'
+    location_type: postcode
+  name: VERONA
+  order: '0'
+  priority: '0'
+  rate: '7'
+  shipping: '1'
+  state: MS
+wootax/20363:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '38880'
+    location_type: postcode
+  name: PRENTISS
+  order: '0'
+  priority: '0'
+  rate: '7'
+  shipping: '1'
+  state: MS
+wootax/20364:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '38901'
+    location_type: postcode
+  name: GRENADA
+  order: '0'
+  priority: '0'
+  rate: '7'
+  shipping: '1'
+  state: MS
+wootax/20365:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '38913'
+    location_type: postcode
+  name: CALHOUN
+  order: '0'
+  priority: '0'
+  rate: '7'
+  shipping: '1'
+  state: MS
+wootax/20366:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '38914'
+    location_type: postcode
+  name: CALHOUN
+  order: '0'
+  priority: '0'
+  rate: '7'
+  shipping: '1'
+  state: MS
+wootax/20367:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '38915'
+    location_type: postcode
+  name: CALHOUN
+  order: '0'
+  priority: '0'
+  rate: '7'
+  shipping: '1'
+  state: MS
+wootax/20368:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '38916'
+    location_type: postcode
+  name: CALHOUN
+  order: '0'
+  priority: '0'
+  rate: '7'
+  shipping: '1'
+  state: MS
+wootax/20369:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '38917'
+    location_type: postcode
+  name: CARROLL
+  order: '0'
+  priority: '0'
+  rate: '7'
+  shipping: '1'
+  state: MS
+wootax/20370:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '38920'
+    location_type: postcode
+  name: TALLAHATCHIE
+  order: '0'
+  priority: '0'
+  rate: '7'
+  shipping: '1'
+  state: MS
+wootax/20371:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '38921'
+    location_type: postcode
+  name: TALLAHATCHIE
+  order: '0'
+  priority: '0'
+  rate: '7'
+  shipping: '1'
+  state: MS
+wootax/20372:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '38922'
+    location_type: postcode
+  name: YALOBUSHA
+  order: '0'
+  priority: '0'
+  rate: '7'
+  shipping: '1'
+  state: MS
+wootax/20373:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '38923'
+    location_type: postcode
+  name: CARROLL
+  order: '0'
+  priority: '0'
+  rate: '7'
+  shipping: '1'
+  state: MS
+wootax/20374:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '38924'
+    location_type: postcode
+  name: HOLMES
+  order: '0'
+  priority: '0'
+  rate: '7'
+  shipping: '1'
+  state: MS
+wootax/20375:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '38925'
+    location_type: postcode
+  name: MONTGOMERY
+  order: '0'
+  priority: '0'
+  rate: '7'
+  shipping: '1'
+  state: MS
+wootax/20376:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '38927'
+    location_type: postcode
+  name: TALLAHATCHIE
+  order: '0'
+  priority: '0'
+  rate: '7'
+  shipping: '1'
+  state: MS
+wootax/20377:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '38928'
+    location_type: postcode
+  name: TALLAHATCHIE
+  order: '0'
+  priority: '0'
+  rate: '7'
+  shipping: '1'
+  state: MS
+wootax/20378:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '38929'
+    location_type: postcode
+  name: GRENADA
+  order: '0'
+  priority: '0'
+  rate: '7'
+  shipping: '1'
+  state: MS
+wootax/20379:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '38930'
+    location_type: postcode
+  name: GREENWOOD
+  order: '0'
+  priority: '0'
+  rate: '7'
+  shipping: '1'
+  state: MS
+wootax/20380:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '38940'
+    location_type: postcode
+  name: GRENADA
+  order: '0'
+  priority: '0'
+  rate: '7'
+  shipping: '1'
+  state: MS
+wootax/20381:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '38941'
+    location_type: postcode
+  name: LEFLORE
+  order: '0'
+  priority: '0'
+  rate: '7'
+  shipping: '1'
+  state: MS
+wootax/20382:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '38943'
+    location_type: postcode
+  name: CARROLL
+  order: '0'
+  priority: '0'
+  rate: '7'
+  shipping: '1'
+  state: MS
+wootax/20383:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '38944'
+    location_type: postcode
+  name: LEFLORE
+  order: '0'
+  priority: '0'
+  rate: '7'
+  shipping: '1'
+  state: MS
+wootax/20384:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '38945'
+    location_type: postcode
+  name: GREENWOOD
+  order: '0'
+  priority: '0'
+  rate: '7'
+  shipping: '1'
+  state: MS
+wootax/20385:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '38946'
+    location_type: postcode
+  name: MORGAN CITY
+  order: '0'
+  priority: '0'
+  rate: '7'
+  shipping: '1'
+  state: MS
+wootax/20386:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '38947'
+    location_type: postcode
+  name: NORTH CARROLLTON
+  order: '0'
+  priority: '0'
+  rate: '7'
+  shipping: '1'
+  state: MS
+wootax/20387:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '38948'
+    location_type: postcode
+  name: YALOBUSHA
+  order: '0'
+  priority: '0'
+  rate: '7'
+  shipping: '1'
+  state: MS
+wootax/20388:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '38949'
+    location_type: postcode
+  name: LAFAYETTE
+  order: '0'
+  priority: '0'
+  rate: '7'
+  shipping: '1'
+  state: MS
+wootax/20389:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '38950'
+    location_type: postcode
+  name: TALLAHATCHIE
+  order: '0'
+  priority: '0'
+  rate: '7'
+  shipping: '1'
+  state: MS
+wootax/20390:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '38951'
+    location_type: postcode
+  name: CALHOUN
+  order: '0'
+  priority: '0'
+  rate: '7'
+  shipping: '1'
+  state: MS
+wootax/20391:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '38952'
+    location_type: postcode
+  name: LEFLORE
+  order: '0'
+  priority: '0'
+  rate: '7'
+  shipping: '1'
+  state: MS
+wootax/20392:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '38953'
+    location_type: postcode
+  name: TALLAHATCHIE
+  order: '0'
+  priority: '0'
+  rate: '7'
+  shipping: '1'
+  state: MS
+wootax/20393:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '38954'
+    location_type: postcode
+  name: LEFLORE
+  order: '0'
+  priority: '0'
+  rate: '7'
+  shipping: '1'
+  state: MS
+wootax/20394:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '38955'
+    location_type: postcode
+  name: SLATE SPRINGS
+  order: '0'
+  priority: '0'
+  rate: '7'
+  shipping: '1'
+  state: MS
+wootax/20395:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '38957'
+    location_type: postcode
+  name: SUMNER
+  order: '0'
+  priority: '0'
+  rate: '7'
+  shipping: '1'
+  state: MS
+wootax/20396:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '38959'
+    location_type: postcode
+  name: LEFLORE
+  order: '0'
+  priority: '0'
+  rate: '7'
+  shipping: '1'
+  state: MS
+wootax/20397:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '38960'
+    location_type: postcode
+  name: GRENADA
+  order: '0'
+  priority: '0'
+  rate: '7'
+  shipping: '1'
+  state: MS
+wootax/20398:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '38961'
+    location_type: postcode
+  name: YALOBUSHA
+  order: '0'
+  priority: '0'
+  rate: '7'
+  shipping: '1'
+  state: MS
+wootax/20399:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '38962'
+    location_type: postcode
+  name: TALLAHATCHIE
+  order: '0'
+  priority: '0'
+  rate: '7'
+  shipping: '1'
+  state: MS
+wootax/20400:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '38963'
+    location_type: postcode
+  name: TALLAHATCHIE
+  order: '0'
+  priority: '0'
+  rate: '7'
+  shipping: '1'
+  state: MS
+wootax/20401:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '38964'
+    location_type: postcode
+  name: QUITMAN
+  order: '0'
+  priority: '0'
+  rate: '7'
+  shipping: '1'
+  state: MS
+wootax/20402:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '38965'
+    location_type: postcode
+  name: YALOBUSHA
+  order: '0'
+  priority: '0'
+  rate: '7'
+  shipping: '1'
+  state: MS
+wootax/20403:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '38966'
+    location_type: postcode
+  name: WEBB
+  order: '0'
+  priority: '0'
+  rate: '7'
+  shipping: '1'
+  state: MS
+wootax/20404:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '38967'
+    location_type: postcode
+  name: WINONA
+  order: '0'
+  priority: '0'
+  rate: '7'
+  shipping: '1'
+  state: MS
+wootax/20405:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '39038'
+    location_type: postcode
+  name: HUMPHREYS
+  order: '0'
+  priority: '0'
+  rate: '7'
+  shipping: '1'
+  state: MS
+wootax/20406:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '39039'
+    location_type: postcode
+  name: YAZOO
+  order: '0'
+  priority: '0'
+  rate: '7'
+  shipping: '1'
+  state: MS
+wootax/20407:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '39040'
+    location_type: postcode
+  name: YAZOO
+  order: '0'
+  priority: '0'
+  rate: '7'
+  shipping: '1'
+  state: MS
+wootax/20408:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '39041'
+    location_type: postcode
+  name: HINDS
+  order: '0'
+  priority: '0'
+  rate: '7'
+  shipping: '1'
+  state: MS
+wootax/20409:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '39042'
+    location_type: postcode
+  name: BRANDON
+  order: '0'
+  priority: '0'
+  rate: '7'
+  shipping: '1'
+  state: MS
+wootax/20410:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '39043'
+    location_type: postcode
+  name: BRANDON
+  order: '0'
+  priority: '0'
+  rate: '7'
+  shipping: '1'
+  state: MS
+wootax/20411:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '39044'
+    location_type: postcode
+  name: SIMPSON
+  order: '0'
+  priority: '0'
+  rate: '7'
+  shipping: '1'
+  state: MS
+wootax/20412:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '39045'
+    location_type: postcode
+  name: MADISON
+  order: '0'
+  priority: '0'
+  rate: '7'
+  shipping: '1'
+  state: MS
+wootax/20413:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '39046'
+    location_type: postcode
+  name: MADISON
+  order: '0'
+  priority: '0'
+  rate: '7'
+  shipping: '1'
+  state: MS
+wootax/20414:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '39047'
+    location_type: postcode
+  name: RANKIN
+  order: '0'
+  priority: '0'
+  rate: '7'
+  shipping: '1'
+  state: MS
+wootax/20415:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '39051'
+    location_type: postcode
+  name: LEAKE
+  order: '0'
+  priority: '0'
+  rate: '7'
+  shipping: '1'
+  state: MS
+wootax/20416:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '39054'
+    location_type: postcode
+  name: CARY
+  order: '0'
+  priority: '0'
+  rate: '7'
+  shipping: '1'
+  state: MS
+wootax/20417:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '39056'
+    location_type: postcode
+  name: CLINTON
+  order: '0'
+  priority: '0'
+  rate: '7'
+  shipping: '1'
+  state: MS
+wootax/20418:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '39057'
+    location_type: postcode
+  name: NEWTON
+  order: '0'
+  priority: '0'
+  rate: '7'
+  shipping: '1'
+  state: MS
+wootax/20419:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '39058'
+    location_type: postcode
+  name: CLINTON
+  order: '0'
+  priority: '0'
+  rate: '7'
+  shipping: '1'
+  state: MS
+wootax/20420:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '39059'
+    location_type: postcode
+  name: COPIAH
+  order: '0'
+  priority: '0'
+  rate: '7'
+  shipping: '1'
+  state: MS
+wootax/20421:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '39060'
+    location_type: postcode
+  name: CLINTON
+  order: '0'
+  priority: '0'
+  rate: '7'
+  shipping: '1'
+  state: MS
+wootax/20422:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '39061'
+    location_type: postcode
+  name: SHARKEY
+  order: '0'
+  priority: '0'
+  rate: '7'
+  shipping: '1'
+  state: MS
+wootax/20423:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '39063'
+    location_type: postcode
+  name: DURANT
+  order: '0'
+  priority: '0'
+  rate: '7'
+  shipping: '1'
+  state: MS
+wootax/20424:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '39066'
+    location_type: postcode
+  name: HINDS
+  order: '0'
+  priority: '0'
+  rate: '7'
+  shipping: '1'
+  state: MS
+wootax/20425:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '39067'
+    location_type: postcode
+  name: ATTALA
+  order: '0'
+  priority: '0'
+  rate: '7'
+  shipping: '1'
+  state: MS
+wootax/20426:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '39069'
+    location_type: postcode
+  name: JEFFERSON
+  order: '0'
+  priority: '0'
+  rate: '7'
+  shipping: '1'
+  state: MS
+wootax/20427:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '39071'
+    location_type: postcode
+  name: MADISON
+  order: '0'
+  priority: '0'
+  rate: '7'
+  shipping: '1'
+  state: MS
+wootax/20428:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '39073'
+    location_type: postcode
+  name: RANKIN
+  order: '0'
+  priority: '0'
+  rate: '7'
+  shipping: '1'
+  state: MS
+wootax/20429:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '39074'
+    location_type: postcode
+  name: SCOTT
+  order: '0'
+  priority: '0'
+  rate: '7'
+  shipping: '1'
+  state: MS
+wootax/20430:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '39077'
+    location_type: postcode
+  name: COPIAH
+  order: '0'
+  priority: '0'
+  rate: '7'
+  shipping: '1'
+  state: MS
+wootax/20431:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '39078'
+    location_type: postcode
+  name: COPIAH
+  order: '0'
+  priority: '0'
+  rate: '7'
+  shipping: '1'
+  state: MS
+wootax/20432:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '39079'
+    location_type: postcode
+  name: HOLMES
+  order: '0'
+  priority: '0'
+  rate: '7'
+  shipping: '1'
+  state: MS
+wootax/20433:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '39080'
+    location_type: postcode
+  name: SCOTT
+  order: '0'
+  priority: '0'
+  rate: '7'
+  shipping: '1'
+  state: MS
+wootax/20434:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '39081'
+    location_type: postcode
+  name: JEFFERSON
+  order: '0'
+  priority: '0'
+  rate: '7'
+  shipping: '1'
+  state: MS
+wootax/20435:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '39082'
+    location_type: postcode
+  name: SIMPSON
+  order: '0'
+  priority: '0'
+  rate: '7'
+  shipping: '1'
+  state: MS
+wootax/20436:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '39083'
+    location_type: postcode
+  name: COPIAH
+  order: '0'
+  priority: '0'
+  rate: '7'
+  shipping: '1'
+  state: MS
+wootax/20437:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '39086'
+    location_type: postcode
+  name: CLAIBORNE
+  order: '0'
+  priority: '0'
+  rate: '7'
+  shipping: '1'
+  state: MS
+wootax/20438:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '39087'
+    location_type: postcode
+  name: SCOTT
+  order: '0'
+  priority: '0'
+  rate: '7'
+  shipping: '1'
+  state: MS
+wootax/20439:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '39088'
+    location_type: postcode
+  name: SHARKEY
+  order: '0'
+  priority: '0'
+  rate: '7'
+  shipping: '1'
+  state: MS
+wootax/20440:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '39090'
+    location_type: postcode
+  name: ATTALA
+  order: '0'
+  priority: '0'
+  rate: '7'
+  shipping: '1'
+  state: MS
+wootax/20441:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '39092'
+    location_type: postcode
+  name: SCOTT
+  order: '0'
+  priority: '0'
+  rate: '7'
+  shipping: '1'
+  state: MS
+wootax/20442:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '39094'
+    location_type: postcode
+  name: LEAKE
+  order: '0'
+  priority: '0'
+  rate: '7'
+  shipping: '1'
+  state: MS
+wootax/20443:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '39095'
+    location_type: postcode
+  name: HOLMES
+  order: '0'
+  priority: '0'
+  rate: '7'
+  shipping: '1'
+  state: MS
+wootax/20444:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '39096'
+    location_type: postcode
+  name: JEFFERSON
+  order: '0'
+  priority: '0'
+  rate: '7'
+  shipping: '1'
+  state: MS
+wootax/20445:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '39097'
+    location_type: postcode
+  name: HUMPHREYS
+  order: '0'
+  priority: '0'
+  rate: '7'
+  shipping: '1'
+  state: MS
+wootax/20446:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '39098'
+    location_type: postcode
+  name: SCOTT
+  order: '0'
+  priority: '0'
+  rate: '7'
+  shipping: '1'
+  state: MS
+wootax/20447:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '39108'
+    location_type: postcode
+  name: WINSTON
+  order: '0'
+  priority: '0'
+  rate: '7'
+  shipping: '1'
+  state: MS
+wootax/20448:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '39109'
+    location_type: postcode
+  name: LEAKE
+  order: '0'
+  priority: '0'
+  rate: '7'
+  shipping: '1'
+  state: MS
+wootax/20449:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '39110'
+    location_type: postcode
+  name: MADISON
+  order: '0'
+  priority: '0'
+  rate: '7'
+  shipping: '1'
+  state: MS
+wootax/20450:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '39111'
+    location_type: postcode
+  name: SIMPSON
+  order: '0'
+  priority: '0'
+  rate: '7'
+  shipping: '1'
+  state: MS
+wootax/20451:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '39113'
+    location_type: postcode
+  name: MAYERSVILLE
+  order: '0'
+  priority: '0'
+  rate: '7'
+  shipping: '1'
+  state: MS
+wootax/20452:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '39114'
+    location_type: postcode
+  name: SIMPSON
+  order: '0'
+  priority: '0'
+  rate: '7'
+  shipping: '1'
+  state: MS
+wootax/20453:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '39116'
+    location_type: postcode
+  name: SMITH
+  order: '0'
+  priority: '0'
+  rate: '7'
+  shipping: '1'
+  state: MS
+wootax/20454:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '39117'
+    location_type: postcode
+  name: SCOTT
+  order: '0'
+  priority: '0'
+  rate: '7'
+  shipping: '1'
+  state: MS
+wootax/20455:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '39119'
+    location_type: postcode
+  name: 'COVINGTON '
+  order: '0'
+  priority: '0'
+  rate: '7'
+  shipping: '1'
+  state: MS
+wootax/20456:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '39120'
+    location_type: postcode
+  name: NATCHEZ
+  order: '0'
+  priority: '0'
+  rate: '7'
+  shipping: '1'
+  state: MS
+wootax/20457:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '39121'
+    location_type: postcode
+  name: NATCHEZ
+  order: '0'
+  priority: '0'
+  rate: '7'
+  shipping: '1'
+  state: MS
+wootax/20458:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '39122'
+    location_type: postcode
+  name: NATCHEZ
+  order: '0'
+  priority: '0'
+  rate: '7'
+  shipping: '1'
+  state: MS
+wootax/20459:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '39130'
+    location_type: postcode
+  name: MADISON
+  order: '0'
+  priority: '0'
+  rate: '7'
+  shipping: '1'
+  state: MS
+wootax/20460:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '39140'
+    location_type: postcode
+  name: JEFFERSON DAVIS
+  order: '0'
+  priority: '0'
+  rate: '7'
+  shipping: '1'
+  state: MS
+wootax/20461:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '39144'
+    location_type: postcode
+  name: CLAIBORNE
+  order: '0'
+  priority: '0'
+  rate: '7'
+  shipping: '1'
+  state: MS
+wootax/20462:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '39145'
+    location_type: postcode
+  name: RANKIN
+  order: '0'
+  priority: '0'
+  rate: '7'
+  shipping: '1'
+  state: MS
+wootax/20463:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '39146'
+    location_type: postcode
+  name: HOLMES
+  order: '0'
+  priority: '0'
+  rate: '7'
+  shipping: '1'
+  state: MS
+wootax/20464:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '39148'
+    location_type: postcode
+  name: RANKIN
+  order: '0'
+  priority: '0'
+  rate: '7'
+  shipping: '1'
+  state: MS
+wootax/20465:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '39149'
+    location_type: postcode
+  name: SIMPSON
+  order: '0'
+  priority: '0'
+  rate: '7'
+  shipping: '1'
+  state: MS
+wootax/20466:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '39150'
+    location_type: postcode
+  name: CLAIBORNE
+  order: '0'
+  priority: '0'
+  rate: '7'
+  shipping: '1'
+  state: MS
+wootax/20467:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '39151'
+    location_type: postcode
+  name: PUCKETT
+  order: '0'
+  priority: '0'
+  rate: '7'
+  shipping: '1'
+  state: MS
+wootax/20468:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '39152'
+    location_type: postcode
+  name: SCOTT
+  order: '0'
+  priority: '0'
+  rate: '7'
+  shipping: '1'
+  state: MS
+wootax/20469:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '39153'
+    location_type: postcode
+  name: SMITH
+  order: '0'
+  priority: '0'
+  rate: '7'
+  shipping: '1'
+  state: MS
+wootax/20470:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '39154'
+    location_type: postcode
+  name: HINDS
+  order: '0'
+  priority: '0'
+  rate: '7'
+  shipping: '1'
+  state: MS
+wootax/20471:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '39156'
+    location_type: postcode
+  name: WARREN
+  order: '0'
+  priority: '0'
+  rate: '7'
+  shipping: '1'
+  state: MS
+wootax/20472:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '39157'
+    location_type: postcode
+  name: RIDGELAND
+  order: '0'
+  priority: '0'
+  rate: '7'
+  shipping: '1'
+  state: MS
+wootax/20473:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '39158'
+    location_type: postcode
+  name: RIDGELAND
+  order: '0'
+  priority: '0'
+  rate: '7'
+  shipping: '1'
+  state: MS
+wootax/20474:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '39159'
+    location_type: postcode
+  name: ROLLING FORK
+  order: '0'
+  priority: '0'
+  rate: '7'
+  shipping: '1'
+  state: MS
+wootax/20475:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '39160'
+    location_type: postcode
+  name: ATTALA
+  order: '0'
+  priority: '0'
+  rate: '7'
+  shipping: '1'
+  state: MS
+wootax/20476:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '39161'
+    location_type: postcode
+  name: RANKIN
+  order: '0'
+  priority: '0'
+  rate: '7'
+  shipping: '1'
+  state: MS
+wootax/20477:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '39162'
+    location_type: postcode
+  name: YAZOO
+  order: '0'
+  priority: '0'
+  rate: '7'
+  shipping: '1'
+  state: MS
+wootax/20478:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '39163'
+    location_type: postcode
+  name: MADISON
+  order: '0'
+  priority: '0'
+  rate: '7'
+  shipping: '1'
+  state: MS
+wootax/20479:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '39165'
+    location_type: postcode
+  name: ADAMS
+  order: '0'
+  priority: '0'
+  rate: '7'
+  shipping: '1'
+  state: MS
+wootax/20480:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '39166'
+    location_type: postcode
+  name: HUMPHREYS
+  order: '0'
+  priority: '0'
+  rate: '7'
+  shipping: '1'
+  state: MS
+wootax/20481:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '39167'
+    location_type: postcode
+  name: RANKIN
+  order: '0'
+  priority: '0'
+  rate: '7'
+  shipping: '1'
+  state: MS
+wootax/20482:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '39168'
+    location_type: postcode
+  name: SMITH
+  order: '0'
+  priority: '0'
+  rate: '7'
+  shipping: '1'
+  state: MS
+wootax/20483:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '39169'
+    location_type: postcode
+  name: HOLMES
+  order: '0'
+  priority: '0'
+  rate: '7'
+  shipping: '1'
+  state: MS
+wootax/20484:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '39170'
+    location_type: postcode
+  name: HINDS
+  order: '0'
+  priority: '0'
+  rate: '7'
+  shipping: '1'
+  state: MS
+wootax/20485:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '39173'
+    location_type: postcode
+  name: YAZOO
+  order: '0'
+  priority: '0'
+  rate: '7'
+  shipping: '1'
+  state: MS
+wootax/20486:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '39174'
+    location_type: postcode
+  name: JACKSON
+  order: '0'
+  priority: '0'
+  rate: '8'
+  shipping: '1'
+  state: MS
+wootax/20487:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '39175'
+    location_type: postcode
+  name: HINDS
+  order: '0'
+  priority: '0'
+  rate: '7'
+  shipping: '1'
+  state: MS
+wootax/20488:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '39176'
+    location_type: postcode
+  name: CARROLL
+  order: '0'
+  priority: '0'
+  rate: '7'
+  shipping: '1'
+  state: MS
+wootax/20489:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '39177'
+    location_type: postcode
+  name: ISSAQUENA
+  order: '0'
+  priority: '0'
+  rate: '7'
+  shipping: '1'
+  state: MS
+wootax/20490:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '39179'
+    location_type: postcode
+  name: YAZOO
+  order: '0'
+  priority: '0'
+  rate: '7'
+  shipping: '1'
+  state: MS
+wootax/20491:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '39180'
+    location_type: postcode
+  name: VICKSBURG
+  order: '0'
+  priority: '0'
+  rate: '7'
+  shipping: '1'
+  state: MS
+wootax/20492:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '39181'
+    location_type: postcode
+  name: VICKSBURG
+  order: '0'
+  priority: '0'
+  rate: '7'
+  shipping: '1'
+  state: MS
+wootax/20493:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '39182'
+    location_type: postcode
+  name: VICKSBURG
+  order: '0'
+  priority: '0'
+  rate: '7'
+  shipping: '1'
+  state: MS
+wootax/20494:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '39183'
+    location_type: postcode
+  name: WARREN
+  order: '0'
+  priority: '0'
+  rate: '7'
+  shipping: '1'
+  state: MS
+wootax/20495:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '39189'
+    location_type: postcode
+  name: LEAKE
+  order: '0'
+  priority: '0'
+  rate: '7'
+  shipping: '1'
+  state: MS
+wootax/20496:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '39190'
+    location_type: postcode
+  name: ADAMS
+  order: '0'
+  priority: '0'
+  rate: '7'
+  shipping: '1'
+  state: MS
+wootax/20497:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '39191'
+    location_type: postcode
+  name: COPIAH
+  order: '0'
+  priority: '0'
+  rate: '7'
+  shipping: '1'
+  state: MS
+wootax/20498:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '39192'
+    location_type: postcode
+  name: HOLMES
+  order: '0'
+  priority: '0'
+  rate: '7'
+  shipping: '1'
+  state: MS
+wootax/20499:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '39194'
+    location_type: postcode
+  name: YAZOO CITY
+  order: '0'
+  priority: '0'
+  rate: '7'
+  shipping: '1'
+  state: MS
+wootax/20500:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '39201'
+    location_type: postcode
+  name: JACKSON
+  order: '0'
+  priority: '0'
+  rate: '8'
+  shipping: '1'
+  state: MS
+wootax/20501:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '39202'
+    location_type: postcode
+  name: JACKSON
+  order: '0'
+  priority: '0'
+  rate: '8'
+  shipping: '1'
+  state: MS
+wootax/20502:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '39203'
+    location_type: postcode
+  name: JACKSON
+  order: '0'
+  priority: '0'
+  rate: '8'
+  shipping: '1'
+  state: MS
+wootax/20503:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '39204'
+    location_type: postcode
+  name: JACKSON
+  order: '0'
+  priority: '0'
+  rate: '8'
+  shipping: '1'
+  state: MS
+wootax/20504:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '39205'
+    location_type: postcode
+  name: JACKSON
+  order: '0'
+  priority: '0'
+  rate: '8'
+  shipping: '1'
+  state: MS
+wootax/20505:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '39206'
+    location_type: postcode
+  name: JACKSON
+  order: '0'
+  priority: '0'
+  rate: '8'
+  shipping: '1'
+  state: MS
+wootax/20506:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '39207'
+    location_type: postcode
+  name: JACKSON
+  order: '0'
+  priority: '0'
+  rate: '8'
+  shipping: '1'
+  state: MS
+wootax/20507:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '39208'
+    location_type: postcode
+  name: PEARL
+  order: '0'
+  priority: '0'
+  rate: '7'
+  shipping: '1'
+  state: MS
+wootax/20508:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '39209'
+    location_type: postcode
+  name: JACKSON
+  order: '0'
+  priority: '0'
+  rate: '8'
+  shipping: '1'
+  state: MS
+wootax/20509:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '39210'
+    location_type: postcode
+  name: JACKSON
+  order: '0'
+  priority: '0'
+  rate: '8'
+  shipping: '1'
+  state: MS
+wootax/20510:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '39211'
+    location_type: postcode
+  name: JACKSON
+  order: '0'
+  priority: '0'
+  rate: '8'
+  shipping: '1'
+  state: MS
+wootax/20511:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '39212'
+    location_type: postcode
+  name: JACKSON
+  order: '0'
+  priority: '0'
+  rate: '8'
+  shipping: '1'
+  state: MS
+wootax/20512:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '39213'
+    location_type: postcode
+  name: JACKSON
+  order: '0'
+  priority: '0'
+  rate: '8'
+  shipping: '1'
+  state: MS
+wootax/20513:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '39215'
+    location_type: postcode
+  name: JACKSON
+  order: '0'
+  priority: '0'
+  rate: '8'
+  shipping: '1'
+  state: MS
+wootax/20514:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '39216'
+    location_type: postcode
+  name: JACKSON
+  order: '0'
+  priority: '0'
+  rate: '8'
+  shipping: '1'
+  state: MS
+wootax/20515:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '39217'
+    location_type: postcode
+  name: JACKSON
+  order: '0'
+  priority: '0'
+  rate: '8'
+  shipping: '1'
+  state: MS
+wootax/20516:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '39218'
+    location_type: postcode
+  name: RICHLAND
+  order: '0'
+  priority: '0'
+  rate: '7'
+  shipping: '1'
+  state: MS
+wootax/20517:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '39225'
+    location_type: postcode
+  name: JACKSON
+  order: '0'
+  priority: '0'
+  rate: '8'
+  shipping: '1'
+  state: MS
+wootax/20518:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '39232'
+    location_type: postcode
+  name: FLOWOOD
+  order: '0'
+  priority: '0'
+  rate: '7'
+  shipping: '1'
+  state: MS
+wootax/20519:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '39236'
+    location_type: postcode
+  name: JACKSON
+  order: '0'
+  priority: '0'
+  rate: '8'
+  shipping: '1'
+  state: MS
+wootax/20520:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '39250'
+    location_type: postcode
+  name: JACKSON
+  order: '0'
+  priority: '0'
+  rate: '8'
+  shipping: '1'
+  state: MS
+wootax/20521:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '39269'
+    location_type: postcode
+  name: JACKSON
+  order: '0'
+  priority: '0'
+  rate: '8'
+  shipping: '1'
+  state: MS
+wootax/20522:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '39272'
+    location_type: postcode
+  name: BYRAM
+  order: '0'
+  priority: '0'
+  rate: '7'
+  shipping: '1'
+  state: MS
+wootax/20523:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '39283'
+    location_type: postcode
+  name: JACKSON
+  order: '0'
+  priority: '0'
+  rate: '8'
+  shipping: '1'
+  state: MS
+wootax/20524:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '39284'
+    location_type: postcode
+  name: JACKSON
+  order: '0'
+  priority: '0'
+  rate: '8'
+  shipping: '1'
+  state: MS
+wootax/20525:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '39286'
+    location_type: postcode
+  name: JACKSON
+  order: '0'
+  priority: '0'
+  rate: '8'
+  shipping: '1'
+  state: MS
+wootax/20526:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '39288'
+    location_type: postcode
+  name: PEARL
+  order: '0'
+  priority: '0'
+  rate: '7'
+  shipping: '1'
+  state: MS
+wootax/20527:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '39296'
+    location_type: postcode
+  name: JACKSON
+  order: '0'
+  priority: '0'
+  rate: '8'
+  shipping: '1'
+  state: MS
+wootax/20528:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '39298'
+    location_type: postcode
+  name: JACKSON
+  order: '0'
+  priority: '0'
+  rate: '8'
+  shipping: '1'
+  state: MS
+wootax/20529:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '39301'
+    location_type: postcode
+  name: MERIDIAN
+  order: '0'
+  priority: '0'
+  rate: '7'
+  shipping: '1'
+  state: MS
+wootax/20530:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '39302'
+    location_type: postcode
+  name: MERIDIAN
+  order: '0'
+  priority: '0'
+  rate: '7'
+  shipping: '1'
+  state: MS
+wootax/20531:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '39305'
+    location_type: postcode
+  name: MERIDIAN
+  order: '0'
+  priority: '0'
+  rate: '7'
+  shipping: '1'
+  state: MS
+wootax/20532:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '39307'
+    location_type: postcode
+  name: MERIDIAN
+  order: '0'
+  priority: '0'
+  rate: '7'
+  shipping: '1'
+  state: MS
+wootax/20533:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '39309'
+    location_type: postcode
+  name: LAUDERDALE
+  order: '0'
+  priority: '0'
+  rate: '7'
+  shipping: '1'
+  state: MS
+wootax/20534:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '39320'
+    location_type: postcode
+  name: LAUDERDALE
+  order: '0'
+  priority: '0'
+  rate: '7'
+  shipping: '1'
+  state: MS
+wootax/20535:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '39322'
+    location_type: postcode
+  name: WAYNE
+  order: '0'
+  priority: '0'
+  rate: '7'
+  shipping: '1'
+  state: MS
+wootax/20536:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '39323'
+    location_type: postcode
+  name: NEWTON
+  order: '0'
+  priority: '0'
+  rate: '7'
+  shipping: '1'
+  state: MS
+wootax/20537:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '39324'
+    location_type: postcode
+  name: WAYNE
+  order: '0'
+  priority: '0'
+  rate: '7'
+  shipping: '1'
+  state: MS
+wootax/20538:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '39325'
+    location_type: postcode
+  name: LAUDERDALE
+  order: '0'
+  priority: '0'
+  rate: '7'
+  shipping: '1'
+  state: MS
+wootax/20539:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '39326'
+    location_type: postcode
+  name: LAUDERDALE
+  order: '0'
+  priority: '0'
+  rate: '7'
+  shipping: '1'
+  state: MS
+wootax/20540:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '39327'
+    location_type: postcode
+  name: NEWTON
+  order: '0'
+  priority: '0'
+  rate: '7'
+  shipping: '1'
+  state: MS
+wootax/20541:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '39328'
+    location_type: postcode
+  name: KEMPER
+  order: '0'
+  priority: '0'
+  rate: '7'
+  shipping: '1'
+  state: MS
+wootax/20542:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '39330'
+    location_type: postcode
+  name: CLARKE
+  order: '0'
+  priority: '0'
+  rate: '7'
+  shipping: '1'
+  state: MS
+wootax/20543:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '39332'
+    location_type: postcode
+  name: NEWTON
+  order: '0'
+  priority: '0'
+  rate: '7'
+  shipping: '1'
+  state: MS
+wootax/20544:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '39335'
+    location_type: postcode
+  name: LAUDERDALE
+  order: '0'
+  priority: '0'
+  rate: '7'
+  shipping: '1'
+  state: MS
+wootax/20545:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '39336'
+    location_type: postcode
+  name: NEWTON
+  order: '0'
+  priority: '0'
+  rate: '7'
+  shipping: '1'
+  state: MS
+wootax/20546:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '39337'
+    location_type: postcode
+  name: NEWTON
+  order: '0'
+  priority: '0'
+  rate: '7'
+  shipping: '1'
+  state: MS
+wootax/20547:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '39338'
+    location_type: postcode
+  name: JASPER
+  order: '0'
+  priority: '0'
+  rate: '7'
+  shipping: '1'
+  state: MS
+wootax/20548:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '39339'
+    location_type: postcode
+  name: WINSTON
+  order: '0'
+  priority: '0'
+  rate: '7'
+  shipping: '1'
+  state: MS
+wootax/20549:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '39341'
+    location_type: postcode
+  name: NOXUBEE
+  order: '0'
+  priority: '0'
+  rate: '7'
+  shipping: '1'
+  state: MS
+wootax/20550:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '39342'
+    location_type: postcode
+  name: MARION
+  order: '0'
+  priority: '0'
+  rate: '7'
+  shipping: '1'
+  state: MS
+wootax/20551:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '39345'
+    location_type: postcode
+  name: NEWTON
+  order: '0'
+  priority: '0'
+  rate: '7'
+  shipping: '1'
+  state: MS
+wootax/20552:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '39346'
+    location_type: postcode
+  name: WINSTON
+  order: '0'
+  priority: '0'
+  rate: '7'
+  shipping: '1'
+  state: MS
+wootax/20553:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '39347'
+    location_type: postcode
+  name: JASPER
+  order: '0'
+  priority: '0'
+  rate: '7'
+  shipping: '1'
+  state: MS
+wootax/20554:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '39348'
+    location_type: postcode
+  name: JASPER
+  order: '0'
+  priority: '0'
+  rate: '7'
+  shipping: '1'
+  state: MS
+wootax/20555:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '39350'
+    location_type: postcode
+  name: NESHOBA
+  order: '0'
+  priority: '0'
+  rate: '7'
+  shipping: '1'
+  state: MS
+wootax/20556:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '39352'
+    location_type: postcode
+  name: KEMPER
+  order: '0'
+  priority: '0'
+  rate: '7'
+  shipping: '1'
+  state: MS
+wootax/20557:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '39354'
+    location_type: postcode
+  name: KEMPER
+  order: '0'
+  priority: '0'
+  rate: '7'
+  shipping: '1'
+  state: MS
+wootax/20558:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '39355'
+    location_type: postcode
+  name: CLARKE
+  order: '0'
+  priority: '0'
+  rate: '7'
+  shipping: '1'
+  state: MS
+wootax/20559:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '39356'
+    location_type: postcode
+  name: JASPER
+  order: '0'
+  priority: '0'
+  rate: '7'
+  shipping: '1'
+  state: MS
+wootax/20560:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '39358'
+    location_type: postcode
+  name: KEMPER
+  order: '0'
+  priority: '0'
+  rate: '7'
+  shipping: '1'
+  state: MS
+wootax/20561:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '39359'
+    location_type: postcode
+  name: SEBASTOPOL
+  order: '0'
+  priority: '0'
+  rate: '7'
+  shipping: '1'
+  state: MS
+wootax/20562:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '39360'
+    location_type: postcode
+  name: CLARKE
+  order: '0'
+  priority: '0'
+  rate: '7'
+  shipping: '1'
+  state: MS
+wootax/20563:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '39361'
+    location_type: postcode
+  name: NOXUBEE
+  order: '0'
+  priority: '0'
+  rate: '7'
+  shipping: '1'
+  state: MS
+wootax/20564:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '39362'
+    location_type: postcode
+  name: GREENE
+  order: '0'
+  priority: '0'
+  rate: '7'
+  shipping: '1'
+  state: MS
+wootax/20565:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '39363'
+    location_type: postcode
+  name: STONEWALL
+  order: '0'
+  priority: '0'
+  rate: '7'
+  shipping: '1'
+  state: MS
+wootax/20566:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '39364'
+    location_type: postcode
+  name: LAUDERDALE
+  order: '0'
+  priority: '0'
+  rate: '7'
+  shipping: '1'
+  state: MS
+wootax/20567:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '39365'
+    location_type: postcode
+  name: NESHOBA
+  order: '0'
+  priority: '0'
+  rate: '7'
+  shipping: '1'
+  state: MS
+wootax/20568:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '39366'
+    location_type: postcode
+  name: CLARKE
+  order: '0'
+  priority: '0'
+  rate: '7'
+  shipping: '1'
+  state: MS
+wootax/20569:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '39367'
+    location_type: postcode
+  name: WAYNE
+  order: '0'
+  priority: '0'
+  rate: '7'
+  shipping: '1'
+  state: MS
+wootax/20570:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '39401'
+    location_type: postcode
+  name: HATTIESBURG
+  order: '0'
+  priority: '0'
+  rate: '7'
+  shipping: '1'
+  state: MS
+wootax/20571:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '39402'
+    location_type: postcode
+  name: LAMAR
+  order: '0'
+  priority: '0'
+  rate: '7'
+  shipping: '1'
+  state: MS
+wootax/20572:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '39403'
+    location_type: postcode
+  name: HATTIESBURG
+  order: '0'
+  priority: '0'
+  rate: '7'
+  shipping: '1'
+  state: MS
+wootax/20573:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '39404'
+    location_type: postcode
+  name: HATTIESBURG
+  order: '0'
+  priority: '0'
+  rate: '7'
+  shipping: '1'
+  state: MS
+wootax/20574:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '39406'
+    location_type: postcode
+  name: HATTIESBURG
+  order: '0'
+  priority: '0'
+  rate: '7'
+  shipping: '1'
+  state: MS
+wootax/20575:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '39407'
+    location_type: postcode
+  name: FORREST
+  order: '0'
+  priority: '0'
+  rate: '7'
+  shipping: '1'
+  state: MS
+wootax/20576:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '39421'
+    location_type: postcode
+  name: JEFFERSON DAVIS
+  order: '0'
+  priority: '0'
+  rate: '7'
+  shipping: '1'
+  state: MS
+wootax/20577:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '39422'
+    location_type: postcode
+  name: JASPER
+  order: '0'
+  priority: '0'
+  rate: '7'
+  shipping: '1'
+  state: MS
+wootax/20578:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '39423'
+    location_type: postcode
+  name: PERRY
+  order: '0'
+  priority: '0'
+  rate: '7'
+  shipping: '1'
+  state: MS
+wootax/20579:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '39425'
+    location_type: postcode
+  name: FORREST
+  order: '0'
+  priority: '0'
+  rate: '7'
+  shipping: '1'
+  state: MS
+wootax/20580:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '39426'
+    location_type: postcode
+  name: PEARL RIVER
+  order: '0'
+  priority: '0'
+  rate: '7'
+  shipping: '1'
+  state: MS
+wootax/20581:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '39427'
+    location_type: postcode
+  name: JEFFERSON DAVIS
+  order: '0'
+  priority: '0'
+  rate: '7'
+  shipping: '1'
+  state: MS
+wootax/20582:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '39428'
+    location_type: postcode
+  name: 'COVINGTON '
+  order: '0'
+  priority: '0'
+  rate: '7'
+  shipping: '1'
+  state: MS
+wootax/20583:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '39429'
+    location_type: postcode
+  name: MARION
+  order: '0'
+  priority: '0'
+  rate: '7'
+  shipping: '1'
+  state: MS
+wootax/20584:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '39436'
+    location_type: postcode
+  name: JONES
+  order: '0'
+  priority: '0'
+  rate: '7'
+  shipping: '1'
+  state: MS
+wootax/20585:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '39437'
+    location_type: postcode
+  name: JONES
+  order: '0'
+  priority: '0'
+  rate: '7'
+  shipping: '1'
+  state: MS
+wootax/20586:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '39439'
+    location_type: postcode
+  name: JASPER
+  order: '0'
+  priority: '0'
+  rate: '7'
+  shipping: '1'
+  state: MS
+wootax/20587:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '39440'
+    location_type: postcode
+  name: LAUREL
+  order: '0'
+  priority: '0'
+  rate: '7'
+  shipping: '1'
+  state: MS
+wootax/20588:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '39443'
+    location_type: postcode
+  name: JONES
+  order: '0'
+  priority: '0'
+  rate: '7'
+  shipping: '1'
+  state: MS
+wootax/20589:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '39451'
+    location_type: postcode
+  name: GREENE
+  order: '0'
+  priority: '0'
+  rate: '7'
+  shipping: '1'
+  state: MS
+wootax/20590:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '39452'
+    location_type: postcode
+  name: GEORGE
+  order: '0'
+  priority: '0'
+  rate: '7'
+  shipping: '1'
+  state: MS
+wootax/20591:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '39455'
+    location_type: postcode
+  name: LAMAR
+  order: '0'
+  priority: '0'
+  rate: '7'
+  shipping: '1'
+  state: MS
+wootax/20592:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '39456'
+    location_type: postcode
+  name: GREENE
+  order: '0'
+  priority: '0'
+  rate: '7'
+  shipping: '1'
+  state: MS
+wootax/20593:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '39457'
+    location_type: postcode
+  name: PEARL RIVER
+  order: '0'
+  priority: '0'
+  rate: '7'
+  shipping: '1'
+  state: MS
+wootax/20594:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '39459'
+    location_type: postcode
+  name: JONES
+  order: '0'
+  priority: '0'
+  rate: '7'
+  shipping: '1'
+  state: MS
+wootax/20595:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '39461'
+    location_type: postcode
+  name: GREENE
+  order: '0'
+  priority: '0'
+  rate: '7'
+  shipping: '1'
+  state: MS
+wootax/20596:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '39462'
+    location_type: postcode
+  name: NEW AUGUSTA
+  order: '0'
+  priority: '0'
+  rate: '7'
+  shipping: '1'
+  state: MS
+wootax/20597:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '39463'
+    location_type: postcode
+  name: PEARL RIVER
+  order: '0'
+  priority: '0'
+  rate: '7'
+  shipping: '1'
+  state: MS
+wootax/20598:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '39464'
+    location_type: postcode
+  name: JONES
+  order: '0'
+  priority: '0'
+  rate: '7'
+  shipping: '1'
+  state: MS
+wootax/20599:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '39465'
+    location_type: postcode
+  name: PETAL
+  order: '0'
+  priority: '0'
+  rate: '7'
+  shipping: '1'
+  state: MS
+wootax/20600:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '39466'
+    location_type: postcode
+  name: PICAYUNE
+  order: '0'
+  priority: '0'
+  rate: '7'
+  shipping: '1'
+  state: MS
+wootax/20601:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '39470'
+    location_type: postcode
+  name: PEARL RIVER
+  order: '0'
+  priority: '0'
+  rate: '7'
+  shipping: '1'
+  state: MS
+wootax/20602:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '39474'
+    location_type: postcode
+  name: JEFFERSON DAVIS
+  order: '0'
+  priority: '0'
+  rate: '7'
+  shipping: '1'
+  state: MS
+wootax/20603:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '39475'
+    location_type: postcode
+  name: LAMAR
+  order: '0'
+  priority: '0'
+  rate: '7'
+  shipping: '1'
+  state: MS
+wootax/20604:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '39476'
+    location_type: postcode
+  name: GREENE
+  order: '0'
+  priority: '0'
+  rate: '7'
+  shipping: '1'
+  state: MS
+wootax/20605:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '39477'
+    location_type: postcode
+  name: SANDERSVILLE
+  order: '0'
+  priority: '0'
+  rate: '7'
+  shipping: '1'
+  state: MS
+wootax/20606:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '39478'
+    location_type: postcode
+  name: MARION
+  order: '0'
+  priority: '0'
+  rate: '7'
+  shipping: '1'
+  state: MS
+wootax/20607:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '39479'
+    location_type: postcode
+  name: 'COVINGTON '
+  order: '0'
+  priority: '0'
+  rate: '7'
+  shipping: '1'
+  state: MS
+wootax/20608:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '39480'
+    location_type: postcode
+  name: JONES
+  order: '0'
+  priority: '0'
+  rate: '7'
+  shipping: '1'
+  state: MS
+wootax/20609:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '39481'
+    location_type: postcode
+  name: JASPER
+  order: '0'
+  priority: '0'
+  rate: '7'
+  shipping: '1'
+  state: MS
+wootax/20610:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '39482'
+    location_type: postcode
+  name: LAMAR
+  order: '0'
+  priority: '0'
+  rate: '7'
+  shipping: '1'
+  state: MS
+wootax/20611:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '39483'
+    location_type: postcode
+  name: MARION
+  order: '0'
+  priority: '0'
+  rate: '7'
+  shipping: '1'
+  state: MS
+wootax/20612:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '39501'
+    location_type: postcode
+  name: GULFPORT
+  order: '0'
+  priority: '0'
+  rate: '7'
+  shipping: '1'
+  state: MS
+wootax/20613:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '39502'
+    location_type: postcode
+  name: GULFPORT
+  order: '0'
+  priority: '0'
+  rate: '7'
+  shipping: '1'
+  state: MS
+wootax/20614:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '39503'
+    location_type: postcode
+  name: GULFPORT
+  order: '0'
+  priority: '0'
+  rate: '7'
+  shipping: '1'
+  state: MS
+wootax/20615:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '39505'
+    location_type: postcode
+  name: GULFPORT
+  order: '0'
+  priority: '0'
+  rate: '7'
+  shipping: '1'
+  state: MS
+wootax/20616:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '39506'
+    location_type: postcode
+  name: GULFPORT
+  order: '0'
+  priority: '0'
+  rate: '7'
+  shipping: '1'
+  state: MS
+wootax/20617:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '39507'
+    location_type: postcode
+  name: GULFPORT
+  order: '0'
+  priority: '0'
+  rate: '7'
+  shipping: '1'
+  state: MS
+wootax/20618:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '39520'
+    location_type: postcode
+  name: BAY SAINT LOUIS
+  order: '0'
+  priority: '0'
+  rate: '7'
+  shipping: '1'
+  state: MS
+wootax/20619:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '39522'
+    location_type: postcode
+  name: HANCOCK
+  order: '0'
+  priority: '0'
+  rate: '7'
+  shipping: '1'
+  state: MS
+wootax/20620:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '39525'
+    location_type: postcode
+  name: DIAMONDHEAD
+  order: '0'
+  priority: '0'
+  rate: '7'
+  shipping: '1'
+  state: MS
+wootax/20621:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '39529'
+    location_type: postcode
+  name: HANCOCK
+  order: '0'
+  priority: '0'
+  rate: '7'
+  shipping: '1'
+  state: MS
+wootax/20622:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '39530'
+    location_type: postcode
+  name: BILOXI
+  order: '0'
+  priority: '0'
+  rate: '7'
+  shipping: '1'
+  state: MS
+wootax/20623:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '39531'
+    location_type: postcode
+  name: BILOXI
+  order: '0'
+  priority: '0'
+  rate: '7'
+  shipping: '1'
+  state: MS
+wootax/20624:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '39532'
+    location_type: postcode
+  name: BILOXI
+  order: '0'
+  priority: '0'
+  rate: '7'
+  shipping: '1'
+  state: MS
+wootax/20625:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '39533'
+    location_type: postcode
+  name: BILOXI
+  order: '0'
+  priority: '0'
+  rate: '7'
+  shipping: '1'
+  state: MS
+wootax/20626:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '39534'
+    location_type: postcode
+  name: BILOXI
+  order: '0'
+  priority: '0'
+  rate: '7'
+  shipping: '1'
+  state: MS
+wootax/20627:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '39535'
+    location_type: postcode
+  name: BILOXI
+  order: '0'
+  priority: '0'
+  rate: '7'
+  shipping: '1'
+  state: MS
+wootax/20628:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '39552'
+    location_type: postcode
+  name: MOSS POINT
+  order: '0'
+  priority: '0'
+  rate: '7'
+  shipping: '1'
+  state: MS
+wootax/20629:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '39553'
+    location_type: postcode
+  name: GAUTIER
+  order: '0'
+  priority: '0'
+  rate: '7'
+  shipping: '1'
+  state: MS
+wootax/20630:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '39555'
+    location_type: postcode
+  name: JACKSON
+  order: '0'
+  priority: '0'
+  rate: '7'
+  shipping: '1'
+  state: MS
+wootax/20631:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '39556'
+    location_type: postcode
+  name: HANCOCK
+  order: '0'
+  priority: '0'
+  rate: '7'
+  shipping: '1'
+  state: MS
+wootax/20632:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '39558'
+    location_type: postcode
+  name: BAY SAINT LOUIS
+  order: '0'
+  priority: '0'
+  rate: '7'
+  shipping: '1'
+  state: MS
+wootax/20633:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '39560'
+    location_type: postcode
+  name: LONG BEACH
+  order: '0'
+  priority: '0'
+  rate: '7'
+  shipping: '1'
+  state: MS
+wootax/20634:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '39561'
+    location_type: postcode
+  name: STONE
+  order: '0'
+  priority: '0'
+  rate: '7'
+  shipping: '1'
+  state: MS
+wootax/20635:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '39562'
+    location_type: postcode
+  name: JACKSON
+  order: '0'
+  priority: '0'
+  rate: '7'
+  shipping: '1'
+  state: MS
+wootax/20636:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '39563'
+    location_type: postcode
+  name: MOSS POINT
+  order: '0'
+  priority: '0'
+  rate: '7'
+  shipping: '1'
+  state: MS
+wootax/20637:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '39564'
+    location_type: postcode
+  name: JACKSON
+  order: '0'
+  priority: '0'
+  rate: '7'
+  shipping: '1'
+  state: MS
+wootax/20638:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '39565'
+    location_type: postcode
+  name: JACKSON
+  order: '0'
+  priority: '0'
+  rate: '7'
+  shipping: '1'
+  state: MS
+wootax/20639:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '39566'
+    location_type: postcode
+  name: OCEAN SPRINGS
+  order: '0'
+  priority: '0'
+  rate: '7'
+  shipping: '1'
+  state: MS
+wootax/20640:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '39567'
+    location_type: postcode
+  name: PASCAGOULA
+  order: '0'
+  priority: '0'
+  rate: '7'
+  shipping: '1'
+  state: MS
+wootax/20641:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '39569'
+    location_type: postcode
+  name: PASCAGOULA
+  order: '0'
+  priority: '0'
+  rate: '7'
+  shipping: '1'
+  state: MS
+wootax/20642:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '39571'
+    location_type: postcode
+  name: HARRISON
+  order: '0'
+  priority: '0'
+  rate: '7'
+  shipping: '1'
+  state: MS
+wootax/20643:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '39572'
+    location_type: postcode
+  name: HANCOCK
+  order: '0'
+  priority: '0'
+  rate: '7'
+  shipping: '1'
+  state: MS
+wootax/20644:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '39573'
+    location_type: postcode
+  name: STONE
+  order: '0'
+  priority: '0'
+  rate: '7'
+  shipping: '1'
+  state: MS
+wootax/20645:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '39574'
+    location_type: postcode
+  name: HARRISON
+  order: '0'
+  priority: '0'
+  rate: '7'
+  shipping: '1'
+  state: MS
+wootax/20646:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '39576'
+    location_type: postcode
+  name: WAVELAND
+  order: '0'
+  priority: '0'
+  rate: '7'
+  shipping: '1'
+  state: MS
+wootax/20647:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '39577'
+    location_type: postcode
+  name: WIGGINS
+  order: '0'
+  priority: '0'
+  rate: '7'
+  shipping: '1'
+  state: MS
+wootax/20648:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '39581'
+    location_type: postcode
+  name: PASCAGOULA
+  order: '0'
+  priority: '0'
+  rate: '7'
+  shipping: '1'
+  state: MS
+wootax/20649:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '39595'
+    location_type: postcode
+  name: PASCAGOULA
+  order: '0'
+  priority: '0'
+  rate: '7'
+  shipping: '1'
+  state: MS
+wootax/20650:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '39601'
+    location_type: postcode
+  name: BROOKHAVEN
+  order: '0'
+  priority: '0'
+  rate: '7'
+  shipping: '1'
+  state: MS
+wootax/20651:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '39602'
+    location_type: postcode
+  name: BROOKHAVEN
+  order: '0'
+  priority: '0'
+  rate: '7'
+  shipping: '1'
+  state: MS
+wootax/20652:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '39603'
+    location_type: postcode
+  name: BROOKHAVEN
+  order: '0'
+  priority: '0'
+  rate: '7'
+  shipping: '1'
+  state: MS
+wootax/20653:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '39629'
+    location_type: postcode
+  name: LINCOLN
+  order: '0'
+  priority: '0'
+  rate: '7'
+  shipping: '1'
+  state: MS
+wootax/20654:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '39630'
+    location_type: postcode
+  name: BUDE
+  order: '0'
+  priority: '0'
+  rate: '7'
+  shipping: '1'
+  state: MS
+wootax/20655:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '39631'
+    location_type: postcode
+  name: WILKINSON
+  order: '0'
+  priority: '0'
+  rate: '7'
+  shipping: '1'
+  state: MS
+wootax/20656:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '39632'
+    location_type: postcode
+  name: PIKE
+  order: '0'
+  priority: '0'
+  rate: '7'
+  shipping: '1'
+  state: MS
+wootax/20657:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '39633'
+    location_type: postcode
+  name: WILKINSON
+  order: '0'
+  priority: '0'
+  rate: '7'
+  shipping: '1'
+  state: MS
+wootax/20658:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '39635'
+    location_type: postcode
+  name: PIKE
+  order: '0'
+  priority: '0'
+  rate: '7'
+  shipping: '1'
+  state: MS
+wootax/20659:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '39638'
+    location_type: postcode
+  name: AMITE
+  order: '0'
+  priority: '0'
+  rate: '7'
+  shipping: '1'
+  state: MS
+wootax/20660:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '39641'
+    location_type: postcode
+  name: LAWRENCE
+  order: '0'
+  priority: '0'
+  rate: '7'
+  shipping: '1'
+  state: MS
+wootax/20661:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '39643'
+    location_type: postcode
+  name: MARION
+  order: '0'
+  priority: '0'
+  rate: '7'
+  shipping: '1'
+  state: MS
+wootax/20662:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '39645'
+    location_type: postcode
+  name: AMITE
+  order: '0'
+  priority: '0'
+  rate: '7'
+  shipping: '1'
+  state: MS
+wootax/20663:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '39647'
+    location_type: postcode
+  name: FRANKLIN
+  order: '0'
+  priority: '0'
+  rate: '7'
+  shipping: '1'
+  state: MS
+wootax/20664:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '39648'
+    location_type: postcode
+  name: MCCOMB
+  order: '0'
+  priority: '0'
+  rate: '7'
+  shipping: '1'
+  state: MS
+wootax/20665:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '39649'
+    location_type: postcode
+  name: MCCOMB
+  order: '0'
+  priority: '0'
+  rate: '7'
+  shipping: '1'
+  state: MS
+wootax/20666:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '39652'
+    location_type: postcode
+  name: PIKE
+  order: '0'
+  priority: '0'
+  rate: '7'
+  shipping: '1'
+  state: MS
+wootax/20667:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '39653'
+    location_type: postcode
+  name: FRANKLIN
+  order: '0'
+  priority: '0'
+  rate: '7'
+  shipping: '1'
+  state: MS
+wootax/20668:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '39654'
+    location_type: postcode
+  name: LAWRENCE
+  order: '0'
+  priority: '0'
+  rate: '7'
+  shipping: '1'
+  state: MS
+wootax/20669:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '39656'
+    location_type: postcode
+  name: JEFFERSON DAVIS
+  order: '0'
+  priority: '0'
+  rate: '7'
+  shipping: '1'
+  state: MS
+wootax/20670:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '39657'
+    location_type: postcode
+  name: PIKE
+  order: '0'
+  priority: '0'
+  rate: '7'
+  shipping: '1'
+  state: MS
+wootax/20671:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '39661'
+    location_type: postcode
+  name: FRANKLIN
+  order: '0'
+  priority: '0'
+  rate: '7'
+  shipping: '1'
+  state: MS
+wootax/20672:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '39662'
+    location_type: postcode
+  name: LINCOLN
+  order: '0'
+  priority: '0'
+  rate: '7'
+  shipping: '1'
+  state: MS
+wootax/20673:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '39663'
+    location_type: postcode
+  name: LAWRENCE
+  order: '0'
+  priority: '0'
+  rate: '7'
+  shipping: '1'
+  state: MS
+wootax/20674:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '39664'
+    location_type: postcode
+  name: AMITE
+  order: '0'
+  priority: '0'
+  rate: '7'
+  shipping: '1'
+  state: MS
+wootax/20675:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '39665'
+    location_type: postcode
+  name: LAWRENCE
+  order: '0'
+  priority: '0'
+  rate: '7'
+  shipping: '1'
+  state: MS
+wootax/20676:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '39666'
+    location_type: postcode
+  name: PIKE
+  order: '0'
+  priority: '0'
+  rate: '7'
+  shipping: '1'
+  state: MS
+wootax/20677:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '39667'
+    location_type: postcode
+  name: WALTHALL
+  order: '0'
+  priority: '0'
+  rate: '7'
+  shipping: '1'
+  state: MS
+wootax/20678:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '39668'
+    location_type: postcode
+  name: JEFFERSON
+  order: '0'
+  priority: '0'
+  rate: '7'
+  shipping: '1'
+  state: MS
+wootax/20679:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '39669'
+    location_type: postcode
+  name: WILKINSON
+  order: '0'
+  priority: '0'
+  rate: '7'
+  shipping: '1'
+  state: MS
+wootax/20680:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '39701'
+    location_type: postcode
+  name: COLUMBUS
+  order: '0'
+  priority: '0'
+  rate: '7'
+  shipping: '1'
+  state: MS
+wootax/20681:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '39702'
+    location_type: postcode
+  name: LOWNDES
+  order: '0'
+  priority: '0'
+  rate: '7'
+  shipping: '1'
+  state: MS
+wootax/20682:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '39703'
+    location_type: postcode
+  name: COLUMBUS
+  order: '0'
+  priority: '0'
+  rate: '7'
+  shipping: '1'
+  state: MS
+wootax/20683:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '39704'
+    location_type: postcode
+  name: COLUMBUS
+  order: '0'
+  priority: '0'
+  rate: '7'
+  shipping: '1'
+  state: MS
+wootax/20684:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '39705'
+    location_type: postcode
+  name: LOWNDES
+  order: '0'
+  priority: '0'
+  rate: '7'
+  shipping: '1'
+  state: MS
+wootax/20685:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '39710'
+    location_type: postcode
+  name: LOWNDES
+  order: '0'
+  priority: '0'
+  rate: '7'
+  shipping: '1'
+  state: MS
+wootax/20686:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '39730'
+    location_type: postcode
+  name: ABERDEEN
+  order: '0'
+  priority: '0'
+  rate: '7'
+  shipping: '1'
+  state: MS
+wootax/20687:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '39735'
+    location_type: postcode
+  name: CHOCTAW
+  order: '0'
+  priority: '0'
+  rate: '7'
+  shipping: '1'
+  state: MS
+wootax/20688:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '39736'
+    location_type: postcode
+  name: ARTESIA
+  order: '0'
+  priority: '0'
+  rate: '7'
+  shipping: '1'
+  state: MS
+wootax/20689:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '39737'
+    location_type: postcode
+  name: WEBSTER
+  order: '0'
+  priority: '0'
+  rate: '7'
+  shipping: '1'
+  state: MS
+wootax/20690:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '39739'
+    location_type: postcode
+  name: NOXUBEE
+  order: '0'
+  priority: '0'
+  rate: '7'
+  shipping: '1'
+  state: MS
+wootax/20691:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '39740'
+    location_type: postcode
+  name: LOWNDES
+  order: '0'
+  priority: '0'
+  rate: '7'
+  shipping: '1'
+  state: MS
+wootax/20692:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '39741'
+    location_type: postcode
+  name: CLAY
+  order: '0'
+  priority: '0'
+  rate: '7'
+  shipping: '1'
+  state: MS
+wootax/20693:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '39743'
+    location_type: postcode
+  name: LOWNDES
+  order: '0'
+  priority: '0'
+  rate: '7'
+  shipping: '1'
+  state: MS
+wootax/20694:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '39744'
+    location_type: postcode
+  name: WEBSTER
+  order: '0'
+  priority: '0'
+  rate: '7'
+  shipping: '1'
+  state: MS
+wootax/20695:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '39745'
+    location_type: postcode
+  name: CHOCTAW
+  order: '0'
+  priority: '0'
+  rate: '7'
+  shipping: '1'
+  state: MS
+wootax/20696:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '39746'
+    location_type: postcode
+  name: MONROE
+  order: '0'
+  priority: '0'
+  rate: '7'
+  shipping: '1'
+  state: MS
+wootax/20697:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '39747'
+    location_type: postcode
+  name: MONTGOMERY
+  order: '0'
+  priority: '0'
+  rate: '7'
+  shipping: '1'
+  state: MS
+wootax/20698:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '39750'
+    location_type: postcode
+  name: WEBSTER
+  order: '0'
+  priority: '0'
+  rate: '7'
+  shipping: '1'
+  state: MS
+wootax/20699:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '39751'
+    location_type: postcode
+  name: WEBSTER
+  order: '0'
+  priority: '0'
+  rate: '7'
+  shipping: '1'
+  state: MS
+wootax/20700:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '39752'
+    location_type: postcode
+  name: CHOCTAW
+  order: '0'
+  priority: '0'
+  rate: '7'
+  shipping: '1'
+  state: MS
+wootax/20701:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '39753'
+    location_type: postcode
+  name: LOWNDES
+  order: '0'
+  priority: '0'
+  rate: '7'
+  shipping: '1'
+  state: MS
+wootax/20702:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '39755'
+    location_type: postcode
+  name: CLAY
+  order: '0'
+  priority: '0'
+  rate: '7'
+  shipping: '1'
+  state: MS
+wootax/20703:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '39756'
+    location_type: postcode
+  name: CLAY
+  order: '0'
+  priority: '0'
+  rate: '7'
+  shipping: '1'
+  state: MS
+wootax/20704:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '39759'
+    location_type: postcode
+  name: OKTIBBEHA
+  order: '0'
+  priority: '0'
+  rate: '7'
+  shipping: '1'
+  state: MS
+wootax/20705:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '39760'
+    location_type: postcode
+  name: STARKVILLE
+  order: '0'
+  priority: '0'
+  rate: '7'
+  shipping: '1'
+  state: MS
+wootax/20706:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '39762'
+    location_type: postcode
+  name: OKTIBBEHA
+  order: '0'
+  priority: '0'
+  rate: '7'
+  shipping: '1'
+  state: MS
+wootax/20707:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '39766'
+    location_type: postcode
+  name: LOWNDES
+  order: '0'
+  priority: '0'
+  rate: '7'
+  shipping: '1'
+  state: MS
+wootax/20708:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '39767'
+    location_type: postcode
+  name: WEBSTER
+  order: '0'
+  priority: '0'
+  rate: '7'
+  shipping: '1'
+  state: MS
+wootax/20709:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '39769'
+    location_type: postcode
+  name: OKTIBBEHA
+  order: '0'
+  priority: '0'
+  rate: '7'
+  shipping: '1'
+  state: MS
+wootax/20710:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '39771'
+    location_type: postcode
+  name: WALTHALL
+  order: '0'
+  priority: '0'
+  rate: '7'
+  shipping: '1'
+  state: MS
+wootax/20711:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '39772'
+    location_type: postcode
+  name: CHOCTAW
+  order: '0'
+  priority: '0'
+  rate: '7'
+  shipping: '1'
+  state: MS
+wootax/20712:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '39773'
+    location_type: postcode
+  name: WEST POINT
+  order: '0'
+  priority: '0'
+  rate: '7'
+  shipping: '1'
+  state: MS
+wootax/20713:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '39776'
+    location_type: postcode
+  name: CHICKASAW
+  order: '0'
+  priority: '0'
+  rate: '7'
+  shipping: '1'
+  state: MS

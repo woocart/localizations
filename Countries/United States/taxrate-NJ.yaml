@@ -1,0 +1,9061 @@
+wootax/23455:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '07001'
+    location_type: postcode
+  name: 'WOODBRIDGE TOWNSHIP '
+  order: '0'
+  priority: '0'
+  rate: '6.625'
+  shipping: '1'
+  state: NJ
+wootax/23456:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '07002'
+    location_type: postcode
+  name: BAYONNE CITY, NJ
+  order: '0'
+  priority: '0'
+  rate: '6.625'
+  shipping: '1'
+  state: NJ
+wootax/23457:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '07003'
+    location_type: postcode
+  name: 'BLOOMFIELD '
+  order: '0'
+  priority: '0'
+  rate: '6.625'
+  shipping: '1'
+  state: NJ
+wootax/23458:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '07004'
+    location_type: postcode
+  name: FAIRFIELD TOWNSHIP(ESSEX COUNTY)
+  order: '0'
+  priority: '0'
+  rate: '6.625'
+  shipping: '1'
+  state: NJ
+wootax/23459:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '07005'
+    location_type: postcode
+  name: BOONTON CITY
+  order: '0'
+  priority: '0'
+  rate: '6.625'
+  shipping: '1'
+  state: NJ
+wootax/23460:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '07006'
+    location_type: postcode
+  name: CALDWELL
+  order: '0'
+  priority: '0'
+  rate: '6.625'
+  shipping: '1'
+  state: NJ
+wootax/23461:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '07007'
+    location_type: postcode
+  name: 'WEST CALDWELL '
+  order: '0'
+  priority: '0'
+  rate: '6.625'
+  shipping: '1'
+  state: NJ
+wootax/23462:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: 07008
+    location_type: postcode
+  name: CARTERET CITY
+  order: '0'
+  priority: '0'
+  rate: '6.625'
+  shipping: '1'
+  state: NJ
+wootax/23463:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: 07009
+    location_type: postcode
+  name: CEDAR GROVE CITY
+  order: '0'
+  priority: '0'
+  rate: '6.625'
+  shipping: '1'
+  state: NJ
+wootax/23464:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '07010'
+    location_type: postcode
+  name: CLIFFSIDE PARK
+  order: '0'
+  priority: '0'
+  rate: '6.625'
+  shipping: '1'
+  state: NJ
+wootax/23465:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '07011'
+    location_type: postcode
+  name: CLIFTON CITY
+  order: '0'
+  priority: '0'
+  rate: '6.625'
+  shipping: '1'
+  state: NJ
+wootax/23466:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '07012'
+    location_type: postcode
+  name: CLIFTON CITY
+  order: '0'
+  priority: '0'
+  rate: '6.625'
+  shipping: '1'
+  state: NJ
+wootax/23467:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '07013'
+    location_type: postcode
+  name: CLIFTON CITY
+  order: '0'
+  priority: '0'
+  rate: '6.625'
+  shipping: '1'
+  state: NJ
+wootax/23468:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '07014'
+    location_type: postcode
+  name: CLIFTON CITY
+  order: '0'
+  priority: '0'
+  rate: '6.625'
+  shipping: '1'
+  state: NJ
+wootax/23469:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '07015'
+    location_type: postcode
+  name: CLIFTON CITY
+  order: '0'
+  priority: '0'
+  rate: '6.625'
+  shipping: '1'
+  state: NJ
+wootax/23470:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '07016'
+    location_type: postcode
+  name: CRANFORD CITY, NJ
+  order: '0'
+  priority: '0'
+  rate: '6.625'
+  shipping: '1'
+  state: NJ
+wootax/23471:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '07017'
+    location_type: postcode
+  name: EAST ORANGE
+  order: '0'
+  priority: '0'
+  rate: '6.625'
+  shipping: '1'
+  state: NJ
+wootax/23472:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: 07018
+    location_type: postcode
+  name: EAST ORANGE
+  order: '0'
+  priority: '0'
+  rate: '6.625'
+  shipping: '1'
+  state: NJ
+wootax/23473:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: 07019
+    location_type: postcode
+  name: EAST ORANGE
+  order: '0'
+  priority: '0'
+  rate: '6.625'
+  shipping: '1'
+  state: NJ
+wootax/23474:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '07020'
+    location_type: postcode
+  name: EDGEWATER
+  order: '0'
+  priority: '0'
+  rate: '6.625'
+  shipping: '1'
+  state: NJ
+wootax/23475:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '07021'
+    location_type: postcode
+  name: ESSEX FELLS
+  order: '0'
+  priority: '0'
+  rate: '6.625'
+  shipping: '1'
+  state: NJ
+wootax/23476:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '07022'
+    location_type: postcode
+  name: FAIRVIEW
+  order: '0'
+  priority: '0'
+  rate: '6.625'
+  shipping: '1'
+  state: NJ
+wootax/23477:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '07023'
+    location_type: postcode
+  name: FANWOOD
+  order: '0'
+  priority: '0'
+  rate: '6.625'
+  shipping: '1'
+  state: NJ
+wootax/23478:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '07024'
+    location_type: postcode
+  name: FORT LEE BOROUGH
+  order: '0'
+  priority: '0'
+  rate: '6.625'
+  shipping: '1'
+  state: NJ
+wootax/23479:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '07026'
+    location_type: postcode
+  name: GARFIELD CITY
+  order: '0'
+  priority: '0'
+  rate: '6.625'
+  shipping: '1'
+  state: NJ
+wootax/23480:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '07027'
+    location_type: postcode
+  name: GARWOOD  BOROUGH
+  order: '0'
+  priority: '0'
+  rate: '6.625'
+  shipping: '1'
+  state: NJ
+wootax/23481:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: 07028
+    location_type: postcode
+  name: GLEN RIDGE BOROUGH
+  order: '0'
+  priority: '0'
+  rate: '6.625'
+  shipping: '1'
+  state: NJ
+wootax/23482:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: 07029
+    location_type: postcode
+  name: HARRISON
+  order: '0'
+  priority: '0'
+  rate: '6.625'
+  shipping: '1'
+  state: NJ
+wootax/23483:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '07030'
+    location_type: postcode
+  name: HOBOKEN
+  order: '0'
+  priority: '0'
+  rate: '6.625'
+  shipping: '1'
+  state: NJ
+wootax/23484:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '07031'
+    location_type: postcode
+  name: NORTH ARLINGTON
+  order: '0'
+  priority: '0'
+  rate: '6.625'
+  shipping: '1'
+  state: NJ
+wootax/23485:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '07032'
+    location_type: postcode
+  name: KEARNY
+  order: '0'
+  priority: '0'
+  rate: '6.625'
+  shipping: '1'
+  state: NJ
+wootax/23486:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '07033'
+    location_type: postcode
+  name: KENILWORTH
+  order: '0'
+  priority: '0'
+  rate: '6.625'
+  shipping: '1'
+  state: NJ
+wootax/23487:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '07034'
+    location_type: postcode
+  name: PARSIPPANY TROY HILLS TOWNSHIP
+  order: '0'
+  priority: '0'
+  rate: '6.625'
+  shipping: '1'
+  state: NJ
+wootax/23488:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '07035'
+    location_type: postcode
+  name: LINCOLN PARK
+  order: '0'
+  priority: '0'
+  rate: '6.625'
+  shipping: '1'
+  state: NJ
+wootax/23489:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '07036'
+    location_type: postcode
+  name: LINDEN
+  order: '0'
+  priority: '0'
+  rate: '6.625'
+  shipping: '1'
+  state: NJ
+wootax/23490:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: 07039
+    location_type: postcode
+  name: LIVINGSTON
+  order: '0'
+  priority: '0'
+  rate: '6.625'
+  shipping: '1'
+  state: NJ
+wootax/23491:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '07040'
+    location_type: postcode
+  name: MAPLEWOOD TOWNSHIP
+  order: '0'
+  priority: '0'
+  rate: '6.625'
+  shipping: '1'
+  state: NJ
+wootax/23492:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '07041'
+    location_type: postcode
+  name: MILLBURN
+  order: '0'
+  priority: '0'
+  rate: '6.625'
+  shipping: '1'
+  state: NJ
+wootax/23493:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '07042'
+    location_type: postcode
+  name: MONTCLAIR TOWNSHIP
+  order: '0'
+  priority: '0'
+  rate: '6.625'
+  shipping: '1'
+  state: NJ
+wootax/23494:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '07043'
+    location_type: postcode
+  name: MONTCLAIR TOWNSHIP
+  order: '0'
+  priority: '0'
+  rate: '6.625'
+  shipping: '1'
+  state: NJ
+wootax/23495:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '07044'
+    location_type: postcode
+  name: VERONA
+  order: '0'
+  priority: '0'
+  rate: '6.625'
+  shipping: '1'
+  state: NJ
+wootax/23496:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '07045'
+    location_type: postcode
+  name: MONTVILLE TOWNSHIP
+  order: '0'
+  priority: '0'
+  rate: '6.625'
+  shipping: '1'
+  state: NJ
+wootax/23497:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '07046'
+    location_type: postcode
+  name: MOUNTAIN LAKES BOROUGH
+  order: '0'
+  priority: '0'
+  rate: '6.625'
+  shipping: '1'
+  state: NJ
+wootax/23498:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '07047'
+    location_type: postcode
+  name: 'NORTH BERGEN '
+  order: '0'
+  priority: '0'
+  rate: '6.625'
+  shipping: '1'
+  state: NJ
+wootax/23499:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '07050'
+    location_type: postcode
+  name: ORANGE
+  order: '0'
+  priority: '0'
+  rate: '6.625'
+  shipping: '1'
+  state: NJ
+wootax/23500:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '07051'
+    location_type: postcode
+  name: ORANGE
+  order: '0'
+  priority: '0'
+  rate: '6.625'
+  shipping: '1'
+  state: NJ
+wootax/23501:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '07052'
+    location_type: postcode
+  name: 'WEST ORANGE '
+  order: '0'
+  priority: '0'
+  rate: '6.625'
+  shipping: '1'
+  state: NJ
+wootax/23502:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '07054'
+    location_type: postcode
+  name: PARSIPPANY TROY HILLS TOWNSHIP
+  order: '0'
+  priority: '0'
+  rate: '6.625'
+  shipping: '1'
+  state: NJ
+wootax/23503:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '07055'
+    location_type: postcode
+  name: PASSAIC  CITY
+  order: '0'
+  priority: '0'
+  rate: '6.625'
+  shipping: '1'
+  state: NJ
+wootax/23504:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '07057'
+    location_type: postcode
+  name: 'WALLINGTON '
+  order: '0'
+  priority: '0'
+  rate: '6.625'
+  shipping: '1'
+  state: NJ
+wootax/23505:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: 07058
+    location_type: postcode
+  name: MONTVILLE TOWNSHIP
+  order: '0'
+  priority: '0'
+  rate: '6.625'
+  shipping: '1'
+  state: NJ
+wootax/23506:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: 07059
+    location_type: postcode
+  name: 'WARREN TOWNSHIP '
+  order: '0'
+  priority: '0'
+  rate: '6.625'
+  shipping: '1'
+  state: NJ
+wootax/23507:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '07060'
+    location_type: postcode
+  name: PLAINFIELD
+  order: '0'
+  priority: '0'
+  rate: '6.625'
+  shipping: '1'
+  state: NJ
+wootax/23508:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '07061'
+    location_type: postcode
+  name: PLAINFIELD
+  order: '0'
+  priority: '0'
+  rate: '6.625'
+  shipping: '1'
+  state: NJ
+wootax/23509:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '07062'
+    location_type: postcode
+  name: PLAINFIELD
+  order: '0'
+  priority: '0'
+  rate: '6.625'
+  shipping: '1'
+  state: NJ
+wootax/23510:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '07063'
+    location_type: postcode
+  name: PLAINFIELD
+  order: '0'
+  priority: '0'
+  rate: '6.625'
+  shipping: '1'
+  state: NJ
+wootax/23511:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '07064'
+    location_type: postcode
+  name: 'WOODBRIDGE TOWNSHIP '
+  order: '0'
+  priority: '0'
+  rate: '6.625'
+  shipping: '1'
+  state: NJ
+wootax/23512:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '07065'
+    location_type: postcode
+  name: RAHWAY
+  order: '0'
+  priority: '0'
+  rate: '6.625'
+  shipping: '1'
+  state: NJ
+wootax/23513:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '07066'
+    location_type: postcode
+  name: CLARK CITY
+  order: '0'
+  priority: '0'
+  rate: '6.625'
+  shipping: '1'
+  state: NJ
+wootax/23514:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '07067'
+    location_type: postcode
+  name: 'WOODBRIDGE TOWNSHIP '
+  order: '0'
+  priority: '0'
+  rate: '6.625'
+  shipping: '1'
+  state: NJ
+wootax/23515:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: 07068
+    location_type: postcode
+  name: ROSELAND
+  order: '0'
+  priority: '0'
+  rate: '6.625'
+  shipping: '1'
+  state: NJ
+wootax/23516:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: 07069
+    location_type: postcode
+  name: 'WATCHUNG '
+  order: '0'
+  priority: '0'
+  rate: '6.625'
+  shipping: '1'
+  state: NJ
+wootax/23517:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '07070'
+    location_type: postcode
+  name: RUTHERFORD
+  order: '0'
+  priority: '0'
+  rate: '6.625'
+  shipping: '1'
+  state: NJ
+wootax/23518:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '07071'
+    location_type: postcode
+  name: LYNDHURST
+  order: '0'
+  priority: '0'
+  rate: '6.625'
+  shipping: '1'
+  state: NJ
+wootax/23519:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '07072'
+    location_type: postcode
+  name: CARLSTADT
+  order: '0'
+  priority: '0'
+  rate: '6.625'
+  shipping: '1'
+  state: NJ
+wootax/23520:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '07073'
+    location_type: postcode
+  name: EAST RUTHERFORD
+  order: '0'
+  priority: '0'
+  rate: '6.625'
+  shipping: '1'
+  state: NJ
+wootax/23521:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '07074'
+    location_type: postcode
+  name: MOONACHIE
+  order: '0'
+  priority: '0'
+  rate: '6.625'
+  shipping: '1'
+  state: NJ
+wootax/23522:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '07075'
+    location_type: postcode
+  name: 'WOOD RIDGE '
+  order: '0'
+  priority: '0'
+  rate: '6.625'
+  shipping: '1'
+  state: NJ
+wootax/23523:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '07076'
+    location_type: postcode
+  name: SCOTCH PLAINS
+  order: '0'
+  priority: '0'
+  rate: '6.625'
+  shipping: '1'
+  state: NJ
+wootax/23524:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '07077'
+    location_type: postcode
+  name: 'WOODBRIDGE TOWNSHIP '
+  order: '0'
+  priority: '0'
+  rate: '6.625'
+  shipping: '1'
+  state: NJ
+wootax/23525:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: 07078
+    location_type: postcode
+  name: MILLBURN
+  order: '0'
+  priority: '0'
+  rate: '6.625'
+  shipping: '1'
+  state: NJ
+wootax/23526:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: 07079
+    location_type: postcode
+  name: SOUTH ORANGE VILLAGE
+  order: '0'
+  priority: '0'
+  rate: '6.625'
+  shipping: '1'
+  state: NJ
+wootax/23527:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: 07080
+    location_type: postcode
+  name: 'SOUTH PLAINFIELD '
+  order: '0'
+  priority: '0'
+  rate: '6.625'
+  shipping: '1'
+  state: NJ
+wootax/23528:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: 07081
+    location_type: postcode
+  name: SPRINGFIELD TOWNSHIP (UNION COUNTY)
+  order: '0'
+  priority: '0'
+  rate: '6.625'
+  shipping: '1'
+  state: NJ
+wootax/23529:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: 07082
+    location_type: postcode
+  name: MONTVILLE TOWNSHIP
+  order: '0'
+  priority: '0'
+  rate: '6.625'
+  shipping: '1'
+  state: NJ
+wootax/23530:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: 07083
+    location_type: postcode
+  name: UNION TOWNSHIP (UNION COUNTY)
+  order: '0'
+  priority: '0'
+  rate: '6.625'
+  shipping: '1'
+  state: NJ
+wootax/23531:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: 07086
+    location_type: postcode
+  name: 'WEEHAWKEN '
+  order: '0'
+  priority: '0'
+  rate: '6.625'
+  shipping: '1'
+  state: NJ
+wootax/23532:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: 07087
+    location_type: postcode
+  name: 'UNION CITY '
+  order: '0'
+  priority: '0'
+  rate: '6.625'
+  shipping: '1'
+  state: NJ
+wootax/23533:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: 07088
+    location_type: postcode
+  name: UNION TOWNSHIP (UNION COUNTY)
+  order: '0'
+  priority: '0'
+  rate: '6.625'
+  shipping: '1'
+  state: NJ
+wootax/23534:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: 07090
+    location_type: postcode
+  name: 'WESTFIELD '
+  order: '0'
+  priority: '0'
+  rate: '6.625'
+  shipping: '1'
+  state: NJ
+wootax/23535:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: 07091
+    location_type: postcode
+  name: 'WESTFIELD '
+  order: '0'
+  priority: '0'
+  rate: '6.625'
+  shipping: '1'
+  state: NJ
+wootax/23536:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: 07092
+    location_type: postcode
+  name: MOUNTAINSIDE BOROUGH
+  order: '0'
+  priority: '0'
+  rate: '6.625'
+  shipping: '1'
+  state: NJ
+wootax/23537:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: 07093
+    location_type: postcode
+  name: 'WEST NEW YORK '
+  order: '0'
+  priority: '0'
+  rate: '6.625'
+  shipping: '1'
+  state: NJ
+wootax/23538:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: 07094
+    location_type: postcode
+  name: SECAUCUS
+  order: '0'
+  priority: '0'
+  rate: '6.625'
+  shipping: '1'
+  state: NJ
+wootax/23539:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: 07095
+    location_type: postcode
+  name: 'WOODBRIDGE TOWNSHIP '
+  order: '0'
+  priority: '0'
+  rate: '6.625'
+  shipping: '1'
+  state: NJ
+wootax/23540:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: 07096
+    location_type: postcode
+  name: SECAUCUS
+  order: '0'
+  priority: '0'
+  rate: '6.625'
+  shipping: '1'
+  state: NJ
+wootax/23541:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: 07097
+    location_type: postcode
+  name: JERSEY CITY
+  order: '0'
+  priority: '0'
+  rate: '6.625'
+  shipping: '1'
+  state: NJ
+wootax/23542:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: 07099
+    location_type: postcode
+  name: KEARNY
+  order: '0'
+  priority: '0'
+  rate: '6.625'
+  shipping: '1'
+  state: NJ
+wootax/23543:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '07101'
+    location_type: postcode
+  name: NEWARK CITY
+  order: '0'
+  priority: '0'
+  rate: '6.625'
+  shipping: '1'
+  state: NJ
+wootax/23544:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '07102'
+    location_type: postcode
+  name: NEWARK CITY
+  order: '0'
+  priority: '0'
+  rate: '6.625'
+  shipping: '1'
+  state: NJ
+wootax/23545:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '07103'
+    location_type: postcode
+  name: NEWARK CITY
+  order: '0'
+  priority: '0'
+  rate: '6.625'
+  shipping: '1'
+  state: NJ
+wootax/23546:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '07104'
+    location_type: postcode
+  name: NEWARK CITY
+  order: '0'
+  priority: '0'
+  rate: '6.625'
+  shipping: '1'
+  state: NJ
+wootax/23547:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '07105'
+    location_type: postcode
+  name: NEWARK CITY
+  order: '0'
+  priority: '0'
+  rate: '6.625'
+  shipping: '1'
+  state: NJ
+wootax/23548:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '07106'
+    location_type: postcode
+  name: NEWARK CITY
+  order: '0'
+  priority: '0'
+  rate: '6.625'
+  shipping: '1'
+  state: NJ
+wootax/23549:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '07107'
+    location_type: postcode
+  name: NEWARK CITY
+  order: '0'
+  priority: '0'
+  rate: '6.625'
+  shipping: '1'
+  state: NJ
+wootax/23550:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: 07108
+    location_type: postcode
+  name: NEWARK CITY
+  order: '0'
+  priority: '0'
+  rate: '6.625'
+  shipping: '1'
+  state: NJ
+wootax/23551:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: 07109
+    location_type: postcode
+  name: BELLEVILLE CITY
+  order: '0'
+  priority: '0'
+  rate: '6.625'
+  shipping: '1'
+  state: NJ
+wootax/23552:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '07110'
+    location_type: postcode
+  name: NUTLEY TOWNSHIP
+  order: '0'
+  priority: '0'
+  rate: '6.625'
+  shipping: '1'
+  state: NJ
+wootax/23553:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '07111'
+    location_type: postcode
+  name: IRVINGTON
+  order: '0'
+  priority: '0'
+  rate: '6.625'
+  shipping: '1'
+  state: NJ
+wootax/23554:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '07112'
+    location_type: postcode
+  name: NEWARK CITY
+  order: '0'
+  priority: '0'
+  rate: '6.625'
+  shipping: '1'
+  state: NJ
+wootax/23555:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '07114'
+    location_type: postcode
+  name: NEWARK CITY
+  order: '0'
+  priority: '0'
+  rate: '6.625'
+  shipping: '1'
+  state: NJ
+wootax/23556:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '07175'
+    location_type: postcode
+  name: NEWARK CITY
+  order: '0'
+  priority: '0'
+  rate: '6.625'
+  shipping: '1'
+  state: NJ
+wootax/23557:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '07201'
+    location_type: postcode
+  name: 'ELIZABETH '
+  order: '0'
+  priority: '0'
+  rate: '6.625'
+  shipping: '1'
+  state: NJ
+wootax/23558:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '07202'
+    location_type: postcode
+  name: 'ELIZABETH '
+  order: '0'
+  priority: '0'
+  rate: '6.625'
+  shipping: '1'
+  state: NJ
+wootax/23559:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '07203'
+    location_type: postcode
+  name: ROSELLE
+  order: '0'
+  priority: '0'
+  rate: '6.625'
+  shipping: '1'
+  state: NJ
+wootax/23560:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '07204'
+    location_type: postcode
+  name: ROSELLE PARK
+  order: '0'
+  priority: '0'
+  rate: '6.625'
+  shipping: '1'
+  state: NJ
+wootax/23561:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '07205'
+    location_type: postcode
+  name: HILLSIDE
+  order: '0'
+  priority: '0'
+  rate: '6.625'
+  shipping: '1'
+  state: NJ
+wootax/23562:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '07206'
+    location_type: postcode
+  name: 'ELIZABETH '
+  order: '0'
+  priority: '0'
+  rate: '6.625'
+  shipping: '1'
+  state: NJ
+wootax/23563:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '07207'
+    location_type: postcode
+  name: 'ELIZABETH '
+  order: '0'
+  priority: '0'
+  rate: '6.625'
+  shipping: '1'
+  state: NJ
+wootax/23564:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: 07208
+    location_type: postcode
+  name: 'ELIZABETH '
+  order: '0'
+  priority: '0'
+  rate: '6.625'
+  shipping: '1'
+  state: NJ
+wootax/23565:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '07302'
+    location_type: postcode
+  name: JERSEY CITY
+  order: '0'
+  priority: '0'
+  rate: '6.625'
+  shipping: '1'
+  state: NJ
+wootax/23566:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '07303'
+    location_type: postcode
+  name: JERSEY CITY
+  order: '0'
+  priority: '0'
+  rate: '6.625'
+  shipping: '1'
+  state: NJ
+wootax/23567:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '07304'
+    location_type: postcode
+  name: JERSEY CITY
+  order: '0'
+  priority: '0'
+  rate: '6.625'
+  shipping: '1'
+  state: NJ
+wootax/23568:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '07305'
+    location_type: postcode
+  name: JERSEY CITY
+  order: '0'
+  priority: '0'
+  rate: '6.625'
+  shipping: '1'
+  state: NJ
+wootax/23569:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '07306'
+    location_type: postcode
+  name: JERSEY CITY
+  order: '0'
+  priority: '0'
+  rate: '6.625'
+  shipping: '1'
+  state: NJ
+wootax/23570:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '07307'
+    location_type: postcode
+  name: JERSEY CITY
+  order: '0'
+  priority: '0'
+  rate: '6.625'
+  shipping: '1'
+  state: NJ
+wootax/23571:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '07310'
+    location_type: postcode
+  name: JERSEY CITY
+  order: '0'
+  priority: '0'
+  rate: '6.625'
+  shipping: '1'
+  state: NJ
+wootax/23572:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '07311'
+    location_type: postcode
+  name: JERSEY CITY
+  order: '0'
+  priority: '0'
+  rate: '6.625'
+  shipping: '1'
+  state: NJ
+wootax/23573:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: 07395
+    location_type: postcode
+  name: JERSEY CITY
+  order: '0'
+  priority: '0'
+  rate: '6.625'
+  shipping: '1'
+  state: NJ
+wootax/23574:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: 07399
+    location_type: postcode
+  name: JERSEY CITY
+  order: '0'
+  priority: '0'
+  rate: '6.625'
+  shipping: '1'
+  state: NJ
+wootax/23575:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '07401'
+    location_type: postcode
+  name: ALLENDALE CITY
+  order: '0'
+  priority: '0'
+  rate: '6.625'
+  shipping: '1'
+  state: NJ
+wootax/23576:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '07403'
+    location_type: postcode
+  name: BLOOMINGDALE CITY
+  order: '0'
+  priority: '0'
+  rate: '6.625'
+  shipping: '1'
+  state: NJ
+wootax/23577:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '07405'
+    location_type: postcode
+  name: BUTLER CITY
+  order: '0'
+  priority: '0'
+  rate: '6.625'
+  shipping: '1'
+  state: NJ
+wootax/23578:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '07407'
+    location_type: postcode
+  name: ELMWOOD PARK
+  order: '0'
+  priority: '0'
+  rate: '6.625'
+  shipping: '1'
+  state: NJ
+wootax/23579:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '07410'
+    location_type: postcode
+  name: FAIR LAWN
+  order: '0'
+  priority: '0'
+  rate: '6.625'
+  shipping: '1'
+  state: NJ
+wootax/23580:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '07416'
+    location_type: postcode
+  name: FRANKLIN BOROUGH
+  order: '0'
+  priority: '0'
+  rate: '6.625'
+  shipping: '1'
+  state: NJ
+wootax/23581:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '07417'
+    location_type: postcode
+  name: FRANKLIN LAKES BOROUGH
+  order: '0'
+  priority: '0'
+  rate: '6.625'
+  shipping: '1'
+  state: NJ
+wootax/23582:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: 07418
+    location_type: postcode
+  name: 'VERNON TOWNSHIP '
+  order: '0'
+  priority: '0'
+  rate: '6.625'
+  shipping: '1'
+  state: NJ
+wootax/23583:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: 07419
+    location_type: postcode
+  name: HARDYSTON TOWNSHIP
+  order: '0'
+  priority: '0'
+  rate: '6.625'
+  shipping: '1'
+  state: NJ
+wootax/23584:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '07420'
+    location_type: postcode
+  name: WANAQUE
+  order: '0'
+  priority: '0'
+  rate: '6.625'
+  shipping: '1'
+  state: NJ
+wootax/23585:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '07421'
+    location_type: postcode
+  name: 'WEST MILFORD '
+  order: '0'
+  priority: '0'
+  rate: '6.625'
+  shipping: '1'
+  state: NJ
+wootax/23586:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '07422'
+    location_type: postcode
+  name: 'VERNON TOWNSHIP '
+  order: '0'
+  priority: '0'
+  rate: '6.625'
+  shipping: '1'
+  state: NJ
+wootax/23587:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '07423'
+    location_type: postcode
+  name: HO HO KUS
+  order: '0'
+  priority: '0'
+  rate: '6.625'
+  shipping: '1'
+  state: NJ
+wootax/23588:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '07424'
+    location_type: postcode
+  name: LITTLE FALLS
+  order: '0'
+  priority: '0'
+  rate: '6.625'
+  shipping: '1'
+  state: NJ
+wootax/23589:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: 07428
+    location_type: postcode
+  name: 'VERNON TOWNSHIP '
+  order: '0'
+  priority: '0'
+  rate: '6.625'
+  shipping: '1'
+  state: NJ
+wootax/23590:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '07430'
+    location_type: postcode
+  name: MAHWAH TOWNSHIP
+  order: '0'
+  priority: '0'
+  rate: '6.625'
+  shipping: '1'
+  state: NJ
+wootax/23591:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '07432'
+    location_type: postcode
+  name: MIDLAND PARK
+  order: '0'
+  priority: '0'
+  rate: '6.625'
+  shipping: '1'
+  state: NJ
+wootax/23592:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '07435'
+    location_type: postcode
+  name: 'WEST MILFORD '
+  order: '0'
+  priority: '0'
+  rate: '6.625'
+  shipping: '1'
+  state: NJ
+wootax/23593:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '07436'
+    location_type: postcode
+  name: OAKLAND BOROUGH
+  order: '0'
+  priority: '0'
+  rate: '6.625'
+  shipping: '1'
+  state: NJ
+wootax/23594:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: 07438
+    location_type: postcode
+  name: JEFFERSON TOWNSHIP
+  order: '0'
+  priority: '0'
+  rate: '6.625'
+  shipping: '1'
+  state: NJ
+wootax/23595:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: 07439
+    location_type: postcode
+  name: OGDENSBURG BOROUGH
+  order: '0'
+  priority: '0'
+  rate: '6.625'
+  shipping: '1'
+  state: NJ
+wootax/23596:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '07440'
+    location_type: postcode
+  name: PEQUANNOCK TOWNSHIP
+  order: '0'
+  priority: '0'
+  rate: '6.625'
+  shipping: '1'
+  state: NJ
+wootax/23597:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '07442'
+    location_type: postcode
+  name: POMPTON LAKES
+  order: '0'
+  priority: '0'
+  rate: '6.625'
+  shipping: '1'
+  state: NJ
+wootax/23598:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '07444'
+    location_type: postcode
+  name: PEQUANNOCK TOWNSHIP
+  order: '0'
+  priority: '0'
+  rate: '6.625'
+  shipping: '1'
+  state: NJ
+wootax/23599:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '07446'
+    location_type: postcode
+  name: RAMSEY
+  order: '0'
+  priority: '0'
+  rate: '6.625'
+  shipping: '1'
+  state: NJ
+wootax/23600:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '07450'
+    location_type: postcode
+  name: RIDGEWOOD
+  order: '0'
+  priority: '0'
+  rate: '6.625'
+  shipping: '1'
+  state: NJ
+wootax/23601:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '07451'
+    location_type: postcode
+  name: RIDGEWOOD
+  order: '0'
+  priority: '0'
+  rate: '6.625'
+  shipping: '1'
+  state: NJ
+wootax/23602:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '07452'
+    location_type: postcode
+  name: GLEN ROCK BOROUGH
+  order: '0'
+  priority: '0'
+  rate: '6.625'
+  shipping: '1'
+  state: NJ
+wootax/23603:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '07456'
+    location_type: postcode
+  name: RINGWOOD
+  order: '0'
+  priority: '0'
+  rate: '6.625'
+  shipping: '1'
+  state: NJ
+wootax/23604:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '07457'
+    location_type: postcode
+  name: RIVERDALE
+  order: '0'
+  priority: '0'
+  rate: '6.625'
+  shipping: '1'
+  state: NJ
+wootax/23605:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: 07458
+    location_type: postcode
+  name: 'UPPER SADDLE RIVER '
+  order: '0'
+  priority: '0'
+  rate: '6.625'
+  shipping: '1'
+  state: NJ
+wootax/23606:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '07460'
+    location_type: postcode
+  name: HARDYSTON TOWNSHIP
+  order: '0'
+  priority: '0'
+  rate: '6.625'
+  shipping: '1'
+  state: NJ
+wootax/23607:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '07461'
+    location_type: postcode
+  name: 'WANTAGE TOWNSHIP '
+  order: '0'
+  priority: '0'
+  rate: '6.625'
+  shipping: '1'
+  state: NJ
+wootax/23608:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '07462'
+    location_type: postcode
+  name: 'VERNON TOWNSHIP '
+  order: '0'
+  priority: '0'
+  rate: '6.625'
+  shipping: '1'
+  state: NJ
+wootax/23609:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '07463'
+    location_type: postcode
+  name: WALDWICK
+  order: '0'
+  priority: '0'
+  rate: '6.625'
+  shipping: '1'
+  state: NJ
+wootax/23610:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '07465'
+    location_type: postcode
+  name: WANAQUE
+  order: '0'
+  priority: '0'
+  rate: '6.625'
+  shipping: '1'
+  state: NJ
+wootax/23611:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '07470'
+    location_type: postcode
+  name: 'WAYNE '
+  order: '0'
+  priority: '0'
+  rate: '6.625'
+  shipping: '1'
+  state: NJ
+wootax/23612:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '07474'
+    location_type: postcode
+  name: 'WAYNE '
+  order: '0'
+  priority: '0'
+  rate: '6.625'
+  shipping: '1'
+  state: NJ
+wootax/23613:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: 07480
+    location_type: postcode
+  name: 'WEST MILFORD '
+  order: '0'
+  priority: '0'
+  rate: '6.625'
+  shipping: '1'
+  state: NJ
+wootax/23614:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: 07481
+    location_type: postcode
+  name: WYCKOFF
+  order: '0'
+  priority: '0'
+  rate: '6.625'
+  shipping: '1'
+  state: NJ
+wootax/23615:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: 07495
+    location_type: postcode
+  name: MAHWAH TOWNSHIP
+  order: '0'
+  priority: '0'
+  rate: '6.625'
+  shipping: '1'
+  state: NJ
+wootax/23616:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '07501'
+    location_type: postcode
+  name: PATERSON CITY
+  order: '0'
+  priority: '0'
+  rate: '6.625'
+  shipping: '1'
+  state: NJ
+wootax/23617:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '07502'
+    location_type: postcode
+  name: PATERSON CITY
+  order: '0'
+  priority: '0'
+  rate: '6.625'
+  shipping: '1'
+  state: NJ
+wootax/23618:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '07503'
+    location_type: postcode
+  name: PATERSON CITY
+  order: '0'
+  priority: '0'
+  rate: '6.625'
+  shipping: '1'
+  state: NJ
+wootax/23619:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '07504'
+    location_type: postcode
+  name: PATERSON CITY
+  order: '0'
+  priority: '0'
+  rate: '6.625'
+  shipping: '1'
+  state: NJ
+wootax/23620:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '07505'
+    location_type: postcode
+  name: PATERSON CITY
+  order: '0'
+  priority: '0'
+  rate: '6.625'
+  shipping: '1'
+  state: NJ
+wootax/23621:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '07506'
+    location_type: postcode
+  name: HAWTHORNE
+  order: '0'
+  priority: '0'
+  rate: '6.625'
+  shipping: '1'
+  state: NJ
+wootax/23622:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '07507'
+    location_type: postcode
+  name: HAWTHORNE
+  order: '0'
+  priority: '0'
+  rate: '6.625'
+  shipping: '1'
+  state: NJ
+wootax/23623:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: 07508
+    location_type: postcode
+  name: HALEDON  BOROUGH
+  order: '0'
+  priority: '0'
+  rate: '6.625'
+  shipping: '1'
+  state: NJ
+wootax/23624:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: 07509
+    location_type: postcode
+  name: PATERSON CITY
+  order: '0'
+  priority: '0'
+  rate: '6.625'
+  shipping: '1'
+  state: NJ
+wootax/23625:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '07510'
+    location_type: postcode
+  name: PATERSON CITY
+  order: '0'
+  priority: '0'
+  rate: '6.625'
+  shipping: '1'
+  state: NJ
+wootax/23626:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '07511'
+    location_type: postcode
+  name: 'TOTOWA '
+  order: '0'
+  priority: '0'
+  rate: '6.625'
+  shipping: '1'
+  state: NJ
+wootax/23627:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '07512'
+    location_type: postcode
+  name: 'TOTOWA '
+  order: '0'
+  priority: '0'
+  rate: '6.625'
+  shipping: '1'
+  state: NJ
+wootax/23628:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '07513'
+    location_type: postcode
+  name: PATERSON CITY
+  order: '0'
+  priority: '0'
+  rate: '6.625'
+  shipping: '1'
+  state: NJ
+wootax/23629:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '07514'
+    location_type: postcode
+  name: PATERSON CITY
+  order: '0'
+  priority: '0'
+  rate: '6.625'
+  shipping: '1'
+  state: NJ
+wootax/23630:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '07522'
+    location_type: postcode
+  name: PATERSON CITY
+  order: '0'
+  priority: '0'
+  rate: '6.625'
+  shipping: '1'
+  state: NJ
+wootax/23631:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '07524'
+    location_type: postcode
+  name: PATERSON CITY
+  order: '0'
+  priority: '0'
+  rate: '6.625'
+  shipping: '1'
+  state: NJ
+wootax/23632:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: 07538
+    location_type: postcode
+  name: HALEDON  BOROUGH
+  order: '0'
+  priority: '0'
+  rate: '6.625'
+  shipping: '1'
+  state: NJ
+wootax/23633:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '07543'
+    location_type: postcode
+  name: PATERSON CITY
+  order: '0'
+  priority: '0'
+  rate: '6.625'
+  shipping: '1'
+  state: NJ
+wootax/23634:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '07544'
+    location_type: postcode
+  name: PATERSON CITY
+  order: '0'
+  priority: '0'
+  rate: '6.625'
+  shipping: '1'
+  state: NJ
+wootax/23635:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '07601'
+    location_type: postcode
+  name: HACKENSACK
+  order: '0'
+  priority: '0'
+  rate: '6.625'
+  shipping: '1'
+  state: NJ
+wootax/23636:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '07602'
+    location_type: postcode
+  name: HACKENSACK
+  order: '0'
+  priority: '0'
+  rate: '6.625'
+  shipping: '1'
+  state: NJ
+wootax/23637:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '07603'
+    location_type: postcode
+  name: BOGOTA CITY, NJ
+  order: '0'
+  priority: '0'
+  rate: '6.625'
+  shipping: '1'
+  state: NJ
+wootax/23638:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '07604'
+    location_type: postcode
+  name: HASBROUCK HEIGHTS
+  order: '0'
+  priority: '0'
+  rate: '6.625'
+  shipping: '1'
+  state: NJ
+wootax/23639:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '07605'
+    location_type: postcode
+  name: LEONIA
+  order: '0'
+  priority: '0'
+  rate: '6.625'
+  shipping: '1'
+  state: NJ
+wootax/23640:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '07606'
+    location_type: postcode
+  name: SOUTH HACKENSACK
+  order: '0'
+  priority: '0'
+  rate: '6.625'
+  shipping: '1'
+  state: NJ
+wootax/23641:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '07607'
+    location_type: postcode
+  name: MAYWOOD BOROUGH
+  order: '0'
+  priority: '0'
+  rate: '6.625'
+  shipping: '1'
+  state: NJ
+wootax/23642:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: 07608
+    location_type: postcode
+  name: TETERBORO
+  order: '0'
+  priority: '0'
+  rate: '6.625'
+  shipping: '1'
+  state: NJ
+wootax/23643:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '07620'
+    location_type: postcode
+  name: ALPINE CITY
+  order: '0'
+  priority: '0'
+  rate: '6.625'
+  shipping: '1'
+  state: NJ
+wootax/23644:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '07621'
+    location_type: postcode
+  name: BERGENFIELD CITY
+  order: '0'
+  priority: '0'
+  rate: '6.625'
+  shipping: '1'
+  state: NJ
+wootax/23645:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '07624'
+    location_type: postcode
+  name: CLOSTER CITY
+  order: '0'
+  priority: '0'
+  rate: '6.625'
+  shipping: '1'
+  state: NJ
+wootax/23646:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '07626'
+    location_type: postcode
+  name: CRESSKILL CITY
+  order: '0'
+  priority: '0'
+  rate: '6.625'
+  shipping: '1'
+  state: NJ
+wootax/23647:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '07627'
+    location_type: postcode
+  name: DEMAREST
+  order: '0'
+  priority: '0'
+  rate: '6.625'
+  shipping: '1'
+  state: NJ
+wootax/23648:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: 07628
+    location_type: postcode
+  name: DUMONT BOROUGH
+  order: '0'
+  priority: '0'
+  rate: '6.625'
+  shipping: '1'
+  state: NJ
+wootax/23649:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '07630'
+    location_type: postcode
+  name: EMERSON
+  order: '0'
+  priority: '0'
+  rate: '6.625'
+  shipping: '1'
+  state: NJ
+wootax/23650:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '07631'
+    location_type: postcode
+  name: ENGLEWOOD CITY
+  order: '0'
+  priority: '0'
+  rate: '6.625'
+  shipping: '1'
+  state: NJ
+wootax/23651:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '07632'
+    location_type: postcode
+  name: ENGLEWOOD CLIFFS
+  order: '0'
+  priority: '0'
+  rate: '6.625'
+  shipping: '1'
+  state: NJ
+wootax/23652:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '07640'
+    location_type: postcode
+  name: HARRINGTON PARK
+  order: '0'
+  priority: '0'
+  rate: '6.625'
+  shipping: '1'
+  state: NJ
+wootax/23653:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '07641'
+    location_type: postcode
+  name: HAWORTH
+  order: '0'
+  priority: '0'
+  rate: '6.625'
+  shipping: '1'
+  state: NJ
+wootax/23654:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '07642'
+    location_type: postcode
+  name: HILLSDALE
+  order: '0'
+  priority: '0'
+  rate: '6.625'
+  shipping: '1'
+  state: NJ
+wootax/23655:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '07643'
+    location_type: postcode
+  name: LITTLE FERRY
+  order: '0'
+  priority: '0'
+  rate: '6.625'
+  shipping: '1'
+  state: NJ
+wootax/23656:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '07644'
+    location_type: postcode
+  name: LODI
+  order: '0'
+  priority: '0'
+  rate: '6.625'
+  shipping: '1'
+  state: NJ
+wootax/23657:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '07645'
+    location_type: postcode
+  name: MONTVALE
+  order: '0'
+  priority: '0'
+  rate: '6.625'
+  shipping: '1'
+  state: NJ
+wootax/23658:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '07646'
+    location_type: postcode
+  name: NEW MILFORD BOROUGH
+  order: '0'
+  priority: '0'
+  rate: '6.625'
+  shipping: '1'
+  state: NJ
+wootax/23659:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '07647'
+    location_type: postcode
+  name: NORTHVALE BOROUGH
+  order: '0'
+  priority: '0'
+  rate: '6.625'
+  shipping: '1'
+  state: NJ
+wootax/23660:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: 07648
+    location_type: postcode
+  name: NORWOOD BOROUGH
+  order: '0'
+  priority: '0'
+  rate: '6.625'
+  shipping: '1'
+  state: NJ
+wootax/23661:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: 07649
+    location_type: postcode
+  name: ORADELL BOROUGH
+  order: '0'
+  priority: '0'
+  rate: '6.625'
+  shipping: '1'
+  state: NJ
+wootax/23662:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '07650'
+    location_type: postcode
+  name: PALISADES PARK BOROUGH
+  order: '0'
+  priority: '0'
+  rate: '6.625'
+  shipping: '1'
+  state: NJ
+wootax/23663:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '07652'
+    location_type: postcode
+  name: PARAMUS BOROUGH
+  order: '0'
+  priority: '0'
+  rate: '6.625'
+  shipping: '1'
+  state: NJ
+wootax/23664:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '07653'
+    location_type: postcode
+  name: PARAMUS BOROUGH
+  order: '0'
+  priority: '0'
+  rate: '6.625'
+  shipping: '1'
+  state: NJ
+wootax/23665:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '07656'
+    location_type: postcode
+  name: PARK RIDGE BOROUGH
+  order: '0'
+  priority: '0'
+  rate: '6.625'
+  shipping: '1'
+  state: NJ
+wootax/23666:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '07657'
+    location_type: postcode
+  name: RIDGEFIELD
+  order: '0'
+  priority: '0'
+  rate: '6.625'
+  shipping: '1'
+  state: NJ
+wootax/23667:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '07660'
+    location_type: postcode
+  name: RIDGEFIELD PARK
+  order: '0'
+  priority: '0'
+  rate: '6.625'
+  shipping: '1'
+  state: NJ
+wootax/23668:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '07661'
+    location_type: postcode
+  name: RIVER EDGE
+  order: '0'
+  priority: '0'
+  rate: '6.625'
+  shipping: '1'
+  state: NJ
+wootax/23669:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '07662'
+    location_type: postcode
+  name: ROCHELLE PARK
+  order: '0'
+  priority: '0'
+  rate: '6.625'
+  shipping: '1'
+  state: NJ
+wootax/23670:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '07663'
+    location_type: postcode
+  name: SADDLE BROOK
+  order: '0'
+  priority: '0'
+  rate: '6.625'
+  shipping: '1'
+  state: NJ
+wootax/23671:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '07666'
+    location_type: postcode
+  name: 'TEANECK '
+  order: '0'
+  priority: '0'
+  rate: '6.625'
+  shipping: '1'
+  state: NJ
+wootax/23672:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '07670'
+    location_type: postcode
+  name: TENAFLY
+  order: '0'
+  priority: '0'
+  rate: '6.625'
+  shipping: '1'
+  state: NJ
+wootax/23673:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '07675'
+    location_type: postcode
+  name: 'WESTWOOD '
+  order: '0'
+  priority: '0'
+  rate: '6.625'
+  shipping: '1'
+  state: NJ
+wootax/23674:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '07676'
+    location_type: postcode
+  name: WASHINGTON TOWNSHIP (BERGEN COUNTY)
+  order: '0'
+  priority: '0'
+  rate: '6.625'
+  shipping: '1'
+  state: NJ
+wootax/23675:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '07677'
+    location_type: postcode
+  name: 'WOODCLIFF LAKE '
+  order: '0'
+  priority: '0'
+  rate: '6.625'
+  shipping: '1'
+  state: NJ
+wootax/23676:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: 07699
+    location_type: postcode
+  name: TETERBORO
+  order: '0'
+  priority: '0'
+  rate: '6.625'
+  shipping: '1'
+  state: NJ
+wootax/23677:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '07701'
+    location_type: postcode
+  name: RED BANK
+  order: '0'
+  priority: '0'
+  rate: '6.625'
+  shipping: '1'
+  state: NJ
+wootax/23678:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '07702'
+    location_type: postcode
+  name: SHREWSBURY
+  order: '0'
+  priority: '0'
+  rate: '6.625'
+  shipping: '1'
+  state: NJ
+wootax/23679:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '07703'
+    location_type: postcode
+  name: OCEANPORT BOROUGH
+  order: '0'
+  priority: '0'
+  rate: '6.625'
+  shipping: '1'
+  state: NJ
+wootax/23680:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '07704'
+    location_type: postcode
+  name: FAIR HAVEN
+  order: '0'
+  priority: '0'
+  rate: '6.625'
+  shipping: '1'
+  state: NJ
+wootax/23681:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: 07709
+    location_type: postcode
+  name: 'ALLENHURST '
+  order: '0'
+  priority: '0'
+  rate: '6.625'
+  shipping: '1'
+  state: NJ
+wootax/23682:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '07710'
+    location_type: postcode
+  name: HOWELL TOWNSHIP
+  order: '0'
+  priority: '0'
+  rate: '6.625'
+  shipping: '1'
+  state: NJ
+wootax/23683:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '07711'
+    location_type: postcode
+  name: 'ALLENHURST '
+  order: '0'
+  priority: '0'
+  rate: '6.625'
+  shipping: '1'
+  state: NJ
+wootax/23684:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '07712'
+    location_type: postcode
+  name: ASBURY PARK CITY
+  order: '0'
+  priority: '0'
+  rate: '6.625'
+  shipping: '1'
+  state: NJ
+wootax/23685:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '07716'
+    location_type: postcode
+  name: ATLANTIC HIGHLANDS
+  order: '0'
+  priority: '0'
+  rate: '6.625'
+  shipping: '1'
+  state: NJ
+wootax/23686:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '07717'
+    location_type: postcode
+  name: AVON BY THE SEA CITY
+  order: '0'
+  priority: '0'
+  rate: '6.625'
+  shipping: '1'
+  state: NJ
+wootax/23687:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: 07718
+    location_type: postcode
+  name: MIDDLETOWN TOWNSHIP
+  order: '0'
+  priority: '0'
+  rate: '6.625'
+  shipping: '1'
+  state: NJ
+wootax/23688:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: 07719
+    location_type: postcode
+  name: 'WALL TOWNSHIP '
+  order: '0'
+  priority: '0'
+  rate: '6.625'
+  shipping: '1'
+  state: NJ
+wootax/23689:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '07720'
+    location_type: postcode
+  name: BRADLEY BEACH CITY
+  order: '0'
+  priority: '0'
+  rate: '6.625'
+  shipping: '1'
+  state: NJ
+wootax/23690:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '07721'
+    location_type: postcode
+  name: ABERDEEN TOWNSHIP
+  order: '0'
+  priority: '0'
+  rate: '6.625'
+  shipping: '1'
+  state: NJ
+wootax/23691:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '07722'
+    location_type: postcode
+  name: COLTS NECK TOWNSHIP
+  order: '0'
+  priority: '0'
+  rate: '6.625'
+  shipping: '1'
+  state: NJ
+wootax/23692:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '07723'
+    location_type: postcode
+  name: DEAL CITY, NJ
+  order: '0'
+  priority: '0'
+  rate: '6.625'
+  shipping: '1'
+  state: NJ
+wootax/23693:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '07724'
+    location_type: postcode
+  name: EATONTOWN
+  order: '0'
+  priority: '0'
+  rate: '6.625'
+  shipping: '1'
+  state: NJ
+wootax/23694:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '07726'
+    location_type: postcode
+  name: MANALAPAN TOWNSHIP
+  order: '0'
+  priority: '0'
+  rate: '6.625'
+  shipping: '1'
+  state: NJ
+wootax/23695:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '07727'
+    location_type: postcode
+  name: HOWELL TOWNSHIP
+  order: '0'
+  priority: '0'
+  rate: '6.625'
+  shipping: '1'
+  state: NJ
+wootax/23696:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: 07728
+    location_type: postcode
+  name: FREEHOLD TOWNSHIP
+  order: '0'
+  priority: '0'
+  rate: '6.625'
+  shipping: '1'
+  state: NJ
+wootax/23697:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '07730'
+    location_type: postcode
+  name: HAZLET
+  order: '0'
+  priority: '0'
+  rate: '6.625'
+  shipping: '1'
+  state: NJ
+wootax/23698:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '07731'
+    location_type: postcode
+  name: HOWELL TOWNSHIP
+  order: '0'
+  priority: '0'
+  rate: '6.625'
+  shipping: '1'
+  state: NJ
+wootax/23699:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '07732'
+    location_type: postcode
+  name: HIGHLANDS
+  order: '0'
+  priority: '0'
+  rate: '6.625'
+  shipping: '1'
+  state: NJ
+wootax/23700:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '07733'
+    location_type: postcode
+  name: HOLMDEL TOWNSHIP
+  order: '0'
+  priority: '0'
+  rate: '6.625'
+  shipping: '1'
+  state: NJ
+wootax/23701:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '07734'
+    location_type: postcode
+  name: KEANSBURG
+  order: '0'
+  priority: '0'
+  rate: '6.625'
+  shipping: '1'
+  state: NJ
+wootax/23702:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '07735'
+    location_type: postcode
+  name: KEYPORT
+  order: '0'
+  priority: '0'
+  rate: '6.625'
+  shipping: '1'
+  state: NJ
+wootax/23703:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '07737'
+    location_type: postcode
+  name: MIDDLETOWN TOWNSHIP
+  order: '0'
+  priority: '0'
+  rate: '6.625'
+  shipping: '1'
+  state: NJ
+wootax/23704:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: 07738
+    location_type: postcode
+  name: MIDDLETOWN TOWNSHIP
+  order: '0'
+  priority: '0'
+  rate: '6.625'
+  shipping: '1'
+  state: NJ
+wootax/23705:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: 07739
+    location_type: postcode
+  name: LITTLE SILVER
+  order: '0'
+  priority: '0'
+  rate: '6.625'
+  shipping: '1'
+  state: NJ
+wootax/23706:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '07740'
+    location_type: postcode
+  name: LONG BRANCH
+  order: '0'
+  priority: '0'
+  rate: '6.625'
+  shipping: '1'
+  state: NJ
+wootax/23707:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '07746'
+    location_type: postcode
+  name: MARLBORO TOWNSHIP
+  order: '0'
+  priority: '0'
+  rate: '6.625'
+  shipping: '1'
+  state: NJ
+wootax/23708:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '07747'
+    location_type: postcode
+  name: MATAWAN BOROUGH
+  order: '0'
+  priority: '0'
+  rate: '6.625'
+  shipping: '1'
+  state: NJ
+wootax/23709:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: 07748
+    location_type: postcode
+  name: MIDDLETOWN TOWNSHIP
+  order: '0'
+  priority: '0'
+  rate: '6.625'
+  shipping: '1'
+  state: NJ
+wootax/23710:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '07750'
+    location_type: postcode
+  name: MONMOUTH BEACH
+  order: '0'
+  priority: '0'
+  rate: '6.625'
+  shipping: '1'
+  state: NJ
+wootax/23711:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '07751'
+    location_type: postcode
+  name: MARLBORO TOWNSHIP
+  order: '0'
+  priority: '0'
+  rate: '6.625'
+  shipping: '1'
+  state: NJ
+wootax/23712:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '07752'
+    location_type: postcode
+  name: ATLANTIC HIGHLANDS
+  order: '0'
+  priority: '0'
+  rate: '6.625'
+  shipping: '1'
+  state: NJ
+wootax/23713:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '07753'
+    location_type: postcode
+  name: NEPTUNE TOWNSHIP
+  order: '0'
+  priority: '0'
+  rate: '6.625'
+  shipping: '1'
+  state: NJ
+wootax/23714:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '07754'
+    location_type: postcode
+  name: NEPTUNE TOWNSHIP
+  order: '0'
+  priority: '0'
+  rate: '6.625'
+  shipping: '1'
+  state: NJ
+wootax/23715:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '07755'
+    location_type: postcode
+  name: OCEAN TOWNSHIP (MONMOUTH COUNTY)
+  order: '0'
+  priority: '0'
+  rate: '6.625'
+  shipping: '1'
+  state: NJ
+wootax/23716:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '07756'
+    location_type: postcode
+  name: NEPTUNE TOWNSHIP
+  order: '0'
+  priority: '0'
+  rate: '6.625'
+  shipping: '1'
+  state: NJ
+wootax/23717:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '07757'
+    location_type: postcode
+  name: OCEANPORT BOROUGH
+  order: '0'
+  priority: '0'
+  rate: '6.625'
+  shipping: '1'
+  state: NJ
+wootax/23718:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: 07758
+    location_type: postcode
+  name: MIDDLETOWN TOWNSHIP
+  order: '0'
+  priority: '0'
+  rate: '6.625'
+  shipping: '1'
+  state: NJ
+wootax/23719:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '07760'
+    location_type: postcode
+  name: RUMSON
+  order: '0'
+  priority: '0'
+  rate: '6.625'
+  shipping: '1'
+  state: NJ
+wootax/23720:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '07762'
+    location_type: postcode
+  name: SPRING LAKE HEIGHTS
+  order: '0'
+  priority: '0'
+  rate: '6.625'
+  shipping: '1'
+  state: NJ
+wootax/23721:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '07763'
+    location_type: postcode
+  name: MANALAPAN TOWNSHIP
+  order: '0'
+  priority: '0'
+  rate: '6.625'
+  shipping: '1'
+  state: NJ
+wootax/23722:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '07764'
+    location_type: postcode
+  name: WEST LONG BRANCH
+  order: '0'
+  priority: '0'
+  rate: '6.625'
+  shipping: '1'
+  state: NJ
+wootax/23723:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '07765'
+    location_type: postcode
+  name: MARLBORO TOWNSHIP
+  order: '0'
+  priority: '0'
+  rate: '6.625'
+  shipping: '1'
+  state: NJ
+wootax/23724:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: 07799
+    location_type: postcode
+  name: EATONTOWN
+  order: '0'
+  priority: '0'
+  rate: '6.625'
+  shipping: '1'
+  state: NJ
+wootax/23725:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: 07801
+    location_type: postcode
+  name: DOVER
+  order: '0'
+  priority: '0'
+  rate: '6.625'
+  shipping: '1'
+  state: NJ
+wootax/23726:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: 07802
+    location_type: postcode
+  name: DOVER
+  order: '0'
+  priority: '0'
+  rate: '6.625'
+  shipping: '1'
+  state: NJ
+wootax/23727:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: 07803
+    location_type: postcode
+  name: MINE HALL TOWNSHIP
+  order: '0'
+  priority: '0'
+  rate: '6.625'
+  shipping: '1'
+  state: NJ
+wootax/23728:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: 07806
+    location_type: postcode
+  name: ROCKAWAY TOWNSHIP
+  order: '0'
+  priority: '0'
+  rate: '6.625'
+  shipping: '1'
+  state: NJ
+wootax/23729:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: 07820
+    location_type: postcode
+  name: ALLAMUCHY TOWNSHIP
+  order: '0'
+  priority: '0'
+  rate: '6.625'
+  shipping: '1'
+  state: NJ
+wootax/23730:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: 07821
+    location_type: postcode
+  name: BYRAM TOWNSHIP
+  order: '0'
+  priority: '0'
+  rate: '6.625'
+  shipping: '1'
+  state: NJ
+wootax/23731:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: 07822
+    location_type: postcode
+  name: FRANKFORD TOWNSHIP
+  order: '0'
+  priority: '0'
+  rate: '6.625'
+  shipping: '1'
+  state: NJ
+wootax/23732:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: 07823
+    location_type: postcode
+  name: 'WHITE TOWNSHIP '
+  order: '0'
+  priority: '0'
+  rate: '6.625'
+  shipping: '1'
+  state: NJ
+wootax/23733:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: 07825
+    location_type: postcode
+  name: BLAIRSTOWN CITY
+  order: '0'
+  priority: '0'
+  rate: '6.625'
+  shipping: '1'
+  state: NJ
+wootax/23734:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: 07826
+    location_type: postcode
+  name: FRANKFORD TOWNSHIP
+  order: '0'
+  priority: '0'
+  rate: '6.625'
+  shipping: '1'
+  state: NJ
+wootax/23735:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: 07827
+    location_type: postcode
+  name: MONTAGUE TOWNSHIP
+  order: '0'
+  priority: '0'
+  rate: '6.625'
+  shipping: '1'
+  state: NJ
+wootax/23736:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: 07828
+    location_type: postcode
+  name: MOUNT OLIVE TOWNSHIP
+  order: '0'
+  priority: '0'
+  rate: '6.625'
+  shipping: '1'
+  state: NJ
+wootax/23737:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: 07829
+    location_type: postcode
+  name: 'WHITE TOWNSHIP '
+  order: '0'
+  priority: '0'
+  rate: '6.625'
+  shipping: '1'
+  state: NJ
+wootax/23738:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: 07830
+    location_type: postcode
+  name: TEWKSBURY TOWNSHIP
+  order: '0'
+  priority: '0'
+  rate: '6.625'
+  shipping: '1'
+  state: NJ
+wootax/23739:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: 07831
+    location_type: postcode
+  name: WASHINGTON TOWNSHIP (WARREN COUNTY)
+  order: '0'
+  priority: '0'
+  rate: '6.625'
+  shipping: '1'
+  state: NJ
+wootax/23740:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: 07832
+    location_type: postcode
+  name: KNOWLTON TOWNSHIP
+  order: '0'
+  priority: '0'
+  rate: '6.625'
+  shipping: '1'
+  state: NJ
+wootax/23741:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: 07833
+    location_type: postcode
+  name: KNOWLTON TOWNSHIP
+  order: '0'
+  priority: '0'
+  rate: '6.625'
+  shipping: '1'
+  state: NJ
+wootax/23742:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: 07834
+    location_type: postcode
+  name: DENVILLE TOWNSHIP CITY
+  order: '0'
+  priority: '0'
+  rate: '6.625'
+  shipping: '1'
+  state: NJ
+wootax/23743:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: 07836
+    location_type: postcode
+  name: MOUNT OLIVE TOWNSHIP
+  order: '0'
+  priority: '0'
+  rate: '6.625'
+  shipping: '1'
+  state: NJ
+wootax/23744:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: 07837
+    location_type: postcode
+  name: HOPATCONG
+  order: '0'
+  priority: '0'
+  rate: '6.625'
+  shipping: '1'
+  state: NJ
+wootax/23745:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: 07838
+    location_type: postcode
+  name: LIBERTY TOWNSHIP
+  order: '0'
+  priority: '0'
+  rate: '6.625'
+  shipping: '1'
+  state: NJ
+wootax/23746:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: 07839
+    location_type: postcode
+  name: GREEN TOWNSHIP
+  order: '0'
+  priority: '0'
+  rate: '6.625'
+  shipping: '1'
+  state: NJ
+wootax/23747:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: 07840
+    location_type: postcode
+  name: HACKETTSTOWN
+  order: '0'
+  priority: '0'
+  rate: '6.625'
+  shipping: '1'
+  state: NJ
+wootax/23748:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: 07842
+    location_type: postcode
+  name: ROCKAWAY TOWNSHIP
+  order: '0'
+  priority: '0'
+  rate: '6.625'
+  shipping: '1'
+  state: NJ
+wootax/23749:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: 07843
+    location_type: postcode
+  name: HOPATCONG
+  order: '0'
+  priority: '0'
+  rate: '6.625'
+  shipping: '1'
+  state: NJ
+wootax/23750:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: 07844
+    location_type: postcode
+  name: HOPE TOWNSHIP
+  order: '0'
+  priority: '0'
+  rate: '6.625'
+  shipping: '1'
+  state: NJ
+wootax/23751:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: 07845
+    location_type: postcode
+  name: RANDOLPH
+  order: '0'
+  priority: '0'
+  rate: '6.625'
+  shipping: '1'
+  state: NJ
+wootax/23752:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: 07846
+    location_type: postcode
+  name: FRELINGHUYSEN TOWNSHIP
+  order: '0'
+  priority: '0'
+  rate: '6.625'
+  shipping: '1'
+  state: NJ
+wootax/23753:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: 07847
+    location_type: postcode
+  name: ROXBURY TOWNSHIP
+  order: '0'
+  priority: '0'
+  rate: '6.625'
+  shipping: '1'
+  state: NJ
+wootax/23754:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: 07848
+    location_type: postcode
+  name: LAFAYETTE TOWNSHIP
+  order: '0'
+  priority: '0'
+  rate: '6.625'
+  shipping: '1'
+  state: NJ
+wootax/23755:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: 07849
+    location_type: postcode
+  name: JEFFERSON TOWNSHIP
+  order: '0'
+  priority: '0'
+  rate: '6.625'
+  shipping: '1'
+  state: NJ
+wootax/23756:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: 07850
+    location_type: postcode
+  name: ROXBURY TOWNSHIP
+  order: '0'
+  priority: '0'
+  rate: '6.625'
+  shipping: '1'
+  state: NJ
+wootax/23757:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: 07851
+    location_type: postcode
+  name: SANDYSTON TOWNSHIP
+  order: '0'
+  priority: '0'
+  rate: '6.625'
+  shipping: '1'
+  state: NJ
+wootax/23758:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: 07852
+    location_type: postcode
+  name: ROXBURY TOWNSHIP
+  order: '0'
+  priority: '0'
+  rate: '6.625'
+  shipping: '1'
+  state: NJ
+wootax/23759:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: 07853
+    location_type: postcode
+  name: WASHINGTON TOWNSHIP(MORRIS COUNTY)
+  order: '0'
+  priority: '0'
+  rate: '6.625'
+  shipping: '1'
+  state: NJ
+wootax/23760:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: 07855
+    location_type: postcode
+  name: STILLWATER TOWNSHIP
+  order: '0'
+  priority: '0'
+  rate: '6.625'
+  shipping: '1'
+  state: NJ
+wootax/23761:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: 07856
+    location_type: postcode
+  name: MOUNT ARLINGTON BOROUGH
+  order: '0'
+  priority: '0'
+  rate: '6.625'
+  shipping: '1'
+  state: NJ
+wootax/23762:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: 07857
+    location_type: postcode
+  name: NETCONG  BOROUGH
+  order: '0'
+  priority: '0'
+  rate: '6.625'
+  shipping: '1'
+  state: NJ
+wootax/23763:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: 07860
+    location_type: postcode
+  name: NEWTON TOWN
+  order: '0'
+  priority: '0'
+  rate: '6.625'
+  shipping: '1'
+  state: NJ
+wootax/23764:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: 07863
+    location_type: postcode
+  name: OXFORD TOWNSHIP
+  order: '0'
+  priority: '0'
+  rate: '6.625'
+  shipping: '1'
+  state: NJ
+wootax/23765:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: 07865
+    location_type: postcode
+  name: MANSFIELD TOWNSHIP (WARREN COUNTY)
+  order: '0'
+  priority: '0'
+  rate: '6.625'
+  shipping: '1'
+  state: NJ
+wootax/23766:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: 07866
+    location_type: postcode
+  name: ROCKAWAY TOWNSHIP
+  order: '0'
+  priority: '0'
+  rate: '6.625'
+  shipping: '1'
+  state: NJ
+wootax/23767:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: 07869
+    location_type: postcode
+  name: RANDOLPH
+  order: '0'
+  priority: '0'
+  rate: '6.625'
+  shipping: '1'
+  state: NJ
+wootax/23768:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: 07870
+    location_type: postcode
+  name: WASHINGTON TOWNSHIP(MORRIS COUNTY)
+  order: '0'
+  priority: '0'
+  rate: '6.625'
+  shipping: '1'
+  state: NJ
+wootax/23769:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: 07871
+    location_type: postcode
+  name: SPARTA TOWNSHIP
+  order: '0'
+  priority: '0'
+  rate: '6.625'
+  shipping: '1'
+  state: NJ
+wootax/23770:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: 07874
+    location_type: postcode
+  name: STANHOPE
+  order: '0'
+  priority: '0'
+  rate: '6.625'
+  shipping: '1'
+  state: NJ
+wootax/23771:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: 07875
+    location_type: postcode
+  name: STILLWATER TOWNSHIP
+  order: '0'
+  priority: '0'
+  rate: '6.625'
+  shipping: '1'
+  state: NJ
+wootax/23772:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: 07876
+    location_type: postcode
+  name: ROXBURY TOWNSHIP
+  order: '0'
+  priority: '0'
+  rate: '6.625'
+  shipping: '1'
+  state: NJ
+wootax/23773:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: 07877
+    location_type: postcode
+  name: STILLWATER TOWNSHIP
+  order: '0'
+  priority: '0'
+  rate: '6.625'
+  shipping: '1'
+  state: NJ
+wootax/23774:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: 07878
+    location_type: postcode
+  name: PARSIPPANY TROY HILLS TOWNSHIP
+  order: '0'
+  priority: '0'
+  rate: '6.625'
+  shipping: '1'
+  state: NJ
+wootax/23775:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: 07879
+    location_type: postcode
+  name: GREEN TOWNSHIP
+  order: '0'
+  priority: '0'
+  rate: '6.625'
+  shipping: '1'
+  state: NJ
+wootax/23776:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: 07880
+    location_type: postcode
+  name: INDEPENDENCE TOWNSHIP
+  order: '0'
+  priority: '0'
+  rate: '6.625'
+  shipping: '1'
+  state: NJ
+wootax/23777:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: 07881
+    location_type: postcode
+  name: WALPACK TOWNSHIP
+  order: '0'
+  priority: '0'
+  rate: '6.625'
+  shipping: '1'
+  state: NJ
+wootax/23778:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: 07882
+    location_type: postcode
+  name: 'WASHINGTON '
+  order: '0'
+  priority: '0'
+  rate: '6.625'
+  shipping: '1'
+  state: NJ
+wootax/23779:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: 07885
+    location_type: postcode
+  name: 'WHARTON '
+  order: '0'
+  priority: '0'
+  rate: '6.625'
+  shipping: '1'
+  state: NJ
+wootax/23780:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: 07890
+    location_type: postcode
+  name: 'BRANCHVILLE '
+  order: '0'
+  priority: '0'
+  rate: '6.625'
+  shipping: '1'
+  state: NJ
+wootax/23781:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: 07901
+    location_type: postcode
+  name: SUMMIT
+  order: '0'
+  priority: '0'
+  rate: '6.625'
+  shipping: '1'
+  state: NJ
+wootax/23782:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: 07902
+    location_type: postcode
+  name: SUMMIT
+  order: '0'
+  priority: '0'
+  rate: '6.625'
+  shipping: '1'
+  state: NJ
+wootax/23783:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: 07920
+    location_type: postcode
+  name: BERNARDS TOWNSHIP
+  order: '0'
+  priority: '0'
+  rate: '6.625'
+  shipping: '1'
+  state: NJ
+wootax/23784:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: 07921
+    location_type: postcode
+  name: 'BEDMINSTER '
+  order: '0'
+  priority: '0'
+  rate: '6.625'
+  shipping: '1'
+  state: NJ
+wootax/23785:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: 07922
+    location_type: postcode
+  name: BERKELEY HEIGHTS
+  order: '0'
+  priority: '0'
+  rate: '6.625'
+  shipping: '1'
+  state: NJ
+wootax/23786:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: 07924
+    location_type: postcode
+  name: BERNARDSVILLE CITY
+  order: '0'
+  priority: '0'
+  rate: '6.625'
+  shipping: '1'
+  state: NJ
+wootax/23787:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: 07926
+    location_type: postcode
+  name: MENDHAM TOWNSHIP
+  order: '0'
+  priority: '0'
+  rate: '6.625'
+  shipping: '1'
+  state: NJ
+wootax/23788:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: 07927
+    location_type: postcode
+  name: HANOVER TOWNSHIP
+  order: '0'
+  priority: '0'
+  rate: '6.625'
+  shipping: '1'
+  state: NJ
+wootax/23789:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: 07928
+    location_type: postcode
+  name: CHATHAM BOROUGH
+  order: '0'
+  priority: '0'
+  rate: '6.625'
+  shipping: '1'
+  state: NJ
+wootax/23790:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: 07930
+    location_type: postcode
+  name: CHESTER TOWNSHIP
+  order: '0'
+  priority: '0'
+  rate: '6.625'
+  shipping: '1'
+  state: NJ
+wootax/23791:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: 07931
+    location_type: postcode
+  name: FAR HILLS BOROUGH
+  order: '0'
+  priority: '0'
+  rate: '6.625'
+  shipping: '1'
+  state: NJ
+wootax/23792:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: 07932
+    location_type: postcode
+  name: FLORHAM PARK  BOROUGH
+  order: '0'
+  priority: '0'
+  rate: '6.625'
+  shipping: '1'
+  state: NJ
+wootax/23793:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: 07933
+    location_type: postcode
+  name: LONG HILL TOWNSHIP
+  order: '0'
+  priority: '0'
+  rate: '6.625'
+  shipping: '1'
+  state: NJ
+wootax/23794:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: 07934
+    location_type: postcode
+  name: PEAPACK AND GLADSTONE BOROUGH
+  order: '0'
+  priority: '0'
+  rate: '6.625'
+  shipping: '1'
+  state: NJ
+wootax/23795:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: 07935
+    location_type: postcode
+  name: CHATHAM TOWNSHIP, NJ
+  order: '0'
+  priority: '0'
+  rate: '6.625'
+  shipping: '1'
+  state: NJ
+wootax/23796:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: 07936
+    location_type: postcode
+  name: EAST HANOVER TOWNSHIP
+  order: '0'
+  priority: '0'
+  rate: '6.625'
+  shipping: '1'
+  state: NJ
+wootax/23797:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: 07938
+    location_type: postcode
+  name: BERNARDS TOWNSHIP
+  order: '0'
+  priority: '0'
+  rate: '6.625'
+  shipping: '1'
+  state: NJ
+wootax/23798:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: 07939
+    location_type: postcode
+  name: BERNARDS TOWNSHIP
+  order: '0'
+  priority: '0'
+  rate: '6.625'
+  shipping: '1'
+  state: NJ
+wootax/23799:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: 07940
+    location_type: postcode
+  name: MADISON BOROUGH
+  order: '0'
+  priority: '0'
+  rate: '6.625'
+  shipping: '1'
+  state: NJ
+wootax/23800:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: 07945
+    location_type: postcode
+  name: MENDHAM BOROUGH
+  order: '0'
+  priority: '0'
+  rate: '6.625'
+  shipping: '1'
+  state: NJ
+wootax/23801:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: 07946
+    location_type: postcode
+  name: LONG HILL TOWNSHIP
+  order: '0'
+  priority: '0'
+  rate: '6.625'
+  shipping: '1'
+  state: NJ
+wootax/23802:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: 07950
+    location_type: postcode
+  name: PARSIPPANY TROY HILLS TOWNSHIP
+  order: '0'
+  priority: '0'
+  rate: '6.625'
+  shipping: '1'
+  state: NJ
+wootax/23803:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: 07960
+    location_type: postcode
+  name: MORRISTOWN TOWN
+  order: '0'
+  priority: '0'
+  rate: '6.625'
+  shipping: '1'
+  state: NJ
+wootax/23804:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: 07961
+    location_type: postcode
+  name: MORRIS TOWNSHIP
+  order: '0'
+  priority: '0'
+  rate: '6.625'
+  shipping: '1'
+  state: NJ
+wootax/23805:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: 07962
+    location_type: postcode
+  name: MORRIS TOWNSHIP
+  order: '0'
+  priority: '0'
+  rate: '6.625'
+  shipping: '1'
+  state: NJ
+wootax/23806:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: 07963
+    location_type: postcode
+  name: MORRISTOWN TOWN
+  order: '0'
+  priority: '0'
+  rate: '6.625'
+  shipping: '1'
+  state: NJ
+wootax/23807:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: 07970
+    location_type: postcode
+  name: RANDOLPH
+  order: '0'
+  priority: '0'
+  rate: '6.625'
+  shipping: '1'
+  state: NJ
+wootax/23808:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: 07974
+    location_type: postcode
+  name: NEW PROVIDENCE
+  order: '0'
+  priority: '0'
+  rate: '6.625'
+  shipping: '1'
+  state: NJ
+wootax/23809:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: 07976
+    location_type: postcode
+  name: HARDING TOWNSHIP
+  order: '0'
+  priority: '0'
+  rate: '6.625'
+  shipping: '1'
+  state: NJ
+wootax/23810:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: 07977
+    location_type: postcode
+  name: PEAPACK AND GLADSTONE BOROUGH
+  order: '0'
+  priority: '0'
+  rate: '6.625'
+  shipping: '1'
+  state: NJ
+wootax/23811:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: 07978
+    location_type: postcode
+  name: 'BEDMINSTER '
+  order: '0'
+  priority: '0'
+  rate: '6.625'
+  shipping: '1'
+  state: NJ
+wootax/23812:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: 07979
+    location_type: postcode
+  name: TEWKSBURY TOWNSHIP
+  order: '0'
+  priority: '0'
+  rate: '6.625'
+  shipping: '1'
+  state: NJ
+wootax/23813:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: 07980
+    location_type: postcode
+  name: LONG HILL TOWNSHIP
+  order: '0'
+  priority: '0'
+  rate: '6.625'
+  shipping: '1'
+  state: NJ
+wootax/23814:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: 07981
+    location_type: postcode
+  name: HANOVER TOWNSHIP
+  order: '0'
+  priority: '0'
+  rate: '6.625'
+  shipping: '1'
+  state: NJ
+wootax/23815:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: 08001
+    location_type: postcode
+  name: ALLOWAY TOWNSHIP
+  order: '0'
+  priority: '0'
+  rate: '6.625'
+  shipping: '1'
+  state: NJ
+wootax/23816:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: 08002
+    location_type: postcode
+  name: CHERRY HILL, NJ
+  order: '0'
+  priority: '0'
+  rate: '6.625'
+  shipping: '1'
+  state: NJ
+wootax/23817:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: 08003
+    location_type: postcode
+  name: CHERRY HILL, NJ
+  order: '0'
+  priority: '0'
+  rate: '6.625'
+  shipping: '1'
+  state: NJ
+wootax/23818:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: 08004
+    location_type: postcode
+  name: 'WATERFORD TOWNSHIP '
+  order: '0'
+  priority: '0'
+  rate: '6.625'
+  shipping: '1'
+  state: NJ
+wootax/23819:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: 08005
+    location_type: postcode
+  name: BARNEGAT TOWNSHIP
+  order: '0'
+  priority: '0'
+  rate: '6.625'
+  shipping: '1'
+  state: NJ
+wootax/23820:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: 08006
+    location_type: postcode
+  name: OCEAN COUNTY
+  order: '0'
+  priority: '0'
+  rate: '6.625'
+  shipping: '1'
+  state: NJ
+wootax/23821:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: 08007
+    location_type: postcode
+  name: BARRINGTON CITY
+  order: '0'
+  priority: '0'
+  rate: '6.625'
+  shipping: '1'
+  state: NJ
+wootax/23822:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: 08008
+    location_type: postcode
+  name: SURF CITY
+  order: '0'
+  priority: '0'
+  rate: '6.625'
+  shipping: '1'
+  state: NJ
+wootax/23823:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: 08009
+    location_type: postcode
+  name: BERLIN BOROUGH
+  order: '0'
+  priority: '0'
+  rate: '6.625'
+  shipping: '1'
+  state: NJ
+wootax/23824:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: 08010
+    location_type: postcode
+  name: EDGEWATER PARK
+  order: '0'
+  priority: '0'
+  rate: '6.625'
+  shipping: '1'
+  state: NJ
+wootax/23825:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: 08011
+    location_type: postcode
+  name: PEMBERTON TOWNSHIP
+  order: '0'
+  priority: '0'
+  rate: '6.625'
+  shipping: '1'
+  state: NJ
+wootax/23826:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: 08012
+    location_type: postcode
+  name: GLOUCESTER TOWNSHIP
+  order: '0'
+  priority: '0'
+  rate: '6.625'
+  shipping: '1'
+  state: NJ
+wootax/23827:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: 08014
+    location_type: postcode
+  name: LOGAN TOWNSHIP
+  order: '0'
+  priority: '0'
+  rate: '6.625'
+  shipping: '1'
+  state: NJ
+wootax/23828:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: 08015
+    location_type: postcode
+  name: PEMBERTON TOWNSHIP
+  order: '0'
+  priority: '0'
+  rate: '6.625'
+  shipping: '1'
+  state: NJ
+wootax/23829:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: 08016
+    location_type: postcode
+  name: BURLINGTON TOWNSHIP
+  order: '0'
+  priority: '0'
+  rate: '6.625'
+  shipping: '1'
+  state: NJ
+wootax/23830:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: 08018
+    location_type: postcode
+  name: 'WINSLOW TOWNSHIP '
+  order: '0'
+  priority: '0'
+  rate: '6.625'
+  shipping: '1'
+  state: NJ
+wootax/23831:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: 08019
+    location_type: postcode
+  name: 'WOODLAND TOWNSHIP '
+  order: '0'
+  priority: '0'
+  rate: '6.625'
+  shipping: '1'
+  state: NJ
+wootax/23832:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: 08020
+    location_type: postcode
+  name: EAST GREENWICH TOWNSHIP
+  order: '0'
+  priority: '0'
+  rate: '6.625'
+  shipping: '1'
+  state: NJ
+wootax/23833:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: 08021
+    location_type: postcode
+  name: LINDENWOLD
+  order: '0'
+  priority: '0'
+  rate: '6.625'
+  shipping: '1'
+  state: NJ
+wootax/23834:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: 08022
+    location_type: postcode
+  name: MANSFIELD TOWNSHIP (BURLINGTON COUNTY)
+  order: '0'
+  priority: '0'
+  rate: '6.625'
+  shipping: '1'
+  state: NJ
+wootax/23835:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: 08023
+    location_type: postcode
+  name: PENNSVILLE TOWNSHIP
+  order: '0'
+  priority: '0'
+  rate: '6.625'
+  shipping: '1'
+  state: NJ
+wootax/23836:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: 08025
+    location_type: postcode
+  name: HARRISON TOWNSHIP
+  order: '0'
+  priority: '0'
+  rate: '6.625'
+  shipping: '1'
+  state: NJ
+wootax/23837:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: 08026
+    location_type: postcode
+  name: GIBBSBORO BOROUGH
+  order: '0'
+  priority: '0'
+  rate: '6.625'
+  shipping: '1'
+  state: NJ
+wootax/23838:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: 08027
+    location_type: postcode
+  name: GREENWICH TOWNSHIP (GLOUCESTER COUNTY) NY,
+  order: '0'
+  priority: '0'
+  rate: '6.625'
+  shipping: '1'
+  state: NJ
+wootax/23839:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: 08028
+    location_type: postcode
+  name: GLASSBORO BOROUGH
+  order: '0'
+  priority: '0'
+  rate: '6.625'
+  shipping: '1'
+  state: NJ
+wootax/23840:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: 08029
+    location_type: postcode
+  name: GLOUCESTER TOWNSHIP
+  order: '0'
+  priority: '0'
+  rate: '6.625'
+  shipping: '1'
+  state: NJ
+wootax/23841:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: 08030
+    location_type: postcode
+  name: GLOUCESTER CITY
+  order: '0'
+  priority: '0'
+  rate: '6.625'
+  shipping: '1'
+  state: NJ
+wootax/23842:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: 08031
+    location_type: postcode
+  name: BELLMAWR CITY
+  order: '0'
+  priority: '0'
+  rate: '6.625'
+  shipping: '1'
+  state: NJ
+wootax/23843:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: 08032
+    location_type: postcode
+  name: WASHINGTON TOWNSHIP(GLOUCESTER COUNTY)
+  order: '0'
+  priority: '0'
+  rate: '6.625'
+  shipping: '1'
+  state: NJ
+wootax/23844:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: 08033
+    location_type: postcode
+  name: HADDONFIELD
+  order: '0'
+  priority: '0'
+  rate: '6.625'
+  shipping: '1'
+  state: NJ
+wootax/23845:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: 08034
+    location_type: postcode
+  name: CHERRY HILL, NJ
+  order: '0'
+  priority: '0'
+  rate: '6.625'
+  shipping: '1'
+  state: NJ
+wootax/23846:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: 08035
+    location_type: postcode
+  name: HADDON HEIGHTS BOROUGH
+  order: '0'
+  priority: '0'
+  rate: '6.625'
+  shipping: '1'
+  state: NJ
+wootax/23847:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: 08036
+    location_type: postcode
+  name: HAINESPORT TOWNSHIP
+  order: '0'
+  priority: '0'
+  rate: '6.625'
+  shipping: '1'
+  state: NJ
+wootax/23848:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: 08037
+    location_type: postcode
+  name: HAMMONTON TOWN
+  order: '0'
+  priority: '0'
+  rate: '6.625'
+  shipping: '1'
+  state: NJ
+wootax/23849:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: 08038
+    location_type: postcode
+  name: LOWER ALLOWAYS CREEK TOWNSHIP
+  order: '0'
+  priority: '0'
+  rate: '6.625'
+  shipping: '1'
+  state: NJ
+wootax/23850:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: 08039
+    location_type: postcode
+  name: SOUTH HARRISON TOWNSHIP
+  order: '0'
+  priority: '0'
+  rate: '6.625'
+  shipping: '1'
+  state: NJ
+wootax/23851:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: 08041
+    location_type: postcode
+  name: SPRINGFIELD TOWNSHIP (BURLINGTON COUNTY)
+  order: '0'
+  priority: '0'
+  rate: '6.625'
+  shipping: '1'
+  state: NJ
+wootax/23852:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: 08042
+    location_type: postcode
+  name: SPRINGFIELD TOWNSHIP (BURLINGTON COUNTY)
+  order: '0'
+  priority: '0'
+  rate: '6.625'
+  shipping: '1'
+  state: NJ
+wootax/23853:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: 08043
+    location_type: postcode
+  name: 'VOORHEES TOWNSHIP '
+  order: '0'
+  priority: '0'
+  rate: '6.625'
+  shipping: '1'
+  state: NJ
+wootax/23854:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: 08045
+    location_type: postcode
+  name: LAWNSIDE
+  order: '0'
+  priority: '0'
+  rate: '6.625'
+  shipping: '1'
+  state: NJ
+wootax/23855:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: 08046
+    location_type: postcode
+  name: 'WILLINGBORO TOWNSHIP '
+  order: '0'
+  priority: '0'
+  rate: '6.625'
+  shipping: '1'
+  state: NJ
+wootax/23856:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: 08048
+    location_type: postcode
+  name: LUMBERTON TOWNSHIP
+  order: '0'
+  priority: '0'
+  rate: '6.625'
+  shipping: '1'
+  state: NJ
+wootax/23857:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: 08049
+    location_type: postcode
+  name: MAGNOLIA BOROUGH
+  order: '0'
+  priority: '0'
+  rate: '6.625'
+  shipping: '1'
+  state: NJ
+wootax/23858:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: 08050
+    location_type: postcode
+  name: STAFFORD TOWNSHIP
+  order: '0'
+  priority: '0'
+  rate: '6.625'
+  shipping: '1'
+  state: NJ
+wootax/23859:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: 08051
+    location_type: postcode
+  name: MANTUA TOWNSHIP
+  order: '0'
+  priority: '0'
+  rate: '6.625'
+  shipping: '1'
+  state: NJ
+wootax/23860:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: 08052
+    location_type: postcode
+  name: MAPLE SHADE TOWNSHIP
+  order: '0'
+  priority: '0'
+  rate: '6.625'
+  shipping: '1'
+  state: NJ
+wootax/23861:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: 08053
+    location_type: postcode
+  name: EVESHAM TOWNSHIP
+  order: '0'
+  priority: '0'
+  rate: '6.625'
+  shipping: '1'
+  state: NJ
+wootax/23862:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: 08054
+    location_type: postcode
+  name: MOUNT LAUREL TOWNSHIP
+  order: '0'
+  priority: '0'
+  rate: '6.625'
+  shipping: '1'
+  state: NJ
+wootax/23863:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: 08055
+    location_type: postcode
+  name: MEDFORD TOWNSHIP
+  order: '0'
+  priority: '0'
+  rate: '6.625'
+  shipping: '1'
+  state: NJ
+wootax/23864:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: 08056
+    location_type: postcode
+  name: EAST GREENWICH TOWNSHIP
+  order: '0'
+  priority: '0'
+  rate: '6.625'
+  shipping: '1'
+  state: NJ
+wootax/23865:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: 08057
+    location_type: postcode
+  name: MOORESTOWN TOWNSHIP
+  order: '0'
+  priority: '0'
+  rate: '6.625'
+  shipping: '1'
+  state: NJ
+wootax/23866:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: 08059
+    location_type: postcode
+  name: MOUNT EPHRAIM BOROUGH
+  order: '0'
+  priority: '0'
+  rate: '6.625'
+  shipping: '1'
+  state: NJ
+wootax/23867:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: 08060
+    location_type: postcode
+  name: MOUNT HOLLY
+  order: '0'
+  priority: '0'
+  rate: '6.625'
+  shipping: '1'
+  state: NJ
+wootax/23868:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: 08061
+    location_type: postcode
+  name: EAST GREENWICH TOWNSHIP
+  order: '0'
+  priority: '0'
+  rate: '6.625'
+  shipping: '1'
+  state: NJ
+wootax/23869:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: 08062
+    location_type: postcode
+  name: HARRISON TOWNSHIP
+  order: '0'
+  priority: '0'
+  rate: '6.625'
+  shipping: '1'
+  state: NJ
+wootax/23870:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: 08063
+    location_type: postcode
+  name: NATIONAL PARK BOROUGH
+  order: '0'
+  priority: '0'
+  rate: '6.625'
+  shipping: '1'
+  state: NJ
+wootax/23871:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: 08064
+    location_type: postcode
+  name: PEMBERTON TOWNSHIP
+  order: '0'
+  priority: '0'
+  rate: '6.625'
+  shipping: '1'
+  state: NJ
+wootax/23872:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: 08065
+    location_type: postcode
+  name: PALMYRA BOROUGH
+  order: '0'
+  priority: '0'
+  rate: '6.625'
+  shipping: '1'
+  state: NJ
+wootax/23873:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: 08066
+    location_type: postcode
+  name: PAULSBORO
+  order: '0'
+  priority: '0'
+  rate: '6.625'
+  shipping: '1'
+  state: NJ
+wootax/23874:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: 08067
+    location_type: postcode
+  name: OLDMANS TOWNSHIP
+  order: '0'
+  priority: '0'
+  rate: '6.625'
+  shipping: '1'
+  state: NJ
+wootax/23875:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: 08068
+    location_type: postcode
+  name: PEMBERTON TOWNSHIP
+  order: '0'
+  priority: '0'
+  rate: '6.625'
+  shipping: '1'
+  state: NJ
+wootax/23876:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: 08069
+    location_type: postcode
+  name: CARNEYS POINT TOWNSHIP
+  order: '0'
+  priority: '0'
+  rate: '6.625'
+  shipping: '1'
+  state: NJ
+wootax/23877:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: 08070
+    location_type: postcode
+  name: PENNSVILLE TOWNSHIP
+  order: '0'
+  priority: '0'
+  rate: '6.625'
+  shipping: '1'
+  state: NJ
+wootax/23878:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: 08071
+    location_type: postcode
+  name: PITMAN
+  order: '0'
+  priority: '0'
+  rate: '6.625'
+  shipping: '1'
+  state: NJ
+wootax/23879:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: 08072
+    location_type: postcode
+  name: QUINTON TOWNSHIP
+  order: '0'
+  priority: '0'
+  rate: '6.625'
+  shipping: '1'
+  state: NJ
+wootax/23880:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: 08073
+    location_type: postcode
+  name: 'WESTAMPTON TOWNSHIP '
+  order: '0'
+  priority: '0'
+  rate: '6.625'
+  shipping: '1'
+  state: NJ
+wootax/23881:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: 08074
+    location_type: postcode
+  name: HARRISON TOWNSHIP
+  order: '0'
+  priority: '0'
+  rate: '6.625'
+  shipping: '1'
+  state: NJ
+wootax/23882:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: 08075
+    location_type: postcode
+  name: DELRAN TOWNSHIP
+  order: '0'
+  priority: '0'
+  rate: '6.625'
+  shipping: '1'
+  state: NJ
+wootax/23883:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: 08076
+    location_type: postcode
+  name: RIVERTON
+  order: '0'
+  priority: '0'
+  rate: '6.625'
+  shipping: '1'
+  state: NJ
+wootax/23884:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: 08077
+    location_type: postcode
+  name: CINNAMINSON TOWNSHIP
+  order: '0'
+  priority: '0'
+  rate: '6.625'
+  shipping: '1'
+  state: NJ
+wootax/23885:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: 08078
+    location_type: postcode
+  name: RUNNEMEDE
+  order: '0'
+  priority: '0'
+  rate: '6.625'
+  shipping: '1'
+  state: NJ
+wootax/23886:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: 08079
+    location_type: postcode
+  name: SALEM
+  order: '0'
+  priority: '0'
+  rate: '6.625'
+  shipping: '1'
+  state: NJ
+wootax/23887:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: 08080
+    location_type: postcode
+  name: WASHINGTON TOWNSHIP(GLOUCESTER COUNTY)
+  order: '0'
+  priority: '0'
+  rate: '6.625'
+  shipping: '1'
+  state: NJ
+wootax/23888:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: 08081
+    location_type: postcode
+  name: 'WINSLOW TOWNSHIP '
+  order: '0'
+  priority: '0'
+  rate: '6.625'
+  shipping: '1'
+  state: NJ
+wootax/23889:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: 08083
+    location_type: postcode
+  name: SOMERDALE
+  order: '0'
+  priority: '0'
+  rate: '6.625'
+  shipping: '1'
+  state: NJ
+wootax/23890:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: 08084
+    location_type: postcode
+  name: STRATFORD
+  order: '0'
+  priority: '0'
+  rate: '6.625'
+  shipping: '1'
+  state: NJ
+wootax/23891:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: 08085
+    location_type: postcode
+  name: 'WOOLWICH TOWNSHIP '
+  order: '0'
+  priority: '0'
+  rate: '6.625'
+  shipping: '1'
+  state: NJ
+wootax/23892:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: 08086
+    location_type: postcode
+  name: WEST DEPTFORD TOWNSHIP
+  order: '0'
+  priority: '0'
+  rate: '6.625'
+  shipping: '1'
+  state: NJ
+wootax/23893:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: 08087
+    location_type: postcode
+  name: LITTLE EGG HARBOR TOWNSHIP
+  order: '0'
+  priority: '0'
+  rate: '6.625'
+  shipping: '1'
+  state: NJ
+wootax/23894:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: 08088
+    location_type: postcode
+  name: SOUTHAMPTON TOWNSHIP
+  order: '0'
+  priority: '0'
+  rate: '6.625'
+  shipping: '1'
+  state: NJ
+wootax/23895:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: 08089
+    location_type: postcode
+  name: CHESILHURST CITY, NJ
+  order: '0'
+  priority: '0'
+  rate: '6.625'
+  shipping: '1'
+  state: NJ
+wootax/23896:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: 08090
+    location_type: postcode
+  name: DEPTFORD TOWNSHIP CITY
+  order: '0'
+  priority: '0'
+  rate: '6.625'
+  shipping: '1'
+  state: NJ
+wootax/23897:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: 08091
+    location_type: postcode
+  name: BERLIN TOWNSHIP
+  order: '0'
+  priority: '0'
+  rate: '6.625'
+  shipping: '1'
+  state: NJ
+wootax/23898:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: 08092
+    location_type: postcode
+  name: EAGLESWOOD TOWNSHIP
+  order: '0'
+  priority: '0'
+  rate: '6.625'
+  shipping: '1'
+  state: NJ
+wootax/23899:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: 08093
+    location_type: postcode
+  name: DEPTFORD TOWNSHIP CITY
+  order: '0'
+  priority: '0'
+  rate: '6.625'
+  shipping: '1'
+  state: NJ
+wootax/23900:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: 08094
+    location_type: postcode
+  name: MONROE TOWNSHIP (GLOUCESTER COUNTY)
+  order: '0'
+  priority: '0'
+  rate: '6.625'
+  shipping: '1'
+  state: NJ
+wootax/23901:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: 08095
+    location_type: postcode
+  name: 'WINSLOW TOWNSHIP '
+  order: '0'
+  priority: '0'
+  rate: '6.625'
+  shipping: '1'
+  state: NJ
+wootax/23902:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: 08096
+    location_type: postcode
+  name: DEPTFORD TOWNSHIP CITY
+  order: '0'
+  priority: '0'
+  rate: '6.625'
+  shipping: '1'
+  state: NJ
+wootax/23903:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: 08097
+    location_type: postcode
+  name: 'WOODBURY HEIGHTS '
+  order: '0'
+  priority: '0'
+  rate: '6.625'
+  shipping: '1'
+  state: NJ
+wootax/23904:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: 08098
+    location_type: postcode
+  name: PILESGROVE TOWNSHIP
+  order: '0'
+  priority: '0'
+  rate: '6.625'
+  shipping: '1'
+  state: NJ
+wootax/23905:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: 08099
+    location_type: postcode
+  name: BELLMAWR CITY
+  order: '0'
+  priority: '0'
+  rate: '6.625'
+  shipping: '1'
+  state: NJ
+wootax/23906:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: 08101
+    location_type: postcode
+  name: CAMDEN CITY
+  order: '0'
+  priority: '0'
+  rate: '6.625'
+  shipping: '1'
+  state: NJ
+wootax/23907:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: 08102
+    location_type: postcode
+  name: CAMDEN CITY
+  order: '0'
+  priority: '0'
+  rate: '6.625'
+  shipping: '1'
+  state: NJ
+wootax/23908:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: 08103
+    location_type: postcode
+  name: CAMDEN CITY
+  order: '0'
+  priority: '0'
+  rate: '6.625'
+  shipping: '1'
+  state: NJ
+wootax/23909:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: 08104
+    location_type: postcode
+  name: CAMDEN CITY
+  order: '0'
+  priority: '0'
+  rate: '6.625'
+  shipping: '1'
+  state: NJ
+wootax/23910:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: 08105
+    location_type: postcode
+  name: CAMDEN CITY
+  order: '0'
+  priority: '0'
+  rate: '6.625'
+  shipping: '1'
+  state: NJ
+wootax/23911:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: 08106
+    location_type: postcode
+  name: 'AUDUBON '
+  order: '0'
+  priority: '0'
+  rate: '6.625'
+  shipping: '1'
+  state: NJ
+wootax/23912:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: 08107
+    location_type: postcode
+  name: 'COLLINGSWOOD '
+  order: '0'
+  priority: '0'
+  rate: '6.625'
+  shipping: '1'
+  state: NJ
+wootax/23913:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: 08108
+    location_type: postcode
+  name: 'COLLINGSWOOD '
+  order: '0'
+  priority: '0'
+  rate: '6.625'
+  shipping: '1'
+  state: NJ
+wootax/23914:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: 08109
+    location_type: postcode
+  name: PENNSAUKEN TOWNSHIP
+  order: '0'
+  priority: '0'
+  rate: '6.625'
+  shipping: '1'
+  state: NJ
+wootax/23915:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: 08110
+    location_type: postcode
+  name: PENNSAUKEN TOWNSHIP
+  order: '0'
+  priority: '0'
+  rate: '6.625'
+  shipping: '1'
+  state: NJ
+wootax/23916:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: 08201
+    location_type: postcode
+  name: ABSECON CITY
+  order: '0'
+  priority: '0'
+  rate: '6.625'
+  shipping: '1'
+  state: NJ
+wootax/23917:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: 08202
+    location_type: postcode
+  name: AVALON CITY
+  order: '0'
+  priority: '0'
+  rate: '6.625'
+  shipping: '1'
+  state: NJ
+wootax/23918:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: 08203
+    location_type: postcode
+  name: BRIGANTINE CITY
+  order: '0'
+  priority: '0'
+  rate: '6.625'
+  shipping: '1'
+  state: NJ
+wootax/23919:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: 08204
+    location_type: postcode
+  name: LOWER TOWNSHIP
+  order: '0'
+  priority: '0'
+  rate: '6.625'
+  shipping: '1'
+  state: NJ
+wootax/23920:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: 08205
+    location_type: postcode
+  name: GALLOWAY TOWNSHIP
+  order: '0'
+  priority: '0'
+  rate: '6.625'
+  shipping: '1'
+  state: NJ
+wootax/23921:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: 08210
+    location_type: postcode
+  name: MIDDLE TOWNSHIP
+  order: '0'
+  priority: '0'
+  rate: '6.625'
+  shipping: '1'
+  state: NJ
+wootax/23922:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: 08212
+    location_type: postcode
+  name: CAPE MAY POINT CITY
+  order: '0'
+  priority: '0'
+  rate: '6.625'
+  shipping: '1'
+  state: NJ
+wootax/23923:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: 08213
+    location_type: postcode
+  name: GALLOWAY TOWNSHIP
+  order: '0'
+  priority: '0'
+  rate: '6.625'
+  shipping: '1'
+  state: NJ
+wootax/23924:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: 08214
+    location_type: postcode
+  name: DENNIS TOWNSHIP CITY
+  order: '0'
+  priority: '0'
+  rate: '6.625'
+  shipping: '1'
+  state: NJ
+wootax/23925:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: 08215
+    location_type: postcode
+  name: EGG HARBOR CITY
+  order: '0'
+  priority: '0'
+  rate: '6.625'
+  shipping: '1'
+  state: NJ
+wootax/23926:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: 08217
+    location_type: postcode
+  name: MULLICA TOWNSHIP
+  order: '0'
+  priority: '0'
+  rate: '6.625'
+  shipping: '1'
+  state: NJ
+wootax/23927:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: 08218
+    location_type: postcode
+  name: MIDDLE TOWNSHIP
+  order: '0'
+  priority: '0'
+  rate: '6.625'
+  shipping: '1'
+  state: NJ
+wootax/23928:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: 08219
+    location_type: postcode
+  name: MIDDLE TOWNSHIP
+  order: '0'
+  priority: '0'
+  rate: '6.625'
+  shipping: '1'
+  state: NJ
+wootax/23929:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: 08220
+    location_type: postcode
+  name: GALLOWAY TOWNSHIP
+  order: '0'
+  priority: '0'
+  rate: '6.625'
+  shipping: '1'
+  state: NJ
+wootax/23930:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: 08221
+    location_type: postcode
+  name: LINWOOD
+  order: '0'
+  priority: '0'
+  rate: '6.625'
+  shipping: '1'
+  state: NJ
+wootax/23931:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: 08223
+    location_type: postcode
+  name: UPPER TOWNSHIP
+  order: '0'
+  priority: '0'
+  rate: '6.625'
+  shipping: '1'
+  state: NJ
+wootax/23932:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: 08224
+    location_type: postcode
+  name: BASS RIVER TOWNSHIP CITY
+  order: '0'
+  priority: '0'
+  rate: '6.625'
+  shipping: '1'
+  state: NJ
+wootax/23933:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: 08225
+    location_type: postcode
+  name: NORTHFIELD
+  order: '0'
+  priority: '0'
+  rate: '6.625'
+  shipping: '1'
+  state: NJ
+wootax/23934:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: 08226
+    location_type: postcode
+  name: OCEAN CITY
+  order: '0'
+  priority: '0'
+  rate: '6.625'
+  shipping: '1'
+  state: NJ
+wootax/23935:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: 08230
+    location_type: postcode
+  name: UPPER TOWNSHIP
+  order: '0'
+  priority: '0'
+  rate: '6.625'
+  shipping: '1'
+  state: NJ
+wootax/23936:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: 08231
+    location_type: postcode
+  name: GALLOWAY TOWNSHIP
+  order: '0'
+  priority: '0'
+  rate: '6.625'
+  shipping: '1'
+  state: NJ
+wootax/23937:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: 08232
+    location_type: postcode
+  name: 'PLEASANTVILLE '
+  order: '0'
+  priority: '0'
+  rate: '6.625'
+  shipping: '1'
+  state: NJ
+wootax/23938:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: 08234
+    location_type: postcode
+  name: EGG HARBOR TOWNSHIP
+  order: '0'
+  priority: '0'
+  rate: '6.625'
+  shipping: '1'
+  state: NJ
+wootax/23939:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: 08240
+    location_type: postcode
+  name: GALLOWAY TOWNSHIP
+  order: '0'
+  priority: '0'
+  rate: '6.625'
+  shipping: '1'
+  state: NJ
+wootax/23940:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: 08241
+    location_type: postcode
+  name: PORT REPUBLIC
+  order: '0'
+  priority: '0'
+  rate: '6.625'
+  shipping: '1'
+  state: NJ
+wootax/23941:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: 08242
+    location_type: postcode
+  name: MIDDLE TOWNSHIP
+  order: '0'
+  priority: '0'
+  rate: '6.625'
+  shipping: '1'
+  state: NJ
+wootax/23942:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: 08243
+    location_type: postcode
+  name: SEA ISLE CITY
+  order: '0'
+  priority: '0'
+  rate: '6.625'
+  shipping: '1'
+  state: NJ
+wootax/23943:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: 08244
+    location_type: postcode
+  name: SOMERS POINT
+  order: '0'
+  priority: '0'
+  rate: '6.625'
+  shipping: '1'
+  state: NJ
+wootax/23944:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: 08245
+    location_type: postcode
+  name: DENNIS TOWNSHIP CITY
+  order: '0'
+  priority: '0'
+  rate: '6.625'
+  shipping: '1'
+  state: NJ
+wootax/23945:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: 08246
+    location_type: postcode
+  name: DENNIS TOWNSHIP CITY
+  order: '0'
+  priority: '0'
+  rate: '6.625'
+  shipping: '1'
+  state: NJ
+wootax/23946:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: 08247
+    location_type: postcode
+  name: STONE HARBOR
+  order: '0'
+  priority: '0'
+  rate: '6.625'
+  shipping: '1'
+  state: NJ
+wootax/23947:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: 08248
+    location_type: postcode
+  name: UPPER TOWNSHIP
+  order: '0'
+  priority: '0'
+  rate: '6.625'
+  shipping: '1'
+  state: NJ
+wootax/23948:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: 08250
+    location_type: postcode
+  name: UPPER TOWNSHIP
+  order: '0'
+  priority: '0'
+  rate: '6.625'
+  shipping: '1'
+  state: NJ
+wootax/23949:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: 08251
+    location_type: postcode
+  name: LOWER TOWNSHIP
+  order: '0'
+  priority: '0'
+  rate: '6.625'
+  shipping: '1'
+  state: NJ
+wootax/23950:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: 08252
+    location_type: postcode
+  name: MIDDLE TOWNSHIP
+  order: '0'
+  priority: '0'
+  rate: '6.625'
+  shipping: '1'
+  state: NJ
+wootax/23951:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: 08260
+    location_type: postcode
+  name: NORTH WILDWOOD CITY
+  order: '0'
+  priority: '0'
+  rate: '6.625'
+  shipping: '1'
+  state: NJ
+wootax/23952:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: 08270
+    location_type: postcode
+  name: 'WOODBINE '
+  order: '0'
+  priority: '0'
+  rate: '6.625'
+  shipping: '1'
+  state: NJ
+wootax/23953:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: 08302
+    location_type: postcode
+  name: BRIDGETON CITY
+  order: '0'
+  priority: '0'
+  rate: '6.625'
+  shipping: '1'
+  state: NJ
+wootax/23954:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: 08310
+    location_type: postcode
+  name: BUENA VISTA TOWNSHIP
+  order: '0'
+  priority: '0'
+  rate: '6.625'
+  shipping: '1'
+  state: NJ
+wootax/23955:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: 08311
+    location_type: postcode
+  name: LAWRENCE TOWNSHIP (CUMBERLAND COUNTY)
+  order: '0'
+  priority: '0'
+  rate: '6.625'
+  shipping: '1'
+  state: NJ
+wootax/23956:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: 08312
+    location_type: postcode
+  name: 'CLAYTON '
+  order: '0'
+  priority: '0'
+  rate: '6.625'
+  shipping: '1'
+  state: NJ
+wootax/23957:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: 08313
+    location_type: postcode
+  name: 'UPPER DEERFIELD TOWNSHIP '
+  order: '0'
+  priority: '0'
+  rate: '6.625'
+  shipping: '1'
+  state: NJ
+wootax/23958:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: 08314
+    location_type: postcode
+  name: MAURICE RIVER TOWNSHIP
+  order: '0'
+  priority: '0'
+  rate: '6.625'
+  shipping: '1'
+  state: NJ
+wootax/23959:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: 08315
+    location_type: postcode
+  name: DOWNE TOWNSHIP
+  order: '0'
+  priority: '0'
+  rate: '6.625'
+  shipping: '1'
+  state: NJ
+wootax/23960:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: 08316
+    location_type: postcode
+  name: MAURICE RIVER TOWNSHIP
+  order: '0'
+  priority: '0'
+  rate: '6.625'
+  shipping: '1'
+  state: NJ
+wootax/23961:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: 08317
+    location_type: postcode
+  name: 'WEYMOUTH TOWNSHIP '
+  order: '0'
+  priority: '0'
+  rate: '6.625'
+  shipping: '1'
+  state: NJ
+wootax/23962:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: 08318
+    location_type: postcode
+  name: PITTSGROVE TOWNSHIP
+  order: '0'
+  priority: '0'
+  rate: '6.625'
+  shipping: '1'
+  state: NJ
+wootax/23963:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: 08319
+    location_type: postcode
+  name: ESTELL MANOR CITY
+  order: '0'
+  priority: '0'
+  rate: '6.625'
+  shipping: '1'
+  state: NJ
+wootax/23964:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: 08320
+    location_type: postcode
+  name: FAIRFIELD TOWNSHIP (CUMBERLAND COUNTY)
+  order: '0'
+  priority: '0'
+  rate: '6.625'
+  shipping: '1'
+  state: NJ
+wootax/23965:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: 08321
+    location_type: postcode
+  name: DOWNE TOWNSHIP
+  order: '0'
+  priority: '0'
+  rate: '6.625'
+  shipping: '1'
+  state: NJ
+wootax/23966:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: 08322
+    location_type: postcode
+  name: FRANKLIN TOWNSHIP (GLOUCESTER COUNTY)
+  order: '0'
+  priority: '0'
+  rate: '6.625'
+  shipping: '1'
+  state: NJ
+wootax/23967:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: 08323
+    location_type: postcode
+  name: GREENWICH TOWNSHIP (CUMBERLAND COUNTY)
+  order: '0'
+  priority: '0'
+  rate: '6.625'
+  shipping: '1'
+  state: NJ
+wootax/23968:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: 08324
+    location_type: postcode
+  name: MAURICE RIVER TOWNSHIP
+  order: '0'
+  priority: '0'
+  rate: '6.625'
+  shipping: '1'
+  state: NJ
+wootax/23969:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: 08326
+    location_type: postcode
+  name: BUENA CITY
+  order: '0'
+  priority: '0'
+  rate: '6.625'
+  shipping: '1'
+  state: NJ
+wootax/23970:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: 08327
+    location_type: postcode
+  name: MAURICE RIVER TOWNSHIP
+  order: '0'
+  priority: '0'
+  rate: '6.625'
+  shipping: '1'
+  state: NJ
+wootax/23971:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: 08328
+    location_type: postcode
+  name: FRANKLIN TOWNSHIP (GLOUCESTER COUNTY)
+  order: '0'
+  priority: '0'
+  rate: '6.625'
+  shipping: '1'
+  state: NJ
+wootax/23972:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: 08329
+    location_type: postcode
+  name: COMMERCIAL TOWNSHIP
+  order: '0'
+  priority: '0'
+  rate: '6.625'
+  shipping: '1'
+  state: NJ
+wootax/23973:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: 08330
+    location_type: postcode
+  name: HAMILTON TOWNSHIP (ATLANTIC COUNTY)
+  order: '0'
+  priority: '0'
+  rate: '6.625'
+  shipping: '1'
+  state: NJ
+wootax/23974:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: 08332
+    location_type: postcode
+  name: CUMBERLAND COUNTY
+  order: '0'
+  priority: '0'
+  rate: '6.625'
+  shipping: '1'
+  state: NJ
+wootax/23975:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: 08340
+    location_type: postcode
+  name: BUENA VISTA TOWNSHIP
+  order: '0'
+  priority: '0'
+  rate: '6.625'
+  shipping: '1'
+  state: NJ
+wootax/23976:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: 08341
+    location_type: postcode
+  name: BUENA CITY
+  order: '0'
+  priority: '0'
+  rate: '6.625'
+  shipping: '1'
+  state: NJ
+wootax/23977:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: 08342
+    location_type: postcode
+  name: HAMILTON TOWNSHIP (ATLANTIC COUNTY)
+  order: '0'
+  priority: '0'
+  rate: '6.625'
+  shipping: '1'
+  state: NJ
+wootax/23978:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: 08343
+    location_type: postcode
+  name: ELK TOWNSHIP
+  order: '0'
+  priority: '0'
+  rate: '6.625'
+  shipping: '1'
+  state: NJ
+wootax/23979:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: 08344
+    location_type: postcode
+  name: FRANKLIN TOWNSHIP (GLOUCESTER COUNTY)
+  order: '0'
+  priority: '0'
+  rate: '6.625'
+  shipping: '1'
+  state: NJ
+wootax/23980:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: 08345
+    location_type: postcode
+  name: DOWNE TOWNSHIP
+  order: '0'
+  priority: '0'
+  rate: '6.625'
+  shipping: '1'
+  state: NJ
+wootax/23981:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: 08346
+    location_type: postcode
+  name: BUENA VISTA TOWNSHIP
+  order: '0'
+  priority: '0'
+  rate: '6.625'
+  shipping: '1'
+  state: NJ
+wootax/23982:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: 08347
+    location_type: postcode
+  name: PITTSGROVE TOWNSHIP
+  order: '0'
+  priority: '0'
+  rate: '6.625'
+  shipping: '1'
+  state: NJ
+wootax/23983:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: 08348
+    location_type: postcode
+  name: MAURICE RIVER TOWNSHIP
+  order: '0'
+  priority: '0'
+  rate: '6.625'
+  shipping: '1'
+  state: NJ
+wootax/23984:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: 08349
+    location_type: postcode
+  name: COMMERCIAL TOWNSHIP
+  order: '0'
+  priority: '0'
+  rate: '6.625'
+  shipping: '1'
+  state: NJ
+wootax/23985:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: 08350
+    location_type: postcode
+  name: BUENA VISTA TOWNSHIP
+  order: '0'
+  priority: '0'
+  rate: '6.625'
+  shipping: '1'
+  state: NJ
+wootax/23986:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: 08352
+    location_type: postcode
+  name: DEERFIELD TOWNSHIP
+  order: '0'
+  priority: '0'
+  rate: '6.625'
+  shipping: '1'
+  state: NJ
+wootax/23987:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: 08353
+    location_type: postcode
+  name: SHILOH
+  order: '0'
+  priority: '0'
+  rate: '6.625'
+  shipping: '1'
+  state: NJ
+wootax/23988:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: 08360
+    location_type: postcode
+  name: VINELAND
+  order: '0'
+  priority: '0'
+  rate: '6.625'
+  shipping: '1'
+  state: NJ
+wootax/23989:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: 08361
+    location_type: postcode
+  name: VINELAND
+  order: '0'
+  priority: '0'
+  rate: '6.625'
+  shipping: '1'
+  state: NJ
+wootax/23990:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: 08362
+    location_type: postcode
+  name: VINELAND
+  order: '0'
+  priority: '0'
+  rate: '6.625'
+  shipping: '1'
+  state: NJ
+wootax/23991:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: 08401
+    location_type: postcode
+  name: ATLANTIC CITY
+  order: '0'
+  priority: '0'
+  rate: '6.625'
+  shipping: '1'
+  state: NJ
+wootax/23992:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: 08402
+    location_type: postcode
+  name: MARGATE CITY CITY
+  order: '0'
+  priority: '0'
+  rate: '6.625'
+  shipping: '1'
+  state: NJ
+wootax/23993:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: 08403
+    location_type: postcode
+  name: LONGPORT BOROUGH
+  order: '0'
+  priority: '0'
+  rate: '6.625'
+  shipping: '1'
+  state: NJ
+wootax/23994:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: 08404
+    location_type: postcode
+  name: ATLANTIC CITY
+  order: '0'
+  priority: '0'
+  rate: '6.625'
+  shipping: '1'
+  state: NJ
+wootax/23995:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: 08405
+    location_type: postcode
+  name: ATLANTIC CITY
+  order: '0'
+  priority: '0'
+  rate: '6.625'
+  shipping: '1'
+  state: NJ
+wootax/23996:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: 08406
+    location_type: postcode
+  name: VENTNOR CITY
+  order: '0'
+  priority: '0'
+  rate: '6.625'
+  shipping: '1'
+  state: NJ
+wootax/23997:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: 08501
+    location_type: postcode
+  name: 'UPPER FREEHOLD TOWNSHIP '
+  order: '0'
+  priority: '0'
+  rate: '6.625'
+  shipping: '1'
+  state: NJ
+wootax/23998:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: 08502
+    location_type: postcode
+  name: MONTGOMERY TOWNSHIP
+  order: '0'
+  priority: '0'
+  rate: '6.625'
+  shipping: '1'
+  state: NJ
+wootax/23999:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: 08504
+    location_type: postcode
+  name: MONTGOMERY TOWNSHIP
+  order: '0'
+  priority: '0'
+  rate: '6.625'
+  shipping: '1'
+  state: NJ
+wootax/24000:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: 08505
+    location_type: postcode
+  name: BORDENTOWN CITY
+  order: '0'
+  priority: '0'
+  rate: '6.625'
+  shipping: '1'
+  state: NJ
+wootax/24001:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: 08510
+    location_type: postcode
+  name: MILLSTONE TOWNSHIP
+  order: '0'
+  priority: '0'
+  rate: '6.625'
+  shipping: '1'
+  state: NJ
+wootax/24002:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: 08511
+    location_type: postcode
+  name: NEW HANOVER TOWNSHIP
+  order: '0'
+  priority: '0'
+  rate: '6.625'
+  shipping: '1'
+  state: NJ
+wootax/24003:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: 08512
+    location_type: postcode
+  name: CRANBURY CITY
+  order: '0'
+  priority: '0'
+  rate: '6.625'
+  shipping: '1'
+  state: NJ
+wootax/24004:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: 08514
+    location_type: postcode
+  name: 'UPPER FREEHOLD TOWNSHIP '
+  order: '0'
+  priority: '0'
+  rate: '6.625'
+  shipping: '1'
+  state: NJ
+wootax/24005:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: 08515
+    location_type: postcode
+  name: CHESTERFIELD TOWNSHIP
+  order: '0'
+  priority: '0'
+  rate: '6.625'
+  shipping: '1'
+  state: NJ
+wootax/24006:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: 08518
+    location_type: postcode
+  name: FLORENCE TOWNSHIP
+  order: '0'
+  priority: '0'
+  rate: '6.625'
+  shipping: '1'
+  state: NJ
+wootax/24007:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: 08520
+    location_type: postcode
+  name: EAST WINDSOR TOWNSHIP
+  order: '0'
+  priority: '0'
+  rate: '6.625'
+  shipping: '1'
+  state: NJ
+wootax/24008:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: 08525
+    location_type: postcode
+  name: HOPEWELL
+  order: '0'
+  priority: '0'
+  rate: '6.625'
+  shipping: '1'
+  state: NJ
+wootax/24009:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: 08527
+    location_type: postcode
+  name: JACKSON TOWNSHIP
+  order: '0'
+  priority: '0'
+  rate: '6.625'
+  shipping: '1'
+  state: NJ
+wootax/24010:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: 08528
+    location_type: postcode
+  name: FRANKLIN TOWNSHIP (SOMERSET COUNTY)
+  order: '0'
+  priority: '0'
+  rate: '6.625'
+  shipping: '1'
+  state: NJ
+wootax/24011:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: 08530
+    location_type: postcode
+  name: LAMBERTVILLE
+  order: '0'
+  priority: '0'
+  rate: '6.625'
+  shipping: '1'
+  state: NJ
+wootax/24012:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: 08533
+    location_type: postcode
+  name: PLUMSTED TOWNSHIP
+  order: '0'
+  priority: '0'
+  rate: '6.625'
+  shipping: '1'
+  state: NJ
+wootax/24013:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: 08534
+    location_type: postcode
+  name: HOPEWELL TOWNSHIP (MERCER COUNTY)
+  order: '0'
+  priority: '0'
+  rate: '6.625'
+  shipping: '1'
+  state: NJ
+wootax/24014:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: 08535
+    location_type: postcode
+  name: MILLSTONE TOWNSHIP
+  order: '0'
+  priority: '0'
+  rate: '6.625'
+  shipping: '1'
+  state: NJ
+wootax/24015:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: 08536
+    location_type: postcode
+  name: PLAINSBORO TOWNSHIP
+  order: '0'
+  priority: '0'
+  rate: '6.625'
+  shipping: '1'
+  state: NJ
+wootax/24016:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: 08540
+    location_type: postcode
+  name: PRINCETON
+  order: '0'
+  priority: '0'
+  rate: '6.625'
+  shipping: '1'
+  state: NJ
+wootax/24017:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: 08542
+    location_type: postcode
+  name: PRINCETON
+  order: '0'
+  priority: '0'
+  rate: '6.625'
+  shipping: '1'
+  state: NJ
+wootax/24018:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: 08543
+    location_type: postcode
+  name: 'WEST WINDSOR TOWNSHIP '
+  order: '0'
+  priority: '0'
+  rate: '6.625'
+  shipping: '1'
+  state: NJ
+wootax/24019:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: 08544
+    location_type: postcode
+  name: PRINCETON
+  order: '0'
+  priority: '0'
+  rate: '6.625'
+  shipping: '1'
+  state: NJ
+wootax/24020:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: 08550
+    location_type: postcode
+  name: 'WEST WINDSOR TOWNSHIP '
+  order: '0'
+  priority: '0'
+  rate: '6.625'
+  shipping: '1'
+  state: NJ
+wootax/24021:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: 08551
+    location_type: postcode
+  name: EAST AMWELL TOWNSHIP
+  order: '0'
+  priority: '0'
+  rate: '6.625'
+  shipping: '1'
+  state: NJ
+wootax/24022:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: 08553
+    location_type: postcode
+  name: ROCKY HILL
+  order: '0'
+  priority: '0'
+  rate: '6.625'
+  shipping: '1'
+  state: NJ
+wootax/24023:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: 08554
+    location_type: postcode
+  name: FLORENCE TOWNSHIP
+  order: '0'
+  priority: '0'
+  rate: '6.625'
+  shipping: '1'
+  state: NJ
+wootax/24024:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: 08555
+    location_type: postcode
+  name: ROOSEVELT
+  order: '0'
+  priority: '0'
+  rate: '6.625'
+  shipping: '1'
+  state: NJ
+wootax/24025:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: 08556
+    location_type: postcode
+  name: DELAWARE TOWNSHIP
+  order: '0'
+  priority: '0'
+  rate: '6.625'
+  shipping: '1'
+  state: NJ
+wootax/24026:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: 08557
+    location_type: postcode
+  name: DELAWARE TOWNSHIP
+  order: '0'
+  priority: '0'
+  rate: '6.625'
+  shipping: '1'
+  state: NJ
+wootax/24027:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: 08558
+    location_type: postcode
+  name: MONTGOMERY TOWNSHIP
+  order: '0'
+  priority: '0'
+  rate: '6.625'
+  shipping: '1'
+  state: NJ
+wootax/24028:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: 08559
+    location_type: postcode
+  name: DELAWARE TOWNSHIP
+  order: '0'
+  priority: '0'
+  rate: '6.625'
+  shipping: '1'
+  state: NJ
+wootax/24029:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: 08560
+    location_type: postcode
+  name: HOPEWELL TOWNSHIP (MERCER COUNTY)
+  order: '0'
+  priority: '0'
+  rate: '6.625'
+  shipping: '1'
+  state: NJ
+wootax/24030:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: 08561
+    location_type: postcode
+  name: ROBBINSVILLE TOWNSHIP
+  order: '0'
+  priority: '0'
+  rate: '6.625'
+  shipping: '1'
+  state: NJ
+wootax/24031:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: 08562
+    location_type: postcode
+  name: NORTH HANOVER TOWNSHIP
+  order: '0'
+  priority: '0'
+  rate: '6.625'
+  shipping: '1'
+  state: NJ
+wootax/24032:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: 08601
+    location_type: postcode
+  name: 'TRENTON '
+  order: '0'
+  priority: '0'
+  rate: '6.625'
+  shipping: '1'
+  state: NJ
+wootax/24033:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: 08602
+    location_type: postcode
+  name: 'TRENTON '
+  order: '0'
+  priority: '0'
+  rate: '6.625'
+  shipping: '1'
+  state: NJ
+wootax/24034:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: 08603
+    location_type: postcode
+  name: 'TRENTON '
+  order: '0'
+  priority: '0'
+  rate: '6.625'
+  shipping: '1'
+  state: NJ
+wootax/24035:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: 08604
+    location_type: postcode
+  name: 'TRENTON '
+  order: '0'
+  priority: '0'
+  rate: '6.625'
+  shipping: '1'
+  state: NJ
+wootax/24036:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: 08605
+    location_type: postcode
+  name: 'TRENTON '
+  order: '0'
+  priority: '0'
+  rate: '6.625'
+  shipping: '1'
+  state: NJ
+wootax/24037:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: 08606
+    location_type: postcode
+  name: 'TRENTON '
+  order: '0'
+  priority: '0'
+  rate: '6.625'
+  shipping: '1'
+  state: NJ
+wootax/24038:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: 08607
+    location_type: postcode
+  name: 'TRENTON '
+  order: '0'
+  priority: '0'
+  rate: '6.625'
+  shipping: '1'
+  state: NJ
+wootax/24039:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: 08608
+    location_type: postcode
+  name: 'TRENTON '
+  order: '0'
+  priority: '0'
+  rate: '6.625'
+  shipping: '1'
+  state: NJ
+wootax/24040:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: 08609
+    location_type: postcode
+  name: 'TRENTON '
+  order: '0'
+  priority: '0'
+  rate: '6.625'
+  shipping: '1'
+  state: NJ
+wootax/24041:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: 08610
+    location_type: postcode
+  name: HAMILTON TOWNSHIP (MERCER COUNTY)
+  order: '0'
+  priority: '0'
+  rate: '6.625'
+  shipping: '1'
+  state: NJ
+wootax/24042:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: 08611
+    location_type: postcode
+  name: 'TRENTON '
+  order: '0'
+  priority: '0'
+  rate: '6.625'
+  shipping: '1'
+  state: NJ
+wootax/24043:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: 08618
+    location_type: postcode
+  name: 'TRENTON '
+  order: '0'
+  priority: '0'
+  rate: '6.625'
+  shipping: '1'
+  state: NJ
+wootax/24044:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: 08619
+    location_type: postcode
+  name: HAMILTON TOWNSHIP (MERCER COUNTY)
+  order: '0'
+  priority: '0'
+  rate: '6.625'
+  shipping: '1'
+  state: NJ
+wootax/24045:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: 08620
+    location_type: postcode
+  name: HAMILTON TOWNSHIP (MERCER COUNTY)
+  order: '0'
+  priority: '0'
+  rate: '6.625'
+  shipping: '1'
+  state: NJ
+wootax/24046:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: 08628
+    location_type: postcode
+  name: EWING TOWNSHIP
+  order: '0'
+  priority: '0'
+  rate: '6.625'
+  shipping: '1'
+  state: NJ
+wootax/24047:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: 08629
+    location_type: postcode
+  name: HAMILTON TOWNSHIP (MERCER COUNTY)
+  order: '0'
+  priority: '0'
+  rate: '6.625'
+  shipping: '1'
+  state: NJ
+wootax/24048:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: 08638
+    location_type: postcode
+  name: EWING TOWNSHIP
+  order: '0'
+  priority: '0'
+  rate: '6.625'
+  shipping: '1'
+  state: NJ
+wootax/24049:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: 08640
+    location_type: postcode
+  name: NEW HANOVER TOWNSHIP
+  order: '0'
+  priority: '0'
+  rate: '6.625'
+  shipping: '1'
+  state: NJ
+wootax/24050:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: 08641
+    location_type: postcode
+  name: NORTH HANOVER TOWNSHIP
+  order: '0'
+  priority: '0'
+  rate: '6.625'
+  shipping: '1'
+  state: NJ
+wootax/24051:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: 08648
+    location_type: postcode
+  name: LAWRENCE TOWNSHIP (MERCER COUNTY)
+  order: '0'
+  priority: '0'
+  rate: '6.625'
+  shipping: '1'
+  state: NJ
+wootax/24052:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: 08650
+    location_type: postcode
+  name: HAMILTON TOWNSHIP (MERCER COUNTY)
+  order: '0'
+  priority: '0'
+  rate: '6.625'
+  shipping: '1'
+  state: NJ
+wootax/24053:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: 08690
+    location_type: postcode
+  name: HAMILTON TOWNSHIP (MERCER COUNTY)
+  order: '0'
+  priority: '0'
+  rate: '6.625'
+  shipping: '1'
+  state: NJ
+wootax/24054:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: 08691
+    location_type: postcode
+  name: ROBBINSVILLE TOWNSHIP
+  order: '0'
+  priority: '0'
+  rate: '6.625'
+  shipping: '1'
+  state: NJ
+wootax/24055:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: 08701
+    location_type: postcode
+  name: LAKEWOOD TOWNSHIP
+  order: '0'
+  priority: '0'
+  rate: '6.625'
+  shipping: '1'
+  state: NJ
+wootax/24056:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: 08720
+    location_type: postcode
+  name: 'WALL TOWNSHIP '
+  order: '0'
+  priority: '0'
+  rate: '6.625'
+  shipping: '1'
+  state: NJ
+wootax/24057:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: 08721
+    location_type: postcode
+  name: BERKELEY TOWNSHIP
+  order: '0'
+  priority: '0'
+  rate: '6.625'
+  shipping: '1'
+  state: NJ
+wootax/24058:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: 08722
+    location_type: postcode
+  name: BEACHWOOD CITY
+  order: '0'
+  priority: '0'
+  rate: '6.625'
+  shipping: '1'
+  state: NJ
+wootax/24059:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: 08723
+    location_type: postcode
+  name: BRICK TOWNSHIP
+  order: '0'
+  priority: '0'
+  rate: '6.625'
+  shipping: '1'
+  state: NJ
+wootax/24060:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: 08724
+    location_type: postcode
+  name: BRICK TOWNSHIP
+  order: '0'
+  priority: '0'
+  rate: '6.625'
+  shipping: '1'
+  state: NJ
+wootax/24061:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: 08730
+    location_type: postcode
+  name: BRIELLE CITY
+  order: '0'
+  priority: '0'
+  rate: '6.625'
+  shipping: '1'
+  state: NJ
+wootax/24062:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: 08731
+    location_type: postcode
+  name: LACEY TOWNSHIP
+  order: '0'
+  priority: '0'
+  rate: '6.625'
+  shipping: '1'
+  state: NJ
+wootax/24063:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: 08732
+    location_type: postcode
+  name: ISLAND HEIGHTS
+  order: '0'
+  priority: '0'
+  rate: '6.625'
+  shipping: '1'
+  state: NJ
+wootax/24064:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: 08733
+    location_type: postcode
+  name: LAKEHURST
+  order: '0'
+  priority: '0'
+  rate: '6.625'
+  shipping: '1'
+  state: NJ
+wootax/24065:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: 08734
+    location_type: postcode
+  name: LACEY TOWNSHIP
+  order: '0'
+  priority: '0'
+  rate: '6.625'
+  shipping: '1'
+  state: NJ
+wootax/24066:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: 08735
+    location_type: postcode
+  name: 'TOMS RIVER '
+  order: '0'
+  priority: '0'
+  rate: '6.625'
+  shipping: '1'
+  state: NJ
+wootax/24067:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: 08736
+    location_type: postcode
+  name: MANASQUAN BOROUGH
+  order: '0'
+  priority: '0'
+  rate: '6.625'
+  shipping: '1'
+  state: NJ
+wootax/24068:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: 08738
+    location_type: postcode
+  name: BRICK TOWNSHIP
+  order: '0'
+  priority: '0'
+  rate: '6.625'
+  shipping: '1'
+  state: NJ
+wootax/24069:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: 08739
+    location_type: postcode
+  name: BRICK TOWNSHIP
+  order: '0'
+  priority: '0'
+  rate: '6.625'
+  shipping: '1'
+  state: NJ
+wootax/24070:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: 08740
+    location_type: postcode
+  name: OCEAN GATE BOROUGH
+  order: '0'
+  priority: '0'
+  rate: '6.625'
+  shipping: '1'
+  state: NJ
+wootax/24071:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: 08741
+    location_type: postcode
+  name: PINE BEACH
+  order: '0'
+  priority: '0'
+  rate: '6.625'
+  shipping: '1'
+  state: NJ
+wootax/24072:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: 08742
+    location_type: postcode
+  name: POINT PLEASANT
+  order: '0'
+  priority: '0'
+  rate: '6.625'
+  shipping: '1'
+  state: NJ
+wootax/24073:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: 08750
+    location_type: postcode
+  name: SEA GIRT
+  order: '0'
+  priority: '0'
+  rate: '6.625'
+  shipping: '1'
+  state: NJ
+wootax/24074:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: 08751
+    location_type: postcode
+  name: SEASIDE HEIGHTS
+  order: '0'
+  priority: '0'
+  rate: '6.625'
+  shipping: '1'
+  state: NJ
+wootax/24075:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: 08752
+    location_type: postcode
+  name: SEASIDE PARK
+  order: '0'
+  priority: '0'
+  rate: '6.625'
+  shipping: '1'
+  state: NJ
+wootax/24076:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: 08753
+    location_type: postcode
+  name: 'TOMS RIVER '
+  order: '0'
+  priority: '0'
+  rate: '6.625'
+  shipping: '1'
+  state: NJ
+wootax/24077:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: 08754
+    location_type: postcode
+  name: 'TOMS RIVER '
+  order: '0'
+  priority: '0'
+  rate: '6.625'
+  shipping: '1'
+  state: NJ
+wootax/24078:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: 08755
+    location_type: postcode
+  name: 'TOMS RIVER '
+  order: '0'
+  priority: '0'
+  rate: '6.625'
+  shipping: '1'
+  state: NJ
+wootax/24079:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: 08757
+    location_type: postcode
+  name: MANCHESTER TOWNSHIP
+  order: '0'
+  priority: '0'
+  rate: '6.625'
+  shipping: '1'
+  state: NJ
+wootax/24080:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: 08758
+    location_type: postcode
+  name: OCEAN TOWNSHIP (OCEAN COUNTY)
+  order: '0'
+  priority: '0'
+  rate: '6.625'
+  shipping: '1'
+  state: NJ
+wootax/24081:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: 08759
+    location_type: postcode
+  name: MANCHESTER TOWNSHIP
+  order: '0'
+  priority: '0'
+  rate: '6.625'
+  shipping: '1'
+  state: NJ
+wootax/24082:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: 08801
+    location_type: postcode
+  name: CLINTON TOWNSHIP
+  order: '0'
+  priority: '0'
+  rate: '6.625'
+  shipping: '1'
+  state: NJ
+wootax/24083:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: 08802
+    location_type: postcode
+  name: BETHLEHEM TOWNSHIP
+  order: '0'
+  priority: '0'
+  rate: '6.625'
+  shipping: '1'
+  state: NJ
+wootax/24084:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: 08803
+    location_type: postcode
+  name: KINGWOOD TOWNSHIP
+  order: '0'
+  priority: '0'
+  rate: '6.625'
+  shipping: '1'
+  state: NJ
+wootax/24085:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: 08804
+    location_type: postcode
+  name: HUNTERDON COUNTY
+  order: '0'
+  priority: '0'
+  rate: '6.625'
+  shipping: '1'
+  state: NJ
+wootax/24086:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: 08805
+    location_type: postcode
+  name: 'BOUND BROOK '
+  order: '0'
+  priority: '0'
+  rate: '6.625'
+  shipping: '1'
+  state: NJ
+wootax/24087:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: 08807
+    location_type: postcode
+  name: BRIDGEWATER TOWNSHIP
+  order: '0'
+  priority: '0'
+  rate: '6.625'
+  shipping: '1'
+  state: NJ
+wootax/24088:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: 08808
+    location_type: postcode
+  name: FRANKLIN TOWNSHIP (WARREN COUNTY)
+  order: '0'
+  priority: '0'
+  rate: '6.625'
+  shipping: '1'
+  state: NJ
+wootax/24089:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: 08809
+    location_type: postcode
+  name: CLINTON CITY
+  order: '0'
+  priority: '0'
+  rate: '6.625'
+  shipping: '1'
+  state: NJ
+wootax/24090:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: 08810
+    location_type: postcode
+  name: SOUTH BRUNSWICK
+  order: '0'
+  priority: '0'
+  rate: '6.625'
+  shipping: '1'
+  state: NJ
+wootax/24091:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: 08812
+    location_type: postcode
+  name: DUNELLEN BOROUGH
+  order: '0'
+  priority: '0'
+  rate: '6.625'
+  shipping: '1'
+  state: NJ
+wootax/24092:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: 08816
+    location_type: postcode
+  name: EAST BRUNSWICK TOWNSHIP
+  order: '0'
+  priority: '0'
+  rate: '6.625'
+  shipping: '1'
+  state: NJ
+wootax/24093:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: 08817
+    location_type: postcode
+  name: EDISON
+  order: '0'
+  priority: '0'
+  rate: '6.625'
+  shipping: '1'
+  state: NJ
+wootax/24094:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: 08818
+    location_type: postcode
+  name: EDISON
+  order: '0'
+  priority: '0'
+  rate: '6.625'
+  shipping: '1'
+  state: NJ
+wootax/24095:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: 08820
+    location_type: postcode
+  name: EDISON
+  order: '0'
+  priority: '0'
+  rate: '6.625'
+  shipping: '1'
+  state: NJ
+wootax/24096:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: 08821
+    location_type: postcode
+  name: HILLSBOROUGH TOWNSHIP
+  order: '0'
+  priority: '0'
+  rate: '6.625'
+  shipping: '1'
+  state: NJ
+wootax/24097:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: 08822
+    location_type: postcode
+  name: RARITAN TOWNSHIP
+  order: '0'
+  priority: '0'
+  rate: '6.625'
+  shipping: '1'
+  state: NJ
+wootax/24098:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: 08823
+    location_type: postcode
+  name: FRANKLIN TOWNSHIP (SOMERSET COUNTY)
+  order: '0'
+  priority: '0'
+  rate: '6.625'
+  shipping: '1'
+  state: NJ
+wootax/24099:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: 08824
+    location_type: postcode
+  name: SOUTH BRUNSWICK
+  order: '0'
+  priority: '0'
+  rate: '6.625'
+  shipping: '1'
+  state: NJ
+wootax/24100:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: 08825
+    location_type: postcode
+  name: KINGWOOD TOWNSHIP
+  order: '0'
+  priority: '0'
+  rate: '6.625'
+  shipping: '1'
+  state: NJ
+wootax/24101:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: 08826
+    location_type: postcode
+  name: LEBANON TOWNSHIP
+  order: '0'
+  priority: '0'
+  rate: '6.625'
+  shipping: '1'
+  state: NJ
+wootax/24102:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: 08827
+    location_type: postcode
+  name: HAMPTON  BOROUGH
+  order: '0'
+  priority: '0'
+  rate: '6.625'
+  shipping: '1'
+  state: NJ
+wootax/24103:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: 08828
+    location_type: postcode
+  name: HELMETTA
+  order: '0'
+  priority: '0'
+  rate: '6.625'
+  shipping: '1'
+  state: NJ
+wootax/24104:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: 08829
+    location_type: postcode
+  name: HIGH BRIDGE
+  order: '0'
+  priority: '0'
+  rate: '6.625'
+  shipping: '1'
+  state: NJ
+wootax/24105:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: 08830
+    location_type: postcode
+  name: 'WOODBRIDGE TOWNSHIP '
+  order: '0'
+  priority: '0'
+  rate: '6.625'
+  shipping: '1'
+  state: NJ
+wootax/24106:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: 08831
+    location_type: postcode
+  name: MONROE TOWNSHIP (MIDDLESEX COUNTY)
+  order: '0'
+  priority: '0'
+  rate: '6.625'
+  shipping: '1'
+  state: NJ
+wootax/24107:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: 08832
+    location_type: postcode
+  name: 'WOODBRIDGE TOWNSHIP '
+  order: '0'
+  priority: '0'
+  rate: '6.625'
+  shipping: '1'
+  state: NJ
+wootax/24108:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: 08833
+    location_type: postcode
+  name: CLINTON TOWNSHIP
+  order: '0'
+  priority: '0'
+  rate: '6.625'
+  shipping: '1'
+  state: NJ
+wootax/24109:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: 08835
+    location_type: postcode
+  name: MANVILLE  BOROUGH
+  order: '0'
+  priority: '0'
+  rate: '6.625'
+  shipping: '1'
+  state: NJ
+wootax/24110:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: 08836
+    location_type: postcode
+  name: BRIDGEWATER TOWNSHIP
+  order: '0'
+  priority: '0'
+  rate: '6.625'
+  shipping: '1'
+  state: NJ
+wootax/24111:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: 08837
+    location_type: postcode
+  name: EDISON
+  order: '0'
+  priority: '0'
+  rate: '6.625'
+  shipping: '1'
+  state: NJ
+wootax/24112:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: 08840
+    location_type: postcode
+  name: METUCHEN BOROUGH
+  order: '0'
+  priority: '0'
+  rate: '6.625'
+  shipping: '1'
+  state: NJ
+wootax/24113:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: 08844
+    location_type: postcode
+  name: HILLSBOROUGH TOWNSHIP
+  order: '0'
+  priority: '0'
+  rate: '6.625'
+  shipping: '1'
+  state: NJ
+wootax/24114:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: 08846
+    location_type: postcode
+  name: MIDDLESEX BOROUGH, NY
+  order: '0'
+  priority: '0'
+  rate: '6.625'
+  shipping: '1'
+  state: NJ
+wootax/24115:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: 08848
+    location_type: postcode
+  name: HOLLAND TOWNSHIP
+  order: '0'
+  priority: '0'
+  rate: '6.625'
+  shipping: '1'
+  state: NJ
+wootax/24116:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: 08850
+    location_type: postcode
+  name: MILLTOWN
+  order: '0'
+  priority: '0'
+  rate: '6.625'
+  shipping: '1'
+  state: NJ
+wootax/24117:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: 08852
+    location_type: postcode
+  name: SOUTH BRUNSWICK
+  order: '0'
+  priority: '0'
+  rate: '6.625'
+  shipping: '1'
+  state: NJ
+wootax/24118:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: 08853
+    location_type: postcode
+  name: BRANCHBURG CITY
+  order: '0'
+  priority: '0'
+  rate: '6.625'
+  shipping: '1'
+  state: NJ
+wootax/24119:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: 08854
+    location_type: postcode
+  name: PISCATAWAY
+  order: '0'
+  priority: '0'
+  rate: '6.625'
+  shipping: '1'
+  state: NJ
+wootax/24120:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: 08855
+    location_type: postcode
+  name: PISCATAWAY
+  order: '0'
+  priority: '0'
+  rate: '6.625'
+  shipping: '1'
+  state: NJ
+wootax/24121:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: 08857
+    location_type: postcode
+  name: OLD BRIDGE TOWNSHIP
+  order: '0'
+  priority: '0'
+  rate: '6.625'
+  shipping: '1'
+  state: NJ
+wootax/24122:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: 08858
+    location_type: postcode
+  name: TEWKSBURY TOWNSHIP
+  order: '0'
+  priority: '0'
+  rate: '6.625'
+  shipping: '1'
+  state: NJ
+wootax/24123:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: 08859
+    location_type: postcode
+  name: SAYREVILLE
+  order: '0'
+  priority: '0'
+  rate: '6.625'
+  shipping: '1'
+  state: NJ
+wootax/24124:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: 08861
+    location_type: postcode
+  name: PERTH AMBOY
+  order: '0'
+  priority: '0'
+  rate: '6.625'
+  shipping: '1'
+  state: NJ
+wootax/24125:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: 08862
+    location_type: postcode
+  name: PERTH AMBOY
+  order: '0'
+  priority: '0'
+  rate: '6.625'
+  shipping: '1'
+  state: NJ
+wootax/24126:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: 08863
+    location_type: postcode
+  name: 'WOODBRIDGE TOWNSHIP '
+  order: '0'
+  priority: '0'
+  rate: '6.625'
+  shipping: '1'
+  state: NJ
+wootax/24127:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: 08865
+    location_type: postcode
+  name: PHILLIPSBURG
+  order: '0'
+  priority: '0'
+  rate: '6.625'
+  shipping: '1'
+  state: NJ
+wootax/24128:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: 08867
+    location_type: postcode
+  name: FRANKLIN TOWNSHIP (HUNTERDON COUNTY)
+  order: '0'
+  priority: '0'
+  rate: '6.625'
+  shipping: '1'
+  state: NJ
+wootax/24129:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: 08868
+    location_type: postcode
+  name: FRANKLIN TOWNSHIP (HUNTERDON COUNTY)
+  order: '0'
+  priority: '0'
+  rate: '6.625'
+  shipping: '1'
+  state: NJ
+wootax/24130:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: 08869
+    location_type: postcode
+  name: 'RARITAN '
+  order: '0'
+  priority: '0'
+  rate: '6.625'
+  shipping: '1'
+  state: NJ
+wootax/24131:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: 08870
+    location_type: postcode
+  name: READINGTON TOWNSHIP
+  order: '0'
+  priority: '0'
+  rate: '6.625'
+  shipping: '1'
+  state: NJ
+wootax/24132:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: 08872
+    location_type: postcode
+  name: SAYREVILLE
+  order: '0'
+  priority: '0'
+  rate: '6.625'
+  shipping: '1'
+  state: NJ
+wootax/24133:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: 08873
+    location_type: postcode
+  name: FRANKLIN TOWNSHIP (SOMERSET COUNTY)
+  order: '0'
+  priority: '0'
+  rate: '6.625'
+  shipping: '1'
+  state: NJ
+wootax/24134:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: 08875
+    location_type: postcode
+  name: FRANKLIN TOWNSHIP (SOMERSET COUNTY)
+  order: '0'
+  priority: '0'
+  rate: '6.625'
+  shipping: '1'
+  state: NJ
+wootax/24135:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: 08876
+    location_type: postcode
+  name: SOMERVILLE
+  order: '0'
+  priority: '0'
+  rate: '6.625'
+  shipping: '1'
+  state: NJ
+wootax/24136:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: 08879
+    location_type: postcode
+  name: SOUTH AMBOY
+  order: '0'
+  priority: '0'
+  rate: '6.625'
+  shipping: '1'
+  state: NJ
+wootax/24137:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: 08880
+    location_type: postcode
+  name: SOUTH BOUND BROOK
+  order: '0'
+  priority: '0'
+  rate: '6.625'
+  shipping: '1'
+  state: NJ
+wootax/24138:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: 08882
+    location_type: postcode
+  name: SOUTH RIVER
+  order: '0'
+  priority: '0'
+  rate: '6.625'
+  shipping: '1'
+  state: NJ
+wootax/24139:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: 08884
+    location_type: postcode
+  name: SPOTSWOOD
+  order: '0'
+  priority: '0'
+  rate: '6.625'
+  shipping: '1'
+  state: NJ
+wootax/24140:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: 08885
+    location_type: postcode
+  name: READINGTON TOWNSHIP
+  order: '0'
+  priority: '0'
+  rate: '6.625'
+  shipping: '1'
+  state: NJ
+wootax/24141:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: 08886
+    location_type: postcode
+  name: GREENWICH TOWNSHIP (WARREN COUNTY)
+  order: '0'
+  priority: '0'
+  rate: '6.625'
+  shipping: '1'
+  state: NJ
+wootax/24142:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: 08887
+    location_type: postcode
+  name: READINGTON TOWNSHIP
+  order: '0'
+  priority: '0'
+  rate: '6.625'
+  shipping: '1'
+  state: NJ
+wootax/24143:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: 08888
+    location_type: postcode
+  name: READINGTON TOWNSHIP
+  order: '0'
+  priority: '0'
+  rate: '6.625'
+  shipping: '1'
+  state: NJ
+wootax/24144:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: 08889
+    location_type: postcode
+  name: READINGTON TOWNSHIP
+  order: '0'
+  priority: '0'
+  rate: '6.625'
+  shipping: '1'
+  state: NJ
+wootax/24145:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: 08899
+    location_type: postcode
+  name: EDISON
+  order: '0'
+  priority: '0'
+  rate: '6.625'
+  shipping: '1'
+  state: NJ
+wootax/24146:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: 08901
+    location_type: postcode
+  name: NEW BRUNSWICK CITY
+  order: '0'
+  priority: '0'
+  rate: '6.625'
+  shipping: '1'
+  state: NJ
+wootax/24147:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: 08902
+    location_type: postcode
+  name: NORTH BRUNSWICK TOWNSHIP
+  order: '0'
+  priority: '0'
+  rate: '6.625'
+  shipping: '1'
+  state: NJ
+wootax/24148:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: 08903
+    location_type: postcode
+  name: NEW BRUNSWICK CITY
+  order: '0'
+  priority: '0'
+  rate: '6.625'
+  shipping: '1'
+  state: NJ
+wootax/24149:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: 08904
+    location_type: postcode
+  name: HIGHLAND PARK
+  order: '0'
+  priority: '0'
+  rate: '6.625'
+  shipping: '1'
+  state: NJ
+wootax/24150:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: 08906
+    location_type: postcode
+  name: EDISON
+  order: '0'
+  priority: '0'
+  rate: '6.625'
+  shipping: '1'
+  state: NJ
+wootax/24151:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: 08933
+    location_type: postcode
+  name: NEW BRUNSWICK CITY
+  order: '0'
+  priority: '0'
+  rate: '6.625'
+  shipping: '1'
+  state: NJ

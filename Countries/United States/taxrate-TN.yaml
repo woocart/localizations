@@ -1,0 +1,9854 @@
+wootax/32739:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '37010'
+    location_type: postcode
+  name: MONTGOMERY COUNTY
+  order: '0'
+  priority: '0'
+  rate: '9.5'
+  shipping: '1'
+  state: TN
+wootax/32740:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '37011'
+    location_type: postcode
+  name: NASHVILLE
+  order: '0'
+  priority: '0'
+  rate: '9.25'
+  shipping: '1'
+  state: TN
+wootax/32741:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '37012'
+    location_type: postcode
+  name: DEKALB COUNTY
+  order: '0'
+  priority: '0'
+  rate: '9.75'
+  shipping: '1'
+  state: TN
+wootax/32742:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '37013'
+    location_type: postcode
+  name: NASHVILLE
+  order: '0'
+  priority: '0'
+  rate: '9.25'
+  shipping: '1'
+  state: TN
+wootax/32743:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '37014'
+    location_type: postcode
+  name: WILLIAMSON COUNTY
+  order: '0'
+  priority: '0'
+  rate: '9.75'
+  shipping: '1'
+  state: TN
+wootax/32744:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '37015'
+    location_type: postcode
+  name: CHEATHAM COUNTY
+  order: '0'
+  priority: '0'
+  rate: '9.25'
+  shipping: '1'
+  state: TN
+wootax/32745:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '37016'
+    location_type: postcode
+  name: CANNON COUNTY
+  order: '0'
+  priority: '0'
+  rate: '8.75'
+  shipping: '1'
+  state: TN
+wootax/32746:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '37018'
+    location_type: postcode
+  name: COFFEE COUNTY
+  order: '0'
+  priority: '0'
+  rate: '9.75'
+  shipping: '1'
+  state: TN
+wootax/32747:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '37019'
+    location_type: postcode
+  name: MARSHALL COUNTY
+  order: '0'
+  priority: '0'
+  rate: '9.25'
+  shipping: '1'
+  state: TN
+wootax/32748:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '37020'
+    location_type: postcode
+  name: BEDFORD COUNTY
+  order: '0'
+  priority: '0'
+  rate: '9.75'
+  shipping: '1'
+  state: TN
+wootax/32749:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '37022'
+    location_type: postcode
+  name: SUMNER COUNTY
+  order: '0'
+  priority: '0'
+  rate: '9.25'
+  shipping: '1'
+  state: TN
+wootax/32750:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '37023'
+    location_type: postcode
+  name: STEWART COUNTY
+  order: '0'
+  priority: '0'
+  rate: '9.25'
+  shipping: '1'
+  state: TN
+wootax/32751:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '37024'
+    location_type: postcode
+  name: NASHVILLE
+  order: '0'
+  priority: '0'
+  rate: '9.25'
+  shipping: '1'
+  state: TN
+wootax/32752:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '37025'
+    location_type: postcode
+  name: HICKMAN COUNTY
+  order: '0'
+  priority: '0'
+  rate: '9.75'
+  shipping: '1'
+  state: TN
+wootax/32753:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '37026'
+    location_type: postcode
+  name: CANNON COUNTY
+  order: '0'
+  priority: '0'
+  rate: '8.75'
+  shipping: '1'
+  state: TN
+wootax/32754:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '37027'
+    location_type: postcode
+  name: BRENTWOOD (WILLIAMSON)
+  order: '0'
+  priority: '0'
+  rate: '9.75'
+  shipping: '1'
+  state: TN
+wootax/32755:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '37028'
+    location_type: postcode
+  name: STEWART COUNTY
+  order: '0'
+  priority: '0'
+  rate: '9.25'
+  shipping: '1'
+  state: TN
+wootax/32756:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '37029'
+    location_type: postcode
+  name: DICKSON COUNTY
+  order: '0'
+  priority: '0'
+  rate: '9.75'
+  shipping: '1'
+  state: TN
+wootax/32757:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '37030'
+    location_type: postcode
+  name: CARTHAGE
+  order: '0'
+  priority: '0'
+  rate: '9.75'
+  shipping: '1'
+  state: TN
+wootax/32758:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '37031'
+    location_type: postcode
+  name: SUMNER COUNTY
+  order: '0'
+  priority: '0'
+  rate: '9.25'
+  shipping: '1'
+  state: TN
+wootax/32759:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '37032'
+    location_type: postcode
+  name: ROBERTSON COUNTY
+  order: '0'
+  priority: '0'
+  rate: '9.75'
+  shipping: '1'
+  state: TN
+wootax/32760:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '37033'
+    location_type: postcode
+  name: HICKMAN COUNTY
+  order: '0'
+  priority: '0'
+  rate: '9.75'
+  shipping: '1'
+  state: TN
+wootax/32761:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '37034'
+    location_type: postcode
+  name: MARSHALL COUNTY
+  order: '0'
+  priority: '0'
+  rate: '9.25'
+  shipping: '1'
+  state: TN
+wootax/32762:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '37035'
+    location_type: postcode
+  name: CHEATHAM COUNTY
+  order: '0'
+  priority: '0'
+  rate: '9.25'
+  shipping: '1'
+  state: TN
+wootax/32763:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '37036'
+    location_type: postcode
+  name: DICKSON COUNTY
+  order: '0'
+  priority: '0'
+  rate: '9.75'
+  shipping: '1'
+  state: TN
+wootax/32764:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '37037'
+    location_type: postcode
+  name: RUTHERFORD COUNTY
+  order: '0'
+  priority: '0'
+  rate: '9.75'
+  shipping: '1'
+  state: TN
+wootax/32765:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '37040'
+    location_type: postcode
+  name: CLARKSVILLE
+  order: '0'
+  priority: '0'
+  rate: '9.5'
+  shipping: '1'
+  state: TN
+wootax/32766:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '37041'
+    location_type: postcode
+  name: CLARKSVILLE
+  order: '0'
+  priority: '0'
+  rate: '9.5'
+  shipping: '1'
+  state: TN
+wootax/32767:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '37042'
+    location_type: postcode
+  name: CLARKSVILLE
+  order: '0'
+  priority: '0'
+  rate: '9.5'
+  shipping: '1'
+  state: TN
+wootax/32768:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '37043'
+    location_type: postcode
+  name: CLARKSVILLE
+  order: '0'
+  priority: '0'
+  rate: '9.5'
+  shipping: '1'
+  state: TN
+wootax/32769:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '37044'
+    location_type: postcode
+  name: CLARKSVILLE
+  order: '0'
+  priority: '0'
+  rate: '9.5'
+  shipping: '1'
+  state: TN
+wootax/32770:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '37046'
+    location_type: postcode
+  name: WILLIAMSON COUNTY
+  order: '0'
+  priority: '0'
+  rate: '9.75'
+  shipping: '1'
+  state: TN
+wootax/32771:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '37047'
+    location_type: postcode
+  name: MARSHALL COUNTY
+  order: '0'
+  priority: '0'
+  rate: '9.25'
+  shipping: '1'
+  state: TN
+wootax/32772:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '37048'
+    location_type: postcode
+  name: SUMNER COUNTY
+  order: '0'
+  priority: '0'
+  rate: '9.25'
+  shipping: '1'
+  state: TN
+wootax/32773:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '37049'
+    location_type: postcode
+  name: CROSS PLAINS
+  order: '0'
+  priority: '0'
+  rate: '9.75'
+  shipping: '1'
+  state: TN
+wootax/32774:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '37050'
+    location_type: postcode
+  name: HOUSTON COUNTY
+  order: '0'
+  priority: '0'
+  rate: '9.75'
+  shipping: '1'
+  state: TN
+wootax/32775:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '37051'
+    location_type: postcode
+  name: DICKSON COUNTY
+  order: '0'
+  priority: '0'
+  rate: '9.75'
+  shipping: '1'
+  state: TN
+wootax/32776:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '37052'
+    location_type: postcode
+  name: MONTGOMERY COUNTY
+  order: '0'
+  priority: '0'
+  rate: '9.5'
+  shipping: '1'
+  state: TN
+wootax/32777:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '37055'
+    location_type: postcode
+  name: DICKSON
+  order: '0'
+  priority: '0'
+  rate: '9.75'
+  shipping: '1'
+  state: TN
+wootax/32778:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '37056'
+    location_type: postcode
+  name: DICKSON
+  order: '0'
+  priority: '0'
+  rate: '9.75'
+  shipping: '1'
+  state: TN
+wootax/32779:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '37057'
+    location_type: postcode
+  name: TROUSDALE COUNTY
+  order: '0'
+  priority: '0'
+  rate: '9.25'
+  shipping: '1'
+  state: TN
+wootax/32780:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '37058'
+    location_type: postcode
+  name: STEWART COUNTY
+  order: '0'
+  priority: '0'
+  rate: '9.25'
+  shipping: '1'
+  state: TN
+wootax/32781:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '37059'
+    location_type: postcode
+  name: DEKALB COUNTY
+  order: '0'
+  priority: '0'
+  rate: '9.75'
+  shipping: '1'
+  state: TN
+wootax/32782:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '37060'
+    location_type: postcode
+  name: RUTHERFORD COUNTY
+  order: '0'
+  priority: '0'
+  rate: '9.75'
+  shipping: '1'
+  state: TN
+wootax/32783:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '37061'
+    location_type: postcode
+  name: HOUSTON COUNTY
+  order: '0'
+  priority: '0'
+  rate: '9.75'
+  shipping: '1'
+  state: TN
+wootax/32784:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '37062'
+    location_type: postcode
+  name: FAIRVIEW
+  order: '0'
+  priority: '0'
+  rate: '9.75'
+  shipping: '1'
+  state: TN
+wootax/32785:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '37063'
+    location_type: postcode
+  name: RUTHERFORD COUNTY
+  order: '0'
+  priority: '0'
+  rate: '9.75'
+  shipping: '1'
+  state: TN
+wootax/32786:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '37064'
+    location_type: postcode
+  name: FRANKLIN
+  order: '0'
+  priority: '0'
+  rate: '9.75'
+  shipping: '1'
+  state: TN
+wootax/32787:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '37065'
+    location_type: postcode
+  name: FRANKLIN
+  order: '0'
+  priority: '0'
+  rate: '9.75'
+  shipping: '1'
+  state: TN
+wootax/32788:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '37066'
+    location_type: postcode
+  name: GALLATIN
+  order: '0'
+  priority: '0'
+  rate: '9.25'
+  shipping: '1'
+  state: TN
+wootax/32789:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '37067'
+    location_type: postcode
+  name: FRANKLIN
+  order: '0'
+  priority: '0'
+  rate: '9.75'
+  shipping: '1'
+  state: TN
+wootax/32790:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '37068'
+    location_type: postcode
+  name: FRANKLIN
+  order: '0'
+  priority: '0'
+  rate: '9.75'
+  shipping: '1'
+  state: TN
+wootax/32791:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '37069'
+    location_type: postcode
+  name: WILLIAMSON COUNTY
+  order: '0'
+  priority: '0'
+  rate: '9.75'
+  shipping: '1'
+  state: TN
+wootax/32792:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '37070'
+    location_type: postcode
+  name: GOODLETTSVILLE
+  order: '0'
+  priority: '0'
+  rate: '9.25'
+  shipping: '1'
+  state: TN
+wootax/32793:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '37072'
+    location_type: postcode
+  name: GOODLETTSVILLE
+  order: '0'
+  priority: '0'
+  rate: '9.25'
+  shipping: '1'
+  state: TN
+wootax/32794:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '37073'
+    location_type: postcode
+  name: GREENBRIER
+  order: '0'
+  priority: '0'
+  rate: '9.75'
+  shipping: '1'
+  state: TN
+wootax/32795:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '37074'
+    location_type: postcode
+  name: TROUSDALE COUNTY
+  order: '0'
+  priority: '0'
+  rate: '9.25'
+  shipping: '1'
+  state: TN
+wootax/32796:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '37075'
+    location_type: postcode
+  name: HENDERSONVILLE
+  order: '0'
+  priority: '0'
+  rate: '9.25'
+  shipping: '1'
+  state: TN
+wootax/32797:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '37076'
+    location_type: postcode
+  name: NASHVILLE
+  order: '0'
+  priority: '0'
+  rate: '9.25'
+  shipping: '1'
+  state: TN
+wootax/32798:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '37077'
+    location_type: postcode
+  name: HENDERSONVILLE
+  order: '0'
+  priority: '0'
+  rate: '9.25'
+  shipping: '1'
+  state: TN
+wootax/32799:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '37078'
+    location_type: postcode
+  name: HUMPHREYS COUNTY
+  order: '0'
+  priority: '0'
+  rate: '9.75'
+  shipping: '1'
+  state: TN
+wootax/32800:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '37079'
+    location_type: postcode
+  name: STEWART COUNTY
+  order: '0'
+  priority: '0'
+  rate: '9.25'
+  shipping: '1'
+  state: TN
+wootax/32801:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '37080'
+    location_type: postcode
+  name: NASHVILLE
+  order: '0'
+  priority: '0'
+  rate: '9.25'
+  shipping: '1'
+  state: TN
+wootax/32802:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '37082'
+    location_type: postcode
+  name: CHEATHAM COUNTY
+  order: '0'
+  priority: '0'
+  rate: '9.25'
+  shipping: '1'
+  state: TN
+wootax/32803:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '37083'
+    location_type: postcode
+  name: MACON COUNTY
+  order: '0'
+  priority: '0'
+  rate: '9.75'
+  shipping: '1'
+  state: TN
+wootax/32804:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '37085'
+    location_type: postcode
+  name: RUTHERFORD COUNTY
+  order: '0'
+  priority: '0'
+  rate: '9.75'
+  shipping: '1'
+  state: TN
+wootax/32805:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '37086'
+    location_type: postcode
+  name: LAVERGNE
+  order: '0'
+  priority: '0'
+  rate: '9.75'
+  shipping: '1'
+  state: TN
+wootax/32806:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '37087'
+    location_type: postcode
+  name: LEBANON
+  order: '0'
+  priority: '0'
+  rate: '9.25'
+  shipping: '1'
+  state: TN
+wootax/32807:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '37088'
+    location_type: postcode
+  name: LEBANON
+  order: '0'
+  priority: '0'
+  rate: '9.25'
+  shipping: '1'
+  state: TN
+wootax/32808:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '37089'
+    location_type: postcode
+  name: LAVERGNE
+  order: '0'
+  priority: '0'
+  rate: '9.75'
+  shipping: '1'
+  state: TN
+wootax/32809:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '37090'
+    location_type: postcode
+  name: WILSON COUNTY
+  order: '0'
+  priority: '0'
+  rate: '9.25'
+  shipping: '1'
+  state: TN
+wootax/32810:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '37091'
+    location_type: postcode
+  name: LEWISBURG
+  order: '0'
+  priority: '0'
+  rate: '9.25'
+  shipping: '1'
+  state: TN
+wootax/32811:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '37095'
+    location_type: postcode
+  name: DEKALB COUNTY
+  order: '0'
+  priority: '0'
+  rate: '9.75'
+  shipping: '1'
+  state: TN
+wootax/32812:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '37096'
+    location_type: postcode
+  name: PERRY COUNTY
+  order: '0'
+  priority: '0'
+  rate: '9.5'
+  shipping: '1'
+  state: TN
+wootax/32813:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '37097'
+    location_type: postcode
+  name: PERRY COUNTY
+  order: '0'
+  priority: '0'
+  rate: '9.5'
+  shipping: '1'
+  state: TN
+wootax/32814:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '37098'
+    location_type: postcode
+  name: HICKMAN COUNTY
+  order: '0'
+  priority: '0'
+  rate: '9.75'
+  shipping: '1'
+  state: TN
+wootax/32815:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '37101'
+    location_type: postcode
+  name: HUMPHREYS COUNTY
+  order: '0'
+  priority: '0'
+  rate: '9.75'
+  shipping: '1'
+  state: TN
+wootax/32816:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '37110'
+    location_type: postcode
+  name: WARREN COUNTY
+  order: '0'
+  priority: '0'
+  rate: '9.75'
+  shipping: '1'
+  state: TN
+wootax/32817:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '37115'
+    location_type: postcode
+  name: NASHVILLE
+  order: '0'
+  priority: '0'
+  rate: '9.25'
+  shipping: '1'
+  state: TN
+wootax/32818:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '37116'
+    location_type: postcode
+  name: NASHVILLE
+  order: '0'
+  priority: '0'
+  rate: '9.25'
+  shipping: '1'
+  state: TN
+wootax/32819:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '37118'
+    location_type: postcode
+  name: RUTHERFORD COUNTY
+  order: '0'
+  priority: '0'
+  rate: '9.75'
+  shipping: '1'
+  state: TN
+wootax/32820:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '37119'
+    location_type: postcode
+  name: MITCHELLVILLE
+  order: '0'
+  priority: '0'
+  rate: '9.25'
+  shipping: '1'
+  state: TN
+wootax/32821:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '37121'
+    location_type: postcode
+  name: MOUNT JULIET
+  order: '0'
+  priority: '0'
+  rate: '9.25'
+  shipping: '1'
+  state: TN
+wootax/32822:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '37122'
+    location_type: postcode
+  name: MOUNT JULIET
+  order: '0'
+  priority: '0'
+  rate: '9.25'
+  shipping: '1'
+  state: TN
+wootax/32823:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '37127'
+    location_type: postcode
+  name: RUTHERFORD COUNTY
+  order: '0'
+  priority: '0'
+  rate: '9.75'
+  shipping: '1'
+  state: TN
+wootax/32824:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '37128'
+    location_type: postcode
+  name: MURFREESBORO
+  order: '0'
+  priority: '0'
+  rate: '9.75'
+  shipping: '1'
+  state: TN
+wootax/32825:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '37129'
+    location_type: postcode
+  name: MURFREESBORO
+  order: '0'
+  priority: '0'
+  rate: '9.75'
+  shipping: '1'
+  state: TN
+wootax/32826:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '37130'
+    location_type: postcode
+  name: MURFREESBORO
+  order: '0'
+  priority: '0'
+  rate: '9.75'
+  shipping: '1'
+  state: TN
+wootax/32827:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '37131'
+    location_type: postcode
+  name: MURFREESBORO
+  order: '0'
+  priority: '0'
+  rate: '9.75'
+  shipping: '1'
+  state: TN
+wootax/32828:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '37132'
+    location_type: postcode
+  name: MURFREESBORO
+  order: '0'
+  priority: '0'
+  rate: '9.75'
+  shipping: '1'
+  state: TN
+wootax/32829:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '37133'
+    location_type: postcode
+  name: MURFREESBORO
+  order: '0'
+  priority: '0'
+  rate: '9.75'
+  shipping: '1'
+  state: TN
+wootax/32830:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '37134'
+    location_type: postcode
+  name: HUMPHREYS COUNTY
+  order: '0'
+  priority: '0'
+  rate: '9.75'
+  shipping: '1'
+  state: TN
+wootax/32831:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '37135'
+    location_type: postcode
+  name: NOLENSVILLE
+  order: '0'
+  priority: '0'
+  rate: '9.75'
+  shipping: '1'
+  state: TN
+wootax/32832:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '37137'
+    location_type: postcode
+  name: HICKMAN COUNTY
+  order: '0'
+  priority: '0'
+  rate: '9.75'
+  shipping: '1'
+  state: TN
+wootax/32833:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '37138'
+    location_type: postcode
+  name: NASHVILLE
+  order: '0'
+  priority: '0'
+  rate: '9.25'
+  shipping: '1'
+  state: TN
+wootax/32834:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '37140'
+    location_type: postcode
+  name: HICKMAN COUNTY
+  order: '0'
+  priority: '0'
+  rate: '9.75'
+  shipping: '1'
+  state: TN
+wootax/32835:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '37141'
+    location_type: postcode
+  name: ORLINDA
+  order: '0'
+  priority: '0'
+  rate: '9.75'
+  shipping: '1'
+  state: TN
+wootax/32836:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '37142'
+    location_type: postcode
+  name: MONTGOMERY COUNTY
+  order: '0'
+  priority: '0'
+  rate: '9.5'
+  shipping: '1'
+  state: TN
+wootax/32837:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '37143'
+    location_type: postcode
+  name: PEGRAM
+  order: '0'
+  priority: '0'
+  rate: '9.75'
+  shipping: '1'
+  state: TN
+wootax/32838:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '37144'
+    location_type: postcode
+  name: LINCOLN COUNTY
+  order: '0'
+  priority: '0'
+  rate: '9.5'
+  shipping: '1'
+  state: TN
+wootax/32839:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '37145'
+    location_type: postcode
+  name: SMITH COUNTY
+  order: '0'
+  priority: '0'
+  rate: '9'
+  shipping: '1'
+  state: TN
+wootax/32840:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '37146'
+    location_type: postcode
+  name: PLEASANT VIEW
+  order: '0'
+  priority: '0'
+  rate: '9.25'
+  shipping: '1'
+  state: TN
+wootax/32841:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '37148'
+    location_type: postcode
+  name: PORTLAND(SUMNER)
+  order: '0'
+  priority: '0'
+  rate: '9.25'
+  shipping: '1'
+  state: TN
+wootax/32842:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '37149'
+    location_type: postcode
+  name: RUTHERFORD COUNTY
+  order: '0'
+  priority: '0'
+  rate: '9.75'
+  shipping: '1'
+  state: TN
+wootax/32843:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '37150'
+    location_type: postcode
+  name: CLAY COUNTY
+  order: '0'
+  priority: '0'
+  rate: '9.75'
+  shipping: '1'
+  state: TN
+wootax/32844:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '37151'
+    location_type: postcode
+  name: SMITH COUNTY
+  order: '0'
+  priority: '0'
+  rate: '9'
+  shipping: '1'
+  state: TN
+wootax/32845:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '37152'
+    location_type: postcode
+  name: ' RIDGETOP'
+  order: '0'
+  priority: '0'
+  rate: '9.75'
+  shipping: '1'
+  state: TN
+wootax/32846:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '37153'
+    location_type: postcode
+  name: RUTHERFORD COUNTY
+  order: '0'
+  priority: '0'
+  rate: '9.75'
+  shipping: '1'
+  state: TN
+wootax/32847:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '37160'
+    location_type: postcode
+  name: SHELBYVILLE
+  order: '0'
+  priority: '0'
+  rate: '9.75'
+  shipping: '1'
+  state: TN
+wootax/32848:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '37161'
+    location_type: postcode
+  name: SHELBYVILLE
+  order: '0'
+  priority: '0'
+  rate: '9.75'
+  shipping: '1'
+  state: TN
+wootax/32849:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '37165'
+    location_type: postcode
+  name: SLAYDEN
+  order: '0'
+  priority: '0'
+  rate: '9.75'
+  shipping: '1'
+  state: TN
+wootax/32850:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '37166'
+    location_type: postcode
+  name: DEKALB COUNTY
+  order: '0'
+  priority: '0'
+  rate: '9.75'
+  shipping: '1'
+  state: TN
+wootax/32851:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '37167'
+    location_type: postcode
+  name: SMYRNA
+  order: '0'
+  priority: '0'
+  rate: '9.75'
+  shipping: '1'
+  state: TN
+wootax/32852:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '37171'
+    location_type: postcode
+  name: MONTGOMERY COUNTY
+  order: '0'
+  priority: '0'
+  rate: '9.5'
+  shipping: '1'
+  state: TN
+wootax/32853:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '37172'
+    location_type: postcode
+  name: SPRINGFIELD
+  order: '0'
+  priority: '0'
+  rate: '9.75'
+  shipping: '1'
+  state: TN
+wootax/32854:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '37174'
+    location_type: postcode
+  name: ' SPRING HILL'
+  order: '0'
+  priority: '0'
+  rate: '9.25'
+  shipping: '1'
+  state: TN
+wootax/32855:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '37175'
+    location_type: postcode
+  name: HOUSTON COUNTY
+  order: '0'
+  priority: '0'
+  rate: '9.75'
+  shipping: '1'
+  state: TN
+wootax/32856:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '37178'
+    location_type: postcode
+  name: TENNESSEE RIDGE
+  order: '0'
+  priority: '0'
+  rate: '9.75'
+  shipping: '1'
+  state: TN
+wootax/32857:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '37179'
+    location_type: postcode
+  name: THOMPSONS STATION
+  order: '0'
+  priority: '0'
+  rate: '9.75'
+  shipping: '1'
+  state: TN
+wootax/32858:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '37180'
+    location_type: postcode
+  name: BEDFORD COUNTY
+  order: '0'
+  priority: '0'
+  rate: '9.75'
+  shipping: '1'
+  state: TN
+wootax/32859:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '37181'
+    location_type: postcode
+  name: DICKSON COUNTY
+  order: '0'
+  priority: '0'
+  rate: '9.75'
+  shipping: '1'
+  state: TN
+wootax/32860:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '37183'
+    location_type: postcode
+  name: BEDFORD COUNTY
+  order: '0'
+  priority: '0'
+  rate: '9.75'
+  shipping: '1'
+  state: TN
+wootax/32861:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '37184'
+    location_type: postcode
+  name: WILSON COUNTY
+  order: '0'
+  priority: '0'
+  rate: '9.25'
+  shipping: '1'
+  state: TN
+wootax/32862:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '37185'
+    location_type: postcode
+  name: HUMPHREYS COUNTY
+  order: '0'
+  priority: '0'
+  rate: '9.75'
+  shipping: '1'
+  state: TN
+wootax/32863:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '37186'
+    location_type: postcode
+  name: MACON COUNTY
+  order: '0'
+  priority: '0'
+  rate: '9.75'
+  shipping: '1'
+  state: TN
+wootax/32864:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '37187'
+    location_type: postcode
+  name: WHITE BLUFF
+  order: '0'
+  priority: '0'
+  rate: '9.75'
+  shipping: '1'
+  state: TN
+wootax/32865:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '37188'
+    location_type: postcode
+  name: WHITE HOUSE
+  order: '0'
+  priority: '0'
+  rate: '9.75'
+  shipping: '1'
+  state: TN
+wootax/32866:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '37189'
+    location_type: postcode
+  name: NASHVILLE
+  order: '0'
+  priority: '0'
+  rate: '9.25'
+  shipping: '1'
+  state: TN
+wootax/32867:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '37190'
+    location_type: postcode
+  name: CANNON COUNTY
+  order: '0'
+  priority: '0'
+  rate: '8.75'
+  shipping: '1'
+  state: TN
+wootax/32868:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '37191'
+    location_type: postcode
+  name: MONTGOMERY COUNTY
+  order: '0'
+  priority: '0'
+  rate: '9.5'
+  shipping: '1'
+  state: TN
+wootax/32869:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '37201'
+    location_type: postcode
+  name: NASHVILLE
+  order: '0'
+  priority: '0'
+  rate: '9.25'
+  shipping: '1'
+  state: TN
+wootax/32870:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '37202'
+    location_type: postcode
+  name: NASHVILLE
+  order: '0'
+  priority: '0'
+  rate: '9.25'
+  shipping: '1'
+  state: TN
+wootax/32871:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '37203'
+    location_type: postcode
+  name: NASHVILLE
+  order: '0'
+  priority: '0'
+  rate: '9.25'
+  shipping: '1'
+  state: TN
+wootax/32872:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '37204'
+    location_type: postcode
+  name: NASHVILLE
+  order: '0'
+  priority: '0'
+  rate: '9.25'
+  shipping: '1'
+  state: TN
+wootax/32873:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '37205'
+    location_type: postcode
+  name: NASHVILLE
+  order: '0'
+  priority: '0'
+  rate: '9.25'
+  shipping: '1'
+  state: TN
+wootax/32874:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '37206'
+    location_type: postcode
+  name: NASHVILLE
+  order: '0'
+  priority: '0'
+  rate: '9.25'
+  shipping: '1'
+  state: TN
+wootax/32875:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '37207'
+    location_type: postcode
+  name: NASHVILLE
+  order: '0'
+  priority: '0'
+  rate: '9.25'
+  shipping: '1'
+  state: TN
+wootax/32876:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '37208'
+    location_type: postcode
+  name: NASHVILLE
+  order: '0'
+  priority: '0'
+  rate: '9.25'
+  shipping: '1'
+  state: TN
+wootax/32877:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '37209'
+    location_type: postcode
+  name: NASHVILLE
+  order: '0'
+  priority: '0'
+  rate: '9.25'
+  shipping: '1'
+  state: TN
+wootax/32878:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '37210'
+    location_type: postcode
+  name: NASHVILLE
+  order: '0'
+  priority: '0'
+  rate: '9.25'
+  shipping: '1'
+  state: TN
+wootax/32879:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '37211'
+    location_type: postcode
+  name: NASHVILLE
+  order: '0'
+  priority: '0'
+  rate: '9.25'
+  shipping: '1'
+  state: TN
+wootax/32880:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '37212'
+    location_type: postcode
+  name: NASHVILLE
+  order: '0'
+  priority: '0'
+  rate: '9.25'
+  shipping: '1'
+  state: TN
+wootax/32881:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '37213'
+    location_type: postcode
+  name: NASHVILLE
+  order: '0'
+  priority: '0'
+  rate: '9.25'
+  shipping: '1'
+  state: TN
+wootax/32882:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '37214'
+    location_type: postcode
+  name: NASHVILLE
+  order: '0'
+  priority: '0'
+  rate: '9.25'
+  shipping: '1'
+  state: TN
+wootax/32883:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '37215'
+    location_type: postcode
+  name: NASHVILLE
+  order: '0'
+  priority: '0'
+  rate: '9.25'
+  shipping: '1'
+  state: TN
+wootax/32884:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '37216'
+    location_type: postcode
+  name: NASHVILLE
+  order: '0'
+  priority: '0'
+  rate: '9.25'
+  shipping: '1'
+  state: TN
+wootax/32885:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '37217'
+    location_type: postcode
+  name: NASHVILLE
+  order: '0'
+  priority: '0'
+  rate: '9.25'
+  shipping: '1'
+  state: TN
+wootax/32886:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '37218'
+    location_type: postcode
+  name: NASHVILLE
+  order: '0'
+  priority: '0'
+  rate: '9.25'
+  shipping: '1'
+  state: TN
+wootax/32887:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '37219'
+    location_type: postcode
+  name: NASHVILLE
+  order: '0'
+  priority: '0'
+  rate: '9.25'
+  shipping: '1'
+  state: TN
+wootax/32888:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '37220'
+    location_type: postcode
+  name: NASHVILLE
+  order: '0'
+  priority: '0'
+  rate: '9.25'
+  shipping: '1'
+  state: TN
+wootax/32889:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '37221'
+    location_type: postcode
+  name: NASHVILLE
+  order: '0'
+  priority: '0'
+  rate: '9.25'
+  shipping: '1'
+  state: TN
+wootax/32890:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '37222'
+    location_type: postcode
+  name: NASHVILLE
+  order: '0'
+  priority: '0'
+  rate: '9.25'
+  shipping: '1'
+  state: TN
+wootax/32891:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '37224'
+    location_type: postcode
+  name: NASHVILLE
+  order: '0'
+  priority: '0'
+  rate: '9.25'
+  shipping: '1'
+  state: TN
+wootax/32892:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '37227'
+    location_type: postcode
+  name: NASHVILLE
+  order: '0'
+  priority: '0'
+  rate: '9.25'
+  shipping: '1'
+  state: TN
+wootax/32893:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '37228'
+    location_type: postcode
+  name: NASHVILLE
+  order: '0'
+  priority: '0'
+  rate: '9.25'
+  shipping: '1'
+  state: TN
+wootax/32894:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '37229'
+    location_type: postcode
+  name: NASHVILLE
+  order: '0'
+  priority: '0'
+  rate: '9.25'
+  shipping: '1'
+  state: TN
+wootax/32895:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '37232'
+    location_type: postcode
+  name: NASHVILLE
+  order: '0'
+  priority: '0'
+  rate: '9.25'
+  shipping: '1'
+  state: TN
+wootax/32896:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '37234'
+    location_type: postcode
+  name: NASHVILLE
+  order: '0'
+  priority: '0'
+  rate: '9.25'
+  shipping: '1'
+  state: TN
+wootax/32897:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '37235'
+    location_type: postcode
+  name: NASHVILLE
+  order: '0'
+  priority: '0'
+  rate: '9.25'
+  shipping: '1'
+  state: TN
+wootax/32898:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '37236'
+    location_type: postcode
+  name: NASHVILLE
+  order: '0'
+  priority: '0'
+  rate: '9.25'
+  shipping: '1'
+  state: TN
+wootax/32899:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '37238'
+    location_type: postcode
+  name: NASHVILLE
+  order: '0'
+  priority: '0'
+  rate: '9.25'
+  shipping: '1'
+  state: TN
+wootax/32900:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '37240'
+    location_type: postcode
+  name: NASHVILLE
+  order: '0'
+  priority: '0'
+  rate: '9.25'
+  shipping: '1'
+  state: TN
+wootax/32901:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '37242'
+    location_type: postcode
+  name: NASHVILLE
+  order: '0'
+  priority: '0'
+  rate: '9.25'
+  shipping: '1'
+  state: TN
+wootax/32902:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '37243'
+    location_type: postcode
+  name: NASHVILLE
+  order: '0'
+  priority: '0'
+  rate: '9.25'
+  shipping: '1'
+  state: TN
+wootax/32903:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '37246'
+    location_type: postcode
+  name: NASHVILLE
+  order: '0'
+  priority: '0'
+  rate: '9.25'
+  shipping: '1'
+  state: TN
+wootax/32904:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '37250'
+    location_type: postcode
+  name: NASHVILLE
+  order: '0'
+  priority: '0'
+  rate: '9.25'
+  shipping: '1'
+  state: TN
+wootax/32905:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '37301'
+    location_type: postcode
+  name: GRUNDY COUNTY
+  order: '0'
+  priority: '0'
+  rate: '9.25'
+  shipping: '1'
+  state: TN
+wootax/32906:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '37302'
+    location_type: postcode
+  name: HAMILTON COUNTY
+  order: '0'
+  priority: '0'
+  rate: '9.25'
+  shipping: '1'
+  state: TN
+wootax/32907:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '37303'
+    location_type: postcode
+  name: ATHENS
+  order: '0'
+  priority: '0'
+  rate: '9'
+  shipping: '1'
+  state: TN
+wootax/32908:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '37305'
+    location_type: postcode
+  name: BEERSHEBA SPRINGS
+  order: '0'
+  priority: '0'
+  rate: '9.25'
+  shipping: '1'
+  state: TN
+wootax/32909:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '37306'
+    location_type: postcode
+  name: FRANKLIN COUNTY
+  order: '0'
+  priority: '0'
+  rate: '9.25'
+  shipping: '1'
+  state: TN
+wootax/32910:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '37307'
+    location_type: postcode
+  name: POLK COUNTY
+  order: '0'
+  priority: '0'
+  rate: '9.25'
+  shipping: '1'
+  state: TN
+wootax/32911:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '37308'
+    location_type: postcode
+  name: HAMILTON COUNTY
+  order: '0'
+  priority: '0'
+  rate: '9.25'
+  shipping: '1'
+  state: TN
+wootax/32912:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '37309'
+    location_type: postcode
+  name: MCMINN COUNTY
+  order: '0'
+  priority: '0'
+  rate: '9'
+  shipping: '1'
+  state: TN
+wootax/32913:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '37310'
+    location_type: postcode
+  name: BRADLEY COUNTY
+  order: '0'
+  priority: '0'
+  rate: '9.75'
+  shipping: '1'
+  state: TN
+wootax/32914:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '37311'
+    location_type: postcode
+  name: CLEVELAND
+  order: '0'
+  priority: '0'
+  rate: '9.75'
+  shipping: '1'
+  state: TN
+wootax/32915:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '37312'
+    location_type: postcode
+  name: CLEVELAND
+  order: '0'
+  priority: '0'
+  rate: '9.75'
+  shipping: '1'
+  state: TN
+wootax/32916:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '37313'
+    location_type: postcode
+  name: GRUNDY COUNTY
+  order: '0'
+  priority: '0'
+  rate: '9.25'
+  shipping: '1'
+  state: TN
+wootax/32917:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '37314'
+    location_type: postcode
+  name: TELLICO PLAINS
+  order: '0'
+  priority: '0'
+  rate: '9.25'
+  shipping: '1'
+  state: TN
+wootax/32918:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '37315'
+    location_type: postcode
+  name: COLLEGEDALE
+  order: '0'
+  priority: '0'
+  rate: '9.25'
+  shipping: '1'
+  state: TN
+wootax/32919:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '37317'
+    location_type: postcode
+  name: POLK COUNTY
+  order: '0'
+  priority: '0'
+  rate: '9.25'
+  shipping: '1'
+  state: TN
+wootax/32920:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '37318'
+    location_type: postcode
+  name: COWAN
+  order: '0'
+  priority: '0'
+  rate: '9.25'
+  shipping: '1'
+  state: TN
+wootax/32921:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '37320'
+    location_type: postcode
+  name: CLEVELAND
+  order: '0'
+  priority: '0'
+  rate: '9.75'
+  shipping: '1'
+  state: TN
+wootax/32922:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '37321'
+    location_type: postcode
+  name: RHEA COUNTY
+  order: '0'
+  priority: '0'
+  rate: '9.75'
+  shipping: '1'
+  state: TN
+wootax/32923:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '37322'
+    location_type: postcode
+  name: MEIGS COUNTY
+  order: '0'
+  priority: '0'
+  rate: '9'
+  shipping: '1'
+  state: TN
+wootax/32924:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '37323'
+    location_type: postcode
+  name: BRADLEY COUNTY
+  order: '0'
+  priority: '0'
+  rate: '9.75'
+  shipping: '1'
+  state: TN
+wootax/32925:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '37324'
+    location_type: postcode
+  name: FRANKLIN COUNTY
+  order: '0'
+  priority: '0'
+  rate: '9.25'
+  shipping: '1'
+  state: TN
+wootax/32926:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '37325'
+    location_type: postcode
+  name: POLK COUNTY
+  order: '0'
+  priority: '0'
+  rate: '9.25'
+  shipping: '1'
+  state: TN
+wootax/32927:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '37326'
+    location_type: postcode
+  name: DUCKTOWN
+  order: '0'
+  priority: '0'
+  rate: '9.25'
+  shipping: '1'
+  state: TN
+wootax/32928:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '37327'
+    location_type: postcode
+  name: DUNLAP
+  order: '0'
+  priority: '0'
+  rate: '9.75'
+  shipping: '1'
+  state: TN
+wootax/32929:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '37328'
+    location_type: postcode
+  name: LINCOLN COUNTY
+  order: '0'
+  priority: '0'
+  rate: '9.5'
+  shipping: '1'
+  state: TN
+wootax/32930:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '37329'
+    location_type: postcode
+  name: MCMINN COUNTY
+  order: '0'
+  priority: '0'
+  rate: '9'
+  shipping: '1'
+  state: TN
+wootax/32931:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '37330'
+    location_type: postcode
+  name: FRANKLIN COUNTY
+  order: '0'
+  priority: '0'
+  rate: '9.25'
+  shipping: '1'
+  state: TN
+wootax/32932:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '37331'
+    location_type: postcode
+  name: ETOWAH
+  order: '0'
+  priority: '0'
+  rate: '9'
+  shipping: '1'
+  state: TN
+wootax/32933:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '37332'
+    location_type: postcode
+  name: RHEA COUNTY
+  order: '0'
+  priority: '0'
+  rate: '9.75'
+  shipping: '1'
+  state: TN
+wootax/32934:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '37333'
+    location_type: postcode
+  name: POLK COUNTY
+  order: '0'
+  priority: '0'
+  rate: '9.25'
+  shipping: '1'
+  state: TN
+wootax/32935:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '37334'
+    location_type: postcode
+  name: LINCOLN COUNTY
+  order: '0'
+  priority: '0'
+  rate: '9.5'
+  shipping: '1'
+  state: TN
+wootax/32936:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '37335'
+    location_type: postcode
+  name: LINCOLN COUNTY
+  order: '0'
+  priority: '0'
+  rate: '9.5'
+  shipping: '1'
+  state: TN
+wootax/32937:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '37336'
+    location_type: postcode
+  name: BRADLEY COUNTY
+  order: '0'
+  priority: '0'
+  rate: '9.75'
+  shipping: '1'
+  state: TN
+wootax/32938:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '37337'
+    location_type: postcode
+  name: CUMBERLAND COUNTY
+  order: '0'
+  priority: '0'
+  rate: '9.75'
+  shipping: '1'
+  state: TN
+wootax/32939:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '37338'
+    location_type: postcode
+  name: BLEDSOE COUNTY
+  order: '0'
+  priority: '0'
+  rate: '9.25'
+  shipping: '1'
+  state: TN
+wootax/32940:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '37339'
+    location_type: postcode
+  name: GRUETLI LAAGER
+  order: '0'
+  priority: '0'
+  rate: '9.25'
+  shipping: '1'
+  state: TN
+wootax/32941:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '37340'
+    location_type: postcode
+  name: MARION COUNTY
+  order: '0'
+  priority: '0'
+  rate: '9.75'
+  shipping: '1'
+  state: TN
+wootax/32942:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '37341'
+    location_type: postcode
+  name: HAMILTON COUNTY
+  order: '0'
+  priority: '0'
+  rate: '9.25'
+  shipping: '1'
+  state: TN
+wootax/32943:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '37342'
+    location_type: postcode
+  name: COFFEE COUNTY
+  order: '0'
+  priority: '0'
+  rate: '9.75'
+  shipping: '1'
+  state: TN
+wootax/32944:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '37343'
+    location_type: postcode
+  name: CHATTANOOGA
+  order: '0'
+  priority: '0'
+  rate: '9.25'
+  shipping: '1'
+  state: TN
+wootax/32945:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '37345'
+    location_type: postcode
+  name: FRANKLIN COUNTY
+  order: '0'
+  priority: '0'
+  rate: '9.25'
+  shipping: '1'
+  state: TN
+wootax/32946:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '37347'
+    location_type: postcode
+  name: JASPER
+  order: '0'
+  priority: '0'
+  rate: '9.75'
+  shipping: '1'
+  state: TN
+wootax/32947:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '37348'
+    location_type: postcode
+  name: LINCOLN COUNTY
+  order: '0'
+  priority: '0'
+  rate: '9.5'
+  shipping: '1'
+  state: TN
+wootax/32948:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '37350'
+    location_type: postcode
+  name: LOOKOUT MOUNTAIN
+  order: '0'
+  priority: '0'
+  rate: '9.25'
+  shipping: '1'
+  state: TN
+wootax/32949:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '37351'
+    location_type: postcode
+  name: CHATTANOOGA
+  order: '0'
+  priority: '0'
+  rate: '9.25'
+  shipping: '1'
+  state: TN
+wootax/32950:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '37352'
+    location_type: postcode
+  name: MOORE COUNTY
+  order: '0'
+  priority: '0'
+  rate: '9.5'
+  shipping: '1'
+  state: TN
+wootax/32951:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '37353'
+    location_type: postcode
+  name: BRADLEY COUNTY
+  order: '0'
+  priority: '0'
+  rate: '9.75'
+  shipping: '1'
+  state: TN
+wootax/32952:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '37354'
+    location_type: postcode
+  name: MONROE COUNTY
+  order: '0'
+  priority: '0'
+  rate: '9.25'
+  shipping: '1'
+  state: TN
+wootax/32953:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '37355'
+    location_type: postcode
+  name: COFFEE COUNTY
+  order: '0'
+  priority: '0'
+  rate: '9.75'
+  shipping: '1'
+  state: TN
+wootax/32954:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '37356'
+    location_type: postcode
+  name: ' MONTEAGLE'
+  order: '0'
+  priority: '0'
+  rate: '9.75'
+  shipping: '1'
+  state: TN
+wootax/32955:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '37357'
+    location_type: postcode
+  name: WARREN COUNTY
+  order: '0'
+  priority: '0'
+  rate: '9.75'
+  shipping: '1'
+  state: TN
+wootax/32956:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '37359'
+    location_type: postcode
+  name: MOORE COUNTY
+  order: '0'
+  priority: '0'
+  rate: '9.5'
+  shipping: '1'
+  state: TN
+wootax/32957:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '37360'
+    location_type: postcode
+  name: BEDFORD COUNTY
+  order: '0'
+  priority: '0'
+  rate: '9.75'
+  shipping: '1'
+  state: TN
+wootax/32958:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '37361'
+    location_type: postcode
+  name: POLK COUNTY
+  order: '0'
+  priority: '0'
+  rate: '9.25'
+  shipping: '1'
+  state: TN
+wootax/32959:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '37362'
+    location_type: postcode
+  name: POLK COUNTY
+  order: '0'
+  priority: '0'
+  rate: '9.25'
+  shipping: '1'
+  state: TN
+wootax/32960:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '37363'
+    location_type: postcode
+  name: HAMILTON COUNTY
+  order: '0'
+  priority: '0'
+  rate: '9.25'
+  shipping: '1'
+  state: TN
+wootax/32961:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '37364'
+    location_type: postcode
+  name: CLEVELAND
+  order: '0'
+  priority: '0'
+  rate: '9.75'
+  shipping: '1'
+  state: TN
+wootax/32962:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '37365'
+    location_type: postcode
+  name: PALMER
+  order: '0'
+  priority: '0'
+  rate: '9.25'
+  shipping: '1'
+  state: TN
+wootax/32963:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '37366'
+    location_type: postcode
+  name: GRUNDY COUNTY
+  order: '0'
+  priority: '0'
+  rate: '9.25'
+  shipping: '1'
+  state: TN
+wootax/32964:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '37367'
+    location_type: postcode
+  name: BLEDSOE COUNTY
+  order: '0'
+  priority: '0'
+  rate: '9.25'
+  shipping: '1'
+  state: TN
+wootax/32965:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '37369'
+    location_type: postcode
+  name: POLK COUNTY
+  order: '0'
+  priority: '0'
+  rate: '9.25'
+  shipping: '1'
+  state: TN
+wootax/32966:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '37370'
+    location_type: postcode
+  name: MCMINN COUNTY
+  order: '0'
+  priority: '0'
+  rate: '9'
+  shipping: '1'
+  state: TN
+wootax/32967:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '37371'
+    location_type: postcode
+  name: ATHENS
+  order: '0'
+  priority: '0'
+  rate: '9'
+  shipping: '1'
+  state: TN
+wootax/32968:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '37373'
+    location_type: postcode
+  name: HAMILTON COUNTY
+  order: '0'
+  priority: '0'
+  rate: '9.25'
+  shipping: '1'
+  state: TN
+wootax/32969:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '37374'
+    location_type: postcode
+  name: MARION COUNTY
+  order: '0'
+  priority: '0'
+  rate: '9.75'
+  shipping: '1'
+  state: TN
+wootax/32970:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '37375'
+    location_type: postcode
+  name: FRANKLIN COUNTY
+  order: '0'
+  priority: '0'
+  rate: '9.25'
+  shipping: '1'
+  state: TN
+wootax/32971:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '37376'
+    location_type: postcode
+  name: FRANKLIN COUNTY
+  order: '0'
+  priority: '0'
+  rate: '9.25'
+  shipping: '1'
+  state: TN
+wootax/32972:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '37377'
+    location_type: postcode
+  name: SIGNAL MOUNTAIN
+  order: '0'
+  priority: '0'
+  rate: '9.25'
+  shipping: '1'
+  state: TN
+wootax/32973:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '37378'
+    location_type: postcode
+  name: WARREN COUNTY
+  order: '0'
+  priority: '0'
+  rate: '9.75'
+  shipping: '1'
+  state: TN
+wootax/32974:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '37379'
+    location_type: postcode
+  name: HAMILTON COUNTY
+  order: '0'
+  priority: '0'
+  rate: '9.25'
+  shipping: '1'
+  state: TN
+wootax/32975:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '37380'
+    location_type: postcode
+  name: SOUTH PITTSBURG
+  order: '0'
+  priority: '0'
+  rate: '9.75'
+  shipping: '1'
+  state: TN
+wootax/32976:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '37381'
+    location_type: postcode
+  name: RHEA COUNTY
+  order: '0'
+  priority: '0'
+  rate: '9.75'
+  shipping: '1'
+  state: TN
+wootax/32977:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '37382'
+    location_type: postcode
+  name: DEKALB COUNTY
+  order: '0'
+  priority: '0'
+  rate: '9.75'
+  shipping: '1'
+  state: TN
+wootax/32978:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '37383'
+    location_type: postcode
+  name: FRANKLIN COUNTY
+  order: '0'
+  priority: '0'
+  rate: '9.25'
+  shipping: '1'
+  state: TN
+wootax/32979:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '37384'
+    location_type: postcode
+  name: SODDY DAISY
+  order: '0'
+  priority: '0'
+  rate: '9.25'
+  shipping: '1'
+  state: TN
+wootax/32980:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '37385'
+    location_type: postcode
+  name: MONROE COUNTY
+  order: '0'
+  priority: '0'
+  rate: '9.25'
+  shipping: '1'
+  state: TN
+wootax/32981:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '37387'
+    location_type: postcode
+  name: TRACY CITY
+  order: '0'
+  priority: '0'
+  rate: '9.25'
+  shipping: '1'
+  state: TN
+wootax/32982:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '37388'
+    location_type: postcode
+  name: ' TULLAHOMA'
+  order: '0'
+  priority: '0'
+  rate: '9.75'
+  shipping: '1'
+  state: TN
+wootax/32983:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '37391'
+    location_type: postcode
+  name: POLK COUNTY
+  order: '0'
+  priority: '0'
+  rate: '9.25'
+  shipping: '1'
+  state: TN
+wootax/32984:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '37394'
+    location_type: postcode
+  name: VIOLA
+  order: '0'
+  priority: '0'
+  rate: '9.75'
+  shipping: '1'
+  state: TN
+wootax/32985:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '37396'
+    location_type: postcode
+  name: MARION COUNTY
+  order: '0'
+  priority: '0'
+  rate: '9.75'
+  shipping: '1'
+  state: TN
+wootax/32986:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '37397'
+    location_type: postcode
+  name: MARION COUNTY
+  order: '0'
+  priority: '0'
+  rate: '9.75'
+  shipping: '1'
+  state: TN
+wootax/32987:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '37398'
+    location_type: postcode
+  name: WINCHESTER
+  order: '0'
+  priority: '0'
+  rate: '9.25'
+  shipping: '1'
+  state: TN
+wootax/32988:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '37401'
+    location_type: postcode
+  name: CHATTANOOGA
+  order: '0'
+  priority: '0'
+  rate: '9.25'
+  shipping: '1'
+  state: TN
+wootax/32989:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '37402'
+    location_type: postcode
+  name: CHATTANOOGA
+  order: '0'
+  priority: '0'
+  rate: '9.25'
+  shipping: '1'
+  state: TN
+wootax/32990:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '37403'
+    location_type: postcode
+  name: CHATTANOOGA
+  order: '0'
+  priority: '0'
+  rate: '9.25'
+  shipping: '1'
+  state: TN
+wootax/32991:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '37404'
+    location_type: postcode
+  name: CHATTANOOGA
+  order: '0'
+  priority: '0'
+  rate: '9.25'
+  shipping: '1'
+  state: TN
+wootax/32992:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '37405'
+    location_type: postcode
+  name: CHATTANOOGA
+  order: '0'
+  priority: '0'
+  rate: '9.25'
+  shipping: '1'
+  state: TN
+wootax/32993:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '37406'
+    location_type: postcode
+  name: CHATTANOOGA
+  order: '0'
+  priority: '0'
+  rate: '9.25'
+  shipping: '1'
+  state: TN
+wootax/32994:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '37407'
+    location_type: postcode
+  name: CHATTANOOGA
+  order: '0'
+  priority: '0'
+  rate: '9.25'
+  shipping: '1'
+  state: TN
+wootax/32995:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '37408'
+    location_type: postcode
+  name: CHATTANOOGA
+  order: '0'
+  priority: '0'
+  rate: '9.25'
+  shipping: '1'
+  state: TN
+wootax/32996:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '37409'
+    location_type: postcode
+  name: CHATTANOOGA
+  order: '0'
+  priority: '0'
+  rate: '9.25'
+  shipping: '1'
+  state: TN
+wootax/32997:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '37410'
+    location_type: postcode
+  name: CHATTANOOGA
+  order: '0'
+  priority: '0'
+  rate: '9.25'
+  shipping: '1'
+  state: TN
+wootax/32998:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '37411'
+    location_type: postcode
+  name: CHATTANOOGA
+  order: '0'
+  priority: '0'
+  rate: '9.25'
+  shipping: '1'
+  state: TN
+wootax/32999:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '37412'
+    location_type: postcode
+  name: EAST RIDGE
+  order: '0'
+  priority: '0'
+  rate: '9.25'
+  shipping: '1'
+  state: TN
+wootax/33000:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '37414'
+    location_type: postcode
+  name: CHATTANOOGA
+  order: '0'
+  priority: '0'
+  rate: '9.25'
+  shipping: '1'
+  state: TN
+wootax/33001:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '37415'
+    location_type: postcode
+  name: CHATTANOOGA
+  order: '0'
+  priority: '0'
+  rate: '9.25'
+  shipping: '1'
+  state: TN
+wootax/33002:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '37416'
+    location_type: postcode
+  name: CHATTANOOGA
+  order: '0'
+  priority: '0'
+  rate: '9.25'
+  shipping: '1'
+  state: TN
+wootax/33003:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '37419'
+    location_type: postcode
+  name: CHATTANOOGA
+  order: '0'
+  priority: '0'
+  rate: '9.25'
+  shipping: '1'
+  state: TN
+wootax/33004:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '37421'
+    location_type: postcode
+  name: CHATTANOOGA
+  order: '0'
+  priority: '0'
+  rate: '9.25'
+  shipping: '1'
+  state: TN
+wootax/33005:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '37422'
+    location_type: postcode
+  name: CHATTANOOGA
+  order: '0'
+  priority: '0'
+  rate: '9.25'
+  shipping: '1'
+  state: TN
+wootax/33006:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '37424'
+    location_type: postcode
+  name: CHATTANOOGA
+  order: '0'
+  priority: '0'
+  rate: '9.25'
+  shipping: '1'
+  state: TN
+wootax/33007:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '37450'
+    location_type: postcode
+  name: CHATTANOOGA
+  order: '0'
+  priority: '0'
+  rate: '9.25'
+  shipping: '1'
+  state: TN
+wootax/33008:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '37501'
+    location_type: postcode
+  name: MEMPHIS
+  order: '0'
+  priority: '0'
+  rate: '9.25'
+  shipping: '1'
+  state: TN
+wootax/33009:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '37544'
+    location_type: postcode
+  name: MEMPHIS
+  order: '0'
+  priority: '0'
+  rate: '9.25'
+  shipping: '1'
+  state: TN
+wootax/33010:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '37601'
+    location_type: postcode
+  name: JOHNSON CITY
+  order: '0'
+  priority: '0'
+  rate: '9.5'
+  shipping: '1'
+  state: TN
+wootax/33011:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '37602'
+    location_type: postcode
+  name: JOHNSON CITY
+  order: '0'
+  priority: '0'
+  rate: '9.5'
+  shipping: '1'
+  state: TN
+wootax/33012:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '37604'
+    location_type: postcode
+  name: JOHNSON CITY
+  order: '0'
+  priority: '0'
+  rate: '9.5'
+  shipping: '1'
+  state: TN
+wootax/33013:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '37605'
+    location_type: postcode
+  name: JOHNSON CITY
+  order: '0'
+  priority: '0'
+  rate: '9.5'
+  shipping: '1'
+  state: TN
+wootax/33014:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '37614'
+    location_type: postcode
+  name: JOHNSON CITY
+  order: '0'
+  priority: '0'
+  rate: '9.5'
+  shipping: '1'
+  state: TN
+wootax/33015:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '37615'
+    location_type: postcode
+  name: WASHINGTON COUNTY
+  order: '0'
+  priority: '0'
+  rate: '9.5'
+  shipping: '1'
+  state: TN
+wootax/33016:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '37616'
+    location_type: postcode
+  name: GREENE COUNTY
+  order: '0'
+  priority: '0'
+  rate: '9.75'
+  shipping: '1'
+  state: TN
+wootax/33017:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '37617'
+    location_type: postcode
+  name: SULLIVAN COUNTY
+  order: '0'
+  priority: '0'
+  rate: '9.25'
+  shipping: '1'
+  state: TN
+wootax/33018:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '37618'
+    location_type: postcode
+  name: SULLIVAN COUNTY
+  order: '0'
+  priority: '0'
+  rate: '9.25'
+  shipping: '1'
+  state: TN
+wootax/33019:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '37620'
+    location_type: postcode
+  name: BRISTOL
+  order: '0'
+  priority: '0'
+  rate: '9.25'
+  shipping: '1'
+  state: TN
+wootax/33020:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '37621'
+    location_type: postcode
+  name: BRISTOL
+  order: '0'
+  priority: '0'
+  rate: '9.25'
+  shipping: '1'
+  state: TN
+wootax/33021:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '37625'
+    location_type: postcode
+  name: BRISTOL
+  order: '0'
+  priority: '0'
+  rate: '9.25'
+  shipping: '1'
+  state: TN
+wootax/33022:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '37640'
+    location_type: postcode
+  name: JOHNSON COUNTY
+  order: '0'
+  priority: '0'
+  rate: '8.5'
+  shipping: '1'
+  state: TN
+wootax/33023:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '37641'
+    location_type: postcode
+  name: GREENE COUNTY
+  order: '0'
+  priority: '0'
+  rate: '9.75'
+  shipping: '1'
+  state: TN
+wootax/33024:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '37642'
+    location_type: postcode
+  name: HAWKINS COUNTY
+  order: '0'
+  priority: '0'
+  rate: '9.75'
+  shipping: '1'
+  state: TN
+wootax/33025:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '37643'
+    location_type: postcode
+  name: ELIZABETHTON
+  order: '0'
+  priority: '0'
+  rate: '9.75'
+  shipping: '1'
+  state: TN
+wootax/33026:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '37645'
+    location_type: postcode
+  name: MOUNT CARMEL
+  order: '0'
+  priority: '0'
+  rate: '9.75'
+  shipping: '1'
+  state: TN
+wootax/33027:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '37650'
+    location_type: postcode
+  name: UNICOI COUNTY
+  order: '0'
+  priority: '0'
+  rate: '9.75'
+  shipping: '1'
+  state: TN
+wootax/33028:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '37656'
+    location_type: postcode
+  name: GREENE COUNTY
+  order: '0'
+  priority: '0'
+  rate: '9.75'
+  shipping: '1'
+  state: TN
+wootax/33029:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '37657'
+    location_type: postcode
+  name: UNICOI COUNTY
+  order: '0'
+  priority: '0'
+  rate: '9.75'
+  shipping: '1'
+  state: TN
+wootax/33030:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '37658'
+    location_type: postcode
+  name: CARTER COUNTY
+  order: '0'
+  priority: '0'
+  rate: '9.75'
+  shipping: '1'
+  state: TN
+wootax/33031:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '37659'
+    location_type: postcode
+  name: WASHINGTON COUNTY
+  order: '0'
+  priority: '0'
+  rate: '9.5'
+  shipping: '1'
+  state: TN
+wootax/33032:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '37660'
+    location_type: postcode
+  name: KINGSPORT
+  order: '0'
+  priority: '0'
+  rate: '9.5'
+  shipping: '1'
+  state: TN
+wootax/33033:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '37662'
+    location_type: postcode
+  name: SULLIVAN COUNTY
+  order: '0'
+  priority: '0'
+  rate: '9.25'
+  shipping: '1'
+  state: TN
+wootax/33034:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '37663'
+    location_type: postcode
+  name: SULLIVAN COUNTY
+  order: '0'
+  priority: '0'
+  rate: '9.25'
+  shipping: '1'
+  state: TN
+wootax/33035:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '37664'
+    location_type: postcode
+  name: KINGSPORT
+  order: '0'
+  priority: '0'
+  rate: '9.5'
+  shipping: '1'
+  state: TN
+wootax/33036:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '37665'
+    location_type: postcode
+  name: KINGSPORT
+  order: '0'
+  priority: '0'
+  rate: '9.5'
+  shipping: '1'
+  state: TN
+wootax/33037:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '37669'
+    location_type: postcode
+  name: KINGSPORT
+  order: '0'
+  priority: '0'
+  rate: '9.5'
+  shipping: '1'
+  state: TN
+wootax/33038:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '37680'
+    location_type: postcode
+  name: JOHNSON COUNTY
+  order: '0'
+  priority: '0'
+  rate: '8.5'
+  shipping: '1'
+  state: TN
+wootax/33039:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '37681'
+    location_type: postcode
+  name: GREENE COUNTY
+  order: '0'
+  priority: '0'
+  rate: '9.75'
+  shipping: '1'
+  state: TN
+wootax/33040:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '37682'
+    location_type: postcode
+  name: ELIZABETHTON
+  order: '0'
+  priority: '0'
+  rate: '9.75'
+  shipping: '1'
+  state: TN
+wootax/33041:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '37683'
+    location_type: postcode
+  name: JOHNSON COUNTY
+  order: '0'
+  priority: '0'
+  rate: '8.5'
+  shipping: '1'
+  state: TN
+wootax/33042:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '37684'
+    location_type: postcode
+  name: JOHNSON CITY
+  order: '0'
+  priority: '0'
+  rate: '9.5'
+  shipping: '1'
+  state: TN
+wootax/33043:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '37686'
+    location_type: postcode
+  name: SULLIVAN COUNTY
+  order: '0'
+  priority: '0'
+  rate: '9.25'
+  shipping: '1'
+  state: TN
+wootax/33044:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '37687'
+    location_type: postcode
+  name: CARTER COUNTY
+  order: '0'
+  priority: '0'
+  rate: '9.75'
+  shipping: '1'
+  state: TN
+wootax/33045:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '37688'
+    location_type: postcode
+  name: JOHNSON COUNTY
+  order: '0'
+  priority: '0'
+  rate: '8.5'
+  shipping: '1'
+  state: TN
+wootax/33046:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '37690'
+    location_type: postcode
+  name: WASHINGTON COUNTY
+  order: '0'
+  priority: '0'
+  rate: '9.5'
+  shipping: '1'
+  state: TN
+wootax/33047:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '37691'
+    location_type: postcode
+  name: JOHNSON COUNTY
+  order: '0'
+  priority: '0'
+  rate: '8.5'
+  shipping: '1'
+  state: TN
+wootax/33048:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '37692'
+    location_type: postcode
+  name: UNICOI
+  order: '0'
+  priority: '0'
+  rate: '9.75'
+  shipping: '1'
+  state: TN
+wootax/33049:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '37694'
+    location_type: postcode
+  name: CARTER COUNTY
+  order: '0'
+  priority: '0'
+  rate: '9.75'
+  shipping: '1'
+  state: TN
+wootax/33050:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '37699'
+    location_type: postcode
+  name: SULLIVAN COUNTY
+  order: '0'
+  priority: '0'
+  rate: '9.25'
+  shipping: '1'
+  state: TN
+wootax/33051:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '37701'
+    location_type: postcode
+  name: ALCOA
+  order: '0'
+  priority: '0'
+  rate: '9.75'
+  shipping: '1'
+  state: TN
+wootax/33052:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '37705'
+    location_type: postcode
+  name: ANDERSON COUNTY
+  order: '0'
+  priority: '0'
+  rate: '9.75'
+  shipping: '1'
+  state: TN
+wootax/33053:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '37707'
+    location_type: postcode
+  name: HARROGATE
+  order: '0'
+  priority: '0'
+  rate: '9.25'
+  shipping: '1'
+  state: TN
+wootax/33054:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '37708'
+    location_type: postcode
+  name: BEAN STATION
+  order: '0'
+  priority: '0'
+  rate: '9.75'
+  shipping: '1'
+  state: TN
+wootax/33055:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '37709'
+    location_type: postcode
+  name: BLAINE
+  order: '0'
+  priority: '0'
+  rate: '9.75'
+  shipping: '1'
+  state: TN
+wootax/33056:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '37710'
+    location_type: postcode
+  name: ANDERSON COUNTY
+  order: '0'
+  priority: '0'
+  rate: '9.75'
+  shipping: '1'
+  state: TN
+wootax/33057:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '37711'
+    location_type: postcode
+  name: GREENE COUNTY
+  order: '0'
+  priority: '0'
+  rate: '9.75'
+  shipping: '1'
+  state: TN
+wootax/33058:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '37713'
+    location_type: postcode
+  name: COCKE COUNTY
+  order: '0'
+  priority: '0'
+  rate: '9.75'
+  shipping: '1'
+  state: TN
+wootax/33059:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '37714'
+    location_type: postcode
+  name: CAMPBELL COUNTY
+  order: '0'
+  priority: '0'
+  rate: '9.25'
+  shipping: '1'
+  state: TN
+wootax/33060:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '37715'
+    location_type: postcode
+  name: CLAIBORNE COUNTY
+  order: '0'
+  priority: '0'
+  rate: '9.25'
+  shipping: '1'
+  state: TN
+wootax/33061:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '37716'
+    location_type: postcode
+  name: ANDERSON COUNTY
+  order: '0'
+  priority: '0'
+  rate: '9.75'
+  shipping: '1'
+  state: TN
+wootax/33062:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '37717'
+    location_type: postcode
+  name: CLINTON
+  order: '0'
+  priority: '0'
+  rate: '9.75'
+  shipping: '1'
+  state: TN
+wootax/33063:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '37719'
+    location_type: postcode
+  name: MORGAN COUNTY
+  order: '0'
+  priority: '0'
+  rate: '9'
+  shipping: '1'
+  state: TN
+wootax/33064:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '37721'
+    location_type: postcode
+  name: KNOX COUNTY
+  order: '0'
+  priority: '0'
+  rate: '9.25'
+  shipping: '1'
+  state: TN
+wootax/33065:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '37722'
+    location_type: postcode
+  name: COCKE COUNTY
+  order: '0'
+  priority: '0'
+  rate: '9.75'
+  shipping: '1'
+  state: TN
+wootax/33066:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '37723'
+    location_type: postcode
+  name: CRAB ORCHARD
+  order: '0'
+  priority: '0'
+  rate: '9.75'
+  shipping: '1'
+  state: TN
+wootax/33067:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '37724'
+    location_type: postcode
+  name: CLAIBORNE COUNTY
+  order: '0'
+  priority: '0'
+  rate: '9.25'
+  shipping: '1'
+  state: TN
+wootax/33068:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '37725'
+    location_type: postcode
+  name: JEFFERSON COUNTY
+  order: '0'
+  priority: '0'
+  rate: '9.75'
+  shipping: '1'
+  state: TN
+wootax/33069:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '37726'
+    location_type: postcode
+  name: MORGAN COUNTY
+  order: '0'
+  priority: '0'
+  rate: '9'
+  shipping: '1'
+  state: TN
+wootax/33070:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '37727'
+    location_type: postcode
+  name: COCKE COUNTY
+  order: '0'
+  priority: '0'
+  rate: '9.75'
+  shipping: '1'
+  state: TN
+wootax/33071:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '37729'
+    location_type: postcode
+  name: CAMPBELL COUNTY
+  order: '0'
+  priority: '0'
+  rate: '9.25'
+  shipping: '1'
+  state: TN
+wootax/33072:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '37730'
+    location_type: postcode
+  name: CLAIBORNE COUNTY
+  order: '0'
+  priority: '0'
+  rate: '9.25'
+  shipping: '1'
+  state: TN
+wootax/33073:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '37731'
+    location_type: postcode
+  name: HAWKINS COUNTY
+  order: '0'
+  priority: '0'
+  rate: '9.75'
+  shipping: '1'
+  state: TN
+wootax/33074:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '37732'
+    location_type: postcode
+  name: MORGAN COUNTY
+  order: '0'
+  priority: '0'
+  rate: '9'
+  shipping: '1'
+  state: TN
+wootax/33075:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '37733'
+    location_type: postcode
+  name: MORGAN COUNTY
+  order: '0'
+  priority: '0'
+  rate: '9'
+  shipping: '1'
+  state: TN
+wootax/33076:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '37737'
+    location_type: postcode
+  name: BLOUNT COUNTY
+  order: '0'
+  priority: '0'
+  rate: '9.75'
+  shipping: '1'
+  state: TN
+wootax/33077:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '37738'
+    location_type: postcode
+  name: GATLINBURG
+  order: '0'
+  priority: '0'
+  rate: '9.75'
+  shipping: '1'
+  state: TN
+wootax/33078:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '37742'
+    location_type: postcode
+  name: LOUDON COUNTY
+  order: '0'
+  priority: '0'
+  rate: '9'
+  shipping: '1'
+  state: TN
+wootax/33079:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '37743'
+    location_type: postcode
+  name: GREENE COUNTY
+  order: '0'
+  priority: '0'
+  rate: '9.75'
+  shipping: '1'
+  state: TN
+wootax/33080:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '37745'
+    location_type: postcode
+  name: GREENE COUNTY
+  order: '0'
+  priority: '0'
+  rate: '9.75'
+  shipping: '1'
+  state: TN
+wootax/33081:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '37748'
+    location_type: postcode
+  name: HARRIMAN
+  order: '0'
+  priority: '0'
+  rate: '9.5'
+  shipping: '1'
+  state: TN
+wootax/33082:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '37752'
+    location_type: postcode
+  name: CLAIBORNE COUNTY
+  order: '0'
+  priority: '0'
+  rate: '9.25'
+  shipping: '1'
+  state: TN
+wootax/33083:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '37753'
+    location_type: postcode
+  name: COCKE COUNTY
+  order: '0'
+  priority: '0'
+  rate: '9.75'
+  shipping: '1'
+  state: TN
+wootax/33084:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '37754'
+    location_type: postcode
+  name: ANDERSON COUNTY
+  order: '0'
+  priority: '0'
+  rate: '9.75'
+  shipping: '1'
+  state: TN
+wootax/33085:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '37755'
+    location_type: postcode
+  name: SCOTT COUNTY
+  order: '0'
+  priority: '0'
+  rate: '9.25'
+  shipping: '1'
+  state: TN
+wootax/33086:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '37756'
+    location_type: postcode
+  name: SCOTT COUNTY
+  order: '0'
+  priority: '0'
+  rate: '9.25'
+  shipping: '1'
+  state: TN
+wootax/33087:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '37757'
+    location_type: postcode
+  name: CAMPBELL COUNTY
+  order: '0'
+  priority: '0'
+  rate: '9.25'
+  shipping: '1'
+  state: TN
+wootax/33088:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '37760'
+    location_type: postcode
+  name: JEFFERSON CITY
+  order: '0'
+  priority: '0'
+  rate: '9.75'
+  shipping: '1'
+  state: TN
+wootax/33089:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '37762'
+    location_type: postcode
+  name: JELLICO
+  order: '0'
+  priority: '0'
+  rate: '9.25'
+  shipping: '1'
+  state: TN
+wootax/33090:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '37763'
+    location_type: postcode
+  name: ROANE COUNTY
+  order: '0'
+  priority: '0'
+  rate: '9.5'
+  shipping: '1'
+  state: TN
+wootax/33091:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '37764'
+    location_type: postcode
+  name: SEVIER COUNTY
+  order: '0'
+  priority: '0'
+  rate: '9.75'
+  shipping: '1'
+  state: TN
+wootax/33092:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '37765'
+    location_type: postcode
+  name: HANCOCK COUNTY
+  order: '0'
+  priority: '0'
+  rate: '9'
+  shipping: '1'
+  state: TN
+wootax/33093:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '37766'
+    location_type: postcode
+  name: CAMPBELL COUNTY
+  order: '0'
+  priority: '0'
+  rate: '9.25'
+  shipping: '1'
+  state: TN
+wootax/33094:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '37769'
+    location_type: postcode
+  name: ROCKY TOP
+  order: '0'
+  priority: '0'
+  rate: '9.75'
+  shipping: '1'
+  state: TN
+wootax/33095:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '37770'
+    location_type: postcode
+  name: MORGAN COUNTY
+  order: '0'
+  priority: '0'
+  rate: '9'
+  shipping: '1'
+  state: TN
+wootax/33096:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '37771'
+    location_type: postcode
+  name: LENOIR CITY
+  order: '0'
+  priority: '0'
+  rate: '9'
+  shipping: '1'
+  state: TN
+wootax/33097:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '37772'
+    location_type: postcode
+  name: LOUDON COUNTY
+  order: '0'
+  priority: '0'
+  rate: '9'
+  shipping: '1'
+  state: TN
+wootax/33098:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '37774'
+    location_type: postcode
+  name: LOUDON COUNTY
+  order: '0'
+  priority: '0'
+  rate: '9'
+  shipping: '1'
+  state: TN
+wootax/33099:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '37777'
+    location_type: postcode
+  name: ALCOA
+  order: '0'
+  priority: '0'
+  rate: '9.75'
+  shipping: '1'
+  state: TN
+wootax/33100:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '37779'
+    location_type: postcode
+  name: UNION COUNTY
+  order: '0'
+  priority: '0'
+  rate: '9.25'
+  shipping: '1'
+  state: TN
+wootax/33101:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '37801'
+    location_type: postcode
+  name: BLOUNT COUNTY
+  order: '0'
+  priority: '0'
+  rate: '9.75'
+  shipping: '1'
+  state: TN
+wootax/33102:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '37802'
+    location_type: postcode
+  name: MARYVILLE
+  order: '0'
+  priority: '0'
+  rate: '9.75'
+  shipping: '1'
+  state: TN
+wootax/33103:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '37803'
+    location_type: postcode
+  name: BLOUNT COUNTY
+  order: '0'
+  priority: '0'
+  rate: '9.75'
+  shipping: '1'
+  state: TN
+wootax/33104:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '37804'
+    location_type: postcode
+  name: MARYVILLE
+  order: '0'
+  priority: '0'
+  rate: '9.75'
+  shipping: '1'
+  state: TN
+wootax/33105:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '37806'
+    location_type: postcode
+  name: KNOX COUNTY
+  order: '0'
+  priority: '0'
+  rate: '9.25'
+  shipping: '1'
+  state: TN
+wootax/33106:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '37807'
+    location_type: postcode
+  name: UNION COUNTY
+  order: '0'
+  priority: '0'
+  rate: '9.25'
+  shipping: '1'
+  state: TN
+wootax/33107:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '37809'
+    location_type: postcode
+  name: GREENE COUNTY
+  order: '0'
+  priority: '0'
+  rate: '9.75'
+  shipping: '1'
+  state: TN
+wootax/33108:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '37810'
+    location_type: postcode
+  name: GREENE COUNTY
+  order: '0'
+  priority: '0'
+  rate: '9.75'
+  shipping: '1'
+  state: TN
+wootax/33109:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '37811'
+    location_type: postcode
+  name: HAWKINS COUNTY
+  order: '0'
+  priority: '0'
+  rate: '9.75'
+  shipping: '1'
+  state: TN
+wootax/33110:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '37813'
+    location_type: postcode
+  name: MORRISTOWN
+  order: '0'
+  priority: '0'
+  rate: '9.75'
+  shipping: '1'
+  state: TN
+wootax/33111:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '37814'
+    location_type: postcode
+  name: MORRISTOWN
+  order: '0'
+  priority: '0'
+  rate: '9.75'
+  shipping: '1'
+  state: TN
+wootax/33112:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '37815'
+    location_type: postcode
+  name: MORRISTOWN
+  order: '0'
+  priority: '0'
+  rate: '9.75'
+  shipping: '1'
+  state: TN
+wootax/33113:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '37816'
+    location_type: postcode
+  name: MORRISTOWN
+  order: '0'
+  priority: '0'
+  rate: '9.75'
+  shipping: '1'
+  state: TN
+wootax/33114:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '37818'
+    location_type: postcode
+  name: GREENE COUNTY
+  order: '0'
+  priority: '0'
+  rate: '9.75'
+  shipping: '1'
+  state: TN
+wootax/33115:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '37819'
+    location_type: postcode
+  name: CAMPBELL COUNTY
+  order: '0'
+  priority: '0'
+  rate: '9.25'
+  shipping: '1'
+  state: TN
+wootax/33116:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '37820'
+    location_type: postcode
+  name: JEFFERSON COUNTY
+  order: '0'
+  priority: '0'
+  rate: '9.75'
+  shipping: '1'
+  state: TN
+wootax/33117:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '37821'
+    location_type: postcode
+  name: COCKE COUNTY
+  order: '0'
+  priority: '0'
+  rate: '9.75'
+  shipping: '1'
+  state: TN
+wootax/33118:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '37825'
+    location_type: postcode
+  name: CLAIBORNE COUNTY
+  order: '0'
+  priority: '0'
+  rate: '9.25'
+  shipping: '1'
+  state: TN
+wootax/33119:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '37826'
+    location_type: postcode
+  name: MCMINN COUNTY
+  order: '0'
+  priority: '0'
+  rate: '9'
+  shipping: '1'
+  state: TN
+wootax/33120:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '37828'
+    location_type: postcode
+  name: NORRIS
+  order: '0'
+  priority: '0'
+  rate: '9.75'
+  shipping: '1'
+  state: TN
+wootax/33121:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '37829'
+    location_type: postcode
+  name: MORGAN COUNTY
+  order: '0'
+  priority: '0'
+  rate: '9'
+  shipping: '1'
+  state: TN
+wootax/33122:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '37830'
+    location_type: postcode
+  name: OAK RIDGE
+  order: '0'
+  priority: '0'
+  rate: '9.75'
+  shipping: '1'
+  state: TN
+wootax/33123:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '37831'
+    location_type: postcode
+  name: OAK RIDGE
+  order: '0'
+  priority: '0'
+  rate: '9.75'
+  shipping: '1'
+  state: TN
+wootax/33124:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '37840'
+    location_type: postcode
+  name: MORGAN COUNTY
+  order: '0'
+  priority: '0'
+  rate: '9'
+  shipping: '1'
+  state: TN
+wootax/33125:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '37841'
+    location_type: postcode
+  name: SCOTT COUNTY
+  order: '0'
+  priority: '0'
+  rate: '9.25'
+  shipping: '1'
+  state: TN
+wootax/33126:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '37843'
+    location_type: postcode
+  name: COCKE COUNTY
+  order: '0'
+  priority: '0'
+  rate: '9.75'
+  shipping: '1'
+  state: TN
+wootax/33127:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '37845'
+    location_type: postcode
+  name: MORGAN COUNTY
+  order: '0'
+  priority: '0'
+  rate: '9'
+  shipping: '1'
+  state: TN
+wootax/33128:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '37846'
+    location_type: postcode
+  name: LOUDON COUNTY
+  order: '0'
+  priority: '0'
+  rate: '9'
+  shipping: '1'
+  state: TN
+wootax/33129:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '37847'
+    location_type: postcode
+  name: SCOTT COUNTY
+  order: '0'
+  priority: '0'
+  rate: '9.25'
+  shipping: '1'
+  state: TN
+wootax/33130:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '37848'
+    location_type: postcode
+  name: GRAINGER COUNTY
+  order: '0'
+  priority: '0'
+  rate: '9.75'
+  shipping: '1'
+  state: TN
+wootax/33131:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '37849'
+    location_type: postcode
+  name: KNOX COUNTY
+  order: '0'
+  priority: '0'
+  rate: '9.25'
+  shipping: '1'
+  state: TN
+wootax/33132:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '37851'
+    location_type: postcode
+  name: CLAIBORNE COUNTY
+  order: '0'
+  priority: '0'
+  rate: '9.25'
+  shipping: '1'
+  state: TN
+wootax/33133:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '37852'
+    location_type: postcode
+  name: SCOTT COUNTY
+  order: '0'
+  priority: '0'
+  rate: '9.25'
+  shipping: '1'
+  state: TN
+wootax/33134:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '37853'
+    location_type: postcode
+  name: BLOUNT COUNTY
+  order: '0'
+  priority: '0'
+  rate: '9.75'
+  shipping: '1'
+  state: TN
+wootax/33135:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '37854'
+    location_type: postcode
+  name: ROCKWOOD
+  order: '0'
+  priority: '0'
+  rate: '9.5'
+  shipping: '1'
+  state: TN
+wootax/33136:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '37857'
+    location_type: postcode
+  name: HAWKINS COUNTY
+  order: '0'
+  priority: '0'
+  rate: '9.75'
+  shipping: '1'
+  state: TN
+wootax/33137:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '37860'
+    location_type: postcode
+  name: HAMBLEN COUNTY
+  order: '0'
+  priority: '0'
+  rate: '9.75'
+  shipping: '1'
+  state: TN
+wootax/33138:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '37861'
+    location_type: postcode
+  name: GRAINGER COUNTY
+  order: '0'
+  priority: '0'
+  rate: '9.75'
+  shipping: '1'
+  state: TN
+wootax/33139:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '37862'
+    location_type: postcode
+  name: SEVIERVILLE
+  order: '0'
+  priority: '0'
+  rate: '9.75'
+  shipping: '1'
+  state: TN
+wootax/33140:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '37863'
+    location_type: postcode
+  name: PIGEON FORGE
+  order: '0'
+  priority: '0'
+  rate: '9.75'
+  shipping: '1'
+  state: TN
+wootax/33141:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '37864'
+    location_type: postcode
+  name: SEVIERVILLE
+  order: '0'
+  priority: '0'
+  rate: '9.75'
+  shipping: '1'
+  state: TN
+wootax/33142:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '37865'
+    location_type: postcode
+  name: SEVIER COUNTY
+  order: '0'
+  priority: '0'
+  rate: '9.75'
+  shipping: '1'
+  state: TN
+wootax/33143:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '37866'
+    location_type: postcode
+  name: UNION COUNTY
+  order: '0'
+  priority: '0'
+  rate: '9.25'
+  shipping: '1'
+  state: TN
+wootax/33144:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '37868'
+    location_type: postcode
+  name: PIGEON FORGE
+  order: '0'
+  priority: '0'
+  rate: '9.75'
+  shipping: '1'
+  state: TN
+wootax/33145:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '37869'
+    location_type: postcode
+  name: HANCOCK COUNTY
+  order: '0'
+  priority: '0'
+  rate: '9'
+  shipping: '1'
+  state: TN
+wootax/33146:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '37870'
+    location_type: postcode
+  name: CLAIBORNE COUNTY
+  order: '0'
+  priority: '0'
+  rate: '9.25'
+  shipping: '1'
+  state: TN
+wootax/33147:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '37871'
+    location_type: postcode
+  name: KNOX COUNTY
+  order: '0'
+  priority: '0'
+  rate: '9.25'
+  shipping: '1'
+  state: TN
+wootax/33148:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '37872'
+    location_type: postcode
+  name: MORGAN COUNTY
+  order: '0'
+  priority: '0'
+  rate: '9'
+  shipping: '1'
+  state: TN
+wootax/33149:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '37873'
+    location_type: postcode
+  name: HAWKINS COUNTY
+  order: '0'
+  priority: '0'
+  rate: '9.75'
+  shipping: '1'
+  state: TN
+wootax/33150:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '37874'
+    location_type: postcode
+  name: SWEETWATER
+  order: '0'
+  priority: '0'
+  rate: '9.75'
+  shipping: '1'
+  state: TN
+wootax/33151:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '37876'
+    location_type: postcode
+  name: SEVIER COUNTY
+  order: '0'
+  priority: '0'
+  rate: '9.75'
+  shipping: '1'
+  state: TN
+wootax/33152:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '37877'
+    location_type: postcode
+  name: HAMBLEN COUNTY
+  order: '0'
+  priority: '0'
+  rate: '9.75'
+  shipping: '1'
+  state: TN
+wootax/33153:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '37878'
+    location_type: postcode
+  name: BLOUNT COUNTY
+  order: '0'
+  priority: '0'
+  rate: '9.75'
+  shipping: '1'
+  state: TN
+wootax/33154:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '37879'
+    location_type: postcode
+  name: CLAIBORNE COUNTY
+  order: '0'
+  priority: '0'
+  rate: '9.25'
+  shipping: '1'
+  state: TN
+wootax/33155:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '37880'
+    location_type: postcode
+  name: MEIGS COUNTY
+  order: '0'
+  priority: '0'
+  rate: '9'
+  shipping: '1'
+  state: TN
+wootax/33156:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '37881'
+    location_type: postcode
+  name: GRAINGER COUNTY
+  order: '0'
+  priority: '0'
+  rate: '9.75'
+  shipping: '1'
+  state: TN
+wootax/33157:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '37882'
+    location_type: postcode
+  name: BLOUNT COUNTY
+  order: '0'
+  priority: '0'
+  rate: '9.75'
+  shipping: '1'
+  state: TN
+wootax/33158:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '37885'
+    location_type: postcode
+  name: MONROE COUNTY
+  order: '0'
+  priority: '0'
+  rate: '9.25'
+  shipping: '1'
+  state: TN
+wootax/33159:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '37886'
+    location_type: postcode
+  name: BLOUNT COUNTY
+  order: '0'
+  priority: '0'
+  rate: '9.75'
+  shipping: '1'
+  state: TN
+wootax/33160:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '37887'
+    location_type: postcode
+  name: MORGAN COUNTY
+  order: '0'
+  priority: '0'
+  rate: '9'
+  shipping: '1'
+  state: TN
+wootax/33161:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '37888'
+    location_type: postcode
+  name: GRAINGER COUNTY
+  order: '0'
+  priority: '0'
+  rate: '9.75'
+  shipping: '1'
+  state: TN
+wootax/33162:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '37890'
+    location_type: postcode
+  name: JEFFERSON COUNTY
+  order: '0'
+  priority: '0'
+  rate: '9.75'
+  shipping: '1'
+  state: TN
+wootax/33163:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '37891'
+    location_type: postcode
+  name: HAMBLEN COUNTY
+  order: '0'
+  priority: '0'
+  rate: '9.75'
+  shipping: '1'
+  state: TN
+wootax/33164:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '37892'
+    location_type: postcode
+  name: WINFIELD
+  order: '0'
+  priority: '0'
+  rate: '9.25'
+  shipping: '1'
+  state: TN
+wootax/33165:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '37901'
+    location_type: postcode
+  name: KNOXVILLE
+  order: '0'
+  priority: '0'
+  rate: '9.25'
+  shipping: '1'
+  state: TN
+wootax/33166:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '37902'
+    location_type: postcode
+  name: KNOXVILLE
+  order: '0'
+  priority: '0'
+  rate: '9.25'
+  shipping: '1'
+  state: TN
+wootax/33167:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '37909'
+    location_type: postcode
+  name: KNOXVILLE
+  order: '0'
+  priority: '0'
+  rate: '9.25'
+  shipping: '1'
+  state: TN
+wootax/33168:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '37912'
+    location_type: postcode
+  name: KNOXVILLE
+  order: '0'
+  priority: '0'
+  rate: '9.25'
+  shipping: '1'
+  state: TN
+wootax/33169:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '37914'
+    location_type: postcode
+  name: KNOXVILLE
+  order: '0'
+  priority: '0'
+  rate: '9.25'
+  shipping: '1'
+  state: TN
+wootax/33170:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '37915'
+    location_type: postcode
+  name: KNOXVILLE
+  order: '0'
+  priority: '0'
+  rate: '9.25'
+  shipping: '1'
+  state: TN
+wootax/33171:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '37916'
+    location_type: postcode
+  name: KNOXVILLE
+  order: '0'
+  priority: '0'
+  rate: '9.25'
+  shipping: '1'
+  state: TN
+wootax/33172:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '37917'
+    location_type: postcode
+  name: KNOXVILLE
+  order: '0'
+  priority: '0'
+  rate: '9.25'
+  shipping: '1'
+  state: TN
+wootax/33173:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '37918'
+    location_type: postcode
+  name: KNOXVILLE
+  order: '0'
+  priority: '0'
+  rate: '9.25'
+  shipping: '1'
+  state: TN
+wootax/33174:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '37919'
+    location_type: postcode
+  name: KNOXVILLE
+  order: '0'
+  priority: '0'
+  rate: '9.25'
+  shipping: '1'
+  state: TN
+wootax/33175:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '37920'
+    location_type: postcode
+  name: KNOXVILLE
+  order: '0'
+  priority: '0'
+  rate: '9.25'
+  shipping: '1'
+  state: TN
+wootax/33176:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '37921'
+    location_type: postcode
+  name: KNOXVILLE
+  order: '0'
+  priority: '0'
+  rate: '9.25'
+  shipping: '1'
+  state: TN
+wootax/33177:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '37922'
+    location_type: postcode
+  name: KNOX COUNTY
+  order: '0'
+  priority: '0'
+  rate: '9.25'
+  shipping: '1'
+  state: TN
+wootax/33178:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '37923'
+    location_type: postcode
+  name: KNOX COUNTY
+  order: '0'
+  priority: '0'
+  rate: '9.25'
+  shipping: '1'
+  state: TN
+wootax/33179:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '37924'
+    location_type: postcode
+  name: KNOX COUNTY
+  order: '0'
+  priority: '0'
+  rate: '9.25'
+  shipping: '1'
+  state: TN
+wootax/33180:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '37927'
+    location_type: postcode
+  name: KNOXVILLE
+  order: '0'
+  priority: '0'
+  rate: '9.25'
+  shipping: '1'
+  state: TN
+wootax/33181:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '37928'
+    location_type: postcode
+  name: KNOXVILLE
+  order: '0'
+  priority: '0'
+  rate: '9.25'
+  shipping: '1'
+  state: TN
+wootax/33182:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '37929'
+    location_type: postcode
+  name: KNOXVILLE
+  order: '0'
+  priority: '0'
+  rate: '9.25'
+  shipping: '1'
+  state: TN
+wootax/33183:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '37930'
+    location_type: postcode
+  name: KNOXVILLE
+  order: '0'
+  priority: '0'
+  rate: '9.25'
+  shipping: '1'
+  state: TN
+wootax/33184:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '37931'
+    location_type: postcode
+  name: KNOX COUNTY
+  order: '0'
+  priority: '0'
+  rate: '9.25'
+  shipping: '1'
+  state: TN
+wootax/33185:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '37932'
+    location_type: postcode
+  name: KNOX COUNTY
+  order: '0'
+  priority: '0'
+  rate: '9.25'
+  shipping: '1'
+  state: TN
+wootax/33186:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '37933'
+    location_type: postcode
+  name: FARRAGUT
+  order: '0'
+  priority: '0'
+  rate: '9.25'
+  shipping: '1'
+  state: TN
+wootax/33187:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '37934'
+    location_type: postcode
+  name: FARRAGUT
+  order: '0'
+  priority: '0'
+  rate: '9.25'
+  shipping: '1'
+  state: TN
+wootax/33188:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '37938'
+    location_type: postcode
+  name: KNOX COUNTY
+  order: '0'
+  priority: '0'
+  rate: '9.25'
+  shipping: '1'
+  state: TN
+wootax/33189:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '37939'
+    location_type: postcode
+  name: KNOXVILLE
+  order: '0'
+  priority: '0'
+  rate: '9.25'
+  shipping: '1'
+  state: TN
+wootax/33190:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '37940'
+    location_type: postcode
+  name: KNOXVILLE
+  order: '0'
+  priority: '0'
+  rate: '9.25'
+  shipping: '1'
+  state: TN
+wootax/33191:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '37950'
+    location_type: postcode
+  name: KNOXVILLE
+  order: '0'
+  priority: '0'
+  rate: '9.25'
+  shipping: '1'
+  state: TN
+wootax/33192:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '37995'
+    location_type: postcode
+  name: KNOXVILLE
+  order: '0'
+  priority: '0'
+  rate: '9.25'
+  shipping: '1'
+  state: TN
+wootax/33193:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '37996'
+    location_type: postcode
+  name: KNOXVILLE
+  order: '0'
+  priority: '0'
+  rate: '9.25'
+  shipping: '1'
+  state: TN
+wootax/33194:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '37997'
+    location_type: postcode
+  name: KNOXVILLE
+  order: '0'
+  priority: '0'
+  rate: '9.25'
+  shipping: '1'
+  state: TN
+wootax/33195:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '37998'
+    location_type: postcode
+  name: KNOX COUNTY
+  order: '0'
+  priority: '0'
+  rate: '9.25'
+  shipping: '1'
+  state: TN
+wootax/33196:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '38001'
+    location_type: postcode
+  name: CROCKETT COUNTY
+  order: '0'
+  priority: '0'
+  rate: '9.75'
+  shipping: '1'
+  state: TN
+wootax/33197:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '38002'
+    location_type: postcode
+  name: LAKELAND
+  order: '0'
+  priority: '0'
+  rate: '9.75'
+  shipping: '1'
+  state: TN
+wootax/33198:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '38004'
+    location_type: postcode
+  name: ATOKA
+  order: '0'
+  priority: '0'
+  rate: '9.75'
+  shipping: '1'
+  state: TN
+wootax/33199:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '38006'
+    location_type: postcode
+  name: CROCKETT COUNTY
+  order: '0'
+  priority: '0'
+  rate: '9.75'
+  shipping: '1'
+  state: TN
+wootax/33200:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '38007'
+    location_type: postcode
+  name: DYER COUNTY
+  order: '0'
+  priority: '0'
+  rate: '9.75'
+  shipping: '1'
+  state: TN
+wootax/33201:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '38008'
+    location_type: postcode
+  name: BOLIVAR
+  order: '0'
+  priority: '0'
+  rate: '9.75'
+  shipping: '1'
+  state: TN
+wootax/33202:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '38011'
+    location_type: postcode
+  name: TIPTON COUNTY
+  order: '0'
+  priority: '0'
+  rate: '9.25'
+  shipping: '1'
+  state: TN
+wootax/33203:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '38012'
+    location_type: postcode
+  name: BROWNSVILLE
+  order: '0'
+  priority: '0'
+  rate: '9.75'
+  shipping: '1'
+  state: TN
+wootax/33204:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '38014'
+    location_type: postcode
+  name: SHELBY COUNTY
+  order: '0'
+  priority: '0'
+  rate: '9.25'
+  shipping: '1'
+  state: TN
+wootax/33205:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '38015'
+    location_type: postcode
+  name: TIPTON COUNTY
+  order: '0'
+  priority: '0'
+  rate: '9.25'
+  shipping: '1'
+  state: TN
+wootax/33206:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '38016'
+    location_type: postcode
+  name: MEMPHIS
+  order: '0'
+  priority: '0'
+  rate: '9.25'
+  shipping: '1'
+  state: TN
+wootax/33207:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '38017'
+    location_type: postcode
+  name: COLLIERVILLE
+  order: '0'
+  priority: '0'
+  rate: '9.75'
+  shipping: '1'
+  state: TN
+wootax/33208:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '38018'
+    location_type: postcode
+  name: MEMPHIS
+  order: '0'
+  priority: '0'
+  rate: '9.25'
+  shipping: '1'
+  state: TN
+wootax/33209:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '38019'
+    location_type: postcode
+  name: TIPTON COUNTY
+  order: '0'
+  priority: '0'
+  rate: '9.25'
+  shipping: '1'
+  state: TN
+wootax/33210:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '38021'
+    location_type: postcode
+  name: CROCKETT COUNTY
+  order: '0'
+  priority: '0'
+  rate: '9.75'
+  shipping: '1'
+  state: TN
+wootax/33211:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '38023'
+    location_type: postcode
+  name: TIPTON COUNTY
+  order: '0'
+  priority: '0'
+  rate: '9.25'
+  shipping: '1'
+  state: TN
+wootax/33212:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '38024'
+    location_type: postcode
+  name: DYERSBURG
+  order: '0'
+  priority: '0'
+  rate: '9.75'
+  shipping: '1'
+  state: TN
+wootax/33213:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '38025'
+    location_type: postcode
+  name: DYERSBURG
+  order: '0'
+  priority: '0'
+  rate: '9.75'
+  shipping: '1'
+  state: TN
+wootax/33214:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '38027'
+    location_type: postcode
+  name: COLLIERVILLE
+  order: '0'
+  priority: '0'
+  rate: '9.75'
+  shipping: '1'
+  state: TN
+wootax/33215:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '38028'
+    location_type: postcode
+  name: FAYETTE COUNTY
+  order: '0'
+  priority: '0'
+  rate: '9.25'
+  shipping: '1'
+  state: TN
+wootax/33216:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '38029'
+    location_type: postcode
+  name: BARTLETT
+  order: '0'
+  priority: '0'
+  rate: '9.75'
+  shipping: '1'
+  state: TN
+wootax/33217:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '38030'
+    location_type: postcode
+  name: DYER COUNTY
+  order: '0'
+  priority: '0'
+  rate: '9.75'
+  shipping: '1'
+  state: TN
+wootax/33218:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '38034'
+    location_type: postcode
+  name: CROCKETT COUNTY
+  order: '0'
+  priority: '0'
+  rate: '9.75'
+  shipping: '1'
+  state: TN
+wootax/33219:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '38036'
+    location_type: postcode
+  name: GALLAWAY
+  order: '0'
+  priority: '0'
+  rate: '9.25'
+  shipping: '1'
+  state: TN
+wootax/33220:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '38037'
+    location_type: postcode
+  name: LAUDERDALE COUNTY
+  order: '0'
+  priority: '0'
+  rate: '9.75'
+  shipping: '1'
+  state: TN
+wootax/33221:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '38039'
+    location_type: postcode
+  name: HARDEMAN COUNTY
+  order: '0'
+  priority: '0'
+  rate: '9.75'
+  shipping: '1'
+  state: TN
+wootax/33222:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '38040'
+    location_type: postcode
+  name: LAUDERDALE COUNTY
+  order: '0'
+  priority: '0'
+  rate: '9.75'
+  shipping: '1'
+  state: TN
+wootax/33223:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '38041'
+    location_type: postcode
+  name: LAUDERDALE COUNTY
+  order: '0'
+  priority: '0'
+  rate: '9.75'
+  shipping: '1'
+  state: TN
+wootax/33224:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '38042'
+    location_type: postcode
+  name: HARDEMAN COUNTY
+  order: '0'
+  priority: '0'
+  rate: '9.75'
+  shipping: '1'
+  state: TN
+wootax/33225:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '38044'
+    location_type: postcode
+  name: HARDEMAN COUNTY
+  order: '0'
+  priority: '0'
+  rate: '9.75'
+  shipping: '1'
+  state: TN
+wootax/33226:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '38045'
+    location_type: postcode
+  name: FAYETTE COUNTY
+  order: '0'
+  priority: '0'
+  rate: '9.25'
+  shipping: '1'
+  state: TN
+wootax/33227:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '38046'
+    location_type: postcode
+  name: LA GRANGE
+  order: '0'
+  priority: '0'
+  rate: '9.25'
+  shipping: '1'
+  state: TN
+wootax/33228:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '38047'
+    location_type: postcode
+  name: DYER COUNTY
+  order: '0'
+  priority: '0'
+  rate: '9.75'
+  shipping: '1'
+  state: TN
+wootax/33229:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '38049'
+    location_type: postcode
+  name: FAYETTE COUNTY
+  order: '0'
+  priority: '0'
+  rate: '9.25'
+  shipping: '1'
+  state: TN
+wootax/33230:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '38050'
+    location_type: postcode
+  name: MAURY CITY
+  order: '0'
+  priority: '0'
+  rate: '9.75'
+  shipping: '1'
+  state: TN
+wootax/33231:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '38052'
+    location_type: postcode
+  name: HARDEMAN COUNTY
+  order: '0'
+  priority: '0'
+  rate: '9.75'
+  shipping: '1'
+  state: TN
+wootax/33232:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '38053'
+    location_type: postcode
+  name: SHELBY COUNTY
+  order: '0'
+  priority: '0'
+  rate: '9.25'
+  shipping: '1'
+  state: TN
+wootax/33233:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '38054'
+    location_type: postcode
+  name: MILLINGTON
+  order: '0'
+  priority: '0'
+  rate: '9.75'
+  shipping: '1'
+  state: TN
+wootax/33234:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '38055'
+    location_type: postcode
+  name: MILLINGTON
+  order: '0'
+  priority: '0'
+  rate: '9.75'
+  shipping: '1'
+  state: TN
+wootax/33235:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '38057'
+    location_type: postcode
+  name: FAYETTE COUNTY
+  order: '0'
+  priority: '0'
+  rate: '9.25'
+  shipping: '1'
+  state: TN
+wootax/33236:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '38058'
+    location_type: postcode
+  name: MUNFORD
+  order: '0'
+  priority: '0'
+  rate: '9.75'
+  shipping: '1'
+  state: TN
+wootax/33237:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '38059'
+    location_type: postcode
+  name: DYER COUNTY
+  order: '0'
+  priority: '0'
+  rate: '9.75'
+  shipping: '1'
+  state: TN
+wootax/33238:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '38060'
+    location_type: postcode
+  name: OAKLAND
+  order: '0'
+  priority: '0'
+  rate: '9.75'
+  shipping: '1'
+  state: TN
+wootax/33239:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '38061'
+    location_type: postcode
+  name: HARDEMAN COUNTY
+  order: '0'
+  priority: '0'
+  rate: '9.75'
+  shipping: '1'
+  state: TN
+wootax/33240:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '38063'
+    location_type: postcode
+  name: LAUDERDALE COUNTY
+  order: '0'
+  priority: '0'
+  rate: '9.75'
+  shipping: '1'
+  state: TN
+wootax/33241:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '38066'
+    location_type: postcode
+  name: FAYETTE COUNTY
+  order: '0'
+  priority: '0'
+  rate: '9.25'
+  shipping: '1'
+  state: TN
+wootax/33242:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '38067'
+    location_type: postcode
+  name: HARDEMAN COUNTY
+  order: '0'
+  priority: '0'
+  rate: '9.75'
+  shipping: '1'
+  state: TN
+wootax/33243:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '38068'
+    location_type: postcode
+  name: FAYETTE COUNTY
+  order: '0'
+  priority: '0'
+  rate: '9.25'
+  shipping: '1'
+  state: TN
+wootax/33244:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '38069'
+    location_type: postcode
+  name: HAYWOOD COUNTY
+  order: '0'
+  priority: '0'
+  rate: '9.75'
+  shipping: '1'
+  state: TN
+wootax/33245:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '38070'
+    location_type: postcode
+  name: DYER COUNTY
+  order: '0'
+  priority: '0'
+  rate: '9.75'
+  shipping: '1'
+  state: TN
+wootax/33246:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '38071'
+    location_type: postcode
+  name: ATOKA
+  order: '0'
+  priority: '0'
+  rate: '9.75'
+  shipping: '1'
+  state: TN
+wootax/33247:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '38075'
+    location_type: postcode
+  name: HARDEMAN COUNTY
+  order: '0'
+  priority: '0'
+  rate: '9.75'
+  shipping: '1'
+  state: TN
+wootax/33248:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '38076'
+    location_type: postcode
+  name: FAYETTE COUNTY
+  order: '0'
+  priority: '0'
+  rate: '9.25'
+  shipping: '1'
+  state: TN
+wootax/33249:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '38077'
+    location_type: postcode
+  name: LAKE COUNTY
+  order: '0'
+  priority: '0'
+  rate: '9.75'
+  shipping: '1'
+  state: TN
+wootax/33250:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '38079'
+    location_type: postcode
+  name: TIPTONVILLE
+  order: '0'
+  priority: '0'
+  rate: '9.75'
+  shipping: '1'
+  state: TN
+wootax/33251:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '38080'
+    location_type: postcode
+  name: RIDGELY
+  order: '0'
+  priority: '0'
+  rate: '9.75'
+  shipping: '1'
+  state: TN
+wootax/33252:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '38083'
+    location_type: postcode
+  name: MILLINGTON
+  order: '0'
+  priority: '0'
+  rate: '9.75'
+  shipping: '1'
+  state: TN
+wootax/33253:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '38088'
+    location_type: postcode
+  name: MEMPHIS
+  order: '0'
+  priority: '0'
+  rate: '9.25'
+  shipping: '1'
+  state: TN
+wootax/33254:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '38101'
+    location_type: postcode
+  name: MEMPHIS
+  order: '0'
+  priority: '0'
+  rate: '9.25'
+  shipping: '1'
+  state: TN
+wootax/33255:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '38103'
+    location_type: postcode
+  name: MEMPHIS
+  order: '0'
+  priority: '0'
+  rate: '9.25'
+  shipping: '1'
+  state: TN
+wootax/33256:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '38104'
+    location_type: postcode
+  name: MEMPHIS
+  order: '0'
+  priority: '0'
+  rate: '9.25'
+  shipping: '1'
+  state: TN
+wootax/33257:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '38105'
+    location_type: postcode
+  name: MEMPHIS
+  order: '0'
+  priority: '0'
+  rate: '9.25'
+  shipping: '1'
+  state: TN
+wootax/33258:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '38106'
+    location_type: postcode
+  name: MEMPHIS
+  order: '0'
+  priority: '0'
+  rate: '9.25'
+  shipping: '1'
+  state: TN
+wootax/33259:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '38107'
+    location_type: postcode
+  name: MEMPHIS
+  order: '0'
+  priority: '0'
+  rate: '9.25'
+  shipping: '1'
+  state: TN
+wootax/33260:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '38108'
+    location_type: postcode
+  name: MEMPHIS
+  order: '0'
+  priority: '0'
+  rate: '9.25'
+  shipping: '1'
+  state: TN
+wootax/33261:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '38109'
+    location_type: postcode
+  name: MEMPHIS
+  order: '0'
+  priority: '0'
+  rate: '9.25'
+  shipping: '1'
+  state: TN
+wootax/33262:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '38111'
+    location_type: postcode
+  name: MEMPHIS
+  order: '0'
+  priority: '0'
+  rate: '9.25'
+  shipping: '1'
+  state: TN
+wootax/33263:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '38112'
+    location_type: postcode
+  name: MEMPHIS
+  order: '0'
+  priority: '0'
+  rate: '9.25'
+  shipping: '1'
+  state: TN
+wootax/33264:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '38113'
+    location_type: postcode
+  name: MEMPHIS
+  order: '0'
+  priority: '0'
+  rate: '9.25'
+  shipping: '1'
+  state: TN
+wootax/33265:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '38114'
+    location_type: postcode
+  name: MEMPHIS
+  order: '0'
+  priority: '0'
+  rate: '9.25'
+  shipping: '1'
+  state: TN
+wootax/33266:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '38115'
+    location_type: postcode
+  name: MEMPHIS
+  order: '0'
+  priority: '0'
+  rate: '9.25'
+  shipping: '1'
+  state: TN
+wootax/33267:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '38116'
+    location_type: postcode
+  name: MEMPHIS
+  order: '0'
+  priority: '0'
+  rate: '9.25'
+  shipping: '1'
+  state: TN
+wootax/33268:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '38117'
+    location_type: postcode
+  name: MEMPHIS
+  order: '0'
+  priority: '0'
+  rate: '9.25'
+  shipping: '1'
+  state: TN
+wootax/33269:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '38118'
+    location_type: postcode
+  name: MEMPHIS
+  order: '0'
+  priority: '0'
+  rate: '9.25'
+  shipping: '1'
+  state: TN
+wootax/33270:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '38119'
+    location_type: postcode
+  name: MEMPHIS
+  order: '0'
+  priority: '0'
+  rate: '9.25'
+  shipping: '1'
+  state: TN
+wootax/33271:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '38120'
+    location_type: postcode
+  name: MEMPHIS
+  order: '0'
+  priority: '0'
+  rate: '9.25'
+  shipping: '1'
+  state: TN
+wootax/33272:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '38122'
+    location_type: postcode
+  name: MEMPHIS
+  order: '0'
+  priority: '0'
+  rate: '9.25'
+  shipping: '1'
+  state: TN
+wootax/33273:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '38124'
+    location_type: postcode
+  name: MEMPHIS
+  order: '0'
+  priority: '0'
+  rate: '9.25'
+  shipping: '1'
+  state: TN
+wootax/33274:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '38125'
+    location_type: postcode
+  name: SHELBY COUNTY
+  order: '0'
+  priority: '0'
+  rate: '9.25'
+  shipping: '1'
+  state: TN
+wootax/33275:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '38126'
+    location_type: postcode
+  name: MEMPHIS
+  order: '0'
+  priority: '0'
+  rate: '9.25'
+  shipping: '1'
+  state: TN
+wootax/33276:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '38127'
+    location_type: postcode
+  name: MEMPHIS
+  order: '0'
+  priority: '0'
+  rate: '9.25'
+  shipping: '1'
+  state: TN
+wootax/33277:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '38128'
+    location_type: postcode
+  name: MEMPHIS
+  order: '0'
+  priority: '0'
+  rate: '9.25'
+  shipping: '1'
+  state: TN
+wootax/33278:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '38130'
+    location_type: postcode
+  name: MEMPHIS
+  order: '0'
+  priority: '0'
+  rate: '9.25'
+  shipping: '1'
+  state: TN
+wootax/33279:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '38131'
+    location_type: postcode
+  name: MEMPHIS
+  order: '0'
+  priority: '0'
+  rate: '9.25'
+  shipping: '1'
+  state: TN
+wootax/33280:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '38132'
+    location_type: postcode
+  name: MEMPHIS
+  order: '0'
+  priority: '0'
+  rate: '9.25'
+  shipping: '1'
+  state: TN
+wootax/33281:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '38133'
+    location_type: postcode
+  name: BARTLETT
+  order: '0'
+  priority: '0'
+  rate: '9.75'
+  shipping: '1'
+  state: TN
+wootax/33282:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '38134'
+    location_type: postcode
+  name: MEMPHIS
+  order: '0'
+  priority: '0'
+  rate: '9.25'
+  shipping: '1'
+  state: TN
+wootax/33283:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '38135'
+    location_type: postcode
+  name: BARTLETT
+  order: '0'
+  priority: '0'
+  rate: '9.75'
+  shipping: '1'
+  state: TN
+wootax/33284:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '38136'
+    location_type: postcode
+  name: MEMPHIS
+  order: '0'
+  priority: '0'
+  rate: '9.25'
+  shipping: '1'
+  state: TN
+wootax/33285:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '38137'
+    location_type: postcode
+  name: MEMPHIS
+  order: '0'
+  priority: '0'
+  rate: '9.25'
+  shipping: '1'
+  state: TN
+wootax/33286:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '38138'
+    location_type: postcode
+  name: GERMANTOWN
+  order: '0'
+  priority: '0'
+  rate: '9.75'
+  shipping: '1'
+  state: TN
+wootax/33287:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '38139'
+    location_type: postcode
+  name: GERMANTOWN
+  order: '0'
+  priority: '0'
+  rate: '9.75'
+  shipping: '1'
+  state: TN
+wootax/33288:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '38141'
+    location_type: postcode
+  name: MEMPHIS
+  order: '0'
+  priority: '0'
+  rate: '9.25'
+  shipping: '1'
+  state: TN
+wootax/33289:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '38152'
+    location_type: postcode
+  name: MEMPHIS
+  order: '0'
+  priority: '0'
+  rate: '9.25'
+  shipping: '1'
+  state: TN
+wootax/33290:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '38157'
+    location_type: postcode
+  name: MEMPHIS
+  order: '0'
+  priority: '0'
+  rate: '9.25'
+  shipping: '1'
+  state: TN
+wootax/33291:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '38161'
+    location_type: postcode
+  name: MEMPHIS
+  order: '0'
+  priority: '0'
+  rate: '9.25'
+  shipping: '1'
+  state: TN
+wootax/33292:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '38163'
+    location_type: postcode
+  name: MEMPHIS
+  order: '0'
+  priority: '0'
+  rate: '9.25'
+  shipping: '1'
+  state: TN
+wootax/33293:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '38166'
+    location_type: postcode
+  name: MEMPHIS
+  order: '0'
+  priority: '0'
+  rate: '9.25'
+  shipping: '1'
+  state: TN
+wootax/33294:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '38167'
+    location_type: postcode
+  name: MEMPHIS
+  order: '0'
+  priority: '0'
+  rate: '9.25'
+  shipping: '1'
+  state: TN
+wootax/33295:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '38168'
+    location_type: postcode
+  name: MEMPHIS
+  order: '0'
+  priority: '0'
+  rate: '9.25'
+  shipping: '1'
+  state: TN
+wootax/33296:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '38173'
+    location_type: postcode
+  name: MEMPHIS
+  order: '0'
+  priority: '0'
+  rate: '9.25'
+  shipping: '1'
+  state: TN
+wootax/33297:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '38174'
+    location_type: postcode
+  name: MEMPHIS
+  order: '0'
+  priority: '0'
+  rate: '9.25'
+  shipping: '1'
+  state: TN
+wootax/33298:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '38175'
+    location_type: postcode
+  name: MEMPHIS
+  order: '0'
+  priority: '0'
+  rate: '9.25'
+  shipping: '1'
+  state: TN
+wootax/33299:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '38177'
+    location_type: postcode
+  name: MEMPHIS
+  order: '0'
+  priority: '0'
+  rate: '9.25'
+  shipping: '1'
+  state: TN
+wootax/33300:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '38181'
+    location_type: postcode
+  name: MEMPHIS
+  order: '0'
+  priority: '0'
+  rate: '9.25'
+  shipping: '1'
+  state: TN
+wootax/33301:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '38182'
+    location_type: postcode
+  name: MEMPHIS
+  order: '0'
+  priority: '0'
+  rate: '9.25'
+  shipping: '1'
+  state: TN
+wootax/33302:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '38183'
+    location_type: postcode
+  name: GERMANTOWN
+  order: '0'
+  priority: '0'
+  rate: '9.75'
+  shipping: '1'
+  state: TN
+wootax/33303:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '38184'
+    location_type: postcode
+  name: BARTLETT
+  order: '0'
+  priority: '0'
+  rate: '9.75'
+  shipping: '1'
+  state: TN
+wootax/33304:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '38186'
+    location_type: postcode
+  name: MEMPHIS
+  order: '0'
+  priority: '0'
+  rate: '9.25'
+  shipping: '1'
+  state: TN
+wootax/33305:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '38187'
+    location_type: postcode
+  name: MEMPHIS
+  order: '0'
+  priority: '0'
+  rate: '9.25'
+  shipping: '1'
+  state: TN
+wootax/33306:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '38188'
+    location_type: postcode
+  name: MEMPHIS
+  order: '0'
+  priority: '0'
+  rate: '9.25'
+  shipping: '1'
+  state: TN
+wootax/33307:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '38190'
+    location_type: postcode
+  name: MEMPHIS
+  order: '0'
+  priority: '0'
+  rate: '9.25'
+  shipping: '1'
+  state: TN
+wootax/33308:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '38193'
+    location_type: postcode
+  name: MEMPHIS
+  order: '0'
+  priority: '0'
+  rate: '9.25'
+  shipping: '1'
+  state: TN
+wootax/33309:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '38197'
+    location_type: postcode
+  name: MEMPHIS
+  order: '0'
+  priority: '0'
+  rate: '9.25'
+  shipping: '1'
+  state: TN
+wootax/33310:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '38201'
+    location_type: postcode
+  name: ' MCKENZIE'
+  order: '0'
+  priority: '0'
+  rate: '9.75'
+  shipping: '1'
+  state: TN
+wootax/33311:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '38220'
+    location_type: postcode
+  name: CARROLL COUNTY
+  order: '0'
+  priority: '0'
+  rate: '9.75'
+  shipping: '1'
+  state: TN
+wootax/33312:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '38221'
+    location_type: postcode
+  name: BENTON COUNTY
+  order: '0'
+  priority: '0'
+  rate: '9.75'
+  shipping: '1'
+  state: TN
+wootax/33313:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '38222'
+    location_type: postcode
+  name: HENRY COUNTY
+  order: '0'
+  priority: '0'
+  rate: '9.75'
+  shipping: '1'
+  state: TN
+wootax/33314:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '38223'
+    location_type: postcode
+  name: HENRY COUNTY
+  order: '0'
+  priority: '0'
+  rate: '9.75'
+  shipping: '1'
+  state: TN
+wootax/33315:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '38224'
+    location_type: postcode
+  name: HENRY COUNTY
+  order: '0'
+  priority: '0'
+  rate: '9.75'
+  shipping: '1'
+  state: TN
+wootax/33316:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '38225'
+    location_type: postcode
+  name: WEAKLEY COUNTY
+  order: '0'
+  priority: '0'
+  rate: '9.75'
+  shipping: '1'
+  state: TN
+wootax/33317:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '38226'
+    location_type: postcode
+  name: WEAKLEY COUNTY
+  order: '0'
+  priority: '0'
+  rate: '9.75'
+  shipping: '1'
+  state: TN
+wootax/33318:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '38229'
+    location_type: postcode
+  name: WEAKLEY COUNTY
+  order: '0'
+  priority: '0'
+  rate: '9.75'
+  shipping: '1'
+  state: TN
+wootax/33319:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '38230'
+    location_type: postcode
+  name: GREENFIELD
+  order: '0'
+  priority: '0'
+  rate: '9.75'
+  shipping: '1'
+  state: TN
+wootax/33320:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '38231'
+    location_type: postcode
+  name: HENRY COUNTY
+  order: '0'
+  priority: '0'
+  rate: '9.75'
+  shipping: '1'
+  state: TN
+wootax/33321:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '38232'
+    location_type: postcode
+  name: OBION COUNTY
+  order: '0'
+  priority: '0'
+  rate: '9.75'
+  shipping: '1'
+  state: TN
+wootax/33322:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '38233'
+    location_type: postcode
+  name: OBION COUNTY
+  order: '0'
+  priority: '0'
+  rate: '9.75'
+  shipping: '1'
+  state: TN
+wootax/33323:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '38235'
+    location_type: postcode
+  name: MCLEMORESVILLE
+  order: '0'
+  priority: '0'
+  rate: '9.75'
+  shipping: '1'
+  state: TN
+wootax/33324:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '38236'
+    location_type: postcode
+  name: HENRY COUNTY
+  order: '0'
+  priority: '0'
+  rate: '9.75'
+  shipping: '1'
+  state: TN
+wootax/33325:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '38237'
+    location_type: postcode
+  name: MARTIN
+  order: '0'
+  priority: '0'
+  rate: '9.75'
+  shipping: '1'
+  state: TN
+wootax/33326:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '38238'
+    location_type: postcode
+  name: MARTIN
+  order: '0'
+  priority: '0'
+  rate: '9.75'
+  shipping: '1'
+  state: TN
+wootax/33327:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '38240'
+    location_type: postcode
+  name: OBION COUNTY
+  order: '0'
+  priority: '0'
+  rate: '9.75'
+  shipping: '1'
+  state: TN
+wootax/33328:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '38241'
+    location_type: postcode
+  name: WEAKLEY COUNTY
+  order: '0'
+  priority: '0'
+  rate: '9.75'
+  shipping: '1'
+  state: TN
+wootax/33329:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '38242'
+    location_type: postcode
+  name: PARIS
+  order: '0'
+  priority: '0'
+  rate: '9.75'
+  shipping: '1'
+  state: TN
+wootax/33330:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '38251'
+    location_type: postcode
+  name: HENRY COUNTY
+  order: '0'
+  priority: '0'
+  rate: '9.75'
+  shipping: '1'
+  state: TN
+wootax/33331:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '38253'
+    location_type: postcode
+  name: OBION COUNTY
+  order: '0'
+  priority: '0'
+  rate: '9.75'
+  shipping: '1'
+  state: TN
+wootax/33332:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '38254'
+    location_type: postcode
+  name: SAMBURG
+  order: '0'
+  priority: '0'
+  rate: '9.75'
+  shipping: '1'
+  state: TN
+wootax/33333:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '38255'
+    location_type: postcode
+  name: WEAKLEY COUNTY
+  order: '0'
+  priority: '0'
+  rate: '9.75'
+  shipping: '1'
+  state: TN
+wootax/33334:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '38256'
+    location_type: postcode
+  name: HENRY COUNTY
+  order: '0'
+  priority: '0'
+  rate: '9.75'
+  shipping: '1'
+  state: TN
+wootax/33335:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '38257'
+    location_type: postcode
+  name: OBION COUNTY
+  order: '0'
+  priority: '0'
+  rate: '9.75'
+  shipping: '1'
+  state: TN
+wootax/33336:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '38258'
+    location_type: postcode
+  name: CARROLL COUNTY
+  order: '0'
+  priority: '0'
+  rate: '9.75'
+  shipping: '1'
+  state: TN
+wootax/33337:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '38259'
+    location_type: postcode
+  name: ' TRIMBLE'
+  order: '0'
+  priority: '0'
+  rate: '9.75'
+  shipping: '1'
+  state: TN
+wootax/33338:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '38260'
+    location_type: postcode
+  name: OBION COUNTY
+  order: '0'
+  priority: '0'
+  rate: '9.75'
+  shipping: '1'
+  state: TN
+wootax/33339:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '38261'
+    location_type: postcode
+  name: UNION CITY
+  order: '0'
+  priority: '0'
+  rate: '9.75'
+  shipping: '1'
+  state: TN
+wootax/33340:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '38271'
+    location_type: postcode
+  name: WOODLAND MILLS
+  order: '0'
+  priority: '0'
+  rate: '9.75'
+  shipping: '1'
+  state: TN
+wootax/33341:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '38281'
+    location_type: postcode
+  name: UNION CITY
+  order: '0'
+  priority: '0'
+  rate: '9.75'
+  shipping: '1'
+  state: TN
+wootax/33342:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '38301'
+    location_type: postcode
+  name: JACKSON
+  order: '0'
+  priority: '0'
+  rate: '9.75'
+  shipping: '1'
+  state: TN
+wootax/33343:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '38302'
+    location_type: postcode
+  name: JACKSON
+  order: '0'
+  priority: '0'
+  rate: '9.75'
+  shipping: '1'
+  state: TN
+wootax/33344:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '38303'
+    location_type: postcode
+  name: JACKSON
+  order: '0'
+  priority: '0'
+  rate: '9.75'
+  shipping: '1'
+  state: TN
+wootax/33345:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '38305'
+    location_type: postcode
+  name: JACKSON
+  order: '0'
+  priority: '0'
+  rate: '9.75'
+  shipping: '1'
+  state: TN
+wootax/33346:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '38308'
+    location_type: postcode
+  name: JACKSON
+  order: '0'
+  priority: '0'
+  rate: '9.75'
+  shipping: '1'
+  state: TN
+wootax/33347:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '38310'
+    location_type: postcode
+  name: MCNAIRY COUNTY
+  order: '0'
+  priority: '0'
+  rate: '9.25'
+  shipping: '1'
+  state: TN
+wootax/33348:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '38311'
+    location_type: postcode
+  name: DECATUR COUNTY
+  order: '0'
+  priority: '0'
+  rate: '9.5'
+  shipping: '1'
+  state: TN
+wootax/33349:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '38313'
+    location_type: postcode
+  name: HENDERSON COUNTY
+  order: '0'
+  priority: '0'
+  rate: '9.75'
+  shipping: '1'
+  state: TN
+wootax/33350:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '38315'
+    location_type: postcode
+  name: MCNAIRY COUNTY
+  order: '0'
+  priority: '0'
+  rate: '9.25'
+  shipping: '1'
+  state: TN
+wootax/33351:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '38316'
+    location_type: postcode
+  name: GIBSON COUNTY
+  order: '0'
+  priority: '0'
+  rate: '9.75'
+  shipping: '1'
+  state: TN
+wootax/33352:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '38317'
+    location_type: postcode
+  name: CARROLL COUNTY
+  order: '0'
+  priority: '0'
+  rate: '9.75'
+  shipping: '1'
+  state: TN
+wootax/33353:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '38318'
+    location_type: postcode
+  name: CARROLL COUNTY
+  order: '0'
+  priority: '0'
+  rate: '9.75'
+  shipping: '1'
+  state: TN
+wootax/33354:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '38320'
+    location_type: postcode
+  name: BENTON COUNTY
+  order: '0'
+  priority: '0'
+  rate: '9.75'
+  shipping: '1'
+  state: TN
+wootax/33355:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '38321'
+    location_type: postcode
+  name: CARROLL COUNTY
+  order: '0'
+  priority: '0'
+  rate: '9.75'
+  shipping: '1'
+  state: TN
+wootax/33356:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '38324'
+    location_type: postcode
+  name: CLARKSBURG
+  order: '0'
+  priority: '0'
+  rate: '9.75'
+  shipping: '1'
+  state: TN
+wootax/33357:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '38326'
+    location_type: postcode
+  name: HARDIN COUNTY
+  order: '0'
+  priority: '0'
+  rate: '9.75'
+  shipping: '1'
+  state: TN
+wootax/33358:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '38327'
+    location_type: postcode
+  name: CRUMP
+  order: '0'
+  priority: '0'
+  rate: '9.75'
+  shipping: '1'
+  state: TN
+wootax/33359:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '38328'
+    location_type: postcode
+  name: HENDERSON COUNTY
+  order: '0'
+  priority: '0'
+  rate: '9.75'
+  shipping: '1'
+  state: TN
+wootax/33360:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '38329'
+    location_type: postcode
+  name: DECATUR COUNTY
+  order: '0'
+  priority: '0'
+  rate: '9.5'
+  shipping: '1'
+  state: TN
+wootax/33361:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '38330'
+    location_type: postcode
+  name: DYER
+  order: '0'
+  priority: '0'
+  rate: '9.75'
+  shipping: '1'
+  state: TN
+wootax/33362:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '38331'
+    location_type: postcode
+  name: GIBSON COUNTY
+  order: '0'
+  priority: '0'
+  rate: '9.75'
+  shipping: '1'
+  state: TN
+wootax/33363:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '38332'
+    location_type: postcode
+  name: CHESTER COUNTY
+  order: '0'
+  priority: '0'
+  rate: '9.75'
+  shipping: '1'
+  state: TN
+wootax/33364:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '38333'
+    location_type: postcode
+  name: BENTON COUNTY
+  order: '0'
+  priority: '0'
+  rate: '9.75'
+  shipping: '1'
+  state: TN
+wootax/33365:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '38334'
+    location_type: postcode
+  name: MCNAIRY COUNTY
+  order: '0'
+  priority: '0'
+  rate: '9.25'
+  shipping: '1'
+  state: TN
+wootax/33366:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '38336'
+    location_type: postcode
+  name: CROCKETT COUNTY
+  order: '0'
+  priority: '0'
+  rate: '9.75'
+  shipping: '1'
+  state: TN
+wootax/33367:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '38337'
+    location_type: postcode
+  name: CROCKETT COUNTY
+  order: '0'
+  priority: '0'
+  rate: '9.75'
+  shipping: '1'
+  state: TN
+wootax/33368:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '38338'
+    location_type: postcode
+  name: DYER
+  order: '0'
+  priority: '0'
+  rate: '9.75'
+  shipping: '1'
+  state: TN
+wootax/33369:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '38339'
+    location_type: postcode
+  name: MCNAIRY COUNTY
+  order: '0'
+  priority: '0'
+  rate: '9.25'
+  shipping: '1'
+  state: TN
+wootax/33370:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '38340'
+    location_type: postcode
+  name: CHESTER COUNTY
+  order: '0'
+  priority: '0'
+  rate: '9.75'
+  shipping: '1'
+  state: TN
+wootax/33371:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '38341'
+    location_type: postcode
+  name: BENTON COUNTY
+  order: '0'
+  priority: '0'
+  rate: '9.75'
+  shipping: '1'
+  state: TN
+wootax/33372:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '38342'
+    location_type: postcode
+  name: CARROLL COUNTY
+  order: '0'
+  priority: '0'
+  rate: '9.75'
+  shipping: '1'
+  state: TN
+wootax/33373:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '38343'
+    location_type: postcode
+  name: HUMBOLDT
+  order: '0'
+  priority: '0'
+  rate: '9.75'
+  shipping: '1'
+  state: TN
+wootax/33374:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '38344'
+    location_type: postcode
+  name: CARROLL COUNTY
+  order: '0'
+  priority: '0'
+  rate: '9.75'
+  shipping: '1'
+  state: TN
+wootax/33375:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '38345'
+    location_type: postcode
+  name: HENDERSON COUNTY
+  order: '0'
+  priority: '0'
+  rate: '9.75'
+  shipping: '1'
+  state: TN
+wootax/33376:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '38346'
+    location_type: postcode
+  name: GIBSON COUNTY
+  order: '0'
+  priority: '0'
+  rate: '9.75'
+  shipping: '1'
+  state: TN
+wootax/33377:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '38347'
+    location_type: postcode
+  name: CHESTER COUNTY
+  order: '0'
+  priority: '0'
+  rate: '9.75'
+  shipping: '1'
+  state: TN
+wootax/33378:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '38348'
+    location_type: postcode
+  name: CARROLL COUNTY
+  order: '0'
+  priority: '0'
+  rate: '9.75'
+  shipping: '1'
+  state: TN
+wootax/33379:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '38351'
+    location_type: postcode
+  name: HENDERSON COUNTY
+  order: '0'
+  priority: '0'
+  rate: '9.75'
+  shipping: '1'
+  state: TN
+wootax/33380:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '38352'
+    location_type: postcode
+  name: CHESTER COUNTY
+  order: '0'
+  priority: '0'
+  rate: '9.75'
+  shipping: '1'
+  state: TN
+wootax/33381:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '38355'
+    location_type: postcode
+  name: MEDINA
+  order: '0'
+  priority: '0'
+  rate: '9.75'
+  shipping: '1'
+  state: TN
+wootax/33382:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '38356'
+    location_type: postcode
+  name: MADISON COUNTY
+  order: '0'
+  priority: '0'
+  rate: '9.75'
+  shipping: '1'
+  state: TN
+wootax/33383:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '38357'
+    location_type: postcode
+  name: MCNAIRY COUNTY
+  order: '0'
+  priority: '0'
+  rate: '9.25'
+  shipping: '1'
+  state: TN
+wootax/33384:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '38358'
+    location_type: postcode
+  name: MILAN
+  order: '0'
+  priority: '0'
+  rate: '9.75'
+  shipping: '1'
+  state: TN
+wootax/33385:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '38359'
+    location_type: postcode
+  name: ' MILLEDGEVILLE'
+  order: '0'
+  priority: '0'
+  rate: '9.25'
+  shipping: '1'
+  state: TN
+wootax/33386:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '38361'
+    location_type: postcode
+  name: HARDIN COUNTY
+  order: '0'
+  priority: '0'
+  rate: '9.75'
+  shipping: '1'
+  state: TN
+wootax/33387:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '38362'
+    location_type: postcode
+  name: MADISON COUNTY
+  order: '0'
+  priority: '0'
+  rate: '9.75'
+  shipping: '1'
+  state: TN
+wootax/33388:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '38363'
+    location_type: postcode
+  name: DECATUR COUNTY
+  order: '0'
+  priority: '0'
+  rate: '9.5'
+  shipping: '1'
+  state: TN
+wootax/33389:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '38365'
+    location_type: postcode
+  name: HARDIN COUNTY
+  order: '0'
+  priority: '0'
+  rate: '9.75'
+  shipping: '1'
+  state: TN
+wootax/33390:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '38366'
+    location_type: postcode
+  name: MADISON COUNTY
+  order: '0'
+  priority: '0'
+  rate: '9.75'
+  shipping: '1'
+  state: TN
+wootax/33391:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '38367'
+    location_type: postcode
+  name: MCNAIRY COUNTY
+  order: '0'
+  priority: '0'
+  rate: '9.25'
+  shipping: '1'
+  state: TN
+wootax/33392:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '38368'
+    location_type: postcode
+  name: HENDERSON COUNTY
+  order: '0'
+  priority: '0'
+  rate: '9.75'
+  shipping: '1'
+  state: TN
+wootax/33393:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '38369'
+    location_type: postcode
+  name: RUTHERFORD
+  order: '0'
+  priority: '0'
+  rate: '9.75'
+  shipping: '1'
+  state: TN
+wootax/33394:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '38370'
+    location_type: postcode
+  name: SALTILLO
+  order: '0'
+  priority: '0'
+  rate: '9.75'
+  shipping: '1'
+  state: TN
+wootax/33395:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '38371'
+    location_type: postcode
+  name: HENDERSON COUNTY
+  order: '0'
+  priority: '0'
+  rate: '9.75'
+  shipping: '1'
+  state: TN
+wootax/33396:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '38372'
+    location_type: postcode
+  name: HARDIN COUNTY
+  order: '0'
+  priority: '0'
+  rate: '9.75'
+  shipping: '1'
+  state: TN
+wootax/33397:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '38374'
+    location_type: postcode
+  name: HENDERSON COUNTY
+  order: '0'
+  priority: '0'
+  rate: '9.75'
+  shipping: '1'
+  state: TN
+wootax/33398:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '38375'
+    location_type: postcode
+  name: SELMER
+  order: '0'
+  priority: '0'
+  rate: '9.25'
+  shipping: '1'
+  state: TN
+wootax/33399:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '38376'
+    location_type: postcode
+  name: HARDIN COUNTY
+  order: '0'
+  priority: '0'
+  rate: '9.75'
+  shipping: '1'
+  state: TN
+wootax/33400:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '38377'
+    location_type: postcode
+  name: ' SILERTON'
+  order: '0'
+  priority: '0'
+  rate: '9.75'
+  shipping: '1'
+  state: TN
+wootax/33401:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '38378'
+    location_type: postcode
+  name: MADISON COUNTY
+  order: '0'
+  priority: '0'
+  rate: '9.75'
+  shipping: '1'
+  state: TN
+wootax/33402:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '38379'
+    location_type: postcode
+  name: MCNAIRY COUNTY
+  order: '0'
+  priority: '0'
+  rate: '9.25'
+  shipping: '1'
+  state: TN
+wootax/33403:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '38380'
+    location_type: postcode
+  name: DECATUR COUNTY
+  order: '0'
+  priority: '0'
+  rate: '9.5'
+  shipping: '1'
+  state: TN
+wootax/33404:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '38381'
+    location_type: postcode
+  name: HARDEMAN COUNTY
+  order: '0'
+  priority: '0'
+  rate: '9.75'
+  shipping: '1'
+  state: TN
+wootax/33405:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '38382'
+    location_type: postcode
+  name: TRENTON
+  order: '0'
+  priority: '0'
+  rate: '9.75'
+  shipping: '1'
+  state: TN
+wootax/33406:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '38387'
+    location_type: postcode
+  name: CARROLL COUNTY
+  order: '0'
+  priority: '0'
+  rate: '9.75'
+  shipping: '1'
+  state: TN
+wootax/33407:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '38388'
+    location_type: postcode
+  name: HENDERSON COUNTY
+  order: '0'
+  priority: '0'
+  rate: '9.75'
+  shipping: '1'
+  state: TN
+wootax/33408:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '38389'
+    location_type: postcode
+  name: YORKVILLE
+  order: '0'
+  priority: '0'
+  rate: '9.75'
+  shipping: '1'
+  state: TN
+wootax/33409:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '38390'
+    location_type: postcode
+  name: CARROLL COUNTY
+  order: '0'
+  priority: '0'
+  rate: '9.75'
+  shipping: '1'
+  state: TN
+wootax/33410:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '38391'
+    location_type: postcode
+  name: MADISON COUNTY
+  order: '0'
+  priority: '0'
+  rate: '9.75'
+  shipping: '1'
+  state: TN
+wootax/33411:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '38392'
+    location_type: postcode
+  name: MADISON COUNTY
+  order: '0'
+  priority: '0'
+  rate: '9.75'
+  shipping: '1'
+  state: TN
+wootax/33412:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '38393'
+    location_type: postcode
+  name: MCNAIRY COUNTY
+  order: '0'
+  priority: '0'
+  rate: '9.25'
+  shipping: '1'
+  state: TN
+wootax/33413:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '38401'
+    location_type: postcode
+  name: COLUMBIA
+  order: '0'
+  priority: '0'
+  rate: '9.25'
+  shipping: '1'
+  state: TN
+wootax/33414:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '38402'
+    location_type: postcode
+  name: COLUMBIA
+  order: '0'
+  priority: '0'
+  rate: '9.25'
+  shipping: '1'
+  state: TN
+wootax/33415:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '38425'
+    location_type: postcode
+  name: CLIFTON
+  order: '0'
+  priority: '0'
+  rate: '9.75'
+  shipping: '1'
+  state: TN
+wootax/33416:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '38449'
+    location_type: postcode
+  name: ARDMORE
+  order: '0'
+  priority: '0'
+  rate: '9.5'
+  shipping: '1'
+  state: TN
+wootax/33417:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '38450'
+    location_type: postcode
+  name: WAYNE COUNTY
+  order: '0'
+  priority: '0'
+  rate: '9.75'
+  shipping: '1'
+  state: TN
+wootax/33418:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '38451'
+    location_type: postcode
+  name: MAURY COUNTY
+  order: '0'
+  priority: '0'
+  rate: '9.25'
+  shipping: '1'
+  state: TN
+wootax/33419:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '38452'
+    location_type: postcode
+  name: WAYNE COUNTY
+  order: '0'
+  priority: '0'
+  rate: '9.75'
+  shipping: '1'
+  state: TN
+wootax/33420:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '38453'
+    location_type: postcode
+  name: LINCOLN COUNTY
+  order: '0'
+  priority: '0'
+  rate: '9.5'
+  shipping: '1'
+  state: TN
+wootax/33421:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '38454'
+    location_type: postcode
+  name: HICKMAN COUNTY
+  order: '0'
+  priority: '0'
+  rate: '9.75'
+  shipping: '1'
+  state: TN
+wootax/33422:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '38455'
+    location_type: postcode
+  name: ELKTON
+  order: '0'
+  priority: '0'
+  rate: '9.5'
+  shipping: '1'
+  state: TN
+wootax/33423:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '38456'
+    location_type: postcode
+  name: LAWRENCE COUNTY
+  order: '0'
+  priority: '0'
+  rate: '9.75'
+  shipping: '1'
+  state: TN
+wootax/33424:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '38457'
+    location_type: postcode
+  name: LAWRENCE COUNTY
+  order: '0'
+  priority: '0'
+  rate: '9.75'
+  shipping: '1'
+  state: TN
+wootax/33425:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '38459'
+    location_type: postcode
+  name: LINCOLN COUNTY
+  order: '0'
+  priority: '0'
+  rate: '9.5'
+  shipping: '1'
+  state: TN
+wootax/33426:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '38460'
+    location_type: postcode
+  name: GILES COUNTY
+  order: '0'
+  priority: '0'
+  rate: '9.5'
+  shipping: '1'
+  state: TN
+wootax/33427:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '38461'
+    location_type: postcode
+  name: MAURY COUNTY
+  order: '0'
+  priority: '0'
+  rate: '9.25'
+  shipping: '1'
+  state: TN
+wootax/33428:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '38462'
+    location_type: postcode
+  name: LEWIS COUNTY
+  order: '0'
+  priority: '0'
+  rate: '9.5'
+  shipping: '1'
+  state: TN
+wootax/33429:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '38463'
+    location_type: postcode
+  name: WAYNE COUNTY
+  order: '0'
+  priority: '0'
+  rate: '9.75'
+  shipping: '1'
+  state: TN
+wootax/33430:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '38464'
+    location_type: postcode
+  name: LAWRENCEBURG
+  order: '0'
+  priority: '0'
+  rate: '9.75'
+  shipping: '1'
+  state: TN
+wootax/33431:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '38468'
+    location_type: postcode
+  name: LAWRENCE COUNTY
+  order: '0'
+  priority: '0'
+  rate: '9.75'
+  shipping: '1'
+  state: TN
+wootax/33432:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '38469'
+    location_type: postcode
+  name: LAWRENCE COUNTY
+  order: '0'
+  priority: '0'
+  rate: '9.75'
+  shipping: '1'
+  state: TN
+wootax/33433:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '38471'
+    location_type: postcode
+  name: WAYNE COUNTY
+  order: '0'
+  priority: '0'
+  rate: '9.75'
+  shipping: '1'
+  state: TN
+wootax/33434:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '38472'
+    location_type: postcode
+  name: GILES COUNTY
+  order: '0'
+  priority: '0'
+  rate: '9.5'
+  shipping: '1'
+  state: TN
+wootax/33435:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '38473'
+    location_type: postcode
+  name: GILES COUNTY
+  order: '0'
+  priority: '0'
+  rate: '9.5'
+  shipping: '1'
+  state: TN
+wootax/33436:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '38474'
+    location_type: postcode
+  name: MOUNT PLEASANT
+  order: '0'
+  priority: '0'
+  rate: '9.25'
+  shipping: '1'
+  state: TN
+wootax/33437:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '38475'
+    location_type: postcode
+  name: HARDIN COUNTY
+  order: '0'
+  priority: '0'
+  rate: '9.75'
+  shipping: '1'
+  state: TN
+wootax/33438:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '38476'
+    location_type: postcode
+  name: HICKMAN COUNTY
+  order: '0'
+  priority: '0'
+  rate: '9.75'
+  shipping: '1'
+  state: TN
+wootax/33439:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '38477'
+    location_type: postcode
+  name: GILES COUNTY
+  order: '0'
+  priority: '0'
+  rate: '9.5'
+  shipping: '1'
+  state: TN
+wootax/33440:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '38478'
+    location_type: postcode
+  name: GILES COUNTY
+  order: '0'
+  priority: '0'
+  rate: '9.5'
+  shipping: '1'
+  state: TN
+wootax/33441:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '38481'
+    location_type: postcode
+  name: SAINT JOSEPH
+  order: '0'
+  priority: '0'
+  rate: '9.75'
+  shipping: '1'
+  state: TN
+wootax/33442:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '38482'
+    location_type: postcode
+  name: MAURY COUNTY
+  order: '0'
+  priority: '0'
+  rate: '9.25'
+  shipping: '1'
+  state: TN
+wootax/33443:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '38483'
+    location_type: postcode
+  name: LAWRENCE COUNTY
+  order: '0'
+  priority: '0'
+  rate: '9.75'
+  shipping: '1'
+  state: TN
+wootax/33444:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '38485'
+    location_type: postcode
+  name: WAYNE COUNTY
+  order: '0'
+  priority: '0'
+  rate: '9.75'
+  shipping: '1'
+  state: TN
+wootax/33445:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '38486'
+    location_type: postcode
+  name: LAWRENCE COUNTY
+  order: '0'
+  priority: '0'
+  rate: '9.75'
+  shipping: '1'
+  state: TN
+wootax/33446:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '38487'
+    location_type: postcode
+  name: MAURY COUNTY
+  order: '0'
+  priority: '0'
+  rate: '9.25'
+  shipping: '1'
+  state: TN
+wootax/33447:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '38488'
+    location_type: postcode
+  name: LINCOLN COUNTY
+  order: '0'
+  priority: '0'
+  rate: '9.5'
+  shipping: '1'
+  state: TN
+wootax/33448:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '38501'
+    location_type: postcode
+  name: COOKEVILLE
+  order: '0'
+  priority: '0'
+  rate: '9.75'
+  shipping: '1'
+  state: TN
+wootax/33449:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '38502'
+    location_type: postcode
+  name: COOKEVILLE
+  order: '0'
+  priority: '0'
+  rate: '9.75'
+  shipping: '1'
+  state: TN
+wootax/33450:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '38503'
+    location_type: postcode
+  name: COOKEVILLE
+  order: '0'
+  priority: '0'
+  rate: '9.75'
+  shipping: '1'
+  state: TN
+wootax/33451:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '38504'
+    location_type: postcode
+  name: FENTRESS COUNTY
+  order: '0'
+  priority: '0'
+  rate: '9.5'
+  shipping: '1'
+  state: TN
+wootax/33452:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '38505'
+    location_type: postcode
+  name: COOKEVILLE
+  order: '0'
+  priority: '0'
+  rate: '9.75'
+  shipping: '1'
+  state: TN
+wootax/33453:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '38506'
+    location_type: postcode
+  name: PUTNAM COUNTY
+  order: '0'
+  priority: '0'
+  rate: '9.75'
+  shipping: '1'
+  state: TN
+wootax/33454:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '38541'
+    location_type: postcode
+  name: OVERTON COUNTY
+  order: '0'
+  priority: '0'
+  rate: '9.5'
+  shipping: '1'
+  state: TN
+wootax/33455:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '38542'
+    location_type: postcode
+  name: OVERTON COUNTY
+  order: '0'
+  priority: '0'
+  rate: '9.5'
+  shipping: '1'
+  state: TN
+wootax/33456:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '38543'
+    location_type: postcode
+  name: OVERTON COUNTY
+  order: '0'
+  priority: '0'
+  rate: '9.5'
+  shipping: '1'
+  state: TN
+wootax/33457:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '38544'
+    location_type: postcode
+  name: PUTNAM COUNTY
+  order: '0'
+  priority: '0'
+  rate: '9.75'
+  shipping: '1'
+  state: TN
+wootax/33458:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '38545'
+    location_type: postcode
+  name: JACKSON COUNTY
+  order: '0'
+  priority: '0'
+  rate: '9.75'
+  shipping: '1'
+  state: TN
+wootax/33459:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '38547'
+    location_type: postcode
+  name: SMITH COUNTY
+  order: '0'
+  priority: '0'
+  rate: '9'
+  shipping: '1'
+  state: TN
+wootax/33460:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '38548'
+    location_type: postcode
+  name: PUTNAM COUNTY
+  order: '0'
+  priority: '0'
+  rate: '9.75'
+  shipping: '1'
+  state: TN
+wootax/33461:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '38549'
+    location_type: postcode
+  name: PICKETT COUNTY
+  order: '0'
+  priority: '0'
+  rate: '9.75'
+  shipping: '1'
+  state: TN
+wootax/33462:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '38550'
+    location_type: postcode
+  name: WARREN COUNTY
+  order: '0'
+  priority: '0'
+  rate: '9.75'
+  shipping: '1'
+  state: TN
+wootax/33463:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '38551'
+    location_type: postcode
+  name: CLAY COUNTY
+  order: '0'
+  priority: '0'
+  rate: '9.75'
+  shipping: '1'
+  state: TN
+wootax/33464:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '38552'
+    location_type: postcode
+  name: SMITH COUNTY
+  order: '0'
+  priority: '0'
+  rate: '9'
+  shipping: '1'
+  state: TN
+wootax/33465:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '38553'
+    location_type: postcode
+  name: FENTRESS COUNTY
+  order: '0'
+  priority: '0'
+  rate: '9.5'
+  shipping: '1'
+  state: TN
+wootax/33466:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '38554'
+    location_type: postcode
+  name: OVERTON COUNTY
+  order: '0'
+  priority: '0'
+  rate: '9.5'
+  shipping: '1'
+  state: TN
+wootax/33467:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '38555'
+    location_type: postcode
+  name: CROSSVILLE
+  order: '0'
+  priority: '0'
+  rate: '9.75'
+  shipping: '1'
+  state: TN
+wootax/33468:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '38556'
+    location_type: postcode
+  name: FENTRESS COUNTY
+  order: '0'
+  priority: '0'
+  rate: '9.5'
+  shipping: '1'
+  state: TN
+wootax/33469:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '38557'
+    location_type: postcode
+  name: CROSSVILLE
+  order: '0'
+  priority: '0'
+  rate: '9.75'
+  shipping: '1'
+  state: TN
+wootax/33470:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '38558'
+    location_type: postcode
+  name: CUMBERLAND COUNTY
+  order: '0'
+  priority: '0'
+  rate: '9.75'
+  shipping: '1'
+  state: TN
+wootax/33471:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '38559'
+    location_type: postcode
+  name: DOYLE
+  order: '0'
+  priority: '0'
+  rate: '9.25'
+  shipping: '1'
+  state: TN
+wootax/33472:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '38560'
+    location_type: postcode
+  name: SMITH COUNTY
+  order: '0'
+  priority: '0'
+  rate: '9'
+  shipping: '1'
+  state: TN
+wootax/33473:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '38562'
+    location_type: postcode
+  name: JACKSON COUNTY
+  order: '0'
+  priority: '0'
+  rate: '9.75'
+  shipping: '1'
+  state: TN
+wootax/33474:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '38563'
+    location_type: postcode
+  name: GORDONSVILLE
+  order: '0'
+  priority: '0'
+  rate: '9.75'
+  shipping: '1'
+  state: TN
+wootax/33475:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '38564'
+    location_type: postcode
+  name: JACKSON COUNTY
+  order: '0'
+  priority: '0'
+  rate: '9.75'
+  shipping: '1'
+  state: TN
+wootax/33476:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '38565'
+    location_type: postcode
+  name: FENTRESS COUNTY
+  order: '0'
+  priority: '0'
+  rate: '9.5'
+  shipping: '1'
+  state: TN
+wootax/33477:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '38567'
+    location_type: postcode
+  name: SMITH COUNTY
+  order: '0'
+  priority: '0'
+  rate: '9'
+  shipping: '1'
+  state: TN
+wootax/33478:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '38568'
+    location_type: postcode
+  name: OVERTON COUNTY
+  order: '0'
+  priority: '0'
+  rate: '9.5'
+  shipping: '1'
+  state: TN
+wootax/33479:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '38569'
+    location_type: postcode
+  name: DEKALB COUNTY
+  order: '0'
+  priority: '0'
+  rate: '9.75'
+  shipping: '1'
+  state: TN
+wootax/33480:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '38570'
+    location_type: postcode
+  name: LIVINGSTON
+  order: '0'
+  priority: '0'
+  rate: '9.5'
+  shipping: '1'
+  state: TN
+wootax/33481:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '38571'
+    location_type: postcode
+  name: CUMBERLAND COUNTY
+  order: '0'
+  priority: '0'
+  rate: '9.75'
+  shipping: '1'
+  state: TN
+wootax/33482:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '38572'
+    location_type: postcode
+  name: CUMBERLAND COUNTY
+  order: '0'
+  priority: '0'
+  rate: '9.75'
+  shipping: '1'
+  state: TN
+wootax/33483:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '38573'
+    location_type: postcode
+  name: OVERTON COUNTY
+  order: '0'
+  priority: '0'
+  rate: '9.5'
+  shipping: '1'
+  state: TN
+wootax/33484:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '38574'
+    location_type: postcode
+  name: PUTNAM COUNTY
+  order: '0'
+  priority: '0'
+  rate: '9.75'
+  shipping: '1'
+  state: TN
+wootax/33485:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '38575'
+    location_type: postcode
+  name: CLAY COUNTY
+  order: '0'
+  priority: '0'
+  rate: '9.75'
+  shipping: '1'
+  state: TN
+wootax/33486:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '38577'
+    location_type: postcode
+  name: PICKETT COUNTY
+  order: '0'
+  priority: '0'
+  rate: '9.75'
+  shipping: '1'
+  state: TN
+wootax/33487:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '38578'
+    location_type: postcode
+  name: PLEASANT HILL
+  order: '0'
+  priority: '0'
+  rate: '9.75'
+  shipping: '1'
+  state: TN
+wootax/33488:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '38579'
+    location_type: postcode
+  name: WHITE COUNTY
+  order: '0'
+  priority: '0'
+  rate: '9.25'
+  shipping: '1'
+  state: TN
+wootax/33489:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '38580'
+    location_type: postcode
+  name: OVERTON COUNTY
+  order: '0'
+  priority: '0'
+  rate: '9.5'
+  shipping: '1'
+  state: TN
+wootax/33490:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '38581'
+    location_type: postcode
+  name: WARREN COUNTY
+  order: '0'
+  priority: '0'
+  rate: '9.75'
+  shipping: '1'
+  state: TN
+wootax/33491:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '38582'
+    location_type: postcode
+  name: PUTNAM COUNTY
+  order: '0'
+  priority: '0'
+  rate: '9.75'
+  shipping: '1'
+  state: TN
+wootax/33492:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '38583'
+    location_type: postcode
+  name: WHITE COUNTY
+  order: '0'
+  priority: '0'
+  rate: '9.25'
+  shipping: '1'
+  state: TN
+wootax/33493:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '38585'
+    location_type: postcode
+  name: VAN BUREN COUNTY
+  order: '0'
+  priority: '0'
+  rate: '9.75'
+  shipping: '1'
+  state: TN
+wootax/33494:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '38587'
+    location_type: postcode
+  name: WHITE COUNTY
+  order: '0'
+  priority: '0'
+  rate: '9.25'
+  shipping: '1'
+  state: TN
+wootax/33495:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '38588'
+    location_type: postcode
+  name: JACKSON COUNTY
+  order: '0'
+  priority: '0'
+  rate: '9.75'
+  shipping: '1'
+  state: TN
+wootax/33496:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '38589'
+    location_type: postcode
+  name: FENTRESS COUNTY
+  order: '0'
+  priority: '0'
+  rate: '9.5'
+  shipping: '1'
+  state: TN

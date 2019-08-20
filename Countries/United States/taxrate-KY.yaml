@@ -1,0 +1,11180 @@
+wootax/13852:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '40003'
+    location_type: postcode
+  name: SHELBY
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: KY
+wootax/13853:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '40004'
+    location_type: postcode
+  name: BARDSTOWN
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: KY
+wootax/13854:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '40006'
+    location_type: postcode
+  name: TRIMBLE
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: KY
+wootax/13855:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '40007'
+    location_type: postcode
+  name: HENRY
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: KY
+wootax/13856:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '40008'
+    location_type: postcode
+  name: NELSON
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: KY
+wootax/13857:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '40009'
+    location_type: postcode
+  name: MARION
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: KY
+wootax/13858:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '40010'
+    location_type: postcode
+  name: OLDHAM
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: KY
+wootax/13859:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '40011'
+    location_type: postcode
+  name: HENRY
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: KY
+wootax/13860:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '40012'
+    location_type: postcode
+  name: NELSON
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: KY
+wootax/13861:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '40013'
+    location_type: postcode
+  name: NELSON
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: KY
+wootax/13862:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '40014'
+    location_type: postcode
+  name: OLDHAM
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: KY
+wootax/13863:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '40019'
+    location_type: postcode
+  name: EMINENCE
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: KY
+wootax/13864:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '40020'
+    location_type: postcode
+  name: FAIRFIELD
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: KY
+wootax/13865:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '40022'
+    location_type: postcode
+  name: SHELBY
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: KY
+wootax/13866:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '40023'
+    location_type: postcode
+  name: SPENCER
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: KY
+wootax/13867:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '40025'
+    location_type: postcode
+  name: GLENVIEW
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: KY
+wootax/13868:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '40026'
+    location_type: postcode
+  name: OLDHAM
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: KY
+wootax/13869:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '40031'
+    location_type: postcode
+  name: OLDHAM
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: KY
+wootax/13870:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '40032'
+    location_type: postcode
+  name: OLDHAM
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: KY
+wootax/13871:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '40033'
+    location_type: postcode
+  name: MARION
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: KY
+wootax/13872:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '40036'
+    location_type: postcode
+  name: HENRY
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: KY
+wootax/13873:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '40037'
+    location_type: postcode
+  name: MARION
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: KY
+wootax/13874:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '40040'
+    location_type: postcode
+  name: WASHINGTON
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: KY
+wootax/13875:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '40041'
+    location_type: postcode
+  name: SAINT MATTHEWS
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: KY
+wootax/13876:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '40045'
+    location_type: postcode
+  name: TRIMBLE
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: KY
+wootax/13877:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '40046'
+    location_type: postcode
+  name: SPENCER
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: KY
+wootax/13878:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '40047'
+    location_type: postcode
+  name: MOUNT WASHINGTON
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: KY
+wootax/13879:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '40048'
+    location_type: postcode
+  name: NELSON
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: KY
+wootax/13880:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '40049'
+    location_type: postcode
+  name: MARION
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: KY
+wootax/13881:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '40050'
+    location_type: postcode
+  name: HENRY
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: KY
+wootax/13882:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '40051'
+    location_type: postcode
+  name: NELSON
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: KY
+wootax/13883:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '40052'
+    location_type: postcode
+  name: NELSON
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: KY
+wootax/13884:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '40055'
+    location_type: postcode
+  name: HENRY
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: KY
+wootax/13885:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '40056'
+    location_type: postcode
+  name: PEWEE VALLEY
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: KY
+wootax/13886:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '40057'
+    location_type: postcode
+  name: HENRY
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: KY
+wootax/13887:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '40058'
+    location_type: postcode
+  name: HENRY
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: KY
+wootax/13888:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '40059'
+    location_type: postcode
+  name: OLDHAM
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: KY
+wootax/13889:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '40060'
+    location_type: postcode
+  name: MARION
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: KY
+wootax/13890:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '40061'
+    location_type: postcode
+  name: SPRINGFIELD
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: KY
+wootax/13891:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '40062'
+    location_type: postcode
+  name: MARION
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: KY
+wootax/13892:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '40063'
+    location_type: postcode
+  name: MARION
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: KY
+wootax/13893:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '40065'
+    location_type: postcode
+  name: SHELBY
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: KY
+wootax/13894:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '40066'
+    location_type: postcode
+  name: SHELBYVILLE
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: KY
+wootax/13895:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '40067'
+    location_type: postcode
+  name: SHELBY
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: KY
+wootax/13896:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '40068'
+    location_type: postcode
+  name: HENRY
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: KY
+wootax/13897:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '40069'
+    location_type: postcode
+  name: WASHINGTON
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: KY
+wootax/13898:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '40070'
+    location_type: postcode
+  name: HENRY
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: KY
+wootax/13899:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '40071'
+    location_type: postcode
+  name: SPENCER
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: KY
+wootax/13900:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '40075'
+    location_type: postcode
+  name: HENRY
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: KY
+wootax/13901:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '40076'
+    location_type: postcode
+  name: SHELBY
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: KY
+wootax/13902:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '40077'
+    location_type: postcode
+  name: OLDHAM
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: KY
+wootax/13903:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '40078'
+    location_type: postcode
+  name: WASHINGTON
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: KY
+wootax/13904:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '40104'
+    location_type: postcode
+  name: MEADE
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: KY
+wootax/13905:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '40107'
+    location_type: postcode
+  name: NELSON
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: KY
+wootax/13906:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '40108'
+    location_type: postcode
+  name: MEADE
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: KY
+wootax/13907:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '40109'
+    location_type: postcode
+  name: BULLITT
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: KY
+wootax/13908:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '40110'
+    location_type: postcode
+  name: BULLITT
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: KY
+wootax/13909:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '40111'
+    location_type: postcode
+  name: CLOVERPORT
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: KY
+wootax/13910:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '40115'
+    location_type: postcode
+  name: BRECKINRIDGE
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: KY
+wootax/13911:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '40117'
+    location_type: postcode
+  name: MEADE
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: KY
+wootax/13912:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '40118'
+    location_type: postcode
+  name: HOLLYVILLA
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: KY
+wootax/13913:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '40119'
+    location_type: postcode
+  name: BRECKINRIDGE
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: KY
+wootax/13914:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '40121'
+    location_type: postcode
+  name: HARDIN
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: KY
+wootax/13915:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '40122'
+    location_type: postcode
+  name: HARDIN
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: KY
+wootax/13916:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '40129'
+    location_type: postcode
+  name: HILLVIEW
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: KY
+wootax/13917:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '40140'
+    location_type: postcode
+  name: BRECKINRIDGE
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: KY
+wootax/13918:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '40142'
+    location_type: postcode
+  name: MEADE
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: KY
+wootax/13919:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '40143'
+    location_type: postcode
+  name: BRECKINRIDGE
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: KY
+wootax/13920:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '40144'
+    location_type: postcode
+  name: BRECKINRIDGE
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: KY
+wootax/13921:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '40145'
+    location_type: postcode
+  name: BRECKINRIDGE
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: KY
+wootax/13922:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '40146'
+    location_type: postcode
+  name: BRECKINRIDGE
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: KY
+wootax/13923:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '40150'
+    location_type: postcode
+  name: BULLITT
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: KY
+wootax/13924:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '40152'
+    location_type: postcode
+  name: BRECKINRIDGE
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: KY
+wootax/13925:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '40153'
+    location_type: postcode
+  name: BRECKINRIDGE
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: KY
+wootax/13926:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '40155'
+    location_type: postcode
+  name: MULDRAUGH
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: KY
+wootax/13927:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '40157'
+    location_type: postcode
+  name: MEADE
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: KY
+wootax/13928:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '40159'
+    location_type: postcode
+  name: RADCLIFF
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: KY
+wootax/13929:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '40160'
+    location_type: postcode
+  name: RADCLIFF
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: KY
+wootax/13930:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '40161'
+    location_type: postcode
+  name: MEADE
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: KY
+wootax/13931:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '40162'
+    location_type: postcode
+  name: HARDIN
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: KY
+wootax/13932:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '40165'
+    location_type: postcode
+  name: BULLITT
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: KY
+wootax/13933:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '40166'
+    location_type: postcode
+  name: SHEPHERDSVILLE
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: KY
+wootax/13934:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '40170'
+    location_type: postcode
+  name: BRECKINRIDGE
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: KY
+wootax/13935:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '40171'
+    location_type: postcode
+  name: BRECKINRIDGE
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: KY
+wootax/13936:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '40175'
+    location_type: postcode
+  name: MEADE
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: KY
+wootax/13937:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '40176'
+    location_type: postcode
+  name: BRECKINRIDGE
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: KY
+wootax/13938:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '40177'
+    location_type: postcode
+  name: WEST POINT
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: KY
+wootax/13939:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '40178'
+    location_type: postcode
+  name: BRECKINRIDGE
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: KY
+wootax/13940:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '40205'
+    location_type: postcode
+  name: SAINT MATTHEWS
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: KY
+wootax/13941:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '40206'
+    location_type: postcode
+  name: SAINT MATTHEWS
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: KY
+wootax/13942:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '40207'
+    location_type: postcode
+  name: SAINT MATTHEWS
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: KY
+wootax/13943:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '40208'
+    location_type: postcode
+  name: SHIVELY
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: KY
+wootax/13944:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '40210'
+    location_type: postcode
+  name: SHIVELY
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: KY
+wootax/13945:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '40211'
+    location_type: postcode
+  name: SHIVELY
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: KY
+wootax/13946:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '40213'
+    location_type: postcode
+  name: AUDUBON PARK
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: KY
+wootax/13947:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '40215'
+    location_type: postcode
+  name: SHIVELY
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: KY
+wootax/13948:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '40216'
+    location_type: postcode
+  name: SHIVELY
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: KY
+wootax/13949:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '40217'
+    location_type: postcode
+  name: PARKWAY VILLAGE
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: KY
+wootax/13950:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '40218'
+    location_type: postcode
+  name: WEST BUECHEL
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: KY
+wootax/13951:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '40219'
+    location_type: postcode
+  name: SOUTH PARK VIEW
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: KY
+wootax/13952:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '40220'
+    location_type: postcode
+  name: JEFFERSONTOWN
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: KY
+wootax/13953:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '40222'
+    location_type: postcode
+  name: LYNDON
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: KY
+wootax/13954:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '40223'
+    location_type: postcode
+  name: JEFFERSONTOWN
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: KY
+wootax/13955:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '40228'
+    location_type: postcode
+  name: HOLLOW CREEK
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: KY
+wootax/13956:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '40229'
+    location_type: postcode
+  name: HILLVIEW
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: KY
+wootax/13957:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '40241'
+    location_type: postcode
+  name: BARBOURMEADE
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: KY
+wootax/13958:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '40242'
+    location_type: postcode
+  name: LYNDON
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: KY
+wootax/13959:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '40243'
+    location_type: postcode
+  name: MIDDLETOWN
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: KY
+wootax/13960:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '40245'
+    location_type: postcode
+  name: SHELBY
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: KY
+wootax/13961:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '40252'
+    location_type: postcode
+  name: LYNDON
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: KY
+wootax/13962:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '40253'
+    location_type: postcode
+  name: ANCHORAGE
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: KY
+wootax/13963:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '40257'
+    location_type: postcode
+  name: SAINT MATTHEWS
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: KY
+wootax/13964:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '40269'
+    location_type: postcode
+  name: JEFFERSONTOWN
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: KY
+wootax/13965:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '40272'
+    location_type: postcode
+  name: BULLITT
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: KY
+wootax/13966:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '40280'
+    location_type: postcode
+  name: SAINT MATTHEWS
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: KY
+wootax/13967:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '40291'
+    location_type: postcode
+  name: JEFFERSONTOWN
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: KY
+wootax/13968:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '40299'
+    location_type: postcode
+  name: JEFFERSONTOWN
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: KY
+wootax/13969:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '40310'
+    location_type: postcode
+  name: BURGIN
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: KY
+wootax/13970:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '40311'
+    location_type: postcode
+  name: NICHOLAS
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: KY
+wootax/13971:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '40312'
+    location_type: postcode
+  name: POWELL
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: KY
+wootax/13972:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '40313'
+    location_type: postcode
+  name: ROWAN
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: KY
+wootax/13973:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '40316'
+    location_type: postcode
+  name: MENIFEE
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: KY
+wootax/13974:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '40317'
+    location_type: postcode
+  name: ROWAN
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: KY
+wootax/13975:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '40319'
+    location_type: postcode
+  name: ROWAN
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: KY
+wootax/13976:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '40322'
+    location_type: postcode
+  name: MENIFEE
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: KY
+wootax/13977:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '40324'
+    location_type: postcode
+  name: GEORGETOWN
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: KY
+wootax/13978:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '40328'
+    location_type: postcode
+  name: MARION
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: KY
+wootax/13979:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '40330'
+    location_type: postcode
+  name: MERCER
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: KY
+wootax/13980:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '40334'
+    location_type: postcode
+  name: BATH
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: KY
+wootax/13981:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '40336'
+    location_type: postcode
+  name: ESTILL
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: KY
+wootax/13982:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '40337'
+    location_type: postcode
+  name: MONTGOMERY
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: KY
+wootax/13983:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '40339'
+    location_type: postcode
+  name: JESSAMINE
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: KY
+wootax/13984:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '40340'
+    location_type: postcode
+  name: NICHOLASVILLE
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: KY
+wootax/13985:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '40342'
+    location_type: postcode
+  name: LAWRENCEBURG
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: KY
+wootax/13986:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '40346'
+    location_type: postcode
+  name: MENIFEE
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: KY
+wootax/13987:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '40347'
+    location_type: postcode
+  name: MIDWAY
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: KY
+wootax/13988:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '40348'
+    location_type: postcode
+  name: MILLERSBURG
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: KY
+wootax/13989:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '40350'
+    location_type: postcode
+  name: NICHOLAS
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: KY
+wootax/13990:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '40351'
+    location_type: postcode
+  name: ROWAN
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: KY
+wootax/13991:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '40353'
+    location_type: postcode
+  name: MONTGOMERY
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: KY
+wootax/13992:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '40355'
+    location_type: postcode
+  name: OWEN
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: KY
+wootax/13993:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '40356'
+    location_type: postcode
+  name: NICHOLASVILLE
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: KY
+wootax/13994:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '40357'
+    location_type: postcode
+  name: NORTH MIDDLETOWN
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: KY
+wootax/13995:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '40358'
+    location_type: postcode
+  name: BATH
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: KY
+wootax/13996:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '40359'
+    location_type: postcode
+  name: OWEN
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: KY
+wootax/13997:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '40360'
+    location_type: postcode
+  name: BATH
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: KY
+wootax/13998:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '40361'
+    location_type: postcode
+  name: PARIS
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: KY
+wootax/13999:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '40363'
+    location_type: postcode
+  name: OWEN
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: KY
+wootax/14000:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '40370'
+    location_type: postcode
+  name: HARRISON
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: KY
+wootax/14001:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '40371'
+    location_type: postcode
+  name: BATH
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: KY
+wootax/14002:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '40372'
+    location_type: postcode
+  name: MERCER
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: KY
+wootax/14003:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '40374'
+    location_type: postcode
+  name: BATH
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: KY
+wootax/14004:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '40376'
+    location_type: postcode
+  name: POWELL
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: KY
+wootax/14005:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '40379'
+    location_type: postcode
+  name: SCOTT
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: KY
+wootax/14006:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '40380'
+    location_type: postcode
+  name: POWELL
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: KY
+wootax/14007:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '40383'
+    location_type: postcode
+  name: WOODFORD
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: KY
+wootax/14008:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '40384'
+    location_type: postcode
+  name: VERSAILLES
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: KY
+wootax/14009:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '40385'
+    location_type: postcode
+  name: MADISON
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: KY
+wootax/14010:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '40387'
+    location_type: postcode
+  name: MENIFEE
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: KY
+wootax/14011:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '40390'
+    location_type: postcode
+  name: WILMORE
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: KY
+wootax/14012:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '40391'
+    location_type: postcode
+  name: CLARK
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: KY
+wootax/14013:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '40392'
+    location_type: postcode
+  name: WINCHESTER
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: KY
+wootax/14014:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '40402'
+    location_type: postcode
+  name: JACKSON
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: KY
+wootax/14015:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '40403'
+    location_type: postcode
+  name: BEREA
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: KY
+wootax/14016:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '40404'
+    location_type: postcode
+  name: BEREA
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: KY
+wootax/14017:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '40405'
+    location_type: postcode
+  name: MADISON
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: KY
+wootax/14018:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '40409'
+    location_type: postcode
+  name: ROCKCASTLE
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: KY
+wootax/14019:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '40410'
+    location_type: postcode
+  name: GARRARD
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: KY
+wootax/14020:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '40419'
+    location_type: postcode
+  name: LINCOLN
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: KY
+wootax/14021:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '40422'
+    location_type: postcode
+  name: DANVILLE
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: KY
+wootax/14022:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '40434'
+    location_type: postcode
+  name: JACKSON
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: KY
+wootax/14023:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '40437'
+    location_type: postcode
+  name: LINCOLN
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: KY
+wootax/14024:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '40440'
+    location_type: postcode
+  name: BOYLE
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: KY
+wootax/14025:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '40442'
+    location_type: postcode
+  name: CASEY
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: KY
+wootax/14026:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '40444'
+    location_type: postcode
+  name: GARRARD
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: KY
+wootax/14027:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '40445'
+    location_type: postcode
+  name: ROCKCASTLE
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: KY
+wootax/14028:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '40446'
+    location_type: postcode
+  name: LANCASTER
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: KY
+wootax/14029:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '40447'
+    location_type: postcode
+  name: JACKSON
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: KY
+wootax/14030:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '40448'
+    location_type: postcode
+  name: LINCOLN
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: KY
+wootax/14031:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '40452'
+    location_type: postcode
+  name: BOYLE
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: KY
+wootax/14032:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '40456'
+    location_type: postcode
+  name: ROCKCASTLE
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: KY
+wootax/14033:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '40460'
+    location_type: postcode
+  name: ROCKCASTLE
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: KY
+wootax/14034:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '40461'
+    location_type: postcode
+  name: GARRARD
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: KY
+wootax/14035:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '40464'
+    location_type: postcode
+  name: BOYLE
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: KY
+wootax/14036:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '40468'
+    location_type: postcode
+  name: BOYLE
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: KY
+wootax/14037:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '40472'
+    location_type: postcode
+  name: ESTILL
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: KY
+wootax/14038:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '40473'
+    location_type: postcode
+  name: MOUNT VERNON
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: KY
+wootax/14039:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '40475'
+    location_type: postcode
+  name: RICHMOND
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: KY
+wootax/14040:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '40476'
+    location_type: postcode
+  name: RICHMOND
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: KY
+wootax/14041:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '40481'
+    location_type: postcode
+  name: JACKSON
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: KY
+wootax/14042:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '40484'
+    location_type: postcode
+  name: LINCOLN
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: KY
+wootax/14043:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '40486'
+    location_type: postcode
+  name: JACKSON
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: KY
+wootax/14044:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '40488'
+    location_type: postcode
+  name: LINCOLN
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: KY
+wootax/14045:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '40489'
+    location_type: postcode
+  name: LINCOLN
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: KY
+wootax/14046:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '40492'
+    location_type: postcode
+  name: ROCKCASTLE
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: KY
+wootax/14047:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '40509'
+    location_type: postcode
+  name: CLARK
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: KY
+wootax/14048:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '40511'
+    location_type: postcode
+  name: SCOTT
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: KY
+wootax/14049:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '40513'
+    location_type: postcode
+  name: WOODFORD
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: KY
+wootax/14050:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '40514'
+    location_type: postcode
+  name: JESSAMINE
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: KY
+wootax/14051:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '40515'
+    location_type: postcode
+  name: JESSAMINE
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: KY
+wootax/14052:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '40516'
+    location_type: postcode
+  name: BOURBON
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: KY
+wootax/14053:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '40601'
+    location_type: postcode
+  name: FRANKFORT
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: KY
+wootax/14054:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '40602'
+    location_type: postcode
+  name: FRANKFORT
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: KY
+wootax/14055:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '40603'
+    location_type: postcode
+  name: FRANKFORT
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: KY
+wootax/14056:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '40604'
+    location_type: postcode
+  name: FRANKFORT
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: KY
+wootax/14057:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '40618'
+    location_type: postcode
+  name: FRANKFORT
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: KY
+wootax/14058:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '40619'
+    location_type: postcode
+  name: FRANKFORT
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: KY
+wootax/14059:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '40620'
+    location_type: postcode
+  name: FRANKFORT
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: KY
+wootax/14060:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '40621'
+    location_type: postcode
+  name: FRANKFORT
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: KY
+wootax/14061:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '40622'
+    location_type: postcode
+  name: FRANKFORT
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: KY
+wootax/14062:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '40701'
+    location_type: postcode
+  name: CORBIN
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: KY
+wootax/14063:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '40724'
+    location_type: postcode
+  name: LONDON
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: KY
+wootax/14064:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '40729'
+    location_type: postcode
+  name: LAUREL
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: KY
+wootax/14065:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '40730'
+    location_type: postcode
+  name: WHITLEY
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: KY
+wootax/14066:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '40734'
+    location_type: postcode
+  name: KNOX
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: KY
+wootax/14067:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '40737'
+    location_type: postcode
+  name: LAUREL
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: KY
+wootax/14068:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '40740'
+    location_type: postcode
+  name: LAUREL
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: KY
+wootax/14069:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '40741'
+    location_type: postcode
+  name: LAUREL
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: KY
+wootax/14070:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '40744'
+    location_type: postcode
+  name: LAUREL
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: KY
+wootax/14071:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '40750'
+    location_type: postcode
+  name: LAUREL
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: KY
+wootax/14072:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '40755'
+    location_type: postcode
+  name: LAUREL
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: KY
+wootax/14073:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '40759'
+    location_type: postcode
+  name: WHITLEY
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: KY
+wootax/14074:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '40763'
+    location_type: postcode
+  name: WHITLEY
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: KY
+wootax/14075:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '40769'
+    location_type: postcode
+  name: WHITLEY
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: KY
+wootax/14076:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '40771'
+    location_type: postcode
+  name: KNOX
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: KY
+wootax/14077:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '40801'
+    location_type: postcode
+  name: HARLAN
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: KY
+wootax/14078:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '40803'
+    location_type: postcode
+  name: LESLIE
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: KY
+wootax/14079:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '40806'
+    location_type: postcode
+  name: HARLAN
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: KY
+wootax/14080:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '40807'
+    location_type: postcode
+  name: BENHAM
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: KY
+wootax/14081:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '40808'
+    location_type: postcode
+  name: LESLIE
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: KY
+wootax/14082:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '40810'
+    location_type: postcode
+  name: HARLAN
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: KY
+wootax/14083:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '40813'
+    location_type: postcode
+  name: BELL
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: KY
+wootax/14084:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '40815'
+    location_type: postcode
+  name: HARLAN
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: KY
+wootax/14085:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '40816'
+    location_type: postcode
+  name: LESLIE
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: KY
+wootax/14086:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '40818'
+    location_type: postcode
+  name: HARLAN
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: KY
+wootax/14087:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '40819'
+    location_type: postcode
+  name: HARLAN
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: KY
+wootax/14088:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '40820'
+    location_type: postcode
+  name: HARLAN
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: KY
+wootax/14089:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '40823'
+    location_type: postcode
+  name: CUMBERLAND
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: KY
+wootax/14090:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '40824'
+    location_type: postcode
+  name: HARLAN
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: KY
+wootax/14091:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '40826'
+    location_type: postcode
+  name: LETCHER
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: KY
+wootax/14092:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '40827'
+    location_type: postcode
+  name: LESLIE
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: KY
+wootax/14093:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '40828'
+    location_type: postcode
+  name: HARLAN
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: KY
+wootax/14094:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '40829'
+    location_type: postcode
+  name: HARLAN
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: KY
+wootax/14095:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '40830'
+    location_type: postcode
+  name: HARLAN
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: KY
+wootax/14096:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '40831'
+    location_type: postcode
+  name: HARLAN
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: KY
+wootax/14097:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '40840'
+    location_type: postcode
+  name: LESLIE
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: KY
+wootax/14098:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '40843'
+    location_type: postcode
+  name: HARLAN
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: KY
+wootax/14099:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '40844'
+    location_type: postcode
+  name: LESLIE
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: KY
+wootax/14100:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '40845'
+    location_type: postcode
+  name: BELL
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: KY
+wootax/14101:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '40847'
+    location_type: postcode
+  name: HARLAN
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: KY
+wootax/14102:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '40849'
+    location_type: postcode
+  name: HARLAN
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: KY
+wootax/14103:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '40854'
+    location_type: postcode
+  name: LOYALL
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: KY
+wootax/14104:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '40855'
+    location_type: postcode
+  name: LYNCH
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: KY
+wootax/14105:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '40856'
+    location_type: postcode
+  name: BELL
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: KY
+wootax/14106:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '40858'
+    location_type: postcode
+  name: LESLIE
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: KY
+wootax/14107:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '40862'
+    location_type: postcode
+  name: LETCHER
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: KY
+wootax/14108:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '40863'
+    location_type: postcode
+  name: HARLAN
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: KY
+wootax/14109:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '40865'
+    location_type: postcode
+  name: HARLAN
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: KY
+wootax/14110:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '40868'
+    location_type: postcode
+  name: LESLIE
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: KY
+wootax/14111:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '40870'
+    location_type: postcode
+  name: HARLAN
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: KY
+wootax/14112:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '40873'
+    location_type: postcode
+  name: HARLAN
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: KY
+wootax/14113:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '40874'
+    location_type: postcode
+  name: LESLIE
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: KY
+wootax/14114:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '40902'
+    location_type: postcode
+  name: BELL
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: KY
+wootax/14115:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '40903'
+    location_type: postcode
+  name: KNOX
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: KY
+wootax/14116:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '40906'
+    location_type: postcode
+  name: KNOX
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: KY
+wootax/14117:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '40913'
+    location_type: postcode
+  name: CLAY
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: KY
+wootax/14118:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '40914'
+    location_type: postcode
+  name: CLAY
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: KY
+wootax/14119:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '40915'
+    location_type: postcode
+  name: KNOX
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: KY
+wootax/14120:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '40921'
+    location_type: postcode
+  name: KNOX
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: KY
+wootax/14121:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '40923'
+    location_type: postcode
+  name: KNOX
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: KY
+wootax/14122:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '40927'
+    location_type: postcode
+  name: HARLAN
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: KY
+wootax/14123:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '40930'
+    location_type: postcode
+  name: KNOX
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: KY
+wootax/14124:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '40932'
+    location_type: postcode
+  name: CLAY
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: KY
+wootax/14125:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '40935'
+    location_type: postcode
+  name: KNOX
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: KY
+wootax/14126:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '40939'
+    location_type: postcode
+  name: BELL
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: KY
+wootax/14127:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '40940'
+    location_type: postcode
+  name: WHITLEY
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: KY
+wootax/14128:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '40941'
+    location_type: postcode
+  name: CLAY
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: KY
+wootax/14129:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '40943'
+    location_type: postcode
+  name: KNOX
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: KY
+wootax/14130:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '40944'
+    location_type: postcode
+  name: CLAY
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: KY
+wootax/14131:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '40946'
+    location_type: postcode
+  name: KNOX
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: KY
+wootax/14132:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '40949'
+    location_type: postcode
+  name: KNOX
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: KY
+wootax/14133:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '40951'
+    location_type: postcode
+  name: CLAY
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: KY
+wootax/14134:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '40953'
+    location_type: postcode
+  name: KNOX
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: KY
+wootax/14135:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '40955'
+    location_type: postcode
+  name: BELL
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: KY
+wootax/14136:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '40958'
+    location_type: postcode
+  name: BELL
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: KY
+wootax/14137:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '40962'
+    location_type: postcode
+  name: CLAY
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: KY
+wootax/14138:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '40964'
+    location_type: postcode
+  name: HARLAN
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: KY
+wootax/14139:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '40965'
+    location_type: postcode
+  name: MIDDLESBORO
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: KY
+wootax/14140:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '40972'
+    location_type: postcode
+  name: CLAY
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: KY
+wootax/14141:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '40977'
+    location_type: postcode
+  name: BELL
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: KY
+wootax/14142:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '40979'
+    location_type: postcode
+  name: LESLIE
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: KY
+wootax/14143:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '40982'
+    location_type: postcode
+  name: KNOX
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: KY
+wootax/14144:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '40983'
+    location_type: postcode
+  name: CLAY
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: KY
+wootax/14145:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '40988'
+    location_type: postcode
+  name: HARLAN
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: KY
+wootax/14146:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '40995'
+    location_type: postcode
+  name: KNOX
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: KY
+wootax/14147:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '40997'
+    location_type: postcode
+  name: KNOX
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: KY
+wootax/14148:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '41001'
+    location_type: postcode
+  name: CAMPBELL
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: KY
+wootax/14149:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '41002'
+    location_type: postcode
+  name: BRACKEN
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: KY
+wootax/14150:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '41003'
+    location_type: postcode
+  name: HARRISON
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: KY
+wootax/14151:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '41004'
+    location_type: postcode
+  name: BRACKEN
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: KY
+wootax/14152:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '41005'
+    location_type: postcode
+  name: BOONE
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: KY
+wootax/14153:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '41006'
+    location_type: postcode
+  name: PENDLETON
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: KY
+wootax/14154:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '41007'
+    location_type: postcode
+  name: CAMPBELL
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: KY
+wootax/14155:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '41008'
+    location_type: postcode
+  name: CARROLL
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: KY
+wootax/14156:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '41010'
+    location_type: postcode
+  name: GRANT COUNTY
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: KY
+wootax/14157:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '41011'
+    location_type: postcode
+  name: COVINGTON
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: KY
+wootax/14158:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '41012'
+    location_type: postcode
+  name: COVINGTON
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: KY
+wootax/14159:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '41014'
+    location_type: postcode
+  name: COVINGTON
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: KY
+wootax/14160:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '41015'
+    location_type: postcode
+  name: COVINGTON
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: KY
+wootax/14161:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '41016'
+    location_type: postcode
+  name: LUDLOW
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: KY
+wootax/14162:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '41017'
+    location_type: postcode
+  name: FORT MITCHELL
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: KY
+wootax/14163:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '41018'
+    location_type: postcode
+  name: ERLANGER
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: KY
+wootax/14164:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '41019'
+    location_type: postcode
+  name: COVINGTON
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: KY
+wootax/14165:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '41021'
+    location_type: postcode
+  name: BOONE
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: KY
+wootax/14166:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '41022'
+    location_type: postcode
+  name: FLORENCE
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: KY
+wootax/14167:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '41025'
+    location_type: postcode
+  name: BOONE
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: KY
+wootax/14168:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '41030'
+    location_type: postcode
+  name: CRITTENDEN
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: KY
+wootax/14169:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '41031'
+    location_type: postcode
+  name: HARRISON
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: KY
+wootax/14170:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '41033'
+    location_type: postcode
+  name: PENDLETON
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: KY
+wootax/14171:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '41034'
+    location_type: postcode
+  name: MASON
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: KY
+wootax/14172:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '41035'
+    location_type: postcode
+  name: GRANT COUNTY
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: KY
+wootax/14173:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '41037'
+    location_type: postcode
+  name: FLEMING
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: KY
+wootax/14174:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '41039'
+    location_type: postcode
+  name: FLEMING
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: KY
+wootax/14175:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '41040'
+    location_type: postcode
+  name: PENDLETON
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: KY
+wootax/14176:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '41041'
+    location_type: postcode
+  name: FLEMING
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: KY
+wootax/14177:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '41042'
+    location_type: postcode
+  name: FLORENCE
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: KY
+wootax/14178:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '41043'
+    location_type: postcode
+  name: BRACKEN
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: KY
+wootax/14179:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '41044'
+    location_type: postcode
+  name: BRACKEN
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: KY
+wootax/14180:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '41045'
+    location_type: postcode
+  name: CARROLL
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: KY
+wootax/14181:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '41046'
+    location_type: postcode
+  name: GALLATIN
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: KY
+wootax/14182:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '41048'
+    location_type: postcode
+  name: BOONE
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: KY
+wootax/14183:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '41049'
+    location_type: postcode
+  name: FLEMING
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: KY
+wootax/14184:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '41051'
+    location_type: postcode
+  name: INDEPENDENCE
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: KY
+wootax/14185:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '41052'
+    location_type: postcode
+  name: GRANT COUNTY
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: KY
+wootax/14186:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '41053'
+    location_type: postcode
+  name: KENTON
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: KY
+wootax/14187:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '41055'
+    location_type: postcode
+  name: MASON
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: KY
+wootax/14188:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '41056'
+    location_type: postcode
+  name: MAYSVILLE
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: KY
+wootax/14189:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '41059'
+    location_type: postcode
+  name: CAMPBELL
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: KY
+wootax/14190:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '41061'
+    location_type: postcode
+  name: BRACKEN
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: KY
+wootax/14191:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '41062'
+    location_type: postcode
+  name: MASON
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: KY
+wootax/14192:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '41063'
+    location_type: postcode
+  name: KENTON
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: KY
+wootax/14193:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '41064'
+    location_type: postcode
+  name: ROBERTSON
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: KY
+wootax/14194:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '41071'
+    location_type: postcode
+  name: NEWPORT
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: KY
+wootax/14195:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '41072'
+    location_type: postcode
+  name: NEWPORT
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: KY
+wootax/14196:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '41073'
+    location_type: postcode
+  name: BELLEVUE
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: KY
+wootax/14197:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '41074'
+    location_type: postcode
+  name: DAYTON
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: KY
+wootax/14198:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '41075'
+    location_type: postcode
+  name: FORT THOMAS
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: KY
+wootax/14199:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '41076'
+    location_type: postcode
+  name: COLD SPRING
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: KY
+wootax/14200:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '41080'
+    location_type: postcode
+  name: BOONE
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: KY
+wootax/14201:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '41081'
+    location_type: postcode
+  name: FLEMING
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: KY
+wootax/14202:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '41083'
+    location_type: postcode
+  name: CARROLL
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: KY
+wootax/14203:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '41085'
+    location_type: postcode
+  name: SILVER GROVE
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: KY
+wootax/14204:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '41086'
+    location_type: postcode
+  name: GALLATIN
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: KY
+wootax/14205:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '41091'
+    location_type: postcode
+  name: BOONE
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: KY
+wootax/14206:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '41092'
+    location_type: postcode
+  name: BOONE
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: KY
+wootax/14207:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '41093'
+    location_type: postcode
+  name: FLEMING
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: KY
+wootax/14208:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '41094'
+    location_type: postcode
+  name: BOONE
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: KY
+wootax/14209:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '41095'
+    location_type: postcode
+  name: GALLATIN
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: KY
+wootax/14210:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '41096'
+    location_type: postcode
+  name: MAYSVILLE
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: KY
+wootax/14211:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '41097'
+    location_type: postcode
+  name: GRANT COUNTY
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: KY
+wootax/14212:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '41098'
+    location_type: postcode
+  name: OWEN
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: KY
+wootax/14213:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '41099'
+    location_type: postcode
+  name: HIGHLAND HEIGHTS
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: KY
+wootax/14214:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '41101'
+    location_type: postcode
+  name: ASHLAND
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: KY
+wootax/14215:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '41102'
+    location_type: postcode
+  name: BOYD
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: KY
+wootax/14216:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '41105'
+    location_type: postcode
+  name: ASHLAND
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: KY
+wootax/14217:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '41114'
+    location_type: postcode
+  name: CATLETTSBURG
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: KY
+wootax/14218:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '41121'
+    location_type: postcode
+  name: GREENUP
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: KY
+wootax/14219:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '41124'
+    location_type: postcode
+  name: LAWRENCE
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: KY
+wootax/14220:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '41129'
+    location_type: postcode
+  name: BOYD
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: KY
+wootax/14221:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '41132'
+    location_type: postcode
+  name: CARTER
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: KY
+wootax/14222:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '41135'
+    location_type: postcode
+  name: LEWIS
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: KY
+wootax/14223:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '41139'
+    location_type: postcode
+  name: FLATWOODS
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: KY
+wootax/14224:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '41141'
+    location_type: postcode
+  name: LEWIS
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: KY
+wootax/14225:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '41142'
+    location_type: postcode
+  name: CARTER
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: KY
+wootax/14226:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '41143'
+    location_type: postcode
+  name: CARTER
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: KY
+wootax/14227:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '41144'
+    location_type: postcode
+  name: GREENUP
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: KY
+wootax/14228:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '41146'
+    location_type: postcode
+  name: CARTER
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: KY
+wootax/14229:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '41149'
+    location_type: postcode
+  name: ELLIOTT
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: KY
+wootax/14230:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '41159'
+    location_type: postcode
+  name: LAWRENCE
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: KY
+wootax/14231:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '41160'
+    location_type: postcode
+  name: LAWRENCE
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: KY
+wootax/14232:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '41164'
+    location_type: postcode
+  name: CARTER
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: KY
+wootax/14233:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '41166'
+    location_type: postcode
+  name: LEWIS
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: KY
+wootax/14234:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '41168'
+    location_type: postcode
+  name: BOYD
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: KY
+wootax/14235:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '41169'
+    location_type: postcode
+  name: RUSSELL
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: KY
+wootax/14236:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '41171'
+    location_type: postcode
+  name: ELLIOTT
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: KY
+wootax/14237:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '41173'
+    location_type: postcode
+  name: CARTER
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: KY
+wootax/14238:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '41174'
+    location_type: postcode
+  name: GREENUP
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: KY
+wootax/14239:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '41175'
+    location_type: postcode
+  name: GREENUP
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: KY
+wootax/14240:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '41179'
+    location_type: postcode
+  name: LEWIS
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: KY
+wootax/14241:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '41180'
+    location_type: postcode
+  name: LAWRENCE
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: KY
+wootax/14242:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '41181'
+    location_type: postcode
+  name: CARTER
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: KY
+wootax/14243:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '41183'
+    location_type: postcode
+  name: WORTHINGTON
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: KY
+wootax/14244:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '41189'
+    location_type: postcode
+  name: LEWIS
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: KY
+wootax/14245:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '41201'
+    location_type: postcode
+  name: LAWRENCE
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: KY
+wootax/14246:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '41203'
+    location_type: postcode
+  name: MARTIN
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: KY
+wootax/14247:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '41204'
+    location_type: postcode
+  name: JOHNSON
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: KY
+wootax/14248:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '41214'
+    location_type: postcode
+  name: MARTIN
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: KY
+wootax/14249:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '41216'
+    location_type: postcode
+  name: FLOYD
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: KY
+wootax/14250:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '41219'
+    location_type: postcode
+  name: JOHNSON
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: KY
+wootax/14251:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '41222'
+    location_type: postcode
+  name: JOHNSON
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: KY
+wootax/14252:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '41224'
+    location_type: postcode
+  name: MARTIN
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: KY
+wootax/14253:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '41226'
+    location_type: postcode
+  name: JOHNSON
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: KY
+wootax/14254:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '41230'
+    location_type: postcode
+  name: LAWRENCE
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: KY
+wootax/14255:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '41231'
+    location_type: postcode
+  name: MARTIN
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: KY
+wootax/14256:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '41232'
+    location_type: postcode
+  name: LAWRENCE
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: KY
+wootax/14257:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '41234'
+    location_type: postcode
+  name: JOHNSON
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: KY
+wootax/14258:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '41238'
+    location_type: postcode
+  name: JOHNSON
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: KY
+wootax/14259:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '41240'
+    location_type: postcode
+  name: PAINTSVILLE
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: KY
+wootax/14260:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '41250'
+    location_type: postcode
+  name: MARTIN
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: KY
+wootax/14261:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '41254'
+    location_type: postcode
+  name: JOHNSON
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: KY
+wootax/14262:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '41255'
+    location_type: postcode
+  name: JOHNSON
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: KY
+wootax/14263:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '41256'
+    location_type: postcode
+  name: JOHNSON
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: KY
+wootax/14264:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '41257'
+    location_type: postcode
+  name: JOHNSON
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: KY
+wootax/14265:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '41260'
+    location_type: postcode
+  name: JOHNSON
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: KY
+wootax/14266:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '41262'
+    location_type: postcode
+  name: MARTIN
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: KY
+wootax/14267:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '41263'
+    location_type: postcode
+  name: JOHNSON
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: KY
+wootax/14268:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '41264'
+    location_type: postcode
+  name: LAWRENCE
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: KY
+wootax/14269:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '41265'
+    location_type: postcode
+  name: JOHNSON
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: KY
+wootax/14270:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '41267'
+    location_type: postcode
+  name: MARTIN
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: KY
+wootax/14271:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '41268'
+    location_type: postcode
+  name: JOHNSON
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: KY
+wootax/14272:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '41271'
+    location_type: postcode
+  name: JOHNSON
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: KY
+wootax/14273:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '41274'
+    location_type: postcode
+  name: JOHNSON
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: KY
+wootax/14274:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '41301'
+    location_type: postcode
+  name: WOLFE
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: KY
+wootax/14275:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '41307'
+    location_type: postcode
+  name: LEE
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: KY
+wootax/14276:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '41310'
+    location_type: postcode
+  name: BREATHITT
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: KY
+wootax/14277:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '41311'
+    location_type: postcode
+  name: LEE
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: KY
+wootax/14278:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '41314'
+    location_type: postcode
+  name: BREATHITT
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: KY
+wootax/14279:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '41317'
+    location_type: postcode
+  name: BREATHITT
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: KY
+wootax/14280:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '41332'
+    location_type: postcode
+  name: WOLFE
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: KY
+wootax/14281:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '41333'
+    location_type: postcode
+  name: LEE
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: KY
+wootax/14282:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '41339'
+    location_type: postcode
+  name: BREATHITT
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: KY
+wootax/14283:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '41347'
+    location_type: postcode
+  name: LEE
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: KY
+wootax/14284:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '41348'
+    location_type: postcode
+  name: BREATHITT
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: KY
+wootax/14285:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '41351'
+    location_type: postcode
+  name: OWSLEY
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: KY
+wootax/14286:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '41352'
+    location_type: postcode
+  name: MORGAN
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: KY
+wootax/14287:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '41360'
+    location_type: postcode
+  name: WOLFE
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: KY
+wootax/14288:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '41364'
+    location_type: postcode
+  name: OWSLEY
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: KY
+wootax/14289:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '41365'
+    location_type: postcode
+  name: WOLFE
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: KY
+wootax/14290:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '41366'
+    location_type: postcode
+  name: BREATHITT
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: KY
+wootax/14291:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '41367'
+    location_type: postcode
+  name: PERRY
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: KY
+wootax/14292:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '41368'
+    location_type: postcode
+  name: LEE
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: KY
+wootax/14293:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '41385'
+    location_type: postcode
+  name: BREATHITT
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: KY
+wootax/14294:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '41386'
+    location_type: postcode
+  name: OWSLEY
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: KY
+wootax/14295:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '41390'
+    location_type: postcode
+  name: BREATHITT
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: KY
+wootax/14296:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '41397'
+    location_type: postcode
+  name: LEE
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: KY
+wootax/14297:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '41408'
+    location_type: postcode
+  name: MORGAN
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: KY
+wootax/14298:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '41413'
+    location_type: postcode
+  name: MORGAN
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: KY
+wootax/14299:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '41421'
+    location_type: postcode
+  name: MORGAN
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: KY
+wootax/14300:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '41425'
+    location_type: postcode
+  name: MORGAN
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: KY
+wootax/14301:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '41426'
+    location_type: postcode
+  name: MAGOFFIN
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: KY
+wootax/14302:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '41451'
+    location_type: postcode
+  name: MORGAN
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: KY
+wootax/14303:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '41459'
+    location_type: postcode
+  name: MORGAN
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: KY
+wootax/14304:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '41464'
+    location_type: postcode
+  name: MAGOFFIN
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: KY
+wootax/14305:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '41465'
+    location_type: postcode
+  name: MAGOFFIN
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: KY
+wootax/14306:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '41472'
+    location_type: postcode
+  name: MORGAN
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: KY
+wootax/14307:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '41501'
+    location_type: postcode
+  name: PIKE
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: KY
+wootax/14308:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '41502'
+    location_type: postcode
+  name: PIKEVILLE
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: KY
+wootax/14309:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '41503'
+    location_type: postcode
+  name: PIKE
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: KY
+wootax/14310:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '41512'
+    location_type: postcode
+  name: PIKE
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: KY
+wootax/14311:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '41513'
+    location_type: postcode
+  name: PIKE
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: KY
+wootax/14312:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '41514'
+    location_type: postcode
+  name: PIKE
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: KY
+wootax/14313:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '41517'
+    location_type: postcode
+  name: JENKINS
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: KY
+wootax/14314:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '41519'
+    location_type: postcode
+  name: PIKE
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: KY
+wootax/14315:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '41520'
+    location_type: postcode
+  name: PIKE
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: KY
+wootax/14316:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '41522'
+    location_type: postcode
+  name: PIKE
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: KY
+wootax/14317:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '41524'
+    location_type: postcode
+  name: PIKE
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: KY
+wootax/14318:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '41526'
+    location_type: postcode
+  name: PIKE
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: KY
+wootax/14319:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '41527'
+    location_type: postcode
+  name: PIKE
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: KY
+wootax/14320:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '41528'
+    location_type: postcode
+  name: PIKE
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: KY
+wootax/14321:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '41531'
+    location_type: postcode
+  name: PIKE
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: KY
+wootax/14322:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '41534'
+    location_type: postcode
+  name: PIKE
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: KY
+wootax/14323:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '41535'
+    location_type: postcode
+  name: PIKE
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: KY
+wootax/14324:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '41537'
+    location_type: postcode
+  name: JENKINS
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: KY
+wootax/14325:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '41538'
+    location_type: postcode
+  name: PIKE
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: KY
+wootax/14326:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '41539'
+    location_type: postcode
+  name: PIKE
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: KY
+wootax/14327:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '41540'
+    location_type: postcode
+  name: PIKE
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: KY
+wootax/14328:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '41542'
+    location_type: postcode
+  name: PIKE
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: KY
+wootax/14329:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '41543'
+    location_type: postcode
+  name: PIKE
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: KY
+wootax/14330:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '41544'
+    location_type: postcode
+  name: PIKE
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: KY
+wootax/14331:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '41547'
+    location_type: postcode
+  name: PIKE
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: KY
+wootax/14332:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '41548'
+    location_type: postcode
+  name: PIKE
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: KY
+wootax/14333:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '41549'
+    location_type: postcode
+  name: PIKE
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: KY
+wootax/14334:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '41553'
+    location_type: postcode
+  name: PIKE
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: KY
+wootax/14335:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '41554'
+    location_type: postcode
+  name: PIKE
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: KY
+wootax/14336:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '41555'
+    location_type: postcode
+  name: PIKE
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: KY
+wootax/14337:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '41557'
+    location_type: postcode
+  name: PIKE
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: KY
+wootax/14338:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '41558'
+    location_type: postcode
+  name: PIKE
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: KY
+wootax/14339:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '41559'
+    location_type: postcode
+  name: PIKE
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: KY
+wootax/14340:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '41560'
+    location_type: postcode
+  name: PIKE
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: KY
+wootax/14341:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '41561'
+    location_type: postcode
+  name: PIKE
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: KY
+wootax/14342:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '41562'
+    location_type: postcode
+  name: PIKE
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: KY
+wootax/14343:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '41563'
+    location_type: postcode
+  name: PIKE
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: KY
+wootax/14344:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '41564'
+    location_type: postcode
+  name: PIKE
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: KY
+wootax/14345:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '41566'
+    location_type: postcode
+  name: PIKE
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: KY
+wootax/14346:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '41567'
+    location_type: postcode
+  name: PIKE
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: KY
+wootax/14347:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '41568'
+    location_type: postcode
+  name: PIKE
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: KY
+wootax/14348:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '41571'
+    location_type: postcode
+  name: PIKE
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: KY
+wootax/14349:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '41572'
+    location_type: postcode
+  name: PIKE
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: KY
+wootax/14350:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '41601'
+    location_type: postcode
+  name: FLOYD
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: KY
+wootax/14351:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '41602'
+    location_type: postcode
+  name: FLOYD
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: KY
+wootax/14352:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '41603'
+    location_type: postcode
+  name: FLOYD
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: KY
+wootax/14353:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '41604'
+    location_type: postcode
+  name: FLOYD
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: KY
+wootax/14354:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '41605'
+    location_type: postcode
+  name: FLOYD
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: KY
+wootax/14355:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '41606'
+    location_type: postcode
+  name: FLOYD
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: KY
+wootax/14356:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '41607'
+    location_type: postcode
+  name: FLOYD
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: KY
+wootax/14357:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '41612'
+    location_type: postcode
+  name: FLOYD
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: KY
+wootax/14358:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '41615'
+    location_type: postcode
+  name: FLOYD
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: KY
+wootax/14359:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '41616'
+    location_type: postcode
+  name: FLOYD
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: KY
+wootax/14360:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '41619'
+    location_type: postcode
+  name: FLOYD
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: KY
+wootax/14361:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '41621'
+    location_type: postcode
+  name: FLOYD
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: KY
+wootax/14362:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '41622'
+    location_type: postcode
+  name: FLOYD
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: KY
+wootax/14363:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '41630'
+    location_type: postcode
+  name: FLOYD
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: KY
+wootax/14364:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '41631'
+    location_type: postcode
+  name: FLOYD
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: KY
+wootax/14365:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '41632'
+    location_type: postcode
+  name: MAGOFFIN
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: KY
+wootax/14366:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '41635'
+    location_type: postcode
+  name: FLOYD
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: KY
+wootax/14367:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '41636'
+    location_type: postcode
+  name: FLOYD
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: KY
+wootax/14368:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '41640'
+    location_type: postcode
+  name: FLOYD
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: KY
+wootax/14369:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '41642'
+    location_type: postcode
+  name: FLOYD
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: KY
+wootax/14370:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '41643'
+    location_type: postcode
+  name: KNOTT
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: KY
+wootax/14371:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '41645'
+    location_type: postcode
+  name: FLOYD
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: KY
+wootax/14372:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '41647'
+    location_type: postcode
+  name: FLOYD
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: KY
+wootax/14373:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '41649'
+    location_type: postcode
+  name: FLOYD
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: KY
+wootax/14374:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '41650'
+    location_type: postcode
+  name: FLOYD
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: KY
+wootax/14375:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '41651'
+    location_type: postcode
+  name: FLOYD
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: KY
+wootax/14376:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '41653'
+    location_type: postcode
+  name: FLOYD
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: KY
+wootax/14377:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '41655'
+    location_type: postcode
+  name: FLOYD
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: KY
+wootax/14378:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '41659'
+    location_type: postcode
+  name: FLOYD
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: KY
+wootax/14379:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '41660'
+    location_type: postcode
+  name: FLOYD
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: KY
+wootax/14380:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '41663'
+    location_type: postcode
+  name: FLOYD
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: KY
+wootax/14381:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '41666'
+    location_type: postcode
+  name: FLOYD
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: KY
+wootax/14382:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '41667'
+    location_type: postcode
+  name: FLOYD
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: KY
+wootax/14383:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '41669'
+    location_type: postcode
+  name: WHEELWRIGHT
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: KY
+wootax/14384:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '41701'
+    location_type: postcode
+  name: PERRY
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: KY
+wootax/14385:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '41712'
+    location_type: postcode
+  name: PERRY
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: KY
+wootax/14386:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '41713'
+    location_type: postcode
+  name: PERRY
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: KY
+wootax/14387:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '41714'
+    location_type: postcode
+  name: LESLIE
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: KY
+wootax/14388:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '41719'
+    location_type: postcode
+  name: PERRY
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: KY
+wootax/14389:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '41721'
+    location_type: postcode
+  name: PERRY
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: KY
+wootax/14390:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '41722'
+    location_type: postcode
+  name: PERRY
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: KY
+wootax/14391:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '41723'
+    location_type: postcode
+  name: PERRY
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: KY
+wootax/14392:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '41725'
+    location_type: postcode
+  name: KNOTT
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: KY
+wootax/14393:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '41727'
+    location_type: postcode
+  name: PERRY
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: KY
+wootax/14394:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '41729'
+    location_type: postcode
+  name: PERRY
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: KY
+wootax/14395:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '41731'
+    location_type: postcode
+  name: PERRY
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: KY
+wootax/14396:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '41735'
+    location_type: postcode
+  name: PERRY
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: KY
+wootax/14397:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '41736'
+    location_type: postcode
+  name: PERRY
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: KY
+wootax/14398:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '41739'
+    location_type: postcode
+  name: PERRY
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: KY
+wootax/14399:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '41740'
+    location_type: postcode
+  name: KNOTT
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: KY
+wootax/14400:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '41743'
+    location_type: postcode
+  name: KNOTT
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: KY
+wootax/14401:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '41745'
+    location_type: postcode
+  name: PERRY
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: KY
+wootax/14402:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '41746'
+    location_type: postcode
+  name: PERRY
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: KY
+wootax/14403:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '41749'
+    location_type: postcode
+  name: LESLIE
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: KY
+wootax/14404:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '41751'
+    location_type: postcode
+  name: PERRY
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: KY
+wootax/14405:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '41754'
+    location_type: postcode
+  name: PERRY
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: KY
+wootax/14406:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '41759'
+    location_type: postcode
+  name: KNOTT
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: KY
+wootax/14407:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '41760'
+    location_type: postcode
+  name: PERRY
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: KY
+wootax/14408:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '41762'
+    location_type: postcode
+  name: LESLIE
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: KY
+wootax/14409:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '41763'
+    location_type: postcode
+  name: PERRY
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: KY
+wootax/14410:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '41764'
+    location_type: postcode
+  name: LESLIE
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: KY
+wootax/14411:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '41766'
+    location_type: postcode
+  name: LESLIE
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: KY
+wootax/14412:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '41772'
+    location_type: postcode
+  name: KNOTT
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: KY
+wootax/14413:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '41773'
+    location_type: postcode
+  name: PERRY
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: KY
+wootax/14414:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '41774'
+    location_type: postcode
+  name: PERRY
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: KY
+wootax/14415:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '41775'
+    location_type: postcode
+  name: LESLIE
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: KY
+wootax/14416:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '41776'
+    location_type: postcode
+  name: LESLIE
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: KY
+wootax/14417:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '41777'
+    location_type: postcode
+  name: LESLIE
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: KY
+wootax/14418:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '41778'
+    location_type: postcode
+  name: PERRY
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: KY
+wootax/14419:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '41804'
+    location_type: postcode
+  name: LETCHER
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: KY
+wootax/14420:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '41810'
+    location_type: postcode
+  name: LETCHER
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: KY
+wootax/14421:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '41812'
+    location_type: postcode
+  name: LETCHER
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: KY
+wootax/14422:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '41815'
+    location_type: postcode
+  name: LETCHER
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: KY
+wootax/14423:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '41817'
+    location_type: postcode
+  name: KNOTT
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: KY
+wootax/14424:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '41819'
+    location_type: postcode
+  name: LETCHER
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: KY
+wootax/14425:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '41821'
+    location_type: postcode
+  name: LETCHER
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: KY
+wootax/14426:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '41822'
+    location_type: postcode
+  name: KNOTT
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: KY
+wootax/14427:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '41824'
+    location_type: postcode
+  name: LETCHER
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: KY
+wootax/14428:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '41825'
+    location_type: postcode
+  name: LETCHER
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: KY
+wootax/14429:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '41826'
+    location_type: postcode
+  name: LETCHER
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: KY
+wootax/14430:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '41828'
+    location_type: postcode
+  name: KNOTT
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: KY
+wootax/14431:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '41831'
+    location_type: postcode
+  name: KNOTT
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: KY
+wootax/14432:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '41832'
+    location_type: postcode
+  name: LETCHER
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: KY
+wootax/14433:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '41833'
+    location_type: postcode
+  name: LETCHER
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: KY
+wootax/14434:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '41834'
+    location_type: postcode
+  name: KNOTT
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: KY
+wootax/14435:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '41835'
+    location_type: postcode
+  name: LETCHER
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: KY
+wootax/14436:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '41836'
+    location_type: postcode
+  name: KNOTT
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: KY
+wootax/14437:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '41837'
+    location_type: postcode
+  name: LETCHER
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: KY
+wootax/14438:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '41838'
+    location_type: postcode
+  name: LETCHER
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: KY
+wootax/14439:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '41839'
+    location_type: postcode
+  name: KNOTT
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: KY
+wootax/14440:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '41840'
+    location_type: postcode
+  name: FLEMING-NEON
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: KY
+wootax/14441:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '41843'
+    location_type: postcode
+  name: KNOTT
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: KY
+wootax/14442:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '41844'
+    location_type: postcode
+  name: KNOTT
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: KY
+wootax/14443:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '41845'
+    location_type: postcode
+  name: LETCHER
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: KY
+wootax/14444:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '41847'
+    location_type: postcode
+  name: KNOTT
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: KY
+wootax/14445:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '41848'
+    location_type: postcode
+  name: LETCHER
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: KY
+wootax/14446:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '41849'
+    location_type: postcode
+  name: LETCHER
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: KY
+wootax/14447:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '41855'
+    location_type: postcode
+  name: LETCHER
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: KY
+wootax/14448:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '41858'
+    location_type: postcode
+  name: LETCHER
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: KY
+wootax/14449:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '41859'
+    location_type: postcode
+  name: KNOTT
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: KY
+wootax/14450:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '41861'
+    location_type: postcode
+  name: KNOTT
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: KY
+wootax/14451:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '41862'
+    location_type: postcode
+  name: KNOTT
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: KY
+wootax/14452:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '42001'
+    location_type: postcode
+  name: PADUCAH
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: KY
+wootax/14453:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '42002'
+    location_type: postcode
+  name: PADUCAH
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: KY
+wootax/14454:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '42003'
+    location_type: postcode
+  name: MCCRACKEN
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: KY
+wootax/14455:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '42020'
+    location_type: postcode
+  name: CALLOWAY
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: KY
+wootax/14456:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '42021'
+    location_type: postcode
+  name: CARLISLE
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: KY
+wootax/14457:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '42022'
+    location_type: postcode
+  name: BALLARD
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: KY
+wootax/14458:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '42023'
+    location_type: postcode
+  name: CARLISLE
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: KY
+wootax/14459:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '42024'
+    location_type: postcode
+  name: BALLARD
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: KY
+wootax/14460:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '42025'
+    location_type: postcode
+  name: MARSHALL
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: KY
+wootax/14461:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '42027'
+    location_type: postcode
+  name: GRAVES
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: KY
+wootax/14462:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '42028'
+    location_type: postcode
+  name: LIVINGSTON
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: KY
+wootax/14463:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '42029'
+    location_type: postcode
+  name: MARSHALL
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: KY
+wootax/14464:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '42031'
+    location_type: postcode
+  name: HICKMAN
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: KY
+wootax/14465:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '42032'
+    location_type: postcode
+  name: COLUMBUS
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: KY
+wootax/14466:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '42033'
+    location_type: postcode
+  name: CRITTENDEN
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: KY
+wootax/14467:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '42035'
+    location_type: postcode
+  name: CARLISLE
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: KY
+wootax/14468:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '42036'
+    location_type: postcode
+  name: CALLOWAY
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: KY
+wootax/14469:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '42037'
+    location_type: postcode
+  name: CRITTENDEN
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: KY
+wootax/14470:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '42038'
+    location_type: postcode
+  name: LYON
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: KY
+wootax/14471:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '42039'
+    location_type: postcode
+  name: GRAVES
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: KY
+wootax/14472:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '42040'
+    location_type: postcode
+  name: GRAVES
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: KY
+wootax/14473:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '42041'
+    location_type: postcode
+  name: FULTON
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: KY
+wootax/14474:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '42044'
+    location_type: postcode
+  name: MARSHALL
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: KY
+wootax/14475:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '42045'
+    location_type: postcode
+  name: LIVINGSTON
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: KY
+wootax/14476:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '42047'
+    location_type: postcode
+  name: LIVINGSTON
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: KY
+wootax/14477:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '42048'
+    location_type: postcode
+  name: MARSHALL
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: KY
+wootax/14478:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '42049'
+    location_type: postcode
+  name: CALLOWAY
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: KY
+wootax/14479:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '42050'
+    location_type: postcode
+  name: HICKMAN
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: KY
+wootax/14480:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '42051'
+    location_type: postcode
+  name: GRAVES
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: KY
+wootax/14481:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '42053'
+    location_type: postcode
+  name: BALLARD
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: KY
+wootax/14482:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '42054'
+    location_type: postcode
+  name: CALLOWAY
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: KY
+wootax/14483:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '42055'
+    location_type: postcode
+  name: LYON
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: KY
+wootax/14484:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '42056'
+    location_type: postcode
+  name: BALLARD
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: KY
+wootax/14485:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '42058'
+    location_type: postcode
+  name: LIVINGSTON
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: KY
+wootax/14486:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '42060'
+    location_type: postcode
+  name: BALLARD
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: KY
+wootax/14487:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '42061'
+    location_type: postcode
+  name: GRAVES
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: KY
+wootax/14488:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '42063'
+    location_type: postcode
+  name: GRAVES
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: KY
+wootax/14489:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '42064'
+    location_type: postcode
+  name: CRITTENDEN
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: KY
+wootax/14490:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '42066'
+    location_type: postcode
+  name: GRAVES
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: KY
+wootax/14491:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '42069'
+    location_type: postcode
+  name: GRAVES
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: KY
+wootax/14492:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '42070'
+    location_type: postcode
+  name: CARLISLE
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: KY
+wootax/14493:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '42071'
+    location_type: postcode
+  name: CALLOWAY
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: KY
+wootax/14494:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '42076'
+    location_type: postcode
+  name: CALLOWAY
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: KY
+wootax/14495:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '42078'
+    location_type: postcode
+  name: LIVINGSTON
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: KY
+wootax/14496:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '42079'
+    location_type: postcode
+  name: GRAVES
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: KY
+wootax/14497:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '42081'
+    location_type: postcode
+  name: LIVINGSTON
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: KY
+wootax/14498:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '42082'
+    location_type: postcode
+  name: CRITTENDEN
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: KY
+wootax/14499:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '42083'
+    location_type: postcode
+  name: LIVINGSTON
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: KY
+wootax/14500:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '42084'
+    location_type: postcode
+  name: CRITTENDEN
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: KY
+wootax/14501:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '42085'
+    location_type: postcode
+  name: GRAVES
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: KY
+wootax/14502:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '42086'
+    location_type: postcode
+  name: MCCRACKEN
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: KY
+wootax/14503:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '42087'
+    location_type: postcode
+  name: BALLARD
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: KY
+wootax/14504:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '42088'
+    location_type: postcode
+  name: GRAVES
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: KY
+wootax/14505:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '42101'
+    location_type: postcode
+  name: BOWLING GREEN
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: KY
+wootax/14506:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '42102'
+    location_type: postcode
+  name: BOWLING GREEN
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: KY
+wootax/14507:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '42103'
+    location_type: postcode
+  name: BOWLING GREEN
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: KY
+wootax/14508:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '42104'
+    location_type: postcode
+  name: BOWLING GREEN
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: KY
+wootax/14509:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '42120'
+    location_type: postcode
+  name: ALLEN
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: KY
+wootax/14510:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '42122'
+    location_type: postcode
+  name: WARREN
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: KY
+wootax/14511:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '42123'
+    location_type: postcode
+  name: BARREN
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: KY
+wootax/14512:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '42124'
+    location_type: postcode
+  name: METCALFE
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: KY
+wootax/14513:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '42127'
+    location_type: postcode
+  name: BARREN
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: KY
+wootax/14514:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '42129'
+    location_type: postcode
+  name: METCALFE
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: KY
+wootax/14515:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '42130'
+    location_type: postcode
+  name: BARREN
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: KY
+wootax/14516:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '42131'
+    location_type: postcode
+  name: BARREN
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: KY
+wootax/14517:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '42133'
+    location_type: postcode
+  name: MONROE
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: KY
+wootax/14518:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '42134'
+    location_type: postcode
+  name: SIMPSON
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: KY
+wootax/14519:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '42140'
+    location_type: postcode
+  name: MONROE
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: KY
+wootax/14520:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '42141'
+    location_type: postcode
+  name: BARREN
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: KY
+wootax/14521:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '42151'
+    location_type: postcode
+  name: MONROE
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: KY
+wootax/14522:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '42152'
+    location_type: postcode
+  name: BARREN
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: KY
+wootax/14523:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '42153'
+    location_type: postcode
+  name: ALLEN
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: KY
+wootax/14524:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '42154'
+    location_type: postcode
+  name: METCALFE
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: KY
+wootax/14525:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '42156'
+    location_type: postcode
+  name: BARREN
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: KY
+wootax/14526:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '42157'
+    location_type: postcode
+  name: MONROE
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: KY
+wootax/14527:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '42159'
+    location_type: postcode
+  name: WARREN
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: KY
+wootax/14528:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '42160'
+    location_type: postcode
+  name: BARREN
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: KY
+wootax/14529:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '42163'
+    location_type: postcode
+  name: EDMONSON
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: KY
+wootax/14530:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '42164'
+    location_type: postcode
+  name: ALLEN
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: KY
+wootax/14531:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '42166'
+    location_type: postcode
+  name: METCALFE
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: KY
+wootax/14532:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '42167'
+    location_type: postcode
+  name: MONROE
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: KY
+wootax/14533:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '42170'
+    location_type: postcode
+  name: WARREN
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: KY
+wootax/14534:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '42171'
+    location_type: postcode
+  name: EDMONSON
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: KY
+wootax/14535:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '42201'
+    location_type: postcode
+  name: BUTLER
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: KY
+wootax/14536:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '42202'
+    location_type: postcode
+  name: LOGAN
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: KY
+wootax/14537:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '42204'
+    location_type: postcode
+  name: TODD
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: KY
+wootax/14538:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '42206'
+    location_type: postcode
+  name: LOGAN
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: KY
+wootax/14539:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '42207'
+    location_type: postcode
+  name: EDMONSON
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: KY
+wootax/14540:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '42210'
+    location_type: postcode
+  name: EDMONSON
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: KY
+wootax/14541:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '42211'
+    location_type: postcode
+  name: TRIGG
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: KY
+wootax/14542:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '42214'
+    location_type: postcode
+  name: METCALFE
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: KY
+wootax/14543:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '42215'
+    location_type: postcode
+  name: TRIGG
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: KY
+wootax/14544:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '42216'
+    location_type: postcode
+  name: TODD
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: KY
+wootax/14545:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '42217'
+    location_type: postcode
+  name: CHRISTIAN
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: KY
+wootax/14546:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '42219'
+    location_type: postcode
+  name: BUTLER
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: KY
+wootax/14547:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '42220'
+    location_type: postcode
+  name: TODD
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: KY
+wootax/14548:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '42221'
+    location_type: postcode
+  name: TODD
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: KY
+wootax/14549:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '42223'
+    location_type: postcode
+  name: CHRISTIAN
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: KY
+wootax/14550:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '42232'
+    location_type: postcode
+  name: CHRISTIAN
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: KY
+wootax/14551:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '42234'
+    location_type: postcode
+  name: GUTHRIE
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: KY
+wootax/14552:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '42236'
+    location_type: postcode
+  name: CHRISTIAN
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: KY
+wootax/14553:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '42240'
+    location_type: postcode
+  name: HOPKINSVILLE
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: KY
+wootax/14554:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '42241'
+    location_type: postcode
+  name: HOPKINSVILLE
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: KY
+wootax/14555:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '42252'
+    location_type: postcode
+  name: BUTLER
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: KY
+wootax/14556:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '42254'
+    location_type: postcode
+  name: LAFAYETTE
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: KY
+wootax/14557:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '42256'
+    location_type: postcode
+  name: LOGAN
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: KY
+wootax/14558:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '42259'
+    location_type: postcode
+  name: EDMONSON
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: KY
+wootax/14559:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '42261'
+    location_type: postcode
+  name: BUTLER
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: KY
+wootax/14560:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '42262'
+    location_type: postcode
+  name: OAK GROVE
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: KY
+wootax/14561:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '42265'
+    location_type: postcode
+  name: LOGAN
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: KY
+wootax/14562:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '42266'
+    location_type: postcode
+  name: CHRISTIAN
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: KY
+wootax/14563:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '42273'
+    location_type: postcode
+  name: BUTLER
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: KY
+wootax/14564:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '42274'
+    location_type: postcode
+  name: WARREN
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: KY
+wootax/14565:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '42275'
+    location_type: postcode
+  name: BUTLER
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: KY
+wootax/14566:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '42276'
+    location_type: postcode
+  name: LOGAN
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: KY
+wootax/14567:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '42280'
+    location_type: postcode
+  name: TODD
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: KY
+wootax/14568:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '42285'
+    location_type: postcode
+  name: EDMONSON
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: KY
+wootax/14569:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '42286'
+    location_type: postcode
+  name: TODD
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: KY
+wootax/14570:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '42288'
+    location_type: postcode
+  name: WOODBURY
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: KY
+wootax/14571:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '42301'
+    location_type: postcode
+  name: OWENSBORO
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: KY
+wootax/14572:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '42302'
+    location_type: postcode
+  name: OWENSBORO
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: KY
+wootax/14573:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '42303'
+    location_type: postcode
+  name: OWENSBORO
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: KY
+wootax/14574:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '42304'
+    location_type: postcode
+  name: DAVIESS
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: KY
+wootax/14575:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '42320'
+    location_type: postcode
+  name: OHIO
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: KY
+wootax/14576:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '42321'
+    location_type: postcode
+  name: MUHLENBERG
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: KY
+wootax/14577:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '42322'
+    location_type: postcode
+  name: MCLEAN
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: KY
+wootax/14578:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '42323'
+    location_type: postcode
+  name: MUHLENBERG
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: KY
+wootax/14579:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '42324'
+    location_type: postcode
+  name: MUHLENBERG
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: KY
+wootax/14580:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '42325'
+    location_type: postcode
+  name: MUHLENBERG
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: KY
+wootax/14581:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '42326'
+    location_type: postcode
+  name: MUHLENBERG
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: KY
+wootax/14582:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '42327'
+    location_type: postcode
+  name: MCLEAN
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: KY
+wootax/14583:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '42328'
+    location_type: postcode
+  name: OHIO
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: KY
+wootax/14584:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '42330'
+    location_type: postcode
+  name: CENTRAL CITY
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: KY
+wootax/14585:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '42332'
+    location_type: postcode
+  name: MUHLENBERG
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: KY
+wootax/14586:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '42333'
+    location_type: postcode
+  name: OHIO
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: KY
+wootax/14587:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '42337'
+    location_type: postcode
+  name: MUHLENBERG
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: KY
+wootax/14588:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '42338'
+    location_type: postcode
+  name: OHIO
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: KY
+wootax/14589:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '42339'
+    location_type: postcode
+  name: MUHLENBERG
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: KY
+wootax/14590:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '42343'
+    location_type: postcode
+  name: OHIO
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: KY
+wootax/14591:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '42344'
+    location_type: postcode
+  name: MUHLENBERG
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: KY
+wootax/14592:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '42345'
+    location_type: postcode
+  name: MUHLENBERG
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: KY
+wootax/14593:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '42347'
+    location_type: postcode
+  name: OHIO
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: KY
+wootax/14594:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '42348'
+    location_type: postcode
+  name: HANCOCK
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: KY
+wootax/14595:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '42349'
+    location_type: postcode
+  name: OHIO
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: KY
+wootax/14596:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '42350'
+    location_type: postcode
+  name: ISLAND
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: KY
+wootax/14597:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '42351'
+    location_type: postcode
+  name: HANCOCK
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: KY
+wootax/14598:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '42352'
+    location_type: postcode
+  name: LIVERMORE
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: KY
+wootax/14599:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '42354'
+    location_type: postcode
+  name: MCHENRY
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: KY
+wootax/14600:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '42355'
+    location_type: postcode
+  name: DAVIESS
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: KY
+wootax/14601:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '42356'
+    location_type: postcode
+  name: DAVIESS
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: KY
+wootax/14602:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '42361'
+    location_type: postcode
+  name: OHIO
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: KY
+wootax/14603:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '42364'
+    location_type: postcode
+  name: HANCOCK
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: KY
+wootax/14604:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '42366'
+    location_type: postcode
+  name: DAVIESS
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: KY
+wootax/14605:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '42367'
+    location_type: postcode
+  name: POWDERLY
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: KY
+wootax/14606:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '42368'
+    location_type: postcode
+  name: HANCOCK
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: KY
+wootax/14607:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '42369'
+    location_type: postcode
+  name: ROCKPORT
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: KY
+wootax/14608:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '42370'
+    location_type: postcode
+  name: OHIO
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: KY
+wootax/14609:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '42371'
+    location_type: postcode
+  name: MCLEAN
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: KY
+wootax/14610:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '42372'
+    location_type: postcode
+  name: MCLEAN
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: KY
+wootax/14611:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '42374'
+    location_type: postcode
+  name: SOUTH CARROLLTON
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: KY
+wootax/14612:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '42376'
+    location_type: postcode
+  name: DAVIESS
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: KY
+wootax/14613:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '42378'
+    location_type: postcode
+  name: DAVIESS
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: KY
+wootax/14614:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '42402'
+    location_type: postcode
+  name: HENDERSON
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: KY
+wootax/14615:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '42404'
+    location_type: postcode
+  name: WEBSTER
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: KY
+wootax/14616:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '42406'
+    location_type: postcode
+  name: HENDERSON
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: KY
+wootax/14617:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '42408'
+    location_type: postcode
+  name: HOPKINS
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: KY
+wootax/14618:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '42409'
+    location_type: postcode
+  name: WEBSTER
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: KY
+wootax/14619:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '42410'
+    location_type: postcode
+  name: EARLINGTON
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: KY
+wootax/14620:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '42411'
+    location_type: postcode
+  name: CALDWELL
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: KY
+wootax/14621:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '42413'
+    location_type: postcode
+  name: HOPKINS
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: KY
+wootax/14622:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '42419'
+    location_type: postcode
+  name: HENDERSON
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: KY
+wootax/14623:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '42420'
+    location_type: postcode
+  name: HENDERSON
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: KY
+wootax/14624:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '42431'
+    location_type: postcode
+  name: MADISONVILLE
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: KY
+wootax/14625:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '42436'
+    location_type: postcode
+  name: HOPKINS
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: KY
+wootax/14626:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '42437'
+    location_type: postcode
+  name: UNION
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: KY
+wootax/14627:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '42440'
+    location_type: postcode
+  name: MORTONS GAP
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: KY
+wootax/14628:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '42441'
+    location_type: postcode
+  name: HOPKINS
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: KY
+wootax/14629:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '42442'
+    location_type: postcode
+  name: HOPKINS
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: KY
+wootax/14630:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '42444'
+    location_type: postcode
+  name: WEBSTER
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: KY
+wootax/14631:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '42445'
+    location_type: postcode
+  name: PRINCETON
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: KY
+wootax/14632:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '42450'
+    location_type: postcode
+  name: PROVIDENCE
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: KY
+wootax/14633:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '42451'
+    location_type: postcode
+  name: HENDERSON
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: KY
+wootax/14634:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '42452'
+    location_type: postcode
+  name: HENDERSON
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: KY
+wootax/14635:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '42453'
+    location_type: postcode
+  name: HOPKINS
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: KY
+wootax/14636:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '42455'
+    location_type: postcode
+  name: WEBSTER
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: KY
+wootax/14637:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '42456'
+    location_type: postcode
+  name: WEBSTER
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: KY
+wootax/14638:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '42457'
+    location_type: postcode
+  name: HENDERSON
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: KY
+wootax/14639:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '42458'
+    location_type: postcode
+  name: HENDERSON
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: KY
+wootax/14640:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '42459'
+    location_type: postcode
+  name: UNION
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: KY
+wootax/14641:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '42460'
+    location_type: postcode
+  name: UNION
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: KY
+wootax/14642:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '42461'
+    location_type: postcode
+  name: UNION
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: KY
+wootax/14643:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '42462'
+    location_type: postcode
+  name: UNION
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: KY
+wootax/14644:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '42463'
+    location_type: postcode
+  name: WHEATCROFT
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: KY
+wootax/14645:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '42464'
+    location_type: postcode
+  name: HOPKINS
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: KY
+wootax/14646:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '42501'
+    location_type: postcode
+  name: PULASKI
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: KY
+wootax/14647:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '42502'
+    location_type: postcode
+  name: SOMERSET
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: KY
+wootax/14648:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '42503'
+    location_type: postcode
+  name: PULASKI
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: KY
+wootax/14649:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '42516'
+    location_type: postcode
+  name: CASEY
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: KY
+wootax/14650:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '42518'
+    location_type: postcode
+  name: PULASKI
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: KY
+wootax/14651:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '42519'
+    location_type: postcode
+  name: PULASKI
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: KY
+wootax/14652:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '42528'
+    location_type: postcode
+  name: CASEY
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: KY
+wootax/14653:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '42533'
+    location_type: postcode
+  name: FERGUSON
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: KY
+wootax/14654:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '42539'
+    location_type: postcode
+  name: CASEY
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: KY
+wootax/14655:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '42541'
+    location_type: postcode
+  name: CASEY
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: KY
+wootax/14656:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '42544'
+    location_type: postcode
+  name: PULASKI
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: KY
+wootax/14657:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '42553'
+    location_type: postcode
+  name: PULASKI
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: KY
+wootax/14658:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '42558'
+    location_type: postcode
+  name: BURNSIDE
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: KY
+wootax/14659:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '42564'
+    location_type: postcode
+  name: SOMERSET
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: KY
+wootax/14660:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '42565'
+    location_type: postcode
+  name: CASEY
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: KY
+wootax/14661:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '42566'
+    location_type: postcode
+  name: CASEY
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: KY
+wootax/14662:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '42567'
+    location_type: postcode
+  name: PULASKI
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: KY
+wootax/14663:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '42602'
+    location_type: postcode
+  name: CLINTON
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: KY
+wootax/14664:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '42603'
+    location_type: postcode
+  name: CLINTON
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: KY
+wootax/14665:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '42629'
+    location_type: postcode
+  name: RUSSELL
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: KY
+wootax/14666:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '42631'
+    location_type: postcode
+  name: MCCREARY
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: KY
+wootax/14667:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '42633'
+    location_type: postcode
+  name: WAYNE
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: KY
+wootax/14668:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '42634'
+    location_type: postcode
+  name: MCCREARY
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: KY
+wootax/14669:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '42635'
+    location_type: postcode
+  name: MCCREARY
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: KY
+wootax/14670:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '42638'
+    location_type: postcode
+  name: MCCREARY
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: KY
+wootax/14671:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '42642'
+    location_type: postcode
+  name: RUSSELL
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: KY
+wootax/14672:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '42647'
+    location_type: postcode
+  name: MCCREARY
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: KY
+wootax/14673:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '42649'
+    location_type: postcode
+  name: MCCREARY
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: KY
+wootax/14674:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '42653'
+    location_type: postcode
+  name: MCCREARY
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: KY
+wootax/14675:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '42701'
+    location_type: postcode
+  name: ELIZABETHTOWN
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: KY
+wootax/14676:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '42702'
+    location_type: postcode
+  name: ELIZABETHTOWN
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: KY
+wootax/14677:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '42712'
+    location_type: postcode
+  name: GRAYSON
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: KY
+wootax/14678:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '42713'
+    location_type: postcode
+  name: HART
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: KY
+wootax/14679:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '42715'
+    location_type: postcode
+  name: ADAIR
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: KY
+wootax/14680:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '42716'
+    location_type: postcode
+  name: KENTUCKY STATE
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: KY
+wootax/14681:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '42717'
+    location_type: postcode
+  name: CUMBERLAND
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: KY
+wootax/14682:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '42718'
+    location_type: postcode
+  name: TAYLOR
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: KY
+wootax/14683:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '42720'
+    location_type: postcode
+  name: ADAIR
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: KY
+wootax/14684:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '42721'
+    location_type: postcode
+  name: GRAYSON
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: KY
+wootax/14685:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '42722'
+    location_type: postcode
+  name: HART
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: KY
+wootax/14686:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '42724'
+    location_type: postcode
+  name: HARDIN
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: KY
+wootax/14687:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '42726'
+    location_type: postcode
+  name: GRAYSON
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: KY
+wootax/14688:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '42728'
+    location_type: postcode
+  name: ADAIR
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: KY
+wootax/14689:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '42729'
+    location_type: postcode
+  name: HART
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: KY
+wootax/14690:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '42731'
+    location_type: postcode
+  name: METCALFE
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: KY
+wootax/14691:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '42732'
+    location_type: postcode
+  name: HARDIN
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: KY
+wootax/14692:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '42733'
+    location_type: postcode
+  name: TAYLOR
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: KY
+wootax/14693:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '42740'
+    location_type: postcode
+  name: HARDIN
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: KY
+wootax/14694:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '42741'
+    location_type: postcode
+  name: ADAIR
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: KY
+wootax/14695:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '42742'
+    location_type: postcode
+  name: ADAIR
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: KY
+wootax/14696:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '42743'
+    location_type: postcode
+  name: GREEN
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: KY
+wootax/14697:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '42746'
+    location_type: postcode
+  name: HART
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: KY
+wootax/14698:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '42748'
+    location_type: postcode
+  name: KENTUCKY STATE
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: KY
+wootax/14699:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '42749'
+    location_type: postcode
+  name: HORSE CAVE
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: KY
+wootax/14700:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '42753'
+    location_type: postcode
+  name: ADAIR
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: KY
+wootax/14701:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '42754'
+    location_type: postcode
+  name: GRAYSON
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: KY
+wootax/14702:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '42757'
+    location_type: postcode
+  name: HART
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: KY
+wootax/14703:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '42758'
+    location_type: postcode
+  name: TAYLOR
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: KY
+wootax/14704:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '42759'
+    location_type: postcode
+  name: CUMBERLAND
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: KY
+wootax/14705:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '42762'
+    location_type: postcode
+  name: GRAYSON
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: KY
+wootax/14706:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '42764'
+    location_type: postcode
+  name: GREEN
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: KY
+wootax/14707:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '42765'
+    location_type: postcode
+  name: HART
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: KY
+wootax/14708:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '42776'
+    location_type: postcode
+  name: HARDIN
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: KY
+wootax/14709:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '42782'
+    location_type: postcode
+  name: GREEN
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: KY
+wootax/14710:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '42784'
+    location_type: postcode
+  name: HART
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: KY
+wootax/14711:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '42788'
+    location_type: postcode
+  name: HARDIN
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: KY

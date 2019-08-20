@@ -1,0 +1,7904 @@
+wootax/22566:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '68001'
+    location_type: postcode
+  name: ABIE
+  order: '0'
+  priority: '0'
+  rate: '5.5'
+  shipping: '1'
+  state: NE
+wootax/22567:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '68002'
+    location_type: postcode
+  name: WASHINGTON
+  order: '0'
+  priority: '0'
+  rate: '5.5'
+  shipping: '1'
+  state: NE
+wootax/22568:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '68003'
+    location_type: postcode
+  name: ASHLAND
+  order: '0'
+  priority: '0'
+  rate: '7'
+  shipping: '1'
+  state: NE
+wootax/22569:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '68004'
+    location_type: postcode
+  name: BANCROFT
+  order: '0'
+  priority: '0'
+  rate: '7'
+  shipping: '1'
+  state: NE
+wootax/22570:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '68005'
+    location_type: postcode
+  name: BELLEVUE
+  order: '0'
+  priority: '0'
+  rate: '7'
+  shipping: '1'
+  state: NE
+wootax/22571:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '68007'
+    location_type: postcode
+  name: DOUGLAS
+  order: '0'
+  priority: '0'
+  rate: '5.5'
+  shipping: '1'
+  state: NE
+wootax/22572:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '68008'
+    location_type: postcode
+  name: BLAIR
+  order: '0'
+  priority: '0'
+  rate: '7'
+  shipping: '1'
+  state: NE
+wootax/22573:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '68010'
+    location_type: postcode
+  name: BOYS TOWN
+  order: '0'
+  priority: '0'
+  rate: '5.5'
+  shipping: '1'
+  state: NE
+wootax/22574:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '68014'
+    location_type: postcode
+  name: BUTLER
+  order: '0'
+  priority: '0'
+  rate: '5.5'
+  shipping: '1'
+  state: NE
+wootax/22575:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '68015'
+    location_type: postcode
+  name: SAUNDERS
+  order: '0'
+  priority: '0'
+  rate: '5.5'
+  shipping: '1'
+  state: NE
+wootax/22576:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '68016'
+    location_type: postcode
+  name: CEDAR CREEK
+  order: '0'
+  priority: '0'
+  rate: '5.5'
+  shipping: '1'
+  state: NE
+wootax/22577:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '68017'
+    location_type: postcode
+  name: CERESCO
+  order: '0'
+  priority: '0'
+  rate: '7'
+  shipping: '1'
+  state: NE
+wootax/22578:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '68018'
+    location_type: postcode
+  name: SAUNDERS
+  order: '0'
+  priority: '0'
+  rate: '5.5'
+  shipping: '1'
+  state: NE
+wootax/22579:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '68019'
+    location_type: postcode
+  name: BURT
+  order: '0'
+  priority: '0'
+  rate: '5.5'
+  shipping: '1'
+  state: NE
+wootax/22580:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '68020'
+    location_type: postcode
+  name: DECATUR
+  order: '0'
+  priority: '0'
+  rate: '6.5'
+  shipping: '1'
+  state: NE
+wootax/22581:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '68022'
+    location_type: postcode
+  name: DOUGLAS
+  order: '0'
+  priority: '0'
+  rate: '5.5'
+  shipping: '1'
+  state: NE
+wootax/22582:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '68023'
+    location_type: postcode
+  name: WASHINGTON
+  order: '0'
+  priority: '0'
+  rate: '5.5'
+  shipping: '1'
+  state: NE
+wootax/22583:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '68025'
+    location_type: postcode
+  name: FREMONT
+  order: '0'
+  priority: '0'
+  rate: '7'
+  shipping: '1'
+  state: NE
+wootax/22584:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '68026'
+    location_type: postcode
+  name: FREMONT
+  order: '0'
+  priority: '0'
+  rate: '7'
+  shipping: '1'
+  state: NE
+wootax/22585:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '68028'
+    location_type: postcode
+  name: SARPY
+  order: '0'
+  priority: '0'
+  rate: '5.5'
+  shipping: '1'
+  state: NE
+wootax/22586:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '68029'
+    location_type: postcode
+  name: WASHINGTON
+  order: '0'
+  priority: '0'
+  rate: '5.5'
+  shipping: '1'
+  state: NE
+wootax/22587:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '68030'
+    location_type: postcode
+  name: DAKOTA COUNTY
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: NE
+wootax/22588:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '68031'
+    location_type: postcode
+  name: DODGE
+  order: '0'
+  priority: '0'
+  rate: '5.5'
+  shipping: '1'
+  state: NE
+wootax/22589:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '68033'
+    location_type: postcode
+  name: SAUNDERS
+  order: '0'
+  priority: '0'
+  rate: '5.5'
+  shipping: '1'
+  state: NE
+wootax/22590:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '68034'
+    location_type: postcode
+  name: WASHINGTON
+  order: '0'
+  priority: '0'
+  rate: '5.5'
+  shipping: '1'
+  state: NE
+wootax/22591:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '68036'
+    location_type: postcode
+  name: BUTLER
+  order: '0'
+  priority: '0'
+  rate: '5.5'
+  shipping: '1'
+  state: NE
+wootax/22592:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '68037'
+    location_type: postcode
+  name: CASS
+  order: '0'
+  priority: '0'
+  rate: '5.5'
+  shipping: '1'
+  state: NE
+wootax/22593:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '68038'
+    location_type: postcode
+  name: LYONS
+  order: '0'
+  priority: '0'
+  rate: '7'
+  shipping: '1'
+  state: NE
+wootax/22594:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '68039'
+    location_type: postcode
+  name: THURSTON
+  order: '0'
+  priority: '0'
+  rate: '5.5'
+  shipping: '1'
+  state: NE
+wootax/22595:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '68040'
+    location_type: postcode
+  name: SAUNDERS
+  order: '0'
+  priority: '0'
+  rate: '5.5'
+  shipping: '1'
+  state: NE
+wootax/22596:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '68041'
+    location_type: postcode
+  name: SAUNDERS
+  order: '0'
+  priority: '0'
+  rate: '5.5'
+  shipping: '1'
+  state: NE
+wootax/22597:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '68042'
+    location_type: postcode
+  name: MEMPHIS
+  order: '0'
+  priority: '0'
+  rate: '5.5'
+  shipping: '1'
+  state: NE
+wootax/22598:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '68044'
+    location_type: postcode
+  name: WASHINGTON
+  order: '0'
+  priority: '0'
+  rate: '5.5'
+  shipping: '1'
+  state: NE
+wootax/22599:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '68045'
+    location_type: postcode
+  name: OAKLAND
+  order: '0'
+  priority: '0'
+  rate: '7'
+  shipping: '1'
+  state: NE
+wootax/22600:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '68046'
+    location_type: postcode
+  name: PAPILLION
+  order: '0'
+  priority: '0'
+  rate: '7.5'
+  shipping: '1'
+  state: NE
+wootax/22601:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '68047'
+    location_type: postcode
+  name: PENDER
+  order: '0'
+  priority: '0'
+  rate: '7'
+  shipping: '1'
+  state: NE
+wootax/22602:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '68048'
+    location_type: postcode
+  name: CASS
+  order: '0'
+  priority: '0'
+  rate: '5.5'
+  shipping: '1'
+  state: NE
+wootax/22603:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '68050'
+    location_type: postcode
+  name: SAUNDERS
+  order: '0'
+  priority: '0'
+  rate: '5.5'
+  shipping: '1'
+  state: NE
+wootax/22604:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '68055'
+    location_type: postcode
+  name: ROSALIE
+  order: '0'
+  priority: '0'
+  rate: '5.5'
+  shipping: '1'
+  state: NE
+wootax/22605:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '68056'
+    location_type: postcode
+  name: SARPY
+  order: '0'
+  priority: '0'
+  rate: '5.5'
+  shipping: '1'
+  state: NE
+wootax/22606:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '68057'
+    location_type: postcode
+  name: DODGE
+  order: '0'
+  priority: '0'
+  rate: '5.5'
+  shipping: '1'
+  state: NE
+wootax/22607:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '68058'
+    location_type: postcode
+  name: CASS
+  order: '0'
+  priority: '0'
+  rate: '5.5'
+  shipping: '1'
+  state: NE
+wootax/22608:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '68059'
+    location_type: postcode
+  name: SARPY
+  order: '0'
+  priority: '0'
+  rate: '5.5'
+  shipping: '1'
+  state: NE
+wootax/22609:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '68061'
+    location_type: postcode
+  name: TEKAMAH
+  order: '0'
+  priority: '0'
+  rate: '7.5'
+  shipping: '1'
+  state: NE
+wootax/22610:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '68062'
+    location_type: postcode
+  name: THURSTON
+  order: '0'
+  priority: '0'
+  rate: '5.5'
+  shipping: '1'
+  state: NE
+wootax/22611:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '68063'
+    location_type: postcode
+  name: UEHLING
+  order: '0'
+  priority: '0'
+  rate: '6.5'
+  shipping: '1'
+  state: NE
+wootax/22612:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '68064'
+    location_type: postcode
+  name: DOUGLAS
+  order: '0'
+  priority: '0'
+  rate: '5.5'
+  shipping: '1'
+  state: NE
+wootax/22613:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '68065'
+    location_type: postcode
+  name: VALPARAISO
+  order: '0'
+  priority: '0'
+  rate: '5.5'
+  shipping: '1'
+  state: NE
+wootax/22614:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '68066'
+    location_type: postcode
+  name: WAHOO
+  order: '0'
+  priority: '0'
+  rate: '7.5'
+  shipping: '1'
+  state: NE
+wootax/22615:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '68067'
+    location_type: postcode
+  name: THURSTON
+  order: '0'
+  priority: '0'
+  rate: '5.5'
+  shipping: '1'
+  state: NE
+wootax/22616:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '68068'
+    location_type: postcode
+  name: WASHINGTON
+  order: '0'
+  priority: '0'
+  rate: '5.5'
+  shipping: '1'
+  state: NE
+wootax/22617:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '68069'
+    location_type: postcode
+  name: DOUGLAS
+  order: '0'
+  priority: '0'
+  rate: '5.5'
+  shipping: '1'
+  state: NE
+wootax/22618:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '68070'
+    location_type: postcode
+  name: SAUNDERS
+  order: '0'
+  priority: '0'
+  rate: '5.5'
+  shipping: '1'
+  state: NE
+wootax/22619:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '68071'
+    location_type: postcode
+  name: THURSTON
+  order: '0'
+  priority: '0'
+  rate: '5.5'
+  shipping: '1'
+  state: NE
+wootax/22620:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '68072'
+    location_type: postcode
+  name: WINSLOW
+  order: '0'
+  priority: '0'
+  rate: '5.5'
+  shipping: '1'
+  state: NE
+wootax/22621:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '68073'
+    location_type: postcode
+  name: YUTAN
+  order: '0'
+  priority: '0'
+  rate: '5.5'
+  shipping: '1'
+  state: NE
+wootax/22622:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '68102'
+    location_type: postcode
+  name: OMAHA
+  order: '0'
+  priority: '0'
+  rate: '7'
+  shipping: '1'
+  state: NE
+wootax/22623:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '68103'
+    location_type: postcode
+  name: OMAHA
+  order: '0'
+  priority: '0'
+  rate: '7'
+  shipping: '1'
+  state: NE
+wootax/22624:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '68104'
+    location_type: postcode
+  name: OMAHA
+  order: '0'
+  priority: '0'
+  rate: '7'
+  shipping: '1'
+  state: NE
+wootax/22625:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '68105'
+    location_type: postcode
+  name: OMAHA
+  order: '0'
+  priority: '0'
+  rate: '7'
+  shipping: '1'
+  state: NE
+wootax/22626:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '68106'
+    location_type: postcode
+  name: OMAHA
+  order: '0'
+  priority: '0'
+  rate: '7'
+  shipping: '1'
+  state: NE
+wootax/22627:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '68107'
+    location_type: postcode
+  name: OMAHA
+  order: '0'
+  priority: '0'
+  rate: '7'
+  shipping: '1'
+  state: NE
+wootax/22628:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '68108'
+    location_type: postcode
+  name: OMAHA
+  order: '0'
+  priority: '0'
+  rate: '7'
+  shipping: '1'
+  state: NE
+wootax/22629:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '68109'
+    location_type: postcode
+  name: OMAHA
+  order: '0'
+  priority: '0'
+  rate: '7'
+  shipping: '1'
+  state: NE
+wootax/22630:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '68110'
+    location_type: postcode
+  name: OMAHA
+  order: '0'
+  priority: '0'
+  rate: '7'
+  shipping: '1'
+  state: NE
+wootax/22631:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '68111'
+    location_type: postcode
+  name: OMAHA
+  order: '0'
+  priority: '0'
+  rate: '7'
+  shipping: '1'
+  state: NE
+wootax/22632:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '68112'
+    location_type: postcode
+  name: OMAHA
+  order: '0'
+  priority: '0'
+  rate: '7'
+  shipping: '1'
+  state: NE
+wootax/22633:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '68113'
+    location_type: postcode
+  name: SARPY
+  order: '0'
+  priority: '0'
+  rate: '5.5'
+  shipping: '1'
+  state: NE
+wootax/22634:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '68114'
+    location_type: postcode
+  name: OMAHA
+  order: '0'
+  priority: '0'
+  rate: '7'
+  shipping: '1'
+  state: NE
+wootax/22635:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '68116'
+    location_type: postcode
+  name: OMAHA
+  order: '0'
+  priority: '0'
+  rate: '7'
+  shipping: '1'
+  state: NE
+wootax/22636:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '68117'
+    location_type: postcode
+  name: OMAHA
+  order: '0'
+  priority: '0'
+  rate: '7'
+  shipping: '1'
+  state: NE
+wootax/22637:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '68118'
+    location_type: postcode
+  name: OMAHA
+  order: '0'
+  priority: '0'
+  rate: '7'
+  shipping: '1'
+  state: NE
+wootax/22638:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '68122'
+    location_type: postcode
+  name: DOUGLAS
+  order: '0'
+  priority: '0'
+  rate: '5.5'
+  shipping: '1'
+  state: NE
+wootax/22639:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '68123'
+    location_type: postcode
+  name: SARPY
+  order: '0'
+  priority: '0'
+  rate: '5.5'
+  shipping: '1'
+  state: NE
+wootax/22640:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '68124'
+    location_type: postcode
+  name: OMAHA
+  order: '0'
+  priority: '0'
+  rate: '7'
+  shipping: '1'
+  state: NE
+wootax/22641:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '68127'
+    location_type: postcode
+  name: OMAHA
+  order: '0'
+  priority: '0'
+  rate: '7'
+  shipping: '1'
+  state: NE
+wootax/22642:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '68128'
+    location_type: postcode
+  name: LA VISTA
+  order: '0'
+  priority: '0'
+  rate: '7.5'
+  shipping: '1'
+  state: NE
+wootax/22643:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '68130'
+    location_type: postcode
+  name: OMAHA
+  order: '0'
+  priority: '0'
+  rate: '7'
+  shipping: '1'
+  state: NE
+wootax/22644:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '68131'
+    location_type: postcode
+  name: OMAHA
+  order: '0'
+  priority: '0'
+  rate: '7'
+  shipping: '1'
+  state: NE
+wootax/22645:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '68132'
+    location_type: postcode
+  name: OMAHA
+  order: '0'
+  priority: '0'
+  rate: '7'
+  shipping: '1'
+  state: NE
+wootax/22646:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '68133'
+    location_type: postcode
+  name: SARPY
+  order: '0'
+  priority: '0'
+  rate: '5.5'
+  shipping: '1'
+  state: NE
+wootax/22647:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '68134'
+    location_type: postcode
+  name: OMAHA
+  order: '0'
+  priority: '0'
+  rate: '7'
+  shipping: '1'
+  state: NE
+wootax/22648:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '68135'
+    location_type: postcode
+  name: OMAHA
+  order: '0'
+  priority: '0'
+  rate: '7'
+  shipping: '1'
+  state: NE
+wootax/22649:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '68136'
+    location_type: postcode
+  name: SARPY
+  order: '0'
+  priority: '0'
+  rate: '5.5'
+  shipping: '1'
+  state: NE
+wootax/22650:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '68137'
+    location_type: postcode
+  name: OMAHA
+  order: '0'
+  priority: '0'
+  rate: '7'
+  shipping: '1'
+  state: NE
+wootax/22651:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '68138'
+    location_type: postcode
+  name: SARPY
+  order: '0'
+  priority: '0'
+  rate: '5.5'
+  shipping: '1'
+  state: NE
+wootax/22652:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '68139'
+    location_type: postcode
+  name: OMAHA
+  order: '0'
+  priority: '0'
+  rate: '7'
+  shipping: '1'
+  state: NE
+wootax/22653:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '68142'
+    location_type: postcode
+  name: DOUGLAS
+  order: '0'
+  priority: '0'
+  rate: '5.5'
+  shipping: '1'
+  state: NE
+wootax/22654:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '68144'
+    location_type: postcode
+  name: OMAHA
+  order: '0'
+  priority: '0'
+  rate: '7'
+  shipping: '1'
+  state: NE
+wootax/22655:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '68145'
+    location_type: postcode
+  name: OMAHA
+  order: '0'
+  priority: '0'
+  rate: '7'
+  shipping: '1'
+  state: NE
+wootax/22656:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '68147'
+    location_type: postcode
+  name: BELLEVUE
+  order: '0'
+  priority: '0'
+  rate: '7'
+  shipping: '1'
+  state: NE
+wootax/22657:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '68152'
+    location_type: postcode
+  name: OMAHA
+  order: '0'
+  priority: '0'
+  rate: '7'
+  shipping: '1'
+  state: NE
+wootax/22658:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '68154'
+    location_type: postcode
+  name: OMAHA
+  order: '0'
+  priority: '0'
+  rate: '7'
+  shipping: '1'
+  state: NE
+wootax/22659:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '68157'
+    location_type: postcode
+  name: BELLEVUE
+  order: '0'
+  priority: '0'
+  rate: '7'
+  shipping: '1'
+  state: NE
+wootax/22660:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '68164'
+    location_type: postcode
+  name: OMAHA
+  order: '0'
+  priority: '0'
+  rate: '7'
+  shipping: '1'
+  state: NE
+wootax/22661:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '68175'
+    location_type: postcode
+  name: OMAHA
+  order: '0'
+  priority: '0'
+  rate: '7'
+  shipping: '1'
+  state: NE
+wootax/22662:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '68178'
+    location_type: postcode
+  name: OMAHA
+  order: '0'
+  priority: '0'
+  rate: '7'
+  shipping: '1'
+  state: NE
+wootax/22663:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '68179'
+    location_type: postcode
+  name: OMAHA
+  order: '0'
+  priority: '0'
+  rate: '7'
+  shipping: '1'
+  state: NE
+wootax/22664:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '68180'
+    location_type: postcode
+  name: OMAHA
+  order: '0'
+  priority: '0'
+  rate: '7'
+  shipping: '1'
+  state: NE
+wootax/22665:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '68182'
+    location_type: postcode
+  name: OMAHA
+  order: '0'
+  priority: '0'
+  rate: '7'
+  shipping: '1'
+  state: NE
+wootax/22666:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '68183'
+    location_type: postcode
+  name: OMAHA
+  order: '0'
+  priority: '0'
+  rate: '7'
+  shipping: '1'
+  state: NE
+wootax/22667:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '68197'
+    location_type: postcode
+  name: OMAHA
+  order: '0'
+  priority: '0'
+  rate: '7'
+  shipping: '1'
+  state: NE
+wootax/22668:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '68198'
+    location_type: postcode
+  name: OMAHA
+  order: '0'
+  priority: '0'
+  rate: '7'
+  shipping: '1'
+  state: NE
+wootax/22669:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '68301'
+    location_type: postcode
+  name: GAGE
+  order: '0'
+  priority: '0'
+  rate: '5.5'
+  shipping: '1'
+  state: NE
+wootax/22670:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '68303'
+    location_type: postcode
+  name: ALEXANDRIA
+  order: '0'
+  priority: '0'
+  rate: '5.5'
+  shipping: '1'
+  state: NE
+wootax/22671:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '68304'
+    location_type: postcode
+  name: CASS
+  order: '0'
+  priority: '0'
+  rate: '5.5'
+  shipping: '1'
+  state: NE
+wootax/22672:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '68305'
+    location_type: postcode
+  name: AUBURN
+  order: '0'
+  priority: '0'
+  rate: '6.5'
+  shipping: '1'
+  state: NE
+wootax/22673:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '68307'
+    location_type: postcode
+  name: CASS
+  order: '0'
+  priority: '0'
+  rate: '5.5'
+  shipping: '1'
+  state: NE
+wootax/22674:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '68309'
+    location_type: postcode
+  name: BARNESTON
+  order: '0'
+  priority: '0'
+  rate: '5.5'
+  shipping: '1'
+  state: NE
+wootax/22675:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '68310'
+    location_type: postcode
+  name: BEATRICE
+  order: '0'
+  priority: '0'
+  rate: '7.5'
+  shipping: '1'
+  state: NE
+wootax/22676:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '68313'
+    location_type: postcode
+  name: SEWARD
+  order: '0'
+  priority: '0'
+  rate: '5.5'
+  shipping: '1'
+  state: NE
+wootax/22677:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '68314'
+    location_type: postcode
+  name: BEE
+  order: '0'
+  priority: '0'
+  rate: '5.5'
+  shipping: '1'
+  state: NE
+wootax/22678:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '68315'
+    location_type: postcode
+  name: BELVIDERE
+  order: '0'
+  priority: '0'
+  rate: '5.5'
+  shipping: '1'
+  state: NE
+wootax/22679:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '68316'
+    location_type: postcode
+  name: YORK
+  order: '0'
+  priority: '0'
+  rate: '5.5'
+  shipping: '1'
+  state: NE
+wootax/22680:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '68317'
+    location_type: postcode
+  name: LANCASTER
+  order: '0'
+  priority: '0'
+  rate: '5.5'
+  shipping: '1'
+  state: NE
+wootax/22681:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '68318'
+    location_type: postcode
+  name: BLUE SPRINGS
+  order: '0'
+  priority: '0'
+  rate: '5.5'
+  shipping: '1'
+  state: NE
+wootax/22682:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '68319'
+    location_type: postcode
+  name: YORK
+  order: '0'
+  priority: '0'
+  rate: '5.5'
+  shipping: '1'
+  state: NE
+wootax/22683:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '68320'
+    location_type: postcode
+  name: NEMAHA
+  order: '0'
+  priority: '0'
+  rate: '5.5'
+  shipping: '1'
+  state: NE
+wootax/22684:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '68321'
+    location_type: postcode
+  name: BROWNVILLE
+  order: '0'
+  priority: '0'
+  rate: '6.5'
+  shipping: '1'
+  state: NE
+wootax/22685:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '68322'
+    location_type: postcode
+  name: THAYER
+  order: '0'
+  priority: '0'
+  rate: '5.5'
+  shipping: '1'
+  state: NE
+wootax/22686:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '68323'
+    location_type: postcode
+  name: PAWNEE
+  order: '0'
+  priority: '0'
+  rate: '5.5'
+  shipping: '1'
+  state: NE
+wootax/22687:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '68324'
+    location_type: postcode
+  name: BURR
+  order: '0'
+  priority: '0'
+  rate: '5.5'
+  shipping: '1'
+  state: NE
+wootax/22688:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '68325'
+    location_type: postcode
+  name: THAYER
+  order: '0'
+  priority: '0'
+  rate: '5.5'
+  shipping: '1'
+  state: NE
+wootax/22689:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '68326'
+    location_type: postcode
+  name: THAYER
+  order: '0'
+  priority: '0'
+  rate: '5.5'
+  shipping: '1'
+  state: NE
+wootax/22690:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '68327'
+    location_type: postcode
+  name: CHESTER
+  order: '0'
+  priority: '0'
+  rate: '6.5'
+  shipping: '1'
+  state: NE
+wootax/22691:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '68328'
+    location_type: postcode
+  name: GAGE
+  order: '0'
+  priority: '0'
+  rate: '5.5'
+  shipping: '1'
+  state: NE
+wootax/22692:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '68329'
+    location_type: postcode
+  name: JOHNSON
+  order: '0'
+  priority: '0'
+  rate: '5.5'
+  shipping: '1'
+  state: NE
+wootax/22693:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '68330'
+    location_type: postcode
+  name: CORDOVA
+  order: '0'
+  priority: '0'
+  rate: '6.5'
+  shipping: '1'
+  state: NE
+wootax/22694:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '68331'
+    location_type: postcode
+  name: GAGE
+  order: '0'
+  priority: '0'
+  rate: '5.5'
+  shipping: '1'
+  state: NE
+wootax/22695:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '68332'
+    location_type: postcode
+  name: JOHNSON
+  order: '0'
+  priority: '0'
+  rate: '5.5'
+  shipping: '1'
+  state: NE
+wootax/22696:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '68333'
+    location_type: postcode
+  name: CRETE
+  order: '0'
+  priority: '0'
+  rate: '7.5'
+  shipping: '1'
+  state: NE
+wootax/22697:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '68335'
+    location_type: postcode
+  name: DAVENPORT
+  order: '0'
+  priority: '0'
+  rate: '5.5'
+  shipping: '1'
+  state: NE
+wootax/22698:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '68336'
+    location_type: postcode
+  name: LANCASTER
+  order: '0'
+  priority: '0'
+  rate: '5.5'
+  shipping: '1'
+  state: NE
+wootax/22699:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '68337'
+    location_type: postcode
+  name: RICHARDSON
+  order: '0'
+  priority: '0'
+  rate: '5.5'
+  shipping: '1'
+  state: NE
+wootax/22700:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '68338'
+    location_type: postcode
+  name: JEFFERSON
+  order: '0'
+  priority: '0'
+  rate: '5.5'
+  shipping: '1'
+  state: NE
+wootax/22701:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '68339'
+    location_type: postcode
+  name: LANCASTER
+  order: '0'
+  priority: '0'
+  rate: '5.5'
+  shipping: '1'
+  state: NE
+wootax/22702:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '68340'
+    location_type: postcode
+  name: DESHLER
+  order: '0'
+  priority: '0'
+  rate: '5.5'
+  shipping: '1'
+  state: NE
+wootax/22703:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '68341'
+    location_type: postcode
+  name: DE WITT
+  order: '0'
+  priority: '0'
+  rate: '6.5'
+  shipping: '1'
+  state: NE
+wootax/22704:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '68342'
+    location_type: postcode
+  name: JEFFERSON
+  order: '0'
+  priority: '0'
+  rate: '5.5'
+  shipping: '1'
+  state: NE
+wootax/22705:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '68343'
+    location_type: postcode
+  name: SALINE
+  order: '0'
+  priority: '0'
+  rate: '5.5'
+  shipping: '1'
+  state: NE
+wootax/22706:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '68344'
+    location_type: postcode
+  name: DOUGLAS
+  order: '0'
+  priority: '0'
+  rate: '7'
+  shipping: '1'
+  state: NE
+wootax/22707:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '68345'
+    location_type: postcode
+  name: DU BOIS
+  order: '0'
+  priority: '0'
+  rate: '5.5'
+  shipping: '1'
+  state: NE
+wootax/22708:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '68346'
+    location_type: postcode
+  name: OTOE
+  order: '0'
+  priority: '0'
+  rate: '5.5'
+  shipping: '1'
+  state: NE
+wootax/22709:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '68347'
+    location_type: postcode
+  name: CASS
+  order: '0'
+  priority: '0'
+  rate: '5.5'
+  shipping: '1'
+  state: NE
+wootax/22710:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '68348'
+    location_type: postcode
+  name: JOHNSON
+  order: '0'
+  priority: '0'
+  rate: '5.5'
+  shipping: '1'
+  state: NE
+wootax/22711:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '68349'
+    location_type: postcode
+  name: CASS
+  order: '0'
+  priority: '0'
+  rate: '5.5'
+  shipping: '1'
+  state: NE
+wootax/22712:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '68350'
+    location_type: postcode
+  name: ENDICOTT
+  order: '0'
+  priority: '0'
+  rate: '5.5'
+  shipping: '1'
+  state: NE
+wootax/22713:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '68351'
+    location_type: postcode
+  name: EXETER
+  order: '0'
+  priority: '0'
+  rate: '7'
+  shipping: '1'
+  state: NE
+wootax/22714:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '68352'
+    location_type: postcode
+  name: FAIRBURY
+  order: '0'
+  priority: '0'
+  rate: '7.5'
+  shipping: '1'
+  state: NE
+wootax/22715:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '68354'
+    location_type: postcode
+  name: FAIRMONT
+  order: '0'
+  priority: '0'
+  rate: '5.5'
+  shipping: '1'
+  state: NE
+wootax/22716:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '68355'
+    location_type: postcode
+  name: FALLS CITY
+  order: '0'
+  priority: '0'
+  rate: '7'
+  shipping: '1'
+  state: NE
+wootax/22717:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '68357'
+    location_type: postcode
+  name: GAGE
+  order: '0'
+  priority: '0'
+  rate: '5.5'
+  shipping: '1'
+  state: NE
+wootax/22718:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '68358'
+    location_type: postcode
+  name: LANCASTER
+  order: '0'
+  priority: '0'
+  rate: '5.5'
+  shipping: '1'
+  state: NE
+wootax/22719:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '68359'
+    location_type: postcode
+  name: FRIEND
+  order: '0'
+  priority: '0'
+  rate: '6.5'
+  shipping: '1'
+  state: NE
+wootax/22720:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '68360'
+    location_type: postcode
+  name: SEWARD
+  order: '0'
+  priority: '0'
+  rate: '5.5'
+  shipping: '1'
+  state: NE
+wootax/22721:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '68361'
+    location_type: postcode
+  name: GENEVA
+  order: '0'
+  priority: '0'
+  rate: '7.5'
+  shipping: '1'
+  state: NE
+wootax/22722:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '68362'
+    location_type: postcode
+  name: GILEAD
+  order: '0'
+  priority: '0'
+  rate: '5.5'
+  shipping: '1'
+  state: NE
+wootax/22723:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '68364'
+    location_type: postcode
+  name: GOEHNER
+  order: '0'
+  priority: '0'
+  rate: '5.5'
+  shipping: '1'
+  state: NE
+wootax/22724:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '68365'
+    location_type: postcode
+  name: GRAFTON
+  order: '0'
+  priority: '0'
+  rate: '5.5'
+  shipping: '1'
+  state: NE
+wootax/22725:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '68366'
+    location_type: postcode
+  name: CASS
+  order: '0'
+  priority: '0'
+  rate: '5.5'
+  shipping: '1'
+  state: NE
+wootax/22726:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '68367'
+    location_type: postcode
+  name: GRESHAM
+  order: '0'
+  priority: '0'
+  rate: '7'
+  shipping: '1'
+  state: NE
+wootax/22727:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '68368'
+    location_type: postcode
+  name: LANCASTER
+  order: '0'
+  priority: '0'
+  rate: '5.5'
+  shipping: '1'
+  state: NE
+wootax/22728:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '68370'
+    location_type: postcode
+  name: HEBRON
+  order: '0'
+  priority: '0'
+  rate: '6.5'
+  shipping: '1'
+  state: NE
+wootax/22729:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '68371'
+    location_type: postcode
+  name: HENDERSON
+  order: '0'
+  priority: '0'
+  rate: '7'
+  shipping: '1'
+  state: NE
+wootax/22730:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '68372'
+    location_type: postcode
+  name: LANCASTER
+  order: '0'
+  priority: '0'
+  rate: '5.5'
+  shipping: '1'
+  state: NE
+wootax/22731:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '68375'
+    location_type: postcode
+  name: THAYER
+  order: '0'
+  priority: '0'
+  rate: '5.5'
+  shipping: '1'
+  state: NE
+wootax/22732:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '68376'
+    location_type: postcode
+  name: HUMBOLDT
+  order: '0'
+  priority: '0'
+  rate: '5.5'
+  shipping: '1'
+  state: NE
+wootax/22733:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '68377'
+    location_type: postcode
+  name: JEFFERSON
+  order: '0'
+  priority: '0'
+  rate: '5.5'
+  shipping: '1'
+  state: NE
+wootax/22734:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '68378'
+    location_type: postcode
+  name: NEMAHA
+  order: '0'
+  priority: '0'
+  rate: '5.5'
+  shipping: '1'
+  state: NE
+wootax/22735:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '68379'
+    location_type: postcode
+  name: JULIAN
+  order: '0'
+  priority: '0'
+  rate: '5.5'
+  shipping: '1'
+  state: NE
+wootax/22736:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '68380'
+    location_type: postcode
+  name: LEWISTON
+  order: '0'
+  priority: '0'
+  rate: '5.5'
+  shipping: '1'
+  state: NE
+wootax/22737:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '68381'
+    location_type: postcode
+  name: GAGE
+  order: '0'
+  priority: '0'
+  rate: '5.5'
+  shipping: '1'
+  state: NE
+wootax/22738:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '68382'
+    location_type: postcode
+  name: LORTON
+  order: '0'
+  priority: '0'
+  rate: '5.5'
+  shipping: '1'
+  state: NE
+wootax/22739:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '68401'
+    location_type: postcode
+  name: YORK
+  order: '0'
+  priority: '0'
+  rate: '5.5'
+  shipping: '1'
+  state: NE
+wootax/22740:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '68402'
+    location_type: postcode
+  name: LANCASTER
+  order: '0'
+  priority: '0'
+  rate: '5.5'
+  shipping: '1'
+  state: NE
+wootax/22741:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '68403'
+    location_type: postcode
+  name: MANLEY
+  order: '0'
+  priority: '0'
+  rate: '5.5'
+  shipping: '1'
+  state: NE
+wootax/22742:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '68404'
+    location_type: postcode
+  name: LANCASTER
+  order: '0'
+  priority: '0'
+  rate: '5.5'
+  shipping: '1'
+  state: NE
+wootax/22743:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '68405'
+    location_type: postcode
+  name: MILFORD
+  order: '0'
+  priority: '0'
+  rate: '6.5'
+  shipping: '1'
+  state: NE
+wootax/22744:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '68406'
+    location_type: postcode
+  name: MILLIGAN
+  order: '0'
+  priority: '0'
+  rate: '5.5'
+  shipping: '1'
+  state: NE
+wootax/22745:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '68407'
+    location_type: postcode
+  name: CASS
+  order: '0'
+  priority: '0'
+  rate: '5.5'
+  shipping: '1'
+  state: NE
+wootax/22746:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '68409'
+    location_type: postcode
+  name: CASS
+  order: '0'
+  priority: '0'
+  rate: '5.5'
+  shipping: '1'
+  state: NE
+wootax/22747:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '68410'
+    location_type: postcode
+  name: NEBRASKA CITY
+  order: '0'
+  priority: '0'
+  rate: '7.5'
+  shipping: '1'
+  state: NE
+wootax/22748:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '68413'
+    location_type: postcode
+  name: CASS
+  order: '0'
+  priority: '0'
+  rate: '5.5'
+  shipping: '1'
+  state: NE
+wootax/22749:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '68414'
+    location_type: postcode
+  name: NEMAHA
+  order: '0'
+  priority: '0'
+  rate: '5.5'
+  shipping: '1'
+  state: NE
+wootax/22750:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '68415'
+    location_type: postcode
+  name: GAGE
+  order: '0'
+  priority: '0'
+  rate: '5.5'
+  shipping: '1'
+  state: NE
+wootax/22751:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '68416'
+    location_type: postcode
+  name: FILLMORE
+  order: '0'
+  priority: '0'
+  rate: '5.5'
+  shipping: '1'
+  state: NE
+wootax/22752:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '68417'
+    location_type: postcode
+  name: OTOE
+  order: '0'
+  priority: '0'
+  rate: '5.5'
+  shipping: '1'
+  state: NE
+wootax/22753:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '68418'
+    location_type: postcode
+  name: OTOE
+  order: '0'
+  priority: '0'
+  rate: '5.5'
+  shipping: '1'
+  state: NE
+wootax/22754:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '68419'
+    location_type: postcode
+  name: PANAMA
+  order: '0'
+  priority: '0'
+  rate: '5.5'
+  shipping: '1'
+  state: NE
+wootax/22755:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '68420'
+    location_type: postcode
+  name: PAWNEE CITY
+  order: '0'
+  priority: '0'
+  rate: '7.5'
+  shipping: '1'
+  state: NE
+wootax/22756:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '68421'
+    location_type: postcode
+  name: PERU
+  order: '0'
+  priority: '0'
+  rate: '6.5'
+  shipping: '1'
+  state: NE
+wootax/22757:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '68422'
+    location_type: postcode
+  name: GAGE
+  order: '0'
+  priority: '0'
+  rate: '5.5'
+  shipping: '1'
+  state: NE
+wootax/22758:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '68423'
+    location_type: postcode
+  name: SEWARD
+  order: '0'
+  priority: '0'
+  rate: '5.5'
+  shipping: '1'
+  state: NE
+wootax/22759:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '68424'
+    location_type: postcode
+  name: JEFFERSON
+  order: '0'
+  priority: '0'
+  rate: '5.5'
+  shipping: '1'
+  state: NE
+wootax/22760:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '68428'
+    location_type: postcode
+  name: LANCASTER
+  order: '0'
+  priority: '0'
+  rate: '5.5'
+  shipping: '1'
+  state: NE
+wootax/22761:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '68429'
+    location_type: postcode
+  name: REYNOLDS
+  order: '0'
+  priority: '0'
+  rate: '5.5'
+  shipping: '1'
+  state: NE
+wootax/22762:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '68430'
+    location_type: postcode
+  name: LANCASTER
+  order: '0'
+  priority: '0'
+  rate: '5.5'
+  shipping: '1'
+  state: NE
+wootax/22763:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '68431'
+    location_type: postcode
+  name: RULO
+  order: '0'
+  priority: '0'
+  rate: '5.5'
+  shipping: '1'
+  state: NE
+wootax/22764:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '68433'
+    location_type: postcode
+  name: SALEM
+  order: '0'
+  priority: '0'
+  rate: '5.5'
+  shipping: '1'
+  state: NE
+wootax/22765:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '68434'
+    location_type: postcode
+  name: SEWARD
+  order: '0'
+  priority: '0'
+  rate: '7'
+  shipping: '1'
+  state: NE
+wootax/22766:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '68436'
+    location_type: postcode
+  name: FILLMORE
+  order: '0'
+  priority: '0'
+  rate: '5.5'
+  shipping: '1'
+  state: NE
+wootax/22767:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '68437'
+    location_type: postcode
+  name: RICHARDSON
+  order: '0'
+  priority: '0'
+  rate: '5.5'
+  shipping: '1'
+  state: NE
+wootax/22768:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '68438'
+    location_type: postcode
+  name: LANCASTER
+  order: '0'
+  priority: '0'
+  rate: '5.5'
+  shipping: '1'
+  state: NE
+wootax/22769:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '68439'
+    location_type: postcode
+  name: SEWARD
+  order: '0'
+  priority: '0'
+  rate: '5.5'
+  shipping: '1'
+  state: NE
+wootax/22770:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '68440'
+    location_type: postcode
+  name: STEELE CITY
+  order: '0'
+  priority: '0'
+  rate: '5.5'
+  shipping: '1'
+  state: NE
+wootax/22771:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '68441'
+    location_type: postcode
+  name: PAWNEE
+  order: '0'
+  priority: '0'
+  rate: '5.5'
+  shipping: '1'
+  state: NE
+wootax/22772:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '68442'
+    location_type: postcode
+  name: RICHARDSON
+  order: '0'
+  priority: '0'
+  rate: '5.5'
+  shipping: '1'
+  state: NE
+wootax/22773:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '68443'
+    location_type: postcode
+  name: STERLING
+  order: '0'
+  priority: '0'
+  rate: '6.5'
+  shipping: '1'
+  state: NE
+wootax/22774:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '68444'
+    location_type: postcode
+  name: FILLMORE
+  order: '0'
+  priority: '0'
+  rate: '5.5'
+  shipping: '1'
+  state: NE
+wootax/22775:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '68445'
+    location_type: postcode
+  name: SALINE
+  order: '0'
+  priority: '0'
+  rate: '5.5'
+  shipping: '1'
+  state: NE
+wootax/22776:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '68446'
+    location_type: postcode
+  name: SYRACUSE
+  order: '0'
+  priority: '0'
+  rate: '6.5'
+  shipping: '1'
+  state: NE
+wootax/22777:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '68447'
+    location_type: postcode
+  name: TABLE ROCK
+  order: '0'
+  priority: '0'
+  rate: '5.5'
+  shipping: '1'
+  state: NE
+wootax/22778:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '68448'
+    location_type: postcode
+  name: OTOE
+  order: '0'
+  priority: '0'
+  rate: '5.5'
+  shipping: '1'
+  state: NE
+wootax/22779:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '68450'
+    location_type: postcode
+  name: TECUMSEH
+  order: '0'
+  priority: '0'
+  rate: '7'
+  shipping: '1'
+  state: NE
+wootax/22780:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '68452'
+    location_type: postcode
+  name: CLAY
+  order: '0'
+  priority: '0'
+  rate: '5.5'
+  shipping: '1'
+  state: NE
+wootax/22781:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '68453'
+    location_type: postcode
+  name: SALINE
+  order: '0'
+  priority: '0'
+  rate: '5.5'
+  shipping: '1'
+  state: NE
+wootax/22782:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '68454'
+    location_type: postcode
+  name: UNADILLA
+  order: '0'
+  priority: '0'
+  rate: '5.5'
+  shipping: '1'
+  state: NE
+wootax/22783:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '68455'
+    location_type: postcode
+  name: CASS
+  order: '0'
+  priority: '0'
+  rate: '5.5'
+  shipping: '1'
+  state: NE
+wootax/22784:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '68456'
+    location_type: postcode
+  name: UTICA
+  order: '0'
+  priority: '0'
+  rate: '7'
+  shipping: '1'
+  state: NE
+wootax/22785:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '68457'
+    location_type: postcode
+  name: RICHARDSON
+  order: '0'
+  priority: '0'
+  rate: '5.5'
+  shipping: '1'
+  state: NE
+wootax/22786:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '68458'
+    location_type: postcode
+  name: GAGE
+  order: '0'
+  priority: '0'
+  rate: '5.5'
+  shipping: '1'
+  state: NE
+wootax/22787:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '68460'
+    location_type: postcode
+  name: YORK
+  order: '0'
+  priority: '0'
+  rate: '5.5'
+  shipping: '1'
+  state: NE
+wootax/22788:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '68461'
+    location_type: postcode
+  name: LANCASTER
+  order: '0'
+  priority: '0'
+  rate: '5.5'
+  shipping: '1'
+  state: NE
+wootax/22789:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '68462'
+    location_type: postcode
+  name: WAVERLY
+  order: '0'
+  priority: '0'
+  rate: '6.5'
+  shipping: '1'
+  state: NE
+wootax/22790:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '68463'
+    location_type: postcode
+  name: WEEPING WATER
+  order: '0'
+  priority: '0'
+  rate: '7'
+  shipping: '1'
+  state: NE
+wootax/22791:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '68464'
+    location_type: postcode
+  name: SALINE
+  order: '0'
+  priority: '0'
+  rate: '5.5'
+  shipping: '1'
+  state: NE
+wootax/22792:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '68465'
+    location_type: postcode
+  name: WILBER
+  order: '0'
+  priority: '0'
+  rate: '7'
+  shipping: '1'
+  state: NE
+wootax/22793:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '68466'
+    location_type: postcode
+  name: WYMORE
+  order: '0'
+  priority: '0'
+  rate: '7'
+  shipping: '1'
+  state: NE
+wootax/22794:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '68467'
+    location_type: postcode
+  name: YORK
+  order: '0'
+  priority: '0'
+  rate: '7.5'
+  shipping: '1'
+  state: NE
+wootax/22795:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '68501'
+    location_type: postcode
+  name: LINCOLN
+  order: '0'
+  priority: '0'
+  rate: '7'
+  shipping: '1'
+  state: NE
+wootax/22796:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '68502'
+    location_type: postcode
+  name: LINCOLN
+  order: '0'
+  priority: '0'
+  rate: '7'
+  shipping: '1'
+  state: NE
+wootax/22797:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '68503'
+    location_type: postcode
+  name: LINCOLN
+  order: '0'
+  priority: '0'
+  rate: '7'
+  shipping: '1'
+  state: NE
+wootax/22798:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '68504'
+    location_type: postcode
+  name: LINCOLN
+  order: '0'
+  priority: '0'
+  rate: '7'
+  shipping: '1'
+  state: NE
+wootax/22799:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '68505'
+    location_type: postcode
+  name: LINCOLN
+  order: '0'
+  priority: '0'
+  rate: '7'
+  shipping: '1'
+  state: NE
+wootax/22800:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '68506'
+    location_type: postcode
+  name: LINCOLN
+  order: '0'
+  priority: '0'
+  rate: '7'
+  shipping: '1'
+  state: NE
+wootax/22801:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '68507'
+    location_type: postcode
+  name: LINCOLN
+  order: '0'
+  priority: '0'
+  rate: '7'
+  shipping: '1'
+  state: NE
+wootax/22802:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '68508'
+    location_type: postcode
+  name: LINCOLN
+  order: '0'
+  priority: '0'
+  rate: '7'
+  shipping: '1'
+  state: NE
+wootax/22803:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '68510'
+    location_type: postcode
+  name: LINCOLN
+  order: '0'
+  priority: '0'
+  rate: '7'
+  shipping: '1'
+  state: NE
+wootax/22804:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '68512'
+    location_type: postcode
+  name: LINCOLN
+  order: '0'
+  priority: '0'
+  rate: '7'
+  shipping: '1'
+  state: NE
+wootax/22805:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '68514'
+    location_type: postcode
+  name: LANCASTER
+  order: '0'
+  priority: '0'
+  rate: '5.5'
+  shipping: '1'
+  state: NE
+wootax/22806:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '68516'
+    location_type: postcode
+  name: LINCOLN
+  order: '0'
+  priority: '0'
+  rate: '7'
+  shipping: '1'
+  state: NE
+wootax/22807:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '68517'
+    location_type: postcode
+  name: LANCASTER
+  order: '0'
+  priority: '0'
+  rate: '5.5'
+  shipping: '1'
+  state: NE
+wootax/22808:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '68520'
+    location_type: postcode
+  name: LINCOLN
+  order: '0'
+  priority: '0'
+  rate: '7'
+  shipping: '1'
+  state: NE
+wootax/22809:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '68521'
+    location_type: postcode
+  name: LINCOLN
+  order: '0'
+  priority: '0'
+  rate: '7'
+  shipping: '1'
+  state: NE
+wootax/22810:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '68522'
+    location_type: postcode
+  name: LINCOLN
+  order: '0'
+  priority: '0'
+  rate: '7'
+  shipping: '1'
+  state: NE
+wootax/22811:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '68523'
+    location_type: postcode
+  name: LANCASTER
+  order: '0'
+  priority: '0'
+  rate: '5.5'
+  shipping: '1'
+  state: NE
+wootax/22812:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '68524'
+    location_type: postcode
+  name: LINCOLN
+  order: '0'
+  priority: '0'
+  rate: '7'
+  shipping: '1'
+  state: NE
+wootax/22813:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '68526'
+    location_type: postcode
+  name: LINCOLN
+  order: '0'
+  priority: '0'
+  rate: '7'
+  shipping: '1'
+  state: NE
+wootax/22814:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '68527'
+    location_type: postcode
+  name: LANCASTER
+  order: '0'
+  priority: '0'
+  rate: '5.5'
+  shipping: '1'
+  state: NE
+wootax/22815:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '68528'
+    location_type: postcode
+  name: LINCOLN
+  order: '0'
+  priority: '0'
+  rate: '7'
+  shipping: '1'
+  state: NE
+wootax/22816:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '68529'
+    location_type: postcode
+  name: LINCOLN
+  order: '0'
+  priority: '0'
+  rate: '7'
+  shipping: '1'
+  state: NE
+wootax/22817:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '68531'
+    location_type: postcode
+  name: LANCASTER
+  order: '0'
+  priority: '0'
+  rate: '5.5'
+  shipping: '1'
+  state: NE
+wootax/22818:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '68532'
+    location_type: postcode
+  name: LANCASTER
+  order: '0'
+  priority: '0'
+  rate: '5.5'
+  shipping: '1'
+  state: NE
+wootax/22819:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '68542'
+    location_type: postcode
+  name: LINCOLN
+  order: '0'
+  priority: '0'
+  rate: '7'
+  shipping: '1'
+  state: NE
+wootax/22820:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '68544'
+    location_type: postcode
+  name: LINCOLN
+  order: '0'
+  priority: '0'
+  rate: '7'
+  shipping: '1'
+  state: NE
+wootax/22821:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '68583'
+    location_type: postcode
+  name: LINCOLN
+  order: '0'
+  priority: '0'
+  rate: '7'
+  shipping: '1'
+  state: NE
+wootax/22822:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '68588'
+    location_type: postcode
+  name: LINCOLN
+  order: '0'
+  priority: '0'
+  rate: '7'
+  shipping: '1'
+  state: NE
+wootax/22823:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '68601'
+    location_type: postcode
+  name: COLUMBUS
+  order: '0'
+  priority: '0'
+  rate: '7'
+  shipping: '1'
+  state: NE
+wootax/22824:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '68602'
+    location_type: postcode
+  name: PLATTE
+  order: '0'
+  priority: '0'
+  rate: '5.5'
+  shipping: '1'
+  state: NE
+wootax/22825:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '68620'
+    location_type: postcode
+  name: ALBION
+  order: '0'
+  priority: '0'
+  rate: '7'
+  shipping: '1'
+  state: NE
+wootax/22826:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '68621'
+    location_type: postcode
+  name: DODGE
+  order: '0'
+  priority: '0'
+  rate: '5.5'
+  shipping: '1'
+  state: NE
+wootax/22827:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '68622'
+    location_type: postcode
+  name: WHEELER
+  order: '0'
+  priority: '0'
+  rate: '5.5'
+  shipping: '1'
+  state: NE
+wootax/22828:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '68623'
+    location_type: postcode
+  name: NANCE
+  order: '0'
+  priority: '0'
+  rate: '5.5'
+  shipping: '1'
+  state: NE
+wootax/22829:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '68624'
+    location_type: postcode
+  name: BUTLER
+  order: '0'
+  priority: '0'
+  rate: '5.5'
+  shipping: '1'
+  state: NE
+wootax/22830:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '68626'
+    location_type: postcode
+  name: BUTLER
+  order: '0'
+  priority: '0'
+  rate: '5.5'
+  shipping: '1'
+  state: NE
+wootax/22831:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '68627'
+    location_type: postcode
+  name: BOONE
+  order: '0'
+  priority: '0'
+  rate: '5.5'
+  shipping: '1'
+  state: NE
+wootax/22832:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '68628'
+    location_type: postcode
+  name: MERRICK
+  order: '0'
+  priority: '0'
+  rate: '5.5'
+  shipping: '1'
+  state: NE
+wootax/22833:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '68629'
+    location_type: postcode
+  name: COLFAX
+  order: '0'
+  priority: '0'
+  rate: '5.5'
+  shipping: '1'
+  state: NE
+wootax/22834:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '68631'
+    location_type: postcode
+  name: PLATTE
+  order: '0'
+  priority: '0'
+  rate: '5.5'
+  shipping: '1'
+  state: NE
+wootax/22835:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '68632'
+    location_type: postcode
+  name: DAVID CITY
+  order: '0'
+  priority: '0'
+  rate: '7.5'
+  shipping: '1'
+  state: NE
+wootax/22836:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '68633'
+    location_type: postcode
+  name: DODGE
+  order: '0'
+  priority: '0'
+  rate: '7'
+  shipping: '1'
+  state: NE
+wootax/22837:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '68634'
+    location_type: postcode
+  name: DUNCAN
+  order: '0'
+  priority: '0'
+  rate: '7'
+  shipping: '1'
+  state: NE
+wootax/22838:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '68635'
+    location_type: postcode
+  name: BUTLER
+  order: '0'
+  priority: '0'
+  rate: '5.5'
+  shipping: '1'
+  state: NE
+wootax/22839:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '68636'
+    location_type: postcode
+  name: ANTELOPE
+  order: '0'
+  priority: '0'
+  rate: '5.5'
+  shipping: '1'
+  state: NE
+wootax/22840:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '68637'
+    location_type: postcode
+  name: WHEELER
+  order: '0'
+  priority: '0'
+  rate: '5.5'
+  shipping: '1'
+  state: NE
+wootax/22841:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '68638'
+    location_type: postcode
+  name: FULLERTON
+  order: '0'
+  priority: '0'
+  rate: '7.5'
+  shipping: '1'
+  state: NE
+wootax/22842:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '68640'
+    location_type: postcode
+  name: GENOA
+  order: '0'
+  priority: '0'
+  rate: '7'
+  shipping: '1'
+  state: NE
+wootax/22843:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '68641'
+    location_type: postcode
+  name: HOWELLS
+  order: '0'
+  priority: '0'
+  rate: '7'
+  shipping: '1'
+  state: NE
+wootax/22844:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '68642'
+    location_type: postcode
+  name: PLATTE
+  order: '0'
+  priority: '0'
+  rate: '5.5'
+  shipping: '1'
+  state: NE
+wootax/22845:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '68643'
+    location_type: postcode
+  name: LEIGH
+  order: '0'
+  priority: '0'
+  rate: '7'
+  shipping: '1'
+  state: NE
+wootax/22846:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '68644'
+    location_type: postcode
+  name: PLATTE
+  order: '0'
+  priority: '0'
+  rate: '5.5'
+  shipping: '1'
+  state: NE
+wootax/22847:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '68647'
+    location_type: postcode
+  name: PLATTE
+  order: '0'
+  priority: '0'
+  rate: '5.5'
+  shipping: '1'
+  state: NE
+wootax/22848:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '68648'
+    location_type: postcode
+  name: SAUNDERS
+  order: '0'
+  priority: '0'
+  rate: '5.5'
+  shipping: '1'
+  state: NE
+wootax/22849:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '68649'
+    location_type: postcode
+  name: NORTH BEND
+  order: '0'
+  priority: '0'
+  rate: '7'
+  shipping: '1'
+  state: NE
+wootax/22850:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '68651'
+    location_type: postcode
+  name: OSCEOLA
+  order: '0'
+  priority: '0'
+  rate: '7'
+  shipping: '1'
+  state: NE
+wootax/22851:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '68652'
+    location_type: postcode
+  name: BOONE
+  order: '0'
+  priority: '0'
+  rate: '5.5'
+  shipping: '1'
+  state: NE
+wootax/22852:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '68653'
+    location_type: postcode
+  name: PLATTE
+  order: '0'
+  priority: '0'
+  rate: '5.5'
+  shipping: '1'
+  state: NE
+wootax/22853:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '68654'
+    location_type: postcode
+  name: POLK
+  order: '0'
+  priority: '0'
+  rate: '5.5'
+  shipping: '1'
+  state: NE
+wootax/22854:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '68655'
+    location_type: postcode
+  name: BOONE
+  order: '0'
+  priority: '0'
+  rate: '5.5'
+  shipping: '1'
+  state: NE
+wootax/22855:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '68658'
+    location_type: postcode
+  name: RISING CITY
+  order: '0'
+  priority: '0'
+  rate: '5.5'
+  shipping: '1'
+  state: NE
+wootax/22856:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '68659'
+    location_type: postcode
+  name: COLFAX
+  order: '0'
+  priority: '0'
+  rate: '5.5'
+  shipping: '1'
+  state: NE
+wootax/22857:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '68660'
+    location_type: postcode
+  name: ST. EDWARD
+  order: '0'
+  priority: '0'
+  rate: '7'
+  shipping: '1'
+  state: NE
+wootax/22858:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '68661'
+    location_type: postcode
+  name: SCHUYLER
+  order: '0'
+  priority: '0'
+  rate: '7'
+  shipping: '1'
+  state: NE
+wootax/22859:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '68662'
+    location_type: postcode
+  name: POLK
+  order: '0'
+  priority: '0'
+  rate: '5.5'
+  shipping: '1'
+  state: NE
+wootax/22860:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '68663'
+    location_type: postcode
+  name: SILVER CREEK
+  order: '0'
+  priority: '0'
+  rate: '6.5'
+  shipping: '1'
+  state: NE
+wootax/22861:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '68664'
+    location_type: postcode
+  name: SNYDER
+  order: '0'
+  priority: '0'
+  rate: '5.5'
+  shipping: '1'
+  state: NE
+wootax/22862:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '68665'
+    location_type: postcode
+  name: SPALDING
+  order: '0'
+  priority: '0'
+  rate: '5.5'
+  shipping: '1'
+  state: NE
+wootax/22863:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '68666'
+    location_type: postcode
+  name: STROMSBURG
+  order: '0'
+  priority: '0'
+  rate: '7'
+  shipping: '1'
+  state: NE
+wootax/22864:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '68667'
+    location_type: postcode
+  name: SURPRISE
+  order: '0'
+  priority: '0'
+  rate: '5.5'
+  shipping: '1'
+  state: NE
+wootax/22865:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '68669'
+    location_type: postcode
+  name: BUTLER
+  order: '0'
+  priority: '0'
+  rate: '5.5'
+  shipping: '1'
+  state: NE
+wootax/22866:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '68701'
+    location_type: postcode
+  name: NORFOLK
+  order: '0'
+  priority: '0'
+  rate: '7'
+  shipping: '1'
+  state: NE
+wootax/22867:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '68702'
+    location_type: postcode
+  name: NORFOLK
+  order: '0'
+  priority: '0'
+  rate: '7'
+  shipping: '1'
+  state: NE
+wootax/22868:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '68710'
+    location_type: postcode
+  name: DIXON
+  order: '0'
+  priority: '0'
+  rate: '5.5'
+  shipping: '1'
+  state: NE
+wootax/22869:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '68711'
+    location_type: postcode
+  name: HOLT
+  order: '0'
+  priority: '0'
+  rate: '5.5'
+  shipping: '1'
+  state: NE
+wootax/22870:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '68713'
+    location_type: postcode
+  name: ATKINSON
+  order: '0'
+  priority: '0'
+  rate: '7'
+  shipping: '1'
+  state: NE
+wootax/22871:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '68714'
+    location_type: postcode
+  name: ROCK
+  order: '0'
+  priority: '0'
+  rate: '5.5'
+  shipping: '1'
+  state: NE
+wootax/22872:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '68715'
+    location_type: postcode
+  name: BATTLE CREEK
+  order: '0'
+  priority: '0'
+  rate: '7'
+  shipping: '1'
+  state: NE
+wootax/22873:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '68716'
+    location_type: postcode
+  name: BEEMER
+  order: '0'
+  priority: '0'
+  rate: '7'
+  shipping: '1'
+  state: NE
+wootax/22874:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '68717'
+    location_type: postcode
+  name: CEDAR
+  order: '0'
+  priority: '0'
+  rate: '5.5'
+  shipping: '1'
+  state: NE
+wootax/22875:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '68718'
+    location_type: postcode
+  name: KNOX
+  order: '0'
+  priority: '0'
+  rate: '5.5'
+  shipping: '1'
+  state: NE
+wootax/22876:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '68719'
+    location_type: postcode
+  name: BOYD
+  order: '0'
+  priority: '0'
+  rate: '5.5'
+  shipping: '1'
+  state: NE
+wootax/22877:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '68720'
+    location_type: postcode
+  name: ANTELOPE
+  order: '0'
+  priority: '0'
+  rate: '5.5'
+  shipping: '1'
+  state: NE
+wootax/22878:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '68722'
+    location_type: postcode
+  name: BOYD
+  order: '0'
+  priority: '0'
+  rate: '5.5'
+  shipping: '1'
+  state: NE
+wootax/22879:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '68723'
+    location_type: postcode
+  name: WAYNE
+  order: '0'
+  priority: '0'
+  rate: '5.5'
+  shipping: '1'
+  state: NE
+wootax/22880:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '68724'
+    location_type: postcode
+  name: KNOX
+  order: '0'
+  priority: '0'
+  rate: '5.5'
+  shipping: '1'
+  state: NE
+wootax/22881:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '68725'
+    location_type: postcode
+  name: CHAMBERS
+  order: '0'
+  priority: '0'
+  rate: '6.5'
+  shipping: '1'
+  state: NE
+wootax/22882:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '68726'
+    location_type: postcode
+  name: ANTELOPE
+  order: '0'
+  priority: '0'
+  rate: '5.5'
+  shipping: '1'
+  state: NE
+wootax/22883:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '68727'
+    location_type: postcode
+  name: COLERIDGE
+  order: '0'
+  priority: '0'
+  rate: '6.5'
+  shipping: '1'
+  state: NE
+wootax/22884:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '68728'
+    location_type: postcode
+  name: CONCORD
+  order: '0'
+  priority: '0'
+  rate: '5.5'
+  shipping: '1'
+  state: NE
+wootax/22885:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '68729'
+    location_type: postcode
+  name: CREIGHTON
+  order: '0'
+  priority: '0'
+  rate: '6.5'
+  shipping: '1'
+  state: NE
+wootax/22886:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '68730'
+    location_type: postcode
+  name: KNOX
+  order: '0'
+  priority: '0'
+  rate: '5.5'
+  shipping: '1'
+  state: NE
+wootax/22887:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '68731'
+    location_type: postcode
+  name: DAKOTA COUNTY
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: NE
+wootax/22888:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '68732'
+    location_type: postcode
+  name: DIXON
+  order: '0'
+  priority: '0'
+  rate: '5.5'
+  shipping: '1'
+  state: NE
+wootax/22889:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '68733'
+    location_type: postcode
+  name: EMERSON
+  order: '0'
+  priority: '0'
+  rate: '5.5'
+  shipping: '1'
+  state: NE
+wootax/22890:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '68734'
+    location_type: postcode
+  name: HOLT
+  order: '0'
+  priority: '0'
+  rate: '5.5'
+  shipping: '1'
+  state: NE
+wootax/22891:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '68735'
+    location_type: postcode
+  name: HOLT
+  order: '0'
+  priority: '0'
+  rate: '5.5'
+  shipping: '1'
+  state: NE
+wootax/22892:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '68736'
+    location_type: postcode
+  name: CEDAR
+  order: '0'
+  priority: '0'
+  rate: '5.5'
+  shipping: '1'
+  state: NE
+wootax/22893:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '68738'
+    location_type: postcode
+  name: HADAR
+  order: '0'
+  priority: '0'
+  rate: '5.5'
+  shipping: '1'
+  state: NE
+wootax/22894:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '68739'
+    location_type: postcode
+  name: CEDAR
+  order: '0'
+  priority: '0'
+  rate: '5.5'
+  shipping: '1'
+  state: NE
+wootax/22895:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '68740'
+    location_type: postcode
+  name: HOSKINS
+  order: '0'
+  priority: '0'
+  rate: '5.5'
+  shipping: '1'
+  state: NE
+wootax/22896:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '68741'
+    location_type: postcode
+  name: DAKOTA COUNTY
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: NE
+wootax/22897:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '68742'
+    location_type: postcode
+  name: HOLT
+  order: '0'
+  priority: '0'
+  rate: '5.5'
+  shipping: '1'
+  state: NE
+wootax/22898:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '68743'
+    location_type: postcode
+  name: DAKOTA COUNTY
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: NE
+wootax/22899:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '68745'
+    location_type: postcode
+  name: LAUREL
+  order: '0'
+  priority: '0'
+  rate: '6.5'
+  shipping: '1'
+  state: NE
+wootax/22900:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '68746'
+    location_type: postcode
+  name: LYNCH
+  order: '0'
+  priority: '0'
+  rate: '5.5'
+  shipping: '1'
+  state: NE
+wootax/22901:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '68747'
+    location_type: postcode
+  name: PIERCE
+  order: '0'
+  priority: '0'
+  rate: '5.5'
+  shipping: '1'
+  state: NE
+wootax/22902:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '68748'
+    location_type: postcode
+  name: MADISON
+  order: '0'
+  priority: '0'
+  rate: '7'
+  shipping: '1'
+  state: NE
+wootax/22903:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '68749'
+    location_type: postcode
+  name: MAGNET
+  order: '0'
+  priority: '0'
+  rate: '5.5'
+  shipping: '1'
+  state: NE
+wootax/22904:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '68751'
+    location_type: postcode
+  name: MASKELL
+  order: '0'
+  priority: '0'
+  rate: '5.5'
+  shipping: '1'
+  state: NE
+wootax/22905:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '68752'
+    location_type: postcode
+  name: MADISON
+  order: '0'
+  priority: '0'
+  rate: '5.5'
+  shipping: '1'
+  state: NE
+wootax/22906:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '68753'
+    location_type: postcode
+  name: KEYA PAHA
+  order: '0'
+  priority: '0'
+  rate: '5.5'
+  shipping: '1'
+  state: NE
+wootax/22907:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '68755'
+    location_type: postcode
+  name: BOYD
+  order: '0'
+  priority: '0'
+  rate: '5.5'
+  shipping: '1'
+  state: NE
+wootax/22908:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '68756'
+    location_type: postcode
+  name: NELIGH
+  order: '0'
+  priority: '0'
+  rate: '6.5'
+  shipping: '1'
+  state: NE
+wootax/22909:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '68757'
+    location_type: postcode
+  name: DIXON
+  order: '0'
+  priority: '0'
+  rate: '5.5'
+  shipping: '1'
+  state: NE
+wootax/22910:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '68758'
+    location_type: postcode
+  name: MADISON
+  order: '0'
+  priority: '0'
+  rate: '5.5'
+  shipping: '1'
+  state: NE
+wootax/22911:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '68759'
+    location_type: postcode
+  name: KEYA PAHA
+  order: '0'
+  priority: '0'
+  rate: '5.5'
+  shipping: '1'
+  state: NE
+wootax/22912:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '68760'
+    location_type: postcode
+  name: NIOBRARA
+  order: '0'
+  priority: '0'
+  rate: '6.5'
+  shipping: '1'
+  state: NE
+wootax/22913:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '68761'
+    location_type: postcode
+  name: OAKDALE
+  order: '0'
+  priority: '0'
+  rate: '5.5'
+  shipping: '1'
+  state: NE
+wootax/22914:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '68763'
+    location_type: postcode
+  name: ONEILL
+  order: '0'
+  priority: '0'
+  rate: '7'
+  shipping: '1'
+  state: NE
+wootax/22915:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '68764'
+    location_type: postcode
+  name: ANTELOPE
+  order: '0'
+  priority: '0'
+  rate: '5.5'
+  shipping: '1'
+  state: NE
+wootax/22916:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '68765'
+    location_type: postcode
+  name: PIERCE
+  order: '0'
+  priority: '0'
+  rate: '5.5'
+  shipping: '1'
+  state: NE
+wootax/22917:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '68766'
+    location_type: postcode
+  name: HOLT
+  order: '0'
+  priority: '0'
+  rate: '5.5'
+  shipping: '1'
+  state: NE
+wootax/22918:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '68767'
+    location_type: postcode
+  name: PIERCE
+  order: '0'
+  priority: '0'
+  rate: '6.5'
+  shipping: '1'
+  state: NE
+wootax/22919:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '68768'
+    location_type: postcode
+  name: STANTON
+  order: '0'
+  priority: '0'
+  rate: '5.5'
+  shipping: '1'
+  state: NE
+wootax/22920:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '68769'
+    location_type: postcode
+  name: PLAINVIEW
+  order: '0'
+  priority: '0'
+  rate: '7'
+  shipping: '1'
+  state: NE
+wootax/22921:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '68770'
+    location_type: postcode
+  name: PONCA
+  order: '0'
+  priority: '0'
+  rate: '7'
+  shipping: '1'
+  state: NE
+wootax/22922:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '68771'
+    location_type: postcode
+  name: RANDOLPH
+  order: '0'
+  priority: '0'
+  rate: '7.5'
+  shipping: '1'
+  state: NE
+wootax/22923:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '68773'
+    location_type: postcode
+  name: ANTELOPE
+  order: '0'
+  priority: '0'
+  rate: '5.5'
+  shipping: '1'
+  state: NE
+wootax/22924:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '68774'
+    location_type: postcode
+  name: CEDAR
+  order: '0'
+  priority: '0'
+  rate: '5.5'
+  shipping: '1'
+  state: NE
+wootax/22925:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '68776'
+    location_type: postcode
+  name: DAKOTA COUNTY
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: NE
+wootax/22926:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '68777'
+    location_type: postcode
+  name: BOYD
+  order: '0'
+  priority: '0'
+  rate: '5.5'
+  shipping: '1'
+  state: NE
+wootax/22927:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '68778'
+    location_type: postcode
+  name: SPRINGVIEW
+  order: '0'
+  priority: '0'
+  rate: '6.5'
+  shipping: '1'
+  state: NE
+wootax/22928:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '68779'
+    location_type: postcode
+  name: STANTON
+  order: '0'
+  priority: '0'
+  rate: '7'
+  shipping: '1'
+  state: NE
+wootax/22929:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '68780'
+    location_type: postcode
+  name: HOLT
+  order: '0'
+  priority: '0'
+  rate: '5.5'
+  shipping: '1'
+  state: NE
+wootax/22930:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '68781'
+    location_type: postcode
+  name: MADISON
+  order: '0'
+  priority: '0'
+  rate: '5.5'
+  shipping: '1'
+  state: NE
+wootax/22931:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '68783'
+    location_type: postcode
+  name: KNOX
+  order: '0'
+  priority: '0'
+  rate: '5.5'
+  shipping: '1'
+  state: NE
+wootax/22932:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '68784'
+    location_type: postcode
+  name: WAKEFIELD
+  order: '0'
+  priority: '0'
+  rate: '6.5'
+  shipping: '1'
+  state: NE
+wootax/22933:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '68785'
+    location_type: postcode
+  name: DIXON
+  order: '0'
+  priority: '0'
+  rate: '5.5'
+  shipping: '1'
+  state: NE
+wootax/22934:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '68786'
+    location_type: postcode
+  name: WAUSA
+  order: '0'
+  priority: '0'
+  rate: '6.5'
+  shipping: '1'
+  state: NE
+wootax/22935:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '68787'
+    location_type: postcode
+  name: WAYNE
+  order: '0'
+  priority: '0'
+  rate: '7'
+  shipping: '1'
+  state: NE
+wootax/22936:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '68788'
+    location_type: postcode
+  name: WEST POINT
+  order: '0'
+  priority: '0'
+  rate: '7'
+  shipping: '1'
+  state: NE
+wootax/22937:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '68789'
+    location_type: postcode
+  name: KNOX
+  order: '0'
+  priority: '0'
+  rate: '5.5'
+  shipping: '1'
+  state: NE
+wootax/22938:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '68790'
+    location_type: postcode
+  name: WAYNE
+  order: '0'
+  priority: '0'
+  rate: '5.5'
+  shipping: '1'
+  state: NE
+wootax/22939:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '68791'
+    location_type: postcode
+  name: WISNER
+  order: '0'
+  priority: '0'
+  rate: '7.5'
+  shipping: '1'
+  state: NE
+wootax/22940:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '68792'
+    location_type: postcode
+  name: CEDAR
+  order: '0'
+  priority: '0'
+  rate: '5.5'
+  shipping: '1'
+  state: NE
+wootax/22941:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '68801'
+    location_type: postcode
+  name: GRAND ISLAND
+  order: '0'
+  priority: '0'
+  rate: '7.5'
+  shipping: '1'
+  state: NE
+wootax/22942:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '68802'
+    location_type: postcode
+  name: GRAND ISLAND
+  order: '0'
+  priority: '0'
+  rate: '7.5'
+  shipping: '1'
+  state: NE
+wootax/22943:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '68803'
+    location_type: postcode
+  name: GRAND ISLAND
+  order: '0'
+  priority: '0'
+  rate: '7.5'
+  shipping: '1'
+  state: NE
+wootax/22944:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '68810'
+    location_type: postcode
+  name: HALL
+  order: '0'
+  priority: '0'
+  rate: '5.5'
+  shipping: '1'
+  state: NE
+wootax/22945:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '68812'
+    location_type: postcode
+  name: BUFFALO
+  order: '0'
+  priority: '0'
+  rate: '5.5'
+  shipping: '1'
+  state: NE
+wootax/22946:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '68813'
+    location_type: postcode
+  name: CUSTER
+  order: '0'
+  priority: '0'
+  rate: '5.5'
+  shipping: '1'
+  state: NE
+wootax/22947:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '68814'
+    location_type: postcode
+  name: ANSLEY
+  order: '0'
+  priority: '0'
+  rate: '6.5'
+  shipping: '1'
+  state: NE
+wootax/22948:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '68815'
+    location_type: postcode
+  name: ARCADIA
+  order: '0'
+  priority: '0'
+  rate: '6.5'
+  shipping: '1'
+  state: NE
+wootax/22949:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '68816'
+    location_type: postcode
+  name: MERRICK
+  order: '0'
+  priority: '0'
+  rate: '5.5'
+  shipping: '1'
+  state: NE
+wootax/22950:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '68817'
+    location_type: postcode
+  name: SHERMAN
+  order: '0'
+  priority: '0'
+  rate: '5.5'
+  shipping: '1'
+  state: NE
+wootax/22951:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '68818'
+    location_type: postcode
+  name: AURORA
+  order: '0'
+  priority: '0'
+  rate: '5.5'
+  shipping: '1'
+  state: NE
+wootax/22952:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '68820'
+    location_type: postcode
+  name: HOWARD
+  order: '0'
+  priority: '0'
+  rate: '5.5'
+  shipping: '1'
+  state: NE
+wootax/22953:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '68821'
+    location_type: postcode
+  name: BLAINE
+  order: '0'
+  priority: '0'
+  rate: '5.5'
+  shipping: '1'
+  state: NE
+wootax/22954:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '68822'
+    location_type: postcode
+  name: BROKEN BOW
+  order: '0'
+  priority: '0'
+  rate: '7'
+  shipping: '1'
+  state: NE
+wootax/22955:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '68823'
+    location_type: postcode
+  name: BURWELL
+  order: '0'
+  priority: '0'
+  rate: '7'
+  shipping: '1'
+  state: NE
+wootax/22956:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '68824'
+    location_type: postcode
+  name: HALL
+  order: '0'
+  priority: '0'
+  rate: '5.5'
+  shipping: '1'
+  state: NE
+wootax/22957:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '68825'
+    location_type: postcode
+  name: CALLAWAY
+  order: '0'
+  priority: '0'
+  rate: '6.5'
+  shipping: '1'
+  state: NE
+wootax/22958:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '68826'
+    location_type: postcode
+  name: CENTRAL CITY
+  order: '0'
+  priority: '0'
+  rate: '7'
+  shipping: '1'
+  state: NE
+wootax/22959:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '68827'
+    location_type: postcode
+  name: MERRICK
+  order: '0'
+  priority: '0'
+  rate: '5.5'
+  shipping: '1'
+  state: NE
+wootax/22960:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '68828'
+    location_type: postcode
+  name: COMSTOCK
+  order: '0'
+  priority: '0'
+  rate: '5.5'
+  shipping: '1'
+  state: NE
+wootax/22961:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '68831'
+    location_type: postcode
+  name: HOWARD
+  order: '0'
+  priority: '0'
+  rate: '5.5'
+  shipping: '1'
+  state: NE
+wootax/22962:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '68832'
+    location_type: postcode
+  name: HALL
+  order: '0'
+  priority: '0'
+  rate: '5.5'
+  shipping: '1'
+  state: NE
+wootax/22963:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '68833'
+    location_type: postcode
+  name: BLAINE
+  order: '0'
+  priority: '0'
+  rate: '5.5'
+  shipping: '1'
+  state: NE
+wootax/22964:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '68834'
+    location_type: postcode
+  name: DAWSON
+  order: '0'
+  priority: '0'
+  rate: '5.5'
+  shipping: '1'
+  state: NE
+wootax/22965:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '68835'
+    location_type: postcode
+  name: HOWARD
+  order: '0'
+  priority: '0'
+  rate: '5.5'
+  shipping: '1'
+  state: NE
+wootax/22966:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '68836'
+    location_type: postcode
+  name: BUFFALO
+  order: '0'
+  priority: '0'
+  rate: '5.5'
+  shipping: '1'
+  state: NE
+wootax/22967:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '68837'
+    location_type: postcode
+  name: VALLEY
+  order: '0'
+  priority: '0'
+  rate: '5.5'
+  shipping: '1'
+  state: NE
+wootax/22968:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '68838'
+    location_type: postcode
+  name: HOWARD
+  order: '0'
+  priority: '0'
+  rate: '5.5'
+  shipping: '1'
+  state: NE
+wootax/22969:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '68840'
+    location_type: postcode
+  name: BUFFALO
+  order: '0'
+  priority: '0'
+  rate: '5.5'
+  shipping: '1'
+  state: NE
+wootax/22970:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '68841'
+    location_type: postcode
+  name: HAMILTON
+  order: '0'
+  priority: '0'
+  rate: '5.5'
+  shipping: '1'
+  state: NE
+wootax/22971:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '68842'
+    location_type: postcode
+  name: GREELEY
+  order: '0'
+  priority: '0'
+  rate: '6.5'
+  shipping: '1'
+  state: NE
+wootax/22972:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '68843'
+    location_type: postcode
+  name: HAMILTON
+  order: '0'
+  priority: '0'
+  rate: '5.5'
+  shipping: '1'
+  state: NE
+wootax/22973:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '68844'
+    location_type: postcode
+  name: SHERMAN
+  order: '0'
+  priority: '0'
+  rate: '5.5'
+  shipping: '1'
+  state: NE
+wootax/22974:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '68845'
+    location_type: postcode
+  name: KEARNEY
+  order: '0'
+  priority: '0'
+  rate: '7'
+  shipping: '1'
+  state: NE
+wootax/22975:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '68846'
+    location_type: postcode
+  name: HAMILTON
+  order: '0'
+  priority: '0'
+  rate: '5.5'
+  shipping: '1'
+  state: NE
+wootax/22976:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '68847'
+    location_type: postcode
+  name: KEARNEY
+  order: '0'
+  priority: '0'
+  rate: '7'
+  shipping: '1'
+  state: NE
+wootax/22977:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '68848'
+    location_type: postcode
+  name: KEARNEY
+  order: '0'
+  priority: '0'
+  rate: '7'
+  shipping: '1'
+  state: NE
+wootax/22978:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '68849'
+    location_type: postcode
+  name: KEARNEY
+  order: '0'
+  priority: '0'
+  rate: '7'
+  shipping: '1'
+  state: NE
+wootax/22979:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '68850'
+    location_type: postcode
+  name: LEXINGTON
+  order: '0'
+  priority: '0'
+  rate: '7'
+  shipping: '1'
+  state: NE
+wootax/22980:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '68852'
+    location_type: postcode
+  name: SHERMAN
+  order: '0'
+  priority: '0'
+  rate: '5.5'
+  shipping: '1'
+  state: NE
+wootax/22981:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '68853'
+    location_type: postcode
+  name: LOUP CITY
+  order: '0'
+  priority: '0'
+  rate: '7.5'
+  shipping: '1'
+  state: NE
+wootax/22982:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '68854'
+    location_type: postcode
+  name: HAMILTON
+  order: '0'
+  priority: '0'
+  rate: '5.5'
+  shipping: '1'
+  state: NE
+wootax/22983:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '68855'
+    location_type: postcode
+  name: MASON CITY
+  order: '0'
+  priority: '0'
+  rate: '5.5'
+  shipping: '1'
+  state: NE
+wootax/22984:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '68856'
+    location_type: postcode
+  name: CUSTER
+  order: '0'
+  priority: '0'
+  rate: '5.5'
+  shipping: '1'
+  state: NE
+wootax/22985:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '68858'
+    location_type: postcode
+  name: BUFFALO
+  order: '0'
+  priority: '0'
+  rate: '5.5'
+  shipping: '1'
+  state: NE
+wootax/22986:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '68859'
+    location_type: postcode
+  name: NORTH LOUP
+  order: '0'
+  priority: '0'
+  rate: '5.5'
+  shipping: '1'
+  state: NE
+wootax/22987:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '68860'
+    location_type: postcode
+  name: OCONTO
+  order: '0'
+  priority: '0'
+  rate: '6.5'
+  shipping: '1'
+  state: NE
+wootax/22988:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '68861'
+    location_type: postcode
+  name: BUFFALO
+  order: '0'
+  priority: '0'
+  rate: '5.5'
+  shipping: '1'
+  state: NE
+wootax/22989:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '68862'
+    location_type: postcode
+  name: ORD
+  order: '0'
+  priority: '0'
+  rate: '7.5'
+  shipping: '1'
+  state: NE
+wootax/22990:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '68863'
+    location_type: postcode
+  name: DAWSON
+  order: '0'
+  priority: '0'
+  rate: '5.5'
+  shipping: '1'
+  state: NE
+wootax/22991:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '68864'
+    location_type: postcode
+  name: PALMER
+  order: '0'
+  priority: '0'
+  rate: '5.5'
+  shipping: '1'
+  state: NE
+wootax/22992:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '68865'
+    location_type: postcode
+  name: HAMILTON
+  order: '0'
+  priority: '0'
+  rate: '5.5'
+  shipping: '1'
+  state: NE
+wootax/22993:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '68866'
+    location_type: postcode
+  name: BUFFALO
+  order: '0'
+  priority: '0'
+  rate: '5.5'
+  shipping: '1'
+  state: NE
+wootax/22994:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '68869'
+    location_type: postcode
+  name: RAVENNA
+  order: '0'
+  priority: '0'
+  rate: '7'
+  shipping: '1'
+  state: NE
+wootax/22995:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '68870'
+    location_type: postcode
+  name: BUFFALO
+  order: '0'
+  priority: '0'
+  rate: '5.5'
+  shipping: '1'
+  state: NE
+wootax/22996:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '68871'
+    location_type: postcode
+  name: SHERMAN
+  order: '0'
+  priority: '0'
+  rate: '5.5'
+  shipping: '1'
+  state: NE
+wootax/22997:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '68872'
+    location_type: postcode
+  name: HOWARD
+  order: '0'
+  priority: '0'
+  rate: '5.5'
+  shipping: '1'
+  state: NE
+wootax/22998:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '68873'
+    location_type: postcode
+  name: SAINT PAUL
+  order: '0'
+  priority: '0'
+  rate: '6.5'
+  shipping: '1'
+  state: NE
+wootax/22999:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '68874'
+    location_type: postcode
+  name: SARGENT
+  order: '0'
+  priority: '0'
+  rate: '7.5'
+  shipping: '1'
+  state: NE
+wootax/23000:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '68875'
+    location_type: postcode
+  name: GREELEY
+  order: '0'
+  priority: '0'
+  rate: '5.5'
+  shipping: '1'
+  state: NE
+wootax/23001:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '68876'
+    location_type: postcode
+  name: SHELTON
+  order: '0'
+  priority: '0'
+  rate: '5.5'
+  shipping: '1'
+  state: NE
+wootax/23002:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '68878'
+    location_type: postcode
+  name: SUMNER
+  order: '0'
+  priority: '0'
+  rate: '5.5'
+  shipping: '1'
+  state: NE
+wootax/23003:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '68879'
+    location_type: postcode
+  name: LOUP
+  order: '0'
+  priority: '0'
+  rate: '5.5'
+  shipping: '1'
+  state: NE
+wootax/23004:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '68881'
+    location_type: postcode
+  name: CUSTER
+  order: '0'
+  priority: '0'
+  rate: '5.5'
+  shipping: '1'
+  state: NE
+wootax/23005:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '68882'
+    location_type: postcode
+  name: WOLBACH
+  order: '0'
+  priority: '0'
+  rate: '5.5'
+  shipping: '1'
+  state: NE
+wootax/23006:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '68883'
+    location_type: postcode
+  name: HALL
+  order: '0'
+  priority: '0'
+  rate: '5.5'
+  shipping: '1'
+  state: NE
+wootax/23007:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '68901'
+    location_type: postcode
+  name: HASTINGS
+  order: '0'
+  priority: '0'
+  rate: '7'
+  shipping: '1'
+  state: NE
+wootax/23008:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '68902'
+    location_type: postcode
+  name: HASTINGS
+  order: '0'
+  priority: '0'
+  rate: '7'
+  shipping: '1'
+  state: NE
+wootax/23009:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '68920'
+    location_type: postcode
+  name: ALMA
+  order: '0'
+  priority: '0'
+  rate: '7.5'
+  shipping: '1'
+  state: NE
+wootax/23010:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '68922'
+    location_type: postcode
+  name: ARAPAHOE
+  order: '0'
+  priority: '0'
+  rate: '6.5'
+  shipping: '1'
+  state: NE
+wootax/23011:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '68923'
+    location_type: postcode
+  name: ATLANTA
+  order: '0'
+  priority: '0'
+  rate: '5.5'
+  shipping: '1'
+  state: NE
+wootax/23012:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '68924'
+    location_type: postcode
+  name: KEARNEY
+  order: '0'
+  priority: '0'
+  rate: '5.5'
+  shipping: '1'
+  state: NE
+wootax/23013:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '68925'
+    location_type: postcode
+  name: ADAMS
+  order: '0'
+  priority: '0'
+  rate: '5.5'
+  shipping: '1'
+  state: NE
+wootax/23014:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '68926'
+    location_type: postcode
+  name: BEAVER CITY
+  order: '0'
+  priority: '0'
+  rate: '6.5'
+  shipping: '1'
+  state: NE
+wootax/23015:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '68927'
+    location_type: postcode
+  name: BERTRAND
+  order: '0'
+  priority: '0'
+  rate: '6.5'
+  shipping: '1'
+  state: NE
+wootax/23016:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '68928'
+    location_type: postcode
+  name: WEBSTER
+  order: '0'
+  priority: '0'
+  rate: '5.5'
+  shipping: '1'
+  state: NE
+wootax/23017:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '68929'
+    location_type: postcode
+  name: BLOOMINGTON
+  order: '0'
+  priority: '0'
+  rate: '5.5'
+  shipping: '1'
+  state: NE
+wootax/23018:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '68930'
+    location_type: postcode
+  name: BLUE HILL
+  order: '0'
+  priority: '0'
+  rate: '7'
+  shipping: '1'
+  state: NE
+wootax/23019:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '68932'
+    location_type: postcode
+  name: CAMPBELL
+  order: '0'
+  priority: '0'
+  rate: '5.5'
+  shipping: '1'
+  state: NE
+wootax/23020:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '68933'
+    location_type: postcode
+  name: CLAY CENTER
+  order: '0'
+  priority: '0'
+  rate: '7'
+  shipping: '1'
+  state: NE
+wootax/23021:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '68934'
+    location_type: postcode
+  name: NUCKOLLS
+  order: '0'
+  priority: '0'
+  rate: '5.5'
+  shipping: '1'
+  state: NE
+wootax/23022:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '68935'
+    location_type: postcode
+  name: EDGAR
+  order: '0'
+  priority: '0'
+  rate: '6.5'
+  shipping: '1'
+  state: NE
+wootax/23023:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '68936'
+    location_type: postcode
+  name: FURNAS
+  order: '0'
+  priority: '0'
+  rate: '5.5'
+  shipping: '1'
+  state: NE
+wootax/23024:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '68937'
+    location_type: postcode
+  name: GOSPER
+  order: '0'
+  priority: '0'
+  rate: '5.5'
+  shipping: '1'
+  state: NE
+wootax/23025:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '68938'
+    location_type: postcode
+  name: FAIRFIELD
+  order: '0'
+  priority: '0'
+  rate: '7'
+  shipping: '1'
+  state: NE
+wootax/23026:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '68939'
+    location_type: postcode
+  name: FRANKLIN
+  order: '0'
+  priority: '0'
+  rate: '6.5'
+  shipping: '1'
+  state: NE
+wootax/23027:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '68940'
+    location_type: postcode
+  name: PHELPS
+  order: '0'
+  priority: '0'
+  rate: '5.5'
+  shipping: '1'
+  state: NE
+wootax/23028:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '68941'
+    location_type: postcode
+  name: ADAMS
+  order: '0'
+  priority: '0'
+  rate: '5.5'
+  shipping: '1'
+  state: NE
+wootax/23029:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '68942'
+    location_type: postcode
+  name: WEBSTER
+  order: '0'
+  priority: '0'
+  rate: '5.5'
+  shipping: '1'
+  state: NE
+wootax/23030:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '68943'
+    location_type: postcode
+  name: NUCKOLLS
+  order: '0'
+  priority: '0'
+  rate: '5.5'
+  shipping: '1'
+  state: NE
+wootax/23031:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '68944'
+    location_type: postcode
+  name: HARVARD
+  order: '0'
+  priority: '0'
+  rate: '6.5'
+  shipping: '1'
+  state: NE
+wootax/23032:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '68945'
+    location_type: postcode
+  name: KEARNEY
+  order: '0'
+  priority: '0'
+  rate: '5.5'
+  shipping: '1'
+  state: NE
+wootax/23033:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '68946'
+    location_type: postcode
+  name: FURNAS
+  order: '0'
+  priority: '0'
+  rate: '5.5'
+  shipping: '1'
+  state: NE
+wootax/23034:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '68947'
+    location_type: postcode
+  name: FRANKLIN
+  order: '0'
+  priority: '0'
+  rate: '5.5'
+  shipping: '1'
+  state: NE
+wootax/23035:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '68948'
+    location_type: postcode
+  name: FURNAS
+  order: '0'
+  priority: '0'
+  rate: '5.5'
+  shipping: '1'
+  state: NE
+wootax/23036:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '68949'
+    location_type: postcode
+  name: HOLDREGE
+  order: '0'
+  priority: '0'
+  rate: '7'
+  shipping: '1'
+  state: NE
+wootax/23037:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '68950'
+    location_type: postcode
+  name: ADAMS
+  order: '0'
+  priority: '0'
+  rate: '5.5'
+  shipping: '1'
+  state: NE
+wootax/23038:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '68952'
+    location_type: postcode
+  name: WEBSTER
+  order: '0'
+  priority: '0'
+  rate: '5.5'
+  shipping: '1'
+  state: NE
+wootax/23039:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '68954'
+    location_type: postcode
+  name: CLAY
+  order: '0'
+  priority: '0'
+  rate: '5.5'
+  shipping: '1'
+  state: NE
+wootax/23040:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '68955'
+    location_type: postcode
+  name: ADAMS
+  order: '0'
+  priority: '0'
+  rate: '5.5'
+  shipping: '1'
+  state: NE
+wootax/23041:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '68956'
+    location_type: postcode
+  name: KENESAW
+  order: '0'
+  priority: '0'
+  rate: '5.5'
+  shipping: '1'
+  state: NE
+wootax/23042:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '68957'
+    location_type: postcode
+  name: NUCKOLLS
+  order: '0'
+  priority: '0'
+  rate: '5.5'
+  shipping: '1'
+  state: NE
+wootax/23043:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '68958'
+    location_type: postcode
+  name: PHELPS
+  order: '0'
+  priority: '0'
+  rate: '5.5'
+  shipping: '1'
+  state: NE
+wootax/23044:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '68959'
+    location_type: postcode
+  name: MINDEN
+  order: '0'
+  priority: '0'
+  rate: '7.5'
+  shipping: '1'
+  state: NE
+wootax/23045:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '68960'
+    location_type: postcode
+  name: NAPONEE
+  order: '0'
+  priority: '0'
+  rate: '5.5'
+  shipping: '1'
+  state: NE
+wootax/23046:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '68961'
+    location_type: postcode
+  name: NELSON
+  order: '0'
+  priority: '0'
+  rate: '6.5'
+  shipping: '1'
+  state: NE
+wootax/23047:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '68964'
+    location_type: postcode
+  name: OAK
+  order: '0'
+  priority: '0'
+  rate: '5.5'
+  shipping: '1'
+  state: NE
+wootax/23048:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '68966'
+    location_type: postcode
+  name: ORLEANS
+  order: '0'
+  priority: '0'
+  rate: '5.5'
+  shipping: '1'
+  state: NE
+wootax/23049:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '68967'
+    location_type: postcode
+  name: HARLAN
+  order: '0'
+  priority: '0'
+  rate: '5.5'
+  shipping: '1'
+  state: NE
+wootax/23050:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '68969'
+    location_type: postcode
+  name: RAGAN
+  order: '0'
+  priority: '0'
+  rate: '5.5'
+  shipping: '1'
+  state: NE
+wootax/23051:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '68970'
+    location_type: postcode
+  name: RED CLOUD
+  order: '0'
+  priority: '0'
+  rate: '7'
+  shipping: '1'
+  state: NE
+wootax/23052:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '68971'
+    location_type: postcode
+  name: HARLAN
+  order: '0'
+  priority: '0'
+  rate: '5.5'
+  shipping: '1'
+  state: NE
+wootax/23053:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '68972'
+    location_type: postcode
+  name: FRANKLIN
+  order: '0'
+  priority: '0'
+  rate: '5.5'
+  shipping: '1'
+  state: NE
+wootax/23054:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '68973'
+    location_type: postcode
+  name: ADAMS
+  order: '0'
+  priority: '0'
+  rate: '5.5'
+  shipping: '1'
+  state: NE
+wootax/23055:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '68974'
+    location_type: postcode
+  name: RUSKIN
+  order: '0'
+  priority: '0'
+  rate: '5.5'
+  shipping: '1'
+  state: NE
+wootax/23056:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '68975'
+    location_type: postcode
+  name: CLAY
+  order: '0'
+  priority: '0'
+  rate: '5.5'
+  shipping: '1'
+  state: NE
+wootax/23057:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '68976'
+    location_type: postcode
+  name: GOSPER
+  order: '0'
+  priority: '0'
+  rate: '5.5'
+  shipping: '1'
+  state: NE
+wootax/23058:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '68977'
+    location_type: postcode
+  name: HARLAN
+  order: '0'
+  priority: '0'
+  rate: '5.5'
+  shipping: '1'
+  state: NE
+wootax/23059:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '68978'
+    location_type: postcode
+  name: SUPERIOR
+  order: '0'
+  priority: '0'
+  rate: '6.5'
+  shipping: '1'
+  state: NE
+wootax/23060:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '68979'
+    location_type: postcode
+  name: SUTTON
+  order: '0'
+  priority: '0'
+  rate: '7'
+  shipping: '1'
+  state: NE
+wootax/23061:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '68980'
+    location_type: postcode
+  name: ADAMS
+  order: '0'
+  priority: '0'
+  rate: '5.5'
+  shipping: '1'
+  state: NE
+wootax/23062:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '68981'
+    location_type: postcode
+  name: FRANKLIN
+  order: '0'
+  priority: '0'
+  rate: '5.5'
+  shipping: '1'
+  state: NE
+wootax/23063:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '68982'
+    location_type: postcode
+  name: WILCOX
+  order: '0'
+  priority: '0'
+  rate: '5.5'
+  shipping: '1'
+  state: NE
+wootax/23064:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '69001'
+    location_type: postcode
+  name: MCCOOK
+  order: '0'
+  priority: '0'
+  rate: '7'
+  shipping: '1'
+  state: NE
+wootax/23065:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '69020'
+    location_type: postcode
+  name: BARTLEY
+  order: '0'
+  priority: '0'
+  rate: '5.5'
+  shipping: '1'
+  state: NE
+wootax/23066:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '69021'
+    location_type: postcode
+  name: BENKELMAN
+  order: '0'
+  priority: '0'
+  rate: '7'
+  shipping: '1'
+  state: NE
+wootax/23067:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '69022'
+    location_type: postcode
+  name: CAMBRIDGE
+  order: '0'
+  priority: '0'
+  rate: '7'
+  shipping: '1'
+  state: NE
+wootax/23068:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '69023'
+    location_type: postcode
+  name: CHASE
+  order: '0'
+  priority: '0'
+  rate: '5.5'
+  shipping: '1'
+  state: NE
+wootax/23069:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '69024'
+    location_type: postcode
+  name: CULBERTSON
+  order: '0'
+  priority: '0'
+  rate: '5.5'
+  shipping: '1'
+  state: NE
+wootax/23070:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '69025'
+    location_type: postcode
+  name: CURTIS
+  order: '0'
+  priority: '0'
+  rate: '6.5'
+  shipping: '1'
+  state: NE
+wootax/23071:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '69026'
+    location_type: postcode
+  name: DANBURY
+  order: '0'
+  priority: '0'
+  rate: '5.5'
+  shipping: '1'
+  state: NE
+wootax/23072:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '69027'
+    location_type: postcode
+  name: CHASE
+  order: '0'
+  priority: '0'
+  rate: '5.5'
+  shipping: '1'
+  state: NE
+wootax/23073:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '69028'
+    location_type: postcode
+  name: EUSTIS
+  order: '0'
+  priority: '0'
+  rate: '6.5'
+  shipping: '1'
+  state: NE
+wootax/23074:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '69029'
+    location_type: postcode
+  name: FARNAM
+  order: '0'
+  priority: '0'
+  rate: '6.5'
+  shipping: '1'
+  state: NE
+wootax/23075:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '69030'
+    location_type: postcode
+  name: DUNDY
+  order: '0'
+  priority: '0'
+  rate: '5.5'
+  shipping: '1'
+  state: NE
+wootax/23076:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '69032'
+    location_type: postcode
+  name: HAYES CENTER
+  order: '0'
+  priority: '0'
+  rate: '5.5'
+  shipping: '1'
+  state: NE
+wootax/23077:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '69033'
+    location_type: postcode
+  name: IMPERIAL
+  order: '0'
+  priority: '0'
+  rate: '6.5'
+  shipping: '1'
+  state: NE
+wootax/23078:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '69034'
+    location_type: postcode
+  name: INDIANOLA
+  order: '0'
+  priority: '0'
+  rate: '5.5'
+  shipping: '1'
+  state: NE
+wootax/23079:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '69036'
+    location_type: postcode
+  name: LEBANON
+  order: '0'
+  priority: '0'
+  rate: '5.5'
+  shipping: '1'
+  state: NE
+wootax/23080:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '69037'
+    location_type: postcode
+  name: DUNDY
+  order: '0'
+  priority: '0'
+  rate: '5.5'
+  shipping: '1'
+  state: NE
+wootax/23081:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '69038'
+    location_type: postcode
+  name: MAYWOOD
+  order: '0'
+  priority: '0'
+  rate: '7'
+  shipping: '1'
+  state: NE
+wootax/23082:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '69039'
+    location_type: postcode
+  name: MOOREFIELD
+  order: '0'
+  priority: '0'
+  rate: '5.5'
+  shipping: '1'
+  state: NE
+wootax/23083:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '69040'
+    location_type: postcode
+  name: HAYES
+  order: '0'
+  priority: '0'
+  rate: '5.5'
+  shipping: '1'
+  state: NE
+wootax/23084:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '69041'
+    location_type: postcode
+  name: DUNDY
+  order: '0'
+  priority: '0'
+  rate: '5.5'
+  shipping: '1'
+  state: NE
+wootax/23085:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '69042'
+    location_type: postcode
+  name: STOCKVILLE
+  order: '0'
+  priority: '0'
+  rate: '5.5'
+  shipping: '1'
+  state: NE
+wootax/23086:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '69043'
+    location_type: postcode
+  name: STRATTON
+  order: '0'
+  priority: '0'
+  rate: '5.5'
+  shipping: '1'
+  state: NE
+wootax/23087:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '69044'
+    location_type: postcode
+  name: TRENTON
+  order: '0'
+  priority: '0'
+  rate: '5.5'
+  shipping: '1'
+  state: NE
+wootax/23088:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '69045'
+    location_type: postcode
+  name: WAUNETA
+  order: '0'
+  priority: '0'
+  rate: '6.5'
+  shipping: '1'
+  state: NE
+wootax/23089:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '69046'
+    location_type: postcode
+  name: FURNAS
+  order: '0'
+  priority: '0'
+  rate: '5.5'
+  shipping: '1'
+  state: NE
+wootax/23090:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '69101'
+    location_type: postcode
+  name: NORTH PLATTE
+  order: '0'
+  priority: '0'
+  rate: '7'
+  shipping: '1'
+  state: NE
+wootax/23091:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '69103'
+    location_type: postcode
+  name: NORTH PLATTE
+  order: '0'
+  priority: '0'
+  rate: '7'
+  shipping: '1'
+  state: NE
+wootax/23092:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '69120'
+    location_type: postcode
+  name: ARNOLD
+  order: '0'
+  priority: '0'
+  rate: '6.5'
+  shipping: '1'
+  state: NE
+wootax/23093:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '69121'
+    location_type: postcode
+  name: ARTHUR
+  order: '0'
+  priority: '0'
+  rate: '5.5'
+  shipping: '1'
+  state: NE
+wootax/23094:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '69122'
+    location_type: postcode
+  name: DEUEL
+  order: '0'
+  priority: '0'
+  rate: '5.5'
+  shipping: '1'
+  state: NE
+wootax/23095:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '69123'
+    location_type: postcode
+  name: LINCOLN
+  order: '0'
+  priority: '0'
+  rate: '5.5'
+  shipping: '1'
+  state: NE
+wootax/23096:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '69125'
+    location_type: postcode
+  name: MORRILL
+  order: '0'
+  priority: '0'
+  rate: '5.5'
+  shipping: '1'
+  state: NE
+wootax/23097:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '69127'
+    location_type: postcode
+  name: KEITH
+  order: '0'
+  priority: '0'
+  rate: '5.5'
+  shipping: '1'
+  state: NE
+wootax/23098:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '69128'
+    location_type: postcode
+  name: KIMBALL
+  order: '0'
+  priority: '0'
+  rate: '5.5'
+  shipping: '1'
+  state: NE
+wootax/23099:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '69129'
+    location_type: postcode
+  name: CHAPPELL
+  order: '0'
+  priority: '0'
+  rate: '7.5'
+  shipping: '1'
+  state: NE
+wootax/23100:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '69130'
+    location_type: postcode
+  name: COZAD
+  order: '0'
+  priority: '0'
+  rate: '7'
+  shipping: '1'
+  state: NE
+wootax/23101:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '69131'
+    location_type: postcode
+  name: CHEYENNE
+  order: '0'
+  priority: '0'
+  rate: '5.5'
+  shipping: '1'
+  state: NE
+wootax/23102:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '69132'
+    location_type: postcode
+  name: LINCOLN
+  order: '0'
+  priority: '0'
+  rate: '5.5'
+  shipping: '1'
+  state: NE
+wootax/23103:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '69133'
+    location_type: postcode
+  name: KIMBALL
+  order: '0'
+  priority: '0'
+  rate: '5.5'
+  shipping: '1'
+  state: NE
+wootax/23104:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '69134'
+    location_type: postcode
+  name: PERKINS
+  order: '0'
+  priority: '0'
+  rate: '5.5'
+  shipping: '1'
+  state: NE
+wootax/23105:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '69138'
+    location_type: postcode
+  name: GOTHENBURG
+  order: '0'
+  priority: '0'
+  rate: '7'
+  shipping: '1'
+  state: NE
+wootax/23106:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '69140'
+    location_type: postcode
+  name: GRANT
+  order: '0'
+  priority: '0'
+  rate: '6.5'
+  shipping: '1'
+  state: NE
+wootax/23107:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '69141'
+    location_type: postcode
+  name: CHEYENNE
+  order: '0'
+  priority: '0'
+  rate: '5.5'
+  shipping: '1'
+  state: NE
+wootax/23108:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '69142'
+    location_type: postcode
+  name: THOMAS
+  order: '0'
+  priority: '0'
+  rate: '5.5'
+  shipping: '1'
+  state: NE
+wootax/23109:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '69143'
+    location_type: postcode
+  name: LINCOLN
+  order: '0'
+  priority: '0'
+  rate: '5.5'
+  shipping: '1'
+  state: NE
+wootax/23110:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '69144'
+    location_type: postcode
+  name: KEITH
+  order: '0'
+  priority: '0'
+  rate: '5.5'
+  shipping: '1'
+  state: NE
+wootax/23111:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '69145'
+    location_type: postcode
+  name: KIMBALL
+  order: '0'
+  priority: '0'
+  rate: '7'
+  shipping: '1'
+  state: NE
+wootax/23112:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '69146'
+    location_type: postcode
+  name: KEITH
+  order: '0'
+  priority: '0'
+  rate: '5.5'
+  shipping: '1'
+  state: NE
+wootax/23113:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '69147'
+    location_type: postcode
+  name: GARDEN
+  order: '0'
+  priority: '0'
+  rate: '5.5'
+  shipping: '1'
+  state: NE
+wootax/23114:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '69148'
+    location_type: postcode
+  name: GARDEN
+  order: '0'
+  priority: '0'
+  rate: '5.5'
+  shipping: '1'
+  state: NE
+wootax/23115:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '69149'
+    location_type: postcode
+  name: CHEYENNE
+  order: '0'
+  priority: '0'
+  rate: '5.5'
+  shipping: '1'
+  state: NE
+wootax/23116:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '69150'
+    location_type: postcode
+  name: PERKINS
+  order: '0'
+  priority: '0'
+  rate: '5.5'
+  shipping: '1'
+  state: NE
+wootax/23117:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '69151'
+    location_type: postcode
+  name: LINCOLN
+  order: '0'
+  priority: '0'
+  rate: '5.5'
+  shipping: '1'
+  state: NE
+wootax/23118:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '69152'
+    location_type: postcode
+  name: HOOKER
+  order: '0'
+  priority: '0'
+  rate: '5.5'
+  shipping: '1'
+  state: NE
+wootax/23119:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '69153'
+    location_type: postcode
+  name: OGALLALA
+  order: '0'
+  priority: '0'
+  rate: '7'
+  shipping: '1'
+  state: NE
+wootax/23120:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '69154'
+    location_type: postcode
+  name: OSHKOSH
+  order: '0'
+  priority: '0'
+  rate: '7.5'
+  shipping: '1'
+  state: NE
+wootax/23121:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '69155'
+    location_type: postcode
+  name: KEITH
+  order: '0'
+  priority: '0'
+  rate: '5.5'
+  shipping: '1'
+  state: NE
+wootax/23122:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '69156'
+    location_type: postcode
+  name: CHEYENNE
+  order: '0'
+  priority: '0'
+  rate: '5.5'
+  shipping: '1'
+  state: NE
+wootax/23123:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '69157'
+    location_type: postcode
+  name: BLAINE
+  order: '0'
+  priority: '0'
+  rate: '5.5'
+  shipping: '1'
+  state: NE
+wootax/23124:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '69161'
+    location_type: postcode
+  name: THOMAS
+  order: '0'
+  priority: '0'
+  rate: '5.5'
+  shipping: '1'
+  state: NE
+wootax/23125:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '69162'
+    location_type: postcode
+  name: SIDNEY
+  order: '0'
+  priority: '0'
+  rate: '7.5'
+  shipping: '1'
+  state: NE
+wootax/23126:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '69163'
+    location_type: postcode
+  name: STAPLETON
+  order: '0'
+  priority: '0'
+  rate: '5.5'
+  shipping: '1'
+  state: NE
+wootax/23127:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '69165'
+    location_type: postcode
+  name: SUTHERLAND
+  order: '0'
+  priority: '0'
+  rate: '5.5'
+  shipping: '1'
+  state: NE
+wootax/23128:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '69166'
+    location_type: postcode
+  name: THOMAS
+  order: '0'
+  priority: '0'
+  rate: '5.5'
+  shipping: '1'
+  state: NE
+wootax/23129:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '69167'
+    location_type: postcode
+  name: MCPHERSON
+  order: '0'
+  priority: '0'
+  rate: '5.5'
+  shipping: '1'
+  state: NE
+wootax/23130:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '69168'
+    location_type: postcode
+  name: VENANGO
+  order: '0'
+  priority: '0'
+  rate: '5.5'
+  shipping: '1'
+  state: NE
+wootax/23131:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '69169'
+    location_type: postcode
+  name: WALLACE
+  order: '0'
+  priority: '0'
+  rate: '5.5'
+  shipping: '1'
+  state: NE
+wootax/23132:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '69170'
+    location_type: postcode
+  name: LINCOLN
+  order: '0'
+  priority: '0'
+  rate: '5.5'
+  shipping: '1'
+  state: NE
+wootax/23133:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '69171'
+    location_type: postcode
+  name: DAWSON
+  order: '0'
+  priority: '0'
+  rate: '5.5'
+  shipping: '1'
+  state: NE
+wootax/23134:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '69201'
+    location_type: postcode
+  name: VALENTINE
+  order: '0'
+  priority: '0'
+  rate: '7'
+  shipping: '1'
+  state: NE
+wootax/23135:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '69210'
+    location_type: postcode
+  name: AINSWORTH
+  order: '0'
+  priority: '0'
+  rate: '7'
+  shipping: '1'
+  state: NE
+wootax/23136:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '69211'
+    location_type: postcode
+  name: CODY
+  order: '0'
+  priority: '0'
+  rate: '5.5'
+  shipping: '1'
+  state: NE
+wootax/23137:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '69212'
+    location_type: postcode
+  name: CHERRY
+  order: '0'
+  priority: '0'
+  rate: '5.5'
+  shipping: '1'
+  state: NE
+wootax/23138:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '69214'
+    location_type: postcode
+  name: JOHNSTOWN
+  order: '0'
+  priority: '0'
+  rate: '5.5'
+  shipping: '1'
+  state: NE
+wootax/23139:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '69216'
+    location_type: postcode
+  name: KILGORE
+  order: '0'
+  priority: '0'
+  rate: '5.5'
+  shipping: '1'
+  state: NE
+wootax/23140:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '69217'
+    location_type: postcode
+  name: BROWN
+  order: '0'
+  priority: '0'
+  rate: '5.5'
+  shipping: '1'
+  state: NE
+wootax/23141:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '69218'
+    location_type: postcode
+  name: MERRIMAN
+  order: '0'
+  priority: '0'
+  rate: '5.5'
+  shipping: '1'
+  state: NE
+wootax/23142:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '69219'
+    location_type: postcode
+  name: NENZEL
+  order: '0'
+  priority: '0'
+  rate: '5.5'
+  shipping: '1'
+  state: NE
+wootax/23143:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '69220'
+    location_type: postcode
+  name: KEYA PAHA
+  order: '0'
+  priority: '0'
+  rate: '5.5'
+  shipping: '1'
+  state: NE
+wootax/23144:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '69221'
+    location_type: postcode
+  name: WOOD LAKE
+  order: '0'
+  priority: '0'
+  rate: '5.5'
+  shipping: '1'
+  state: NE
+wootax/23145:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '69301'
+    location_type: postcode
+  name: ALLIANCE
+  order: '0'
+  priority: '0'
+  rate: '7'
+  shipping: '1'
+  state: NE
+wootax/23146:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '69331'
+    location_type: postcode
+  name: MORRILL
+  order: '0'
+  priority: '0'
+  rate: '5.5'
+  shipping: '1'
+  state: NE
+wootax/23147:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '69333'
+    location_type: postcode
+  name: GRANT
+  order: '0'
+  priority: '0'
+  rate: '5.5'
+  shipping: '1'
+  state: NE
+wootax/23148:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '69334'
+    location_type: postcode
+  name: MORRILL
+  order: '0'
+  priority: '0'
+  rate: '5.5'
+  shipping: '1'
+  state: NE
+wootax/23149:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '69335'
+    location_type: postcode
+  name: SHERIDAN
+  order: '0'
+  priority: '0'
+  rate: '5.5'
+  shipping: '1'
+  state: NE
+wootax/23150:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '69336'
+    location_type: postcode
+  name: MORRILL
+  order: '0'
+  priority: '0'
+  rate: '5.5'
+  shipping: '1'
+  state: NE
+wootax/23151:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '69337'
+    location_type: postcode
+  name: CHADRON
+  order: '0'
+  priority: '0'
+  rate: '7.5'
+  shipping: '1'
+  state: NE
+wootax/23152:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '69339'
+    location_type: postcode
+  name: CRAWFORD
+  order: '0'
+  priority: '0'
+  rate: '7'
+  shipping: '1'
+  state: NE
+wootax/23153:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '69340'
+    location_type: postcode
+  name: SHERIDAN
+  order: '0'
+  priority: '0'
+  rate: '5.5'
+  shipping: '1'
+  state: NE
+wootax/23154:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '69341'
+    location_type: postcode
+  name: GERING
+  order: '0'
+  priority: '0'
+  rate: '7'
+  shipping: '1'
+  state: NE
+wootax/23155:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '69343'
+    location_type: postcode
+  name: GORDON
+  order: '0'
+  priority: '0'
+  rate: '6.5'
+  shipping: '1'
+  state: NE
+wootax/23156:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '69345'
+    location_type: postcode
+  name: BANNER
+  order: '0'
+  priority: '0'
+  rate: '5.5'
+  shipping: '1'
+  state: NE
+wootax/23157:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '69346'
+    location_type: postcode
+  name: SIOUX
+  order: '0'
+  priority: '0'
+  rate: '5.5'
+  shipping: '1'
+  state: NE
+wootax/23158:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '69347'
+    location_type: postcode
+  name: SHERIDAN
+  order: '0'
+  priority: '0'
+  rate: '5.5'
+  shipping: '1'
+  state: NE
+wootax/23159:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '69348'
+    location_type: postcode
+  name: BOX BUTTE
+  order: '0'
+  priority: '0'
+  rate: '5.5'
+  shipping: '1'
+  state: NE
+wootax/23160:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '69350'
+    location_type: postcode
+  name: GRANT
+  order: '0'
+  priority: '0'
+  rate: '5.5'
+  shipping: '1'
+  state: NE
+wootax/23161:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '69351'
+    location_type: postcode
+  name: SHERIDAN
+  order: '0'
+  priority: '0'
+  rate: '5.5'
+  shipping: '1'
+  state: NE
+wootax/23162:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '69352'
+    location_type: postcode
+  name: SCOTTS BLUFF
+  order: '0'
+  priority: '0'
+  rate: '5.5'
+  shipping: '1'
+  state: NE
+wootax/23163:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '69353'
+    location_type: postcode
+  name: MCGREW
+  order: '0'
+  priority: '0'
+  rate: '5.5'
+  shipping: '1'
+  state: NE
+wootax/23164:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '69354'
+    location_type: postcode
+  name: DAWES
+  order: '0'
+  priority: '0'
+  rate: '5.5'
+  shipping: '1'
+  state: NE
+wootax/23165:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '69355'
+    location_type: postcode
+  name: MELBETA
+  order: '0'
+  priority: '0'
+  rate: '5.5'
+  shipping: '1'
+  state: NE
+wootax/23166:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '69356'
+    location_type: postcode
+  name: SCOTTS BLUFF
+  order: '0'
+  priority: '0'
+  rate: '5.5'
+  shipping: '1'
+  state: NE
+wootax/23167:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '69357'
+    location_type: postcode
+  name: SCOTTS BLUFF
+  order: '0'
+  priority: '0'
+  rate: '5.5'
+  shipping: '1'
+  state: NE
+wootax/23168:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '69358'
+    location_type: postcode
+  name: SCOTTS BLUFF
+  order: '0'
+  priority: '0'
+  rate: '5.5'
+  shipping: '1'
+  state: NE
+wootax/23169:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '69360'
+    location_type: postcode
+  name: SHERIDAN
+  order: '0'
+  priority: '0'
+  rate: '5.5'
+  shipping: '1'
+  state: NE
+wootax/23170:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '69361'
+    location_type: postcode
+  name: SCOTTSBLUFF
+  order: '0'
+  priority: '0'
+  rate: '7'
+  shipping: '1'
+  state: NE
+wootax/23171:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '69365'
+    location_type: postcode
+  name: SHERIDAN
+  order: '0'
+  priority: '0'
+  rate: '5.5'
+  shipping: '1'
+  state: NE
+wootax/23172:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '69366'
+    location_type: postcode
+  name: GRANT
+  order: '0'
+  priority: '0'
+  rate: '5.5'
+  shipping: '1'
+  state: NE
+wootax/23173:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '69367'
+    location_type: postcode
+  name: DAWES
+  order: '0'
+  priority: '0'
+  rate: '5.5'
+  shipping: '1'
+  state: NE

@@ -1,0 +1,2483 @@
+wootax/40155:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '82001'
+    location_type: postcode
+  name: CHEYENNE
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '0'
+  state: WY
+wootax/40156:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '82002'
+    location_type: postcode
+  name: CHEYENNE
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '0'
+  state: WY
+wootax/40157:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '82003'
+    location_type: postcode
+  name: CHEYENNE
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '0'
+  state: WY
+wootax/40158:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '82005'
+    location_type: postcode
+  name: LARAMIE COUNTY
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '0'
+  state: WY
+wootax/40159:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '82006'
+    location_type: postcode
+  name: CHEYENNE
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '0'
+  state: WY
+wootax/40160:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '82007'
+    location_type: postcode
+  name: LARAMIE COUNTY
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '0'
+  state: WY
+wootax/40161:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '82009'
+    location_type: postcode
+  name: CHEYENNE
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '0'
+  state: WY
+wootax/40162:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '82010'
+    location_type: postcode
+  name: CHEYENNE
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '0'
+  state: WY
+wootax/40163:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '82050'
+    location_type: postcode
+  name: LARAMIE COUNTY
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '0'
+  state: WY
+wootax/40164:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '82051'
+    location_type: postcode
+  name: ALBANY COUNTY
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '0'
+  state: WY
+wootax/40165:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '82052'
+    location_type: postcode
+  name: ALBANY COUNTY
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '0'
+  state: WY
+wootax/40166:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '82053'
+    location_type: postcode
+  name: LARAMIE COUNTY
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '0'
+  state: WY
+wootax/40167:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '82054'
+    location_type: postcode
+  name: LARAMIE COUNTY
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '0'
+  state: WY
+wootax/40168:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '82055'
+    location_type: postcode
+  name: ALBANY COUNTY
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '0'
+  state: WY
+wootax/40169:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '82058'
+    location_type: postcode
+  name: ALBANY COUNTY
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '0'
+  state: WY
+wootax/40170:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '82059'
+    location_type: postcode
+  name: LARAMIE COUNTY
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '0'
+  state: WY
+wootax/40171:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '82060'
+    location_type: postcode
+  name: LARAMIE COUNTY
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '0'
+  state: WY
+wootax/40172:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '82061'
+    location_type: postcode
+  name: LARAMIE COUNTY
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '0'
+  state: WY
+wootax/40173:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '82063'
+    location_type: postcode
+  name: ALBANY COUNTY
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '0'
+  state: WY
+wootax/40174:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '82070'
+    location_type: postcode
+  name: LARAMIE
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '0'
+  state: WY
+wootax/40175:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '82071'
+    location_type: postcode
+  name: LARAMIE
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '0'
+  state: WY
+wootax/40176:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '82072'
+    location_type: postcode
+  name: LARAMIE
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '0'
+  state: WY
+wootax/40177:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '82081'
+    location_type: postcode
+  name: LARAMIE COUNTY
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '0'
+  state: WY
+wootax/40178:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '82082'
+    location_type: postcode
+  name: LARAMIE COUNTY
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '0'
+  state: WY
+wootax/40179:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '82083'
+    location_type: postcode
+  name: ROCK RIVER
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '0'
+  state: WY
+wootax/40180:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '82084'
+    location_type: postcode
+  name: ALBANY COUNTY
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '0'
+  state: WY
+wootax/40181:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '82190'
+    location_type: postcode
+  name: TETON COUNTY
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '0'
+  state: WY
+wootax/40182:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '82201'
+    location_type: postcode
+  name: WHEATLAND
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '0'
+  state: WY
+wootax/40183:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '82210'
+    location_type: postcode
+  name: CHUGWATER
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '0'
+  state: WY
+wootax/40184:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '82212'
+    location_type: postcode
+  name: GOSHEN COUNTY
+  order: '0'
+  priority: '0'
+  rate: '5.25'
+  shipping: '0'
+  state: WY
+wootax/40185:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '82213'
+    location_type: postcode
+  name: GLENDO
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '0'
+  state: WY
+wootax/40186:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '82214'
+    location_type: postcode
+  name: GUERNSEY
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '0'
+  state: WY
+wootax/40187:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '82215'
+    location_type: postcode
+  name: HARTVILLE
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '0'
+  state: WY
+wootax/40188:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '82217'
+    location_type: postcode
+  name: GOSHEN COUNTY
+  order: '0'
+  priority: '0'
+  rate: '5.25'
+  shipping: '0'
+  state: WY
+wootax/40189:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '82218'
+    location_type: postcode
+  name: GOSHEN COUNTY
+  order: '0'
+  priority: '0'
+  rate: '5.25'
+  shipping: '0'
+  state: WY
+wootax/40190:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '82219'
+    location_type: postcode
+  name: GOSHEN COUNTY
+  order: '0'
+  priority: '0'
+  rate: '5.25'
+  shipping: '0'
+  state: WY
+wootax/40191:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '82221'
+    location_type: postcode
+  name: GOSHEN COUNTY
+  order: '0'
+  priority: '0'
+  rate: '5.25'
+  shipping: '0'
+  state: WY
+wootax/40192:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '82222'
+    location_type: postcode
+  name: NIOBRARA COUNTY
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '0'
+  state: WY
+wootax/40193:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '82223'
+    location_type: postcode
+  name: GOSHEN COUNTY
+  order: '0'
+  priority: '0'
+  rate: '5.25'
+  shipping: '0'
+  state: WY
+wootax/40194:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '82224'
+    location_type: postcode
+  name: CONVERSE COUNTY
+  order: '0'
+  priority: '0'
+  rate: '5'
+  shipping: '0'
+  state: WY
+wootax/40195:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '82225'
+    location_type: postcode
+  name: NIOBRARA COUNTY
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '0'
+  state: WY
+wootax/40196:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '82227'
+    location_type: postcode
+  name: NIOBRARA COUNTY
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '0'
+  state: WY
+wootax/40197:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '82229'
+    location_type: postcode
+  name: CONVERSE COUNTY
+  order: '0'
+  priority: '0'
+  rate: '5'
+  shipping: '0'
+  state: WY
+wootax/40198:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '82240'
+    location_type: postcode
+  name: TORRINGTON
+  order: '0'
+  priority: '0'
+  rate: '5.25'
+  shipping: '0'
+  state: WY
+wootax/40199:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '82242'
+    location_type: postcode
+  name: VAN TASSELL
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '0'
+  state: WY
+wootax/40200:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '82243'
+    location_type: postcode
+  name: GOSHEN COUNTY
+  order: '0'
+  priority: '0'
+  rate: '5.25'
+  shipping: '0'
+  state: WY
+wootax/40201:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '82244'
+    location_type: postcode
+  name: GOSHEN COUNTY
+  order: '0'
+  priority: '0'
+  rate: '5.25'
+  shipping: '0'
+  state: WY
+wootax/40202:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '82301'
+    location_type: postcode
+  name: RAWLINS
+  order: '0'
+  priority: '0'
+  rate: '5'
+  shipping: '0'
+  state: WY
+wootax/40203:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '82310'
+    location_type: postcode
+  name: FREMONT COUNTY
+  order: '0'
+  priority: '0'
+  rate: '5'
+  shipping: '0'
+  state: WY
+wootax/40204:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '82321'
+    location_type: postcode
+  name: BAGGS
+  order: '0'
+  priority: '0'
+  rate: '5'
+  shipping: '0'
+  state: WY
+wootax/40205:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '82322'
+    location_type: postcode
+  name: BAIROIL
+  order: '0'
+  priority: '0'
+  rate: '5'
+  shipping: '0'
+  state: WY
+wootax/40206:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '82323'
+    location_type: postcode
+  name: DIXON
+  order: '0'
+  priority: '0'
+  rate: '5'
+  shipping: '0'
+  state: WY
+wootax/40207:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '82324'
+    location_type: postcode
+  name: ELK MOUNTAIN
+  order: '0'
+  priority: '0'
+  rate: '5'
+  shipping: '0'
+  state: WY
+wootax/40208:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '82325'
+    location_type: postcode
+  name: ENCAMPMENT
+  order: '0'
+  priority: '0'
+  rate: '5'
+  shipping: '0'
+  state: WY
+wootax/40209:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '82327'
+    location_type: postcode
+  name: HANNA
+  order: '0'
+  priority: '0'
+  rate: '5'
+  shipping: '0'
+  state: WY
+wootax/40210:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '82329'
+    location_type: postcode
+  name: MEDICINE BOW
+  order: '0'
+  priority: '0'
+  rate: '5'
+  shipping: '0'
+  state: WY
+wootax/40211:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '82331'
+    location_type: postcode
+  name: SARATOGA
+  order: '0'
+  priority: '0'
+  rate: '5'
+  shipping: '0'
+  state: WY
+wootax/40212:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '82332'
+    location_type: postcode
+  name: CARBON COUNTY
+  order: '0'
+  priority: '0'
+  rate: '5'
+  shipping: '0'
+  state: WY
+wootax/40213:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '82334'
+    location_type: postcode
+  name: SINCLAIR
+  order: '0'
+  priority: '0'
+  rate: '5'
+  shipping: '0'
+  state: WY
+wootax/40214:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '82335'
+    location_type: postcode
+  name: RAWLINS
+  order: '0'
+  priority: '0'
+  rate: '5'
+  shipping: '0'
+  state: WY
+wootax/40215:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '82336'
+    location_type: postcode
+  name: WAMSUTTER
+  order: '0'
+  priority: '0'
+  rate: '5'
+  shipping: '0'
+  state: WY
+wootax/40216:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '82401'
+    location_type: postcode
+  name: WORLAND
+  order: '0'
+  priority: '0'
+  rate: '5'
+  shipping: '0'
+  state: WY
+wootax/40217:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '82410'
+    location_type: postcode
+  name: BASIN
+  order: '0'
+  priority: '0'
+  rate: '5'
+  shipping: '0'
+  state: WY
+wootax/40218:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '82411'
+    location_type: postcode
+  name: BIG HORN COUNTY
+  order: '0'
+  priority: '0'
+  rate: '5'
+  shipping: '0'
+  state: WY
+wootax/40219:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '82412'
+    location_type: postcode
+  name: BYRON
+  order: '0'
+  priority: '0'
+  rate: '5'
+  shipping: '0'
+  state: WY
+wootax/40220:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '82414'
+    location_type: postcode
+  name: CODY
+  order: '0'
+  priority: '0'
+  rate: '4'
+  shipping: '0'
+  state: WY
+wootax/40221:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '82420'
+    location_type: postcode
+  name: COWLEY
+  order: '0'
+  priority: '0'
+  rate: '5'
+  shipping: '0'
+  state: WY
+wootax/40222:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '82421'
+    location_type: postcode
+  name: BIG HORN COUNTY
+  order: '0'
+  priority: '0'
+  rate: '5'
+  shipping: '0'
+  state: WY
+wootax/40223:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '82422'
+    location_type: postcode
+  name: BIG HORN COUNTY
+  order: '0'
+  priority: '0'
+  rate: '5'
+  shipping: '0'
+  state: WY
+wootax/40224:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '82423'
+    location_type: postcode
+  name: PARK COUNTY
+  order: '0'
+  priority: '0'
+  rate: '4'
+  shipping: '0'
+  state: WY
+wootax/40225:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '82426'
+    location_type: postcode
+  name: GREYBULL
+  order: '0'
+  priority: '0'
+  rate: '5'
+  shipping: '0'
+  state: WY
+wootax/40226:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '82428'
+    location_type: postcode
+  name: BIG HORN COUNTY
+  order: '0'
+  priority: '0'
+  rate: '5'
+  shipping: '0'
+  state: WY
+wootax/40227:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '82430'
+    location_type: postcode
+  name: THERMOPOLIS
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '0'
+  state: WY
+wootax/40228:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '82431'
+    location_type: postcode
+  name: LOVELL
+  order: '0'
+  priority: '0'
+  rate: '5'
+  shipping: '0'
+  state: WY
+wootax/40229:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '82432'
+    location_type: postcode
+  name: BIG HORN COUNTY
+  order: '0'
+  priority: '0'
+  rate: '5'
+  shipping: '0'
+  state: WY
+wootax/40230:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '82433'
+    location_type: postcode
+  name: PARK COUNTY
+  order: '0'
+  priority: '0'
+  rate: '4'
+  shipping: '0'
+  state: WY
+wootax/40231:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '82434'
+    location_type: postcode
+  name: BIG HORN COUNTY
+  order: '0'
+  priority: '0'
+  rate: '5'
+  shipping: '0'
+  state: WY
+wootax/40232:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '82435'
+    location_type: postcode
+  name: POWELL
+  order: '0'
+  priority: '0'
+  rate: '4'
+  shipping: '0'
+  state: WY
+wootax/40233:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '82440'
+    location_type: postcode
+  name: PARK COUNTY
+  order: '0'
+  priority: '0'
+  rate: '4'
+  shipping: '0'
+  state: WY
+wootax/40234:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '82441'
+    location_type: postcode
+  name: BIG HORN COUNTY
+  order: '0'
+  priority: '0'
+  rate: '5'
+  shipping: '0'
+  state: WY
+wootax/40235:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '82442'
+    location_type: postcode
+  name: WASHAKIE COUNTY
+  order: '0'
+  priority: '0'
+  rate: '5'
+  shipping: '0'
+  state: WY
+wootax/40236:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '82443'
+    location_type: postcode
+  name: THERMOPOLIS
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '0'
+  state: WY
+wootax/40237:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '82450'
+    location_type: postcode
+  name: PARK COUNTY
+  order: '0'
+  priority: '0'
+  rate: '4'
+  shipping: '0'
+  state: WY
+wootax/40238:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '82501'
+    location_type: postcode
+  name: RIVERTON
+  order: '0'
+  priority: '0'
+  rate: '5'
+  shipping: '0'
+  state: WY
+wootax/40239:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '82510'
+    location_type: postcode
+  name: FREMONT COUNTY
+  order: '0'
+  priority: '0'
+  rate: '5'
+  shipping: '0'
+  state: WY
+wootax/40240:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '82512'
+    location_type: postcode
+  name: FREMONT COUNTY
+  order: '0'
+  priority: '0'
+  rate: '5'
+  shipping: '0'
+  state: WY
+wootax/40241:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '82513'
+    location_type: postcode
+  name: FREMONT COUNTY
+  order: '0'
+  priority: '0'
+  rate: '5'
+  shipping: '0'
+  state: WY
+wootax/40242:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '82514'
+    location_type: postcode
+  name: FREMONT COUNTY
+  order: '0'
+  priority: '0'
+  rate: '5'
+  shipping: '0'
+  state: WY
+wootax/40243:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '82515'
+    location_type: postcode
+  name: HUDSON
+  order: '0'
+  priority: '0'
+  rate: '5'
+  shipping: '0'
+  state: WY
+wootax/40244:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '82516'
+    location_type: postcode
+  name: FREMONT COUNTY
+  order: '0'
+  priority: '0'
+  rate: '5'
+  shipping: '0'
+  state: WY
+wootax/40245:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '82520'
+    location_type: postcode
+  name: LANDER
+  order: '0'
+  priority: '0'
+  rate: '5'
+  shipping: '0'
+  state: WY
+wootax/40246:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '82523'
+    location_type: postcode
+  name: FREMONT COUNTY
+  order: '0'
+  priority: '0'
+  rate: '5'
+  shipping: '0'
+  state: WY
+wootax/40247:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '82524'
+    location_type: postcode
+  name: FREMONT COUNTY
+  order: '0'
+  priority: '0'
+  rate: '5'
+  shipping: '0'
+  state: WY
+wootax/40248:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '82601'
+    location_type: postcode
+  name: CASPER
+  order: '0'
+  priority: '0'
+  rate: '5'
+  shipping: '0'
+  state: WY
+wootax/40249:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '82602'
+    location_type: postcode
+  name: CASPER
+  order: '0'
+  priority: '0'
+  rate: '5'
+  shipping: '0'
+  state: WY
+wootax/40250:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '82604'
+    location_type: postcode
+  name: CASPER
+  order: '0'
+  priority: '0'
+  rate: '5'
+  shipping: '0'
+  state: WY
+wootax/40251:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '82605'
+    location_type: postcode
+  name: CASPER
+  order: '0'
+  priority: '0'
+  rate: '5'
+  shipping: '0'
+  state: WY
+wootax/40252:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '82609'
+    location_type: postcode
+  name: CASPER
+  order: '0'
+  priority: '0'
+  rate: '5'
+  shipping: '0'
+  state: WY
+wootax/40253:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '82620'
+    location_type: postcode
+  name: NATRONA COUNTY
+  order: '0'
+  priority: '0'
+  rate: '5'
+  shipping: '0'
+  state: WY
+wootax/40254:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '82630'
+    location_type: postcode
+  name: NATRONA COUNTY
+  order: '0'
+  priority: '0'
+  rate: '5'
+  shipping: '0'
+  state: WY
+wootax/40255:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '82633'
+    location_type: postcode
+  name: DOUGLAS
+  order: '0'
+  priority: '0'
+  rate: '5'
+  shipping: '0'
+  state: WY
+wootax/40256:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '82635'
+    location_type: postcode
+  name: EDGERTON
+  order: '0'
+  priority: '0'
+  rate: '5'
+  shipping: '0'
+  state: WY
+wootax/40257:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '82636'
+    location_type: postcode
+  name: NATRONA COUNTY
+  order: '0'
+  priority: '0'
+  rate: '5'
+  shipping: '0'
+  state: WY
+wootax/40258:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '82637'
+    location_type: postcode
+  name: CONVERSE COUNTY
+  order: '0'
+  priority: '0'
+  rate: '5'
+  shipping: '0'
+  state: WY
+wootax/40259:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '82638'
+    location_type: postcode
+  name: FREMONT COUNTY
+  order: '0'
+  priority: '0'
+  rate: '5'
+  shipping: '0'
+  state: WY
+wootax/40260:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '82639'
+    location_type: postcode
+  name: JOHNSON COUNTY
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '0'
+  state: WY
+wootax/40261:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '82640'
+    location_type: postcode
+  name: JOHNSON COUNTY
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '0'
+  state: WY
+wootax/40262:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '82642'
+    location_type: postcode
+  name: FREMONT COUNTY
+  order: '0'
+  priority: '0'
+  rate: '5'
+  shipping: '0'
+  state: WY
+wootax/40263:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '82643'
+    location_type: postcode
+  name: MIDWEST
+  order: '0'
+  priority: '0'
+  rate: '5'
+  shipping: '0'
+  state: WY
+wootax/40264:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '82644'
+    location_type: postcode
+  name: MILLS
+  order: '0'
+  priority: '0'
+  rate: '5'
+  shipping: '0'
+  state: WY
+wootax/40265:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '82646'
+    location_type: postcode
+  name: NATRONA COUNTY
+  order: '0'
+  priority: '0'
+  rate: '5'
+  shipping: '0'
+  state: WY
+wootax/40266:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '82648'
+    location_type: postcode
+  name: NATRONA COUNTY
+  order: '0'
+  priority: '0'
+  rate: '5'
+  shipping: '0'
+  state: WY
+wootax/40267:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '82649'
+    location_type: postcode
+  name: FREMONT COUNTY
+  order: '0'
+  priority: '0'
+  rate: '5'
+  shipping: '0'
+  state: WY
+wootax/40268:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '82701'
+    location_type: postcode
+  name: NEWCASTLE
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '0'
+  state: WY
+wootax/40269:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '82710'
+    location_type: postcode
+  name: CROOK COUNTY
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '0'
+  state: WY
+wootax/40270:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '82711'
+    location_type: postcode
+  name: CROOK COUNTY
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '0'
+  state: WY
+wootax/40271:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '82712'
+    location_type: postcode
+  name: CROOK COUNTY
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '0'
+  state: WY
+wootax/40272:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '82714'
+    location_type: postcode
+  name: CROOK COUNTY
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '0'
+  state: WY
+wootax/40273:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '82715'
+    location_type: postcode
+  name: WESTON COUNTY
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '0'
+  state: WY
+wootax/40274:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '82716'
+    location_type: postcode
+  name: GILLETTE
+  order: '0'
+  priority: '0'
+  rate: '5'
+  shipping: '0'
+  state: WY
+wootax/40275:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '82718'
+    location_type: postcode
+  name: GILLETTE
+  order: '0'
+  priority: '0'
+  rate: '5'
+  shipping: '0'
+  state: WY
+wootax/40276:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '82720'
+    location_type: postcode
+  name: CROOK COUNTY
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '0'
+  state: WY
+wootax/40277:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '82721'
+    location_type: postcode
+  name: CROOK COUNTY
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '0'
+  state: WY
+wootax/40278:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '82723'
+    location_type: postcode
+  name: WESTON COUNTY
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '0'
+  state: WY
+wootax/40279:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '82725'
+    location_type: postcode
+  name: CAMPBELL COUNTY
+  order: '0'
+  priority: '0'
+  rate: '5'
+  shipping: '0'
+  state: WY
+wootax/40280:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '82727'
+    location_type: postcode
+  name: CAMPBELL COUNTY
+  order: '0'
+  priority: '0'
+  rate: '5'
+  shipping: '0'
+  state: WY
+wootax/40281:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '82729'
+    location_type: postcode
+  name: CROOK COUNTY
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '0'
+  state: WY
+wootax/40282:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '82730'
+    location_type: postcode
+  name: WESTON COUNTY
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '0'
+  state: WY
+wootax/40283:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '82731'
+    location_type: postcode
+  name: CAMPBELL COUNTY
+  order: '0'
+  priority: '0'
+  rate: '5'
+  shipping: '0'
+  state: WY
+wootax/40284:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '82732'
+    location_type: postcode
+  name: WRIGHT
+  order: '0'
+  priority: '0'
+  rate: '5'
+  shipping: '0'
+  state: WY
+wootax/40285:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '82801'
+    location_type: postcode
+  name: SHERIDAN
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '0'
+  state: WY
+wootax/40286:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '82831'
+    location_type: postcode
+  name: SHERIDAN COUNTY
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '0'
+  state: WY
+wootax/40287:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '82832'
+    location_type: postcode
+  name: SHERIDAN COUNTY
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '0'
+  state: WY
+wootax/40288:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '82833'
+    location_type: postcode
+  name: SHERIDAN COUNTY
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '0'
+  state: WY
+wootax/40289:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '82834'
+    location_type: postcode
+  name: BUFFALO
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '0'
+  state: WY
+wootax/40290:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '82835'
+    location_type: postcode
+  name: SHERIDAN COUNTY
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '0'
+  state: WY
+wootax/40291:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '82836'
+    location_type: postcode
+  name: DAYTON
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '0'
+  state: WY
+wootax/40292:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '82837'
+    location_type: postcode
+  name: SHERIDAN COUNTY
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '0'
+  state: WY
+wootax/40293:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '82838'
+    location_type: postcode
+  name: SHERIDAN COUNTY
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '0'
+  state: WY
+wootax/40294:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '82839'
+    location_type: postcode
+  name: RANCHESTER
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '0'
+  state: WY
+wootax/40295:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '82840'
+    location_type: postcode
+  name: JOHNSON COUNTY
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '0'
+  state: WY
+wootax/40296:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '82842'
+    location_type: postcode
+  name: SHERIDAN COUNTY
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '0'
+  state: WY
+wootax/40297:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '82844'
+    location_type: postcode
+  name: SHERIDAN COUNTY
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '0'
+  state: WY
+wootax/40298:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '82845'
+    location_type: postcode
+  name: SHERIDAN COUNTY
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '0'
+  state: WY
+wootax/40299:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '82901'
+    location_type: postcode
+  name: ROCK SPRINGS
+  order: '0'
+  priority: '0'
+  rate: '5'
+  shipping: '0'
+  state: WY
+wootax/40300:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '82902'
+    location_type: postcode
+  name: ROCK SPRINGS
+  order: '0'
+  priority: '0'
+  rate: '5'
+  shipping: '0'
+  state: WY
+wootax/40301:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '82922'
+    location_type: postcode
+  name: SUBLETTE COUNTY
+  order: '0'
+  priority: '0'
+  rate: '4'
+  shipping: '0'
+  state: WY
+wootax/40302:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '82923'
+    location_type: postcode
+  name: SUBLETTE COUNTY
+  order: '0'
+  priority: '0'
+  rate: '4'
+  shipping: '0'
+  state: WY
+wootax/40303:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '82925'
+    location_type: postcode
+  name: SUBLETTE COUNTY
+  order: '0'
+  priority: '0'
+  rate: '4'
+  shipping: '0'
+  state: WY
+wootax/40304:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '82929'
+    location_type: postcode
+  name: SWEETWATER COUNTY
+  order: '0'
+  priority: '0'
+  rate: '5'
+  shipping: '0'
+  state: WY
+wootax/40305:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '82930'
+    location_type: postcode
+  name: EVANSTON
+  order: '0'
+  priority: '0'
+  rate: '5'
+  shipping: '0'
+  state: WY
+wootax/40306:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '82931'
+    location_type: postcode
+  name: EVANSTON
+  order: '0'
+  priority: '0'
+  rate: '5'
+  shipping: '0'
+  state: WY
+wootax/40307:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '82932'
+    location_type: postcode
+  name: SWEETWATER COUNTY
+  order: '0'
+  priority: '0'
+  rate: '5'
+  shipping: '0'
+  state: WY
+wootax/40308:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '82933'
+    location_type: postcode
+  name: UINTA COUNTY
+  order: '0'
+  priority: '0'
+  rate: '5'
+  shipping: '0'
+  state: WY
+wootax/40309:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '82934'
+    location_type: postcode
+  name: GRANGER
+  order: '0'
+  priority: '0'
+  rate: '5'
+  shipping: '0'
+  state: WY
+wootax/40310:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '82935'
+    location_type: postcode
+  name: GREEN RIVER
+  order: '0'
+  priority: '0'
+  rate: '5'
+  shipping: '0'
+  state: WY
+wootax/40311:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '82936'
+    location_type: postcode
+  name: UINTA COUNTY
+  order: '0'
+  priority: '0'
+  rate: '5'
+  shipping: '0'
+  state: WY
+wootax/40312:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '82937'
+    location_type: postcode
+  name: UINTA COUNTY
+  order: '0'
+  priority: '0'
+  rate: '5'
+  shipping: '0'
+  state: WY
+wootax/40313:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '82938'
+    location_type: postcode
+  name: SWEETWATER COUNTY
+  order: '0'
+  priority: '0'
+  rate: '5'
+  shipping: '0'
+  state: WY
+wootax/40314:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '82939'
+    location_type: postcode
+  name: MOUNTAIN VIEW
+  order: '0'
+  priority: '0'
+  rate: '5'
+  shipping: '0'
+  state: WY
+wootax/40315:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '82941'
+    location_type: postcode
+  name: PINEDALE
+  order: '0'
+  priority: '0'
+  rate: '4'
+  shipping: '0'
+  state: WY
+wootax/40316:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '82942'
+    location_type: postcode
+  name: ROCK SPRINGS
+  order: '0'
+  priority: '0'
+  rate: '5'
+  shipping: '0'
+  state: WY
+wootax/40317:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '82943'
+    location_type: postcode
+  name: SWEETWATER COUNTY
+  order: '0'
+  priority: '0'
+  rate: '5'
+  shipping: '0'
+  state: WY
+wootax/40318:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '82944'
+    location_type: postcode
+  name: UINTA COUNTY
+  order: '0'
+  priority: '0'
+  rate: '5'
+  shipping: '0'
+  state: WY
+wootax/40319:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '82945'
+    location_type: postcode
+  name: 'SUPERIOR '
+  order: '0'
+  priority: '0'
+  rate: '5'
+  shipping: '0'
+  state: WY
+wootax/40320:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '83001'
+    location_type: postcode
+  name: JACKSON
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '0'
+  state: WY
+wootax/40321:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '83002'
+    location_type: postcode
+  name: JACKSON
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '0'
+  state: WY
+wootax/40322:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '83011'
+    location_type: postcode
+  name: TETON COUNTY
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '0'
+  state: WY
+wootax/40323:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '83012'
+    location_type: postcode
+  name: TETON COUNTY
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '0'
+  state: WY
+wootax/40324:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '83013'
+    location_type: postcode
+  name: TETON COUNTY
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '0'
+  state: WY
+wootax/40325:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '83014'
+    location_type: postcode
+  name: TETON COUNTY
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '0'
+  state: WY
+wootax/40326:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '83025'
+    location_type: postcode
+  name: TETON VILLAGE RESORT DISTRICT SP
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '0'
+  state: WY
+wootax/40327:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '83101'
+    location_type: postcode
+  name: KEMMERER
+  order: '0'
+  priority: '0'
+  rate: '5'
+  shipping: '0'
+  state: WY
+wootax/40328:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '83110'
+    location_type: postcode
+  name: LINCOLN COUNTY
+  order: '0'
+  priority: '0'
+  rate: '5'
+  shipping: '0'
+  state: WY
+wootax/40329:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '83111'
+    location_type: postcode
+  name: LINCOLN COUNTY
+  order: '0'
+  priority: '0'
+  rate: '5'
+  shipping: '0'
+  state: WY
+wootax/40330:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '83112'
+    location_type: postcode
+  name: LINCOLN COUNTY
+  order: '0'
+  priority: '0'
+  rate: '5'
+  shipping: '0'
+  state: WY
+wootax/40331:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '83113'
+    location_type: postcode
+  name: SUBLETTE COUNTY
+  order: '0'
+  priority: '0'
+  rate: '4'
+  shipping: '0'
+  state: WY
+wootax/40332:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '83114'
+    location_type: postcode
+  name: LINCOLN COUNTY
+  order: '0'
+  priority: '0'
+  rate: '5'
+  shipping: '0'
+  state: WY
+wootax/40333:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '83115'
+    location_type: postcode
+  name: SUBLETTE COUNTY
+  order: '0'
+  priority: '0'
+  rate: '4'
+  shipping: '0'
+  state: WY
+wootax/40334:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '83116'
+    location_type: postcode
+  name: DIAMONDVILLE
+  order: '0'
+  priority: '0'
+  rate: '5'
+  shipping: '0'
+  state: WY
+wootax/40335:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '83118'
+    location_type: postcode
+  name: LINCOLN COUNTY
+  order: '0'
+  priority: '0'
+  rate: '5'
+  shipping: '0'
+  state: WY
+wootax/40336:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '83119'
+    location_type: postcode
+  name: LINCOLN COUNTY
+  order: '0'
+  priority: '0'
+  rate: '5'
+  shipping: '0'
+  state: WY
+wootax/40337:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '83120'
+    location_type: postcode
+  name: LINCOLN COUNTY
+  order: '0'
+  priority: '0'
+  rate: '5'
+  shipping: '0'
+  state: WY
+wootax/40338:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '83121'
+    location_type: postcode
+  name: LINCOLN COUNTY
+  order: '0'
+  priority: '0'
+  rate: '5'
+  shipping: '0'
+  state: WY
+wootax/40339:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '83122'
+    location_type: postcode
+  name: LINCOLN COUNTY
+  order: '0'
+  priority: '0'
+  rate: '5'
+  shipping: '0'
+  state: WY
+wootax/40340:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '83123'
+    location_type: postcode
+  name: LA BARGE
+  order: '0'
+  priority: '0'
+  rate: '5'
+  shipping: '0'
+  state: WY
+wootax/40341:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '83124'
+    location_type: postcode
+  name: OPAL
+  order: '0'
+  priority: '0'
+  rate: '5'
+  shipping: '0'
+  state: WY
+wootax/40342:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '83126'
+    location_type: postcode
+  name: LINCOLN COUNTY
+  order: '0'
+  priority: '0'
+  rate: '5'
+  shipping: '0'
+  state: WY
+wootax/40343:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '83127'
+    location_type: postcode
+  name: STAR VALLEY RANCH
+  order: '0'
+  priority: '0'
+  rate: '5'
+  shipping: '0'
+  state: WY
+wootax/40344:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '83128'
+    location_type: postcode
+  name: LINCOLN COUNTY
+  order: '0'
+  priority: '0'
+  rate: '5'
+  shipping: '0'
+  state: WY
+wootax/40345:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '83414'
+    location_type: postcode
+  name: ALTA
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '0'
+  state: WY

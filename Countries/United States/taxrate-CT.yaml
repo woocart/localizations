@@ -1,0 +1,5343 @@
+wootax/5309:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '06001'
+    location_type: postcode
+  name: CONNECTICUT STATE
+  order: '0'
+  priority: '0'
+  rate: '6.35'
+  shipping: '1'
+  state: CT
+wootax/5310:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '06002'
+    location_type: postcode
+  name: CONNECTICUT STATE
+  order: '0'
+  priority: '0'
+  rate: '6.35'
+  shipping: '1'
+  state: CT
+wootax/5311:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '06006'
+    location_type: postcode
+  name: CONNECTICUT STATE
+  order: '0'
+  priority: '0'
+  rate: '6.35'
+  shipping: '1'
+  state: CT
+wootax/5312:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '06010'
+    location_type: postcode
+  name: CONNECTICUT STATE
+  order: '0'
+  priority: '0'
+  rate: '6.35'
+  shipping: '1'
+  state: CT
+wootax/5313:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '06011'
+    location_type: postcode
+  name: CONNECTICUT STATE
+  order: '0'
+  priority: '0'
+  rate: '6.35'
+  shipping: '1'
+  state: CT
+wootax/5314:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '06013'
+    location_type: postcode
+  name: CONNECTICUT STATE
+  order: '0'
+  priority: '0'
+  rate: '6.35'
+  shipping: '1'
+  state: CT
+wootax/5315:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '06016'
+    location_type: postcode
+  name: CONNECTICUT STATE
+  order: '0'
+  priority: '0'
+  rate: '6.35'
+  shipping: '1'
+  state: CT
+wootax/5316:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: 06018
+    location_type: postcode
+  name: CONNECTICUT STATE
+  order: '0'
+  priority: '0'
+  rate: '6.35'
+  shipping: '1'
+  state: CT
+wootax/5317:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: 06019
+    location_type: postcode
+  name: CONNECTICUT STATE
+  order: '0'
+  priority: '0'
+  rate: '6.35'
+  shipping: '1'
+  state: CT
+wootax/5318:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '06020'
+    location_type: postcode
+  name: CONNECTICUT STATE
+  order: '0'
+  priority: '0'
+  rate: '6.35'
+  shipping: '1'
+  state: CT
+wootax/5319:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '06021'
+    location_type: postcode
+  name: CONNECTICUT STATE
+  order: '0'
+  priority: '0'
+  rate: '6.35'
+  shipping: '1'
+  state: CT
+wootax/5320:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '06022'
+    location_type: postcode
+  name: CONNECTICUT STATE
+  order: '0'
+  priority: '0'
+  rate: '6.35'
+  shipping: '1'
+  state: CT
+wootax/5321:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '06023'
+    location_type: postcode
+  name: CONNECTICUT STATE
+  order: '0'
+  priority: '0'
+  rate: '6.35'
+  shipping: '1'
+  state: CT
+wootax/5322:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '06024'
+    location_type: postcode
+  name: CONNECTICUT STATE
+  order: '0'
+  priority: '0'
+  rate: '6.35'
+  shipping: '1'
+  state: CT
+wootax/5323:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '06025'
+    location_type: postcode
+  name: CONNECTICUT STATE
+  order: '0'
+  priority: '0'
+  rate: '6.35'
+  shipping: '1'
+  state: CT
+wootax/5324:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '06026'
+    location_type: postcode
+  name: CONNECTICUT STATE
+  order: '0'
+  priority: '0'
+  rate: '6.35'
+  shipping: '1'
+  state: CT
+wootax/5325:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '06027'
+    location_type: postcode
+  name: CONNECTICUT STATE
+  order: '0'
+  priority: '0'
+  rate: '6.35'
+  shipping: '1'
+  state: CT
+wootax/5326:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: 06028
+    location_type: postcode
+  name: CONNECTICUT STATE
+  order: '0'
+  priority: '0'
+  rate: '6.35'
+  shipping: '1'
+  state: CT
+wootax/5327:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: 06029
+    location_type: postcode
+  name: CONNECTICUT STATE
+  order: '0'
+  priority: '0'
+  rate: '6.35'
+  shipping: '1'
+  state: CT
+wootax/5328:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '06030'
+    location_type: postcode
+  name: CONNECTICUT STATE
+  order: '0'
+  priority: '0'
+  rate: '6.35'
+  shipping: '1'
+  state: CT
+wootax/5329:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '06031'
+    location_type: postcode
+  name: CONNECTICUT STATE
+  order: '0'
+  priority: '0'
+  rate: '6.35'
+  shipping: '1'
+  state: CT
+wootax/5330:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '06032'
+    location_type: postcode
+  name: CONNECTICUT STATE
+  order: '0'
+  priority: '0'
+  rate: '6.35'
+  shipping: '1'
+  state: CT
+wootax/5331:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '06033'
+    location_type: postcode
+  name: CONNECTICUT STATE
+  order: '0'
+  priority: '0'
+  rate: '6.35'
+  shipping: '1'
+  state: CT
+wootax/5332:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '06034'
+    location_type: postcode
+  name: CONNECTICUT STATE
+  order: '0'
+  priority: '0'
+  rate: '6.35'
+  shipping: '1'
+  state: CT
+wootax/5333:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '06035'
+    location_type: postcode
+  name: CONNECTICUT STATE
+  order: '0'
+  priority: '0'
+  rate: '6.35'
+  shipping: '1'
+  state: CT
+wootax/5334:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '06037'
+    location_type: postcode
+  name: CONNECTICUT STATE
+  order: '0'
+  priority: '0'
+  rate: '6.35'
+  shipping: '1'
+  state: CT
+wootax/5335:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: 06039
+    location_type: postcode
+  name: CONNECTICUT STATE
+  order: '0'
+  priority: '0'
+  rate: '6.35'
+  shipping: '1'
+  state: CT
+wootax/5336:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '06040'
+    location_type: postcode
+  name: CONNECTICUT STATE
+  order: '0'
+  priority: '0'
+  rate: '6.35'
+  shipping: '1'
+  state: CT
+wootax/5337:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '06041'
+    location_type: postcode
+  name: CONNECTICUT STATE
+  order: '0'
+  priority: '0'
+  rate: '6.35'
+  shipping: '1'
+  state: CT
+wootax/5338:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '06042'
+    location_type: postcode
+  name: CONNECTICUT STATE
+  order: '0'
+  priority: '0'
+  rate: '6.35'
+  shipping: '1'
+  state: CT
+wootax/5339:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '06043'
+    location_type: postcode
+  name: CONNECTICUT STATE
+  order: '0'
+  priority: '0'
+  rate: '6.35'
+  shipping: '1'
+  state: CT
+wootax/5340:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '06045'
+    location_type: postcode
+  name: CONNECTICUT STATE
+  order: '0'
+  priority: '0'
+  rate: '6.35'
+  shipping: '1'
+  state: CT
+wootax/5341:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '06050'
+    location_type: postcode
+  name: CONNECTICUT STATE
+  order: '0'
+  priority: '0'
+  rate: '6.35'
+  shipping: '1'
+  state: CT
+wootax/5342:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '06051'
+    location_type: postcode
+  name: CONNECTICUT STATE
+  order: '0'
+  priority: '0'
+  rate: '6.35'
+  shipping: '1'
+  state: CT
+wootax/5343:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '06052'
+    location_type: postcode
+  name: CONNECTICUT STATE
+  order: '0'
+  priority: '0'
+  rate: '6.35'
+  shipping: '1'
+  state: CT
+wootax/5344:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '06053'
+    location_type: postcode
+  name: CONNECTICUT STATE
+  order: '0'
+  priority: '0'
+  rate: '6.35'
+  shipping: '1'
+  state: CT
+wootax/5345:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '06057'
+    location_type: postcode
+  name: CONNECTICUT STATE
+  order: '0'
+  priority: '0'
+  rate: '6.35'
+  shipping: '1'
+  state: CT
+wootax/5346:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: 06058
+    location_type: postcode
+  name: CONNECTICUT STATE
+  order: '0'
+  priority: '0'
+  rate: '6.35'
+  shipping: '1'
+  state: CT
+wootax/5347:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: 06059
+    location_type: postcode
+  name: CONNECTICUT STATE
+  order: '0'
+  priority: '0'
+  rate: '6.35'
+  shipping: '1'
+  state: CT
+wootax/5348:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '06060'
+    location_type: postcode
+  name: CONNECTICUT STATE
+  order: '0'
+  priority: '0'
+  rate: '6.35'
+  shipping: '1'
+  state: CT
+wootax/5349:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '06061'
+    location_type: postcode
+  name: CONNECTICUT STATE
+  order: '0'
+  priority: '0'
+  rate: '6.35'
+  shipping: '1'
+  state: CT
+wootax/5350:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '06062'
+    location_type: postcode
+  name: CONNECTICUT STATE
+  order: '0'
+  priority: '0'
+  rate: '6.35'
+  shipping: '1'
+  state: CT
+wootax/5351:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '06063'
+    location_type: postcode
+  name: CONNECTICUT STATE
+  order: '0'
+  priority: '0'
+  rate: '6.35'
+  shipping: '1'
+  state: CT
+wootax/5352:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '06064'
+    location_type: postcode
+  name: CONNECTICUT STATE
+  order: '0'
+  priority: '0'
+  rate: '6.35'
+  shipping: '1'
+  state: CT
+wootax/5353:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '06065'
+    location_type: postcode
+  name: CONNECTICUT STATE
+  order: '0'
+  priority: '0'
+  rate: '6.35'
+  shipping: '1'
+  state: CT
+wootax/5354:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '06066'
+    location_type: postcode
+  name: CONNECTICUT STATE
+  order: '0'
+  priority: '0'
+  rate: '6.35'
+  shipping: '1'
+  state: CT
+wootax/5355:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '06067'
+    location_type: postcode
+  name: CONNECTICUT STATE
+  order: '0'
+  priority: '0'
+  rate: '6.35'
+  shipping: '1'
+  state: CT
+wootax/5356:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: 06068
+    location_type: postcode
+  name: CONNECTICUT STATE
+  order: '0'
+  priority: '0'
+  rate: '6.35'
+  shipping: '1'
+  state: CT
+wootax/5357:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: 06069
+    location_type: postcode
+  name: CONNECTICUT STATE
+  order: '0'
+  priority: '0'
+  rate: '6.35'
+  shipping: '1'
+  state: CT
+wootax/5358:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '06070'
+    location_type: postcode
+  name: CONNECTICUT STATE
+  order: '0'
+  priority: '0'
+  rate: '6.35'
+  shipping: '1'
+  state: CT
+wootax/5359:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '06071'
+    location_type: postcode
+  name: CONNECTICUT STATE
+  order: '0'
+  priority: '0'
+  rate: '6.35'
+  shipping: '1'
+  state: CT
+wootax/5360:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '06072'
+    location_type: postcode
+  name: CONNECTICUT STATE
+  order: '0'
+  priority: '0'
+  rate: '6.35'
+  shipping: '1'
+  state: CT
+wootax/5361:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '06073'
+    location_type: postcode
+  name: CONNECTICUT STATE
+  order: '0'
+  priority: '0'
+  rate: '6.35'
+  shipping: '1'
+  state: CT
+wootax/5362:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '06074'
+    location_type: postcode
+  name: CONNECTICUT STATE
+  order: '0'
+  priority: '0'
+  rate: '6.35'
+  shipping: '1'
+  state: CT
+wootax/5363:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '06075'
+    location_type: postcode
+  name: CONNECTICUT STATE
+  order: '0'
+  priority: '0'
+  rate: '6.35'
+  shipping: '1'
+  state: CT
+wootax/5364:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '06076'
+    location_type: postcode
+  name: CONNECTICUT STATE
+  order: '0'
+  priority: '0'
+  rate: '6.35'
+  shipping: '1'
+  state: CT
+wootax/5365:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '06077'
+    location_type: postcode
+  name: CONNECTICUT STATE
+  order: '0'
+  priority: '0'
+  rate: '6.35'
+  shipping: '1'
+  state: CT
+wootax/5366:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: 06078
+    location_type: postcode
+  name: CONNECTICUT STATE
+  order: '0'
+  priority: '0'
+  rate: '6.35'
+  shipping: '1'
+  state: CT
+wootax/5367:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: 06079
+    location_type: postcode
+  name: CONNECTICUT STATE
+  order: '0'
+  priority: '0'
+  rate: '6.35'
+  shipping: '1'
+  state: CT
+wootax/5368:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: 06080
+    location_type: postcode
+  name: CONNECTICUT STATE
+  order: '0'
+  priority: '0'
+  rate: '6.35'
+  shipping: '1'
+  state: CT
+wootax/5369:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: 06081
+    location_type: postcode
+  name: CONNECTICUT STATE
+  order: '0'
+  priority: '0'
+  rate: '6.35'
+  shipping: '1'
+  state: CT
+wootax/5370:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: 06082
+    location_type: postcode
+  name: CONNECTICUT STATE
+  order: '0'
+  priority: '0'
+  rate: '6.35'
+  shipping: '1'
+  state: CT
+wootax/5371:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: 06083
+    location_type: postcode
+  name: CONNECTICUT STATE
+  order: '0'
+  priority: '0'
+  rate: '6.35'
+  shipping: '1'
+  state: CT
+wootax/5372:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: 06084
+    location_type: postcode
+  name: CONNECTICUT STATE
+  order: '0'
+  priority: '0'
+  rate: '6.35'
+  shipping: '1'
+  state: CT
+wootax/5373:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: 06085
+    location_type: postcode
+  name: CONNECTICUT STATE
+  order: '0'
+  priority: '0'
+  rate: '6.35'
+  shipping: '1'
+  state: CT
+wootax/5374:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: 06088
+    location_type: postcode
+  name: CONNECTICUT STATE
+  order: '0'
+  priority: '0'
+  rate: '6.35'
+  shipping: '1'
+  state: CT
+wootax/5375:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: 06089
+    location_type: postcode
+  name: CONNECTICUT STATE
+  order: '0'
+  priority: '0'
+  rate: '6.35'
+  shipping: '1'
+  state: CT
+wootax/5376:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: 06090
+    location_type: postcode
+  name: CONNECTICUT STATE
+  order: '0'
+  priority: '0'
+  rate: '6.35'
+  shipping: '1'
+  state: CT
+wootax/5377:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: 06091
+    location_type: postcode
+  name: CONNECTICUT STATE
+  order: '0'
+  priority: '0'
+  rate: '6.35'
+  shipping: '1'
+  state: CT
+wootax/5378:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: 06092
+    location_type: postcode
+  name: CONNECTICUT STATE
+  order: '0'
+  priority: '0'
+  rate: '6.35'
+  shipping: '1'
+  state: CT
+wootax/5379:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: 06093
+    location_type: postcode
+  name: CONNECTICUT STATE
+  order: '0'
+  priority: '0'
+  rate: '6.35'
+  shipping: '1'
+  state: CT
+wootax/5380:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: 06095
+    location_type: postcode
+  name: CONNECTICUT STATE
+  order: '0'
+  priority: '0'
+  rate: '6.35'
+  shipping: '1'
+  state: CT
+wootax/5381:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: 06096
+    location_type: postcode
+  name: CONNECTICUT STATE
+  order: '0'
+  priority: '0'
+  rate: '6.35'
+  shipping: '1'
+  state: CT
+wootax/5382:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: 06098
+    location_type: postcode
+  name: CONNECTICUT STATE
+  order: '0'
+  priority: '0'
+  rate: '6.35'
+  shipping: '1'
+  state: CT
+wootax/5383:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '06101'
+    location_type: postcode
+  name: CONNECTICUT STATE
+  order: '0'
+  priority: '0'
+  rate: '6.35'
+  shipping: '1'
+  state: CT
+wootax/5384:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '06102'
+    location_type: postcode
+  name: CONNECTICUT STATE
+  order: '0'
+  priority: '0'
+  rate: '6.35'
+  shipping: '1'
+  state: CT
+wootax/5385:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '06103'
+    location_type: postcode
+  name: CONNECTICUT STATE
+  order: '0'
+  priority: '0'
+  rate: '6.35'
+  shipping: '1'
+  state: CT
+wootax/5386:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '06105'
+    location_type: postcode
+  name: CONNECTICUT STATE
+  order: '0'
+  priority: '0'
+  rate: '6.35'
+  shipping: '1'
+  state: CT
+wootax/5387:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '06106'
+    location_type: postcode
+  name: CONNECTICUT STATE
+  order: '0'
+  priority: '0'
+  rate: '6.35'
+  shipping: '1'
+  state: CT
+wootax/5388:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '06107'
+    location_type: postcode
+  name: CONNECTICUT STATE
+  order: '0'
+  priority: '0'
+  rate: '6.35'
+  shipping: '1'
+  state: CT
+wootax/5389:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: 06108
+    location_type: postcode
+  name: CONNECTICUT STATE
+  order: '0'
+  priority: '0'
+  rate: '6.35'
+  shipping: '1'
+  state: CT
+wootax/5390:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: 06109
+    location_type: postcode
+  name: CONNECTICUT STATE
+  order: '0'
+  priority: '0'
+  rate: '6.35'
+  shipping: '1'
+  state: CT
+wootax/5391:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '06110'
+    location_type: postcode
+  name: CONNECTICUT STATE
+  order: '0'
+  priority: '0'
+  rate: '6.35'
+  shipping: '1'
+  state: CT
+wootax/5392:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '06111'
+    location_type: postcode
+  name: CONNECTICUT STATE
+  order: '0'
+  priority: '0'
+  rate: '6.35'
+  shipping: '1'
+  state: CT
+wootax/5393:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '06112'
+    location_type: postcode
+  name: CONNECTICUT STATE
+  order: '0'
+  priority: '0'
+  rate: '6.35'
+  shipping: '1'
+  state: CT
+wootax/5394:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '06114'
+    location_type: postcode
+  name: CONNECTICUT STATE
+  order: '0'
+  priority: '0'
+  rate: '6.35'
+  shipping: '1'
+  state: CT
+wootax/5395:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '06115'
+    location_type: postcode
+  name: CONNECTICUT STATE
+  order: '0'
+  priority: '0'
+  rate: '6.35'
+  shipping: '1'
+  state: CT
+wootax/5396:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '06117'
+    location_type: postcode
+  name: CONNECTICUT STATE
+  order: '0'
+  priority: '0'
+  rate: '6.35'
+  shipping: '1'
+  state: CT
+wootax/5397:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: 06118
+    location_type: postcode
+  name: CONNECTICUT STATE
+  order: '0'
+  priority: '0'
+  rate: '6.35'
+  shipping: '1'
+  state: CT
+wootax/5398:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: 06119
+    location_type: postcode
+  name: CONNECTICUT STATE
+  order: '0'
+  priority: '0'
+  rate: '6.35'
+  shipping: '1'
+  state: CT
+wootax/5399:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '06120'
+    location_type: postcode
+  name: CONNECTICUT STATE
+  order: '0'
+  priority: '0'
+  rate: '6.35'
+  shipping: '1'
+  state: CT
+wootax/5400:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '06123'
+    location_type: postcode
+  name: CONNECTICUT STATE
+  order: '0'
+  priority: '0'
+  rate: '6.35'
+  shipping: '1'
+  state: CT
+wootax/5401:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '06126'
+    location_type: postcode
+  name: CONNECTICUT STATE
+  order: '0'
+  priority: '0'
+  rate: '6.35'
+  shipping: '1'
+  state: CT
+wootax/5402:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '06127'
+    location_type: postcode
+  name: CONNECTICUT STATE
+  order: '0'
+  priority: '0'
+  rate: '6.35'
+  shipping: '1'
+  state: CT
+wootax/5403:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: 06128
+    location_type: postcode
+  name: CONNECTICUT STATE
+  order: '0'
+  priority: '0'
+  rate: '6.35'
+  shipping: '1'
+  state: CT
+wootax/5404:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: 06129
+    location_type: postcode
+  name: CONNECTICUT STATE
+  order: '0'
+  priority: '0'
+  rate: '6.35'
+  shipping: '1'
+  state: CT
+wootax/5405:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '06131'
+    location_type: postcode
+  name: CONNECTICUT STATE
+  order: '0'
+  priority: '0'
+  rate: '6.35'
+  shipping: '1'
+  state: CT
+wootax/5406:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '06132'
+    location_type: postcode
+  name: CONNECTICUT STATE
+  order: '0'
+  priority: '0'
+  rate: '6.35'
+  shipping: '1'
+  state: CT
+wootax/5407:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '06133'
+    location_type: postcode
+  name: CONNECTICUT STATE
+  order: '0'
+  priority: '0'
+  rate: '6.35'
+  shipping: '1'
+  state: CT
+wootax/5408:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '06134'
+    location_type: postcode
+  name: CONNECTICUT STATE
+  order: '0'
+  priority: '0'
+  rate: '6.35'
+  shipping: '1'
+  state: CT
+wootax/5409:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '06137'
+    location_type: postcode
+  name: CONNECTICUT STATE
+  order: '0'
+  priority: '0'
+  rate: '6.35'
+  shipping: '1'
+  state: CT
+wootax/5410:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: 06138
+    location_type: postcode
+  name: CONNECTICUT STATE
+  order: '0'
+  priority: '0'
+  rate: '6.35'
+  shipping: '1'
+  state: CT
+wootax/5411:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '06141'
+    location_type: postcode
+  name: CONNECTICUT STATE
+  order: '0'
+  priority: '0'
+  rate: '6.35'
+  shipping: '1'
+  state: CT
+wootax/5412:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '06142'
+    location_type: postcode
+  name: CONNECTICUT STATE
+  order: '0'
+  priority: '0'
+  rate: '6.35'
+  shipping: '1'
+  state: CT
+wootax/5413:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '06143'
+    location_type: postcode
+  name: CONNECTICUT STATE
+  order: '0'
+  priority: '0'
+  rate: '6.35'
+  shipping: '1'
+  state: CT
+wootax/5414:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '06144'
+    location_type: postcode
+  name: CONNECTICUT STATE
+  order: '0'
+  priority: '0'
+  rate: '6.35'
+  shipping: '1'
+  state: CT
+wootax/5415:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '06145'
+    location_type: postcode
+  name: CONNECTICUT STATE
+  order: '0'
+  priority: '0'
+  rate: '6.35'
+  shipping: '1'
+  state: CT
+wootax/5416:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '06146'
+    location_type: postcode
+  name: CONNECTICUT STATE
+  order: '0'
+  priority: '0'
+  rate: '6.35'
+  shipping: '1'
+  state: CT
+wootax/5417:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '06147'
+    location_type: postcode
+  name: CONNECTICUT STATE
+  order: '0'
+  priority: '0'
+  rate: '6.35'
+  shipping: '1'
+  state: CT
+wootax/5418:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '06152'
+    location_type: postcode
+  name: CONNECTICUT STATE
+  order: '0'
+  priority: '0'
+  rate: '6.35'
+  shipping: '1'
+  state: CT
+wootax/5419:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '06153'
+    location_type: postcode
+  name: CONNECTICUT STATE
+  order: '0'
+  priority: '0'
+  rate: '6.35'
+  shipping: '1'
+  state: CT
+wootax/5420:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '06154'
+    location_type: postcode
+  name: CONNECTICUT STATE
+  order: '0'
+  priority: '0'
+  rate: '6.35'
+  shipping: '1'
+  state: CT
+wootax/5421:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '06155'
+    location_type: postcode
+  name: CONNECTICUT STATE
+  order: '0'
+  priority: '0'
+  rate: '6.35'
+  shipping: '1'
+  state: CT
+wootax/5422:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '06156'
+    location_type: postcode
+  name: CONNECTICUT STATE
+  order: '0'
+  priority: '0'
+  rate: '6.35'
+  shipping: '1'
+  state: CT
+wootax/5423:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '06160'
+    location_type: postcode
+  name: CONNECTICUT STATE
+  order: '0'
+  priority: '0'
+  rate: '6.35'
+  shipping: '1'
+  state: CT
+wootax/5424:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '06161'
+    location_type: postcode
+  name: CONNECTICUT STATE
+  order: '0'
+  priority: '0'
+  rate: '6.35'
+  shipping: '1'
+  state: CT
+wootax/5425:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '06167'
+    location_type: postcode
+  name: CONNECTICUT STATE
+  order: '0'
+  priority: '0'
+  rate: '6.35'
+  shipping: '1'
+  state: CT
+wootax/5426:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: 06183
+    location_type: postcode
+  name: CONNECTICUT STATE
+  order: '0'
+  priority: '0'
+  rate: '6.35'
+  shipping: '1'
+  state: CT
+wootax/5427:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: 06199
+    location_type: postcode
+  name: CONNECTICUT STATE
+  order: '0'
+  priority: '0'
+  rate: '6.35'
+  shipping: '1'
+  state: CT
+wootax/5428:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '06226'
+    location_type: postcode
+  name: CONNECTICUT STATE
+  order: '0'
+  priority: '0'
+  rate: '6.35'
+  shipping: '1'
+  state: CT
+wootax/5429:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '06230'
+    location_type: postcode
+  name: CONNECTICUT STATE
+  order: '0'
+  priority: '0'
+  rate: '6.35'
+  shipping: '1'
+  state: CT
+wootax/5430:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '06231'
+    location_type: postcode
+  name: CONNECTICUT STATE
+  order: '0'
+  priority: '0'
+  rate: '6.35'
+  shipping: '1'
+  state: CT
+wootax/5431:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '06232'
+    location_type: postcode
+  name: CONNECTICUT STATE
+  order: '0'
+  priority: '0'
+  rate: '6.35'
+  shipping: '1'
+  state: CT
+wootax/5432:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '06233'
+    location_type: postcode
+  name: CONNECTICUT STATE
+  order: '0'
+  priority: '0'
+  rate: '6.35'
+  shipping: '1'
+  state: CT
+wootax/5433:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '06234'
+    location_type: postcode
+  name: CONNECTICUT STATE
+  order: '0'
+  priority: '0'
+  rate: '6.35'
+  shipping: '1'
+  state: CT
+wootax/5434:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '06235'
+    location_type: postcode
+  name: CONNECTICUT STATE
+  order: '0'
+  priority: '0'
+  rate: '6.35'
+  shipping: '1'
+  state: CT
+wootax/5435:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '06237'
+    location_type: postcode
+  name: CONNECTICUT STATE
+  order: '0'
+  priority: '0'
+  rate: '6.35'
+  shipping: '1'
+  state: CT
+wootax/5436:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: 06238
+    location_type: postcode
+  name: CONNECTICUT STATE
+  order: '0'
+  priority: '0'
+  rate: '6.35'
+  shipping: '1'
+  state: CT
+wootax/5437:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: 06239
+    location_type: postcode
+  name: CONNECTICUT STATE
+  order: '0'
+  priority: '0'
+  rate: '6.35'
+  shipping: '1'
+  state: CT
+wootax/5438:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '06241'
+    location_type: postcode
+  name: CONNECTICUT STATE
+  order: '0'
+  priority: '0'
+  rate: '6.35'
+  shipping: '1'
+  state: CT
+wootax/5439:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '06242'
+    location_type: postcode
+  name: CONNECTICUT STATE
+  order: '0'
+  priority: '0'
+  rate: '6.35'
+  shipping: '1'
+  state: CT
+wootax/5440:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '06243'
+    location_type: postcode
+  name: CONNECTICUT STATE
+  order: '0'
+  priority: '0'
+  rate: '6.35'
+  shipping: '1'
+  state: CT
+wootax/5441:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '06244'
+    location_type: postcode
+  name: CONNECTICUT STATE
+  order: '0'
+  priority: '0'
+  rate: '6.35'
+  shipping: '1'
+  state: CT
+wootax/5442:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '06246'
+    location_type: postcode
+  name: CONNECTICUT STATE
+  order: '0'
+  priority: '0'
+  rate: '6.35'
+  shipping: '1'
+  state: CT
+wootax/5443:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '06247'
+    location_type: postcode
+  name: CONNECTICUT STATE
+  order: '0'
+  priority: '0'
+  rate: '6.35'
+  shipping: '1'
+  state: CT
+wootax/5444:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: 06248
+    location_type: postcode
+  name: CONNECTICUT STATE
+  order: '0'
+  priority: '0'
+  rate: '6.35'
+  shipping: '1'
+  state: CT
+wootax/5445:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: 06249
+    location_type: postcode
+  name: CONNECTICUT STATE
+  order: '0'
+  priority: '0'
+  rate: '6.35'
+  shipping: '1'
+  state: CT
+wootax/5446:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '06250'
+    location_type: postcode
+  name: CONNECTICUT STATE
+  order: '0'
+  priority: '0'
+  rate: '6.35'
+  shipping: '1'
+  state: CT
+wootax/5447:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '06251'
+    location_type: postcode
+  name: CONNECTICUT STATE
+  order: '0'
+  priority: '0'
+  rate: '6.35'
+  shipping: '1'
+  state: CT
+wootax/5448:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '06254'
+    location_type: postcode
+  name: CONNECTICUT STATE
+  order: '0'
+  priority: '0'
+  rate: '6.35'
+  shipping: '1'
+  state: CT
+wootax/5449:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '06255'
+    location_type: postcode
+  name: CONNECTICUT STATE
+  order: '0'
+  priority: '0'
+  rate: '6.35'
+  shipping: '1'
+  state: CT
+wootax/5450:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '06256'
+    location_type: postcode
+  name: CONNECTICUT STATE
+  order: '0'
+  priority: '0'
+  rate: '6.35'
+  shipping: '1'
+  state: CT
+wootax/5451:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: 06258
+    location_type: postcode
+  name: CONNECTICUT STATE
+  order: '0'
+  priority: '0'
+  rate: '6.35'
+  shipping: '1'
+  state: CT
+wootax/5452:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: 06259
+    location_type: postcode
+  name: CONNECTICUT STATE
+  order: '0'
+  priority: '0'
+  rate: '6.35'
+  shipping: '1'
+  state: CT
+wootax/5453:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '06260'
+    location_type: postcode
+  name: CONNECTICUT STATE
+  order: '0'
+  priority: '0'
+  rate: '6.35'
+  shipping: '1'
+  state: CT
+wootax/5454:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '06262'
+    location_type: postcode
+  name: CONNECTICUT STATE
+  order: '0'
+  priority: '0'
+  rate: '6.35'
+  shipping: '1'
+  state: CT
+wootax/5455:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '06263'
+    location_type: postcode
+  name: CONNECTICUT STATE
+  order: '0'
+  priority: '0'
+  rate: '6.35'
+  shipping: '1'
+  state: CT
+wootax/5456:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '06264'
+    location_type: postcode
+  name: CONNECTICUT STATE
+  order: '0'
+  priority: '0'
+  rate: '6.35'
+  shipping: '1'
+  state: CT
+wootax/5457:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '06266'
+    location_type: postcode
+  name: CONNECTICUT STATE
+  order: '0'
+  priority: '0'
+  rate: '6.35'
+  shipping: '1'
+  state: CT
+wootax/5458:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '06267'
+    location_type: postcode
+  name: CONNECTICUT STATE
+  order: '0'
+  priority: '0'
+  rate: '6.35'
+  shipping: '1'
+  state: CT
+wootax/5459:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: 06268
+    location_type: postcode
+  name: CONNECTICUT STATE
+  order: '0'
+  priority: '0'
+  rate: '6.35'
+  shipping: '1'
+  state: CT
+wootax/5460:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: 06269
+    location_type: postcode
+  name: CONNECTICUT STATE
+  order: '0'
+  priority: '0'
+  rate: '6.35'
+  shipping: '1'
+  state: CT
+wootax/5461:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '06277'
+    location_type: postcode
+  name: CONNECTICUT STATE
+  order: '0'
+  priority: '0'
+  rate: '6.35'
+  shipping: '1'
+  state: CT
+wootax/5462:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: 06278
+    location_type: postcode
+  name: CONNECTICUT STATE
+  order: '0'
+  priority: '0'
+  rate: '6.35'
+  shipping: '1'
+  state: CT
+wootax/5463:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: 06279
+    location_type: postcode
+  name: CONNECTICUT STATE
+  order: '0'
+  priority: '0'
+  rate: '6.35'
+  shipping: '1'
+  state: CT
+wootax/5464:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: 06280
+    location_type: postcode
+  name: CONNECTICUT STATE
+  order: '0'
+  priority: '0'
+  rate: '6.35'
+  shipping: '1'
+  state: CT
+wootax/5465:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: 06281
+    location_type: postcode
+  name: CONNECTICUT STATE
+  order: '0'
+  priority: '0'
+  rate: '6.35'
+  shipping: '1'
+  state: CT
+wootax/5466:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: 06282
+    location_type: postcode
+  name: CONNECTICUT STATE
+  order: '0'
+  priority: '0'
+  rate: '6.35'
+  shipping: '1'
+  state: CT
+wootax/5467:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '06320'
+    location_type: postcode
+  name: CONNECTICUT STATE
+  order: '0'
+  priority: '0'
+  rate: '6.35'
+  shipping: '1'
+  state: CT
+wootax/5468:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '06330'
+    location_type: postcode
+  name: CONNECTICUT STATE
+  order: '0'
+  priority: '0'
+  rate: '6.35'
+  shipping: '1'
+  state: CT
+wootax/5469:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '06331'
+    location_type: postcode
+  name: CONNECTICUT STATE
+  order: '0'
+  priority: '0'
+  rate: '6.35'
+  shipping: '1'
+  state: CT
+wootax/5470:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '06332'
+    location_type: postcode
+  name: CONNECTICUT STATE
+  order: '0'
+  priority: '0'
+  rate: '6.35'
+  shipping: '1'
+  state: CT
+wootax/5471:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '06333'
+    location_type: postcode
+  name: CONNECTICUT STATE
+  order: '0'
+  priority: '0'
+  rate: '6.35'
+  shipping: '1'
+  state: CT
+wootax/5472:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '06334'
+    location_type: postcode
+  name: CONNECTICUT STATE
+  order: '0'
+  priority: '0'
+  rate: '6.35'
+  shipping: '1'
+  state: CT
+wootax/5473:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '06335'
+    location_type: postcode
+  name: CONNECTICUT STATE
+  order: '0'
+  priority: '0'
+  rate: '6.35'
+  shipping: '1'
+  state: CT
+wootax/5474:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '06336'
+    location_type: postcode
+  name: CONNECTICUT STATE
+  order: '0'
+  priority: '0'
+  rate: '6.35'
+  shipping: '1'
+  state: CT
+wootax/5475:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: 06338
+    location_type: postcode
+  name: CONNECTICUT STATE
+  order: '0'
+  priority: '0'
+  rate: '6.35'
+  shipping: '1'
+  state: CT
+wootax/5476:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: 06339
+    location_type: postcode
+  name: CONNECTICUT STATE
+  order: '0'
+  priority: '0'
+  rate: '6.35'
+  shipping: '1'
+  state: CT
+wootax/5477:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '06340'
+    location_type: postcode
+  name: CONNECTICUT STATE
+  order: '0'
+  priority: '0'
+  rate: '6.35'
+  shipping: '1'
+  state: CT
+wootax/5478:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: 06349
+    location_type: postcode
+  name: CONNECTICUT STATE
+  order: '0'
+  priority: '0'
+  rate: '6.35'
+  shipping: '1'
+  state: CT
+wootax/5479:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '06350'
+    location_type: postcode
+  name: CONNECTICUT STATE
+  order: '0'
+  priority: '0'
+  rate: '6.35'
+  shipping: '1'
+  state: CT
+wootax/5480:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '06351'
+    location_type: postcode
+  name: CONNECTICUT STATE
+  order: '0'
+  priority: '0'
+  rate: '6.35'
+  shipping: '1'
+  state: CT
+wootax/5481:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '06353'
+    location_type: postcode
+  name: CONNECTICUT STATE
+  order: '0'
+  priority: '0'
+  rate: '6.35'
+  shipping: '1'
+  state: CT
+wootax/5482:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '06354'
+    location_type: postcode
+  name: CONNECTICUT STATE
+  order: '0'
+  priority: '0'
+  rate: '6.35'
+  shipping: '1'
+  state: CT
+wootax/5483:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '06355'
+    location_type: postcode
+  name: CONNECTICUT STATE
+  order: '0'
+  priority: '0'
+  rate: '6.35'
+  shipping: '1'
+  state: CT
+wootax/5484:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '06357'
+    location_type: postcode
+  name: CONNECTICUT STATE
+  order: '0'
+  priority: '0'
+  rate: '6.35'
+  shipping: '1'
+  state: CT
+wootax/5485:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: 06359
+    location_type: postcode
+  name: CONNECTICUT STATE
+  order: '0'
+  priority: '0'
+  rate: '6.35'
+  shipping: '1'
+  state: CT
+wootax/5486:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '06360'
+    location_type: postcode
+  name: CONNECTICUT STATE
+  order: '0'
+  priority: '0'
+  rate: '6.35'
+  shipping: '1'
+  state: CT
+wootax/5487:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '06365'
+    location_type: postcode
+  name: CONNECTICUT STATE
+  order: '0'
+  priority: '0'
+  rate: '6.35'
+  shipping: '1'
+  state: CT
+wootax/5488:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '06370'
+    location_type: postcode
+  name: CONNECTICUT STATE
+  order: '0'
+  priority: '0'
+  rate: '6.35'
+  shipping: '1'
+  state: CT
+wootax/5489:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '06371'
+    location_type: postcode
+  name: CONNECTICUT STATE
+  order: '0'
+  priority: '0'
+  rate: '6.35'
+  shipping: '1'
+  state: CT
+wootax/5490:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '06372'
+    location_type: postcode
+  name: CONNECTICUT STATE
+  order: '0'
+  priority: '0'
+  rate: '6.35'
+  shipping: '1'
+  state: CT
+wootax/5491:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '06373'
+    location_type: postcode
+  name: CONNECTICUT STATE
+  order: '0'
+  priority: '0'
+  rate: '6.35'
+  shipping: '1'
+  state: CT
+wootax/5492:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '06374'
+    location_type: postcode
+  name: CONNECTICUT STATE
+  order: '0'
+  priority: '0'
+  rate: '6.35'
+  shipping: '1'
+  state: CT
+wootax/5493:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '06375'
+    location_type: postcode
+  name: CONNECTICUT STATE
+  order: '0'
+  priority: '0'
+  rate: '6.35'
+  shipping: '1'
+  state: CT
+wootax/5494:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '06376'
+    location_type: postcode
+  name: CONNECTICUT STATE
+  order: '0'
+  priority: '0'
+  rate: '6.35'
+  shipping: '1'
+  state: CT
+wootax/5495:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '06377'
+    location_type: postcode
+  name: CONNECTICUT STATE
+  order: '0'
+  priority: '0'
+  rate: '6.35'
+  shipping: '1'
+  state: CT
+wootax/5496:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: 06378
+    location_type: postcode
+  name: CONNECTICUT STATE
+  order: '0'
+  priority: '0'
+  rate: '6.35'
+  shipping: '1'
+  state: CT
+wootax/5497:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: 06379
+    location_type: postcode
+  name: CONNECTICUT STATE
+  order: '0'
+  priority: '0'
+  rate: '6.35'
+  shipping: '1'
+  state: CT
+wootax/5498:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: 06380
+    location_type: postcode
+  name: CONNECTICUT STATE
+  order: '0'
+  priority: '0'
+  rate: '6.35'
+  shipping: '1'
+  state: CT
+wootax/5499:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: 06382
+    location_type: postcode
+  name: CONNECTICUT STATE
+  order: '0'
+  priority: '0'
+  rate: '6.35'
+  shipping: '1'
+  state: CT
+wootax/5500:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: 06383
+    location_type: postcode
+  name: CONNECTICUT STATE
+  order: '0'
+  priority: '0'
+  rate: '6.35'
+  shipping: '1'
+  state: CT
+wootax/5501:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: 06384
+    location_type: postcode
+  name: CONNECTICUT STATE
+  order: '0'
+  priority: '0'
+  rate: '6.35'
+  shipping: '1'
+  state: CT
+wootax/5502:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: 06385
+    location_type: postcode
+  name: CONNECTICUT STATE
+  order: '0'
+  priority: '0'
+  rate: '6.35'
+  shipping: '1'
+  state: CT
+wootax/5503:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: 06387
+    location_type: postcode
+  name: CONNECTICUT STATE
+  order: '0'
+  priority: '0'
+  rate: '6.35'
+  shipping: '1'
+  state: CT
+wootax/5504:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: 06388
+    location_type: postcode
+  name: CONNECTICUT STATE
+  order: '0'
+  priority: '0'
+  rate: '6.35'
+  shipping: '1'
+  state: CT
+wootax/5505:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: 06389
+    location_type: postcode
+  name: CONNECTICUT STATE
+  order: '0'
+  priority: '0'
+  rate: '6.35'
+  shipping: '1'
+  state: CT
+wootax/5506:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '06401'
+    location_type: postcode
+  name: CONNECTICUT STATE
+  order: '0'
+  priority: '0'
+  rate: '6.35'
+  shipping: '1'
+  state: CT
+wootax/5507:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '06403'
+    location_type: postcode
+  name: CONNECTICUT STATE
+  order: '0'
+  priority: '0'
+  rate: '6.35'
+  shipping: '1'
+  state: CT
+wootax/5508:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '06404'
+    location_type: postcode
+  name: CONNECTICUT STATE
+  order: '0'
+  priority: '0'
+  rate: '6.35'
+  shipping: '1'
+  state: CT
+wootax/5509:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '06405'
+    location_type: postcode
+  name: CONNECTICUT STATE
+  order: '0'
+  priority: '0'
+  rate: '6.35'
+  shipping: '1'
+  state: CT
+wootax/5510:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: 06408
+    location_type: postcode
+  name: CONNECTICUT STATE
+  order: '0'
+  priority: '0'
+  rate: '6.35'
+  shipping: '1'
+  state: CT
+wootax/5511:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: 06409
+    location_type: postcode
+  name: CONNECTICUT STATE
+  order: '0'
+  priority: '0'
+  rate: '6.35'
+  shipping: '1'
+  state: CT
+wootax/5512:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '06410'
+    location_type: postcode
+  name: CONNECTICUT STATE
+  order: '0'
+  priority: '0'
+  rate: '6.35'
+  shipping: '1'
+  state: CT
+wootax/5513:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '06411'
+    location_type: postcode
+  name: CONNECTICUT STATE
+  order: '0'
+  priority: '0'
+  rate: '6.35'
+  shipping: '1'
+  state: CT
+wootax/5514:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '06412'
+    location_type: postcode
+  name: CONNECTICUT STATE
+  order: '0'
+  priority: '0'
+  rate: '6.35'
+  shipping: '1'
+  state: CT
+wootax/5515:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '06413'
+    location_type: postcode
+  name: CONNECTICUT STATE
+  order: '0'
+  priority: '0'
+  rate: '6.35'
+  shipping: '1'
+  state: CT
+wootax/5516:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '06414'
+    location_type: postcode
+  name: CONNECTICUT STATE
+  order: '0'
+  priority: '0'
+  rate: '6.35'
+  shipping: '1'
+  state: CT
+wootax/5517:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '06415'
+    location_type: postcode
+  name: CONNECTICUT STATE
+  order: '0'
+  priority: '0'
+  rate: '6.35'
+  shipping: '1'
+  state: CT
+wootax/5518:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '06416'
+    location_type: postcode
+  name: CONNECTICUT STATE
+  order: '0'
+  priority: '0'
+  rate: '6.35'
+  shipping: '1'
+  state: CT
+wootax/5519:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '06417'
+    location_type: postcode
+  name: CONNECTICUT STATE
+  order: '0'
+  priority: '0'
+  rate: '6.35'
+  shipping: '1'
+  state: CT
+wootax/5520:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: 06418
+    location_type: postcode
+  name: CONNECTICUT STATE
+  order: '0'
+  priority: '0'
+  rate: '6.35'
+  shipping: '1'
+  state: CT
+wootax/5521:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: 06419
+    location_type: postcode
+  name: CONNECTICUT STATE
+  order: '0'
+  priority: '0'
+  rate: '6.35'
+  shipping: '1'
+  state: CT
+wootax/5522:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '06420'
+    location_type: postcode
+  name: CONNECTICUT STATE
+  order: '0'
+  priority: '0'
+  rate: '6.35'
+  shipping: '1'
+  state: CT
+wootax/5523:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '06422'
+    location_type: postcode
+  name: CONNECTICUT STATE
+  order: '0'
+  priority: '0'
+  rate: '6.35'
+  shipping: '1'
+  state: CT
+wootax/5524:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '06423'
+    location_type: postcode
+  name: CONNECTICUT STATE
+  order: '0'
+  priority: '0'
+  rate: '6.35'
+  shipping: '1'
+  state: CT
+wootax/5525:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '06424'
+    location_type: postcode
+  name: CONNECTICUT STATE
+  order: '0'
+  priority: '0'
+  rate: '6.35'
+  shipping: '1'
+  state: CT
+wootax/5526:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '06426'
+    location_type: postcode
+  name: CONNECTICUT STATE
+  order: '0'
+  priority: '0'
+  rate: '6.35'
+  shipping: '1'
+  state: CT
+wootax/5527:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '06437'
+    location_type: postcode
+  name: CONNECTICUT STATE
+  order: '0'
+  priority: '0'
+  rate: '6.35'
+  shipping: '1'
+  state: CT
+wootax/5528:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: 06438
+    location_type: postcode
+  name: CONNECTICUT STATE
+  order: '0'
+  priority: '0'
+  rate: '6.35'
+  shipping: '1'
+  state: CT
+wootax/5529:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: 06439
+    location_type: postcode
+  name: CONNECTICUT STATE
+  order: '0'
+  priority: '0'
+  rate: '6.35'
+  shipping: '1'
+  state: CT
+wootax/5530:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '06440'
+    location_type: postcode
+  name: CONNECTICUT STATE
+  order: '0'
+  priority: '0'
+  rate: '6.35'
+  shipping: '1'
+  state: CT
+wootax/5531:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '06441'
+    location_type: postcode
+  name: CONNECTICUT STATE
+  order: '0'
+  priority: '0'
+  rate: '6.35'
+  shipping: '1'
+  state: CT
+wootax/5532:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '06442'
+    location_type: postcode
+  name: CONNECTICUT STATE
+  order: '0'
+  priority: '0'
+  rate: '6.35'
+  shipping: '1'
+  state: CT
+wootax/5533:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '06443'
+    location_type: postcode
+  name: CONNECTICUT STATE
+  order: '0'
+  priority: '0'
+  rate: '6.35'
+  shipping: '1'
+  state: CT
+wootax/5534:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '06444'
+    location_type: postcode
+  name: CONNECTICUT STATE
+  order: '0'
+  priority: '0'
+  rate: '6.35'
+  shipping: '1'
+  state: CT
+wootax/5535:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '06447'
+    location_type: postcode
+  name: CONNECTICUT STATE
+  order: '0'
+  priority: '0'
+  rate: '6.35'
+  shipping: '1'
+  state: CT
+wootax/5536:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '06450'
+    location_type: postcode
+  name: CONNECTICUT STATE
+  order: '0'
+  priority: '0'
+  rate: '6.35'
+  shipping: '1'
+  state: CT
+wootax/5537:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '06451'
+    location_type: postcode
+  name: CONNECTICUT STATE
+  order: '0'
+  priority: '0'
+  rate: '6.35'
+  shipping: '1'
+  state: CT
+wootax/5538:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '06455'
+    location_type: postcode
+  name: CONNECTICUT STATE
+  order: '0'
+  priority: '0'
+  rate: '6.35'
+  shipping: '1'
+  state: CT
+wootax/5539:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '06456'
+    location_type: postcode
+  name: CONNECTICUT STATE
+  order: '0'
+  priority: '0'
+  rate: '6.35'
+  shipping: '1'
+  state: CT
+wootax/5540:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '06457'
+    location_type: postcode
+  name: CONNECTICUT STATE
+  order: '0'
+  priority: '0'
+  rate: '6.35'
+  shipping: '1'
+  state: CT
+wootax/5541:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: 06459
+    location_type: postcode
+  name: CONNECTICUT STATE
+  order: '0'
+  priority: '0'
+  rate: '6.35'
+  shipping: '1'
+  state: CT
+wootax/5542:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '06460'
+    location_type: postcode
+  name: CONNECTICUT STATE
+  order: '0'
+  priority: '0'
+  rate: '6.35'
+  shipping: '1'
+  state: CT
+wootax/5543:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '06461'
+    location_type: postcode
+  name: CONNECTICUT STATE
+  order: '0'
+  priority: '0'
+  rate: '6.35'
+  shipping: '1'
+  state: CT
+wootax/5544:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '06467'
+    location_type: postcode
+  name: CONNECTICUT STATE
+  order: '0'
+  priority: '0'
+  rate: '6.35'
+  shipping: '1'
+  state: CT
+wootax/5545:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: 06468
+    location_type: postcode
+  name: CONNECTICUT STATE
+  order: '0'
+  priority: '0'
+  rate: '6.35'
+  shipping: '1'
+  state: CT
+wootax/5546:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: 06469
+    location_type: postcode
+  name: CONNECTICUT STATE
+  order: '0'
+  priority: '0'
+  rate: '6.35'
+  shipping: '1'
+  state: CT
+wootax/5547:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '06470'
+    location_type: postcode
+  name: CONNECTICUT STATE
+  order: '0'
+  priority: '0'
+  rate: '6.35'
+  shipping: '1'
+  state: CT
+wootax/5548:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '06471'
+    location_type: postcode
+  name: CONNECTICUT STATE
+  order: '0'
+  priority: '0'
+  rate: '6.35'
+  shipping: '1'
+  state: CT
+wootax/5549:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '06472'
+    location_type: postcode
+  name: CONNECTICUT STATE
+  order: '0'
+  priority: '0'
+  rate: '6.35'
+  shipping: '1'
+  state: CT
+wootax/5550:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '06473'
+    location_type: postcode
+  name: CONNECTICUT STATE
+  order: '0'
+  priority: '0'
+  rate: '6.35'
+  shipping: '1'
+  state: CT
+wootax/5551:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '06475'
+    location_type: postcode
+  name: CONNECTICUT STATE
+  order: '0'
+  priority: '0'
+  rate: '6.35'
+  shipping: '1'
+  state: CT
+wootax/5552:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '06477'
+    location_type: postcode
+  name: CONNECTICUT STATE
+  order: '0'
+  priority: '0'
+  rate: '6.35'
+  shipping: '1'
+  state: CT
+wootax/5553:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: 06478
+    location_type: postcode
+  name: CONNECTICUT STATE
+  order: '0'
+  priority: '0'
+  rate: '6.35'
+  shipping: '1'
+  state: CT
+wootax/5554:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: 06479
+    location_type: postcode
+  name: CONNECTICUT STATE
+  order: '0'
+  priority: '0'
+  rate: '6.35'
+  shipping: '1'
+  state: CT
+wootax/5555:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: 06480
+    location_type: postcode
+  name: CONNECTICUT STATE
+  order: '0'
+  priority: '0'
+  rate: '6.35'
+  shipping: '1'
+  state: CT
+wootax/5556:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: 06481
+    location_type: postcode
+  name: CONNECTICUT STATE
+  order: '0'
+  priority: '0'
+  rate: '6.35'
+  shipping: '1'
+  state: CT
+wootax/5557:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: 06482
+    location_type: postcode
+  name: CONNECTICUT STATE
+  order: '0'
+  priority: '0'
+  rate: '6.35'
+  shipping: '1'
+  state: CT
+wootax/5558:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: 06483
+    location_type: postcode
+  name: CONNECTICUT STATE
+  order: '0'
+  priority: '0'
+  rate: '6.35'
+  shipping: '1'
+  state: CT
+wootax/5559:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: 06484
+    location_type: postcode
+  name: CONNECTICUT STATE
+  order: '0'
+  priority: '0'
+  rate: '6.35'
+  shipping: '1'
+  state: CT
+wootax/5560:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: 06487
+    location_type: postcode
+  name: CONNECTICUT STATE
+  order: '0'
+  priority: '0'
+  rate: '6.35'
+  shipping: '1'
+  state: CT
+wootax/5561:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: 06488
+    location_type: postcode
+  name: CONNECTICUT STATE
+  order: '0'
+  priority: '0'
+  rate: '6.35'
+  shipping: '1'
+  state: CT
+wootax/5562:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: 06489
+    location_type: postcode
+  name: CONNECTICUT STATE
+  order: '0'
+  priority: '0'
+  rate: '6.35'
+  shipping: '1'
+  state: CT
+wootax/5563:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: 06491
+    location_type: postcode
+  name: CONNECTICUT STATE
+  order: '0'
+  priority: '0'
+  rate: '6.35'
+  shipping: '1'
+  state: CT
+wootax/5564:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: 06492
+    location_type: postcode
+  name: CONNECTICUT STATE
+  order: '0'
+  priority: '0'
+  rate: '6.35'
+  shipping: '1'
+  state: CT
+wootax/5565:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: 06493
+    location_type: postcode
+  name: CONNECTICUT STATE
+  order: '0'
+  priority: '0'
+  rate: '6.35'
+  shipping: '1'
+  state: CT
+wootax/5566:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: 06494
+    location_type: postcode
+  name: CONNECTICUT STATE
+  order: '0'
+  priority: '0'
+  rate: '6.35'
+  shipping: '1'
+  state: CT
+wootax/5567:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: 06495
+    location_type: postcode
+  name: CONNECTICUT STATE
+  order: '0'
+  priority: '0'
+  rate: '6.35'
+  shipping: '1'
+  state: CT
+wootax/5568:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: 06498
+    location_type: postcode
+  name: CONNECTICUT STATE
+  order: '0'
+  priority: '0'
+  rate: '6.35'
+  shipping: '1'
+  state: CT
+wootax/5569:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '06501'
+    location_type: postcode
+  name: CONNECTICUT STATE
+  order: '0'
+  priority: '0'
+  rate: '6.35'
+  shipping: '1'
+  state: CT
+wootax/5570:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '06502'
+    location_type: postcode
+  name: CONNECTICUT STATE
+  order: '0'
+  priority: '0'
+  rate: '6.35'
+  shipping: '1'
+  state: CT
+wootax/5571:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '06503'
+    location_type: postcode
+  name: CONNECTICUT STATE
+  order: '0'
+  priority: '0'
+  rate: '6.35'
+  shipping: '1'
+  state: CT
+wootax/5572:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '06504'
+    location_type: postcode
+  name: CONNECTICUT STATE
+  order: '0'
+  priority: '0'
+  rate: '6.35'
+  shipping: '1'
+  state: CT
+wootax/5573:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '06505'
+    location_type: postcode
+  name: CONNECTICUT STATE
+  order: '0'
+  priority: '0'
+  rate: '6.35'
+  shipping: '1'
+  state: CT
+wootax/5574:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '06506'
+    location_type: postcode
+  name: CONNECTICUT STATE
+  order: '0'
+  priority: '0'
+  rate: '6.35'
+  shipping: '1'
+  state: CT
+wootax/5575:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '06507'
+    location_type: postcode
+  name: CONNECTICUT STATE
+  order: '0'
+  priority: '0'
+  rate: '6.35'
+  shipping: '1'
+  state: CT
+wootax/5576:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: 06508
+    location_type: postcode
+  name: CONNECTICUT STATE
+  order: '0'
+  priority: '0'
+  rate: '6.35'
+  shipping: '1'
+  state: CT
+wootax/5577:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: 06509
+    location_type: postcode
+  name: CONNECTICUT STATE
+  order: '0'
+  priority: '0'
+  rate: '6.35'
+  shipping: '1'
+  state: CT
+wootax/5578:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '06510'
+    location_type: postcode
+  name: CONNECTICUT STATE
+  order: '0'
+  priority: '0'
+  rate: '6.35'
+  shipping: '1'
+  state: CT
+wootax/5579:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '06511'
+    location_type: postcode
+  name: CONNECTICUT STATE
+  order: '0'
+  priority: '0'
+  rate: '6.35'
+  shipping: '1'
+  state: CT
+wootax/5580:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '06512'
+    location_type: postcode
+  name: CONNECTICUT STATE
+  order: '0'
+  priority: '0'
+  rate: '6.35'
+  shipping: '1'
+  state: CT
+wootax/5581:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '06513'
+    location_type: postcode
+  name: CONNECTICUT STATE
+  order: '0'
+  priority: '0'
+  rate: '6.35'
+  shipping: '1'
+  state: CT
+wootax/5582:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '06514'
+    location_type: postcode
+  name: CONNECTICUT STATE
+  order: '0'
+  priority: '0'
+  rate: '6.35'
+  shipping: '1'
+  state: CT
+wootax/5583:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '06515'
+    location_type: postcode
+  name: CONNECTICUT STATE
+  order: '0'
+  priority: '0'
+  rate: '6.35'
+  shipping: '1'
+  state: CT
+wootax/5584:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '06516'
+    location_type: postcode
+  name: CONNECTICUT STATE
+  order: '0'
+  priority: '0'
+  rate: '6.35'
+  shipping: '1'
+  state: CT
+wootax/5585:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '06517'
+    location_type: postcode
+  name: CONNECTICUT STATE
+  order: '0'
+  priority: '0'
+  rate: '6.35'
+  shipping: '1'
+  state: CT
+wootax/5586:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: 06518
+    location_type: postcode
+  name: CONNECTICUT STATE
+  order: '0'
+  priority: '0'
+  rate: '6.35'
+  shipping: '1'
+  state: CT
+wootax/5587:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: 06519
+    location_type: postcode
+  name: CONNECTICUT STATE
+  order: '0'
+  priority: '0'
+  rate: '6.35'
+  shipping: '1'
+  state: CT
+wootax/5588:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '06520'
+    location_type: postcode
+  name: CONNECTICUT STATE
+  order: '0'
+  priority: '0'
+  rate: '6.35'
+  shipping: '1'
+  state: CT
+wootax/5589:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '06521'
+    location_type: postcode
+  name: CONNECTICUT STATE
+  order: '0'
+  priority: '0'
+  rate: '6.35'
+  shipping: '1'
+  state: CT
+wootax/5590:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '06524'
+    location_type: postcode
+  name: CONNECTICUT STATE
+  order: '0'
+  priority: '0'
+  rate: '6.35'
+  shipping: '1'
+  state: CT
+wootax/5591:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '06525'
+    location_type: postcode
+  name: CONNECTICUT STATE
+  order: '0'
+  priority: '0'
+  rate: '6.35'
+  shipping: '1'
+  state: CT
+wootax/5592:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '06530'
+    location_type: postcode
+  name: CONNECTICUT STATE
+  order: '0'
+  priority: '0'
+  rate: '6.35'
+  shipping: '1'
+  state: CT
+wootax/5593:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '06531'
+    location_type: postcode
+  name: CONNECTICUT STATE
+  order: '0'
+  priority: '0'
+  rate: '6.35'
+  shipping: '1'
+  state: CT
+wootax/5594:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '06532'
+    location_type: postcode
+  name: CONNECTICUT STATE
+  order: '0'
+  priority: '0'
+  rate: '6.35'
+  shipping: '1'
+  state: CT
+wootax/5595:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '06533'
+    location_type: postcode
+  name: CONNECTICUT STATE
+  order: '0'
+  priority: '0'
+  rate: '6.35'
+  shipping: '1'
+  state: CT
+wootax/5596:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '06534'
+    location_type: postcode
+  name: CONNECTICUT STATE
+  order: '0'
+  priority: '0'
+  rate: '6.35'
+  shipping: '1'
+  state: CT
+wootax/5597:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '06535'
+    location_type: postcode
+  name: CONNECTICUT STATE
+  order: '0'
+  priority: '0'
+  rate: '6.35'
+  shipping: '1'
+  state: CT
+wootax/5598:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '06536'
+    location_type: postcode
+  name: CONNECTICUT STATE
+  order: '0'
+  priority: '0'
+  rate: '6.35'
+  shipping: '1'
+  state: CT
+wootax/5599:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '06537'
+    location_type: postcode
+  name: CONNECTICUT STATE
+  order: '0'
+  priority: '0'
+  rate: '6.35'
+  shipping: '1'
+  state: CT
+wootax/5600:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: 06538
+    location_type: postcode
+  name: CONNECTICUT STATE
+  order: '0'
+  priority: '0'
+  rate: '6.35'
+  shipping: '1'
+  state: CT
+wootax/5601:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '06540'
+    location_type: postcode
+  name: CONNECTICUT STATE
+  order: '0'
+  priority: '0'
+  rate: '6.35'
+  shipping: '1'
+  state: CT
+wootax/5602:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '06601'
+    location_type: postcode
+  name: CONNECTICUT
+  order: '0'
+  priority: '0'
+  rate: '6.35'
+  shipping: '1'
+  state: CT
+wootax/5603:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '06602'
+    location_type: postcode
+  name: CONNECTICUT
+  order: '0'
+  priority: '0'
+  rate: '6.35'
+  shipping: '1'
+  state: CT
+wootax/5604:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '06604'
+    location_type: postcode
+  name: CONNECTICUT
+  order: '0'
+  priority: '0'
+  rate: '6.35'
+  shipping: '1'
+  state: CT
+wootax/5605:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '06605'
+    location_type: postcode
+  name: CONNECTICUT
+  order: '0'
+  priority: '0'
+  rate: '6.35'
+  shipping: '1'
+  state: CT
+wootax/5606:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '06606'
+    location_type: postcode
+  name: CONNECTICUT
+  order: '0'
+  priority: '0'
+  rate: '6.35'
+  shipping: '1'
+  state: CT
+wootax/5607:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '06607'
+    location_type: postcode
+  name: CONNECTICUT
+  order: '0'
+  priority: '0'
+  rate: '6.35'
+  shipping: '1'
+  state: CT
+wootax/5608:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: 06608
+    location_type: postcode
+  name: CONNECTICUT
+  order: '0'
+  priority: '0'
+  rate: '6.35'
+  shipping: '1'
+  state: CT
+wootax/5609:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '06610'
+    location_type: postcode
+  name: CONNECTICUT
+  order: '0'
+  priority: '0'
+  rate: '6.35'
+  shipping: '1'
+  state: CT
+wootax/5610:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '06611'
+    location_type: postcode
+  name: CONNECTICUT STATE
+  order: '0'
+  priority: '0'
+  rate: '6.35'
+  shipping: '1'
+  state: CT
+wootax/5611:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '06612'
+    location_type: postcode
+  name: CONNECTICUT STATE
+  order: '0'
+  priority: '0'
+  rate: '6.35'
+  shipping: '1'
+  state: CT
+wootax/5612:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '06614'
+    location_type: postcode
+  name: CONNECTICUT STATE
+  order: '0'
+  priority: '0'
+  rate: '6.35'
+  shipping: '1'
+  state: CT
+wootax/5613:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '06615'
+    location_type: postcode
+  name: CONNECTICUT STATE
+  order: '0'
+  priority: '0'
+  rate: '6.35'
+  shipping: '1'
+  state: CT
+wootax/5614:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '06650'
+    location_type: postcode
+  name: CONNECTICUT
+  order: '0'
+  priority: '0'
+  rate: '6.35'
+  shipping: '1'
+  state: CT
+wootax/5615:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '06673'
+    location_type: postcode
+  name: CONNECTICUT
+  order: '0'
+  priority: '0'
+  rate: '6.35'
+  shipping: '1'
+  state: CT
+wootax/5616:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: 06699
+    location_type: postcode
+  name: CONNECTICUT
+  order: '0'
+  priority: '0'
+  rate: '6.35'
+  shipping: '1'
+  state: CT
+wootax/5617:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '06701'
+    location_type: postcode
+  name: CONNECTICUT STATE
+  order: '0'
+  priority: '0'
+  rate: '6.35'
+  shipping: '1'
+  state: CT
+wootax/5618:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '06702'
+    location_type: postcode
+  name: CONNECTICUT STATE
+  order: '0'
+  priority: '0'
+  rate: '6.35'
+  shipping: '1'
+  state: CT
+wootax/5619:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '06703'
+    location_type: postcode
+  name: CONNECTICUT STATE
+  order: '0'
+  priority: '0'
+  rate: '6.35'
+  shipping: '1'
+  state: CT
+wootax/5620:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '06704'
+    location_type: postcode
+  name: CONNECTICUT STATE
+  order: '0'
+  priority: '0'
+  rate: '6.35'
+  shipping: '1'
+  state: CT
+wootax/5621:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '06705'
+    location_type: postcode
+  name: CONNECTICUT STATE
+  order: '0'
+  priority: '0'
+  rate: '6.35'
+  shipping: '1'
+  state: CT
+wootax/5622:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '06706'
+    location_type: postcode
+  name: CONNECTICUT STATE
+  order: '0'
+  priority: '0'
+  rate: '6.35'
+  shipping: '1'
+  state: CT
+wootax/5623:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: 06708
+    location_type: postcode
+  name: CONNECTICUT STATE
+  order: '0'
+  priority: '0'
+  rate: '6.35'
+  shipping: '1'
+  state: CT
+wootax/5624:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '06710'
+    location_type: postcode
+  name: CONNECTICUT STATE
+  order: '0'
+  priority: '0'
+  rate: '6.35'
+  shipping: '1'
+  state: CT
+wootax/5625:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '06712'
+    location_type: postcode
+  name: CONNECTICUT STATE
+  order: '0'
+  priority: '0'
+  rate: '6.35'
+  shipping: '1'
+  state: CT
+wootax/5626:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '06716'
+    location_type: postcode
+  name: CONNECTICUT STATE
+  order: '0'
+  priority: '0'
+  rate: '6.35'
+  shipping: '1'
+  state: CT
+wootax/5627:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '06720'
+    location_type: postcode
+  name: CONNECTICUT STATE
+  order: '0'
+  priority: '0'
+  rate: '6.35'
+  shipping: '1'
+  state: CT
+wootax/5628:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '06721'
+    location_type: postcode
+  name: CONNECTICUT STATE
+  order: '0'
+  priority: '0'
+  rate: '6.35'
+  shipping: '1'
+  state: CT
+wootax/5629:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '06722'
+    location_type: postcode
+  name: CONNECTICUT STATE
+  order: '0'
+  priority: '0'
+  rate: '6.35'
+  shipping: '1'
+  state: CT
+wootax/5630:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '06723'
+    location_type: postcode
+  name: CONNECTICUT STATE
+  order: '0'
+  priority: '0'
+  rate: '6.35'
+  shipping: '1'
+  state: CT
+wootax/5631:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '06724'
+    location_type: postcode
+  name: CONNECTICUT STATE
+  order: '0'
+  priority: '0'
+  rate: '6.35'
+  shipping: '1'
+  state: CT
+wootax/5632:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: 06749
+    location_type: postcode
+  name: CONNECTICUT STATE
+  order: '0'
+  priority: '0'
+  rate: '6.35'
+  shipping: '1'
+  state: CT
+wootax/5633:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '06750'
+    location_type: postcode
+  name: CONNECTICUT STATE
+  order: '0'
+  priority: '0'
+  rate: '6.35'
+  shipping: '1'
+  state: CT
+wootax/5634:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '06751'
+    location_type: postcode
+  name: CONNECTICUT STATE
+  order: '0'
+  priority: '0'
+  rate: '6.35'
+  shipping: '1'
+  state: CT
+wootax/5635:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '06752'
+    location_type: postcode
+  name: CONNECTICUT STATE
+  order: '0'
+  priority: '0'
+  rate: '6.35'
+  shipping: '1'
+  state: CT
+wootax/5636:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '06753'
+    location_type: postcode
+  name: CONNECTICUT STATE
+  order: '0'
+  priority: '0'
+  rate: '6.35'
+  shipping: '1'
+  state: CT
+wootax/5637:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '06754'
+    location_type: postcode
+  name: CONNECTICUT STATE
+  order: '0'
+  priority: '0'
+  rate: '6.35'
+  shipping: '1'
+  state: CT
+wootax/5638:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '06755'
+    location_type: postcode
+  name: CONNECTICUT STATE
+  order: '0'
+  priority: '0'
+  rate: '6.35'
+  shipping: '1'
+  state: CT
+wootax/5639:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '06756'
+    location_type: postcode
+  name: CONNECTICUT STATE
+  order: '0'
+  priority: '0'
+  rate: '6.35'
+  shipping: '1'
+  state: CT
+wootax/5640:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '06757'
+    location_type: postcode
+  name: CONNECTICUT STATE
+  order: '0'
+  priority: '0'
+  rate: '6.35'
+  shipping: '1'
+  state: CT
+wootax/5641:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: 06758
+    location_type: postcode
+  name: CONNECTICUT STATE
+  order: '0'
+  priority: '0'
+  rate: '6.35'
+  shipping: '1'
+  state: CT
+wootax/5642:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: 06759
+    location_type: postcode
+  name: CONNECTICUT STATE
+  order: '0'
+  priority: '0'
+  rate: '6.35'
+  shipping: '1'
+  state: CT
+wootax/5643:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '06762'
+    location_type: postcode
+  name: CONNECTICUT STATE
+  order: '0'
+  priority: '0'
+  rate: '6.35'
+  shipping: '1'
+  state: CT
+wootax/5644:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '06763'
+    location_type: postcode
+  name: CONNECTICUT STATE
+  order: '0'
+  priority: '0'
+  rate: '6.35'
+  shipping: '1'
+  state: CT
+wootax/5645:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '06770'
+    location_type: postcode
+  name: CONNECTICUT STATE
+  order: '0'
+  priority: '0'
+  rate: '6.35'
+  shipping: '1'
+  state: CT
+wootax/5646:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '06776'
+    location_type: postcode
+  name: CONNECTICUT STATE
+  order: '0'
+  priority: '0'
+  rate: '6.35'
+  shipping: '1'
+  state: CT
+wootax/5647:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '06777'
+    location_type: postcode
+  name: CONNECTICUT STATE
+  order: '0'
+  priority: '0'
+  rate: '6.35'
+  shipping: '1'
+  state: CT
+wootax/5648:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: 06778
+    location_type: postcode
+  name: CONNECTICUT STATE
+  order: '0'
+  priority: '0'
+  rate: '6.35'
+  shipping: '1'
+  state: CT
+wootax/5649:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: 06779
+    location_type: postcode
+  name: CONNECTICUT STATE
+  order: '0'
+  priority: '0'
+  rate: '6.35'
+  shipping: '1'
+  state: CT
+wootax/5650:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: 06781
+    location_type: postcode
+  name: CONNECTICUT STATE
+  order: '0'
+  priority: '0'
+  rate: '6.35'
+  shipping: '1'
+  state: CT
+wootax/5651:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: 06782
+    location_type: postcode
+  name: CONNECTICUT STATE
+  order: '0'
+  priority: '0'
+  rate: '6.35'
+  shipping: '1'
+  state: CT
+wootax/5652:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: 06783
+    location_type: postcode
+  name: CONNECTICUT STATE
+  order: '0'
+  priority: '0'
+  rate: '6.35'
+  shipping: '1'
+  state: CT
+wootax/5653:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: 06784
+    location_type: postcode
+  name: CONNECTICUT STATE
+  order: '0'
+  priority: '0'
+  rate: '6.35'
+  shipping: '1'
+  state: CT
+wootax/5654:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: 06785
+    location_type: postcode
+  name: CONNECTICUT STATE
+  order: '0'
+  priority: '0'
+  rate: '6.35'
+  shipping: '1'
+  state: CT
+wootax/5655:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: 06786
+    location_type: postcode
+  name: CONNECTICUT STATE
+  order: '0'
+  priority: '0'
+  rate: '6.35'
+  shipping: '1'
+  state: CT
+wootax/5656:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: 06787
+    location_type: postcode
+  name: CONNECTICUT STATE
+  order: '0'
+  priority: '0'
+  rate: '6.35'
+  shipping: '1'
+  state: CT
+wootax/5657:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: 06790
+    location_type: postcode
+  name: CONNECTICUT STATE
+  order: '0'
+  priority: '0'
+  rate: '6.35'
+  shipping: '1'
+  state: CT
+wootax/5658:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: 06791
+    location_type: postcode
+  name: CONNECTICUT STATE
+  order: '0'
+  priority: '0'
+  rate: '6.35'
+  shipping: '1'
+  state: CT
+wootax/5659:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: 06792
+    location_type: postcode
+  name: CONNECTICUT STATE
+  order: '0'
+  priority: '0'
+  rate: '6.35'
+  shipping: '1'
+  state: CT
+wootax/5660:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: 06793
+    location_type: postcode
+  name: CONNECTICUT STATE
+  order: '0'
+  priority: '0'
+  rate: '6.35'
+  shipping: '1'
+  state: CT
+wootax/5661:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: 06794
+    location_type: postcode
+  name: CONNECTICUT STATE
+  order: '0'
+  priority: '0'
+  rate: '6.35'
+  shipping: '1'
+  state: CT
+wootax/5662:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: 06795
+    location_type: postcode
+  name: CONNECTICUT STATE
+  order: '0'
+  priority: '0'
+  rate: '6.35'
+  shipping: '1'
+  state: CT
+wootax/5663:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: 06796
+    location_type: postcode
+  name: CONNECTICUT STATE
+  order: '0'
+  priority: '0'
+  rate: '6.35'
+  shipping: '1'
+  state: CT
+wootax/5664:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: 06798
+    location_type: postcode
+  name: CONNECTICUT STATE
+  order: '0'
+  priority: '0'
+  rate: '6.35'
+  shipping: '1'
+  state: CT
+wootax/5665:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: 06801
+    location_type: postcode
+  name: CONNECTICUT STATE
+  order: '0'
+  priority: '0'
+  rate: '6.35'
+  shipping: '1'
+  state: CT
+wootax/5666:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: 06804
+    location_type: postcode
+  name: CONNECTICUT STATE
+  order: '0'
+  priority: '0'
+  rate: '6.35'
+  shipping: '1'
+  state: CT
+wootax/5667:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: 06807
+    location_type: postcode
+  name: CONNECTICUT STATE
+  order: '0'
+  priority: '0'
+  rate: '6.35'
+  shipping: '1'
+  state: CT
+wootax/5668:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: 06810
+    location_type: postcode
+  name: CONNECTICUT STATE
+  order: '0'
+  priority: '0'
+  rate: '6.35'
+  shipping: '1'
+  state: CT
+wootax/5669:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: 06811
+    location_type: postcode
+  name: CONNECTICUT STATE
+  order: '0'
+  priority: '0'
+  rate: '6.35'
+  shipping: '1'
+  state: CT
+wootax/5670:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: 06812
+    location_type: postcode
+  name: CONNECTICUT STATE
+  order: '0'
+  priority: '0'
+  rate: '6.35'
+  shipping: '1'
+  state: CT
+wootax/5671:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: 06813
+    location_type: postcode
+  name: CONNECTICUT STATE
+  order: '0'
+  priority: '0'
+  rate: '6.35'
+  shipping: '1'
+  state: CT
+wootax/5672:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: 06816
+    location_type: postcode
+  name: CONNECTICUT STATE
+  order: '0'
+  priority: '0'
+  rate: '6.35'
+  shipping: '1'
+  state: CT
+wootax/5673:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: 06820
+    location_type: postcode
+  name: CONNECTICUT STATE
+  order: '0'
+  priority: '0'
+  rate: '6.35'
+  shipping: '1'
+  state: CT
+wootax/5674:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: 06824
+    location_type: postcode
+  name: CONNECTICUT STATE
+  order: '0'
+  priority: '0'
+  rate: '6.35'
+  shipping: '1'
+  state: CT
+wootax/5675:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: 06825
+    location_type: postcode
+  name: CONNECTICUT STATE
+  order: '0'
+  priority: '0'
+  rate: '6.35'
+  shipping: '1'
+  state: CT
+wootax/5676:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: 06828
+    location_type: postcode
+  name: CONNECTICUT STATE
+  order: '0'
+  priority: '0'
+  rate: '6.35'
+  shipping: '1'
+  state: CT
+wootax/5677:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: 06829
+    location_type: postcode
+  name: CONNECTICUT STATE
+  order: '0'
+  priority: '0'
+  rate: '6.35'
+  shipping: '1'
+  state: CT
+wootax/5678:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: 06830
+    location_type: postcode
+  name: CONNECTICUT STATE
+  order: '0'
+  priority: '0'
+  rate: '6.35'
+  shipping: '1'
+  state: CT
+wootax/5679:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: 06831
+    location_type: postcode
+  name: CONNECTICUT STATE
+  order: '0'
+  priority: '0'
+  rate: '6.35'
+  shipping: '1'
+  state: CT
+wootax/5680:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: 06836
+    location_type: postcode
+  name: CONNECTICUT STATE
+  order: '0'
+  priority: '0'
+  rate: '6.35'
+  shipping: '1'
+  state: CT
+wootax/5681:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: 06838
+    location_type: postcode
+  name: CONNECTICUT STATE
+  order: '0'
+  priority: '0'
+  rate: '6.35'
+  shipping: '1'
+  state: CT
+wootax/5682:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: 06840
+    location_type: postcode
+  name: CONNECTICUT STATE
+  order: '0'
+  priority: '0'
+  rate: '6.35'
+  shipping: '1'
+  state: CT
+wootax/5683:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: 06850
+    location_type: postcode
+  name: CONNECTICUT STATE
+  order: '0'
+  priority: '0'
+  rate: '6.35'
+  shipping: '1'
+  state: CT
+wootax/5684:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: 06851
+    location_type: postcode
+  name: CONNECTICUT STATE
+  order: '0'
+  priority: '0'
+  rate: '6.35'
+  shipping: '1'
+  state: CT
+wootax/5685:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: 06852
+    location_type: postcode
+  name: CONNECTICUT STATE
+  order: '0'
+  priority: '0'
+  rate: '6.35'
+  shipping: '1'
+  state: CT
+wootax/5686:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: 06853
+    location_type: postcode
+  name: CONNECTICUT STATE
+  order: '0'
+  priority: '0'
+  rate: '6.35'
+  shipping: '1'
+  state: CT
+wootax/5687:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: 06854
+    location_type: postcode
+  name: CONNECTICUT STATE
+  order: '0'
+  priority: '0'
+  rate: '6.35'
+  shipping: '1'
+  state: CT
+wootax/5688:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: 06855
+    location_type: postcode
+  name: CONNECTICUT STATE
+  order: '0'
+  priority: '0'
+  rate: '6.35'
+  shipping: '1'
+  state: CT
+wootax/5689:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: 06856
+    location_type: postcode
+  name: CONNECTICUT STATE
+  order: '0'
+  priority: '0'
+  rate: '6.35'
+  shipping: '1'
+  state: CT
+wootax/5690:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: 06857
+    location_type: postcode
+  name: CONNECTICUT STATE
+  order: '0'
+  priority: '0'
+  rate: '6.35'
+  shipping: '1'
+  state: CT
+wootax/5691:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: 06858
+    location_type: postcode
+  name: CONNECTICUT STATE
+  order: '0'
+  priority: '0'
+  rate: '6.35'
+  shipping: '1'
+  state: CT
+wootax/5692:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: 06870
+    location_type: postcode
+  name: CONNECTICUT STATE
+  order: '0'
+  priority: '0'
+  rate: '6.35'
+  shipping: '1'
+  state: CT
+wootax/5693:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: 06875
+    location_type: postcode
+  name: CONNECTICUT STATE
+  order: '0'
+  priority: '0'
+  rate: '6.35'
+  shipping: '1'
+  state: CT
+wootax/5694:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: 06876
+    location_type: postcode
+  name: CONNECTICUT STATE
+  order: '0'
+  priority: '0'
+  rate: '6.35'
+  shipping: '1'
+  state: CT
+wootax/5695:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: 06877
+    location_type: postcode
+  name: CONNECTICUT STATE
+  order: '0'
+  priority: '0'
+  rate: '6.35'
+  shipping: '1'
+  state: CT
+wootax/5696:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: 06878
+    location_type: postcode
+  name: CONNECTICUT STATE
+  order: '0'
+  priority: '0'
+  rate: '6.35'
+  shipping: '1'
+  state: CT
+wootax/5697:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: 06880
+    location_type: postcode
+  name: CONNECTICUT STATE
+  order: '0'
+  priority: '0'
+  rate: '6.35'
+  shipping: '1'
+  state: CT
+wootax/5698:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: 06881
+    location_type: postcode
+  name: CONNECTICUT STATE
+  order: '0'
+  priority: '0'
+  rate: '6.35'
+  shipping: '1'
+  state: CT
+wootax/5699:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: 06883
+    location_type: postcode
+  name: CONNECTICUT STATE
+  order: '0'
+  priority: '0'
+  rate: '6.35'
+  shipping: '1'
+  state: CT
+wootax/5700:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: 06888
+    location_type: postcode
+  name: CONNECTICUT STATE
+  order: '0'
+  priority: '0'
+  rate: '6.35'
+  shipping: '1'
+  state: CT
+wootax/5701:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: 06889
+    location_type: postcode
+  name: CONNECTICUT STATE
+  order: '0'
+  priority: '0'
+  rate: '6.35'
+  shipping: '1'
+  state: CT
+wootax/5702:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: 06890
+    location_type: postcode
+  name: CONNECTICUT STATE
+  order: '0'
+  priority: '0'
+  rate: '6.35'
+  shipping: '1'
+  state: CT
+wootax/5703:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: 06896
+    location_type: postcode
+  name: CONNECTICUT STATE
+  order: '0'
+  priority: '0'
+  rate: '6.35'
+  shipping: '1'
+  state: CT
+wootax/5704:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: 06897
+    location_type: postcode
+  name: CONNECTICUT STATE
+  order: '0'
+  priority: '0'
+  rate: '6.35'
+  shipping: '1'
+  state: CT
+wootax/5705:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: 06901
+    location_type: postcode
+  name: CONNECTICUT STATE
+  order: '0'
+  priority: '0'
+  rate: '6.35'
+  shipping: '1'
+  state: CT
+wootax/5706:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: 06902
+    location_type: postcode
+  name: CONNECTICUT STATE
+  order: '0'
+  priority: '0'
+  rate: '6.35'
+  shipping: '1'
+  state: CT
+wootax/5707:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: 06903
+    location_type: postcode
+  name: CONNECTICUT STATE
+  order: '0'
+  priority: '0'
+  rate: '6.35'
+  shipping: '1'
+  state: CT
+wootax/5708:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: 06904
+    location_type: postcode
+  name: CONNECTICUT STATE
+  order: '0'
+  priority: '0'
+  rate: '6.35'
+  shipping: '1'
+  state: CT
+wootax/5709:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: 06905
+    location_type: postcode
+  name: CONNECTICUT STATE
+  order: '0'
+  priority: '0'
+  rate: '6.35'
+  shipping: '1'
+  state: CT
+wootax/5710:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: 06906
+    location_type: postcode
+  name: CONNECTICUT STATE
+  order: '0'
+  priority: '0'
+  rate: '6.35'
+  shipping: '1'
+  state: CT
+wootax/5711:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: 06907
+    location_type: postcode
+  name: CONNECTICUT STATE
+  order: '0'
+  priority: '0'
+  rate: '6.35'
+  shipping: '1'
+  state: CT
+wootax/5712:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: 06910
+    location_type: postcode
+  name: CONNECTICUT STATE
+  order: '0'
+  priority: '0'
+  rate: '6.35'
+  shipping: '1'
+  state: CT
+wootax/5713:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: 06911
+    location_type: postcode
+  name: CONNECTICUT STATE
+  order: '0'
+  priority: '0'
+  rate: '6.35'
+  shipping: '1'
+  state: CT
+wootax/5714:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: 06912
+    location_type: postcode
+  name: CONNECTICUT STATE
+  order: '0'
+  priority: '0'
+  rate: '6.35'
+  shipping: '1'
+  state: CT
+wootax/5715:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: 06913
+    location_type: postcode
+  name: CONNECTICUT STATE
+  order: '0'
+  priority: '0'
+  rate: '6.35'
+  shipping: '1'
+  state: CT
+wootax/5716:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: 06914
+    location_type: postcode
+  name: CONNECTICUT STATE
+  order: '0'
+  priority: '0'
+  rate: '6.35'
+  shipping: '1'
+  state: CT
+wootax/5717:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: 06925
+    location_type: postcode
+  name: CONNECTICUT STATE
+  order: '0'
+  priority: '0'
+  rate: '6.35'
+  shipping: '1'
+  state: CT
+wootax/5718:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: 06926
+    location_type: postcode
+  name: CONNECTICUT STATE
+  order: '0'
+  priority: '0'
+  rate: '6.35'
+  shipping: '1'
+  state: CT
+wootax/5719:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: 06927
+    location_type: postcode
+  name: CONNECTICUT STATE
+  order: '0'
+  priority: '0'
+  rate: '6.35'
+  shipping: '1'
+  state: CT

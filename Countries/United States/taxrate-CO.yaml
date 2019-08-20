@@ -1,0 +1,8255 @@
+wootax/4674:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '80001'
+    location_type: postcode
+  name: ARVADA (JEFFERSON CO)
+  order: '0'
+  priority: '0'
+  rate: '7.96'
+  shipping: '1'
+  state: CO
+wootax/4675:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '80002'
+    location_type: postcode
+  name: ARVADA (JEFFERSON CO)
+  order: '0'
+  priority: '0'
+  rate: '7.96'
+  shipping: '1'
+  state: CO
+wootax/4676:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '80003'
+    location_type: postcode
+  name: ARVADA (JEFFERSON CO)
+  order: '0'
+  priority: '0'
+  rate: '7.96'
+  shipping: '1'
+  state: CO
+wootax/4677:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '80004'
+    location_type: postcode
+  name: ARVADA (JEFFERSON CO)
+  order: '0'
+  priority: '0'
+  rate: '7.96'
+  shipping: '1'
+  state: CO
+wootax/4678:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '80005'
+    location_type: postcode
+  name: ARVADA (JEFFERSON CO)
+  order: '0'
+  priority: '0'
+  rate: '7.96'
+  shipping: '1'
+  state: CO
+wootax/4679:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '80006'
+    location_type: postcode
+  name: ARVADA (JEFFERSON CO)
+  order: '0'
+  priority: '0'
+  rate: '7.96'
+  shipping: '1'
+  state: CO
+wootax/4680:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '80007'
+    location_type: postcode
+  name: ARVADA (JEFFERSON CO)
+  order: '0'
+  priority: '0'
+  rate: '7.96'
+  shipping: '1'
+  state: CO
+wootax/4681:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '80010'
+    location_type: postcode
+  name: AURORA (ADAMS CO)
+  order: '0'
+  priority: '0'
+  rate: '8.5'
+  shipping: '1'
+  state: CO
+wootax/4682:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '80011'
+    location_type: postcode
+  name: AURORA (ARAPAHOE CO)
+  order: '0'
+  priority: '0'
+  rate: '8'
+  shipping: '1'
+  state: CO
+wootax/4683:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '80012'
+    location_type: postcode
+  name: AURORA (ARAPAHOE CO)
+  order: '0'
+  priority: '0'
+  rate: '8'
+  shipping: '1'
+  state: CO
+wootax/4684:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '80013'
+    location_type: postcode
+  name: AURORA (ARAPAHOE CO)
+  order: '0'
+  priority: '0'
+  rate: '8'
+  shipping: '1'
+  state: CO
+wootax/4685:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '80014'
+    location_type: postcode
+  name: AURORA (ARAPAHOE CO)
+  order: '0'
+  priority: '0'
+  rate: '8'
+  shipping: '1'
+  state: CO
+wootax/4686:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '80015'
+    location_type: postcode
+  name: AURORA (ARAPAHOE CO)
+  order: '0'
+  priority: '0'
+  rate: '8'
+  shipping: '1'
+  state: CO
+wootax/4687:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '80016'
+    location_type: postcode
+  name: AURORA (ARAPAHOE CO)
+  order: '0'
+  priority: '0'
+  rate: '8'
+  shipping: '1'
+  state: CO
+wootax/4688:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '80017'
+    location_type: postcode
+  name: AURORA (ARAPAHOE CO)
+  order: '0'
+  priority: '0'
+  rate: '8'
+  shipping: '1'
+  state: CO
+wootax/4689:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '80018'
+    location_type: postcode
+  name: AURORA CD ONLY
+  order: '0'
+  priority: '0'
+  rate: '7'
+  shipping: '1'
+  state: CO
+wootax/4690:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '80019'
+    location_type: postcode
+  name: AURORA (ADAMS CO)
+  order: '0'
+  priority: '0'
+  rate: '8.5'
+  shipping: '1'
+  state: CO
+wootax/4691:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '80020'
+    location_type: postcode
+  name: BROOMFIELD
+  order: '0'
+  priority: '0'
+  rate: '8.15'
+  shipping: '1'
+  state: CO
+wootax/4692:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '80021'
+    location_type: postcode
+  name: WESTMINSTER (JEFFERSON CO)
+  order: '0'
+  priority: '0'
+  rate: '8.35'
+  shipping: '1'
+  state: CO
+wootax/4693:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '80022'
+    location_type: postcode
+  name: COMMERCE
+  order: '0'
+  priority: '0'
+  rate: '9.25'
+  shipping: '1'
+  state: CO
+wootax/4694:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '80023'
+    location_type: postcode
+  name: BROOMFIELD
+  order: '0'
+  priority: '0'
+  rate: '8.15'
+  shipping: '1'
+  state: CO
+wootax/4695:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '80025'
+    location_type: postcode
+  name: BOULDER CO REMAINDER
+  order: '0'
+  priority: '0'
+  rate: '4.985'
+  shipping: '1'
+  state: CO
+wootax/4696:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '80026'
+    location_type: postcode
+  name: LAFAYETTE
+  order: '0'
+  priority: '0'
+  rate: '8.485'
+  shipping: '1'
+  state: CO
+wootax/4697:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '80027'
+    location_type: postcode
+  name: LOUISVILLE
+  order: '0'
+  priority: '0'
+  rate: '8.635'
+  shipping: '1'
+  state: CO
+wootax/4698:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '80030'
+    location_type: postcode
+  name: WESTMINSTER (ADAMS CO)
+  order: '0'
+  priority: '0'
+  rate: '8.6'
+  shipping: '1'
+  state: CO
+wootax/4699:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '80031'
+    location_type: postcode
+  name: WESTMINSTER (ADAMS CO)
+  order: '0'
+  priority: '0'
+  rate: '8.6'
+  shipping: '1'
+  state: CO
+wootax/4700:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '80033'
+    location_type: postcode
+  name: WHEAT RIDGE
+  order: '0'
+  priority: '0'
+  rate: '8'
+  shipping: '1'
+  state: CO
+wootax/4701:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '80034'
+    location_type: postcode
+  name: WHEAT RIDGE
+  order: '0'
+  priority: '0'
+  rate: '8'
+  shipping: '1'
+  state: CO
+wootax/4702:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '80035'
+    location_type: postcode
+  name: WESTMINSTER (ADAMS CO)
+  order: '0'
+  priority: '0'
+  rate: '8.6'
+  shipping: '1'
+  state: CO
+wootax/4703:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '80036'
+    location_type: postcode
+  name: WESTMINSTER (ADAMS CO)
+  order: '0'
+  priority: '0'
+  rate: '8.6'
+  shipping: '1'
+  state: CO
+wootax/4704:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '80037'
+    location_type: postcode
+  name: COMMERCE
+  order: '0'
+  priority: '0'
+  rate: '9.25'
+  shipping: '1'
+  state: CO
+wootax/4705:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '80038'
+    location_type: postcode
+  name: BROOMFIELD
+  order: '0'
+  priority: '0'
+  rate: '8.15'
+  shipping: '1'
+  state: CO
+wootax/4706:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '80040'
+    location_type: postcode
+  name: AURORA (ADAMS CO)
+  order: '0'
+  priority: '0'
+  rate: '8.5'
+  shipping: '1'
+  state: CO
+wootax/4707:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '80041'
+    location_type: postcode
+  name: AURORA (ARAPAHOE CO)
+  order: '0'
+  priority: '0'
+  rate: '8'
+  shipping: '1'
+  state: CO
+wootax/4708:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '80042'
+    location_type: postcode
+  name: AURORA (ADAMS CO)
+  order: '0'
+  priority: '0'
+  rate: '8.5'
+  shipping: '1'
+  state: CO
+wootax/4709:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '80044'
+    location_type: postcode
+  name: AURORA (ADAMS CO)
+  order: '0'
+  priority: '0'
+  rate: '8.5'
+  shipping: '1'
+  state: CO
+wootax/4710:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '80045'
+    location_type: postcode
+  name: AURORA (ADAMS CO)
+  order: '0'
+  priority: '0'
+  rate: '8.5'
+  shipping: '1'
+  state: CO
+wootax/4711:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '80046'
+    location_type: postcode
+  name: CENTENNIAL
+  order: '0'
+  priority: '0'
+  rate: '6.75'
+  shipping: '1'
+  state: CO
+wootax/4712:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '80047'
+    location_type: postcode
+  name: AURORA (ARAPAHOE CO)
+  order: '0'
+  priority: '0'
+  rate: '8'
+  shipping: '1'
+  state: CO
+wootax/4713:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '80101'
+    location_type: postcode
+  name: ELBERT COUNTY
+  order: '0'
+  priority: '0'
+  rate: '3.9'
+  shipping: '1'
+  state: CO
+wootax/4714:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '80102'
+    location_type: postcode
+  name: ADAMS CO REMAINDER CULTUR
+  order: '0'
+  priority: '0'
+  rate: '3.75'
+  shipping: '1'
+  state: CO
+wootax/4715:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '80103'
+    location_type: postcode
+  name: ARAPAHOE CO REMAIND CULTU
+  order: '0'
+  priority: '0'
+  rate: '3.25'
+  shipping: '1'
+  state: CO
+wootax/4716:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '80104'
+    location_type: postcode
+  name: CASTLE ROCK
+  order: '0'
+  priority: '0'
+  rate: '7.9'
+  shipping: '1'
+  state: CO
+wootax/4717:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '80105'
+    location_type: postcode
+  name: ARAPAHOE CO REMAIND CULTU
+  order: '0'
+  priority: '0'
+  rate: '3.25'
+  shipping: '1'
+  state: CO
+wootax/4718:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '80106'
+    location_type: postcode
+  name: EL PASO COUNTY / RTA
+  order: '0'
+  priority: '0'
+  rate: '5.13'
+  shipping: '1'
+  state: CO
+wootax/4719:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '80107'
+    location_type: postcode
+  name: ELBERT COUNTY
+  order: '0'
+  priority: '0'
+  rate: '3.9'
+  shipping: '1'
+  state: CO
+wootax/4720:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '80108'
+    location_type: postcode
+  name: CASTLE ROCK
+  order: '0'
+  priority: '0'
+  rate: '7.9'
+  shipping: '1'
+  state: CO
+wootax/4721:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '80109'
+    location_type: postcode
+  name: CASTLE ROCK
+  order: '0'
+  priority: '0'
+  rate: '7.9'
+  shipping: '1'
+  state: CO
+wootax/4722:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '80110'
+    location_type: postcode
+  name: ENGLEWOOD
+  order: '0'
+  priority: '0'
+  rate: '7.75'
+  shipping: '1'
+  state: CO
+wootax/4723:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '80111'
+    location_type: postcode
+  name: GREENWOOD VILLAGE
+  order: '0'
+  priority: '0'
+  rate: '7.25'
+  shipping: '1'
+  state: CO
+wootax/4724:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '80112'
+    location_type: postcode
+  name: CENTENNIAL
+  order: '0'
+  priority: '0'
+  rate: '6.75'
+  shipping: '1'
+  state: CO
+wootax/4725:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '80113'
+    location_type: postcode
+  name: ENGLEWOOD
+  order: '0'
+  priority: '0'
+  rate: '7.75'
+  shipping: '1'
+  state: CO
+wootax/4726:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '80116'
+    location_type: postcode
+  name: DOUGLAS COUNTY / CD
+  order: '0'
+  priority: '0'
+  rate: '4'
+  shipping: '1'
+  state: CO
+wootax/4727:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '80117'
+    location_type: postcode
+  name: ELBERT COUNTY
+  order: '0'
+  priority: '0'
+  rate: '3.9'
+  shipping: '1'
+  state: CO
+wootax/4728:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '80118'
+    location_type: postcode
+  name: DOUGLAS COUNTY / CD
+  order: '0'
+  priority: '0'
+  rate: '4'
+  shipping: '1'
+  state: CO
+wootax/4729:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '80120'
+    location_type: postcode
+  name: LITTLETON (ARAPAHOE CO)
+  order: '0'
+  priority: '0'
+  rate: '7.25'
+  shipping: '1'
+  state: CO
+wootax/4730:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '80121'
+    location_type: postcode
+  name: CENTENNIAL
+  order: '0'
+  priority: '0'
+  rate: '6.75'
+  shipping: '1'
+  state: CO
+wootax/4731:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '80122'
+    location_type: postcode
+  name: CENTENNIAL
+  order: '0'
+  priority: '0'
+  rate: '6.75'
+  shipping: '1'
+  state: CO
+wootax/4732:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '80123'
+    location_type: postcode
+  name: DENVER
+  order: '0'
+  priority: '0'
+  rate: '8.31'
+  shipping: '1'
+  state: CO
+wootax/4733:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '80124'
+    location_type: postcode
+  name: LONE TREE
+  order: '0'
+  priority: '0'
+  rate: '6.8125'
+  shipping: '1'
+  state: CO
+wootax/4734:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '80125'
+    location_type: postcode
+  name: DOUGLAS COUNTY / CD
+  order: '0'
+  priority: '0'
+  rate: '4'
+  shipping: '1'
+  state: CO
+wootax/4735:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '80126'
+    location_type: postcode
+  name: HIGHLANDS RANCH
+  order: '0'
+  priority: '0'
+  rate: '5'
+  shipping: '1'
+  state: CO
+wootax/4736:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '80127'
+    location_type: postcode
+  name: JEFFERSON CO S E LID
+  order: '0'
+  priority: '0'
+  rate: '5'
+  shipping: '1'
+  state: CO
+wootax/4737:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '80128'
+    location_type: postcode
+  name: JEFFERSON CO S E LID
+  order: '0'
+  priority: '0'
+  rate: '5'
+  shipping: '1'
+  state: CO
+wootax/4738:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '80129'
+    location_type: postcode
+  name: HIGHLANDS RANCH
+  order: '0'
+  priority: '0'
+  rate: '5'
+  shipping: '1'
+  state: CO
+wootax/4739:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '80130'
+    location_type: postcode
+  name: HIGHLANDS RANCH
+  order: '0'
+  priority: '0'
+  rate: '5'
+  shipping: '1'
+  state: CO
+wootax/4740:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '80131'
+    location_type: postcode
+  name: DOUGLAS COUNTY / CD
+  order: '0'
+  priority: '0'
+  rate: '4'
+  shipping: '1'
+  state: CO
+wootax/4741:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '80132'
+    location_type: postcode
+  name: EL PASO COUNTY / RTA
+  order: '0'
+  priority: '0'
+  rate: '5.13'
+  shipping: '1'
+  state: CO
+wootax/4742:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '80133'
+    location_type: postcode
+  name: PALMER LAKE
+  order: '0'
+  priority: '0'
+  rate: '7.13'
+  shipping: '1'
+  state: CO
+wootax/4743:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '80134'
+    location_type: postcode
+  name: DOUGLAS CO REMAINDER
+  order: '0'
+  priority: '0'
+  rate: '5'
+  shipping: '1'
+  state: CO
+wootax/4744:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '80135'
+    location_type: postcode
+  name: DOUGLAS COUNTY / CD
+  order: '0'
+  priority: '0'
+  rate: '4'
+  shipping: '1'
+  state: CO
+wootax/4745:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '80136'
+    location_type: postcode
+  name: ADAMS CO REMAINDER CULTUR
+  order: '0'
+  priority: '0'
+  rate: '3.75'
+  shipping: '1'
+  state: CO
+wootax/4746:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '80137'
+    location_type: postcode
+  name: ADAMS CO REMAINDER CULTUR
+  order: '0'
+  priority: '0'
+  rate: '3.75'
+  shipping: '1'
+  state: CO
+wootax/4747:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '80138'
+    location_type: postcode
+  name: PARKER
+  order: '0'
+  priority: '0'
+  rate: '8'
+  shipping: '1'
+  state: CO
+wootax/4748:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '80150'
+    location_type: postcode
+  name: ENGLEWOOD
+  order: '0'
+  priority: '0'
+  rate: '7.75'
+  shipping: '1'
+  state: CO
+wootax/4749:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '80151'
+    location_type: postcode
+  name: ENGLEWOOD
+  order: '0'
+  priority: '0'
+  rate: '7.75'
+  shipping: '1'
+  state: CO
+wootax/4750:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '80155'
+    location_type: postcode
+  name: CENTENNIAL
+  order: '0'
+  priority: '0'
+  rate: '6.75'
+  shipping: '1'
+  state: CO
+wootax/4751:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '80160'
+    location_type: postcode
+  name: LITTLETON (ARAPAHOE CO)
+  order: '0'
+  priority: '0'
+  rate: '7.25'
+  shipping: '1'
+  state: CO
+wootax/4752:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '80161'
+    location_type: postcode
+  name: LITTLETON (ARAPAHOE CO)
+  order: '0'
+  priority: '0'
+  rate: '7.25'
+  shipping: '1'
+  state: CO
+wootax/4753:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '80162'
+    location_type: postcode
+  name: JEFFERSON CO S E LID
+  order: '0'
+  priority: '0'
+  rate: '5'
+  shipping: '1'
+  state: CO
+wootax/4754:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '80163'
+    location_type: postcode
+  name: HIGHLANDS RANCH
+  order: '0'
+  priority: '0'
+  rate: '5'
+  shipping: '1'
+  state: CO
+wootax/4755:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '80165'
+    location_type: postcode
+  name: LITTLETON (ARAPAHOE CO)
+  order: '0'
+  priority: '0'
+  rate: '7.25'
+  shipping: '1'
+  state: CO
+wootax/4756:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '80166'
+    location_type: postcode
+  name: LITTLETON (ARAPAHOE CO)
+  order: '0'
+  priority: '0'
+  rate: '7.25'
+  shipping: '1'
+  state: CO
+wootax/4757:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '80201'
+    location_type: postcode
+  name: DENVER
+  order: '0'
+  priority: '0'
+  rate: '8.31'
+  shipping: '1'
+  state: CO
+wootax/4758:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '80202'
+    location_type: postcode
+  name: DENVER
+  order: '0'
+  priority: '0'
+  rate: '8.31'
+  shipping: '1'
+  state: CO
+wootax/4759:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '80203'
+    location_type: postcode
+  name: DENVER
+  order: '0'
+  priority: '0'
+  rate: '8.31'
+  shipping: '1'
+  state: CO
+wootax/4760:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '80204'
+    location_type: postcode
+  name: DENVER
+  order: '0'
+  priority: '0'
+  rate: '8.31'
+  shipping: '1'
+  state: CO
+wootax/4761:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '80205'
+    location_type: postcode
+  name: DENVER
+  order: '0'
+  priority: '0'
+  rate: '8.31'
+  shipping: '1'
+  state: CO
+wootax/4762:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '80206'
+    location_type: postcode
+  name: DENVER
+  order: '0'
+  priority: '0'
+  rate: '8.31'
+  shipping: '1'
+  state: CO
+wootax/4763:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '80207'
+    location_type: postcode
+  name: DENVER
+  order: '0'
+  priority: '0'
+  rate: '8.31'
+  shipping: '1'
+  state: CO
+wootax/4764:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '80208'
+    location_type: postcode
+  name: DENVER
+  order: '0'
+  priority: '0'
+  rate: '8.31'
+  shipping: '1'
+  state: CO
+wootax/4765:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '80209'
+    location_type: postcode
+  name: DENVER
+  order: '0'
+  priority: '0'
+  rate: '8.31'
+  shipping: '1'
+  state: CO
+wootax/4766:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '80210'
+    location_type: postcode
+  name: DENVER
+  order: '0'
+  priority: '0'
+  rate: '8.31'
+  shipping: '1'
+  state: CO
+wootax/4767:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '80211'
+    location_type: postcode
+  name: DENVER
+  order: '0'
+  priority: '0'
+  rate: '8.31'
+  shipping: '1'
+  state: CO
+wootax/4768:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '80212'
+    location_type: postcode
+  name: DENVER
+  order: '0'
+  priority: '0'
+  rate: '8.31'
+  shipping: '1'
+  state: CO
+wootax/4769:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '80214'
+    location_type: postcode
+  name: LAKEWOOD
+  order: '0'
+  priority: '0'
+  rate: '7.5'
+  shipping: '1'
+  state: CO
+wootax/4770:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '80215'
+    location_type: postcode
+  name: LAKEWOOD
+  order: '0'
+  priority: '0'
+  rate: '7.5'
+  shipping: '1'
+  state: CO
+wootax/4771:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '80216'
+    location_type: postcode
+  name: DENVER
+  order: '0'
+  priority: '0'
+  rate: '8.31'
+  shipping: '1'
+  state: CO
+wootax/4772:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '80217'
+    location_type: postcode
+  name: DENVER
+  order: '0'
+  priority: '0'
+  rate: '8.31'
+  shipping: '1'
+  state: CO
+wootax/4773:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '80218'
+    location_type: postcode
+  name: DENVER
+  order: '0'
+  priority: '0'
+  rate: '8.31'
+  shipping: '1'
+  state: CO
+wootax/4774:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '80219'
+    location_type: postcode
+  name: DENVER
+  order: '0'
+  priority: '0'
+  rate: '8.31'
+  shipping: '1'
+  state: CO
+wootax/4775:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '80220'
+    location_type: postcode
+  name: DENVER
+  order: '0'
+  priority: '0'
+  rate: '8.31'
+  shipping: '1'
+  state: CO
+wootax/4776:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '80221'
+    location_type: postcode
+  name: ADAMS CO REMAINDER
+  order: '0'
+  priority: '0'
+  rate: '4.75'
+  shipping: '1'
+  state: CO
+wootax/4777:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '80222'
+    location_type: postcode
+  name: DENVER
+  order: '0'
+  priority: '0'
+  rate: '8.31'
+  shipping: '1'
+  state: CO
+wootax/4778:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '80223'
+    location_type: postcode
+  name: DENVER
+  order: '0'
+  priority: '0'
+  rate: '8.31'
+  shipping: '1'
+  state: CO
+wootax/4779:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '80224'
+    location_type: postcode
+  name: DENVER
+  order: '0'
+  priority: '0'
+  rate: '8.31'
+  shipping: '1'
+  state: CO
+wootax/4780:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '80225'
+    location_type: postcode
+  name: LAKEWOOD
+  order: '0'
+  priority: '0'
+  rate: '7.5'
+  shipping: '1'
+  state: CO
+wootax/4781:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '80226'
+    location_type: postcode
+  name: LAKEWOOD
+  order: '0'
+  priority: '0'
+  rate: '7.5'
+  shipping: '1'
+  state: CO
+wootax/4782:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '80227'
+    location_type: postcode
+  name: LAKEWOOD
+  order: '0'
+  priority: '0'
+  rate: '7.5'
+  shipping: '1'
+  state: CO
+wootax/4783:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '80228'
+    location_type: postcode
+  name: LAKEWOOD
+  order: '0'
+  priority: '0'
+  rate: '7.5'
+  shipping: '1'
+  state: CO
+wootax/4784:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '80229'
+    location_type: postcode
+  name: THORNTON
+  order: '0'
+  priority: '0'
+  rate: '8.5'
+  shipping: '1'
+  state: CO
+wootax/4785:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '80230'
+    location_type: postcode
+  name: DENVER
+  order: '0'
+  priority: '0'
+  rate: '8.31'
+  shipping: '1'
+  state: CO
+wootax/4786:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '80231'
+    location_type: postcode
+  name: DENVER
+  order: '0'
+  priority: '0'
+  rate: '8.31'
+  shipping: '1'
+  state: CO
+wootax/4787:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '80232'
+    location_type: postcode
+  name: LAKEWOOD
+  order: '0'
+  priority: '0'
+  rate: '7.5'
+  shipping: '1'
+  state: CO
+wootax/4788:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '80233'
+    location_type: postcode
+  name: NORTHGLENN (ADAMS CO)
+  order: '0'
+  priority: '0'
+  rate: '8.75'
+  shipping: '1'
+  state: CO
+wootax/4789:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '80234'
+    location_type: postcode
+  name: WESTMINSTER (ADAMS CO)
+  order: '0'
+  priority: '0'
+  rate: '8.6'
+  shipping: '1'
+  state: CO
+wootax/4790:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '80235'
+    location_type: postcode
+  name: LAKEWOOD
+  order: '0'
+  priority: '0'
+  rate: '7.5'
+  shipping: '1'
+  state: CO
+wootax/4791:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '80236'
+    location_type: postcode
+  name: DENVER
+  order: '0'
+  priority: '0'
+  rate: '8.31'
+  shipping: '1'
+  state: CO
+wootax/4792:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '80237'
+    location_type: postcode
+  name: DENVER
+  order: '0'
+  priority: '0'
+  rate: '8.31'
+  shipping: '1'
+  state: CO
+wootax/4793:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '80238'
+    location_type: postcode
+  name: DENVER
+  order: '0'
+  priority: '0'
+  rate: '8.31'
+  shipping: '1'
+  state: CO
+wootax/4794:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '80239'
+    location_type: postcode
+  name: DENVER
+  order: '0'
+  priority: '0'
+  rate: '8.31'
+  shipping: '1'
+  state: CO
+wootax/4795:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '80241'
+    location_type: postcode
+  name: THORNTON
+  order: '0'
+  priority: '0'
+  rate: '8.5'
+  shipping: '1'
+  state: CO
+wootax/4796:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '80243'
+    location_type: postcode
+  name: DENVER
+  order: '0'
+  priority: '0'
+  rate: '8.31'
+  shipping: '1'
+  state: CO
+wootax/4797:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '80246'
+    location_type: postcode
+  name: GLENDALE
+  order: '0'
+  priority: '0'
+  rate: '8'
+  shipping: '1'
+  state: CO
+wootax/4798:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '80247'
+    location_type: postcode
+  name: DENVER
+  order: '0'
+  priority: '0'
+  rate: '8.31'
+  shipping: '1'
+  state: CO
+wootax/4799:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '80248'
+    location_type: postcode
+  name: DENVER
+  order: '0'
+  priority: '0'
+  rate: '8.31'
+  shipping: '1'
+  state: CO
+wootax/4800:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '80249'
+    location_type: postcode
+  name: DENVER
+  order: '0'
+  priority: '0'
+  rate: '8.31'
+  shipping: '1'
+  state: CO
+wootax/4801:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '80250'
+    location_type: postcode
+  name: DENVER
+  order: '0'
+  priority: '0'
+  rate: '8.31'
+  shipping: '1'
+  state: CO
+wootax/4802:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '80256'
+    location_type: postcode
+  name: DENVER
+  order: '0'
+  priority: '0'
+  rate: '8.31'
+  shipping: '1'
+  state: CO
+wootax/4803:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '80257'
+    location_type: postcode
+  name: DENVER
+  order: '0'
+  priority: '0'
+  rate: '8.31'
+  shipping: '1'
+  state: CO
+wootax/4804:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '80259'
+    location_type: postcode
+  name: DENVER
+  order: '0'
+  priority: '0'
+  rate: '8.31'
+  shipping: '1'
+  state: CO
+wootax/4805:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '80260'
+    location_type: postcode
+  name: FEDERAL HEIGHTS
+  order: '0'
+  priority: '0'
+  rate: '8.75'
+  shipping: '1'
+  state: CO
+wootax/4806:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '80261'
+    location_type: postcode
+  name: DENVER
+  order: '0'
+  priority: '0'
+  rate: '8.31'
+  shipping: '1'
+  state: CO
+wootax/4807:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '80263'
+    location_type: postcode
+  name: DENVER
+  order: '0'
+  priority: '0'
+  rate: '8.31'
+  shipping: '1'
+  state: CO
+wootax/4808:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '80264'
+    location_type: postcode
+  name: DENVER
+  order: '0'
+  priority: '0'
+  rate: '8.31'
+  shipping: '1'
+  state: CO
+wootax/4809:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '80265'
+    location_type: postcode
+  name: DENVER
+  order: '0'
+  priority: '0'
+  rate: '8.31'
+  shipping: '1'
+  state: CO
+wootax/4810:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '80266'
+    location_type: postcode
+  name: DENVER
+  order: '0'
+  priority: '0'
+  rate: '8.31'
+  shipping: '1'
+  state: CO
+wootax/4811:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '80271'
+    location_type: postcode
+  name: DENVER
+  order: '0'
+  priority: '0'
+  rate: '8.31'
+  shipping: '1'
+  state: CO
+wootax/4812:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '80273'
+    location_type: postcode
+  name: DENVER
+  order: '0'
+  priority: '0'
+  rate: '8.31'
+  shipping: '1'
+  state: CO
+wootax/4813:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '80274'
+    location_type: postcode
+  name: DENVER
+  order: '0'
+  priority: '0'
+  rate: '8.31'
+  shipping: '1'
+  state: CO
+wootax/4814:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '80281'
+    location_type: postcode
+  name: DENVER
+  order: '0'
+  priority: '0'
+  rate: '8.31'
+  shipping: '1'
+  state: CO
+wootax/4815:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '80290'
+    location_type: postcode
+  name: DENVER
+  order: '0'
+  priority: '0'
+  rate: '8.31'
+  shipping: '1'
+  state: CO
+wootax/4816:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '80291'
+    location_type: postcode
+  name: DENVER
+  order: '0'
+  priority: '0'
+  rate: '8.31'
+  shipping: '1'
+  state: CO
+wootax/4817:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '80293'
+    location_type: postcode
+  name: DENVER
+  order: '0'
+  priority: '0'
+  rate: '8.31'
+  shipping: '1'
+  state: CO
+wootax/4818:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '80294'
+    location_type: postcode
+  name: DENVER
+  order: '0'
+  priority: '0'
+  rate: '8.31'
+  shipping: '1'
+  state: CO
+wootax/4819:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '80295'
+    location_type: postcode
+  name: DENVER
+  order: '0'
+  priority: '0'
+  rate: '8.31'
+  shipping: '1'
+  state: CO
+wootax/4820:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '80299'
+    location_type: postcode
+  name: DENVER
+  order: '0'
+  priority: '0'
+  rate: '8.31'
+  shipping: '1'
+  state: CO
+wootax/4821:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '80301'
+    location_type: postcode
+  name: BOULDER
+  order: '0'
+  priority: '0'
+  rate: '8.845'
+  shipping: '1'
+  state: CO
+wootax/4822:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '80302'
+    location_type: postcode
+  name: BOULDER
+  order: '0'
+  priority: '0'
+  rate: '8.845'
+  shipping: '1'
+  state: CO
+wootax/4823:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '80303'
+    location_type: postcode
+  name: BOULDER
+  order: '0'
+  priority: '0'
+  rate: '8.845'
+  shipping: '1'
+  state: CO
+wootax/4824:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '80304'
+    location_type: postcode
+  name: BOULDER
+  order: '0'
+  priority: '0'
+  rate: '8.845'
+  shipping: '1'
+  state: CO
+wootax/4825:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '80305'
+    location_type: postcode
+  name: BOULDER
+  order: '0'
+  priority: '0'
+  rate: '8.845'
+  shipping: '1'
+  state: CO
+wootax/4826:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '80306'
+    location_type: postcode
+  name: BOULDER
+  order: '0'
+  priority: '0'
+  rate: '8.845'
+  shipping: '1'
+  state: CO
+wootax/4827:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '80307'
+    location_type: postcode
+  name: BOULDER
+  order: '0'
+  priority: '0'
+  rate: '8.845'
+  shipping: '1'
+  state: CO
+wootax/4828:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '80308'
+    location_type: postcode
+  name: BOULDER
+  order: '0'
+  priority: '0'
+  rate: '8.845'
+  shipping: '1'
+  state: CO
+wootax/4829:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '80309'
+    location_type: postcode
+  name: BOULDER
+  order: '0'
+  priority: '0'
+  rate: '8.845'
+  shipping: '1'
+  state: CO
+wootax/4830:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '80310'
+    location_type: postcode
+  name: BOULDER CO REMAINDER
+  order: '0'
+  priority: '0'
+  rate: '4.985'
+  shipping: '1'
+  state: CO
+wootax/4831:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '80314'
+    location_type: postcode
+  name: BOULDER CO REMAINDER
+  order: '0'
+  priority: '0'
+  rate: '4.985'
+  shipping: '1'
+  state: CO
+wootax/4832:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '80401'
+    location_type: postcode
+  name: JEFFERSON CO REMAINDER
+  order: '0'
+  priority: '0'
+  rate: '4.5'
+  shipping: '1'
+  state: CO
+wootax/4833:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '80402'
+    location_type: postcode
+  name: GOLDEN
+  order: '0'
+  priority: '0'
+  rate: '7.5'
+  shipping: '1'
+  state: CO
+wootax/4834:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '80403'
+    location_type: postcode
+  name: JEFFERSON CO REMAINDER
+  order: '0'
+  priority: '0'
+  rate: '4.5'
+  shipping: '1'
+  state: CO
+wootax/4835:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '80419'
+    location_type: postcode
+  name: GOLDEN
+  order: '0'
+  priority: '0'
+  rate: '7.5'
+  shipping: '1'
+  state: CO
+wootax/4836:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '80420'
+    location_type: postcode
+  name: ALMA
+  order: '0'
+  priority: '0'
+  rate: '7.9'
+  shipping: '1'
+  state: CO
+wootax/4837:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '80421'
+    location_type: postcode
+  name: PARK COUNTY
+  order: '0'
+  priority: '0'
+  rate: '3.9'
+  shipping: '1'
+  state: CO
+wootax/4838:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '80422'
+    location_type: postcode
+  name: GILPIN COUNTY
+  order: '0'
+  priority: '0'
+  rate: '2.9'
+  shipping: '1'
+  state: CO
+wootax/4839:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '80423'
+    location_type: postcode
+  name: EAGLE COUNTY
+  order: '0'
+  priority: '0'
+  rate: '4.4'
+  shipping: '1'
+  state: CO
+wootax/4840:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '80424'
+    location_type: postcode
+  name: BRECKENRIDGE
+  order: '0'
+  priority: '0'
+  rate: '8.875'
+  shipping: '1'
+  state: CO
+wootax/4841:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '80425'
+    location_type: postcode
+  name: PARK COUNTY
+  order: '0'
+  priority: '0'
+  rate: '3.9'
+  shipping: '1'
+  state: CO
+wootax/4842:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '80426'
+    location_type: postcode
+  name: EAGLE COUNTY
+  order: '0'
+  priority: '0'
+  rate: '4.4'
+  shipping: '1'
+  state: CO
+wootax/4843:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '80427'
+    location_type: postcode
+  name: CENTRAL
+  order: '0'
+  priority: '0'
+  rate: '8.9'
+  shipping: '1'
+  state: CO
+wootax/4844:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '80428'
+    location_type: postcode
+  name: ROUTT COUNTY
+  order: '0'
+  priority: '0'
+  rate: '3.9'
+  shipping: '1'
+  state: CO
+wootax/4845:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '80429'
+    location_type: postcode
+  name: LAKE COUNTY
+  order: '0'
+  priority: '0'
+  rate: '6.9'
+  shipping: '1'
+  state: CO
+wootax/4846:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '80430'
+    location_type: postcode
+  name: JACKSON COUNTY
+  order: '0'
+  priority: '0'
+  rate: '6.9'
+  shipping: '1'
+  state: CO
+wootax/4847:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '80432'
+    location_type: postcode
+  name: PARK CO SOUTH PARK HSD
+  order: '0'
+  priority: '0'
+  rate: '4.9'
+  shipping: '1'
+  state: CO
+wootax/4848:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '80433'
+    location_type: postcode
+  name: JEFFERSON CO REMAINDER
+  order: '0'
+  priority: '0'
+  rate: '4.5'
+  shipping: '1'
+  state: CO
+wootax/4849:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '80434'
+    location_type: postcode
+  name: JACKSON COUNTY
+  order: '0'
+  priority: '0'
+  rate: '6.9'
+  shipping: '1'
+  state: CO
+wootax/4850:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '80435'
+    location_type: postcode
+  name: DILLON
+  order: '0'
+  priority: '0'
+  rate: '8.875'
+  shipping: '1'
+  state: CO
+wootax/4851:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '80436'
+    location_type: postcode
+  name: CLEAR CREEK COUNTY
+  order: '0'
+  priority: '0'
+  rate: '4.55'
+  shipping: '1'
+  state: CO
+wootax/4852:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '80437'
+    location_type: postcode
+  name: JEFFERSON CO REMAINDER
+  order: '0'
+  priority: '0'
+  rate: '4.5'
+  shipping: '1'
+  state: CO
+wootax/4853:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '80438'
+    location_type: postcode
+  name: EMPIRE
+  order: '0'
+  priority: '0'
+  rate: '9.55'
+  shipping: '1'
+  state: CO
+wootax/4854:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '80439'
+    location_type: postcode
+  name: JEFFERSON CO REMAINDER
+  order: '0'
+  priority: '0'
+  rate: '4.5'
+  shipping: '1'
+  state: CO
+wootax/4855:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '80440'
+    location_type: postcode
+  name: PARK CO SOUTH PARK HSD
+  order: '0'
+  priority: '0'
+  rate: '4.9'
+  shipping: '1'
+  state: CO
+wootax/4856:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '80442'
+    location_type: postcode
+  name: FRASER
+  order: '0'
+  priority: '0'
+  rate: '9.2'
+  shipping: '1'
+  state: CO
+wootax/4857:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '80443'
+    location_type: postcode
+  name: FRISCO
+  order: '0'
+  priority: '0'
+  rate: '8.375'
+  shipping: '1'
+  state: CO
+wootax/4858:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '80444'
+    location_type: postcode
+  name: GEORGETOWN
+  order: '0'
+  priority: '0'
+  rate: '9.05'
+  shipping: '1'
+  state: CO
+wootax/4859:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '80446'
+    location_type: postcode
+  name: GRANBY
+  order: '0'
+  priority: '0'
+  rate: '8.2'
+  shipping: '1'
+  state: CO
+wootax/4860:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '80447'
+    location_type: postcode
+  name: GRAND COUNTY
+  order: '0'
+  priority: '0'
+  rate: '4.2'
+  shipping: '1'
+  state: CO
+wootax/4861:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '80448'
+    location_type: postcode
+  name: PARK COUNTY
+  order: '0'
+  priority: '0'
+  rate: '3.9'
+  shipping: '1'
+  state: CO
+wootax/4862:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '80449'
+    location_type: postcode
+  name: PARK CO SOUTH PARK HSD
+  order: '0'
+  priority: '0'
+  rate: '4.9'
+  shipping: '1'
+  state: CO
+wootax/4863:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '80451'
+    location_type: postcode
+  name: HOT SULPHUR SPGS
+  order: '0'
+  priority: '0'
+  rate: '8.2'
+  shipping: '1'
+  state: CO
+wootax/4864:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '80452'
+    location_type: postcode
+  name: CLEAR CREEK COUNTY
+  order: '0'
+  priority: '0'
+  rate: '4.55'
+  shipping: '1'
+  state: CO
+wootax/4865:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '80453'
+    location_type: postcode
+  name: JEFFERSON CO REMAINDER
+  order: '0'
+  priority: '0'
+  rate: '4.5'
+  shipping: '1'
+  state: CO
+wootax/4866:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '80454'
+    location_type: postcode
+  name: JEFFERSON CO REMAINDER
+  order: '0'
+  priority: '0'
+  rate: '4.5'
+  shipping: '1'
+  state: CO
+wootax/4867:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '80455'
+    location_type: postcode
+  name: BOULDER CO REMAINDER
+  order: '0'
+  priority: '0'
+  rate: '4.985'
+  shipping: '1'
+  state: CO
+wootax/4868:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '80456'
+    location_type: postcode
+  name: PARK CO SOUTH PARK HSD
+  order: '0'
+  priority: '0'
+  rate: '4.9'
+  shipping: '1'
+  state: CO
+wootax/4869:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '80457'
+    location_type: postcode
+  name: JEFFERSON CO REMAINDER
+  order: '0'
+  priority: '0'
+  rate: '4.5'
+  shipping: '1'
+  state: CO
+wootax/4870:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '80459'
+    location_type: postcode
+  name: GRAND COUNTY
+  order: '0'
+  priority: '0'
+  rate: '4.2'
+  shipping: '1'
+  state: CO
+wootax/4871:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '80461'
+    location_type: postcode
+  name: LAKE COUNTY
+  order: '0'
+  priority: '0'
+  rate: '6.9'
+  shipping: '1'
+  state: CO
+wootax/4872:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '80463'
+    location_type: postcode
+  name: EAGLE COUNTY
+  order: '0'
+  priority: '0'
+  rate: '4.4'
+  shipping: '1'
+  state: CO
+wootax/4873:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '80465'
+    location_type: postcode
+  name: JEFFERSON CO REMAINDER
+  order: '0'
+  priority: '0'
+  rate: '4.5'
+  shipping: '1'
+  state: CO
+wootax/4874:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '80466'
+    location_type: postcode
+  name: BOULDER CO REMAINDER
+  order: '0'
+  priority: '0'
+  rate: '4.985'
+  shipping: '1'
+  state: CO
+wootax/4875:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '80467'
+    location_type: postcode
+  name: ROUTT COUNTY
+  order: '0'
+  priority: '0'
+  rate: '3.9'
+  shipping: '1'
+  state: CO
+wootax/4876:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '80468'
+    location_type: postcode
+  name: GRAND COUNTY
+  order: '0'
+  priority: '0'
+  rate: '4.2'
+  shipping: '1'
+  state: CO
+wootax/4877:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '80469'
+    location_type: postcode
+  name: ROUTT COUNTY
+  order: '0'
+  priority: '0'
+  rate: '3.9'
+  shipping: '1'
+  state: CO
+wootax/4878:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '80470'
+    location_type: postcode
+  name: JEFFERSON CO REMAINDER
+  order: '0'
+  priority: '0'
+  rate: '4.5'
+  shipping: '1'
+  state: CO
+wootax/4879:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '80471'
+    location_type: postcode
+  name: BOULDER CO REMAINDER
+  order: '0'
+  priority: '0'
+  rate: '4.985'
+  shipping: '1'
+  state: CO
+wootax/4880:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '80473'
+    location_type: postcode
+  name: JACKSON COUNTY
+  order: '0'
+  priority: '0'
+  rate: '6.9'
+  shipping: '1'
+  state: CO
+wootax/4881:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '80474'
+    location_type: postcode
+  name: GILPIN COUNTY
+  order: '0'
+  priority: '0'
+  rate: '2.9'
+  shipping: '1'
+  state: CO
+wootax/4882:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '80475'
+    location_type: postcode
+  name: PARK COUNTY
+  order: '0'
+  priority: '0'
+  rate: '3.9'
+  shipping: '1'
+  state: CO
+wootax/4883:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '80476'
+    location_type: postcode
+  name: SILVER PLUME
+  order: '0'
+  priority: '0'
+  rate: '7.55'
+  shipping: '1'
+  state: CO
+wootax/4884:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '80477'
+    location_type: postcode
+  name: STEAMBOAT SPRINGS LOCAL MARKETING DISTRICT
+  order: '0'
+  priority: '0'
+  rate: '8.4'
+  shipping: '1'
+  state: CO
+wootax/4885:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '80478'
+    location_type: postcode
+  name: GRAND COUNTY
+  order: '0'
+  priority: '0'
+  rate: '4.2'
+  shipping: '1'
+  state: CO
+wootax/4886:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '80479'
+    location_type: postcode
+  name: ROUTT COUNTY
+  order: '0'
+  priority: '0'
+  rate: '3.9'
+  shipping: '1'
+  state: CO
+wootax/4887:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '80480'
+    location_type: postcode
+  name: JACKSON COUNTY
+  order: '0'
+  priority: '0'
+  rate: '6.9'
+  shipping: '1'
+  state: CO
+wootax/4888:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '80481'
+    location_type: postcode
+  name: BOULDER CO REMAINDER
+  order: '0'
+  priority: '0'
+  rate: '4.985'
+  shipping: '1'
+  state: CO
+wootax/4889:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '80482'
+    location_type: postcode
+  name: WINTER PARK VILLAGE MASTER ASSOCIATION
+  order: '0'
+  priority: '0'
+  rate: '11.2'
+  shipping: '1'
+  state: CO
+wootax/4890:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '80483'
+    location_type: postcode
+  name: YAMPA
+  order: '0'
+  priority: '0'
+  rate: '5.9'
+  shipping: '1'
+  state: CO
+wootax/4891:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '80487'
+    location_type: postcode
+  name: STEAMBOAT SPRINGS LOCAL MARKETING DISTRICT
+  order: '0'
+  priority: '0'
+  rate: '8.4'
+  shipping: '1'
+  state: CO
+wootax/4892:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '80497'
+    location_type: postcode
+  name: SILVERTHORNE
+  order: '0'
+  priority: '0'
+  rate: '8.375'
+  shipping: '1'
+  state: CO
+wootax/4893:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '80498'
+    location_type: postcode
+  name: SILVERTHORNE
+  order: '0'
+  priority: '0'
+  rate: '8.375'
+  shipping: '1'
+  state: CO
+wootax/4894:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '80501'
+    location_type: postcode
+  name: LONGMONT
+  order: '0'
+  priority: '0'
+  rate: '8.515'
+  shipping: '1'
+  state: CO
+wootax/4895:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '80502'
+    location_type: postcode
+  name: LONGMONT
+  order: '0'
+  priority: '0'
+  rate: '8.515'
+  shipping: '1'
+  state: CO
+wootax/4896:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '80503'
+    location_type: postcode
+  name: LONGMONT
+  order: '0'
+  priority: '0'
+  rate: '8.515'
+  shipping: '1'
+  state: CO
+wootax/4897:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '80504'
+    location_type: postcode
+  name: LONGMONT
+  order: '0'
+  priority: '0'
+  rate: '8.515'
+  shipping: '1'
+  state: CO
+wootax/4898:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '80510'
+    location_type: postcode
+  name: BOULDER CO REMAINDER
+  order: '0'
+  priority: '0'
+  rate: '4.985'
+  shipping: '1'
+  state: CO
+wootax/4899:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '80511'
+    location_type: postcode
+  name: ESTES PARK LOCAL MARKETING DISTRICT
+  order: '0'
+  priority: '0'
+  rate: '3.7'
+  shipping: '1'
+  state: CO
+wootax/4900:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '80512'
+    location_type: postcode
+  name: ESTES PARK LOCAL MARKETING DISTRICT
+  order: '0'
+  priority: '0'
+  rate: '3.7'
+  shipping: '1'
+  state: CO
+wootax/4901:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '80513'
+    location_type: postcode
+  name: ESTES PARK LOCAL MARKETING DISTRICT
+  order: '0'
+  priority: '0'
+  rate: '3.7'
+  shipping: '1'
+  state: CO
+wootax/4902:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '80514'
+    location_type: postcode
+  name: DACONO
+  order: '0'
+  priority: '0'
+  rate: '5.9'
+  shipping: '1'
+  state: CO
+wootax/4903:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '80515'
+    location_type: postcode
+  name: ESTES PARK LOCAL MARKETING DISTRICT
+  order: '0'
+  priority: '0'
+  rate: '3.7'
+  shipping: '1'
+  state: CO
+wootax/4904:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '80516'
+    location_type: postcode
+  name: ERIE (WELD CO)
+  order: '0'
+  priority: '0'
+  rate: '7.4'
+  shipping: '1'
+  state: CO
+wootax/4905:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '80517'
+    location_type: postcode
+  name: ESTES PARK
+  order: '0'
+  priority: '0'
+  rate: '8.7'
+  shipping: '1'
+  state: CO
+wootax/4906:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '80520'
+    location_type: postcode
+  name: FIRESTONE
+  order: '0'
+  priority: '0'
+  rate: '6.5'
+  shipping: '1'
+  state: CO
+wootax/4907:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '80521'
+    location_type: postcode
+  name: FORT COLLINS
+  order: '0'
+  priority: '0'
+  rate: '7.55'
+  shipping: '1'
+  state: CO
+wootax/4908:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '80522'
+    location_type: postcode
+  name: FORT COLLINS
+  order: '0'
+  priority: '0'
+  rate: '7.55'
+  shipping: '1'
+  state: CO
+wootax/4909:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '80523'
+    location_type: postcode
+  name: FORT COLLINS
+  order: '0'
+  priority: '0'
+  rate: '7.55'
+  shipping: '1'
+  state: CO
+wootax/4910:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '80524'
+    location_type: postcode
+  name: FORT COLLINS
+  order: '0'
+  priority: '0'
+  rate: '7.55'
+  shipping: '1'
+  state: CO
+wootax/4911:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '80525'
+    location_type: postcode
+  name: FORT COLLINS
+  order: '0'
+  priority: '0'
+  rate: '7.55'
+  shipping: '1'
+  state: CO
+wootax/4912:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '80526'
+    location_type: postcode
+  name: FORT COLLINS
+  order: '0'
+  priority: '0'
+  rate: '7.55'
+  shipping: '1'
+  state: CO
+wootax/4913:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '80527'
+    location_type: postcode
+  name: FORT COLLINS
+  order: '0'
+  priority: '0'
+  rate: '7.55'
+  shipping: '1'
+  state: CO
+wootax/4914:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '80528'
+    location_type: postcode
+  name: FORT COLLINS
+  order: '0'
+  priority: '0'
+  rate: '7.55'
+  shipping: '1'
+  state: CO
+wootax/4915:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '80530'
+    location_type: postcode
+  name: FREDERICK
+  order: '0'
+  priority: '0'
+  rate: '5.4'
+  shipping: '1'
+  state: CO
+wootax/4916:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '80532'
+    location_type: postcode
+  name: ESTES PARK LOCAL MARKETING DISTRICT
+  order: '0'
+  priority: '0'
+  rate: '3.7'
+  shipping: '1'
+  state: CO
+wootax/4917:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '80533'
+    location_type: postcode
+  name: BOULDER CO REMAINDER
+  order: '0'
+  priority: '0'
+  rate: '4.985'
+  shipping: '1'
+  state: CO
+wootax/4918:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '80534'
+    location_type: postcode
+  name: JOHNSTOWN
+  order: '0'
+  priority: '0'
+  rate: '5.9'
+  shipping: '1'
+  state: CO
+wootax/4919:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '80535'
+    location_type: postcode
+  name: ESTES PARK LOCAL MARKETING DISTRICT
+  order: '0'
+  priority: '0'
+  rate: '3.7'
+  shipping: '1'
+  state: CO
+wootax/4920:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '80536'
+    location_type: postcode
+  name: ESTES PARK LOCAL MARKETING DISTRICT
+  order: '0'
+  priority: '0'
+  rate: '3.7'
+  shipping: '1'
+  state: CO
+wootax/4921:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '80537'
+    location_type: postcode
+  name: LOVELAND
+  order: '0'
+  priority: '0'
+  rate: '6.7'
+  shipping: '1'
+  state: CO
+wootax/4922:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '80538'
+    location_type: postcode
+  name: LOVELAND
+  order: '0'
+  priority: '0'
+  rate: '6.7'
+  shipping: '1'
+  state: CO
+wootax/4923:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '80539'
+    location_type: postcode
+  name: LOVELAND
+  order: '0'
+  priority: '0'
+  rate: '6.7'
+  shipping: '1'
+  state: CO
+wootax/4924:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '80540'
+    location_type: postcode
+  name: ESTES PARK LOCAL MARKETING DISTRICT
+  order: '0'
+  priority: '0'
+  rate: '3.7'
+  shipping: '1'
+  state: CO
+wootax/4925:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '80541'
+    location_type: postcode
+  name: ESTES PARK LOCAL MARKETING DISTRICT
+  order: '0'
+  priority: '0'
+  rate: '3.7'
+  shipping: '1'
+  state: CO
+wootax/4926:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '80542'
+    location_type: postcode
+  name: MEAD
+  order: '0'
+  priority: '0'
+  rate: '4.9'
+  shipping: '1'
+  state: CO
+wootax/4927:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '80543'
+    location_type: postcode
+  name: MILLIKEN
+  order: '0'
+  priority: '0'
+  rate: '5.4'
+  shipping: '1'
+  state: CO
+wootax/4928:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '80544'
+    location_type: postcode
+  name: BOULDER CO NIWOT LID
+  order: '0'
+  priority: '0'
+  rate: '5.985'
+  shipping: '1'
+  state: CO
+wootax/4929:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '80545'
+    location_type: postcode
+  name: ESTES PARK LOCAL MARKETING DISTRICT
+  order: '0'
+  priority: '0'
+  rate: '3.7'
+  shipping: '1'
+  state: CO
+wootax/4930:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '80546'
+    location_type: postcode
+  name: SEVERANCE
+  order: '0'
+  priority: '0'
+  rate: '5.9'
+  shipping: '1'
+  state: CO
+wootax/4931:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '80547'
+    location_type: postcode
+  name: TIMNATH
+  order: '0'
+  priority: '0'
+  rate: '6.7'
+  shipping: '1'
+  state: CO
+wootax/4932:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '80549'
+    location_type: postcode
+  name: WELLINGTON
+  order: '0'
+  priority: '0'
+  rate: '6.7'
+  shipping: '1'
+  state: CO
+wootax/4933:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '80550'
+    location_type: postcode
+  name: WINDSOR
+  order: '0'
+  priority: '0'
+  rate: '6.85'
+  shipping: '1'
+  state: CO
+wootax/4934:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '80551'
+    location_type: postcode
+  name: WINDSOR
+  order: '0'
+  priority: '0'
+  rate: '6.85'
+  shipping: '1'
+  state: CO
+wootax/4935:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '80553'
+    location_type: postcode
+  name: FORT COLLINS
+  order: '0'
+  priority: '0'
+  rate: '7.55'
+  shipping: '1'
+  state: CO
+wootax/4936:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '80601'
+    location_type: postcode
+  name: BRIGHTON (ADAMS CO)
+  order: '0'
+  priority: '0'
+  rate: '8.5'
+  shipping: '1'
+  state: CO
+wootax/4937:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '80602'
+    location_type: postcode
+  name: THORNTON
+  order: '0'
+  priority: '0'
+  rate: '8.5'
+  shipping: '1'
+  state: CO
+wootax/4938:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '80603'
+    location_type: postcode
+  name: ADAMS CO REMAINDER
+  order: '0'
+  priority: '0'
+  rate: '4.75'
+  shipping: '1'
+  state: CO
+wootax/4939:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '80610'
+    location_type: postcode
+  name: WELD COUNTY
+  order: '0'
+  priority: '0'
+  rate: '2.9'
+  shipping: '1'
+  state: CO
+wootax/4940:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '80611'
+    location_type: postcode
+  name: WELD COUNTY
+  order: '0'
+  priority: '0'
+  rate: '2.9'
+  shipping: '1'
+  state: CO
+wootax/4941:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '80612'
+    location_type: postcode
+  name: WELD COUNTY
+  order: '0'
+  priority: '0'
+  rate: '2.9'
+  shipping: '1'
+  state: CO
+wootax/4942:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '80614'
+    location_type: postcode
+  name: THORNTON
+  order: '0'
+  priority: '0'
+  rate: '8.5'
+  shipping: '1'
+  state: CO
+wootax/4943:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '80615'
+    location_type: postcode
+  name: EATON
+  order: '0'
+  priority: '0'
+  rate: '5.9'
+  shipping: '1'
+  state: CO
+wootax/4944:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '80620'
+    location_type: postcode
+  name: EVANS
+  order: '0'
+  priority: '0'
+  rate: '6.4'
+  shipping: '1'
+  state: CO
+wootax/4945:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '80621'
+    location_type: postcode
+  name: FORT LUPTON
+  order: '0'
+  priority: '0'
+  rate: '6.9'
+  shipping: '1'
+  state: CO
+wootax/4946:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '80622'
+    location_type: postcode
+  name: WELD COUNTY
+  order: '0'
+  priority: '0'
+  rate: '2.9'
+  shipping: '1'
+  state: CO
+wootax/4947:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '80623'
+    location_type: postcode
+  name: GILCREST
+  order: '0'
+  priority: '0'
+  rate: '6.9'
+  shipping: '1'
+  state: CO
+wootax/4948:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '80624'
+    location_type: postcode
+  name: WELD COUNTY
+  order: '0'
+  priority: '0'
+  rate: '2.9'
+  shipping: '1'
+  state: CO
+wootax/4949:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '80631'
+    location_type: postcode
+  name: GREELEY
+  order: '0'
+  priority: '0'
+  rate: '7.01'
+  shipping: '1'
+  state: CO
+wootax/4950:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '80632'
+    location_type: postcode
+  name: GREELEY
+  order: '0'
+  priority: '0'
+  rate: '7.01'
+  shipping: '1'
+  state: CO
+wootax/4951:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '80633'
+    location_type: postcode
+  name: GREELEY
+  order: '0'
+  priority: '0'
+  rate: '7.01'
+  shipping: '1'
+  state: CO
+wootax/4952:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '80634'
+    location_type: postcode
+  name: GREELEY
+  order: '0'
+  priority: '0'
+  rate: '7.01'
+  shipping: '1'
+  state: CO
+wootax/4953:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '80638'
+    location_type: postcode
+  name: GREELEY
+  order: '0'
+  priority: '0'
+  rate: '7.01'
+  shipping: '1'
+  state: CO
+wootax/4954:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '80639'
+    location_type: postcode
+  name: GREELEY
+  order: '0'
+  priority: '0'
+  rate: '7.01'
+  shipping: '1'
+  state: CO
+wootax/4955:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '80640'
+    location_type: postcode
+  name: COMMERCE
+  order: '0'
+  priority: '0'
+  rate: '9.25'
+  shipping: '1'
+  state: CO
+wootax/4956:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '80642'
+    location_type: postcode
+  name: WELD COUNTY
+  order: '0'
+  priority: '0'
+  rate: '2.9'
+  shipping: '1'
+  state: CO
+wootax/4957:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '80643'
+    location_type: postcode
+  name: WELD COUNTY
+  order: '0'
+  priority: '0'
+  rate: '2.9'
+  shipping: '1'
+  state: CO
+wootax/4958:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '80644'
+    location_type: postcode
+  name: WELD COUNTY
+  order: '0'
+  priority: '0'
+  rate: '2.9'
+  shipping: '1'
+  state: CO
+wootax/4959:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '80645'
+    location_type: postcode
+  name: WELD COUNTY
+  order: '0'
+  priority: '0'
+  rate: '2.9'
+  shipping: '1'
+  state: CO
+wootax/4960:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '80646'
+    location_type: postcode
+  name: WELD COUNTY
+  order: '0'
+  priority: '0'
+  rate: '2.9'
+  shipping: '1'
+  state: CO
+wootax/4961:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '80648'
+    location_type: postcode
+  name: NUNN
+  order: '0'
+  priority: '0'
+  rate: '4.9'
+  shipping: '1'
+  state: CO
+wootax/4962:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '80649'
+    location_type: postcode
+  name: MORGAN COUNTY
+  order: '0'
+  priority: '0'
+  rate: '2.9'
+  shipping: '1'
+  state: CO
+wootax/4963:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '80650'
+    location_type: postcode
+  name: WELD COUNTY
+  order: '0'
+  priority: '0'
+  rate: '2.9'
+  shipping: '1'
+  state: CO
+wootax/4964:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '80651'
+    location_type: postcode
+  name: WELD COUNTY
+  order: '0'
+  priority: '0'
+  rate: '2.9'
+  shipping: '1'
+  state: CO
+wootax/4965:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '80652'
+    location_type: postcode
+  name: WELD COUNTY
+  order: '0'
+  priority: '0'
+  rate: '2.9'
+  shipping: '1'
+  state: CO
+wootax/4966:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '80653'
+    location_type: postcode
+  name: MORGAN COUNTY
+  order: '0'
+  priority: '0'
+  rate: '2.9'
+  shipping: '1'
+  state: CO
+wootax/4967:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '80654'
+    location_type: postcode
+  name: MORGAN COUNTY
+  order: '0'
+  priority: '0'
+  rate: '2.9'
+  shipping: '1'
+  state: CO
+wootax/4968:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '80701'
+    location_type: postcode
+  name: FORT MORGAN
+  order: '0'
+  priority: '0'
+  rate: '6.9'
+  shipping: '1'
+  state: CO
+wootax/4969:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '80705'
+    location_type: postcode
+  name: LOG LANE VILLAGE
+  order: '0'
+  priority: '0'
+  rate: '5.9'
+  shipping: '1'
+  state: CO
+wootax/4970:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '80720'
+    location_type: postcode
+  name: AKRON
+  order: '0'
+  priority: '0'
+  rate: '6.9'
+  shipping: '1'
+  state: CO
+wootax/4971:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '80721'
+    location_type: postcode
+  name: PHILLIPS COUNTY
+  order: '0'
+  priority: '0'
+  rate: '3.9'
+  shipping: '1'
+  state: CO
+wootax/4972:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '80722'
+    location_type: postcode
+  name: LOGAN COUNTY
+  order: '0'
+  priority: '0'
+  rate: '3.9'
+  shipping: '1'
+  state: CO
+wootax/4973:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '80723'
+    location_type: postcode
+  name: BRUSH
+  order: '0'
+  priority: '0'
+  rate: '6.9'
+  shipping: '1'
+  state: CO
+wootax/4974:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '80726'
+    location_type: postcode
+  name: LOGAN COUNTY
+  order: '0'
+  priority: '0'
+  rate: '3.9'
+  shipping: '1'
+  state: CO
+wootax/4975:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '80727'
+    location_type: postcode
+  name: YUMA COUNTY
+  order: '0'
+  priority: '0'
+  rate: '2.9'
+  shipping: '1'
+  state: CO
+wootax/4976:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '80728'
+    location_type: postcode
+  name: LOGAN COUNTY
+  order: '0'
+  priority: '0'
+  rate: '3.9'
+  shipping: '1'
+  state: CO
+wootax/4977:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '80729'
+    location_type: postcode
+  name: WELD COUNTY
+  order: '0'
+  priority: '0'
+  rate: '2.9'
+  shipping: '1'
+  state: CO
+wootax/4978:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '80731'
+    location_type: postcode
+  name: HAXTUN
+  order: '0'
+  priority: '0'
+  rate: '7.4'
+  shipping: '1'
+  state: CO
+wootax/4979:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '80732'
+    location_type: postcode
+  name: WELD COUNTY
+  order: '0'
+  priority: '0'
+  rate: '2.9'
+  shipping: '1'
+  state: CO
+wootax/4980:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '80733'
+    location_type: postcode
+  name: HILLROSE
+  order: '0'
+  priority: '0'
+  rate: '2.9'
+  shipping: '1'
+  state: CO
+wootax/4981:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '80734'
+    location_type: postcode
+  name: HOLYOKE
+  order: '0'
+  priority: '0'
+  rate: '5.4'
+  shipping: '1'
+  state: CO
+wootax/4982:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '80735'
+    location_type: postcode
+  name: YUMA COUNTY
+  order: '0'
+  priority: '0'
+  rate: '2.9'
+  shipping: '1'
+  state: CO
+wootax/4983:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '80736'
+    location_type: postcode
+  name: LOGAN COUNTY
+  order: '0'
+  priority: '0'
+  rate: '3.9'
+  shipping: '1'
+  state: CO
+wootax/4984:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '80737'
+    location_type: postcode
+  name: JULESBURG
+  order: '0'
+  priority: '0'
+  rate: '5.9'
+  shipping: '1'
+  state: CO
+wootax/4985:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '80740'
+    location_type: postcode
+  name: WASHINGTON COUNTY
+  order: '0'
+  priority: '0'
+  rate: '4.4'
+  shipping: '1'
+  state: CO
+wootax/4986:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '80741'
+    location_type: postcode
+  name: LOGAN COUNTY
+  order: '0'
+  priority: '0'
+  rate: '3.9'
+  shipping: '1'
+  state: CO
+wootax/4987:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '80742'
+    location_type: postcode
+  name: WELD COUNTY
+  order: '0'
+  priority: '0'
+  rate: '2.9'
+  shipping: '1'
+  state: CO
+wootax/4988:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '80743'
+    location_type: postcode
+  name: WASHINGTON COUNTY
+  order: '0'
+  priority: '0'
+  rate: '4.4'
+  shipping: '1'
+  state: CO
+wootax/4989:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '80744'
+    location_type: postcode
+  name: SEDGWICK COUNTY
+  order: '0'
+  priority: '0'
+  rate: '4.9'
+  shipping: '1'
+  state: CO
+wootax/4990:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '80745'
+    location_type: postcode
+  name: LOGAN COUNTY
+  order: '0'
+  priority: '0'
+  rate: '3.9'
+  shipping: '1'
+  state: CO
+wootax/4991:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '80746'
+    location_type: postcode
+  name: PAOLI
+  order: '0'
+  priority: '0'
+  rate: '3.9'
+  shipping: '1'
+  state: CO
+wootax/4992:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '80747'
+    location_type: postcode
+  name: LOGAN COUNTY
+  order: '0'
+  priority: '0'
+  rate: '3.9'
+  shipping: '1'
+  state: CO
+wootax/4993:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '80749'
+    location_type: postcode
+  name: SEDGWICK COUNTY
+  order: '0'
+  priority: '0'
+  rate: '4.9'
+  shipping: '1'
+  state: CO
+wootax/4994:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '80750'
+    location_type: postcode
+  name: MORGAN COUNTY
+  order: '0'
+  priority: '0'
+  rate: '2.9'
+  shipping: '1'
+  state: CO
+wootax/4995:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '80751'
+    location_type: postcode
+  name: STERLING
+  order: '0'
+  priority: '0'
+  rate: '7'
+  shipping: '1'
+  state: CO
+wootax/4996:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '80754'
+    location_type: postcode
+  name: WELD COUNTY
+  order: '0'
+  priority: '0'
+  rate: '2.9'
+  shipping: '1'
+  state: CO
+wootax/4997:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '80755'
+    location_type: postcode
+  name: YUMA COUNTY
+  order: '0'
+  priority: '0'
+  rate: '2.9'
+  shipping: '1'
+  state: CO
+wootax/4998:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '80757'
+    location_type: postcode
+  name: WASHINGTON COUNTY
+  order: '0'
+  priority: '0'
+  rate: '4.4'
+  shipping: '1'
+  state: CO
+wootax/4999:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '80758'
+    location_type: postcode
+  name: WRAY
+  order: '0'
+  priority: '0'
+  rate: '5.4'
+  shipping: '1'
+  state: CO
+wootax/5000:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '80759'
+    location_type: postcode
+  name: YUMA
+  order: '0'
+  priority: '0'
+  rate: '5.9'
+  shipping: '1'
+  state: CO
+wootax/5001:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '80801'
+    location_type: postcode
+  name: WASHINGTON COUNTY
+  order: '0'
+  priority: '0'
+  rate: '4.4'
+  shipping: '1'
+  state: CO
+wootax/5002:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '80802'
+    location_type: postcode
+  name: CHEYENNE COUNTY
+  order: '0'
+  priority: '0'
+  rate: '2.9'
+  shipping: '1'
+  state: CO
+wootax/5003:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '80804'
+    location_type: postcode
+  name: ARRIBA
+  order: '0'
+  priority: '0'
+  rate: '4.9'
+  shipping: '1'
+  state: CO
+wootax/5004:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '80805'
+    location_type: postcode
+  name: KIT CARSON COUNTY
+  order: '0'
+  priority: '0'
+  rate: '2.9'
+  shipping: '1'
+  state: CO
+wootax/5005:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '80807'
+    location_type: postcode
+  name: BURLINGTON
+  order: '0'
+  priority: '0'
+  rate: '4.9'
+  shipping: '1'
+  state: CO
+wootax/5006:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '80808'
+    location_type: postcode
+  name: EL PASO COUNTY / RTA
+  order: '0'
+  priority: '0'
+  rate: '5.13'
+  shipping: '1'
+  state: CO
+wootax/5007:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '80809'
+    location_type: postcode
+  name: EL PASO COUNTY / RTA
+  order: '0'
+  priority: '0'
+  rate: '5.13'
+  shipping: '1'
+  state: CO
+wootax/5008:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '80810'
+    location_type: postcode
+  name: CHEYENNE WELLS
+  order: '0'
+  priority: '0'
+  rate: '4.9'
+  shipping: '1'
+  state: CO
+wootax/5009:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '80812'
+    location_type: postcode
+  name: WASHINGTON COUNTY
+  order: '0'
+  priority: '0'
+  rate: '4.4'
+  shipping: '1'
+  state: CO
+wootax/5010:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '80813'
+    location_type: postcode
+  name: TELLER COUNTY
+  order: '0'
+  priority: '0'
+  rate: '3.9'
+  shipping: '1'
+  state: CO
+wootax/5011:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '80814'
+    location_type: postcode
+  name: TELLER
+  order: '0'
+  priority: '0'
+  rate: '4.4'
+  shipping: '1'
+  state: CO
+wootax/5012:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '80815'
+    location_type: postcode
+  name: FLAGLER
+  order: '0'
+  priority: '0'
+  rate: '4.9'
+  shipping: '1'
+  state: CO
+wootax/5013:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '80816'
+    location_type: postcode
+  name: TELLER
+  order: '0'
+  priority: '0'
+  rate: '4.4'
+  shipping: '1'
+  state: CO
+wootax/5014:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '80817'
+    location_type: postcode
+  name: FOUNTAIN
+  order: '0'
+  priority: '0'
+  rate: '7.88'
+  shipping: '1'
+  state: CO
+wootax/5015:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '80818'
+    location_type: postcode
+  name: LINCOLN COUNTY
+  order: '0'
+  priority: '0'
+  rate: '4.9'
+  shipping: '1'
+  state: CO
+wootax/5016:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '80819'
+    location_type: postcode
+  name: GREEN MTN FALLS (EL PASO CO)
+  order: '0'
+  priority: '0'
+  rate: '8.13'
+  shipping: '1'
+  state: CO
+wootax/5017:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '80820'
+    location_type: postcode
+  name: PARK COUNTY
+  order: '0'
+  priority: '0'
+  rate: '3.9'
+  shipping: '1'
+  state: CO
+wootax/5018:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '80821'
+    location_type: postcode
+  name: LINCOLN COUNTY
+  order: '0'
+  priority: '0'
+  rate: '4.9'
+  shipping: '1'
+  state: CO
+wootax/5019:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '80822'
+    location_type: postcode
+  name: YUMA COUNTY
+  order: '0'
+  priority: '0'
+  rate: '2.9'
+  shipping: '1'
+  state: CO
+wootax/5020:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '80823'
+    location_type: postcode
+  name: LINCOLN COUNTY
+  order: '0'
+  priority: '0'
+  rate: '4.9'
+  shipping: '1'
+  state: CO
+wootax/5021:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '80824'
+    location_type: postcode
+  name: YUMA COUNTY
+  order: '0'
+  priority: '0'
+  rate: '2.9'
+  shipping: '1'
+  state: CO
+wootax/5022:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '80825'
+    location_type: postcode
+  name: CHEYENNE COUNTY
+  order: '0'
+  priority: '0'
+  rate: '2.9'
+  shipping: '1'
+  state: CO
+wootax/5023:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '80826'
+    location_type: postcode
+  name: LINCOLN COUNTY
+  order: '0'
+  priority: '0'
+  rate: '4.9'
+  shipping: '1'
+  state: CO
+wootax/5024:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '80827'
+    location_type: postcode
+  name: PARK
+  order: '0'
+  priority: '0'
+  rate: '4.4'
+  shipping: '1'
+  state: CO
+wootax/5025:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '80828'
+    location_type: postcode
+  name: LIMON
+  order: '0'
+  priority: '0'
+  rate: '6.9'
+  shipping: '1'
+  state: CO
+wootax/5026:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '80829'
+    location_type: postcode
+  name: MANITOU SPRINGS
+  order: '0'
+  priority: '0'
+  rate: '8.73'
+  shipping: '1'
+  state: CO
+wootax/5027:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '80830'
+    location_type: postcode
+  name: ELBERT COUNTY
+  order: '0'
+  priority: '0'
+  rate: '3.9'
+  shipping: '1'
+  state: CO
+wootax/5028:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '80831'
+    location_type: postcode
+  name: EL PASO COUNTY / RTA
+  order: '0'
+  priority: '0'
+  rate: '5.13'
+  shipping: '1'
+  state: CO
+wootax/5029:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '80832'
+    location_type: postcode
+  name: ELBERT COUNTY
+  order: '0'
+  priority: '0'
+  rate: '3.9'
+  shipping: '1'
+  state: CO
+wootax/5030:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '80833'
+    location_type: postcode
+  name: EL PASO COUNTY / RTA
+  order: '0'
+  priority: '0'
+  rate: '5.13'
+  shipping: '1'
+  state: CO
+wootax/5031:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '80834'
+    location_type: postcode
+  name: KIT CARSON COUNTY
+  order: '0'
+  priority: '0'
+  rate: '2.9'
+  shipping: '1'
+  state: CO
+wootax/5032:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '80835'
+    location_type: postcode
+  name: ELBERT COUNTY
+  order: '0'
+  priority: '0'
+  rate: '3.9'
+  shipping: '1'
+  state: CO
+wootax/5033:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '80836'
+    location_type: postcode
+  name: KIT CARSON COUNTY
+  order: '0'
+  priority: '0'
+  rate: '2.9'
+  shipping: '1'
+  state: CO
+wootax/5034:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '80840'
+    location_type: postcode
+  name: EL PASO COUNTY / RTA
+  order: '0'
+  priority: '0'
+  rate: '5.13'
+  shipping: '1'
+  state: CO
+wootax/5035:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '80841'
+    location_type: postcode
+  name: EL PASO COUNTY / RTA
+  order: '0'
+  priority: '0'
+  rate: '5.13'
+  shipping: '1'
+  state: CO
+wootax/5036:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '80860'
+    location_type: postcode
+  name: VICTOR
+  order: '0'
+  priority: '0'
+  rate: '6.9'
+  shipping: '1'
+  state: CO
+wootax/5037:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '80861'
+    location_type: postcode
+  name: KIT CARSON COUNTY
+  order: '0'
+  priority: '0'
+  rate: '2.9'
+  shipping: '1'
+  state: CO
+wootax/5038:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '80862'
+    location_type: postcode
+  name: CHEYENNE COUNTY
+  order: '0'
+  priority: '0'
+  rate: '2.9'
+  shipping: '1'
+  state: CO
+wootax/5039:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '80863'
+    location_type: postcode
+  name: WOODLAND PARK
+  order: '0'
+  priority: '0'
+  rate: '8.49'
+  shipping: '1'
+  state: CO
+wootax/5040:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '80864'
+    location_type: postcode
+  name: EL PASO COUNTY / RTA
+  order: '0'
+  priority: '0'
+  rate: '5.13'
+  shipping: '1'
+  state: CO
+wootax/5041:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '80866'
+    location_type: postcode
+  name: WOODLAND PARK
+  order: '0'
+  priority: '0'
+  rate: '8.49'
+  shipping: '1'
+  state: CO
+wootax/5042:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '80901'
+    location_type: postcode
+  name: COLORADO SPRINGS
+  order: '0'
+  priority: '0'
+  rate: '8.25'
+  shipping: '1'
+  state: CO
+wootax/5043:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '80902'
+    location_type: postcode
+  name: EL PASO COUNTY / RTA
+  order: '0'
+  priority: '0'
+  rate: '5.13'
+  shipping: '1'
+  state: CO
+wootax/5044:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '80903'
+    location_type: postcode
+  name: COLORADO SPRINGS
+  order: '0'
+  priority: '0'
+  rate: '8.25'
+  shipping: '1'
+  state: CO
+wootax/5045:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '80904'
+    location_type: postcode
+  name: COLORADO SPRINGS
+  order: '0'
+  priority: '0'
+  rate: '8.25'
+  shipping: '1'
+  state: CO
+wootax/5046:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '80905'
+    location_type: postcode
+  name: COLORADO SPRINGS
+  order: '0'
+  priority: '0'
+  rate: '8.25'
+  shipping: '1'
+  state: CO
+wootax/5047:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '80906'
+    location_type: postcode
+  name: COLORADO SPRINGS
+  order: '0'
+  priority: '0'
+  rate: '8.25'
+  shipping: '1'
+  state: CO
+wootax/5048:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '80907'
+    location_type: postcode
+  name: COLORADO SPRINGS
+  order: '0'
+  priority: '0'
+  rate: '8.25'
+  shipping: '1'
+  state: CO
+wootax/5049:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '80908'
+    location_type: postcode
+  name: EL PASO COUNTY / RTA
+  order: '0'
+  priority: '0'
+  rate: '5.13'
+  shipping: '1'
+  state: CO
+wootax/5050:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '80909'
+    location_type: postcode
+  name: COLORADO SPRINGS
+  order: '0'
+  priority: '0'
+  rate: '8.25'
+  shipping: '1'
+  state: CO
+wootax/5051:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '80910'
+    location_type: postcode
+  name: COLORADO SPRINGS
+  order: '0'
+  priority: '0'
+  rate: '8.25'
+  shipping: '1'
+  state: CO
+wootax/5052:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '80911'
+    location_type: postcode
+  name: EL PASO COUNTY / RTA
+  order: '0'
+  priority: '0'
+  rate: '5.13'
+  shipping: '1'
+  state: CO
+wootax/5053:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '80912'
+    location_type: postcode
+  name: EL PASO COUNTY / RTA
+  order: '0'
+  priority: '0'
+  rate: '5.13'
+  shipping: '1'
+  state: CO
+wootax/5054:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '80913'
+    location_type: postcode
+  name: EL PASO COUNTY / RTA
+  order: '0'
+  priority: '0'
+  rate: '5.13'
+  shipping: '1'
+  state: CO
+wootax/5055:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '80914'
+    location_type: postcode
+  name: COLORADO SPRINGS
+  order: '0'
+  priority: '0'
+  rate: '8.25'
+  shipping: '1'
+  state: CO
+wootax/5056:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '80915'
+    location_type: postcode
+  name: EL PASO COUNTY / RTA
+  order: '0'
+  priority: '0'
+  rate: '5.13'
+  shipping: '1'
+  state: CO
+wootax/5057:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '80916'
+    location_type: postcode
+  name: COLORADO SPRINGS
+  order: '0'
+  priority: '0'
+  rate: '8.25'
+  shipping: '1'
+  state: CO
+wootax/5058:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '80917'
+    location_type: postcode
+  name: COLORADO SPRINGS
+  order: '0'
+  priority: '0'
+  rate: '8.25'
+  shipping: '1'
+  state: CO
+wootax/5059:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '80918'
+    location_type: postcode
+  name: COLORADO SPRINGS
+  order: '0'
+  priority: '0'
+  rate: '8.25'
+  shipping: '1'
+  state: CO
+wootax/5060:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '80919'
+    location_type: postcode
+  name: COLORADO SPRINGS
+  order: '0'
+  priority: '0'
+  rate: '8.25'
+  shipping: '1'
+  state: CO
+wootax/5061:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '80920'
+    location_type: postcode
+  name: COLORADO SPRINGS
+  order: '0'
+  priority: '0'
+  rate: '8.25'
+  shipping: '1'
+  state: CO
+wootax/5062:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '80921'
+    location_type: postcode
+  name: EL PASO COUNTY / RTA
+  order: '0'
+  priority: '0'
+  rate: '5.13'
+  shipping: '1'
+  state: CO
+wootax/5063:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '80922'
+    location_type: postcode
+  name: COLORADO SPRINGS
+  order: '0'
+  priority: '0'
+  rate: '8.25'
+  shipping: '1'
+  state: CO
+wootax/5064:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '80923'
+    location_type: postcode
+  name: COLORADO SPRINGS
+  order: '0'
+  priority: '0'
+  rate: '8.25'
+  shipping: '1'
+  state: CO
+wootax/5065:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '80924'
+    location_type: postcode
+  name: COLORADO SPRINGS
+  order: '0'
+  priority: '0'
+  rate: '8.25'
+  shipping: '1'
+  state: CO
+wootax/5066:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '80925'
+    location_type: postcode
+  name: EL PASO COUNTY / RTA
+  order: '0'
+  priority: '0'
+  rate: '5.13'
+  shipping: '1'
+  state: CO
+wootax/5067:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '80926'
+    location_type: postcode
+  name: EL PASO COUNTY / RTA
+  order: '0'
+  priority: '0'
+  rate: '5.13'
+  shipping: '1'
+  state: CO
+wootax/5068:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '80927'
+    location_type: postcode
+  name: COLORADO SPRINGS
+  order: '0'
+  priority: '0'
+  rate: '8.25'
+  shipping: '1'
+  state: CO
+wootax/5069:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '80928'
+    location_type: postcode
+  name: EL PASO COUNTY / RTA
+  order: '0'
+  priority: '0'
+  rate: '5.13'
+  shipping: '1'
+  state: CO
+wootax/5070:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '80929'
+    location_type: postcode
+  name: EL PASO COUNTY / RTA
+  order: '0'
+  priority: '0'
+  rate: '5.13'
+  shipping: '1'
+  state: CO
+wootax/5071:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '80930'
+    location_type: postcode
+  name: EL PASO COUNTY / RTA
+  order: '0'
+  priority: '0'
+  rate: '5.13'
+  shipping: '1'
+  state: CO
+wootax/5072:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '80931'
+    location_type: postcode
+  name: EL PASO COUNTY / RTA
+  order: '0'
+  priority: '0'
+  rate: '5.13'
+  shipping: '1'
+  state: CO
+wootax/5073:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '80932'
+    location_type: postcode
+  name: COLORADO SPRINGS
+  order: '0'
+  priority: '0'
+  rate: '8.25'
+  shipping: '1'
+  state: CO
+wootax/5074:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '80933'
+    location_type: postcode
+  name: COLORADO SPRINGS
+  order: '0'
+  priority: '0'
+  rate: '8.25'
+  shipping: '1'
+  state: CO
+wootax/5075:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '80934'
+    location_type: postcode
+  name: COLORADO SPRINGS
+  order: '0'
+  priority: '0'
+  rate: '8.25'
+  shipping: '1'
+  state: CO
+wootax/5076:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '80935'
+    location_type: postcode
+  name: COLORADO SPRINGS
+  order: '0'
+  priority: '0'
+  rate: '8.25'
+  shipping: '1'
+  state: CO
+wootax/5077:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '80936'
+    location_type: postcode
+  name: COLORADO SPRINGS
+  order: '0'
+  priority: '0'
+  rate: '8.25'
+  shipping: '1'
+  state: CO
+wootax/5078:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '80937'
+    location_type: postcode
+  name: COLORADO SPRINGS
+  order: '0'
+  priority: '0'
+  rate: '8.25'
+  shipping: '1'
+  state: CO
+wootax/5079:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '80938'
+    location_type: postcode
+  name: COLORADO SPRINGS
+  order: '0'
+  priority: '0'
+  rate: '8.25'
+  shipping: '1'
+  state: CO
+wootax/5080:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '80939'
+    location_type: postcode
+  name: EL PASO COUNTY / RTA
+  order: '0'
+  priority: '0'
+  rate: '5.13'
+  shipping: '1'
+  state: CO
+wootax/5081:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '80941'
+    location_type: postcode
+  name: COLORADO SPRINGS
+  order: '0'
+  priority: '0'
+  rate: '8.25'
+  shipping: '1'
+  state: CO
+wootax/5082:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '80942'
+    location_type: postcode
+  name: COLORADO SPRINGS
+  order: '0'
+  priority: '0'
+  rate: '8.25'
+  shipping: '1'
+  state: CO
+wootax/5083:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '80946'
+    location_type: postcode
+  name: COLORADO SPRINGS
+  order: '0'
+  priority: '0'
+  rate: '8.25'
+  shipping: '1'
+  state: CO
+wootax/5084:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '80947'
+    location_type: postcode
+  name: COLORADO SPRINGS
+  order: '0'
+  priority: '0'
+  rate: '8.25'
+  shipping: '1'
+  state: CO
+wootax/5085:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '80949'
+    location_type: postcode
+  name: COLORADO SPRINGS
+  order: '0'
+  priority: '0'
+  rate: '8.25'
+  shipping: '1'
+  state: CO
+wootax/5086:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '80950'
+    location_type: postcode
+  name: COLORADO SPRINGS
+  order: '0'
+  priority: '0'
+  rate: '8.25'
+  shipping: '1'
+  state: CO
+wootax/5087:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '80951'
+    location_type: postcode
+  name: EL PASO COUNTY / RTA
+  order: '0'
+  priority: '0'
+  rate: '5.13'
+  shipping: '1'
+  state: CO
+wootax/5088:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '80960'
+    location_type: postcode
+  name: COLORADO SPRINGS
+  order: '0'
+  priority: '0'
+  rate: '8.25'
+  shipping: '1'
+  state: CO
+wootax/5089:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '80962'
+    location_type: postcode
+  name: COLORADO SPRINGS
+  order: '0'
+  priority: '0'
+  rate: '8.25'
+  shipping: '1'
+  state: CO
+wootax/5090:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '80970'
+    location_type: postcode
+  name: EL PASO COUNTY / RTA
+  order: '0'
+  priority: '0'
+  rate: '5.13'
+  shipping: '1'
+  state: CO
+wootax/5091:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '80977'
+    location_type: postcode
+  name: EL PASO COUNTY / RTA
+  order: '0'
+  priority: '0'
+  rate: '5.13'
+  shipping: '1'
+  state: CO
+wootax/5092:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '80997'
+    location_type: postcode
+  name: COLORADO SPRINGS
+  order: '0'
+  priority: '0'
+  rate: '8.25'
+  shipping: '1'
+  state: CO
+wootax/5093:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '81001'
+    location_type: postcode
+  name: PUEBLO
+  order: '0'
+  priority: '0'
+  rate: '7.6'
+  shipping: '1'
+  state: CO
+wootax/5094:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '81002'
+    location_type: postcode
+  name: PUEBLO
+  order: '0'
+  priority: '0'
+  rate: '7.6'
+  shipping: '1'
+  state: CO
+wootax/5095:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '81003'
+    location_type: postcode
+  name: PUEBLO
+  order: '0'
+  priority: '0'
+  rate: '7.6'
+  shipping: '1'
+  state: CO
+wootax/5096:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '81004'
+    location_type: postcode
+  name: PUEBLO
+  order: '0'
+  priority: '0'
+  rate: '7.6'
+  shipping: '1'
+  state: CO
+wootax/5097:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '81005'
+    location_type: postcode
+  name: PUEBLO
+  order: '0'
+  priority: '0'
+  rate: '7.6'
+  shipping: '1'
+  state: CO
+wootax/5098:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '81006'
+    location_type: postcode
+  name: PUEBLO COUNTY
+  order: '0'
+  priority: '0'
+  rate: '3.9'
+  shipping: '1'
+  state: CO
+wootax/5099:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '81007'
+    location_type: postcode
+  name: PUEBLO COUNTY
+  order: '0'
+  priority: '0'
+  rate: '3.9'
+  shipping: '1'
+  state: CO
+wootax/5100:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '81008'
+    location_type: postcode
+  name: PUEBLO
+  order: '0'
+  priority: '0'
+  rate: '7.6'
+  shipping: '1'
+  state: CO
+wootax/5101:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '81009'
+    location_type: postcode
+  name: PUEBLO
+  order: '0'
+  priority: '0'
+  rate: '7.6'
+  shipping: '1'
+  state: CO
+wootax/5102:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '81010'
+    location_type: postcode
+  name: PUEBLO
+  order: '0'
+  priority: '0'
+  rate: '7.6'
+  shipping: '1'
+  state: CO
+wootax/5103:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '81011'
+    location_type: postcode
+  name: PUEBLO
+  order: '0'
+  priority: '0'
+  rate: '7.6'
+  shipping: '1'
+  state: CO
+wootax/5104:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '81012'
+    location_type: postcode
+  name: PUEBLO
+  order: '0'
+  priority: '0'
+  rate: '7.6'
+  shipping: '1'
+  state: CO
+wootax/5105:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '81019'
+    location_type: postcode
+  name: PUEBLO COUNTY
+  order: '0'
+  priority: '0'
+  rate: '3.9'
+  shipping: '1'
+  state: CO
+wootax/5106:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '81020'
+    location_type: postcode
+  name: LAS ANIMAS COUNTY
+  order: '0'
+  priority: '0'
+  rate: '4.4'
+  shipping: '1'
+  state: CO
+wootax/5107:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '81021'
+    location_type: postcode
+  name: KIOWA COUNTY
+  order: '0'
+  priority: '0'
+  rate: '2.9'
+  shipping: '1'
+  state: CO
+wootax/5108:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '81022'
+    location_type: postcode
+  name: PUEBLO COUNTY
+  order: '0'
+  priority: '0'
+  rate: '3.9'
+  shipping: '1'
+  state: CO
+wootax/5109:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '81023'
+    location_type: postcode
+  name: PUEBLO COUNTY
+  order: '0'
+  priority: '0'
+  rate: '3.9'
+  shipping: '1'
+  state: CO
+wootax/5110:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '81024'
+    location_type: postcode
+  name: LAS ANIMAS COUNTY
+  order: '0'
+  priority: '0'
+  rate: '4.4'
+  shipping: '1'
+  state: CO
+wootax/5111:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '81025'
+    location_type: postcode
+  name: PUEBLO COUNTY
+  order: '0'
+  priority: '0'
+  rate: '3.9'
+  shipping: '1'
+  state: CO
+wootax/5112:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '81027'
+    location_type: postcode
+  name: LAS ANIMAS COUNTY
+  order: '0'
+  priority: '0'
+  rate: '4.4'
+  shipping: '1'
+  state: CO
+wootax/5113:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '81029'
+    location_type: postcode
+  name: BACA COUNTY
+  order: '0'
+  priority: '0'
+  rate: '2.9'
+  shipping: '1'
+  state: CO
+wootax/5114:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '81030'
+    location_type: postcode
+  name: CHERAW
+  order: '0'
+  priority: '0'
+  rate: '3.9'
+  shipping: '1'
+  state: CO
+wootax/5115:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '81033'
+    location_type: postcode
+  name: CROWLEY
+  order: '0'
+  priority: '0'
+  rate: '4.9'
+  shipping: '1'
+  state: CO
+wootax/5116:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '81036'
+    location_type: postcode
+  name: KIOWA COUNTY
+  order: '0'
+  priority: '0'
+  rate: '2.9'
+  shipping: '1'
+  state: CO
+wootax/5117:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '81039'
+    location_type: postcode
+  name: FOWLER
+  order: '0'
+  priority: '0'
+  rate: '6.9'
+  shipping: '1'
+  state: CO
+wootax/5118:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '81040'
+    location_type: postcode
+  name: HUERFANO COUNTY
+  order: '0'
+  priority: '0'
+  rate: '4.9'
+  shipping: '1'
+  state: CO
+wootax/5119:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '81041'
+    location_type: postcode
+  name: PROWERS COUNTY
+  order: '0'
+  priority: '0'
+  rate: '3.9'
+  shipping: '1'
+  state: CO
+wootax/5120:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '81043'
+    location_type: postcode
+  name: HARTMAN
+  order: '0'
+  priority: '0'
+  rate: '3.9'
+  shipping: '1'
+  state: CO
+wootax/5121:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '81044'
+    location_type: postcode
+  name: BENT COUNTY
+  order: '0'
+  priority: '0'
+  rate: '3.9'
+  shipping: '1'
+  state: CO
+wootax/5122:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '81045'
+    location_type: postcode
+  name: KIOWA COUNTY
+  order: '0'
+  priority: '0'
+  rate: '2.9'
+  shipping: '1'
+  state: CO
+wootax/5123:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '81046'
+    location_type: postcode
+  name: LAS ANIMAS COUNTY
+  order: '0'
+  priority: '0'
+  rate: '4.4'
+  shipping: '1'
+  state: CO
+wootax/5124:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '81047'
+    location_type: postcode
+  name: PROWERS COUNTY
+  order: '0'
+  priority: '0'
+  rate: '3.9'
+  shipping: '1'
+  state: CO
+wootax/5125:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '81049'
+    location_type: postcode
+  name: LAS ANIMAS COUNTY
+  order: '0'
+  priority: '0'
+  rate: '4.4'
+  shipping: '1'
+  state: CO
+wootax/5126:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '81050'
+    location_type: postcode
+  name: LA JUNTA
+  order: '0'
+  priority: '0'
+  rate: '7.9'
+  shipping: '1'
+  state: CO
+wootax/5127:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '81052'
+    location_type: postcode
+  name: LAMAR
+  order: '0'
+  priority: '0'
+  rate: '6.9'
+  shipping: '1'
+  state: CO
+wootax/5128:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '81054'
+    location_type: postcode
+  name: LAS ANIMAS
+  order: '0'
+  priority: '0'
+  rate: '6.9'
+  shipping: '1'
+  state: CO
+wootax/5129:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '81055'
+    location_type: postcode
+  name: HUERFANO COUNTY
+  order: '0'
+  priority: '0'
+  rate: '4.9'
+  shipping: '1'
+  state: CO
+wootax/5130:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '81057'
+    location_type: postcode
+  name: BENT COUNTY
+  order: '0'
+  priority: '0'
+  rate: '3.9'
+  shipping: '1'
+  state: CO
+wootax/5131:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '81058'
+    location_type: postcode
+  name: OTERO COUNTY
+  order: '0'
+  priority: '0'
+  rate: '3.9'
+  shipping: '1'
+  state: CO
+wootax/5132:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '81059'
+    location_type: postcode
+  name: LAS ANIMAS COUNTY
+  order: '0'
+  priority: '0'
+  rate: '4.4'
+  shipping: '1'
+  state: CO
+wootax/5133:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '81062'
+    location_type: postcode
+  name: CROWLEY COUNTY
+  order: '0'
+  priority: '0'
+  rate: '4.9'
+  shipping: '1'
+  state: CO
+wootax/5134:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '81063'
+    location_type: postcode
+  name: ORDWAY
+  order: '0'
+  priority: '0'
+  rate: '6.9'
+  shipping: '1'
+  state: CO
+wootax/5135:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '81064'
+    location_type: postcode
+  name: BACA COUNTY
+  order: '0'
+  priority: '0'
+  rate: '2.9'
+  shipping: '1'
+  state: CO
+wootax/5136:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '81067'
+    location_type: postcode
+  name: ROCKY FORD
+  order: '0'
+  priority: '0'
+  rate: '7.9'
+  shipping: '1'
+  state: CO
+wootax/5137:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '81069'
+    location_type: postcode
+  name: PUEBLO COUNTY
+  order: '0'
+  priority: '0'
+  rate: '3.9'
+  shipping: '1'
+  state: CO
+wootax/5138:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '81071'
+    location_type: postcode
+  name: KIOWA COUNTY
+  order: '0'
+  priority: '0'
+  rate: '2.9'
+  shipping: '1'
+  state: CO
+wootax/5139:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '81073'
+    location_type: postcode
+  name: SPRINGFIELD
+  order: '0'
+  priority: '0'
+  rate: '4.9'
+  shipping: '1'
+  state: CO
+wootax/5140:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '81076'
+    location_type: postcode
+  name: CROWLEY COUNTY
+  order: '0'
+  priority: '0'
+  rate: '4.9'
+  shipping: '1'
+  state: CO
+wootax/5141:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '81077'
+    location_type: postcode
+  name: SWINK
+  order: '0'
+  priority: '0'
+  rate: '3.9'
+  shipping: '1'
+  state: CO
+wootax/5142:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '81081'
+    location_type: postcode
+  name: LAS ANIMAS COUNTY
+  order: '0'
+  priority: '0'
+  rate: '4.4'
+  shipping: '1'
+  state: CO
+wootax/5143:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '81082'
+    location_type: postcode
+  name: TRINIDAD
+  order: '0'
+  priority: '0'
+  rate: '8.4'
+  shipping: '1'
+  state: CO
+wootax/5144:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '81084'
+    location_type: postcode
+  name: TWO BUTTES
+  order: '0'
+  priority: '0'
+  rate: '2.9'
+  shipping: '1'
+  state: CO
+wootax/5145:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '81087'
+    location_type: postcode
+  name: VILAS
+  order: '0'
+  priority: '0'
+  rate: '2.9'
+  shipping: '1'
+  state: CO
+wootax/5146:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '81089'
+    location_type: postcode
+  name: WALSENBURG
+  order: '0'
+  priority: '0'
+  rate: '7.9'
+  shipping: '1'
+  state: CO
+wootax/5147:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '81090'
+    location_type: postcode
+  name: BACA COUNTY
+  order: '0'
+  priority: '0'
+  rate: '2.9'
+  shipping: '1'
+  state: CO
+wootax/5148:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '81091'
+    location_type: postcode
+  name: LAS ANIMAS COUNTY
+  order: '0'
+  priority: '0'
+  rate: '4.4'
+  shipping: '1'
+  state: CO
+wootax/5149:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '81092'
+    location_type: postcode
+  name: PROWERS COUNTY
+  order: '0'
+  priority: '0'
+  rate: '3.9'
+  shipping: '1'
+  state: CO
+wootax/5150:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '81101'
+    location_type: postcode
+  name: ALAMOSA
+  order: '0'
+  priority: '0'
+  rate: '7.9'
+  shipping: '1'
+  state: CO
+wootax/5151:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '81102'
+    location_type: postcode
+  name: ALAMOSA
+  order: '0'
+  priority: '0'
+  rate: '7.9'
+  shipping: '1'
+  state: CO
+wootax/5152:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '81120'
+    location_type: postcode
+  name: CONEJOS COUNTY
+  order: '0'
+  priority: '0'
+  rate: '2.9'
+  shipping: '1'
+  state: CO
+wootax/5153:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '81121'
+    location_type: postcode
+  name: ARCHULETA COUNTY
+  order: '0'
+  priority: '0'
+  rate: '6.9'
+  shipping: '1'
+  state: CO
+wootax/5154:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '81122'
+    location_type: postcode
+  name: LA PLATA COUNTY
+  order: '0'
+  priority: '0'
+  rate: '4.9'
+  shipping: '1'
+  state: CO
+wootax/5155:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '81123'
+    location_type: postcode
+  name: COSTILLA COUNTY
+  order: '0'
+  priority: '0'
+  rate: '3.9'
+  shipping: '1'
+  state: CO
+wootax/5156:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '81124'
+    location_type: postcode
+  name: CONEJOS COUNTY
+  order: '0'
+  priority: '0'
+  rate: '2.9'
+  shipping: '1'
+  state: CO
+wootax/5157:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '81125'
+    location_type: postcode
+  name: SAGUACHE COUNTY
+  order: '0'
+  priority: '0'
+  rate: '5.4'
+  shipping: '1'
+  state: CO
+wootax/5158:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '81126'
+    location_type: postcode
+  name: COSTILLA COUNTY
+  order: '0'
+  priority: '0'
+  rate: '3.9'
+  shipping: '1'
+  state: CO
+wootax/5159:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '81128'
+    location_type: postcode
+  name: ARCHULETA COUNTY
+  order: '0'
+  priority: '0'
+  rate: '6.9'
+  shipping: '1'
+  state: CO
+wootax/5160:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '81129'
+    location_type: postcode
+  name: CONEJOS COUNTY
+  order: '0'
+  priority: '0'
+  rate: '2.9'
+  shipping: '1'
+  state: CO
+wootax/5161:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '81130'
+    location_type: postcode
+  name: MINERAL COUNTY
+  order: '0'
+  priority: '0'
+  rate: '5.5'
+  shipping: '1'
+  state: CO
+wootax/5162:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '81131'
+    location_type: postcode
+  name: CRESTONE
+  order: '0'
+  priority: '0'
+  rate: '8.4'
+  shipping: '1'
+  state: CO
+wootax/5163:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '81132'
+    location_type: postcode
+  name: DEL NORTE
+  order: '0'
+  priority: '0'
+  rate: '7.5'
+  shipping: '1'
+  state: CO
+wootax/5164:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '81133'
+    location_type: postcode
+  name: COSTILLA COUNTY
+  order: '0'
+  priority: '0'
+  rate: '3.9'
+  shipping: '1'
+  state: CO
+wootax/5165:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '81135'
+    location_type: postcode
+  name: RIO GRANDE COUNTY
+  order: '0'
+  priority: '0'
+  rate: '5.5'
+  shipping: '1'
+  state: CO
+wootax/5166:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '81136'
+    location_type: postcode
+  name: ALAMOSA COUNTY LOCAL MARKETING DISTRICT
+  order: '0'
+  priority: '0'
+  rate: '5.9'
+  shipping: '1'
+  state: CO
+wootax/5167:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '81137'
+    location_type: postcode
+  name: LA PLATA COUNTY
+  order: '0'
+  priority: '0'
+  rate: '4.9'
+  shipping: '1'
+  state: CO
+wootax/5168:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '81138'
+    location_type: postcode
+  name: COSTILLA COUNTY
+  order: '0'
+  priority: '0'
+  rate: '3.9'
+  shipping: '1'
+  state: CO
+wootax/5169:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '81140'
+    location_type: postcode
+  name: CONEJOS COUNTY
+  order: '0'
+  priority: '0'
+  rate: '2.9'
+  shipping: '1'
+  state: CO
+wootax/5170:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '81141'
+    location_type: postcode
+  name: MANASSA
+  order: '0'
+  priority: '0'
+  rate: '3.9'
+  shipping: '1'
+  state: CO
+wootax/5171:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '81143'
+    location_type: postcode
+  name: SAGUACHE COUNTY
+  order: '0'
+  priority: '0'
+  rate: '5.4'
+  shipping: '1'
+  state: CO
+wootax/5172:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '81144'
+    location_type: postcode
+  name: MONTE VISTA
+  order: '0'
+  priority: '0'
+  rate: '7.5'
+  shipping: '1'
+  state: CO
+wootax/5173:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '81146'
+    location_type: postcode
+  name: ALAMOSA COUNTY LOCAL MARKETING DISTRICT
+  order: '0'
+  priority: '0'
+  rate: '5.9'
+  shipping: '1'
+  state: CO
+wootax/5174:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '81147'
+    location_type: postcode
+  name: ARCHULETA COUNTY
+  order: '0'
+  priority: '0'
+  rate: '6.9'
+  shipping: '1'
+  state: CO
+wootax/5175:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '81148'
+    location_type: postcode
+  name: ROMEO
+  order: '0'
+  priority: '0'
+  rate: '3.9'
+  shipping: '1'
+  state: CO
+wootax/5176:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '81149'
+    location_type: postcode
+  name: SAGUACHE
+  order: '0'
+  priority: '0'
+  rate: '9.4'
+  shipping: '1'
+  state: CO
+wootax/5177:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '81151'
+    location_type: postcode
+  name: SANFORD
+  order: '0'
+  priority: '0'
+  rate: '2.9'
+  shipping: '1'
+  state: CO
+wootax/5178:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '81152'
+    location_type: postcode
+  name: COSTILLA COUNTY
+  order: '0'
+  priority: '0'
+  rate: '3.9'
+  shipping: '1'
+  state: CO
+wootax/5179:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '81154'
+    location_type: postcode
+  name: RIO GRANDE COUNTY
+  order: '0'
+  priority: '0'
+  rate: '5.5'
+  shipping: '1'
+  state: CO
+wootax/5180:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '81155'
+    location_type: postcode
+  name: SAGUACHE COUNTY
+  order: '0'
+  priority: '0'
+  rate: '5.4'
+  shipping: '1'
+  state: CO
+wootax/5181:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '81157'
+    location_type: postcode
+  name: PAGOSA SPRINGS
+  order: '0'
+  priority: '0'
+  rate: '6.9'
+  shipping: '1'
+  state: CO
+wootax/5182:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '81201'
+    location_type: postcode
+  name: SALIDA
+  order: '0'
+  priority: '0'
+  rate: '8.65'
+  shipping: '1'
+  state: CO
+wootax/5183:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '81210'
+    location_type: postcode
+  name: GUNNISON CO TR
+  order: '0'
+  priority: '0'
+  rate: '4.9'
+  shipping: '1'
+  state: CO
+wootax/5184:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '81211'
+    location_type: postcode
+  name: CHAFFEE COUNTY
+  order: '0'
+  priority: '0'
+  rate: '5.65'
+  shipping: '1'
+  state: CO
+wootax/5185:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '81212'
+    location_type: postcode
+  name: CANON
+  order: '0'
+  priority: '0'
+  rate: '8.4'
+  shipping: '1'
+  state: CO
+wootax/5186:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '81215'
+    location_type: postcode
+  name: CANON
+  order: '0'
+  priority: '0'
+  rate: '8.4'
+  shipping: '1'
+  state: CO
+wootax/5187:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '81220'
+    location_type: postcode
+  name: GUNNISON CO TR
+  order: '0'
+  priority: '0'
+  rate: '4.9'
+  shipping: '1'
+  state: CO
+wootax/5188:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '81221'
+    location_type: postcode
+  name: COAL CREEK
+  order: '0'
+  priority: '0'
+  rate: '5.4'
+  shipping: '1'
+  state: CO
+wootax/5189:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '81222'
+    location_type: postcode
+  name: FREMONT COUNTY
+  order: '0'
+  priority: '0'
+  rate: '5.4'
+  shipping: '1'
+  state: CO
+wootax/5190:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '81223'
+    location_type: postcode
+  name: FREMONT COUNTY
+  order: '0'
+  priority: '0'
+  rate: '5.4'
+  shipping: '1'
+  state: CO
+wootax/5191:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '81224'
+    location_type: postcode
+  name: GUNNISON CO TR
+  order: '0'
+  priority: '0'
+  rate: '4.9'
+  shipping: '1'
+  state: CO
+wootax/5192:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '81225'
+    location_type: postcode
+  name: MOUNT CRESTED BUTTE
+  order: '0'
+  priority: '0'
+  rate: '9.9'
+  shipping: '1'
+  state: CO
+wootax/5193:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '81226'
+    location_type: postcode
+  name: FLORENCE
+  order: '0'
+  priority: '0'
+  rate: '7.9'
+  shipping: '1'
+  state: CO
+wootax/5194:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '81227'
+    location_type: postcode
+  name: CHAFFEE COUNTY
+  order: '0'
+  priority: '0'
+  rate: '5.65'
+  shipping: '1'
+  state: CO
+wootax/5195:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '81228'
+    location_type: postcode
+  name: CHAFFEE COUNTY
+  order: '0'
+  priority: '0'
+  rate: '5.65'
+  shipping: '1'
+  state: CO
+wootax/5196:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '81230'
+    location_type: postcode
+  name: GUNNISON
+  order: '0'
+  priority: '0'
+  rate: '8.9'
+  shipping: '1'
+  state: CO
+wootax/5197:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '81231'
+    location_type: postcode
+  name: GUNNISON
+  order: '0'
+  priority: '0'
+  rate: '8.9'
+  shipping: '1'
+  state: CO
+wootax/5198:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '81232'
+    location_type: postcode
+  name: SALIDA
+  order: '0'
+  priority: '0'
+  rate: '8.65'
+  shipping: '1'
+  state: CO
+wootax/5199:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '81233'
+    location_type: postcode
+  name: FREMONT COUNTY
+  order: '0'
+  priority: '0'
+  rate: '5.4'
+  shipping: '1'
+  state: CO
+wootax/5200:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '81235'
+    location_type: postcode
+  name: HINSDALE COUNTY
+  order: '0'
+  priority: '0'
+  rate: '7.9'
+  shipping: '1'
+  state: CO
+wootax/5201:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '81236'
+    location_type: postcode
+  name: CHAFFEE COUNTY
+  order: '0'
+  priority: '0'
+  rate: '5.65'
+  shipping: '1'
+  state: CO
+wootax/5202:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '81237'
+    location_type: postcode
+  name: GUNNISON CO TR
+  order: '0'
+  priority: '0'
+  rate: '4.9'
+  shipping: '1'
+  state: CO
+wootax/5203:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '81239'
+    location_type: postcode
+  name: GUNNISON CO TR
+  order: '0'
+  priority: '0'
+  rate: '4.9'
+  shipping: '1'
+  state: CO
+wootax/5204:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '81240'
+    location_type: postcode
+  name: FREMONT COUNTY
+  order: '0'
+  priority: '0'
+  rate: '5.4'
+  shipping: '1'
+  state: CO
+wootax/5205:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '81241'
+    location_type: postcode
+  name: PITKIN
+  order: '0'
+  priority: '0'
+  rate: '6.9'
+  shipping: '1'
+  state: CO
+wootax/5206:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '81242'
+    location_type: postcode
+  name: PONCHA SPRINGS
+  order: '0'
+  priority: '0'
+  rate: '7.65'
+  shipping: '1'
+  state: CO
+wootax/5207:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '81243'
+    location_type: postcode
+  name: GUNNISON CO TR
+  order: '0'
+  priority: '0'
+  rate: '4.9'
+  shipping: '1'
+  state: CO
+wootax/5208:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '81244'
+    location_type: postcode
+  name: ROCKVALE
+  order: '0'
+  priority: '0'
+  rate: '5.4'
+  shipping: '1'
+  state: CO
+wootax/5209:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '81247'
+    location_type: postcode
+  name: GUNNISON
+  order: '0'
+  priority: '0'
+  rate: '8.9'
+  shipping: '1'
+  state: CO
+wootax/5210:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '81248'
+    location_type: postcode
+  name: SAGUACHE COUNTY
+  order: '0'
+  priority: '0'
+  rate: '5.4'
+  shipping: '1'
+  state: CO
+wootax/5211:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '81251'
+    location_type: postcode
+  name: LAKE COUNTY
+  order: '0'
+  priority: '0'
+  rate: '6.9'
+  shipping: '1'
+  state: CO
+wootax/5212:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '81252'
+    location_type: postcode
+  name: CUSTER COUNTY
+  order: '0'
+  priority: '0'
+  rate: '4.9'
+  shipping: '1'
+  state: CO
+wootax/5213:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '81253'
+    location_type: postcode
+  name: CUSTER COUNTY
+  order: '0'
+  priority: '0'
+  rate: '4.9'
+  shipping: '1'
+  state: CO
+wootax/5214:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '81290'
+    location_type: postcode
+  name: FLORENCE
+  order: '0'
+  priority: '0'
+  rate: '7.9'
+  shipping: '1'
+  state: CO
+wootax/5215:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '81301'
+    location_type: postcode
+  name: DURANGO
+  order: '0'
+  priority: '0'
+  rate: '8.4'
+  shipping: '1'
+  state: CO
+wootax/5216:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '81302'
+    location_type: postcode
+  name: DURANGO
+  order: '0'
+  priority: '0'
+  rate: '8.4'
+  shipping: '1'
+  state: CO
+wootax/5217:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '81303'
+    location_type: postcode
+  name: LA PLATA COUNTY
+  order: '0'
+  priority: '0'
+  rate: '4.9'
+  shipping: '1'
+  state: CO
+wootax/5218:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '81320'
+    location_type: postcode
+  name: DOLORES COUNTY
+  order: '0'
+  priority: '0'
+  rate: '2.9'
+  shipping: '1'
+  state: CO
+wootax/5219:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '81321'
+    location_type: postcode
+  name: CORTEZ
+  order: '0'
+  priority: '0'
+  rate: '7.35'
+  shipping: '1'
+  state: CO
+wootax/5220:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '81323'
+    location_type: postcode
+  name: MONTEZUMA COUNTY
+  order: '0'
+  priority: '0'
+  rate: '3.3'
+  shipping: '1'
+  state: CO
+wootax/5221:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '81324'
+    location_type: postcode
+  name: DOLORES COUNTY
+  order: '0'
+  priority: '0'
+  rate: '2.9'
+  shipping: '1'
+  state: CO
+wootax/5222:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '81325'
+    location_type: postcode
+  name: SAN MIGUEL COUNTY
+  order: '0'
+  priority: '0'
+  rate: '3.9'
+  shipping: '1'
+  state: CO
+wootax/5223:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '81326'
+    location_type: postcode
+  name: LA PLATA COUNTY
+  order: '0'
+  priority: '0'
+  rate: '4.9'
+  shipping: '1'
+  state: CO
+wootax/5224:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '81327'
+    location_type: postcode
+  name: MONTEZUMA COUNTY
+  order: '0'
+  priority: '0'
+  rate: '3.3'
+  shipping: '1'
+  state: CO
+wootax/5225:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '81328'
+    location_type: postcode
+  name: MONTEZUMA COUNTY
+  order: '0'
+  priority: '0'
+  rate: '3.3'
+  shipping: '1'
+  state: CO
+wootax/5226:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '81329'
+    location_type: postcode
+  name: LA PLATA COUNTY
+  order: '0'
+  priority: '0'
+  rate: '4.9'
+  shipping: '1'
+  state: CO
+wootax/5227:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '81330'
+    location_type: postcode
+  name: MONTEZUMA COUNTY
+  order: '0'
+  priority: '0'
+  rate: '3.3'
+  shipping: '1'
+  state: CO
+wootax/5228:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '81331'
+    location_type: postcode
+  name: MONTEZUMA COUNTY
+  order: '0'
+  priority: '0'
+  rate: '3.3'
+  shipping: '1'
+  state: CO
+wootax/5229:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '81332'
+    location_type: postcode
+  name: RICO
+  order: '0'
+  priority: '0'
+  rate: '7.9'
+  shipping: '1'
+  state: CO
+wootax/5230:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '81334'
+    location_type: postcode
+  name: MONTEZUMA COUNTY
+  order: '0'
+  priority: '0'
+  rate: '3.3'
+  shipping: '1'
+  state: CO
+wootax/5231:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '81335'
+    location_type: postcode
+  name: MONTEZUMA COUNTY
+  order: '0'
+  priority: '0'
+  rate: '3.3'
+  shipping: '1'
+  state: CO
+wootax/5232:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '81401'
+    location_type: postcode
+  name: MONTROSE
+  order: '0'
+  priority: '0'
+  rate: '7.95'
+  shipping: '1'
+  state: CO
+wootax/5233:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '81402'
+    location_type: postcode
+  name: MONTROSE
+  order: '0'
+  priority: '0'
+  rate: '7.95'
+  shipping: '1'
+  state: CO
+wootax/5234:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '81403'
+    location_type: postcode
+  name: MONTROSE COUNTY
+  order: '0'
+  priority: '0'
+  rate: '4.65'
+  shipping: '1'
+  state: CO
+wootax/5235:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '81410'
+    location_type: postcode
+  name: ORCHARD CITY
+  order: '0'
+  priority: '0'
+  rate: '4.9'
+  shipping: '1'
+  state: CO
+wootax/5236:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '81411'
+    location_type: postcode
+  name: MONTROSE COUNTY
+  order: '0'
+  priority: '0'
+  rate: '4.65'
+  shipping: '1'
+  state: CO
+wootax/5237:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '81413'
+    location_type: postcode
+  name: DELTA COUNTY
+  order: '0'
+  priority: '0'
+  rate: '4.9'
+  shipping: '1'
+  state: CO
+wootax/5238:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '81414'
+    location_type: postcode
+  name: ORCHARD CITY
+  order: '0'
+  priority: '0'
+  rate: '4.9'
+  shipping: '1'
+  state: CO
+wootax/5239:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '81415'
+    location_type: postcode
+  name: DELTA COUNTY
+  order: '0'
+  priority: '0'
+  rate: '4.9'
+  shipping: '1'
+  state: CO
+wootax/5240:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '81416'
+    location_type: postcode
+  name: DELTA
+  order: '0'
+  priority: '0'
+  rate: '7.9'
+  shipping: '1'
+  state: CO
+wootax/5241:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '81418'
+    location_type: postcode
+  name: ORCHARD CITY
+  order: '0'
+  priority: '0'
+  rate: '4.9'
+  shipping: '1'
+  state: CO
+wootax/5242:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '81419'
+    location_type: postcode
+  name: DELTA COUNTY
+  order: '0'
+  priority: '0'
+  rate: '4.9'
+  shipping: '1'
+  state: CO
+wootax/5243:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '81420'
+    location_type: postcode
+  name: DELTA COUNTY
+  order: '0'
+  priority: '0'
+  rate: '4.9'
+  shipping: '1'
+  state: CO
+wootax/5244:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '81422'
+    location_type: postcode
+  name: NATURITA
+  order: '0'
+  priority: '0'
+  rate: '8.65'
+  shipping: '1'
+  state: CO
+wootax/5245:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '81423'
+    location_type: postcode
+  name: NORWOOD
+  order: '0'
+  priority: '0'
+  rate: '6.9'
+  shipping: '1'
+  state: CO
+wootax/5246:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '81424'
+    location_type: postcode
+  name: NUCLA
+  order: '0'
+  priority: '0'
+  rate: '8.65'
+  shipping: '1'
+  state: CO
+wootax/5247:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '81425'
+    location_type: postcode
+  name: MONTROSE COUNTY
+  order: '0'
+  priority: '0'
+  rate: '4.65'
+  shipping: '1'
+  state: CO
+wootax/5248:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '81426'
+    location_type: postcode
+  name: SAN MIGUEL CO RTA
+  order: '0'
+  priority: '0'
+  rate: '4.15'
+  shipping: '1'
+  state: CO
+wootax/5249:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '81427'
+    location_type: postcode
+  name: OURAY
+  order: '0'
+  priority: '0'
+  rate: '9.45'
+  shipping: '1'
+  state: CO
+wootax/5250:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '81428'
+    location_type: postcode
+  name: DELTA COUNTY
+  order: '0'
+  priority: '0'
+  rate: '4.9'
+  shipping: '1'
+  state: CO
+wootax/5251:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '81429'
+    location_type: postcode
+  name: MONTROSE COUNTY
+  order: '0'
+  priority: '0'
+  rate: '4.65'
+  shipping: '1'
+  state: CO
+wootax/5252:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '81430'
+    location_type: postcode
+  name: SAN MIGUEL CO RTA
+  order: '0'
+  priority: '0'
+  rate: '4.15'
+  shipping: '1'
+  state: CO
+wootax/5253:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '81431'
+    location_type: postcode
+  name: MONTROSE COUNTY
+  order: '0'
+  priority: '0'
+  rate: '4.65'
+  shipping: '1'
+  state: CO
+wootax/5254:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '81432'
+    location_type: postcode
+  name: OURAY COUNTY
+  order: '0'
+  priority: '0'
+  rate: '5.45'
+  shipping: '1'
+  state: CO
+wootax/5255:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '81433'
+    location_type: postcode
+  name: SILVERTON
+  order: '0'
+  priority: '0'
+  rate: '10.4'
+  shipping: '1'
+  state: CO
+wootax/5256:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '81434'
+    location_type: postcode
+  name: GUNNISON CO TR
+  order: '0'
+  priority: '0'
+  rate: '4.9'
+  shipping: '1'
+  state: CO
+wootax/5257:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '81435'
+    location_type: postcode
+  name: MOUNTAIN VILLAGE
+  order: '0'
+  priority: '0'
+  rate: '8.65'
+  shipping: '1'
+  state: CO
+wootax/5258:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '81501'
+    location_type: postcode
+  name: GRAND JUNCTION
+  order: '0'
+  priority: '0'
+  rate: '8.02'
+  shipping: '1'
+  state: CO
+wootax/5259:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '81502'
+    location_type: postcode
+  name: GRAND JUNCTION
+  order: '0'
+  priority: '0'
+  rate: '8.02'
+  shipping: '1'
+  state: CO
+wootax/5260:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '81503'
+    location_type: postcode
+  name: MESA COUNTY
+  order: '0'
+  priority: '0'
+  rate: '5.27'
+  shipping: '1'
+  state: CO
+wootax/5261:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '81504'
+    location_type: postcode
+  name: MESA COUNTY
+  order: '0'
+  priority: '0'
+  rate: '5.27'
+  shipping: '1'
+  state: CO
+wootax/5262:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '81505'
+    location_type: postcode
+  name: GRAND JUNCTION
+  order: '0'
+  priority: '0'
+  rate: '8.02'
+  shipping: '1'
+  state: CO
+wootax/5263:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '81506'
+    location_type: postcode
+  name: GRAND JUNCTION
+  order: '0'
+  priority: '0'
+  rate: '8.02'
+  shipping: '1'
+  state: CO
+wootax/5264:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '81507'
+    location_type: postcode
+  name: MESA COUNTY
+  order: '0'
+  priority: '0'
+  rate: '5.27'
+  shipping: '1'
+  state: CO
+wootax/5265:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '81520'
+    location_type: postcode
+  name: MESA COUNTY
+  order: '0'
+  priority: '0'
+  rate: '5.27'
+  shipping: '1'
+  state: CO
+wootax/5266:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '81521'
+    location_type: postcode
+  name: FRUITA
+  order: '0'
+  priority: '0'
+  rate: '8.27'
+  shipping: '1'
+  state: CO
+wootax/5267:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '81522'
+    location_type: postcode
+  name: MESA COUNTY
+  order: '0'
+  priority: '0'
+  rate: '5.27'
+  shipping: '1'
+  state: CO
+wootax/5268:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '81523'
+    location_type: postcode
+  name: MESA COUNTY
+  order: '0'
+  priority: '0'
+  rate: '5.27'
+  shipping: '1'
+  state: CO
+wootax/5269:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '81524'
+    location_type: postcode
+  name: MESA COUNTY
+  order: '0'
+  priority: '0'
+  rate: '5.27'
+  shipping: '1'
+  state: CO
+wootax/5270:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '81525'
+    location_type: postcode
+  name: MESA COUNTY
+  order: '0'
+  priority: '0'
+  rate: '5.27'
+  shipping: '1'
+  state: CO
+wootax/5271:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '81526'
+    location_type: postcode
+  name: PALISADE
+  order: '0'
+  priority: '0'
+  rate: '7.27'
+  shipping: '1'
+  state: CO
+wootax/5272:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '81527'
+    location_type: postcode
+  name: MESA COUNTY
+  order: '0'
+  priority: '0'
+  rate: '5.27'
+  shipping: '1'
+  state: CO
+wootax/5273:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '81601'
+    location_type: postcode
+  name: GLENWOOD SPRINGS
+  order: '0'
+  priority: '0'
+  rate: '8.6'
+  shipping: '1'
+  state: CO
+wootax/5274:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '81602'
+    location_type: postcode
+  name: GLENWOOD SPRINGS
+  order: '0'
+  priority: '0'
+  rate: '8.6'
+  shipping: '1'
+  state: CO
+wootax/5275:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '81610'
+    location_type: postcode
+  name: MOFFAT COUNTY LOCAL MARKETING DISTRICT
+  order: '0'
+  priority: '0'
+  rate: '4.9'
+  shipping: '1'
+  state: CO
+wootax/5276:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '81611'
+    location_type: postcode
+  name: ASPEN
+  order: '0'
+  priority: '0'
+  rate: '9.3'
+  shipping: '1'
+  state: CO
+wootax/5277:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '81612'
+    location_type: postcode
+  name: ASPEN
+  order: '0'
+  priority: '0'
+  rate: '9.3'
+  shipping: '1'
+  state: CO
+wootax/5278:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '81615'
+    location_type: postcode
+  name: SNOWMASS VILLAGE
+  order: '0'
+  priority: '0'
+  rate: '10.4'
+  shipping: '1'
+  state: CO
+wootax/5279:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '81620'
+    location_type: postcode
+  name: AVON
+  order: '0'
+  priority: '0'
+  rate: '8.4'
+  shipping: '1'
+  state: CO
+wootax/5280:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '81621'
+    location_type: postcode
+  name: BASALT (EAGLE CO)
+  order: '0'
+  priority: '0'
+  rate: '8.2'
+  shipping: '1'
+  state: CO
+wootax/5281:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '81623'
+    location_type: postcode
+  name: CARBONDALE
+  order: '0'
+  priority: '0'
+  rate: '8.4'
+  shipping: '1'
+  state: CO
+wootax/5282:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '81624'
+    location_type: postcode
+  name: MESA COUNTY
+  order: '0'
+  priority: '0'
+  rate: '5.27'
+  shipping: '1'
+  state: CO
+wootax/5283:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '81625'
+    location_type: postcode
+  name: CRAIG
+  order: '0'
+  priority: '0'
+  rate: '8.9'
+  shipping: '1'
+  state: CO
+wootax/5284:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '81630'
+    location_type: postcode
+  name: MESA COUNTY
+  order: '0'
+  priority: '0'
+  rate: '5.27'
+  shipping: '1'
+  state: CO
+wootax/5285:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '81631'
+    location_type: postcode
+  name: EAGLE
+  order: '0'
+  priority: '0'
+  rate: '8.9'
+  shipping: '1'
+  state: CO
+wootax/5286:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '81632'
+    location_type: postcode
+  name: EDWARDS METRO DISTRICT
+  order: '0'
+  priority: '0'
+  rate: '5.4'
+  shipping: '1'
+  state: CO
+wootax/5287:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '81633'
+    location_type: postcode
+  name: MOFFAT COUNTY LOCAL MARKETING DISTRICT
+  order: '0'
+  priority: '0'
+  rate: '4.9'
+  shipping: '1'
+  state: CO
+wootax/5288:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '81635'
+    location_type: postcode
+  name: GARFIELD COUNTY
+  order: '0'
+  priority: '0'
+  rate: '3.9'
+  shipping: '1'
+  state: CO
+wootax/5289:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '81637'
+    location_type: postcode
+  name: EAGLE COUNTY
+  order: '0'
+  priority: '0'
+  rate: '4.4'
+  shipping: '1'
+  state: CO
+wootax/5290:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '81638'
+    location_type: postcode
+  name: MOFFAT COUNTY LOCAL MARKETING DISTRICT
+  order: '0'
+  priority: '0'
+  rate: '4.9'
+  shipping: '1'
+  state: CO
+wootax/5291:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '81639'
+    location_type: postcode
+  name: ROUTT COUNTY
+  order: '0'
+  priority: '0'
+  rate: '3.9'
+  shipping: '1'
+  state: CO
+wootax/5292:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '81640'
+    location_type: postcode
+  name: MOFFAT COUNTY LOCAL MARKETING DISTRICT
+  order: '0'
+  priority: '0'
+  rate: '4.9'
+  shipping: '1'
+  state: CO
+wootax/5293:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '81641'
+    location_type: postcode
+  name: MEEKER
+  order: '0'
+  priority: '0'
+  rate: '6.5'
+  shipping: '1'
+  state: CO
+wootax/5294:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '81642'
+    location_type: postcode
+  name: PITKIN CO REMAINDER
+  order: '0'
+  priority: '0'
+  rate: '6.9'
+  shipping: '1'
+  state: CO
+wootax/5295:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '81643'
+    location_type: postcode
+  name: MESA COUNTY
+  order: '0'
+  priority: '0'
+  rate: '5.27'
+  shipping: '1'
+  state: CO
+wootax/5296:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '81645'
+    location_type: postcode
+  name: MINTURN
+  order: '0'
+  priority: '0'
+  rate: '8.4'
+  shipping: '1'
+  state: CO
+wootax/5297:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '81646'
+    location_type: postcode
+  name: MESA COUNTY
+  order: '0'
+  priority: '0'
+  rate: '5.27'
+  shipping: '1'
+  state: CO
+wootax/5298:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '81647'
+    location_type: postcode
+  name: GARFIELD COUNTY
+  order: '0'
+  priority: '0'
+  rate: '3.9'
+  shipping: '1'
+  state: CO
+wootax/5299:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '81648'
+    location_type: postcode
+  name: RANGELY
+  order: '0'
+  priority: '0'
+  rate: '6.5'
+  shipping: '1'
+  state: CO
+wootax/5300:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '81649'
+    location_type: postcode
+  name: RED CLIFF
+  order: '0'
+  priority: '0'
+  rate: '7.4'
+  shipping: '1'
+  state: CO
+wootax/5301:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '81650'
+    location_type: postcode
+  name: RIFLE
+  order: '0'
+  priority: '0'
+  rate: '8.15'
+  shipping: '1'
+  state: CO
+wootax/5302:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '81652'
+    location_type: postcode
+  name: SILT
+  order: '0'
+  priority: '0'
+  rate: '6.9'
+  shipping: '1'
+  state: CO
+wootax/5303:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '81653'
+    location_type: postcode
+  name: MOFFAT COUNTY LOCAL MARKETING DISTRICT
+  order: '0'
+  priority: '0'
+  rate: '4.9'
+  shipping: '1'
+  state: CO
+wootax/5304:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '81654'
+    location_type: postcode
+  name: PITKIN CO REMAINDER
+  order: '0'
+  priority: '0'
+  rate: '6.9'
+  shipping: '1'
+  state: CO
+wootax/5305:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '81655'
+    location_type: postcode
+  name: EAGLE COUNTY
+  order: '0'
+  priority: '0'
+  rate: '4.4'
+  shipping: '1'
+  state: CO
+wootax/5306:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '81656'
+    location_type: postcode
+  name: PITKIN CO REMAINDER
+  order: '0'
+  priority: '0'
+  rate: '6.9'
+  shipping: '1'
+  state: CO
+wootax/5307:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '81657'
+    location_type: postcode
+  name: VAIL
+  order: '0'
+  priority: '0'
+  rate: '8.4'
+  shipping: '1'
+  state: CO
+wootax/5308:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '81658'
+    location_type: postcode
+  name: VAIL
+  order: '0'
+  priority: '0'
+  rate: '8.4'
+  shipping: '1'
+  state: CO

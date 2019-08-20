@@ -1,0 +1,3978 @@
+wootax/9586:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '83201'
+    location_type: postcode
+  name: POCATELLO CHUBBUCK AUDITORIUM DISTRICT SP
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '0'
+  state: ID
+wootax/9587:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '83202'
+    location_type: postcode
+  name: CHUBBUCK
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '0'
+  state: ID
+wootax/9588:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '83204'
+    location_type: postcode
+  name: POCATELLO CHUBBUCK AUDITORIUM DISTRICT SP
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '0'
+  state: ID
+wootax/9589:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '83205'
+    location_type: postcode
+  name: POCATELLO CHUBBUCK AUDITORIUM DISTRICT SP
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '0'
+  state: ID
+wootax/9590:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '83206'
+    location_type: postcode
+  name: POCATELLO CHUBBUCK AUDITORIUM DISTRICT SP
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '0'
+  state: ID
+wootax/9591:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '83209'
+    location_type: postcode
+  name: POCATELLO CHUBBUCK AUDITORIUM DISTRICT SP
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '0'
+  state: ID
+wootax/9592:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '83210'
+    location_type: postcode
+  name: ABERDEEN
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '0'
+  state: ID
+wootax/9593:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '83211'
+    location_type: postcode
+  name: AMERICAN FALLS
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '0'
+  state: ID
+wootax/9594:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '83212'
+    location_type: postcode
+  name: POWER
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '0'
+  state: ID
+wootax/9595:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '83213'
+    location_type: postcode
+  name: ARCO
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '0'
+  state: ID
+wootax/9596:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '83214'
+    location_type: postcode
+  name: ARIMO
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '0'
+  state: ID
+wootax/9597:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '83215'
+    location_type: postcode
+  name: ATOMIC CITY
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '0'
+  state: ID
+wootax/9598:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '83217'
+    location_type: postcode
+  name: CARIBOU
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '0'
+  state: ID
+wootax/9599:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '83218'
+    location_type: postcode
+  name: BASALT
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '0'
+  state: ID
+wootax/9600:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '83220'
+    location_type: postcode
+  name: BEAR LAKE
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '0'
+  state: ID
+wootax/9601:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '83221'
+    location_type: postcode
+  name: BLACKFOOT
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '0'
+  state: ID
+wootax/9602:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '83223'
+    location_type: postcode
+  name: BLOOMINGTON
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '0'
+  state: ID
+wootax/9603:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '83226'
+    location_type: postcode
+  name: CHALLIS
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '0'
+  state: ID
+wootax/9604:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '83227'
+    location_type: postcode
+  name: CLAYTON
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '0'
+  state: ID
+wootax/9605:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '83228'
+    location_type: postcode
+  name: FRANKLIN
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '0'
+  state: ID
+wootax/9606:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '83229'
+    location_type: postcode
+  name: LEMHI
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '0'
+  state: ID
+wootax/9607:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '83232'
+    location_type: postcode
+  name: DAYTON
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '0'
+  state: ID
+wootax/9608:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '83233'
+    location_type: postcode
+  name: BEAR LAKE
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '0'
+  state: ID
+wootax/9609:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '83234'
+    location_type: postcode
+  name: BANNOCK
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '0'
+  state: ID
+wootax/9610:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '83235'
+    location_type: postcode
+  name: LEMHI
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '0'
+  state: ID
+wootax/9611:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '83236'
+    location_type: postcode
+  name: BINGHAM
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '0'
+  state: ID
+wootax/9612:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '83237'
+    location_type: postcode
+  name: FRANKLIN
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '0'
+  state: ID
+wootax/9613:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '83238'
+    location_type: postcode
+  name: BEAR LAKE
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '0'
+  state: ID
+wootax/9614:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '83239'
+    location_type: postcode
+  name: BEAR LAKE
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '0'
+  state: ID
+wootax/9615:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '83241'
+    location_type: postcode
+  name: CARIBOU
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '0'
+  state: ID
+wootax/9616:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '83243'
+    location_type: postcode
+  name: ONEIDA
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '0'
+  state: ID
+wootax/9617:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '83244'
+    location_type: postcode
+  name: BUTTE
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '0'
+  state: ID
+wootax/9618:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '83245'
+    location_type: postcode
+  name: BANNOCK
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '0'
+  state: ID
+wootax/9619:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '83246'
+    location_type: postcode
+  name: BANNOCK
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '0'
+  state: ID
+wootax/9620:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '83250'
+    location_type: postcode
+  name: BANNOCK
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '0'
+  state: ID
+wootax/9621:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '83251'
+    location_type: postcode
+  name: MACKAY
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '0'
+  state: ID
+wootax/9622:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '83252'
+    location_type: postcode
+  name: ONEIDA
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '0'
+  state: ID
+wootax/9623:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '83253'
+    location_type: postcode
+  name: LEMHI
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '0'
+  state: ID
+wootax/9624:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '83254'
+    location_type: postcode
+  name: MONTPELIER
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '0'
+  state: ID
+wootax/9625:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '83255'
+    location_type: postcode
+  name: BUTTE
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '0'
+  state: ID
+wootax/9626:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '83256'
+    location_type: postcode
+  name: BINGHAM
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '0'
+  state: ID
+wootax/9627:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '83261'
+    location_type: postcode
+  name: PARIS
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '0'
+  state: ID
+wootax/9628:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '83262'
+    location_type: postcode
+  name: BINGHAM
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '0'
+  state: ID
+wootax/9629:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '83263'
+    location_type: postcode
+  name: FRANKLIN
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '0'
+  state: ID
+wootax/9630:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '83271'
+    location_type: postcode
+  name: POWER
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '0'
+  state: ID
+wootax/9631:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '83272'
+    location_type: postcode
+  name: ST. CHARLES
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '0'
+  state: ID
+wootax/9632:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '83274'
+    location_type: postcode
+  name: SHELLEY
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '0'
+  state: ID
+wootax/9633:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '83276'
+    location_type: postcode
+  name: SODA SPRINGS
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '0'
+  state: ID
+wootax/9634:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '83277'
+    location_type: postcode
+  name: BINGHAM
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '0'
+  state: ID
+wootax/9635:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '83278'
+    location_type: postcode
+  name: STANLEY
+  order: '0'
+  priority: '0'
+  rate: '8.5'
+  shipping: '0'
+  state: ID
+wootax/9636:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '83281'
+    location_type: postcode
+  name: BANNOCK
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '0'
+  state: ID
+wootax/9637:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '83283'
+    location_type: postcode
+  name: FRANKLIN
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '0'
+  state: ID
+wootax/9638:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '83285'
+    location_type: postcode
+  name: CARIBOU
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '0'
+  state: ID
+wootax/9639:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '83286'
+    location_type: postcode
+  name: FRANKLIN
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '0'
+  state: ID
+wootax/9640:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '83287'
+    location_type: postcode
+  name: BEAR LAKE
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '0'
+  state: ID
+wootax/9641:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '83301'
+    location_type: postcode
+  name: TWIN FALLS
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '0'
+  state: ID
+wootax/9642:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '83302'
+    location_type: postcode
+  name: TWIN FALLS
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '0'
+  state: ID
+wootax/9643:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '83303'
+    location_type: postcode
+  name: TWIN FALLS
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '0'
+  state: ID
+wootax/9644:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '83311'
+    location_type: postcode
+  name: ALBION
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '0'
+  state: ID
+wootax/9645:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '83312'
+    location_type: postcode
+  name: CASSIA
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '0'
+  state: ID
+wootax/9646:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '83313'
+    location_type: postcode
+  name: BELLEVUE
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '0'
+  state: ID
+wootax/9647:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '83314'
+    location_type: postcode
+  name: GOODING
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '0'
+  state: ID
+wootax/9648:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '83316'
+    location_type: postcode
+  name: TWIN FALLS
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '0'
+  state: ID
+wootax/9649:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '83318'
+    location_type: postcode
+  name: BURLEY
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '0'
+  state: ID
+wootax/9650:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '83320'
+    location_type: postcode
+  name: CAREY
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '0'
+  state: ID
+wootax/9651:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '83321'
+    location_type: postcode
+  name: TWIN FALLS
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '0'
+  state: ID
+wootax/9652:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '83322'
+    location_type: postcode
+  name: CAMAS
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '0'
+  state: ID
+wootax/9653:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '83323'
+    location_type: postcode
+  name: CASSIA
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '0'
+  state: ID
+wootax/9654:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '83324'
+    location_type: postcode
+  name: LINCOLN
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '0'
+  state: ID
+wootax/9655:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '83325'
+    location_type: postcode
+  name: JEROME
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '0'
+  state: ID
+wootax/9656:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '83327'
+    location_type: postcode
+  name: CAMAS
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '0'
+  state: ID
+wootax/9657:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '83328'
+    location_type: postcode
+  name: TWIN FALLS
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '0'
+  state: ID
+wootax/9658:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '83330'
+    location_type: postcode
+  name: GOODING
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '0'
+  state: ID
+wootax/9659:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '83332'
+    location_type: postcode
+  name: GOODING
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '0'
+  state: ID
+wootax/9660:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '83333'
+    location_type: postcode
+  name: HAILEY
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '0'
+  state: ID
+wootax/9661:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '83334'
+    location_type: postcode
+  name: TWIN FALLS
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '0'
+  state: ID
+wootax/9662:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '83335'
+    location_type: postcode
+  name: JEROME
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '0'
+  state: ID
+wootax/9663:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '83336'
+    location_type: postcode
+  name: HEYBURN
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '0'
+  state: ID
+wootax/9664:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '83337'
+    location_type: postcode
+  name: CAMAS
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '0'
+  state: ID
+wootax/9665:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '83338'
+    location_type: postcode
+  name: JEROME
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '0'
+  state: ID
+wootax/9666:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '83340'
+    location_type: postcode
+  name: KETCHUM
+  order: '0'
+  priority: '0'
+  rate: '8'
+  shipping: '0'
+  state: ID
+wootax/9667:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '83341'
+    location_type: postcode
+  name: KIMBERLY
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '0'
+  state: ID
+wootax/9668:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '83342'
+    location_type: postcode
+  name: CASSIA
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '0'
+  state: ID
+wootax/9669:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '83343'
+    location_type: postcode
+  name: MINIDOKA
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '0'
+  state: ID
+wootax/9670:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '83344'
+    location_type: postcode
+  name: TWIN FALLS
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '0'
+  state: ID
+wootax/9671:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '83346'
+    location_type: postcode
+  name: OAKLEY
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '0'
+  state: ID
+wootax/9672:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '83347'
+    location_type: postcode
+  name: MINIDOKA
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '0'
+  state: ID
+wootax/9673:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '83348'
+    location_type: postcode
+  name: BLAINE
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '0'
+  state: ID
+wootax/9674:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '83349'
+    location_type: postcode
+  name: LINCOLN
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '0'
+  state: ID
+wootax/9675:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '83350'
+    location_type: postcode
+  name: RUPERT
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '0'
+  state: ID
+wootax/9676:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '83352'
+    location_type: postcode
+  name: LINCOLN
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '0'
+  state: ID
+wootax/9677:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '83353'
+    location_type: postcode
+  name: SUN VALLEY
+  order: '0'
+  priority: '0'
+  rate: '9'
+  shipping: '0'
+  state: ID
+wootax/9678:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '83354'
+    location_type: postcode
+  name: SUN VALLEY
+  order: '0'
+  priority: '0'
+  rate: '9'
+  shipping: '0'
+  state: ID
+wootax/9679:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '83355'
+    location_type: postcode
+  name: WENDELL
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '0'
+  state: ID
+wootax/9680:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '83401'
+    location_type: postcode
+  name: BONNEVILLE
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '0'
+  state: ID
+wootax/9681:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '83402'
+    location_type: postcode
+  name: IDAHO FALLS AUDITORIUM DISTRICT SP
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '0'
+  state: ID
+wootax/9682:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '83403'
+    location_type: postcode
+  name: IDAHO FALLS AUDITORIUM DISTRICT SP
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '0'
+  state: ID
+wootax/9683:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '83404'
+    location_type: postcode
+  name: IDAHO FALLS AUDITORIUM DISTRICT SP
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '0'
+  state: ID
+wootax/9684:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '83405'
+    location_type: postcode
+  name: IDAHO FALLS AUDITORIUM DISTRICT SP
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '0'
+  state: ID
+wootax/9685:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '83406'
+    location_type: postcode
+  name: AMMON
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '0'
+  state: ID
+wootax/9686:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '83420'
+    location_type: postcode
+  name: FREMONT
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '0'
+  state: ID
+wootax/9687:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '83421'
+    location_type: postcode
+  name: FREMONT
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '0'
+  state: ID
+wootax/9688:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '83422'
+    location_type: postcode
+  name: TETON
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '0'
+  state: ID
+wootax/9689:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '83423'
+    location_type: postcode
+  name: DUBOIS
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '0'
+  state: ID
+wootax/9690:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '83424'
+    location_type: postcode
+  name: TETON
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '0'
+  state: ID
+wootax/9691:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '83425'
+    location_type: postcode
+  name: JEFFERSON
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '0'
+  state: ID
+wootax/9692:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '83427'
+    location_type: postcode
+  name: IONA
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '0'
+  state: ID
+wootax/9693:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '83428'
+    location_type: postcode
+  name: BONNEVILLE
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '0'
+  state: ID
+wootax/9694:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '83429'
+    location_type: postcode
+  name: FREMONT
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '0'
+  state: ID
+wootax/9695:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '83431'
+    location_type: postcode
+  name: JEFFERSON
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '0'
+  state: ID
+wootax/9696:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '83433'
+    location_type: postcode
+  name: ISLAND PARK
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '0'
+  state: ID
+wootax/9697:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '83434'
+    location_type: postcode
+  name: JEFFERSON
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '0'
+  state: ID
+wootax/9698:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '83435'
+    location_type: postcode
+  name: JEFFERSON
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '0'
+  state: ID
+wootax/9699:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '83436'
+    location_type: postcode
+  name: NEWDALE
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '0'
+  state: ID
+wootax/9700:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '83438'
+    location_type: postcode
+  name: PARKER
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '0'
+  state: ID
+wootax/9701:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '83440'
+    location_type: postcode
+  name: REXBURG
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '0'
+  state: ID
+wootax/9702:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '83441'
+    location_type: postcode
+  name: REXBURG
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '0'
+  state: ID
+wootax/9703:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '83442'
+    location_type: postcode
+  name: JEFFERSON
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '0'
+  state: ID
+wootax/9704:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '83443'
+    location_type: postcode
+  name: RIRIE
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '0'
+  state: ID
+wootax/9705:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '83444'
+    location_type: postcode
+  name: JEFFERSON
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '0'
+  state: ID
+wootax/9706:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '83445'
+    location_type: postcode
+  name: ST. ANTHONY
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '0'
+  state: ID
+wootax/9707:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '83446'
+    location_type: postcode
+  name: SPENCER
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '0'
+  state: ID
+wootax/9708:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '83448'
+    location_type: postcode
+  name: SUGAR CITY
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '0'
+  state: ID
+wootax/9709:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '83449'
+    location_type: postcode
+  name: SWAN VALLEY
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '0'
+  state: ID
+wootax/9710:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '83450'
+    location_type: postcode
+  name: JEFFERSON
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '0'
+  state: ID
+wootax/9711:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '83451'
+    location_type: postcode
+  name: TETON
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '0'
+  state: ID
+wootax/9712:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '83452'
+    location_type: postcode
+  name: TETON
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '0'
+  state: ID
+wootax/9713:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '83454'
+    location_type: postcode
+  name: UCON
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '0'
+  state: ID
+wootax/9714:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '83455'
+    location_type: postcode
+  name: TETON
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '0'
+  state: ID
+wootax/9715:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '83460'
+    location_type: postcode
+  name: REXBURG
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '0'
+  state: ID
+wootax/9716:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '83462'
+    location_type: postcode
+  name: LEMHI
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '0'
+  state: ID
+wootax/9717:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '83463'
+    location_type: postcode
+  name: LEMHI
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '0'
+  state: ID
+wootax/9718:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '83464'
+    location_type: postcode
+  name: LEMHI
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '0'
+  state: ID
+wootax/9719:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '83465'
+    location_type: postcode
+  name: LEMHI
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '0'
+  state: ID
+wootax/9720:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '83466'
+    location_type: postcode
+  name: LEMHI
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '0'
+  state: ID
+wootax/9721:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '83467'
+    location_type: postcode
+  name: SALMON
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '0'
+  state: ID
+wootax/9722:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '83468'
+    location_type: postcode
+  name: LEMHI
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '0'
+  state: ID
+wootax/9723:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '83469'
+    location_type: postcode
+  name: LEMHI
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '0'
+  state: ID
+wootax/9724:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '83501'
+    location_type: postcode
+  name: LEWISTON
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '0'
+  state: ID
+wootax/9725:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '83520'
+    location_type: postcode
+  name: CLEARWATER
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '0'
+  state: ID
+wootax/9726:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '83522'
+    location_type: postcode
+  name: IDAHO
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '0'
+  state: ID
+wootax/9727:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '83523'
+    location_type: postcode
+  name: LEWIS
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '0'
+  state: ID
+wootax/9728:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '83524'
+    location_type: postcode
+  name: NEZ PERCE
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '0'
+  state: ID
+wootax/9729:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '83525'
+    location_type: postcode
+  name: IDAHO
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '0'
+  state: ID
+wootax/9730:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '83526'
+    location_type: postcode
+  name: FERDINAND
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '0'
+  state: ID
+wootax/9731:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '83530'
+    location_type: postcode
+  name: GRANGEVILLE
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '0'
+  state: ID
+wootax/9732:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '83533'
+    location_type: postcode
+  name: IDAHO
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '0'
+  state: ID
+wootax/9733:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '83535'
+    location_type: postcode
+  name: NEZ PERCE
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '0'
+  state: ID
+wootax/9734:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '83536'
+    location_type: postcode
+  name: IDAHO
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '0'
+  state: ID
+wootax/9735:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '83537'
+    location_type: postcode
+  name: NEZ PERCE
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '0'
+  state: ID
+wootax/9736:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '83539'
+    location_type: postcode
+  name: IDAHO
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '0'
+  state: ID
+wootax/9737:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '83540'
+    location_type: postcode
+  name: NEZ PERCE
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '0'
+  state: ID
+wootax/9738:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '83541'
+    location_type: postcode
+  name: NEZ PERCE
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '0'
+  state: ID
+wootax/9739:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '83542'
+    location_type: postcode
+  name: IDAHO
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '0'
+  state: ID
+wootax/9740:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '83543'
+    location_type: postcode
+  name: LEWIS
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '0'
+  state: ID
+wootax/9741:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '83544'
+    location_type: postcode
+  name: CLEARWATER
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '0'
+  state: ID
+wootax/9742:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '83545'
+    location_type: postcode
+  name: NEZ PERCE
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '0'
+  state: ID
+wootax/9743:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '83546'
+    location_type: postcode
+  name: PIERCE
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '0'
+  state: ID
+wootax/9744:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '83547'
+    location_type: postcode
+  name: IDAHO
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '0'
+  state: ID
+wootax/9745:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '83548'
+    location_type: postcode
+  name: NEZ PERCE
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '0'
+  state: ID
+wootax/9746:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '83549'
+    location_type: postcode
+  name: RIGGINS
+  order: '0'
+  priority: '0'
+  rate: '7'
+  shipping: '0'
+  state: ID
+wootax/9747:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '83552'
+    location_type: postcode
+  name: IDAHO
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '0'
+  state: ID
+wootax/9748:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '83553'
+    location_type: postcode
+  name: CLEARWATER
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '0'
+  state: ID
+wootax/9749:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '83554'
+    location_type: postcode
+  name: IDAHO
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '0'
+  state: ID
+wootax/9750:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '83555'
+    location_type: postcode
+  name: WINCHESTER
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '0'
+  state: ID
+wootax/9751:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '83601'
+    location_type: postcode
+  name: ELMORE
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '0'
+  state: ID
+wootax/9752:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '83602'
+    location_type: postcode
+  name: BOISE
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '0'
+  state: ID
+wootax/9753:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '83604'
+    location_type: postcode
+  name: OWYHEE
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '0'
+  state: ID
+wootax/9754:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '83605'
+    location_type: postcode
+  name: CALDWELL
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '0'
+  state: ID
+wootax/9755:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '83606'
+    location_type: postcode
+  name: CALDWELL
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '0'
+  state: ID
+wootax/9756:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '83607'
+    location_type: postcode
+  name: CANYON
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '0'
+  state: ID
+wootax/9757:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '83610'
+    location_type: postcode
+  name: WASHINGTON
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '0'
+  state: ID
+wootax/9758:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '83611'
+    location_type: postcode
+  name: CASCADE
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '0'
+  state: ID
+wootax/9759:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '83612'
+    location_type: postcode
+  name: ADAMS
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '0'
+  state: ID
+wootax/9760:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '83615'
+    location_type: postcode
+  name: VALLEY
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '0'
+  state: ID
+wootax/9761:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '83616'
+    location_type: postcode
+  name: EAGLE
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '0'
+  state: ID
+wootax/9762:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '83617'
+    location_type: postcode
+  name: EMMETT
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '0'
+  state: ID
+wootax/9763:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '83619'
+    location_type: postcode
+  name: FRUITLAND
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '0'
+  state: ID
+wootax/9764:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '83622'
+    location_type: postcode
+  name: BOISE
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '0'
+  state: ID
+wootax/9765:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '83623'
+    location_type: postcode
+  name: GLENNS FERRY
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '0'
+  state: ID
+wootax/9766:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '83624'
+    location_type: postcode
+  name: OWYHEE
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '0'
+  state: ID
+wootax/9767:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '83626'
+    location_type: postcode
+  name: GREENLEAF
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '0'
+  state: ID
+wootax/9768:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '83627'
+    location_type: postcode
+  name: ELMORE
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '0'
+  state: ID
+wootax/9769:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '83628'
+    location_type: postcode
+  name: OWYHEE
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '0'
+  state: ID
+wootax/9770:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '83629'
+    location_type: postcode
+  name: BOISE
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '0'
+  state: ID
+wootax/9771:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '83630'
+    location_type: postcode
+  name: CANYON
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '0'
+  state: ID
+wootax/9772:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '83631'
+    location_type: postcode
+  name: BOISE
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '0'
+  state: ID
+wootax/9773:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '83632'
+    location_type: postcode
+  name: ADAMS
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '0'
+  state: ID
+wootax/9774:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '83633'
+    location_type: postcode
+  name: ELMORE
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '0'
+  state: ID
+wootax/9775:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '83634'
+    location_type: postcode
+  name: KUNA
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '0'
+  state: ID
+wootax/9776:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '83635'
+    location_type: postcode
+  name: VALLEY
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '0'
+  state: ID
+wootax/9777:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '83636'
+    location_type: postcode
+  name: GEM
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '0'
+  state: ID
+wootax/9778:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '83637'
+    location_type: postcode
+  name: BOISE
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '0'
+  state: ID
+wootax/9779:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '83638'
+    location_type: postcode
+  name: MCCALL
+  order: '0'
+  priority: '0'
+  rate: '7'
+  shipping: '0'
+  state: ID
+wootax/9780:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '83639'
+    location_type: postcode
+  name: OWYHEE
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '0'
+  state: ID
+wootax/9781:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '83641'
+    location_type: postcode
+  name: CANYON
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '0'
+  state: ID
+wootax/9782:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '83642'
+    location_type: postcode
+  name: MERIDIAN
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '0'
+  state: ID
+wootax/9783:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '83643'
+    location_type: postcode
+  name: ADAMS
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '0'
+  state: ID
+wootax/9784:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '83644'
+    location_type: postcode
+  name: MIDDLETON
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '0'
+  state: ID
+wootax/9785:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '83645'
+    location_type: postcode
+  name: WASHINGTON
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '0'
+  state: ID
+wootax/9786:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '83646'
+    location_type: postcode
+  name: MERIDIAN
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '0'
+  state: ID
+wootax/9787:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '83647'
+    location_type: postcode
+  name: MOUNTAIN HOME
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '0'
+  state: ID
+wootax/9788:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '83648'
+    location_type: postcode
+  name: ELMORE
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '0'
+  state: ID
+wootax/9789:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '83650'
+    location_type: postcode
+  name: OWYHEE
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '0'
+  state: ID
+wootax/9790:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '83651'
+    location_type: postcode
+  name: NAMPA
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '0'
+  state: ID
+wootax/9791:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '83653'
+    location_type: postcode
+  name: NAMPA
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '0'
+  state: ID
+wootax/9792:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '83654'
+    location_type: postcode
+  name: ADAMS
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '0'
+  state: ID
+wootax/9793:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '83655'
+    location_type: postcode
+  name: PAYETTE
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '0'
+  state: ID
+wootax/9794:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '83656'
+    location_type: postcode
+  name: NOTUS
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '0'
+  state: ID
+wootax/9795:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '83657'
+    location_type: postcode
+  name: GEM
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '0'
+  state: ID
+wootax/9796:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '83660'
+    location_type: postcode
+  name: CANYON
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '0'
+  state: ID
+wootax/9797:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '83661'
+    location_type: postcode
+  name: PAYETTE
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '0'
+  state: ID
+wootax/9798:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '83666'
+    location_type: postcode
+  name: PLACERVILLE
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '0'
+  state: ID
+wootax/9799:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '83669'
+    location_type: postcode
+  name: STAR
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '0'
+  state: ID
+wootax/9800:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '83670'
+    location_type: postcode
+  name: GEM
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '0'
+  state: ID
+wootax/9801:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '83671'
+    location_type: postcode
+  name: IDAHO
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '0'
+  state: ID
+wootax/9802:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '83672'
+    location_type: postcode
+  name: WEISER
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '0'
+  state: ID
+wootax/9803:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '83676'
+    location_type: postcode
+  name: CANYON
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '0'
+  state: ID
+wootax/9804:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '83677'
+    location_type: postcode
+  name: VALLEY
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '0'
+  state: ID
+wootax/9805:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '83680'
+    location_type: postcode
+  name: MERIDIAN
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '0'
+  state: ID
+wootax/9806:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '83686'
+    location_type: postcode
+  name: NAMPA
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '0'
+  state: ID
+wootax/9807:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '83687'
+    location_type: postcode
+  name: NAMPA
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '0'
+  state: ID
+wootax/9808:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '83701'
+    location_type: postcode
+  name: BOISE AUDITORIUM DISTRICT SP
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '0'
+  state: ID
+wootax/9809:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '83702'
+    location_type: postcode
+  name: BOISE AUDITORIUM DISTRICT SP
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '0'
+  state: ID
+wootax/9810:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '83703'
+    location_type: postcode
+  name: BOISE AUDITORIUM DISTRICT SP
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '0'
+  state: ID
+wootax/9811:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '83704'
+    location_type: postcode
+  name: BOISE AUDITORIUM DISTRICT SP
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '0'
+  state: ID
+wootax/9812:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '83705'
+    location_type: postcode
+  name: BOISE AUDITORIUM DISTRICT SP
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '0'
+  state: ID
+wootax/9813:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '83706'
+    location_type: postcode
+  name: BOISE AUDITORIUM DISTRICT SP
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '0'
+  state: ID
+wootax/9814:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '83707'
+    location_type: postcode
+  name: BOISE AUDITORIUM DISTRICT SP
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '0'
+  state: ID
+wootax/9815:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '83708'
+    location_type: postcode
+  name: BOISE AUDITORIUM DISTRICT SP
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '0'
+  state: ID
+wootax/9816:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '83709'
+    location_type: postcode
+  name: BOISE AUDITORIUM DISTRICT SP
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '0'
+  state: ID
+wootax/9817:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '83711'
+    location_type: postcode
+  name: BOISE AUDITORIUM DISTRICT SP
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '0'
+  state: ID
+wootax/9818:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '83712'
+    location_type: postcode
+  name: BOISE AUDITORIUM DISTRICT SP
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '0'
+  state: ID
+wootax/9819:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '83713'
+    location_type: postcode
+  name: BOISE AUDITORIUM DISTRICT SP
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '0'
+  state: ID
+wootax/9820:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '83714'
+    location_type: postcode
+  name: BOISE AUDITORIUM DISTRICT SP
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '0'
+  state: ID
+wootax/9821:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '83715'
+    location_type: postcode
+  name: BOISE AUDITORIUM DISTRICT SP
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '0'
+  state: ID
+wootax/9822:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '83716'
+    location_type: postcode
+  name: BOISE AUDITORIUM DISTRICT SP
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '0'
+  state: ID
+wootax/9823:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '83717'
+    location_type: postcode
+  name: BOISE AUDITORIUM DISTRICT SP
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '0'
+  state: ID
+wootax/9824:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '83719'
+    location_type: postcode
+  name: BOISE AUDITORIUM DISTRICT SP
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '0'
+  state: ID
+wootax/9825:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '83720'
+    location_type: postcode
+  name: BOISE AUDITORIUM DISTRICT SP
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '0'
+  state: ID
+wootax/9826:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '83724'
+    location_type: postcode
+  name: BOISE AUDITORIUM DISTRICT SP
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '0'
+  state: ID
+wootax/9827:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '83725'
+    location_type: postcode
+  name: BOISE AUDITORIUM DISTRICT SP
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '0'
+  state: ID
+wootax/9828:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '83728'
+    location_type: postcode
+  name: BOISE AUDITORIUM DISTRICT SP
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '0'
+  state: ID
+wootax/9829:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '83729'
+    location_type: postcode
+  name: BOISE AUDITORIUM DISTRICT SP
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '0'
+  state: ID
+wootax/9830:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '83735'
+    location_type: postcode
+  name: BOISE AUDITORIUM DISTRICT SP
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '0'
+  state: ID
+wootax/9831:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '83801'
+    location_type: postcode
+  name: KOOTENAI
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '0'
+  state: ID
+wootax/9832:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '83802'
+    location_type: postcode
+  name: SHOSHONE
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '0'
+  state: ID
+wootax/9833:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '83803'
+    location_type: postcode
+  name: KOOTENAI
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '0'
+  state: ID
+wootax/9834:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '83804'
+    location_type: postcode
+  name: BONNER
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '0'
+  state: ID
+wootax/9835:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '83805'
+    location_type: postcode
+  name: BOUNDARY
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '0'
+  state: ID
+wootax/9836:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '83806'
+    location_type: postcode
+  name: BOVILL
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '0'
+  state: ID
+wootax/9837:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '83808'
+    location_type: postcode
+  name: SHOSHONE
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '0'
+  state: ID
+wootax/9838:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '83809'
+    location_type: postcode
+  name: BONNER
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '0'
+  state: ID
+wootax/9839:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '83810'
+    location_type: postcode
+  name: KOOTENAI
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '0'
+  state: ID
+wootax/9840:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '83811'
+    location_type: postcode
+  name: BONNER
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '0'
+  state: ID
+wootax/9841:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '83812'
+    location_type: postcode
+  name: SHOSHONE
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '0'
+  state: ID
+wootax/9842:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '83813'
+    location_type: postcode
+  name: BONNER
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '0'
+  state: ID
+wootax/9843:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '83821'
+    location_type: postcode
+  name: BONNER
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '0'
+  state: ID
+wootax/9844:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '83822'
+    location_type: postcode
+  name: BONNER
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '0'
+  state: ID
+wootax/9845:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '83823'
+    location_type: postcode
+  name: LATAH
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '0'
+  state: ID
+wootax/9846:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '83824'
+    location_type: postcode
+  name: BENEWAH
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '0'
+  state: ID
+wootax/9847:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '83825'
+    location_type: postcode
+  name: DOVER
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '0'
+  state: ID
+wootax/9848:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '83826'
+    location_type: postcode
+  name: BOUNDARY
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '0'
+  state: ID
+wootax/9849:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '83827'
+    location_type: postcode
+  name: ELK RIVER
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '0'
+  state: ID
+wootax/9850:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '83830'
+    location_type: postcode
+  name: BENEWAH
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '0'
+  state: ID
+wootax/9851:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '83832'
+    location_type: postcode
+  name: GENESEE
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '0'
+  state: ID
+wootax/9852:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '83833'
+    location_type: postcode
+  name: KOOTENAI
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '0'
+  state: ID
+wootax/9853:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '83834'
+    location_type: postcode
+  name: LATAH
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '0'
+  state: ID
+wootax/9854:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '83835'
+    location_type: postcode
+  name: HAYDEN
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '0'
+  state: ID
+wootax/9855:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '83836'
+    location_type: postcode
+  name: BONNER
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '0'
+  state: ID
+wootax/9856:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '83837'
+    location_type: postcode
+  name: KELLOGG
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '0'
+  state: ID
+wootax/9857:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '83839'
+    location_type: postcode
+  name: SHOSHONE
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '0'
+  state: ID
+wootax/9858:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '83840'
+    location_type: postcode
+  name: BONNER
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '0'
+  state: ID
+wootax/9859:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '83841'
+    location_type: postcode
+  name: BONNER
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '0'
+  state: ID
+wootax/9860:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '83842'
+    location_type: postcode
+  name: KOOTENAI
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '0'
+  state: ID
+wootax/9861:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '83843'
+    location_type: postcode
+  name: MOSCOW
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '0'
+  state: ID
+wootax/9862:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '83844'
+    location_type: postcode
+  name: MOSCOW
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '0'
+  state: ID
+wootax/9863:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '83845'
+    location_type: postcode
+  name: BOUNDARY
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '0'
+  state: ID
+wootax/9864:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '83846'
+    location_type: postcode
+  name: MULLAN
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '0'
+  state: ID
+wootax/9865:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '83847'
+    location_type: postcode
+  name: BOUNDARY
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '0'
+  state: ID
+wootax/9866:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '83848'
+    location_type: postcode
+  name: BONNER
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '0'
+  state: ID
+wootax/9867:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '83849'
+    location_type: postcode
+  name: OSBURN
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '0'
+  state: ID
+wootax/9868:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '83850'
+    location_type: postcode
+  name: PINEHURST
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '0'
+  state: ID
+wootax/9869:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '83851'
+    location_type: postcode
+  name: BENEWAH
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '0'
+  state: ID
+wootax/9870:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '83852'
+    location_type: postcode
+  name: PONDERAY
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '0'
+  state: ID
+wootax/9871:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '83853'
+    location_type: postcode
+  name: BOUNDARY
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '0'
+  state: ID
+wootax/9872:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '83854'
+    location_type: postcode
+  name: POST FALLS
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '0'
+  state: ID
+wootax/9873:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '83855'
+    location_type: postcode
+  name: LATAH
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '0'
+  state: ID
+wootax/9874:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '83856'
+    location_type: postcode
+  name: BONNER
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '0'
+  state: ID
+wootax/9875:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '83857'
+    location_type: postcode
+  name: LATAH
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '0'
+  state: ID
+wootax/9876:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '83858'
+    location_type: postcode
+  name: KOOTENAI
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '0'
+  state: ID
+wootax/9877:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '83860'
+    location_type: postcode
+  name: BONNER
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '0'
+  state: ID
+wootax/9878:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '83861'
+    location_type: postcode
+  name: BENEWAH
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '0'
+  state: ID
+wootax/9879:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '83864'
+    location_type: postcode
+  name: BONNER
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '0'
+  state: ID
+wootax/9880:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '83865'
+    location_type: postcode
+  name: BONNER
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '0'
+  state: ID
+wootax/9881:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '83866'
+    location_type: postcode
+  name: BENEWAH
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '0'
+  state: ID
+wootax/9882:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '83867'
+    location_type: postcode
+  name: SHOSHONE
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '0'
+  state: ID
+wootax/9883:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '83868'
+    location_type: postcode
+  name: SHOSHONE
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '0'
+  state: ID
+wootax/9884:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '83869'
+    location_type: postcode
+  name: KOOTENAI
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '0'
+  state: ID
+wootax/9885:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '83870'
+    location_type: postcode
+  name: BENEWAH
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '0'
+  state: ID
+wootax/9886:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '83871'
+    location_type: postcode
+  name: LATAH
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '0'
+  state: ID
+wootax/9887:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '83872'
+    location_type: postcode
+  name: LATAH
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '0'
+  state: ID
+wootax/9888:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '83873'
+    location_type: postcode
+  name: WALLACE
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '0'
+  state: ID
+wootax/9889:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '83874'
+    location_type: postcode
+  name: SHOSHONE
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '0'
+  state: ID
+wootax/9890:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '83876'
+    location_type: postcode
+  name: KOOTENAI
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '0'
+  state: ID
+wootax/9891:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '83877'
+    location_type: postcode
+  name: POST FALLS
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '0'
+  state: ID

@@ -1,0 +1,3978 @@
+wootax/37449:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '05001'
+    location_type: postcode
+  name: HARTFORD
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: VT
+wootax/37450:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: 05009
+    location_type: postcode
+  name: HARTFORD
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: VT
+wootax/37451:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '05030'
+    location_type: postcode
+  name: WEATHERSFIELD
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: VT
+wootax/37452:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '05031'
+    location_type: postcode
+  name: BARNARD
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: VT
+wootax/37453:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '05032'
+    location_type: postcode
+  name: BETHEL
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: VT
+wootax/37454:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '05033'
+    location_type: postcode
+  name: BRADFORD
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: VT
+wootax/37455:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '05034'
+    location_type: postcode
+  name: BRIDGEWATER
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: VT
+wootax/37456:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '05035'
+    location_type: postcode
+  name: BRIDGEWATER
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: VT
+wootax/37457:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '05036'
+    location_type: postcode
+  name: BROOKFIELD
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: VT
+wootax/37458:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '05037'
+    location_type: postcode
+  name: WEST WINDSOR
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: VT
+wootax/37459:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: 05038
+    location_type: postcode
+  name: CHELSEA
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: VT
+wootax/37460:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: 05039
+    location_type: postcode
+  name: CORINTH
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: VT
+wootax/37461:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '05040'
+    location_type: postcode
+  name: CORINTH
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: VT
+wootax/37462:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '05041'
+    location_type: postcode
+  name: RANDOLPH
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: VT
+wootax/37463:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '05042'
+    location_type: postcode
+  name: RYEGATE
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: VT
+wootax/37464:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '05043'
+    location_type: postcode
+  name: THETFORD
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: VT
+wootax/37465:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '05045'
+    location_type: postcode
+  name: FAIRLEE
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: VT
+wootax/37466:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '05046'
+    location_type: postcode
+  name: GROTON
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: VT
+wootax/37467:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '05047'
+    location_type: postcode
+  name: HARTFORD
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: VT
+wootax/37468:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: 05048
+    location_type: postcode
+  name: HARTLAND
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: VT
+wootax/37469:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: 05049
+    location_type: postcode
+  name: HARTLAND
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: VT
+wootax/37470:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '05050'
+    location_type: postcode
+  name: BARNET
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: VT
+wootax/37471:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '05051'
+    location_type: postcode
+  name: NEWBURY
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: VT
+wootax/37472:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '05052'
+    location_type: postcode
+  name: HARTLAND
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: VT
+wootax/37473:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '05053'
+    location_type: postcode
+  name: POMFRET
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: VT
+wootax/37474:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '05054'
+    location_type: postcode
+  name: THETFORD
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: VT
+wootax/37475:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '05055'
+    location_type: postcode
+  name: NORWICH
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: VT
+wootax/37476:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '05056'
+    location_type: postcode
+  name: PLYMOUTH
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: VT
+wootax/37477:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: 05058
+    location_type: postcode
+  name: THETFORD
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: VT
+wootax/37478:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: 05059
+    location_type: postcode
+  name: HARTFORD
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: VT
+wootax/37479:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '05060'
+    location_type: postcode
+  name: RANDOLPH
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: VT
+wootax/37480:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '05061'
+    location_type: postcode
+  name: RANDOLPH
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: VT
+wootax/37481:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '05062'
+    location_type: postcode
+  name: READING
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: VT
+wootax/37482:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '05065'
+    location_type: postcode
+  name: SHARON
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: VT
+wootax/37483:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '05067'
+    location_type: postcode
+  name: POMFRET
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: VT
+wootax/37484:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: 05068
+    location_type: postcode
+  name: ROYALTON
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: VT
+wootax/37485:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: 05069
+    location_type: postcode
+  name: NEWBURY
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: VT
+wootax/37486:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '05070'
+    location_type: postcode
+  name: STRAFFORD
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: VT
+wootax/37487:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '05071'
+    location_type: postcode
+  name: WOODSTOCK
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: VT
+wootax/37488:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '05072'
+    location_type: postcode
+  name: STRAFFORD
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: VT
+wootax/37489:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '05073'
+    location_type: postcode
+  name: WOODSTOCK
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: VT
+wootax/37490:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '05074'
+    location_type: postcode
+  name: THETFORD
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: VT
+wootax/37491:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '05075'
+    location_type: postcode
+  name: THETFORD
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: VT
+wootax/37492:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '05076'
+    location_type: postcode
+  name: TOPSHAM
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: VT
+wootax/37493:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '05077'
+    location_type: postcode
+  name: TUNBRIDGE
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: VT
+wootax/37494:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: 05079
+    location_type: postcode
+  name: VERSHIRE
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: VT
+wootax/37495:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: 05081
+    location_type: postcode
+  name: NEWBURY
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: VT
+wootax/37496:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: 05083
+    location_type: postcode
+  name: WEST FAIRLEE
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: VT
+wootax/37497:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: 05084
+    location_type: postcode
+  name: POMFRET
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: VT
+wootax/37498:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: 05085
+    location_type: postcode
+  name: NEWBURY
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: VT
+wootax/37499:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: 05086
+    location_type: postcode
+  name: TOPSHAM
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: VT
+wootax/37500:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: 05088
+    location_type: postcode
+  name: HARTFORD
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: VT
+wootax/37501:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: 05089
+    location_type: postcode
+  name: WINDSOR
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: VT
+wootax/37502:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: 05091
+    location_type: postcode
+  name: WOODSTOCK
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: VT
+wootax/37503:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '05101'
+    location_type: postcode
+  name: BELLOWS FALLS VILLAGE
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: VT
+wootax/37504:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '05141'
+    location_type: postcode
+  name: ROCKINGHAM
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: VT
+wootax/37505:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '05142'
+    location_type: postcode
+  name: CAVENDISH
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: VT
+wootax/37506:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '05143'
+    location_type: postcode
+  name: CHESTER
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: VT
+wootax/37507:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '05144'
+    location_type: postcode
+  name: CHESTER
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: VT
+wootax/37508:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '05146'
+    location_type: postcode
+  name: GRAFTON
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: VT
+wootax/37509:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: 05148
+    location_type: postcode
+  name: LONDONDERRY
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: VT
+wootax/37510:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: 05149
+    location_type: postcode
+  name: LUDLOW
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: VT
+wootax/37511:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '05150'
+    location_type: postcode
+  name: SPRINGFIELD
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: VT
+wootax/37512:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '05151'
+    location_type: postcode
+  name: WEATHERSFIELD
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: VT
+wootax/37513:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '05152'
+    location_type: postcode
+  name: PERU
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: VT
+wootax/37514:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '05153'
+    location_type: postcode
+  name: CAVENDISH
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: VT
+wootax/37515:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '05154'
+    location_type: postcode
+  name: SAXTONS RIVER VILLAGE
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: VT
+wootax/37516:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '05155'
+    location_type: postcode
+  name: LONDONDERRY
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: VT
+wootax/37517:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '05156'
+    location_type: postcode
+  name: SPRINGFIELD
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: VT
+wootax/37518:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: 05158
+    location_type: postcode
+  name: WESTMINSTER
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: VT
+wootax/37519:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: 05159
+    location_type: postcode
+  name: WESTMINSTER
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: VT
+wootax/37520:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '05161'
+    location_type: postcode
+  name: WESTON
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: VT
+wootax/37521:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '05201'
+    location_type: postcode
+  name: BENNINGTON
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: VT
+wootax/37522:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '05250'
+    location_type: postcode
+  name: ARLINGTON
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: VT
+wootax/37523:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '05251'
+    location_type: postcode
+  name: DORSET
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: VT
+wootax/37524:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '05252'
+    location_type: postcode
+  name: SUNDERLAND
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: VT
+wootax/37525:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '05253'
+    location_type: postcode
+  name: DORSET
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: VT
+wootax/37526:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '05254'
+    location_type: postcode
+  name: MANCHESTER
+  order: '0'
+  priority: '0'
+  rate: '7'
+  shipping: '1'
+  state: VT
+wootax/37527:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '05255'
+    location_type: postcode
+  name: MANCHESTER
+  order: '0'
+  priority: '0'
+  rate: '7'
+  shipping: '1'
+  state: VT
+wootax/37528:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '05257'
+    location_type: postcode
+  name: SHAFTSBURY
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: VT
+wootax/37529:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '05260'
+    location_type: postcode
+  name: POWNAL
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: VT
+wootax/37530:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '05261'
+    location_type: postcode
+  name: POWNAL
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: VT
+wootax/37531:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '05262'
+    location_type: postcode
+  name: SHAFTSBURY
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: VT
+wootax/37532:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '05301'
+    location_type: postcode
+  name: BRATTLEBORO
+  order: '0'
+  priority: '0'
+  rate: '7'
+  shipping: '1'
+  state: VT
+wootax/37533:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '05340'
+    location_type: postcode
+  name: WINHALL
+  order: '0'
+  priority: '0'
+  rate: '7'
+  shipping: '1'
+  state: VT
+wootax/37534:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '05341'
+    location_type: postcode
+  name: DOVER
+  order: '0'
+  priority: '0'
+  rate: '7'
+  shipping: '1'
+  state: VT
+wootax/37535:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '05342'
+    location_type: postcode
+  name: WHITINGHAM
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: VT
+wootax/37536:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '05343'
+    location_type: postcode
+  name: JAMAICA
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: VT
+wootax/37537:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '05344'
+    location_type: postcode
+  name: MARLBORO
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: VT
+wootax/37538:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '05345'
+    location_type: postcode
+  name: NEWFANE
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: VT
+wootax/37539:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '05346'
+    location_type: postcode
+  name: WESTMINSTER
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: VT
+wootax/37540:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '05350'
+    location_type: postcode
+  name: READSBORO
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: VT
+wootax/37541:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '05351'
+    location_type: postcode
+  name: NEWFANE
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: VT
+wootax/37542:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '05352'
+    location_type: postcode
+  name: STAMFORD
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: VT
+wootax/37543:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '05353'
+    location_type: postcode
+  name: TOWNSHEND
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: VT
+wootax/37544:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '05354'
+    location_type: postcode
+  name: VERNON
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: VT
+wootax/37545:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '05355'
+    location_type: postcode
+  name: WARDSBORO
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: VT
+wootax/37546:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '05356'
+    location_type: postcode
+  name: DOVER
+  order: '0'
+  priority: '0'
+  rate: '7'
+  shipping: '1'
+  state: VT
+wootax/37547:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '05357'
+    location_type: postcode
+  name: DUMMERSTON
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: VT
+wootax/37548:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: 05358
+    location_type: postcode
+  name: HALIFAX
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: VT
+wootax/37549:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: 05359
+    location_type: postcode
+  name: WINDHAM
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: VT
+wootax/37550:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '05360'
+    location_type: postcode
+  name: STRATTON
+  order: '0'
+  priority: '0'
+  rate: '7'
+  shipping: '1'
+  state: VT
+wootax/37551:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '05361'
+    location_type: postcode
+  name: WHITINGHAM
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: VT
+wootax/37552:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '05362'
+    location_type: postcode
+  name: NEWFANE
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: VT
+wootax/37553:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '05363'
+    location_type: postcode
+  name: WILMINGTON
+  order: '0'
+  priority: '0'
+  rate: '7'
+  shipping: '1'
+  state: VT
+wootax/37554:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '05401'
+    location_type: postcode
+  name: BURLINGTON
+  order: '0'
+  priority: '0'
+  rate: '7'
+  shipping: '1'
+  state: VT
+wootax/37555:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '05402'
+    location_type: postcode
+  name: BURLINGTON
+  order: '0'
+  priority: '0'
+  rate: '7'
+  shipping: '1'
+  state: VT
+wootax/37556:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '05403'
+    location_type: postcode
+  name: SOUTH BURLINGTON
+  order: '0'
+  priority: '0'
+  rate: '7'
+  shipping: '1'
+  state: VT
+wootax/37557:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '05404'
+    location_type: postcode
+  name: WINOOSKI
+  order: '0'
+  priority: '0'
+  rate: '7'
+  shipping: '1'
+  state: VT
+wootax/37558:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '05405'
+    location_type: postcode
+  name: BURLINGTON
+  order: '0'
+  priority: '0'
+  rate: '7'
+  shipping: '1'
+  state: VT
+wootax/37559:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '05406'
+    location_type: postcode
+  name: SOUTH BURLINGTON
+  order: '0'
+  priority: '0'
+  rate: '7'
+  shipping: '1'
+  state: VT
+wootax/37560:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '05407'
+    location_type: postcode
+  name: SOUTH BURLINGTON
+  order: '0'
+  priority: '0'
+  rate: '7'
+  shipping: '1'
+  state: VT
+wootax/37561:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: 05408
+    location_type: postcode
+  name: BURLINGTON
+  order: '0'
+  priority: '0'
+  rate: '7'
+  shipping: '1'
+  state: VT
+wootax/37562:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: 05439
+    location_type: postcode
+  name: COLCHESTER
+  order: '0'
+  priority: '0'
+  rate: '7'
+  shipping: '1'
+  state: VT
+wootax/37563:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '05440'
+    location_type: postcode
+  name: ALBURGH
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: VT
+wootax/37564:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '05441'
+    location_type: postcode
+  name: BAKERSFIELD
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: VT
+wootax/37565:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '05442'
+    location_type: postcode
+  name: BELVIDERE
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: VT
+wootax/37566:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '05443'
+    location_type: postcode
+  name: BRISTOL
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: VT
+wootax/37567:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '05444'
+    location_type: postcode
+  name: CAMBRIDGE
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: VT
+wootax/37568:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '05445'
+    location_type: postcode
+  name: CHARLOTTE
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: VT
+wootax/37569:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '05446'
+    location_type: postcode
+  name: COLCHESTER
+  order: '0'
+  priority: '0'
+  rate: '7'
+  shipping: '1'
+  state: VT
+wootax/37570:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '05447'
+    location_type: postcode
+  name: BERKSHIRE
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: VT
+wootax/37571:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: 05448
+    location_type: postcode
+  name: FLETCHER
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: VT
+wootax/37572:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: 05449
+    location_type: postcode
+  name: COLCHESTER
+  order: '0'
+  priority: '0'
+  rate: '7'
+  shipping: '1'
+  state: VT
+wootax/37573:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '05450'
+    location_type: postcode
+  name: ENOSBURG
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: VT
+wootax/37574:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '05451'
+    location_type: postcode
+  name: ESSEX
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: VT
+wootax/37575:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '05452'
+    location_type: postcode
+  name: ESSEX JUNCTION VILLAGE
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: VT
+wootax/37576:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '05453'
+    location_type: postcode
+  name: ESSEX JUNCTION VILLAGE
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: VT
+wootax/37577:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '05454'
+    location_type: postcode
+  name: FAIRFAX
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: VT
+wootax/37578:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '05455'
+    location_type: postcode
+  name: FAIRFIELD
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: VT
+wootax/37579:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '05456'
+    location_type: postcode
+  name: FERRISBURGH
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: VT
+wootax/37580:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '05457'
+    location_type: postcode
+  name: FRANKLIN
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: VT
+wootax/37581:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: 05458
+    location_type: postcode
+  name: GRAND ISLE
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: VT
+wootax/37582:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: 05459
+    location_type: postcode
+  name: HIGHGATE
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: VT
+wootax/37583:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '05460'
+    location_type: postcode
+  name: HIGHGATE
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: VT
+wootax/37584:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '05461'
+    location_type: postcode
+  name: HINESBURG
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: VT
+wootax/37585:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '05462'
+    location_type: postcode
+  name: HUNTINGTON
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: VT
+wootax/37586:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '05463'
+    location_type: postcode
+  name: ISLE LA MOTTE
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: VT
+wootax/37587:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '05464'
+    location_type: postcode
+  name: CAMBRIDGE
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: VT
+wootax/37588:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '05465'
+    location_type: postcode
+  name: JERICHO
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: VT
+wootax/37589:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '05466'
+    location_type: postcode
+  name: RICHMOND
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: VT
+wootax/37590:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: 05468
+    location_type: postcode
+  name: MILTON
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: VT
+wootax/37591:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: 05469
+    location_type: postcode
+  name: MONKTON
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: VT
+wootax/37592:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '05470'
+    location_type: postcode
+  name: MONTGOMERY
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: VT
+wootax/37593:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '05471'
+    location_type: postcode
+  name: MONTGOMERY
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: VT
+wootax/37594:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '05472'
+    location_type: postcode
+  name: NEW HAVEN
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: VT
+wootax/37595:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '05473'
+    location_type: postcode
+  name: FERRISBURGH
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: VT
+wootax/37596:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '05474'
+    location_type: postcode
+  name: NORTH HERO
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: VT
+wootax/37597:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '05476'
+    location_type: postcode
+  name: RICHFORD
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: VT
+wootax/37598:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '05477'
+    location_type: postcode
+  name: RICHMOND
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: VT
+wootax/37599:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: 05478
+    location_type: postcode
+  name: FRANKLIN
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: VT
+wootax/37600:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: 05479
+    location_type: postcode
+  name: FRANKLIN
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: VT
+wootax/37601:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: 05481
+    location_type: postcode
+  name: ST ALBANS TOWN
+  order: '0'
+  priority: '0'
+  rate: '7'
+  shipping: '1'
+  state: VT
+wootax/37602:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: 05482
+    location_type: postcode
+  name: SHELBURNE
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: VT
+wootax/37603:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: 05483
+    location_type: postcode
+  name: SHELDON
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: VT
+wootax/37604:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: 05485
+    location_type: postcode
+  name: SHELDON
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: VT
+wootax/37605:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: 05486
+    location_type: postcode
+  name: SOUTH HERO
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: VT
+wootax/37606:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: 05487
+    location_type: postcode
+  name: STARKSBORO
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: VT
+wootax/37607:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: 05488
+    location_type: postcode
+  name: SWANTON
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: VT
+wootax/37608:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: 05489
+    location_type: postcode
+  name: UNDERHILL
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: VT
+wootax/37609:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: 05490
+    location_type: postcode
+  name: UNDERHILL
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: VT
+wootax/37610:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: 05491
+    location_type: postcode
+  name: ADDISON
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: VT
+wootax/37611:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: 05492
+    location_type: postcode
+  name: WATERVILLE
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: VT
+wootax/37612:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: 05494
+    location_type: postcode
+  name: WESTFORD
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: VT
+wootax/37613:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: 05495
+    location_type: postcode
+  name: WILLISTON
+  order: '0'
+  priority: '0'
+  rate: '7'
+  shipping: '1'
+  state: VT
+wootax/37614:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '05601'
+    location_type: postcode
+  name: MONTPELIER
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: VT
+wootax/37615:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '05602'
+    location_type: postcode
+  name: MONTPELIER
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: VT
+wootax/37616:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '05603'
+    location_type: postcode
+  name: MONTPELIER
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: VT
+wootax/37617:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '05604'
+    location_type: postcode
+  name: MONTPELIER
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: VT
+wootax/37618:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: 05609
+    location_type: postcode
+  name: MONTPELIER
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: VT
+wootax/37619:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '05620'
+    location_type: postcode
+  name: MONTPELIER
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: VT
+wootax/37620:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '05633'
+    location_type: postcode
+  name: MONTPELIER
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: VT
+wootax/37621:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '05640'
+    location_type: postcode
+  name: CALAIS
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: VT
+wootax/37622:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '05641'
+    location_type: postcode
+  name: BARRE CITY
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: VT
+wootax/37623:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '05647'
+    location_type: postcode
+  name: CABOT
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: VT
+wootax/37624:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: 05648
+    location_type: postcode
+  name: CALAIS
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: VT
+wootax/37625:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: 05649
+    location_type: postcode
+  name: BARRE TOWN
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: VT
+wootax/37626:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '05650'
+    location_type: postcode
+  name: CALAIS
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: VT
+wootax/37627:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '05651'
+    location_type: postcode
+  name: EAST MONTPELIER
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: VT
+wootax/37628:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '05652'
+    location_type: postcode
+  name: EDEN
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: VT
+wootax/37629:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '05653'
+    location_type: postcode
+  name: EDEN
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: VT
+wootax/37630:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '05654'
+    location_type: postcode
+  name: BARRE TOWN
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: VT
+wootax/37631:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '05655'
+    location_type: postcode
+  name: HYDE PARK
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: VT
+wootax/37632:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '05656'
+    location_type: postcode
+  name: JOHNSON
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: VT
+wootax/37633:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '05657'
+    location_type: postcode
+  name: MORRISVILLE VILLAGE
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: VT
+wootax/37634:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: 05658
+    location_type: postcode
+  name: MARSHFIELD
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: VT
+wootax/37635:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '05660'
+    location_type: postcode
+  name: MORETOWN
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: VT
+wootax/37636:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '05661'
+    location_type: postcode
+  name: MORRISTOWN
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: VT
+wootax/37637:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '05662'
+    location_type: postcode
+  name: STOWE
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: VT
+wootax/37638:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '05663'
+    location_type: postcode
+  name: NORTHFIELD
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: VT
+wootax/37639:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '05664'
+    location_type: postcode
+  name: NORTHFIELD
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: VT
+wootax/37640:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '05665'
+    location_type: postcode
+  name: HYDE PARK
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: VT
+wootax/37641:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '05666'
+    location_type: postcode
+  name: CALAIS
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: VT
+wootax/37642:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '05667'
+    location_type: postcode
+  name: PLAINFIELD
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: VT
+wootax/37643:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: 05669
+    location_type: postcode
+  name: ROXBURY
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: VT
+wootax/37644:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '05670'
+    location_type: postcode
+  name: BARRE TOWN
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: VT
+wootax/37645:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '05671'
+    location_type: postcode
+  name: WATERBURY VILLAGE
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: VT
+wootax/37646:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '05672'
+    location_type: postcode
+  name: STOWE
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: VT
+wootax/37647:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '05673'
+    location_type: postcode
+  name: WAITSFIELD
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: VT
+wootax/37648:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '05674'
+    location_type: postcode
+  name: WARREN
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: VT
+wootax/37649:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '05675'
+    location_type: postcode
+  name: WASHINGTON
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: VT
+wootax/37650:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '05676'
+    location_type: postcode
+  name: WATERBURY VILLAGE
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: VT
+wootax/37651:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '05677'
+    location_type: postcode
+  name: WATERBURY
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: VT
+wootax/37652:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: 05678
+    location_type: postcode
+  name: BARRE TOWN
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: VT
+wootax/37653:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: 05679
+    location_type: postcode
+  name: WILLIAMSTOWN
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: VT
+wootax/37654:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: 05680
+    location_type: postcode
+  name: WOLCOTT
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: VT
+wootax/37655:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: 05681
+    location_type: postcode
+  name: WOODBURY
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: VT
+wootax/37656:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: 05682
+    location_type: postcode
+  name: WORCESTER
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: VT
+wootax/37657:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '05701'
+    location_type: postcode
+  name: RUTLAND
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: VT
+wootax/37658:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '05702'
+    location_type: postcode
+  name: RUTLAND
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: VT
+wootax/37659:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '05730'
+    location_type: postcode
+  name: MOUNT HOLLY
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: VT
+wootax/37660:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '05731'
+    location_type: postcode
+  name: BENSON
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: VT
+wootax/37661:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '05732'
+    location_type: postcode
+  name: CASTLETON
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: VT
+wootax/37662:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '05733'
+    location_type: postcode
+  name: BRANDON
+  order: '0'
+  priority: '0'
+  rate: '7'
+  shipping: '1'
+  state: VT
+wootax/37663:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '05734'
+    location_type: postcode
+  name: BRIDPORT
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: VT
+wootax/37664:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '05735'
+    location_type: postcode
+  name: CASTLETON
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: VT
+wootax/37665:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '05736'
+    location_type: postcode
+  name: RUTLAND
+  order: '0'
+  priority: '0'
+  rate: '7'
+  shipping: '1'
+  state: VT
+wootax/37666:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '05737'
+    location_type: postcode
+  name: CHITTENDEN
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: VT
+wootax/37667:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: 05738
+    location_type: postcode
+  name: SHREWSBURY
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: VT
+wootax/37668:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: 05739
+    location_type: postcode
+  name: DANBY
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: VT
+wootax/37669:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '05740'
+    location_type: postcode
+  name: MIDDLEBURY
+  order: '0'
+  priority: '0'
+  rate: '7'
+  shipping: '1'
+  state: VT
+wootax/37670:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '05741'
+    location_type: postcode
+  name: POULTNEY
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: VT
+wootax/37671:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '05742'
+    location_type: postcode
+  name: WALLINGFORD
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: VT
+wootax/37672:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '05743'
+    location_type: postcode
+  name: FAIR HAVEN
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: VT
+wootax/37673:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '05744'
+    location_type: postcode
+  name: PITTSFORD
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: VT
+wootax/37674:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '05745'
+    location_type: postcode
+  name: WEST HAVEN
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: VT
+wootax/37675:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '05746'
+    location_type: postcode
+  name: STOCKBRIDGE
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: VT
+wootax/37676:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '05747'
+    location_type: postcode
+  name: GRANVILLE
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: VT
+wootax/37677:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: 05748
+    location_type: postcode
+  name: HANCOCK
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: VT
+wootax/37678:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '05750'
+    location_type: postcode
+  name: CASTLETON
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: VT
+wootax/37679:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '05751'
+    location_type: postcode
+  name: RUTLAND
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: VT
+wootax/37680:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '05753'
+    location_type: postcode
+  name: MIDDLEBURY
+  order: '0'
+  priority: '0'
+  rate: '7'
+  shipping: '1'
+  state: VT
+wootax/37681:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '05757'
+    location_type: postcode
+  name: MIDDLETOWN SPRINGS
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: VT
+wootax/37682:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: 05758
+    location_type: postcode
+  name: MOUNT HOLLY
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: VT
+wootax/37683:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: 05759
+    location_type: postcode
+  name: CLARENDON
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: VT
+wootax/37684:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '05760'
+    location_type: postcode
+  name: ORWELL
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: VT
+wootax/37685:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '05761'
+    location_type: postcode
+  name: PAWLET
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: VT
+wootax/37686:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '05762'
+    location_type: postcode
+  name: PITTSFIELD
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: VT
+wootax/37687:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '05763'
+    location_type: postcode
+  name: PITTSFORD
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: VT
+wootax/37688:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '05764'
+    location_type: postcode
+  name: POULTNEY
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: VT
+wootax/37689:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '05765'
+    location_type: postcode
+  name: PROCTOR
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: VT
+wootax/37690:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '05766'
+    location_type: postcode
+  name: RIPTON
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: VT
+wootax/37691:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '05767'
+    location_type: postcode
+  name: ROCHESTER
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: VT
+wootax/37692:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: 05768
+    location_type: postcode
+  name: RUPERT
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: VT
+wootax/37693:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: 05769
+    location_type: postcode
+  name: SALISBURY
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: VT
+wootax/37694:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '05770'
+    location_type: postcode
+  name: SHOREHAM
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: VT
+wootax/37695:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '05772'
+    location_type: postcode
+  name: STOCKBRIDGE
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: VT
+wootax/37696:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '05773'
+    location_type: postcode
+  name: WALLINGFORD
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: VT
+wootax/37697:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '05774'
+    location_type: postcode
+  name: WELLS
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: VT
+wootax/37698:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '05775'
+    location_type: postcode
+  name: PAWLET
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: VT
+wootax/37699:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '05776'
+    location_type: postcode
+  name: RUPERT
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: VT
+wootax/37700:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '05777'
+    location_type: postcode
+  name: WEST RUTLAND
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: VT
+wootax/37701:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: 05778
+    location_type: postcode
+  name: WHITING
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: VT
+wootax/37702:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: 05819
+    location_type: postcode
+  name: SAINT JOHNSBURY
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: VT
+wootax/37703:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: 05820
+    location_type: postcode
+  name: ALBANY
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: VT
+wootax/37704:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: 05821
+    location_type: postcode
+  name: BARNET
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: VT
+wootax/37705:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: 05822
+    location_type: postcode
+  name: BARTON
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: VT
+wootax/37706:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: 05823
+    location_type: postcode
+  name: DERBY
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: VT
+wootax/37707:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: 05824
+    location_type: postcode
+  name: CONCORD
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: VT
+wootax/37708:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: 05825
+    location_type: postcode
+  name: COVENTRY
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: VT
+wootax/37709:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: 05826
+    location_type: postcode
+  name: CRAFTSBURY
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: VT
+wootax/37710:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: 05827
+    location_type: postcode
+  name: CRAFTSBURY
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: VT
+wootax/37711:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: 05828
+    location_type: postcode
+  name: DANVILLE
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: VT
+wootax/37712:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: 05829
+    location_type: postcode
+  name: DERBY
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: VT
+wootax/37713:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: 05830
+    location_type: postcode
+  name: HOLLAND
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: VT
+wootax/37714:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: 05832
+    location_type: postcode
+  name: BURKE
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: VT
+wootax/37715:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: 05833
+    location_type: postcode
+  name: CHARLESTON
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: VT
+wootax/37716:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: 05836
+    location_type: postcode
+  name: HARDWICK
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: VT
+wootax/37717:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: 05837
+    location_type: postcode
+  name: EAST HAVEN
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: VT
+wootax/37718:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: 05838
+    location_type: postcode
+  name: SAINT JOHNSBURY
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: VT
+wootax/37719:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: 05839
+    location_type: postcode
+  name: GLOVER
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: VT
+wootax/37720:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: 05840
+    location_type: postcode
+  name: GRANBY
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: VT
+wootax/37721:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: 05841
+    location_type: postcode
+  name: GREENSBORO
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: VT
+wootax/37722:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: 05842
+    location_type: postcode
+  name: GREENSBORO
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: VT
+wootax/37723:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: 05843
+    location_type: postcode
+  name: HARDWICK
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: VT
+wootax/37724:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: 05845
+    location_type: postcode
+  name: IRASBURG
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: VT
+wootax/37725:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: 05846
+    location_type: postcode
+  name: BRIGHTON
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: VT
+wootax/37726:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: 05847
+    location_type: postcode
+  name: LOWELL
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: VT
+wootax/37727:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: 05848
+    location_type: postcode
+  name: WATERFORD
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: VT
+wootax/37728:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: 05849
+    location_type: postcode
+  name: LYNDON
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: VT
+wootax/37729:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: 05850
+    location_type: postcode
+  name: LYNDON
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: VT
+wootax/37730:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: 05851
+    location_type: postcode
+  name: LYNDON
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: VT
+wootax/37731:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: 05853
+    location_type: postcode
+  name: MORGAN
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: VT
+wootax/37732:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: 05855
+    location_type: postcode
+  name: NEWPORT CITY
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: VT
+wootax/37733:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: 05857
+    location_type: postcode
+  name: NEWPORT TOWN
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: VT
+wootax/37734:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: 05858
+    location_type: postcode
+  name: CONCORD
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: VT
+wootax/37735:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: 05859
+    location_type: postcode
+  name: JAY
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: VT
+wootax/37736:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: 05860
+    location_type: postcode
+  name: BROWNINGTON
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: VT
+wootax/37737:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: 05861
+    location_type: postcode
+  name: BARNET
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: VT
+wootax/37738:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: 05862
+    location_type: postcode
+  name: PEACHAM
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: VT
+wootax/37739:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: 05863
+    location_type: postcode
+  name: SAINT JOHNSBURY
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: VT
+wootax/37740:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: 05866
+    location_type: postcode
+  name: SHEFFIELD
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: VT
+wootax/37741:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: 05867
+    location_type: postcode
+  name: SUTTON
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: VT
+wootax/37742:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: 05868
+    location_type: postcode
+  name: TROY
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: VT
+wootax/37743:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: 05871
+    location_type: postcode
+  name: NEWARK
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: VT
+wootax/37744:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: 05872
+    location_type: postcode
+  name: CHARLESTON
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: VT
+wootax/37745:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: 05873
+    location_type: postcode
+  name: WALDEN
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: VT
+wootax/37746:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: 05874
+    location_type: postcode
+  name: WESTFIELD
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: VT
+wootax/37747:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: 05875
+    location_type: postcode
+  name: GLOVER
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: VT
+wootax/37748:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: 05901
+    location_type: postcode
+  name: AVERILL
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: VT
+wootax/37749:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: 05902
+    location_type: postcode
+  name: CANAAN
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: VT
+wootax/37750:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: 05903
+    location_type: postcode
+  name: CANAAN
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: VT
+wootax/37751:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: 05904
+    location_type: postcode
+  name: LUNENBURG
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: VT
+wootax/37752:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: 05905
+    location_type: postcode
+  name: GUILDHALL
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: VT
+wootax/37753:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: 05906
+    location_type: postcode
+  name: LUNENBURG
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: VT
+wootax/37754:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: 05907
+    location_type: postcode
+  name: NORTON
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: VT

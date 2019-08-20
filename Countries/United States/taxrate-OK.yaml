@@ -1,0 +1,9685 @@
+wootax/28288:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '73001'
+    location_type: postcode
+  name: CADDO COUNTY
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '0'
+  state: OK
+wootax/28289:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '73002'
+    location_type: postcode
+  name: GRADY COUNTY
+  order: '0'
+  priority: '0'
+  rate: '5.25'
+  shipping: '0'
+  state: OK
+wootax/28290:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '73003'
+    location_type: postcode
+  name: EDMOND
+  order: '0'
+  priority: '0'
+  rate: '8.25'
+  shipping: '0'
+  state: OK
+wootax/28291:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '73004'
+    location_type: postcode
+  name: AMBER TOWN
+  order: '0'
+  priority: '0'
+  rate: '9.25'
+  shipping: '0'
+  state: OK
+wootax/28292:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '73005'
+    location_type: postcode
+  name: ANADARKO
+  order: '0'
+  priority: '0'
+  rate: '9.5'
+  shipping: '0'
+  state: OK
+wootax/28293:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '73006'
+    location_type: postcode
+  name: COMANCHE COUNTY
+  order: '0'
+  priority: '0'
+  rate: '4.875'
+  shipping: '0'
+  state: OK
+wootax/28294:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '73007'
+    location_type: postcode
+  name: EDMOND
+  order: '0'
+  priority: '0'
+  rate: '8.25'
+  shipping: '0'
+  state: OK
+wootax/28295:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '73008'
+    location_type: postcode
+  name: BETHANY
+  order: '0'
+  priority: '0'
+  rate: '8.5'
+  shipping: '0'
+  state: OK
+wootax/28296:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '73009'
+    location_type: postcode
+  name: BINGER TOWN
+  order: '0'
+  priority: '0'
+  rate: '10'
+  shipping: '0'
+  state: OK
+wootax/28297:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '73010'
+    location_type: postcode
+  name: BLANCHARD (MCCLAIN CO)
+  order: '0'
+  priority: '0'
+  rate: '9'
+  shipping: '0'
+  state: OK
+wootax/28298:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '73011'
+    location_type: postcode
+  name: GRADY COUNTY
+  order: '0'
+  priority: '0'
+  rate: '5.25'
+  shipping: '0'
+  state: OK
+wootax/28299:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '73012'
+    location_type: postcode
+  name: OKLAHOMA CITY (OKLAHOMA CO)
+  order: '0'
+  priority: '0'
+  rate: '8.625'
+  shipping: '0'
+  state: OK
+wootax/28300:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '73013'
+    location_type: postcode
+  name: OKLAHOMA CITY (OKLAHOMA CO)
+  order: '0'
+  priority: '0'
+  rate: '8.625'
+  shipping: '0'
+  state: OK
+wootax/28301:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '73014'
+    location_type: postcode
+  name: CANADIAN COUNTY
+  order: '0'
+  priority: '0'
+  rate: '4.85'
+  shipping: '0'
+  state: OK
+wootax/28302:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '73015'
+    location_type: postcode
+  name: CARNEGIE TOWN
+  order: '0'
+  priority: '0'
+  rate: '10'
+  shipping: '0'
+  state: OK
+wootax/28303:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '73016'
+    location_type: postcode
+  name: LOGAN COUNTY
+  order: '0'
+  priority: '0'
+  rate: '5.25'
+  shipping: '0'
+  state: OK
+wootax/28304:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '73017'
+    location_type: postcode
+  name: GRADY COUNTY
+  order: '0'
+  priority: '0'
+  rate: '5.25'
+  shipping: '0'
+  state: OK
+wootax/28305:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '73018'
+    location_type: postcode
+  name: CHICKASHA
+  order: '0'
+  priority: '0'
+  rate: '9'
+  shipping: '0'
+  state: OK
+wootax/28306:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '73019'
+    location_type: postcode
+  name: NORMAN
+  order: '0'
+  priority: '0'
+  rate: '8.75'
+  shipping: '0'
+  state: OK
+wootax/28307:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '73020'
+    location_type: postcode
+  name: CHOCTAW
+  order: '0'
+  priority: '0'
+  rate: '8.75'
+  shipping: '0'
+  state: OK
+wootax/28308:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '73021'
+    location_type: postcode
+  name: WASHITA COUNTY
+  order: '0'
+  priority: '0'
+  rate: '6.5'
+  shipping: '0'
+  state: OK
+wootax/28309:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '73022'
+    location_type: postcode
+  name: EL RENO
+  order: '0'
+  priority: '0'
+  rate: '8.85'
+  shipping: '0'
+  state: OK
+wootax/28310:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '73023'
+    location_type: postcode
+  name: CHICKASHA
+  order: '0'
+  priority: '0'
+  rate: '9'
+  shipping: '0'
+  state: OK
+wootax/28311:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '73024'
+    location_type: postcode
+  name: CORN TOWN
+  order: '0'
+  priority: '0'
+  rate: '8.5'
+  shipping: '0'
+  state: OK
+wootax/28312:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '73025'
+    location_type: postcode
+  name: LOGAN COUNTY
+  order: '0'
+  priority: '0'
+  rate: '5.25'
+  shipping: '0'
+  state: OK
+wootax/28313:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '73026'
+    location_type: postcode
+  name: NORMAN
+  order: '0'
+  priority: '0'
+  rate: '8.75'
+  shipping: '0'
+  state: OK
+wootax/28314:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '73027'
+    location_type: postcode
+  name: PAYNE COUNTY
+  order: '0'
+  priority: '0'
+  rate: '5.313'
+  shipping: '0'
+  state: OK
+wootax/28315:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '73028'
+    location_type: postcode
+  name: LOGAN COUNTY
+  order: '0'
+  priority: '0'
+  rate: '5.25'
+  shipping: '0'
+  state: OK
+wootax/28316:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '73029'
+    location_type: postcode
+  name: CYRIL TOWN
+  order: '0'
+  priority: '0'
+  rate: '10'
+  shipping: '0'
+  state: OK
+wootax/28317:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '73030'
+    location_type: postcode
+  name: DAVIS (MURRAY CO)
+  order: '0'
+  priority: '0'
+  rate: '9.5'
+  shipping: '0'
+  state: OK
+wootax/28318:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '73031'
+    location_type: postcode
+  name: DIBBLE TOWN
+  order: '0'
+  priority: '0'
+  rate: '10'
+  shipping: '0'
+  state: OK
+wootax/28319:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '73032'
+    location_type: postcode
+  name: DOUGHERTY TOWN
+  order: '0'
+  priority: '0'
+  rate: '8.5'
+  shipping: '0'
+  state: OK
+wootax/28320:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '73033'
+    location_type: postcode
+  name: EAKLY TOWN
+  order: '0'
+  priority: '0'
+  rate: '9'
+  shipping: '0'
+  state: OK
+wootax/28321:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '73034'
+    location_type: postcode
+  name: EDMOND
+  order: '0'
+  priority: '0'
+  rate: '8.25'
+  shipping: '0'
+  state: OK
+wootax/28322:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '73036'
+    location_type: postcode
+  name: EL RENO
+  order: '0'
+  priority: '0'
+  rate: '8.85'
+  shipping: '0'
+  state: OK
+wootax/28323:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '73038'
+    location_type: postcode
+  name: CADDO COUNTY
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '0'
+  state: OK
+wootax/28324:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '73039'
+    location_type: postcode
+  name: DAVIS (MURRAY CO)
+  order: '0'
+  priority: '0'
+  rate: '9.5'
+  shipping: '0'
+  state: OK
+wootax/28325:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '73040'
+    location_type: postcode
+  name: GEARY (BLAINE CO)
+  order: '0'
+  priority: '0'
+  rate: '8.875'
+  shipping: '0'
+  state: OK
+wootax/28326:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '73041'
+    location_type: postcode
+  name: GOTEBO TOWN
+  order: '0'
+  priority: '0'
+  rate: '9'
+  shipping: '0'
+  state: OK
+wootax/28327:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '73042'
+    location_type: postcode
+  name: GRACEMONT TOWN
+  order: '0'
+  priority: '0'
+  rate: '10'
+  shipping: '0'
+  state: OK
+wootax/28328:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '73043'
+    location_type: postcode
+  name: GREENFIELD TOWN
+  order: '0'
+  priority: '0'
+  rate: '8.375'
+  shipping: '0'
+  state: OK
+wootax/28329:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '73044'
+    location_type: postcode
+  name: LOGAN COUNTY
+  order: '0'
+  priority: '0'
+  rate: '5.25'
+  shipping: '0'
+  state: OK
+wootax/28330:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '73045'
+    location_type: postcode
+  name: HARRAH
+  order: '0'
+  priority: '0'
+  rate: '8.5'
+  shipping: '0'
+  state: OK
+wootax/28331:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '73047'
+    location_type: postcode
+  name: HINTON TOWN
+  order: '0'
+  priority: '0'
+  rate: '9'
+  shipping: '0'
+  state: OK
+wootax/28332:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '73048'
+    location_type: postcode
+  name: HYDRO (CADDO CO)
+  order: '0'
+  priority: '0'
+  rate: '10'
+  shipping: '0'
+  state: OK
+wootax/28333:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '73049'
+    location_type: postcode
+  name: OKLAHOMA CITY (OKLAHOMA CO)
+  order: '0'
+  priority: '0'
+  rate: '8.625'
+  shipping: '0'
+  state: OK
+wootax/28334:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '73050'
+    location_type: postcode
+  name: LANGSTON TOWN
+  order: '0'
+  priority: '0'
+  rate: '9.25'
+  shipping: '0'
+  state: OK
+wootax/28335:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '73051'
+    location_type: postcode
+  name: CLEVELAND COUNTY
+  order: '0'
+  priority: '0'
+  rate: '4.75'
+  shipping: '0'
+  state: OK
+wootax/28336:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '73052'
+    location_type: postcode
+  name: MCCLAIN COUNTY
+  order: '0'
+  priority: '0'
+  rate: '5'
+  shipping: '0'
+  state: OK
+wootax/28337:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '73053'
+    location_type: postcode
+  name: CADDO COUNTY
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '0'
+  state: OK
+wootax/28338:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '73054'
+    location_type: postcode
+  name: OKLAHOMA
+  order: '0'
+  priority: '0'
+  rate: '4.5'
+  shipping: '0'
+  state: OK
+wootax/28339:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '73055'
+    location_type: postcode
+  name: MARLOW
+  order: '0'
+  priority: '0'
+  rate: '8.7'
+  shipping: '0'
+  state: OK
+wootax/28340:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '73056'
+    location_type: postcode
+  name: GARFIELD COUNTY
+  order: '0'
+  priority: '0'
+  rate: '4.85'
+  shipping: '0'
+  state: OK
+wootax/28341:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '73057'
+    location_type: postcode
+  name: GARVIN COUNTY
+  order: '0'
+  priority: '0'
+  rate: '5.25'
+  shipping: '0'
+  state: OK
+wootax/28342:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '73058'
+    location_type: postcode
+  name: LOGAN COUNTY
+  order: '0'
+  priority: '0'
+  rate: '5.25'
+  shipping: '0'
+  state: OK
+wootax/28343:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '73059'
+    location_type: postcode
+  name: MINCO
+  order: '0'
+  priority: '0'
+  rate: '9.25'
+  shipping: '0'
+  state: OK
+wootax/28344:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '73061'
+    location_type: postcode
+  name: NOBLE COUNTY
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '0'
+  state: OK
+wootax/28345:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '73062'
+    location_type: postcode
+  name: MOUNTAIN VIEW TOWN
+  order: '0'
+  priority: '0'
+  rate: '9'
+  shipping: '0'
+  state: OK
+wootax/28346:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '73063'
+    location_type: postcode
+  name: LOGAN COUNTY
+  order: '0'
+  priority: '0'
+  rate: '5.25'
+  shipping: '0'
+  state: OK
+wootax/28347:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '73064'
+    location_type: postcode
+  name: MUSTANG
+  order: '0'
+  priority: '0'
+  rate: '8.85'
+  shipping: '0'
+  state: OK
+wootax/28348:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '73065'
+    location_type: postcode
+  name: NEWCASTLE
+  order: '0'
+  priority: '0'
+  rate: '9'
+  shipping: '0'
+  state: OK
+wootax/28349:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '73066'
+    location_type: postcode
+  name: NICOMA PARK
+  order: '0'
+  priority: '0'
+  rate: '9.5'
+  shipping: '0'
+  state: OK
+wootax/28350:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '73067'
+    location_type: postcode
+  name: NINNEKAH TOWN
+  order: '0'
+  priority: '0'
+  rate: '8.25'
+  shipping: '0'
+  state: OK
+wootax/28351:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '73068'
+    location_type: postcode
+  name: NOBLE
+  order: '0'
+  priority: '0'
+  rate: '8.75'
+  shipping: '0'
+  state: OK
+wootax/28352:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '73069'
+    location_type: postcode
+  name: NORMAN
+  order: '0'
+  priority: '0'
+  rate: '8.75'
+  shipping: '0'
+  state: OK
+wootax/28353:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '73070'
+    location_type: postcode
+  name: NORMAN
+  order: '0'
+  priority: '0'
+  rate: '8.75'
+  shipping: '0'
+  state: OK
+wootax/28354:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '73071'
+    location_type: postcode
+  name: NORMAN
+  order: '0'
+  priority: '0'
+  rate: '8.75'
+  shipping: '0'
+  state: OK
+wootax/28355:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '73072'
+    location_type: postcode
+  name: NORMAN
+  order: '0'
+  priority: '0'
+  rate: '8.75'
+  shipping: '0'
+  state: OK
+wootax/28356:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '73073'
+    location_type: postcode
+  name: LOGAN COUNTY
+  order: '0'
+  priority: '0'
+  rate: '5.25'
+  shipping: '0'
+  state: OK
+wootax/28357:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '73074'
+    location_type: postcode
+  name: PAOLI TOWN
+  order: '0'
+  priority: '0'
+  rate: '8.25'
+  shipping: '0'
+  state: OK
+wootax/28358:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '73075'
+    location_type: postcode
+  name: PAULS VALLEY
+  order: '0'
+  priority: '0'
+  rate: '9.75'
+  shipping: '0'
+  state: OK
+wootax/28359:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '73077'
+    location_type: postcode
+  name: PERRY
+  order: '0'
+  priority: '0'
+  rate: '10.25'
+  shipping: '0'
+  state: OK
+wootax/28360:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '73078'
+    location_type: postcode
+  name: PIEDMONT (CANADIAN CO)
+  order: '0'
+  priority: '0'
+  rate: '9.85'
+  shipping: '0'
+  state: OK
+wootax/28361:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '73079'
+    location_type: postcode
+  name: POCASSET TOWN
+  order: '0'
+  priority: '0'
+  rate: '6.75'
+  shipping: '0'
+  state: OK
+wootax/28362:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '73080'
+    location_type: postcode
+  name: PURCELL (MCCLAIN CO)
+  order: '0'
+  priority: '0'
+  rate: '10'
+  shipping: '0'
+  state: OK
+wootax/28363:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '73082'
+    location_type: postcode
+  name: GRADY COUNTY
+  order: '0'
+  priority: '0'
+  rate: '5.25'
+  shipping: '0'
+  state: OK
+wootax/28364:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '73083'
+    location_type: postcode
+  name: EDMOND
+  order: '0'
+  priority: '0'
+  rate: '8.25'
+  shipping: '0'
+  state: OK
+wootax/28365:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '73084'
+    location_type: postcode
+  name: OKLAHOMA CITY (OKLAHOMA CO)
+  order: '0'
+  priority: '0'
+  rate: '8.625'
+  shipping: '0'
+  state: OK
+wootax/28366:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '73085'
+    location_type: postcode
+  name: YUKON
+  order: '0'
+  priority: '0'
+  rate: '8.85'
+  shipping: '0'
+  state: OK
+wootax/28367:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '73086'
+    location_type: postcode
+  name: MURRAY COUNTY
+  order: '0'
+  priority: '0'
+  rate: '6.5'
+  shipping: '0'
+  state: OK
+wootax/28368:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '73089'
+    location_type: postcode
+  name: TUTTLE
+  order: '0'
+  priority: '0'
+  rate: '9.25'
+  shipping: '0'
+  state: OK
+wootax/28369:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '73090'
+    location_type: postcode
+  name: UNION TOWN
+  order: '0'
+  priority: '0'
+  rate: '8.85'
+  shipping: '0'
+  state: OK
+wootax/28370:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '73092'
+    location_type: postcode
+  name: GRADY COUNTY
+  order: '0'
+  priority: '0'
+  rate: '5.25'
+  shipping: '0'
+  state: OK
+wootax/28371:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '73093'
+    location_type: postcode
+  name: GOLDSBY TOWN
+  order: '0'
+  priority: '0'
+  rate: '8.5'
+  shipping: '0'
+  state: OK
+wootax/28372:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '73095'
+    location_type: postcode
+  name: MCCLAIN COUNTY
+  order: '0'
+  priority: '0'
+  rate: '5'
+  shipping: '0'
+  state: OK
+wootax/28373:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '73096'
+    location_type: postcode
+  name: WEATHERFORD
+  order: '0'
+  priority: '0'
+  rate: '9.5'
+  shipping: '0'
+  state: OK
+wootax/28374:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '73097'
+    location_type: postcode
+  name: OKLAHOMA CITY (OKLAHOMA CO)
+  order: '0'
+  priority: '0'
+  rate: '8.625'
+  shipping: '0'
+  state: OK
+wootax/28375:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '73098'
+    location_type: postcode
+  name: WYNNEWOOD
+  order: '0'
+  priority: '0'
+  rate: '9.25'
+  shipping: '0'
+  state: OK
+wootax/28376:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '73099'
+    location_type: postcode
+  name: OKLAHOMA CITY (CANADIAN CO)
+  order: '0'
+  priority: '0'
+  rate: '8.975'
+  shipping: '0'
+  state: OK
+wootax/28377:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '73101'
+    location_type: postcode
+  name: OKLAHOMA CITY (OKLAHOMA CO)
+  order: '0'
+  priority: '0'
+  rate: '8.625'
+  shipping: '0'
+  state: OK
+wootax/28378:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '73102'
+    location_type: postcode
+  name: OKLAHOMA CITY (OKLAHOMA CO)
+  order: '0'
+  priority: '0'
+  rate: '8.625'
+  shipping: '0'
+  state: OK
+wootax/28379:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '73103'
+    location_type: postcode
+  name: OKLAHOMA CITY (OKLAHOMA CO)
+  order: '0'
+  priority: '0'
+  rate: '8.625'
+  shipping: '0'
+  state: OK
+wootax/28380:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '73104'
+    location_type: postcode
+  name: OKLAHOMA CITY (OKLAHOMA CO)
+  order: '0'
+  priority: '0'
+  rate: '8.625'
+  shipping: '0'
+  state: OK
+wootax/28381:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '73105'
+    location_type: postcode
+  name: OKLAHOMA CITY (OKLAHOMA CO)
+  order: '0'
+  priority: '0'
+  rate: '8.625'
+  shipping: '0'
+  state: OK
+wootax/28382:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '73106'
+    location_type: postcode
+  name: OKLAHOMA CITY (OKLAHOMA CO)
+  order: '0'
+  priority: '0'
+  rate: '8.625'
+  shipping: '0'
+  state: OK
+wootax/28383:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '73107'
+    location_type: postcode
+  name: OKLAHOMA CITY (OKLAHOMA CO)
+  order: '0'
+  priority: '0'
+  rate: '8.625'
+  shipping: '0'
+  state: OK
+wootax/28384:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '73108'
+    location_type: postcode
+  name: OKLAHOMA CITY (OKLAHOMA CO)
+  order: '0'
+  priority: '0'
+  rate: '8.625'
+  shipping: '0'
+  state: OK
+wootax/28385:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '73109'
+    location_type: postcode
+  name: OKLAHOMA CITY (OKLAHOMA CO)
+  order: '0'
+  priority: '0'
+  rate: '8.625'
+  shipping: '0'
+  state: OK
+wootax/28386:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '73110'
+    location_type: postcode
+  name: MIDWEST
+  order: '0'
+  priority: '0'
+  rate: '9.1'
+  shipping: '0'
+  state: OK
+wootax/28387:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '73111'
+    location_type: postcode
+  name: OKLAHOMA CITY (OKLAHOMA CO)
+  order: '0'
+  priority: '0'
+  rate: '8.625'
+  shipping: '0'
+  state: OK
+wootax/28388:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '73112'
+    location_type: postcode
+  name: OKLAHOMA CITY (OKLAHOMA CO)
+  order: '0'
+  priority: '0'
+  rate: '8.625'
+  shipping: '0'
+  state: OK
+wootax/28389:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '73113'
+    location_type: postcode
+  name: OKLAHOMA CITY (OKLAHOMA CO)
+  order: '0'
+  priority: '0'
+  rate: '8.625'
+  shipping: '0'
+  state: OK
+wootax/28390:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '73114'
+    location_type: postcode
+  name: OKLAHOMA CITY (OKLAHOMA CO)
+  order: '0'
+  priority: '0'
+  rate: '8.625'
+  shipping: '0'
+  state: OK
+wootax/28391:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '73115'
+    location_type: postcode
+  name: DEL
+  order: '0'
+  priority: '0'
+  rate: '9'
+  shipping: '0'
+  state: OK
+wootax/28392:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '73116'
+    location_type: postcode
+  name: OKLAHOMA CITY (OKLAHOMA CO)
+  order: '0'
+  priority: '0'
+  rate: '8.625'
+  shipping: '0'
+  state: OK
+wootax/28393:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '73117'
+    location_type: postcode
+  name: OKLAHOMA CITY (OKLAHOMA CO)
+  order: '0'
+  priority: '0'
+  rate: '8.625'
+  shipping: '0'
+  state: OK
+wootax/28394:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '73118'
+    location_type: postcode
+  name: OKLAHOMA CITY (OKLAHOMA CO)
+  order: '0'
+  priority: '0'
+  rate: '8.625'
+  shipping: '0'
+  state: OK
+wootax/28395:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '73119'
+    location_type: postcode
+  name: OKLAHOMA CITY (OKLAHOMA CO)
+  order: '0'
+  priority: '0'
+  rate: '8.625'
+  shipping: '0'
+  state: OK
+wootax/28396:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '73120'
+    location_type: postcode
+  name: OKLAHOMA CITY (OKLAHOMA CO)
+  order: '0'
+  priority: '0'
+  rate: '8.625'
+  shipping: '0'
+  state: OK
+wootax/28397:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '73121'
+    location_type: postcode
+  name: OKLAHOMA CITY (OKLAHOMA CO)
+  order: '0'
+  priority: '0'
+  rate: '8.625'
+  shipping: '0'
+  state: OK
+wootax/28398:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '73122'
+    location_type: postcode
+  name: WARR ACRES
+  order: '0'
+  priority: '0'
+  rate: '8.5'
+  shipping: '0'
+  state: OK
+wootax/28399:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '73123'
+    location_type: postcode
+  name: WARR ACRES
+  order: '0'
+  priority: '0'
+  rate: '8.5'
+  shipping: '0'
+  state: OK
+wootax/28400:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '73125'
+    location_type: postcode
+  name: OKLAHOMA CITY (OKLAHOMA CO)
+  order: '0'
+  priority: '0'
+  rate: '8.625'
+  shipping: '0'
+  state: OK
+wootax/28401:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '73127'
+    location_type: postcode
+  name: OKLAHOMA CITY (OKLAHOMA CO)
+  order: '0'
+  priority: '0'
+  rate: '8.625'
+  shipping: '0'
+  state: OK
+wootax/28402:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '73128'
+    location_type: postcode
+  name: OKLAHOMA CITY (OKLAHOMA CO)
+  order: '0'
+  priority: '0'
+  rate: '8.625'
+  shipping: '0'
+  state: OK
+wootax/28403:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '73129'
+    location_type: postcode
+  name: OKLAHOMA CITY (OKLAHOMA CO)
+  order: '0'
+  priority: '0'
+  rate: '8.625'
+  shipping: '0'
+  state: OK
+wootax/28404:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '73130'
+    location_type: postcode
+  name: MIDWEST
+  order: '0'
+  priority: '0'
+  rate: '9.1'
+  shipping: '0'
+  state: OK
+wootax/28405:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '73131'
+    location_type: postcode
+  name: OKLAHOMA CITY (OKLAHOMA CO)
+  order: '0'
+  priority: '0'
+  rate: '8.625'
+  shipping: '0'
+  state: OK
+wootax/28406:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '73132'
+    location_type: postcode
+  name: OKLAHOMA CITY (OKLAHOMA CO)
+  order: '0'
+  priority: '0'
+  rate: '8.625'
+  shipping: '0'
+  state: OK
+wootax/28407:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '73134'
+    location_type: postcode
+  name: OKLAHOMA CITY (OKLAHOMA CO)
+  order: '0'
+  priority: '0'
+  rate: '8.625'
+  shipping: '0'
+  state: OK
+wootax/28408:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '73135'
+    location_type: postcode
+  name: OKLAHOMA CITY (OKLAHOMA CO)
+  order: '0'
+  priority: '0'
+  rate: '8.625'
+  shipping: '0'
+  state: OK
+wootax/28409:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '73136'
+    location_type: postcode
+  name: OKLAHOMA CITY (OKLAHOMA CO)
+  order: '0'
+  priority: '0'
+  rate: '8.625'
+  shipping: '0'
+  state: OK
+wootax/28410:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '73137'
+    location_type: postcode
+  name: OKLAHOMA CITY (OKLAHOMA CO)
+  order: '0'
+  priority: '0'
+  rate: '8.625'
+  shipping: '0'
+  state: OK
+wootax/28411:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '73139'
+    location_type: postcode
+  name: OKLAHOMA CITY (OKLAHOMA CO)
+  order: '0'
+  priority: '0'
+  rate: '8.625'
+  shipping: '0'
+  state: OK
+wootax/28412:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '73140'
+    location_type: postcode
+  name: MIDWEST
+  order: '0'
+  priority: '0'
+  rate: '9.1'
+  shipping: '0'
+  state: OK
+wootax/28413:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '73141'
+    location_type: postcode
+  name: MIDWEST
+  order: '0'
+  priority: '0'
+  rate: '9.1'
+  shipping: '0'
+  state: OK
+wootax/28414:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '73142'
+    location_type: postcode
+  name: OKLAHOMA CITY (OKLAHOMA CO)
+  order: '0'
+  priority: '0'
+  rate: '8.625'
+  shipping: '0'
+  state: OK
+wootax/28415:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '73143'
+    location_type: postcode
+  name: OKLAHOMA CITY (OKLAHOMA CO)
+  order: '0'
+  priority: '0'
+  rate: '8.625'
+  shipping: '0'
+  state: OK
+wootax/28416:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '73144'
+    location_type: postcode
+  name: OKLAHOMA CITY (OKLAHOMA CO)
+  order: '0'
+  priority: '0'
+  rate: '8.625'
+  shipping: '0'
+  state: OK
+wootax/28417:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '73145'
+    location_type: postcode
+  name: OKLAHOMA CITY (OKLAHOMA CO)
+  order: '0'
+  priority: '0'
+  rate: '8.625'
+  shipping: '0'
+  state: OK
+wootax/28418:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '73146'
+    location_type: postcode
+  name: OKLAHOMA CITY (OKLAHOMA CO)
+  order: '0'
+  priority: '0'
+  rate: '8.625'
+  shipping: '0'
+  state: OK
+wootax/28419:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '73147'
+    location_type: postcode
+  name: OKLAHOMA CITY (OKLAHOMA CO)
+  order: '0'
+  priority: '0'
+  rate: '8.625'
+  shipping: '0'
+  state: OK
+wootax/28420:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '73148'
+    location_type: postcode
+  name: OKLAHOMA CITY (OKLAHOMA CO)
+  order: '0'
+  priority: '0'
+  rate: '8.625'
+  shipping: '0'
+  state: OK
+wootax/28421:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '73149'
+    location_type: postcode
+  name: OKLAHOMA CITY (OKLAHOMA CO)
+  order: '0'
+  priority: '0'
+  rate: '8.625'
+  shipping: '0'
+  state: OK
+wootax/28422:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '73150'
+    location_type: postcode
+  name: OKLAHOMA CITY (OKLAHOMA CO)
+  order: '0'
+  priority: '0'
+  rate: '8.625'
+  shipping: '0'
+  state: OK
+wootax/28423:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '73151'
+    location_type: postcode
+  name: OKLAHOMA CITY (OKLAHOMA CO)
+  order: '0'
+  priority: '0'
+  rate: '8.625'
+  shipping: '0'
+  state: OK
+wootax/28424:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '73152'
+    location_type: postcode
+  name: OKLAHOMA CITY (OKLAHOMA CO)
+  order: '0'
+  priority: '0'
+  rate: '8.625'
+  shipping: '0'
+  state: OK
+wootax/28425:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '73153'
+    location_type: postcode
+  name: OKLAHOMA CITY (CLEVELAND CO)
+  order: '0'
+  priority: '0'
+  rate: '8.875'
+  shipping: '0'
+  state: OK
+wootax/28426:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '73154'
+    location_type: postcode
+  name: OKLAHOMA CITY (OKLAHOMA CO)
+  order: '0'
+  priority: '0'
+  rate: '8.625'
+  shipping: '0'
+  state: OK
+wootax/28427:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '73155'
+    location_type: postcode
+  name: OKLAHOMA CITY (OKLAHOMA CO)
+  order: '0'
+  priority: '0'
+  rate: '8.625'
+  shipping: '0'
+  state: OK
+wootax/28428:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '73156'
+    location_type: postcode
+  name: THE VILLAGE
+  order: '0'
+  priority: '0'
+  rate: '9'
+  shipping: '0'
+  state: OK
+wootax/28429:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '73157'
+    location_type: postcode
+  name: OKLAHOMA CITY (OKLAHOMA CO)
+  order: '0'
+  priority: '0'
+  rate: '8.625'
+  shipping: '0'
+  state: OK
+wootax/28430:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '73159'
+    location_type: postcode
+  name: OKLAHOMA CITY (OKLAHOMA CO)
+  order: '0'
+  priority: '0'
+  rate: '8.625'
+  shipping: '0'
+  state: OK
+wootax/28431:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '73160'
+    location_type: postcode
+  name: MOORE
+  order: '0'
+  priority: '0'
+  rate: '8.5'
+  shipping: '0'
+  state: OK
+wootax/28432:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '73162'
+    location_type: postcode
+  name: OKLAHOMA CITY (OKLAHOMA CO)
+  order: '0'
+  priority: '0'
+  rate: '8.625'
+  shipping: '0'
+  state: OK
+wootax/28433:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '73163'
+    location_type: postcode
+  name: OKLAHOMA CITY (OKLAHOMA CO)
+  order: '0'
+  priority: '0'
+  rate: '8.625'
+  shipping: '0'
+  state: OK
+wootax/28434:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '73164'
+    location_type: postcode
+  name: OKLAHOMA CITY (OKLAHOMA CO)
+  order: '0'
+  priority: '0'
+  rate: '8.625'
+  shipping: '0'
+  state: OK
+wootax/28435:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '73165'
+    location_type: postcode
+  name: OKLAHOMA CITY (CLEVELAND CO)
+  order: '0'
+  priority: '0'
+  rate: '8.875'
+  shipping: '0'
+  state: OK
+wootax/28436:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '73167'
+    location_type: postcode
+  name: OKLAHOMA CITY (OKLAHOMA CO)
+  order: '0'
+  priority: '0'
+  rate: '8.625'
+  shipping: '0'
+  state: OK
+wootax/28437:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '73169'
+    location_type: postcode
+  name: OKLAHOMA CITY (OKLAHOMA CO)
+  order: '0'
+  priority: '0'
+  rate: '8.625'
+  shipping: '0'
+  state: OK
+wootax/28438:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '73170'
+    location_type: postcode
+  name: OKLAHOMA CITY (CLEVELAND CO)
+  order: '0'
+  priority: '0'
+  rate: '8.875'
+  shipping: '0'
+  state: OK
+wootax/28439:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '73172'
+    location_type: postcode
+  name: OKLAHOMA CITY (OKLAHOMA CO)
+  order: '0'
+  priority: '0'
+  rate: '8.625'
+  shipping: '0'
+  state: OK
+wootax/28440:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '73173'
+    location_type: postcode
+  name: OKLAHOMA CITY (CLEVELAND CO)
+  order: '0'
+  priority: '0'
+  rate: '8.875'
+  shipping: '0'
+  state: OK
+wootax/28441:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '73178'
+    location_type: postcode
+  name: OKLAHOMA CITY (OKLAHOMA CO)
+  order: '0'
+  priority: '0'
+  rate: '8.625'
+  shipping: '0'
+  state: OK
+wootax/28442:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '73179'
+    location_type: postcode
+  name: OKLAHOMA CITY (OKLAHOMA CO)
+  order: '0'
+  priority: '0'
+  rate: '8.625'
+  shipping: '0'
+  state: OK
+wootax/28443:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '73189'
+    location_type: postcode
+  name: OKLAHOMA CITY (CLEVELAND CO)
+  order: '0'
+  priority: '0'
+  rate: '8.875'
+  shipping: '0'
+  state: OK
+wootax/28444:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '73190'
+    location_type: postcode
+  name: OKLAHOMA CITY (OKLAHOMA CO)
+  order: '0'
+  priority: '0'
+  rate: '8.625'
+  shipping: '0'
+  state: OK
+wootax/28445:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '73194'
+    location_type: postcode
+  name: OKLAHOMA CITY (OKLAHOMA CO)
+  order: '0'
+  priority: '0'
+  rate: '8.625'
+  shipping: '0'
+  state: OK
+wootax/28446:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '73195'
+    location_type: postcode
+  name: OKLAHOMA CITY
+  order: '0'
+  priority: '0'
+  rate: '8.625'
+  shipping: '0'
+  state: OK
+wootax/28447:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '73401'
+    location_type: postcode
+  name: ARDMORE
+  order: '0'
+  priority: '0'
+  rate: '9.125'
+  shipping: '0'
+  state: OK
+wootax/28448:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '73402'
+    location_type: postcode
+  name: ARDMORE
+  order: '0'
+  priority: '0'
+  rate: '9.125'
+  shipping: '0'
+  state: OK
+wootax/28449:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '73403'
+    location_type: postcode
+  name: ARDMORE
+  order: '0'
+  priority: '0'
+  rate: '9.125'
+  shipping: '0'
+  state: OK
+wootax/28450:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '73425'
+    location_type: postcode
+  name: STEPHENS COUNTY
+  order: '0'
+  priority: '0'
+  rate: '5.2'
+  shipping: '0'
+  state: OK
+wootax/28451:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '73430'
+    location_type: postcode
+  name: LOVE COUNTY
+  order: '0'
+  priority: '0'
+  rate: '7'
+  shipping: '0'
+  state: OK
+wootax/28452:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '73432'
+    location_type: postcode
+  name: JOHNSTON COUNTY
+  order: '0'
+  priority: '0'
+  rate: '6.5'
+  shipping: '0'
+  state: OK
+wootax/28453:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '73433'
+    location_type: postcode
+  name: ELMORE TOWN
+  order: '0'
+  priority: '0'
+  rate: '9.25'
+  shipping: '0'
+  state: OK
+wootax/28454:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '73434'
+    location_type: postcode
+  name: FOSTER
+  order: '0'
+  priority: '0'
+  rate: '9.25'
+  shipping: '0'
+  state: OK
+wootax/28455:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '73435'
+    location_type: postcode
+  name: CARTER COUNTY
+  order: '0'
+  priority: '0'
+  rate: '5.375'
+  shipping: '0'
+  state: OK
+wootax/28456:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '73436'
+    location_type: postcode
+  name: GENE AUTRY TOWN
+  order: '0'
+  priority: '0'
+  rate: '8.375'
+  shipping: '0'
+  state: OK
+wootax/28457:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '73437'
+    location_type: postcode
+  name: CARTER COUNTY
+  order: '0'
+  priority: '0'
+  rate: '5.375'
+  shipping: '0'
+  state: OK
+wootax/28458:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '73438'
+    location_type: postcode
+  name: HEALDTON
+  order: '0'
+  priority: '0'
+  rate: '9.375'
+  shipping: '0'
+  state: OK
+wootax/28459:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '73439'
+    location_type: postcode
+  name: MARSHALL COUNTY
+  order: '0'
+  priority: '0'
+  rate: '6.5'
+  shipping: '0'
+  state: OK
+wootax/28460:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '73440'
+    location_type: postcode
+  name: MARSHALL COUNTY
+  order: '0'
+  priority: '0'
+  rate: '6.5'
+  shipping: '0'
+  state: OK
+wootax/28461:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '73441'
+    location_type: postcode
+  name: LOVE COUNTY
+  order: '0'
+  priority: '0'
+  rate: '7'
+  shipping: '0'
+  state: OK
+wootax/28462:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '73442'
+    location_type: postcode
+  name: LOCO TOWN
+  order: '0'
+  priority: '0'
+  rate: '8.2'
+  shipping: '0'
+  state: OK
+wootax/28463:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '73443'
+    location_type: postcode
+  name: LONE GROVE
+  order: '0'
+  priority: '0'
+  rate: '9.375'
+  shipping: '0'
+  state: OK
+wootax/28464:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '73444'
+    location_type: postcode
+  name: GARVIN COUNTY
+  order: '0'
+  priority: '0'
+  rate: '5.25'
+  shipping: '0'
+  state: OK
+wootax/28465:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '73446'
+    location_type: postcode
+  name: MADILL
+  order: '0'
+  priority: '0'
+  rate: '9.5'
+  shipping: '0'
+  state: OK
+wootax/28466:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '73447'
+    location_type: postcode
+  name: JOHNSTON COUNTY
+  order: '0'
+  priority: '0'
+  rate: '6.5'
+  shipping: '0'
+  state: OK
+wootax/28467:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '73448'
+    location_type: postcode
+  name: MARIETTA
+  order: '0'
+  priority: '0'
+  rate: '10'
+  shipping: '0'
+  state: OK
+wootax/28468:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '73449'
+    location_type: postcode
+  name: BRYAN COUNTY
+  order: '0'
+  priority: '0'
+  rate: '5'
+  shipping: '0'
+  state: OK
+wootax/28469:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '73450'
+    location_type: postcode
+  name: JOHNSTON COUNTY
+  order: '0'
+  priority: '0'
+  rate: '6.5'
+  shipping: '0'
+  state: OK
+wootax/28470:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '73453'
+    location_type: postcode
+  name: LOVE COUNTY
+  order: '0'
+  priority: '0'
+  rate: '7'
+  shipping: '0'
+  state: OK
+wootax/28471:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '73455'
+    location_type: postcode
+  name: RAVIA TOWN
+  order: '0'
+  priority: '0'
+  rate: '9.5'
+  shipping: '0'
+  state: OK
+wootax/28472:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '73456'
+    location_type: postcode
+  name: RINGLING TOWN
+  order: '0'
+  priority: '0'
+  rate: '9'
+  shipping: '0'
+  state: OK
+wootax/28473:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '73458'
+    location_type: postcode
+  name: CARTER COUNTY
+  order: '0'
+  priority: '0'
+  rate: '5.375'
+  shipping: '0'
+  state: OK
+wootax/28474:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '73459'
+    location_type: postcode
+  name: LOVE COUNTY
+  order: '0'
+  priority: '0'
+  rate: '7'
+  shipping: '0'
+  state: OK
+wootax/28475:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '73460'
+    location_type: postcode
+  name: TISHOMINGO
+  order: '0'
+  priority: '0'
+  rate: '9.5'
+  shipping: '0'
+  state: OK
+wootax/28476:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '73461'
+    location_type: postcode
+  name: WAPANUCKA TOWN
+  order: '0'
+  priority: '0'
+  rate: '8'
+  shipping: '0'
+  state: OK
+wootax/28477:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '73463'
+    location_type: postcode
+  name: CARTER COUNTY
+  order: '0'
+  priority: '0'
+  rate: '5.375'
+  shipping: '0'
+  state: OK
+wootax/28478:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '73481'
+    location_type: postcode
+  name: CARTER COUNTY
+  order: '0'
+  priority: '0'
+  rate: '5.375'
+  shipping: '0'
+  state: OK
+wootax/28479:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '73487'
+    location_type: postcode
+  name: TATUMS TOWN
+  order: '0'
+  priority: '0'
+  rate: '10.375'
+  shipping: '0'
+  state: OK
+wootax/28480:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '73488'
+    location_type: postcode
+  name: CARTER COUNTY
+  order: '0'
+  priority: '0'
+  rate: '5.375'
+  shipping: '0'
+  state: OK
+wootax/28481:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '73491'
+    location_type: postcode
+  name: VELMA TOWN
+  order: '0'
+  priority: '0'
+  rate: '9.2'
+  shipping: '0'
+  state: OK
+wootax/28482:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '73501'
+    location_type: postcode
+  name: LAWTON
+  order: '0'
+  priority: '0'
+  rate: '9'
+  shipping: '0'
+  state: OK
+wootax/28483:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '73502'
+    location_type: postcode
+  name: LAWTON
+  order: '0'
+  priority: '0'
+  rate: '9'
+  shipping: '0'
+  state: OK
+wootax/28484:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '73503'
+    location_type: postcode
+  name: COMANCHE COUNTY
+  order: '0'
+  priority: '0'
+  rate: '4.875'
+  shipping: '0'
+  state: OK
+wootax/28485:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '73505'
+    location_type: postcode
+  name: LAWTON
+  order: '0'
+  priority: '0'
+  rate: '9'
+  shipping: '0'
+  state: OK
+wootax/28486:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '73506'
+    location_type: postcode
+  name: LAWTON
+  order: '0'
+  priority: '0'
+  rate: '9'
+  shipping: '0'
+  state: OK
+wootax/28487:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '73507'
+    location_type: postcode
+  name: LAWTON
+  order: '0'
+  priority: '0'
+  rate: '9'
+  shipping: '0'
+  state: OK
+wootax/28488:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '73520'
+    location_type: postcode
+  name: ADDINGTON TOWN
+  order: '0'
+  priority: '0'
+  rate: '8.5'
+  shipping: '0'
+  state: OK
+wootax/28489:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '73521'
+    location_type: postcode
+  name: ALTUS
+  order: '0'
+  priority: '0'
+  rate: '8.875'
+  shipping: '0'
+  state: OK
+wootax/28490:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '73522'
+    location_type: postcode
+  name: ALTUS
+  order: '0'
+  priority: '0'
+  rate: '8.875'
+  shipping: '0'
+  state: OK
+wootax/28491:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '73523'
+    location_type: postcode
+  name: ALTUS
+  order: '0'
+  priority: '0'
+  rate: '8.875'
+  shipping: '0'
+  state: OK
+wootax/28492:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '73526'
+    location_type: postcode
+  name: JACKSON COUNTY
+  order: '0'
+  priority: '0'
+  rate: '5.125'
+  shipping: '0'
+  state: OK
+wootax/28493:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '73527'
+    location_type: postcode
+  name: COMANCHE COUNTY
+  order: '0'
+  priority: '0'
+  rate: '4.875'
+  shipping: '0'
+  state: OK
+wootax/28494:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '73528'
+    location_type: postcode
+  name: CHATTANOOGA TOWN
+  order: '0'
+  priority: '0'
+  rate: '7.875'
+  shipping: '0'
+  state: OK
+wootax/28495:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '73529'
+    location_type: postcode
+  name: COMANCHE
+  order: '0'
+  priority: '0'
+  rate: '9.2'
+  shipping: '0'
+  state: OK
+wootax/28496:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '73530'
+    location_type: postcode
+  name: TILLMAN COUNTY
+  order: '0'
+  priority: '0'
+  rate: '6.5'
+  shipping: '0'
+  state: OK
+wootax/28497:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '73531'
+    location_type: postcode
+  name: DEVOL
+  order: '0'
+  priority: '0'
+  rate: '6.5'
+  shipping: '0'
+  state: OK
+wootax/28498:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '73532'
+    location_type: postcode
+  name: JACKSON COUNTY
+  order: '0'
+  priority: '0'
+  rate: '5.125'
+  shipping: '0'
+  state: OK
+wootax/28499:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '73533'
+    location_type: postcode
+  name: DUNCAN
+  order: '0'
+  priority: '0'
+  rate: '8.7'
+  shipping: '0'
+  state: OK
+wootax/28500:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '73537'
+    location_type: postcode
+  name: ELDORADO TOWN
+  order: '0'
+  priority: '0'
+  rate: '7.125'
+  shipping: '0'
+  state: OK
+wootax/28501:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '73538'
+    location_type: postcode
+  name: COMANCHE COUNTY
+  order: '0'
+  priority: '0'
+  rate: '4.875'
+  shipping: '0'
+  state: OK
+wootax/28502:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '73539'
+    location_type: postcode
+  name: JACKSON COUNTY
+  order: '0'
+  priority: '0'
+  rate: '5.125'
+  shipping: '0'
+  state: OK
+wootax/28503:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '73540'
+    location_type: postcode
+  name: COMANCHE COUNTY
+  order: '0'
+  priority: '0'
+  rate: '4.875'
+  shipping: '0'
+  state: OK
+wootax/28504:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '73541'
+    location_type: postcode
+  name: COMANCHE COUNTY
+  order: '0'
+  priority: '0'
+  rate: '4.875'
+  shipping: '0'
+  state: OK
+wootax/28505:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '73542'
+    location_type: postcode
+  name: FREDERICK
+  order: '0'
+  priority: '0'
+  rate: '10'
+  shipping: '0'
+  state: OK
+wootax/28506:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '73543'
+    location_type: postcode
+  name: COMANCHE COUNTY
+  order: '0'
+  priority: '0'
+  rate: '4.875'
+  shipping: '0'
+  state: OK
+wootax/28507:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '73544'
+    location_type: postcode
+  name: HARMON COUNTY
+  order: '0'
+  priority: '0'
+  rate: '7.5'
+  shipping: '0'
+  state: OK
+wootax/28508:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '73546'
+    location_type: postcode
+  name: GRANDFIELD
+  order: '0'
+  priority: '0'
+  rate: '9.5'
+  shipping: '0'
+  state: OK
+wootax/28509:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '73547'
+    location_type: postcode
+  name: GRANITE TOWN
+  order: '0'
+  priority: '0'
+  rate: '9.5'
+  shipping: '0'
+  state: OK
+wootax/28510:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '73548'
+    location_type: postcode
+  name: HASTINGS TOWN
+  order: '0'
+  priority: '0'
+  rate: '9.5'
+  shipping: '0'
+  state: OK
+wootax/28511:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '73549'
+    location_type: postcode
+  name: JACKSON COUNTY
+  order: '0'
+  priority: '0'
+  rate: '5.125'
+  shipping: '0'
+  state: OK
+wootax/28512:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '73550'
+    location_type: postcode
+  name: HOLLIS
+  order: '0'
+  priority: '0'
+  rate: '10.5'
+  shipping: '0'
+  state: OK
+wootax/28513:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '73551'
+    location_type: postcode
+  name: HOLLISTER TOWN
+  order: '0'
+  priority: '0'
+  rate: '9.5'
+  shipping: '0'
+  state: OK
+wootax/28514:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '73552'
+    location_type: postcode
+  name: COMANCHE COUNTY
+  order: '0'
+  priority: '0'
+  rate: '4.875'
+  shipping: '0'
+  state: OK
+wootax/28515:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '73553'
+    location_type: postcode
+  name: TILLMAN COUNTY
+  order: '0'
+  priority: '0'
+  rate: '6.5'
+  shipping: '0'
+  state: OK
+wootax/28516:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '73554'
+    location_type: postcode
+  name: MANGUM
+  order: '0'
+  priority: '0'
+  rate: '9.5'
+  shipping: '0'
+  state: OK
+wootax/28517:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '73555'
+    location_type: postcode
+  name: MANITOU
+  order: '0'
+  priority: '0'
+  rate: '9.5'
+  shipping: '0'
+  state: OK
+wootax/28518:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '73556'
+    location_type: postcode
+  name: MARTHA
+  order: '0'
+  priority: '0'
+  rate: '5.125'
+  shipping: '0'
+  state: OK
+wootax/28519:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '73557'
+    location_type: postcode
+  name: MEDICINE PARK TOWN
+  order: '0'
+  priority: '0'
+  rate: '9'
+  shipping: '0'
+  state: OK
+wootax/28520:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '73558'
+    location_type: postcode
+  name: COMANCHE COUNTY
+  order: '0'
+  priority: '0'
+  rate: '4.875'
+  shipping: '0'
+  state: OK
+wootax/28521:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '73559'
+    location_type: postcode
+  name: MOUNTAIN PARK TOWN
+  order: '0'
+  priority: '0'
+  rate: '8'
+  shipping: '0'
+  state: OK
+wootax/28522:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '73560'
+    location_type: postcode
+  name: JACKSON COUNTY
+  order: '0'
+  priority: '0'
+  rate: '5.125'
+  shipping: '0'
+  state: OK
+wootax/28523:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '73561'
+    location_type: postcode
+  name: JEFFERSON COUNTY
+  order: '0'
+  priority: '0'
+  rate: '6.5'
+  shipping: '0'
+  state: OK
+wootax/28524:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '73562'
+    location_type: postcode
+  name: RANDLETT
+  order: '0'
+  priority: '0'
+  rate: '6.5'
+  shipping: '0'
+  state: OK
+wootax/28525:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '73564'
+    location_type: postcode
+  name: ROOSEVELT TOWN
+  order: '0'
+  priority: '0'
+  rate: '8'
+  shipping: '0'
+  state: OK
+wootax/28526:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '73565'
+    location_type: postcode
+  name: RYAN TOWN
+  order: '0'
+  priority: '0'
+  rate: '9.5'
+  shipping: '0'
+  state: OK
+wootax/28527:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '73566'
+    location_type: postcode
+  name: SNYDER
+  order: '0'
+  priority: '0'
+  rate: '9'
+  shipping: '0'
+  state: OK
+wootax/28528:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '73567'
+    location_type: postcode
+  name: STERLING TOWN
+  order: '0'
+  priority: '0'
+  rate: '7.875'
+  shipping: '0'
+  state: OK
+wootax/28529:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '73568'
+    location_type: postcode
+  name: TEMPLE TOWN
+  order: '0'
+  priority: '0'
+  rate: '9.5'
+  shipping: '0'
+  state: OK
+wootax/28530:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '73569'
+    location_type: postcode
+  name: TERRAL TOWN
+  order: '0'
+  priority: '0'
+  rate: '9.5'
+  shipping: '0'
+  state: OK
+wootax/28531:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '73570'
+    location_type: postcode
+  name: TILLMAN COUNTY
+  order: '0'
+  priority: '0'
+  rate: '6.5'
+  shipping: '0'
+  state: OK
+wootax/28532:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '73571'
+    location_type: postcode
+  name: HARMON COUNTY
+  order: '0'
+  priority: '0'
+  rate: '7.5'
+  shipping: '0'
+  state: OK
+wootax/28533:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '73572'
+    location_type: postcode
+  name: WALTERS
+  order: '0'
+  priority: '0'
+  rate: '9.5'
+  shipping: '0'
+  state: OK
+wootax/28534:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '73573'
+    location_type: postcode
+  name: WAURIKA
+  order: '0'
+  priority: '0'
+  rate: '9.5'
+  shipping: '0'
+  state: OK
+wootax/28535:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '73601'
+    location_type: postcode
+  name: CLINTON
+  order: '0'
+  priority: '0'
+  rate: '9.5'
+  shipping: '0'
+  state: OK
+wootax/28536:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '73620'
+    location_type: postcode
+  name: ARAPAHO TOWN
+  order: '0'
+  priority: '0'
+  rate: '8'
+  shipping: '0'
+  state: OK
+wootax/28537:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '73622'
+    location_type: postcode
+  name: BESSIE TOWN
+  order: '0'
+  priority: '0'
+  rate: '8.5'
+  shipping: '0'
+  state: OK
+wootax/28538:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '73624'
+    location_type: postcode
+  name: BURNS FLAT TOWN
+  order: '0'
+  priority: '0'
+  rate: '10.5'
+  shipping: '0'
+  state: OK
+wootax/28539:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '73625'
+    location_type: postcode
+  name: CUSTER COUNTY
+  order: '0'
+  priority: '0'
+  rate: '5'
+  shipping: '0'
+  state: OK
+wootax/28540:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '73626'
+    location_type: postcode
+  name: CANUTE TOWN
+  order: '0'
+  priority: '0'
+  rate: '10.5'
+  shipping: '0'
+  state: OK
+wootax/28541:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '73627'
+    location_type: postcode
+  name: BECKHAM COUNTY
+  order: '0'
+  priority: '0'
+  rate: '4.85'
+  shipping: '0'
+  state: OK
+wootax/28542:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '73628'
+    location_type: postcode
+  name: CHEYENNE TOWN
+  order: '0'
+  priority: '0'
+  rate: '9'
+  shipping: '0'
+  state: OK
+wootax/28543:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '73632'
+    location_type: postcode
+  name: CORDELL
+  order: '0'
+  priority: '0'
+  rate: '9.5'
+  shipping: '0'
+  state: OK
+wootax/28544:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '73638'
+    location_type: postcode
+  name: ROGER MILLS COUNTY
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '0'
+  state: OK
+wootax/28545:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '73639'
+    location_type: postcode
+  name: CUSTER TOWN
+  order: '0'
+  priority: '0'
+  rate: '9'
+  shipping: '0'
+  state: OK
+wootax/28546:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '73641'
+    location_type: postcode
+  name: DILL TOWN
+  order: '0'
+  priority: '0'
+  rate: '9.5'
+  shipping: '0'
+  state: OK
+wootax/28547:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '73642'
+    location_type: postcode
+  name: ROGER MILLS COUNTY
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '0'
+  state: OK
+wootax/28548:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '73644'
+    location_type: postcode
+  name: ELK
+  order: '0'
+  priority: '0'
+  rate: '9.35'
+  shipping: '0'
+  state: OK
+wootax/28549:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '73645'
+    location_type: postcode
+  name: ERICK
+  order: '0'
+  priority: '0'
+  rate: '9.85'
+  shipping: '0'
+  state: OK
+wootax/28550:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '73646'
+    location_type: postcode
+  name: DEWEY COUNTY
+  order: '0'
+  priority: '0'
+  rate: '6.25'
+  shipping: '0'
+  state: OK
+wootax/28551:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '73647'
+    location_type: postcode
+  name: BURNS FLAT TOWN
+  order: '0'
+  priority: '0'
+  rate: '10.5'
+  shipping: '0'
+  state: OK
+wootax/28552:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '73650'
+    location_type: postcode
+  name: HAMMON TOWN
+  order: '0'
+  priority: '0'
+  rate: '9'
+  shipping: '0'
+  state: OK
+wootax/28553:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '73651'
+    location_type: postcode
+  name: HOBART
+  order: '0'
+  priority: '0'
+  rate: '9'
+  shipping: '0'
+  state: OK
+wootax/28554:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '73654'
+    location_type: postcode
+  name: LEEDEY TOWN
+  order: '0'
+  priority: '0'
+  rate: '9.25'
+  shipping: '0'
+  state: OK
+wootax/28555:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '73655'
+    location_type: postcode
+  name: LONE WOLF TOWN
+  order: '0'
+  priority: '0'
+  rate: '8'
+  shipping: '0'
+  state: OK
+wootax/28556:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '73658'
+    location_type: postcode
+  name: OAKWOOD
+  order: '0'
+  priority: '0'
+  rate: '6.25'
+  shipping: '0'
+  state: OK
+wootax/28557:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '73659'
+    location_type: postcode
+  name: DEWEY COUNTY
+  order: '0'
+  priority: '0'
+  rate: '6.25'
+  shipping: '0'
+  state: OK
+wootax/28558:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '73660'
+    location_type: postcode
+  name: REYDON TOWN
+  order: '0'
+  priority: '0'
+  rate: '8'
+  shipping: '0'
+  state: OK
+wootax/28559:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '73661'
+    location_type: postcode
+  name: ROCKY TOWN
+  order: '0'
+  priority: '0'
+  rate: '9.5'
+  shipping: '0'
+  state: OK
+wootax/28560:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '73662'
+    location_type: postcode
+  name: SAYRE
+  order: '0'
+  priority: '0'
+  rate: '8.85'
+  shipping: '0'
+  state: OK
+wootax/28561:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '73663'
+    location_type: postcode
+  name: SEILING
+  order: '0'
+  priority: '0'
+  rate: '10.25'
+  shipping: '0'
+  state: OK
+wootax/28562:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '73664'
+    location_type: postcode
+  name: SENTINEL TOWN
+  order: '0'
+  priority: '0'
+  rate: '9.5'
+  shipping: '0'
+  state: OK
+wootax/28563:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '73666'
+    location_type: postcode
+  name: ROGER MILLS COUNTY
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '0'
+  state: OK
+wootax/28564:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '73667'
+    location_type: postcode
+  name: TALOGA TOWN
+  order: '0'
+  priority: '0'
+  rate: '9.25'
+  shipping: '0'
+  state: OK
+wootax/28565:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '73668'
+    location_type: postcode
+  name: BECKHAM COUNTY
+  order: '0'
+  priority: '0'
+  rate: '4.85'
+  shipping: '0'
+  state: OK
+wootax/28566:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '73669'
+    location_type: postcode
+  name: THOMAS
+  order: '0'
+  priority: '0'
+  rate: '9'
+  shipping: '0'
+  state: OK
+wootax/28567:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '73673'
+    location_type: postcode
+  name: GREER COUNTY
+  order: '0'
+  priority: '0'
+  rate: '6.5'
+  shipping: '0'
+  state: OK
+wootax/28568:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '73701'
+    location_type: postcode
+  name: ENID
+  order: '0'
+  priority: '0'
+  rate: '9.1'
+  shipping: '0'
+  state: OK
+wootax/28569:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '73702'
+    location_type: postcode
+  name: ENID
+  order: '0'
+  priority: '0'
+  rate: '9.1'
+  shipping: '0'
+  state: OK
+wootax/28570:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '73703'
+    location_type: postcode
+  name: ENID
+  order: '0'
+  priority: '0'
+  rate: '9.1'
+  shipping: '0'
+  state: OK
+wootax/28571:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '73705'
+    location_type: postcode
+  name: ENID
+  order: '0'
+  priority: '0'
+  rate: '9.1'
+  shipping: '0'
+  state: OK
+wootax/28572:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '73716'
+    location_type: postcode
+  name: ALINE TOWN
+  order: '0'
+  priority: '0'
+  rate: '9.5'
+  shipping: '0'
+  state: OK
+wootax/28573:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '73717'
+    location_type: postcode
+  name: ALVA
+  order: '0'
+  priority: '0'
+  rate: '9.25'
+  shipping: '0'
+  state: OK
+wootax/28574:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '73718'
+    location_type: postcode
+  name: AMES TOWN
+  order: '0'
+  priority: '0'
+  rate: '9.25'
+  shipping: '0'
+  state: OK
+wootax/28575:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '73719'
+    location_type: postcode
+  name: AMORITA
+  order: '0'
+  priority: '0'
+  rate: '6.5'
+  shipping: '0'
+  state: OK
+wootax/28576:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '73720'
+    location_type: postcode
+  name: GARFIELD COUNTY
+  order: '0'
+  priority: '0'
+  rate: '4.85'
+  shipping: '0'
+  state: OK
+wootax/28577:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '73722'
+    location_type: postcode
+  name: BURLINGTON TOWN
+  order: '0'
+  priority: '0'
+  rate: '7.5'
+  shipping: '0'
+  state: OK
+wootax/28578:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '73724'
+    location_type: postcode
+  name: CANTON TOWN
+  order: '0'
+  priority: '0'
+  rate: '8.375'
+  shipping: '0'
+  state: OK
+wootax/28579:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '73726'
+    location_type: postcode
+  name: CARMEN TOWN
+  order: '0'
+  priority: '0'
+  rate: '9.5'
+  shipping: '0'
+  state: OK
+wootax/28580:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '73727'
+    location_type: postcode
+  name: GARFIELD COUNTY
+  order: '0'
+  priority: '0'
+  rate: '4.85'
+  shipping: '0'
+  state: OK
+wootax/28581:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '73728'
+    location_type: postcode
+  name: CHEROKEE
+  order: '0'
+  priority: '0'
+  rate: '9.5'
+  shipping: '0'
+  state: OK
+wootax/28582:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '73729'
+    location_type: postcode
+  name: CLEO SPRINGS TOWN
+  order: '0'
+  priority: '0'
+  rate: '9.25'
+  shipping: '0'
+  state: OK
+wootax/28583:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '73730'
+    location_type: postcode
+  name: GARFIELD COUNTY
+  order: '0'
+  priority: '0'
+  rate: '4.85'
+  shipping: '0'
+  state: OK
+wootax/28584:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '73731'
+    location_type: postcode
+  name: WOODS COUNTY
+  order: '0'
+  priority: '0'
+  rate: '5'
+  shipping: '0'
+  state: OK
+wootax/28585:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '73733'
+    location_type: postcode
+  name: GARFIELD COUNTY
+  order: '0'
+  priority: '0'
+  rate: '4.85'
+  shipping: '0'
+  state: OK
+wootax/28586:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '73734'
+    location_type: postcode
+  name: DOVER TOWN
+  order: '0'
+  priority: '0'
+  rate: '9.75'
+  shipping: '0'
+  state: OK
+wootax/28587:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '73735'
+    location_type: postcode
+  name: GARFIELD COUNTY
+  order: '0'
+  priority: '0'
+  rate: '4.85'
+  shipping: '0'
+  state: OK
+wootax/28588:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '73736'
+    location_type: postcode
+  name: GARFIELD COUNTY
+  order: '0'
+  priority: '0'
+  rate: '4.85'
+  shipping: '0'
+  state: OK
+wootax/28589:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '73737'
+    location_type: postcode
+  name: FAIRVIEW
+  order: '0'
+  priority: '0'
+  rate: '10.25'
+  shipping: '0'
+  state: OK
+wootax/28590:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '73738'
+    location_type: postcode
+  name: GARFIELD COUNTY
+  order: '0'
+  priority: '0'
+  rate: '4.85'
+  shipping: '0'
+  state: OK
+wootax/28591:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '73739'
+    location_type: postcode
+  name: GOLTRY TOWN
+  order: '0'
+  priority: '0'
+  rate: '9.5'
+  shipping: '0'
+  state: OK
+wootax/28592:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '73741'
+    location_type: postcode
+  name: HELENA TOWN
+  order: '0'
+  priority: '0'
+  rate: '9.5'
+  shipping: '0'
+  state: OK
+wootax/28593:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '73742'
+    location_type: postcode
+  name: HENNESSEY TOWN
+  order: '0'
+  priority: '0'
+  rate: '9.75'
+  shipping: '0'
+  state: OK
+wootax/28594:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '73743'
+    location_type: postcode
+  name: HILLSDALE TOWN
+  order: '0'
+  priority: '0'
+  rate: '5.85'
+  shipping: '0'
+  state: OK
+wootax/28595:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '73744'
+    location_type: postcode
+  name: HITCHCOCK TOWN
+  order: '0'
+  priority: '0'
+  rate: '8.375'
+  shipping: '0'
+  state: OK
+wootax/28596:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '73746'
+    location_type: postcode
+  name: WOODS COUNTY
+  order: '0'
+  priority: '0'
+  rate: '5'
+  shipping: '0'
+  state: OK
+wootax/28597:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '73747'
+    location_type: postcode
+  name: FAIRVIEW
+  order: '0'
+  priority: '0'
+  rate: '10.25'
+  shipping: '0'
+  state: OK
+wootax/28598:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '73749'
+    location_type: postcode
+  name: JET TOWN
+  order: '0'
+  priority: '0'
+  rate: '9.5'
+  shipping: '0'
+  state: OK
+wootax/28599:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '73750'
+    location_type: postcode
+  name: KINGFISHER
+  order: '0'
+  priority: '0'
+  rate: '9.085'
+  shipping: '0'
+  state: OK
+wootax/28600:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '73753'
+    location_type: postcode
+  name: GARFIELD COUNTY
+  order: '0'
+  priority: '0'
+  rate: '4.85'
+  shipping: '0'
+  state: OK
+wootax/28601:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '73754'
+    location_type: postcode
+  name: LAHOMA TOWN
+  order: '0'
+  priority: '0'
+  rate: '8.85'
+  shipping: '0'
+  state: OK
+wootax/28602:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '73755'
+    location_type: postcode
+  name: LONGDALE TOWN
+  order: '0'
+  priority: '0'
+  rate: '8.375'
+  shipping: '0'
+  state: OK
+wootax/28603:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '73756'
+    location_type: postcode
+  name: LOYAL TOWN
+  order: '0'
+  priority: '0'
+  rate: '9.75'
+  shipping: '0'
+  state: OK
+wootax/28604:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '73757'
+    location_type: postcode
+  name: NOBLE COUNTY
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '0'
+  state: OK
+wootax/28605:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '73758'
+    location_type: postcode
+  name: MANCHESTER
+  order: '0'
+  priority: '0'
+  rate: '5.75'
+  shipping: '0'
+  state: OK
+wootax/28606:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '73759'
+    location_type: postcode
+  name: MEDFORD
+  order: '0'
+  priority: '0'
+  rate: '9.75'
+  shipping: '0'
+  state: OK
+wootax/28607:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '73760'
+    location_type: postcode
+  name: MENO TOWN
+  order: '0'
+  priority: '0'
+  rate: '9.25'
+  shipping: '0'
+  state: OK
+wootax/28608:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '73761'
+    location_type: postcode
+  name: GRANT COUNTY
+  order: '0'
+  priority: '0'
+  rate: '5.75'
+  shipping: '0'
+  state: OK
+wootax/28609:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '73762'
+    location_type: postcode
+  name: CANADIAN COUNTY
+  order: '0'
+  priority: '0'
+  rate: '4.85'
+  shipping: '0'
+  state: OK
+wootax/28610:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '73763'
+    location_type: postcode
+  name: OKEENE TOWN
+  order: '0'
+  priority: '0'
+  rate: '9.625'
+  shipping: '0'
+  state: OK
+wootax/28611:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '73764'
+    location_type: postcode
+  name: KINGFISHER COUNTY
+  order: '0'
+  priority: '0'
+  rate: '5.75'
+  shipping: '0'
+  state: OK
+wootax/28612:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '73766'
+    location_type: postcode
+  name: POND CREEK
+  order: '0'
+  priority: '0'
+  rate: '9.75'
+  shipping: '0'
+  state: OK
+wootax/28613:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '73768'
+    location_type: postcode
+  name: RINGWOOD
+  order: '0'
+  priority: '0'
+  rate: '9.25'
+  shipping: '0'
+  state: OK
+wootax/28614:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '73770'
+    location_type: postcode
+  name: BLAINE COUNTY
+  order: '0'
+  priority: '0'
+  rate: '5.375'
+  shipping: '0'
+  state: OK
+wootax/28615:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '73771'
+    location_type: postcode
+  name: GRANT COUNTY
+  order: '0'
+  priority: '0'
+  rate: '5.75'
+  shipping: '0'
+  state: OK
+wootax/28616:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '73772'
+    location_type: postcode
+  name: WATONGA
+  order: '0'
+  priority: '0'
+  rate: '10.375'
+  shipping: '0'
+  state: OK
+wootax/28617:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '73773'
+    location_type: postcode
+  name: WAUKOMIS TOWN
+  order: '0'
+  priority: '0'
+  rate: '8.85'
+  shipping: '0'
+  state: OK
+wootax/28618:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '73801'
+    location_type: postcode
+  name: WOODWARD
+  order: '0'
+  priority: '0'
+  rate: '9.4'
+  shipping: '0'
+  state: OK
+wootax/28619:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '73832'
+    location_type: postcode
+  name: ARNETT TOWN
+  order: '0'
+  priority: '0'
+  rate: '9.5'
+  shipping: '0'
+  state: OK
+wootax/28620:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '73834'
+    location_type: postcode
+  name: BUFFALO TOWN
+  order: '0'
+  priority: '0'
+  rate: '9.5'
+  shipping: '0'
+  state: OK
+wootax/28621:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '73835'
+    location_type: postcode
+  name: CAMARGO TOWN
+  order: '0'
+  priority: '0'
+  rate: '10.25'
+  shipping: '0'
+  state: OK
+wootax/28622:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '73838'
+    location_type: postcode
+  name: MAJOR COUNTY
+  order: '0'
+  priority: '0'
+  rate: '6.25'
+  shipping: '0'
+  state: OK
+wootax/28623:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '73840'
+    location_type: postcode
+  name: FARGO TOWN
+  order: '0'
+  priority: '0'
+  rate: '9.5'
+  shipping: '0'
+  state: OK
+wootax/28624:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '73841'
+    location_type: postcode
+  name: FORT SUPPLY TOWN
+  order: '0'
+  priority: '0'
+  rate: '8.4'
+  shipping: '0'
+  state: OK
+wootax/28625:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '73842'
+    location_type: postcode
+  name: FREEDOM TOWN
+  order: '0'
+  priority: '0'
+  rate: '7'
+  shipping: '0'
+  state: OK
+wootax/28626:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '73843'
+    location_type: postcode
+  name: GAGE TOWN
+  order: '0'
+  priority: '0'
+  rate: '9.5'
+  shipping: '0'
+  state: OK
+wootax/28627:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '73844'
+    location_type: postcode
+  name: GATE TOWN
+  order: '0'
+  priority: '0'
+  rate: '8.5'
+  shipping: '0'
+  state: OK
+wootax/28628:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '73848'
+    location_type: postcode
+  name: LAVERNE TOWN
+  order: '0'
+  priority: '0'
+  rate: '9.75'
+  shipping: '0'
+  state: OK
+wootax/28629:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '73851'
+    location_type: postcode
+  name: HARPER COUNTY
+  order: '0'
+  priority: '0'
+  rate: '6.5'
+  shipping: '0'
+  state: OK
+wootax/28630:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '73852'
+    location_type: postcode
+  name: MOORELAND TOWN
+  order: '0'
+  priority: '0'
+  rate: '9.4'
+  shipping: '0'
+  state: OK
+wootax/28631:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '73853'
+    location_type: postcode
+  name: WOODWARD COUNTY
+  order: '0'
+  priority: '0'
+  rate: '5.4'
+  shipping: '0'
+  state: OK
+wootax/28632:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '73855'
+    location_type: postcode
+  name: HARPER COUNTY
+  order: '0'
+  priority: '0'
+  rate: '6.5'
+  shipping: '0'
+  state: OK
+wootax/28633:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '73857'
+    location_type: postcode
+  name: WOODWARD COUNTY
+  order: '0'
+  priority: '0'
+  rate: '5.4'
+  shipping: '0'
+  state: OK
+wootax/28634:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '73858'
+    location_type: postcode
+  name: SHATTUCK TOWN
+  order: '0'
+  priority: '0'
+  rate: '10.5'
+  shipping: '0'
+  state: OK
+wootax/28635:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '73859'
+    location_type: postcode
+  name: VICI TOWN
+  order: '0'
+  priority: '0'
+  rate: '10.25'
+  shipping: '0'
+  state: OK
+wootax/28636:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '73860'
+    location_type: postcode
+  name: WAYNOKA
+  order: '0'
+  priority: '0'
+  rate: '9'
+  shipping: '0'
+  state: OK
+wootax/28637:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '73901'
+    location_type: postcode
+  name: TEXAS COUNTY
+  order: '0'
+  priority: '0'
+  rate: '5.95'
+  shipping: '0'
+  state: OK
+wootax/28638:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '73931'
+    location_type: postcode
+  name: BEAVER COUNTY
+  order: '0'
+  priority: '0'
+  rate: '6.5'
+  shipping: '0'
+  state: OK
+wootax/28639:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '73932'
+    location_type: postcode
+  name: BEAVER
+  order: '0'
+  priority: '0'
+  rate: '9.5'
+  shipping: '0'
+  state: OK
+wootax/28640:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '73933'
+    location_type: postcode
+  name: BOISE
+  order: '0'
+  priority: '0'
+  rate: '9.5'
+  shipping: '0'
+  state: OK
+wootax/28641:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '73937'
+    location_type: postcode
+  name: CIMARRON COUNTY
+  order: '0'
+  priority: '0'
+  rate: '6.5'
+  shipping: '0'
+  state: OK
+wootax/28642:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '73938'
+    location_type: postcode
+  name: FORGAN TOWN
+  order: '0'
+  priority: '0'
+  rate: '9.5'
+  shipping: '0'
+  state: OK
+wootax/28643:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '73939'
+    location_type: postcode
+  name: GOODWELL
+  order: '0'
+  priority: '0'
+  rate: '8.95'
+  shipping: '0'
+  state: OK
+wootax/28644:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '73942'
+    location_type: postcode
+  name: GUYMON
+  order: '0'
+  priority: '0'
+  rate: '9.95'
+  shipping: '0'
+  state: OK
+wootax/28645:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '73944'
+    location_type: postcode
+  name: GUYMON
+  order: '0'
+  priority: '0'
+  rate: '9.95'
+  shipping: '0'
+  state: OK
+wootax/28646:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '73945'
+    location_type: postcode
+  name: HOOKER
+  order: '0'
+  priority: '0'
+  rate: '9.95'
+  shipping: '0'
+  state: OK
+wootax/28647:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '73946'
+    location_type: postcode
+  name: CIMARRON COUNTY
+  order: '0'
+  priority: '0'
+  rate: '6.5'
+  shipping: '0'
+  state: OK
+wootax/28648:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '73947'
+    location_type: postcode
+  name: KEYES TOWN
+  order: '0'
+  priority: '0'
+  rate: '8.5'
+  shipping: '0'
+  state: OK
+wootax/28649:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '73949'
+    location_type: postcode
+  name: TEXHOMA TOWN
+  order: '0'
+  priority: '0'
+  rate: '8.95'
+  shipping: '0'
+  state: OK
+wootax/28650:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '73950'
+    location_type: postcode
+  name: BEAVER COUNTY
+  order: '0'
+  priority: '0'
+  rate: '6.5'
+  shipping: '0'
+  state: OK
+wootax/28651:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '73951'
+    location_type: postcode
+  name: TYRONE TOWN
+  order: '0'
+  priority: '0'
+  rate: '8.95'
+  shipping: '0'
+  state: OK
+wootax/28652:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '74001'
+    location_type: postcode
+  name: AVANT TOWN
+  order: '0'
+  priority: '0'
+  rate: '7.75'
+  shipping: '0'
+  state: OK
+wootax/28653:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '74002'
+    location_type: postcode
+  name: OSAGE COUNTY
+  order: '0'
+  priority: '0'
+  rate: '5.75'
+  shipping: '0'
+  state: OK
+wootax/28654:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '74003'
+    location_type: postcode
+  name: BARTLESVILLE (WASHINGTON CO)
+  order: '0'
+  priority: '0'
+  rate: '8.9'
+  shipping: '0'
+  state: OK
+wootax/28655:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '74004'
+    location_type: postcode
+  name: BARTLESVILLE (WASHINGTON CO)
+  order: '0'
+  priority: '0'
+  rate: '8.9'
+  shipping: '0'
+  state: OK
+wootax/28656:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '74005'
+    location_type: postcode
+  name: BARTLESVILLE (WASHINGTON CO)
+  order: '0'
+  priority: '0'
+  rate: '8.9'
+  shipping: '0'
+  state: OK
+wootax/28657:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '74006'
+    location_type: postcode
+  name: BARTLESVILLE (WASHINGTON CO)
+  order: '0'
+  priority: '0'
+  rate: '8.9'
+  shipping: '0'
+  state: OK
+wootax/28658:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '74008'
+    location_type: postcode
+  name: BIXBY (TULSA CO)
+  order: '0'
+  priority: '0'
+  rate: '8.917'
+  shipping: '0'
+  state: OK
+wootax/28659:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '74010'
+    location_type: postcode
+  name: CREEK COUNTY
+  order: '0'
+  priority: '0'
+  rate: '5.5'
+  shipping: '0'
+  state: OK
+wootax/28660:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '74011'
+    location_type: postcode
+  name: BROKEN ARROW (TULSA CO)
+  order: '0'
+  priority: '0'
+  rate: '8.417'
+  shipping: '0'
+  state: OK
+wootax/28661:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '74012'
+    location_type: postcode
+  name: BROKEN ARROW (TULSA CO)
+  order: '0'
+  priority: '0'
+  rate: '8.417'
+  shipping: '0'
+  state: OK
+wootax/28662:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '74013'
+    location_type: postcode
+  name: BROKEN ARROW (TULSA CO)
+  order: '0'
+  priority: '0'
+  rate: '8.417'
+  shipping: '0'
+  state: OK
+wootax/28663:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '74014'
+    location_type: postcode
+  name: WAGONER COUNTY
+  order: '0'
+  priority: '0'
+  rate: '5.8'
+  shipping: '0'
+  state: OK
+wootax/28664:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '74015'
+    location_type: postcode
+  name: CATOOSA (ROGERS CO)
+  order: '0'
+  priority: '0'
+  rate: '9.583'
+  shipping: '0'
+  state: OK
+wootax/28665:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '74016'
+    location_type: postcode
+  name: ROGERS COUNTY
+  order: '0'
+  priority: '0'
+  rate: '6.333'
+  shipping: '0'
+  state: OK
+wootax/28666:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '74017'
+    location_type: postcode
+  name: CLAREMORE
+  order: '0'
+  priority: '0'
+  rate: '9.333'
+  shipping: '0'
+  state: OK
+wootax/28667:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '74018'
+    location_type: postcode
+  name: CLAREMORE
+  order: '0'
+  priority: '0'
+  rate: '9.333'
+  shipping: '0'
+  state: OK
+wootax/28668:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '74019'
+    location_type: postcode
+  name: ROGERS COUNTY
+  order: '0'
+  priority: '0'
+  rate: '6.333'
+  shipping: '0'
+  state: OK
+wootax/28669:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '74020'
+    location_type: postcode
+  name: CLEVELAND
+  order: '0'
+  priority: '0'
+  rate: '10'
+  shipping: '0'
+  state: OK
+wootax/28670:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '74021'
+    location_type: postcode
+  name: COLLINSVILLE (TULSA CO)
+  order: '0'
+  priority: '0'
+  rate: '9.167'
+  shipping: '0'
+  state: OK
+wootax/28671:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '74022'
+    location_type: postcode
+  name: WASHINGTON COUNTY
+  order: '0'
+  priority: '0'
+  rate: '5.5'
+  shipping: '0'
+  state: OK
+wootax/28672:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '74023'
+    location_type: postcode
+  name: PAYNE COUNTY
+  order: '0'
+  priority: '0'
+  rate: '5.313'
+  shipping: '0'
+  state: OK
+wootax/28673:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '74026'
+    location_type: postcode
+  name: DAVENPORT TOWN
+  order: '0'
+  priority: '0'
+  rate: '9.5'
+  shipping: '0'
+  state: OK
+wootax/28674:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '74027'
+    location_type: postcode
+  name: DELAWARE TOWN
+  order: '0'
+  priority: '0'
+  rate: '8.5'
+  shipping: '0'
+  state: OK
+wootax/28675:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '74028'
+    location_type: postcode
+  name: CREEK COUNTY
+  order: '0'
+  priority: '0'
+  rate: '5.5'
+  shipping: '0'
+  state: OK
+wootax/28676:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '74029'
+    location_type: postcode
+  name: DEWEY
+  order: '0'
+  priority: '0'
+  rate: '8.5'
+  shipping: '0'
+  state: OK
+wootax/28677:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '74030'
+    location_type: postcode
+  name: DRUMRIGHT (CREEK CO)
+  order: '0'
+  priority: '0'
+  rate: '10'
+  shipping: '0'
+  state: OK
+wootax/28678:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '74031'
+    location_type: postcode
+  name: FOYIL TOWN
+  order: '0'
+  priority: '0'
+  rate: '10.333'
+  shipping: '0'
+  state: OK
+wootax/28679:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '74032'
+    location_type: postcode
+  name: PAYNE COUNTY
+  order: '0'
+  priority: '0'
+  rate: '5.313'
+  shipping: '0'
+  state: OK
+wootax/28680:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '74033'
+    location_type: postcode
+  name: GLENPOOL
+  order: '0'
+  priority: '0'
+  rate: '9.967'
+  shipping: '0'
+  state: OK
+wootax/28681:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '74034'
+    location_type: postcode
+  name: HALLETT TOWN
+  order: '0'
+  priority: '0'
+  rate: '11'
+  shipping: '0'
+  state: OK
+wootax/28682:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '74035'
+    location_type: postcode
+  name: HOMINY
+  order: '0'
+  priority: '0'
+  rate: '9.25'
+  shipping: '0'
+  state: OK
+wootax/28683:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '74036'
+    location_type: postcode
+  name: ROGERS COUNTY
+  order: '0'
+  priority: '0'
+  rate: '6.333'
+  shipping: '0'
+  state: OK
+wootax/28684:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '74037'
+    location_type: postcode
+  name: JENKS
+  order: '0'
+  priority: '0'
+  rate: '8.417'
+  shipping: '0'
+  state: OK
+wootax/28685:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '74038'
+    location_type: postcode
+  name: PAWNEE COUNTY
+  order: '0'
+  priority: '0'
+  rate: '6.5'
+  shipping: '0'
+  state: OK
+wootax/28686:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '74039'
+    location_type: postcode
+  name: CREEK COUNTY
+  order: '0'
+  priority: '0'
+  rate: '5.5'
+  shipping: '0'
+  state: OK
+wootax/28687:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '74041'
+    location_type: postcode
+  name: KIEFER TOWN
+  order: '0'
+  priority: '0'
+  rate: '9.5'
+  shipping: '0'
+  state: OK
+wootax/28688:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '74042'
+    location_type: postcode
+  name: LENAPAH TOWN
+  order: '0'
+  priority: '0'
+  rate: '8.5'
+  shipping: '0'
+  state: OK
+wootax/28689:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '74043'
+    location_type: postcode
+  name: TULSA COUNTY
+  order: '0'
+  priority: '0'
+  rate: '4.867'
+  shipping: '0'
+  state: OK
+wootax/28690:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '74044'
+    location_type: postcode
+  name: CREEK COUNTY
+  order: '0'
+  priority: '0'
+  rate: '5.5'
+  shipping: '0'
+  state: OK
+wootax/28691:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '74045'
+    location_type: postcode
+  name: PAWNEE COUNTY
+  order: '0'
+  priority: '0'
+  rate: '6.5'
+  shipping: '0'
+  state: OK
+wootax/28692:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '74046'
+    location_type: postcode
+  name: CREEK COUNTY
+  order: '0'
+  priority: '0'
+  rate: '5.5'
+  shipping: '0'
+  state: OK
+wootax/28693:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '74047'
+    location_type: postcode
+  name: OKMULGEE COUNTY
+  order: '0'
+  priority: '0'
+  rate: '6.083'
+  shipping: '0'
+  state: OK
+wootax/28694:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '74048'
+    location_type: postcode
+  name: NOWATA
+  order: '0'
+  priority: '0'
+  rate: '9.5'
+  shipping: '0'
+  state: OK
+wootax/28695:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '74050'
+    location_type: postcode
+  name: TULSA COUNTY
+  order: '0'
+  priority: '0'
+  rate: '4.867'
+  shipping: '0'
+  state: OK
+wootax/28696:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '74051'
+    location_type: postcode
+  name: WASHINGTON COUNTY
+  order: '0'
+  priority: '0'
+  rate: '5.5'
+  shipping: '0'
+  state: OK
+wootax/28697:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '74052'
+    location_type: postcode
+  name: OILTON
+  order: '0'
+  priority: '0'
+  rate: '10.5'
+  shipping: '0'
+  state: OK
+wootax/28698:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '74053'
+    location_type: postcode
+  name: ROGERS COUNTY
+  order: '0'
+  priority: '0'
+  rate: '6.333'
+  shipping: '0'
+  state: OK
+wootax/28699:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '74054'
+    location_type: postcode
+  name: OSAGE COUNTY
+  order: '0'
+  priority: '0'
+  rate: '5.75'
+  shipping: '0'
+  state: OK
+wootax/28700:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '74055'
+    location_type: postcode
+  name: OWASSO (TULSA CO)
+  order: '0'
+  priority: '0'
+  rate: '8.917'
+  shipping: '0'
+  state: OK
+wootax/28701:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '74056'
+    location_type: postcode
+  name: PAWHUSKA
+  order: '0'
+  priority: '0'
+  rate: '8.75'
+  shipping: '0'
+  state: OK
+wootax/28702:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '74058'
+    location_type: postcode
+  name: PAWNEE COUNTY
+  order: '0'
+  priority: '0'
+  rate: '6.5'
+  shipping: '0'
+  state: OK
+wootax/28703:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '74059'
+    location_type: postcode
+  name: PAYNE COUNTY
+  order: '0'
+  priority: '0'
+  rate: '5.313'
+  shipping: '0'
+  state: OK
+wootax/28704:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '74060'
+    location_type: postcode
+  name: PRUE TOWN
+  order: '0'
+  priority: '0'
+  rate: '8.75'
+  shipping: '0'
+  state: OK
+wootax/28705:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '74061'
+    location_type: postcode
+  name: WASHINGTON COUNTY
+  order: '0'
+  priority: '0'
+  rate: '5.5'
+  shipping: '0'
+  state: OK
+wootax/28706:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '74062'
+    location_type: postcode
+  name: PAYNE COUNTY
+  order: '0'
+  priority: '0'
+  rate: '5.313'
+  shipping: '0'
+  state: OK
+wootax/28707:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '74063'
+    location_type: postcode
+  name: SAND SPRINGS (TULSA CO)
+  order: '0'
+  priority: '0'
+  rate: '8.917'
+  shipping: '0'
+  state: OK
+wootax/28708:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '74066'
+    location_type: postcode
+  name: SAPULPA (CREEK CO)
+  order: '0'
+  priority: '0'
+  rate: '9.5'
+  shipping: '0'
+  state: OK
+wootax/28709:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '74067'
+    location_type: postcode
+  name: SAPULPA (CREEK CO)
+  order: '0'
+  priority: '0'
+  rate: '9.5'
+  shipping: '0'
+  state: OK
+wootax/28710:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '74068'
+    location_type: postcode
+  name: SHAMROCK TOWN
+  order: '0'
+  priority: '0'
+  rate: '8.5'
+  shipping: '0'
+  state: OK
+wootax/28711:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '74070'
+    location_type: postcode
+  name: OSAGE COUNTY
+  order: '0'
+  priority: '0'
+  rate: '5.75'
+  shipping: '0'
+  state: OK
+wootax/28712:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '74071'
+    location_type: postcode
+  name: SLICK TOWN
+  order: '0'
+  priority: '0'
+  rate: '8.5'
+  shipping: '0'
+  state: OK
+wootax/28713:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '74072'
+    location_type: postcode
+  name: SOUTH COFFEYVILLE
+  order: '0'
+  priority: '0'
+  rate: '8.5'
+  shipping: '0'
+  state: OK
+wootax/28714:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '74073'
+    location_type: postcode
+  name: OSAGE COUNTY
+  order: '0'
+  priority: '0'
+  rate: '5.75'
+  shipping: '0'
+  state: OK
+wootax/28715:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '74074'
+    location_type: postcode
+  name: STILLWATER
+  order: '0'
+  priority: '0'
+  rate: '8.813'
+  shipping: '0'
+  state: OK
+wootax/28716:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '74075'
+    location_type: postcode
+  name: STILLWATER
+  order: '0'
+  priority: '0'
+  rate: '8.813'
+  shipping: '0'
+  state: OK
+wootax/28717:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '74076'
+    location_type: postcode
+  name: STILLWATER
+  order: '0'
+  priority: '0'
+  rate: '8.813'
+  shipping: '0'
+  state: OK
+wootax/28718:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '74077'
+    location_type: postcode
+  name: STILLWATER
+  order: '0'
+  priority: '0'
+  rate: '8.813'
+  shipping: '0'
+  state: OK
+wootax/28719:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '74078'
+    location_type: postcode
+  name: STILLWATER
+  order: '0'
+  priority: '0'
+  rate: '8.813'
+  shipping: '0'
+  state: OK
+wootax/28720:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '74079'
+    location_type: postcode
+  name: STROUD
+  order: '0'
+  priority: '0'
+  rate: '9.5'
+  shipping: '0'
+  state: OK
+wootax/28721:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '74080'
+    location_type: postcode
+  name: ROGERS COUNTY
+  order: '0'
+  priority: '0'
+  rate: '6.333'
+  shipping: '0'
+  state: OK
+wootax/28722:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '74081'
+    location_type: postcode
+  name: PAWNEE COUNTY
+  order: '0'
+  priority: '0'
+  rate: '6.5'
+  shipping: '0'
+  state: OK
+wootax/28723:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '74082'
+    location_type: postcode
+  name: VERA TOWN
+  order: '0'
+  priority: '0'
+  rate: '7.5'
+  shipping: '0'
+  state: OK
+wootax/28724:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '74083'
+    location_type: postcode
+  name: WANN TOWN
+  order: '0'
+  priority: '0'
+  rate: '8.5'
+  shipping: '0'
+  state: OK
+wootax/28725:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '74084'
+    location_type: postcode
+  name: WYNONA TOWN
+  order: '0'
+  priority: '0'
+  rate: '9.75'
+  shipping: '0'
+  state: OK
+wootax/28726:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '74085'
+    location_type: postcode
+  name: PAYNE COUNTY
+  order: '0'
+  priority: '0'
+  rate: '5.313'
+  shipping: '0'
+  state: OK
+wootax/28727:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '74101'
+    location_type: postcode
+  name: TULSA (TULSA CO)
+  order: '0'
+  priority: '0'
+  rate: '8.517'
+  shipping: '0'
+  state: OK
+wootax/28728:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '74103'
+    location_type: postcode
+  name: TULSA (TULSA CO)
+  order: '0'
+  priority: '0'
+  rate: '8.517'
+  shipping: '0'
+  state: OK
+wootax/28729:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '74104'
+    location_type: postcode
+  name: TULSA (TULSA CO)
+  order: '0'
+  priority: '0'
+  rate: '8.517'
+  shipping: '0'
+  state: OK
+wootax/28730:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '74105'
+    location_type: postcode
+  name: TULSA (TULSA CO)
+  order: '0'
+  priority: '0'
+  rate: '8.517'
+  shipping: '0'
+  state: OK
+wootax/28731:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '74106'
+    location_type: postcode
+  name: TULSA (TULSA CO)
+  order: '0'
+  priority: '0'
+  rate: '8.517'
+  shipping: '0'
+  state: OK
+wootax/28732:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '74107'
+    location_type: postcode
+  name: TULSA (TULSA CO)
+  order: '0'
+  priority: '0'
+  rate: '8.517'
+  shipping: '0'
+  state: OK
+wootax/28733:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '74108'
+    location_type: postcode
+  name: TULSA (TULSA CO)
+  order: '0'
+  priority: '0'
+  rate: '8.517'
+  shipping: '0'
+  state: OK
+wootax/28734:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '74110'
+    location_type: postcode
+  name: TULSA (TULSA CO)
+  order: '0'
+  priority: '0'
+  rate: '8.517'
+  shipping: '0'
+  state: OK
+wootax/28735:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '74112'
+    location_type: postcode
+  name: TULSA (TULSA CO)
+  order: '0'
+  priority: '0'
+  rate: '8.517'
+  shipping: '0'
+  state: OK
+wootax/28736:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '74114'
+    location_type: postcode
+  name: TULSA (TULSA CO)
+  order: '0'
+  priority: '0'
+  rate: '8.517'
+  shipping: '0'
+  state: OK
+wootax/28737:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '74115'
+    location_type: postcode
+  name: TULSA (TULSA CO)
+  order: '0'
+  priority: '0'
+  rate: '8.517'
+  shipping: '0'
+  state: OK
+wootax/28738:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '74116'
+    location_type: postcode
+  name: TULSA (TULSA CO)
+  order: '0'
+  priority: '0'
+  rate: '8.517'
+  shipping: '0'
+  state: OK
+wootax/28739:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '74117'
+    location_type: postcode
+  name: TULSA COUNTY
+  order: '0'
+  priority: '0'
+  rate: '4.867'
+  shipping: '0'
+  state: OK
+wootax/28740:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '74119'
+    location_type: postcode
+  name: TULSA (TULSA CO)
+  order: '0'
+  priority: '0'
+  rate: '8.517'
+  shipping: '0'
+  state: OK
+wootax/28741:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '74120'
+    location_type: postcode
+  name: TULSA (TULSA CO)
+  order: '0'
+  priority: '0'
+  rate: '8.517'
+  shipping: '0'
+  state: OK
+wootax/28742:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '74126'
+    location_type: postcode
+  name: TULSA (TULSA CO)
+  order: '0'
+  priority: '0'
+  rate: '8.517'
+  shipping: '0'
+  state: OK
+wootax/28743:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '74127'
+    location_type: postcode
+  name: TULSA (TULSA CO)
+  order: '0'
+  priority: '0'
+  rate: '8.517'
+  shipping: '0'
+  state: OK
+wootax/28744:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '74128'
+    location_type: postcode
+  name: TULSA (TULSA CO)
+  order: '0'
+  priority: '0'
+  rate: '8.517'
+  shipping: '0'
+  state: OK
+wootax/28745:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '74129'
+    location_type: postcode
+  name: TULSA (TULSA CO)
+  order: '0'
+  priority: '0'
+  rate: '8.517'
+  shipping: '0'
+  state: OK
+wootax/28746:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '74130'
+    location_type: postcode
+  name: TULSA COUNTY
+  order: '0'
+  priority: '0'
+  rate: '4.867'
+  shipping: '0'
+  state: OK
+wootax/28747:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '74131'
+    location_type: postcode
+  name: CREEK COUNTY
+  order: '0'
+  priority: '0'
+  rate: '5.5'
+  shipping: '0'
+  state: OK
+wootax/28748:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '74132'
+    location_type: postcode
+  name: TULSA (TULSA CO)
+  order: '0'
+  priority: '0'
+  rate: '8.517'
+  shipping: '0'
+  state: OK
+wootax/28749:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '74133'
+    location_type: postcode
+  name: TULSA (TULSA CO)
+  order: '0'
+  priority: '0'
+  rate: '8.517'
+  shipping: '0'
+  state: OK
+wootax/28750:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '74134'
+    location_type: postcode
+  name: TULSA (TULSA CO)
+  order: '0'
+  priority: '0'
+  rate: '8.517'
+  shipping: '0'
+  state: OK
+wootax/28751:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '74135'
+    location_type: postcode
+  name: TULSA (TULSA CO)
+  order: '0'
+  priority: '0'
+  rate: '8.517'
+  shipping: '0'
+  state: OK
+wootax/28752:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '74136'
+    location_type: postcode
+  name: TULSA (TULSA CO)
+  order: '0'
+  priority: '0'
+  rate: '8.517'
+  shipping: '0'
+  state: OK
+wootax/28753:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '74137'
+    location_type: postcode
+  name: TULSA (TULSA CO)
+  order: '0'
+  priority: '0'
+  rate: '8.517'
+  shipping: '0'
+  state: OK
+wootax/28754:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '74141'
+    location_type: postcode
+  name: TULSA (TULSA CO)
+  order: '0'
+  priority: '0'
+  rate: '8.517'
+  shipping: '0'
+  state: OK
+wootax/28755:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '74145'
+    location_type: postcode
+  name: TULSA (TULSA CO)
+  order: '0'
+  priority: '0'
+  rate: '8.517'
+  shipping: '0'
+  state: OK
+wootax/28756:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '74146'
+    location_type: postcode
+  name: TULSA (TULSA CO)
+  order: '0'
+  priority: '0'
+  rate: '8.517'
+  shipping: '0'
+  state: OK
+wootax/28757:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '74147'
+    location_type: postcode
+  name: TULSA (TULSA CO)
+  order: '0'
+  priority: '0'
+  rate: '8.517'
+  shipping: '0'
+  state: OK
+wootax/28758:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '74148'
+    location_type: postcode
+  name: TULSA (TULSA CO)
+  order: '0'
+  priority: '0'
+  rate: '8.517'
+  shipping: '0'
+  state: OK
+wootax/28759:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '74149'
+    location_type: postcode
+  name: TULSA (TULSA CO)
+  order: '0'
+  priority: '0'
+  rate: '8.517'
+  shipping: '0'
+  state: OK
+wootax/28760:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '74150'
+    location_type: postcode
+  name: TULSA (TULSA CO)
+  order: '0'
+  priority: '0'
+  rate: '8.517'
+  shipping: '0'
+  state: OK
+wootax/28761:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '74152'
+    location_type: postcode
+  name: TULSA (TULSA CO)
+  order: '0'
+  priority: '0'
+  rate: '8.517'
+  shipping: '0'
+  state: OK
+wootax/28762:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '74153'
+    location_type: postcode
+  name: TULSA (TULSA CO)
+  order: '0'
+  priority: '0'
+  rate: '8.517'
+  shipping: '0'
+  state: OK
+wootax/28763:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '74155'
+    location_type: postcode
+  name: TULSA (TULSA CO)
+  order: '0'
+  priority: '0'
+  rate: '8.517'
+  shipping: '0'
+  state: OK
+wootax/28764:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '74156'
+    location_type: postcode
+  name: TULSA (TULSA CO)
+  order: '0'
+  priority: '0'
+  rate: '8.517'
+  shipping: '0'
+  state: OK
+wootax/28765:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '74157'
+    location_type: postcode
+  name: TULSA (TULSA CO)
+  order: '0'
+  priority: '0'
+  rate: '8.517'
+  shipping: '0'
+  state: OK
+wootax/28766:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '74158'
+    location_type: postcode
+  name: TULSA (TULSA CO)
+  order: '0'
+  priority: '0'
+  rate: '8.517'
+  shipping: '0'
+  state: OK
+wootax/28767:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '74159'
+    location_type: postcode
+  name: TULSA (TULSA CO)
+  order: '0'
+  priority: '0'
+  rate: '8.517'
+  shipping: '0'
+  state: OK
+wootax/28768:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '74169'
+    location_type: postcode
+  name: TULSA (TULSA CO)
+  order: '0'
+  priority: '0'
+  rate: '8.517'
+  shipping: '0'
+  state: OK
+wootax/28769:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '74170'
+    location_type: postcode
+  name: TULSA (TULSA CO)
+  order: '0'
+  priority: '0'
+  rate: '8.517'
+  shipping: '0'
+  state: OK
+wootax/28770:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '74171'
+    location_type: postcode
+  name: TULSA (TULSA CO)
+  order: '0'
+  priority: '0'
+  rate: '8.517'
+  shipping: '0'
+  state: OK
+wootax/28771:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '74172'
+    location_type: postcode
+  name: TULSA (TULSA CO)
+  order: '0'
+  priority: '0'
+  rate: '8.517'
+  shipping: '0'
+  state: OK
+wootax/28772:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '74182'
+    location_type: postcode
+  name: TULSA (TULSA CO)
+  order: '0'
+  priority: '0'
+  rate: '8.517'
+  shipping: '0'
+  state: OK
+wootax/28773:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '74186'
+    location_type: postcode
+  name: TULSA (TULSA CO)
+  order: '0'
+  priority: '0'
+  rate: '8.517'
+  shipping: '0'
+  state: OK
+wootax/28774:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '74187'
+    location_type: postcode
+  name: TULSA (TULSA CO)
+  order: '0'
+  priority: '0'
+  rate: '8.517'
+  shipping: '0'
+  state: OK
+wootax/28775:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '74192'
+    location_type: postcode
+  name: TULSA (TULSA CO)
+  order: '0'
+  priority: '0'
+  rate: '8.517'
+  shipping: '0'
+  state: OK
+wootax/28776:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '74193'
+    location_type: postcode
+  name: TULSA (TULSA CO)
+  order: '0'
+  priority: '0'
+  rate: '8.517'
+  shipping: '0'
+  state: OK
+wootax/28777:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '74301'
+    location_type: postcode
+  name: CRAIG COUNTY
+  order: '0'
+  priority: '0'
+  rate: '6.5'
+  shipping: '0'
+  state: OK
+wootax/28778:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '74330'
+    location_type: postcode
+  name: MAYES COUNTY
+  order: '0'
+  priority: '0'
+  rate: '5.875'
+  shipping: '0'
+  state: OK
+wootax/28779:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '74331'
+    location_type: postcode
+  name: DELAWARE COUNTY
+  order: '0'
+  priority: '0'
+  rate: '5.9'
+  shipping: '0'
+  state: OK
+wootax/28780:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '74332'
+    location_type: postcode
+  name: CRAIG COUNTY
+  order: '0'
+  priority: '0'
+  rate: '6.5'
+  shipping: '0'
+  state: OK
+wootax/28781:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '74333'
+    location_type: postcode
+  name: CRAIG COUNTY
+  order: '0'
+  priority: '0'
+  rate: '6.5'
+  shipping: '0'
+  state: OK
+wootax/28782:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '74335'
+    location_type: postcode
+  name: OTTAWA COUNTY
+  order: '0'
+  priority: '0'
+  rate: '5.85'
+  shipping: '0'
+  state: OK
+wootax/28783:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '74337'
+    location_type: postcode
+  name: MAYES COUNTY
+  order: '0'
+  priority: '0'
+  rate: '5.875'
+  shipping: '0'
+  state: OK
+wootax/28784:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '74338'
+    location_type: postcode
+  name: DELAWARE COUNTY
+  order: '0'
+  priority: '0'
+  rate: '5.9'
+  shipping: '0'
+  state: OK
+wootax/28785:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '74339'
+    location_type: postcode
+  name: COMMERCE
+  order: '0'
+  priority: '0'
+  rate: '9.85'
+  shipping: '0'
+  state: OK
+wootax/28786:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '74340'
+    location_type: postcode
+  name: DISNEY TOWN
+  order: '0'
+  priority: '0'
+  rate: '9.75'
+  shipping: '0'
+  state: OK
+wootax/28787:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '74342'
+    location_type: postcode
+  name: DELAWARE COUNTY
+  order: '0'
+  priority: '0'
+  rate: '5.9'
+  shipping: '0'
+  state: OK
+wootax/28788:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '74343'
+    location_type: postcode
+  name: OTTAWA COUNTY
+  order: '0'
+  priority: '0'
+  rate: '5.85'
+  shipping: '0'
+  state: OK
+wootax/28789:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '74344'
+    location_type: postcode
+  name: DELAWARE COUNTY
+  order: '0'
+  priority: '0'
+  rate: '5.9'
+  shipping: '0'
+  state: OK
+wootax/28790:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '74345'
+    location_type: postcode
+  name: GROVE
+  order: '0'
+  priority: '0'
+  rate: '9.3'
+  shipping: '0'
+  state: OK
+wootax/28791:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '74346'
+    location_type: postcode
+  name: DELAWARE COUNTY
+  order: '0'
+  priority: '0'
+  rate: '5.9'
+  shipping: '0'
+  state: OK
+wootax/28792:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '74347'
+    location_type: postcode
+  name: DELAWARE COUNTY
+  order: '0'
+  priority: '0'
+  rate: '5.9'
+  shipping: '0'
+  state: OK
+wootax/28793:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '74349'
+    location_type: postcode
+  name: KETCHUM TOWN
+  order: '0'
+  priority: '0'
+  rate: '9.5'
+  shipping: '0'
+  state: OK
+wootax/28794:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '74350'
+    location_type: postcode
+  name: LANGLEY TOWN
+  order: '0'
+  priority: '0'
+  rate: '8.875'
+  shipping: '0'
+  state: OK
+wootax/28795:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '74352'
+    location_type: postcode
+  name: MAYES COUNTY
+  order: '0'
+  priority: '0'
+  rate: '5.875'
+  shipping: '0'
+  state: OK
+wootax/28796:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '74354'
+    location_type: postcode
+  name: MIAMI
+  order: '0'
+  priority: '0'
+  rate: '9.5'
+  shipping: '0'
+  state: OK
+wootax/28797:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '74358'
+    location_type: postcode
+  name: NORTH MIAMI TOWN
+  order: '0'
+  priority: '0'
+  rate: '9.35'
+  shipping: '0'
+  state: OK
+wootax/28798:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '74359'
+    location_type: postcode
+  name: OAKS (DELAWARE CO)
+  order: '0'
+  priority: '0'
+  rate: '8.9'
+  shipping: '0'
+  state: OK
+wootax/28799:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '74360'
+    location_type: postcode
+  name: OTTAWA COUNTY
+  order: '0'
+  priority: '0'
+  rate: '5.85'
+  shipping: '0'
+  state: OK
+wootax/28800:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '74361'
+    location_type: postcode
+  name: MAYES COUNTY
+  order: '0'
+  priority: '0'
+  rate: '5.875'
+  shipping: '0'
+  state: OK
+wootax/28801:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '74363'
+    location_type: postcode
+  name: OTTAWA COUNTY
+  order: '0'
+  priority: '0'
+  rate: '5.85'
+  shipping: '0'
+  state: OK
+wootax/28802:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '74364'
+    location_type: postcode
+  name: DELAWARE COUNTY
+  order: '0'
+  priority: '0'
+  rate: '5.9'
+  shipping: '0'
+  state: OK
+wootax/28803:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '74365'
+    location_type: postcode
+  name: MAYES COUNTY
+  order: '0'
+  priority: '0'
+  rate: '5.875'
+  shipping: '0'
+  state: OK
+wootax/28804:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '74366'
+    location_type: postcode
+  name: MAYES COUNTY
+  order: '0'
+  priority: '0'
+  rate: '5.875'
+  shipping: '0'
+  state: OK
+wootax/28805:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '74367'
+    location_type: postcode
+  name: MAYES COUNTY
+  order: '0'
+  priority: '0'
+  rate: '5.875'
+  shipping: '0'
+  state: OK
+wootax/28806:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '74368'
+    location_type: postcode
+  name: DELAWARE COUNTY
+  order: '0'
+  priority: '0'
+  rate: '5.9'
+  shipping: '0'
+  state: OK
+wootax/28807:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '74369'
+    location_type: postcode
+  name: CRAIG COUNTY
+  order: '0'
+  priority: '0'
+  rate: '6.5'
+  shipping: '0'
+  state: OK
+wootax/28808:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '74370'
+    location_type: postcode
+  name: OTTAWA COUNTY
+  order: '0'
+  priority: '0'
+  rate: '5.85'
+  shipping: '0'
+  state: OK
+wootax/28809:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '74401'
+    location_type: postcode
+  name: MUSKOGEE
+  order: '0'
+  priority: '0'
+  rate: '9.15'
+  shipping: '0'
+  state: OK
+wootax/28810:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '74402'
+    location_type: postcode
+  name: MUSKOGEE
+  order: '0'
+  priority: '0'
+  rate: '9.15'
+  shipping: '0'
+  state: OK
+wootax/28811:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '74403'
+    location_type: postcode
+  name: MUSKOGEE
+  order: '0'
+  priority: '0'
+  rate: '9.15'
+  shipping: '0'
+  state: OK
+wootax/28812:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '74421'
+    location_type: postcode
+  name: OKMULGEE COUNTY
+  order: '0'
+  priority: '0'
+  rate: '6.083'
+  shipping: '0'
+  state: OK
+wootax/28813:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '74422'
+    location_type: postcode
+  name: OKMULGEE COUNTY
+  order: '0'
+  priority: '0'
+  rate: '6.083'
+  shipping: '0'
+  state: OK
+wootax/28814:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '74423'
+    location_type: postcode
+  name: BRAGGS TOWN
+  order: '0'
+  priority: '0'
+  rate: '8.15'
+  shipping: '0'
+  state: OK
+wootax/28815:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '74425'
+    location_type: postcode
+  name: PITTSBURG COUNTY
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '0'
+  state: OK
+wootax/28816:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '74426'
+    location_type: postcode
+  name: CHECOTAH
+  order: '0'
+  priority: '0'
+  rate: '10.5'
+  shipping: '0'
+  state: OK
+wootax/28817:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '74427'
+    location_type: postcode
+  name: CHEROKEE COUNTY
+  order: '0'
+  priority: '0'
+  rate: '6.25'
+  shipping: '0'
+  state: OK
+wootax/28818:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '74428'
+    location_type: postcode
+  name: COUNCIL HILL TOWN
+  order: '0'
+  priority: '0'
+  rate: '7.15'
+  shipping: '0'
+  state: OK
+wootax/28819:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '74429'
+    location_type: postcode
+  name: WAGONER COUNTY
+  order: '0'
+  priority: '0'
+  rate: '5.8'
+  shipping: '0'
+  state: OK
+wootax/28820:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '74430'
+    location_type: postcode
+  name: CROWDER TOWN
+  order: '0'
+  priority: '0'
+  rate: '10'
+  shipping: '0'
+  state: OK
+wootax/28821:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '74431'
+    location_type: postcode
+  name: BERNICE TOWN
+  order: '0'
+  priority: '0'
+  rate: '9.4'
+  shipping: '0'
+  state: OK
+wootax/28822:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '74432'
+    location_type: postcode
+  name: EUFAULA
+  order: '0'
+  priority: '0'
+  rate: '10'
+  shipping: '0'
+  state: OK
+wootax/28823:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '74434'
+    location_type: postcode
+  name: CHEROKEE COUNTY
+  order: '0'
+  priority: '0'
+  rate: '6.25'
+  shipping: '0'
+  state: OK
+wootax/28824:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '74435'
+    location_type: postcode
+  name: GORE TOWN
+  order: '0'
+  priority: '0'
+  rate: '9.917'
+  shipping: '0'
+  state: OK
+wootax/28825:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '74436'
+    location_type: postcode
+  name: HASKELL TOWN
+  order: '0'
+  priority: '0'
+  rate: '9.5'
+  shipping: '0'
+  state: OK
+wootax/28826:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '74437'
+    location_type: postcode
+  name: HENRYETTA
+  order: '0'
+  priority: '0'
+  rate: '10.083'
+  shipping: '0'
+  state: OK
+wootax/28827:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '74438'
+    location_type: postcode
+  name: HITCHITA
+  order: '0'
+  priority: '0'
+  rate: '6.5'
+  shipping: '0'
+  state: OK
+wootax/28828:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '74439'
+    location_type: postcode
+  name: BRAGGS TOWN
+  order: '0'
+  priority: '0'
+  rate: '8.15'
+  shipping: '0'
+  state: OK
+wootax/28829:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '74441'
+    location_type: postcode
+  name: CHEROKEE COUNTY
+  order: '0'
+  priority: '0'
+  rate: '6.25'
+  shipping: '0'
+  state: OK
+wootax/28830:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '74442'
+    location_type: postcode
+  name: PITTSBURG COUNTY
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '0'
+  state: OK
+wootax/28831:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '74444'
+    location_type: postcode
+  name: CHEROKEE COUNTY
+  order: '0'
+  priority: '0'
+  rate: '6.25'
+  shipping: '0'
+  state: OK
+wootax/28832:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '74445'
+    location_type: postcode
+  name: OKMULGEE COUNTY
+  order: '0'
+  priority: '0'
+  rate: '6.083'
+  shipping: '0'
+  state: OK
+wootax/28833:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '74446'
+    location_type: postcode
+  name: OKAY TOWN
+  order: '0'
+  priority: '0'
+  rate: '9.8'
+  shipping: '0'
+  state: OK
+wootax/28834:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '74447'
+    location_type: postcode
+  name: OKMULGEE
+  order: '0'
+  priority: '0'
+  rate: '10.083'
+  shipping: '0'
+  state: OK
+wootax/28835:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '74450'
+    location_type: postcode
+  name: MUSKOGEE COUNTY
+  order: '0'
+  priority: '0'
+  rate: '5.15'
+  shipping: '0'
+  state: OK
+wootax/28836:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '74451'
+    location_type: postcode
+  name: CHEROKEE COUNTY
+  order: '0'
+  priority: '0'
+  rate: '6.25'
+  shipping: '0'
+  state: OK
+wootax/28837:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '74452'
+    location_type: postcode
+  name: CHEROKEE COUNTY
+  order: '0'
+  priority: '0'
+  rate: '6.25'
+  shipping: '0'
+  state: OK
+wootax/28838:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '74454'
+    location_type: postcode
+  name: WAGONER COUNTY
+  order: '0'
+  priority: '0'
+  rate: '5.8'
+  shipping: '0'
+  state: OK
+wootax/28839:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '74455'
+    location_type: postcode
+  name: PORUM TOWN
+  order: '0'
+  priority: '0'
+  rate: '10.15'
+  shipping: '0'
+  state: OK
+wootax/28840:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '74456'
+    location_type: postcode
+  name: OKMULGEE COUNTY
+  order: '0'
+  priority: '0'
+  rate: '6.083'
+  shipping: '0'
+  state: OK
+wootax/28841:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '74457'
+    location_type: postcode
+  name: CHEROKEE COUNTY
+  order: '0'
+  priority: '0'
+  rate: '6.25'
+  shipping: '0'
+  state: OK
+wootax/28842:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '74458'
+    location_type: postcode
+  name: REDBIRD
+  order: '0'
+  priority: '0'
+  rate: '5.8'
+  shipping: '0'
+  state: OK
+wootax/28843:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '74459'
+    location_type: postcode
+  name: RENTIESVILLE TOWN
+  order: '0'
+  priority: '0'
+  rate: '10.5'
+  shipping: '0'
+  state: OK
+wootax/28844:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '74460'
+    location_type: postcode
+  name: SCHULTER TOWN
+  order: '0'
+  priority: '0'
+  rate: '6.583'
+  shipping: '0'
+  state: OK
+wootax/28845:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '74461'
+    location_type: postcode
+  name: MCINTOSH COUNTY
+  order: '0'
+  priority: '0'
+  rate: '6.5'
+  shipping: '0'
+  state: OK
+wootax/28846:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '74462'
+    location_type: postcode
+  name: STIGLER
+  order: '0'
+  priority: '0'
+  rate: '10'
+  shipping: '0'
+  state: OK
+wootax/28847:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '74463'
+    location_type: postcode
+  name: TAFT TOWN
+  order: '0'
+  priority: '0'
+  rate: '9.15'
+  shipping: '0'
+  state: OK
+wootax/28848:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '74464'
+    location_type: postcode
+  name: TAHLEQUAH
+  order: '0'
+  priority: '0'
+  rate: '9.5'
+  shipping: '0'
+  state: OK
+wootax/28849:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '74465'
+    location_type: postcode
+  name: TAHLEQUAH
+  order: '0'
+  priority: '0'
+  rate: '9.5'
+  shipping: '0'
+  state: OK
+wootax/28850:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '74467'
+    location_type: postcode
+  name: WAGONER
+  order: '0'
+  priority: '0'
+  rate: '9.8'
+  shipping: '0'
+  state: OK
+wootax/28851:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '74468'
+    location_type: postcode
+  name: WAINWRIGHT TOWN
+  order: '0'
+  priority: '0'
+  rate: '9.15'
+  shipping: '0'
+  state: OK
+wootax/28852:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '74469'
+    location_type: postcode
+  name: WARNER TOWN
+  order: '0'
+  priority: '0'
+  rate: '9.15'
+  shipping: '0'
+  state: OK
+wootax/28853:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '74470'
+    location_type: postcode
+  name: WEBBERS FALLS TOWN
+  order: '0'
+  priority: '0'
+  rate: '10.65'
+  shipping: '0'
+  state: OK
+wootax/28854:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '74471'
+    location_type: postcode
+  name: CHEROKEE COUNTY
+  order: '0'
+  priority: '0'
+  rate: '6.25'
+  shipping: '0'
+  state: OK
+wootax/28855:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '74472'
+    location_type: postcode
+  name: WHITEFIELD TOWN
+  order: '0'
+  priority: '0'
+  rate: '9.5'
+  shipping: '0'
+  state: OK
+wootax/28856:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '74501'
+    location_type: postcode
+  name: MCALESTER
+  order: '0'
+  priority: '0'
+  rate: '9.75'
+  shipping: '0'
+  state: OK
+wootax/28857:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '74521'
+    location_type: postcode
+  name: ALBION
+  order: '0'
+  priority: '0'
+  rate: '6.5'
+  shipping: '0'
+  state: OK
+wootax/28858:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '74522'
+    location_type: postcode
+  name: ALDERSON TOWN
+  order: '0'
+  priority: '0'
+  rate: '8'
+  shipping: '0'
+  state: OK
+wootax/28859:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '74523'
+    location_type: postcode
+  name: ANTLERS
+  order: '0'
+  priority: '0'
+  rate: '10'
+  shipping: '0'
+  state: OK
+wootax/28860:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '74525'
+    location_type: postcode
+  name: ATOKA COUNTY
+  order: '0'
+  priority: '0'
+  rate: '6.25'
+  shipping: '0'
+  state: OK
+wootax/28861:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '74528'
+    location_type: postcode
+  name: PITTSBURG COUNTY
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '0'
+  state: OK
+wootax/28862:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '74529'
+    location_type: postcode
+  name: PITTSBURG COUNTY
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '0'
+  state: OK
+wootax/28863:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '74530'
+    location_type: postcode
+  name: BROMIDE
+  order: '0'
+  priority: '0'
+  rate: '6.5'
+  shipping: '0'
+  state: OK
+wootax/28864:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '74531'
+    location_type: postcode
+  name: HUGHES COUNTY
+  order: '0'
+  priority: '0'
+  rate: '5.5'
+  shipping: '0'
+  state: OK
+wootax/28865:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '74533'
+    location_type: postcode
+  name: ATOKA COUNTY
+  order: '0'
+  priority: '0'
+  rate: '6.25'
+  shipping: '0'
+  state: OK
+wootax/28866:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '74534'
+    location_type: postcode
+  name: CENTRAHOMA
+  order: '0'
+  priority: '0'
+  rate: '6.5'
+  shipping: '0'
+  state: OK
+wootax/28867:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '74535'
+    location_type: postcode
+  name: COAL COUNTY
+  order: '0'
+  priority: '0'
+  rate: '6.5'
+  shipping: '0'
+  state: OK
+wootax/28868:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '74536'
+    location_type: postcode
+  name: CLAYTON TOWN
+  order: '0'
+  priority: '0'
+  rate: '10.5'
+  shipping: '0'
+  state: OK
+wootax/28869:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '74538'
+    location_type: postcode
+  name: COALGATE
+  order: '0'
+  priority: '0'
+  rate: '9.5'
+  shipping: '0'
+  state: OK
+wootax/28870:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '74540'
+    location_type: postcode
+  name: ATOKA COUNTY
+  order: '0'
+  priority: '0'
+  rate: '6.25'
+  shipping: '0'
+  state: OK
+wootax/28871:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '74543'
+    location_type: postcode
+  name: PUSHMATAHA COUNTY
+  order: '0'
+  priority: '0'
+  rate: '6.5'
+  shipping: '0'
+  state: OK
+wootax/28872:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '74545'
+    location_type: postcode
+  name: LATIMER COUNTY
+  order: '0'
+  priority: '0'
+  rate: '6.25'
+  shipping: '0'
+  state: OK
+wootax/28873:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '74546'
+    location_type: postcode
+  name: HAILEYVILLE
+  order: '0'
+  priority: '0'
+  rate: '9'
+  shipping: '0'
+  state: OK
+wootax/28874:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '74547'
+    location_type: postcode
+  name: HARTSHORNE
+  order: '0'
+  priority: '0'
+  rate: '9.25'
+  shipping: '0'
+  state: OK
+wootax/28875:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '74549'
+    location_type: postcode
+  name: LEFLORE COUNTY
+  order: '0'
+  priority: '0'
+  rate: '6.5'
+  shipping: '0'
+  state: OK
+wootax/28876:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '74552'
+    location_type: postcode
+  name: HASKELL COUNTY
+  order: '0'
+  priority: '0'
+  rate: '6.5'
+  shipping: '0'
+  state: OK
+wootax/28877:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '74553'
+    location_type: postcode
+  name: PITTSBURG COUNTY
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '0'
+  state: OK
+wootax/28878:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '74554'
+    location_type: postcode
+  name: KREBS
+  order: '0'
+  priority: '0'
+  rate: '10'
+  shipping: '0'
+  state: OK
+wootax/28879:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '74555'
+    location_type: postcode
+  name: ATOKA COUNTY
+  order: '0'
+  priority: '0'
+  rate: '6.25'
+  shipping: '0'
+  state: OK
+wootax/28880:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '74556'
+    location_type: postcode
+  name: LEHIGH
+  order: '0'
+  priority: '0'
+  rate: '8.5'
+  shipping: '0'
+  state: OK
+wootax/28881:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '74557'
+    location_type: postcode
+  name: PUSHMATAHA COUNTY
+  order: '0'
+  priority: '0'
+  rate: '6.5'
+  shipping: '0'
+  state: OK
+wootax/28882:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '74558'
+    location_type: postcode
+  name: PUSHMATAHA COUNTY
+  order: '0'
+  priority: '0'
+  rate: '6.5'
+  shipping: '0'
+  state: OK
+wootax/28883:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '74559'
+    location_type: postcode
+  name: LATIMER COUNTY
+  order: '0'
+  priority: '0'
+  rate: '6.25'
+  shipping: '0'
+  state: OK
+wootax/28884:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '74560'
+    location_type: postcode
+  name: PITTSBURG COUNTY
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '0'
+  state: OK
+wootax/28885:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '74561'
+    location_type: postcode
+  name: PITTSBURG COUNTY
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '0'
+  state: OK
+wootax/28886:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '74562'
+    location_type: postcode
+  name: RATTAN TOWN
+  order: '0'
+  priority: '0'
+  rate: '10'
+  shipping: '0'
+  state: OK
+wootax/28887:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '74563'
+    location_type: postcode
+  name: LATIMER COUNTY
+  order: '0'
+  priority: '0'
+  rate: '6.25'
+  shipping: '0'
+  state: OK
+wootax/28888:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '74565'
+    location_type: postcode
+  name: SAVANNA TOWN
+  order: '0'
+  priority: '0'
+  rate: '11'
+  shipping: '0'
+  state: OK
+wootax/28889:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '74567'
+    location_type: postcode
+  name: PUSHMATAHA COUNTY
+  order: '0'
+  priority: '0'
+  rate: '6.5'
+  shipping: '0'
+  state: OK
+wootax/28890:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '74569'
+    location_type: postcode
+  name: ATOKA COUNTY
+  order: '0'
+  priority: '0'
+  rate: '6.25'
+  shipping: '0'
+  state: OK
+wootax/28891:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '74570'
+    location_type: postcode
+  name: PITTSBURG COUNTY
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '0'
+  state: OK
+wootax/28892:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '74571'
+    location_type: postcode
+  name: LEFLORE COUNTY
+  order: '0'
+  priority: '0'
+  rate: '6.5'
+  shipping: '0'
+  state: OK
+wootax/28893:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '74572'
+    location_type: postcode
+  name: TUPELO
+  order: '0'
+  priority: '0'
+  rate: '9.5'
+  shipping: '0'
+  state: OK
+wootax/28894:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '74574'
+    location_type: postcode
+  name: LATIMER COUNTY
+  order: '0'
+  priority: '0'
+  rate: '6.25'
+  shipping: '0'
+  state: OK
+wootax/28895:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '74576'
+    location_type: postcode
+  name: PITTSBURG COUNTY
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '0'
+  state: OK
+wootax/28896:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '74577'
+    location_type: postcode
+  name: LEFLORE COUNTY
+  order: '0'
+  priority: '0'
+  rate: '6.5'
+  shipping: '0'
+  state: OK
+wootax/28897:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '74578'
+    location_type: postcode
+  name: LATIMER COUNTY
+  order: '0'
+  priority: '0'
+  rate: '6.25'
+  shipping: '0'
+  state: OK
+wootax/28898:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '74601'
+    location_type: postcode
+  name: PONCA
+  order: '0'
+  priority: '0'
+  rate: '8.667'
+  shipping: '0'
+  state: OK
+wootax/28899:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '74602'
+    location_type: postcode
+  name: PONCA
+  order: '0'
+  priority: '0'
+  rate: '8.667'
+  shipping: '0'
+  state: OK
+wootax/28900:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '74604'
+    location_type: postcode
+  name: PONCA
+  order: '0'
+  priority: '0'
+  rate: '8.667'
+  shipping: '0'
+  state: OK
+wootax/28901:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '74630'
+    location_type: postcode
+  name: NOBLE COUNTY
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '0'
+  state: OK
+wootax/28902:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '74631'
+    location_type: postcode
+  name: BLACKWELL
+  order: '0'
+  priority: '0'
+  rate: '10.167'
+  shipping: '0'
+  state: OK
+wootax/28903:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '74632'
+    location_type: postcode
+  name: KAY COUNTY
+  order: '0'
+  priority: '0'
+  rate: '5.167'
+  shipping: '0'
+  state: OK
+wootax/28904:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '74633'
+    location_type: postcode
+  name: OSAGE COUNTY
+  order: '0'
+  priority: '0'
+  rate: '5.75'
+  shipping: '0'
+  state: OK
+wootax/28905:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '74636'
+    location_type: postcode
+  name: GRANT COUNTY
+  order: '0'
+  priority: '0'
+  rate: '5.75'
+  shipping: '0'
+  state: OK
+wootax/28906:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '74637'
+    location_type: postcode
+  name: FAIRFAX TOWN
+  order: '0'
+  priority: '0'
+  rate: '8.75'
+  shipping: '0'
+  state: OK
+wootax/28907:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '74640'
+    location_type: postcode
+  name: GARFIELD COUNTY
+  order: '0'
+  priority: '0'
+  rate: '4.85'
+  shipping: '0'
+  state: OK
+wootax/28908:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '74641'
+    location_type: postcode
+  name: KAY COUNTY
+  order: '0'
+  priority: '0'
+  rate: '5.167'
+  shipping: '0'
+  state: OK
+wootax/28909:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '74643'
+    location_type: postcode
+  name: GRANT COUNTY
+  order: '0'
+  priority: '0'
+  rate: '5.75'
+  shipping: '0'
+  state: OK
+wootax/28910:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '74644'
+    location_type: postcode
+  name: NOBLE COUNTY
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '0'
+  state: OK
+wootax/28911:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '74646'
+    location_type: postcode
+  name: KAY COUNTY
+  order: '0'
+  priority: '0'
+  rate: '5.167'
+  shipping: '0'
+  state: OK
+wootax/28912:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '74647'
+    location_type: postcode
+  name: KAY COUNTY
+  order: '0'
+  priority: '0'
+  rate: '5.167'
+  shipping: '0'
+  state: OK
+wootax/28913:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '74650'
+    location_type: postcode
+  name: RALSTON TOWN
+  order: '0'
+  priority: '0'
+  rate: '9.5'
+  shipping: '0'
+  state: OK
+wootax/28914:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '74651'
+    location_type: postcode
+  name: NOBLE COUNTY
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '0'
+  state: OK
+wootax/28915:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '74652'
+    location_type: postcode
+  name: OSAGE COUNTY
+  order: '0'
+  priority: '0'
+  rate: '5.75'
+  shipping: '0'
+  state: OK
+wootax/28916:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '74653'
+    location_type: postcode
+  name: TONKAWA
+  order: '0'
+  priority: '0'
+  rate: '9.667'
+  shipping: '0'
+  state: OK
+wootax/28917:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '74701'
+    location_type: postcode
+  name: DURANT
+  order: '0'
+  priority: '0'
+  rate: '9.375'
+  shipping: '0'
+  state: OK
+wootax/28918:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '74702'
+    location_type: postcode
+  name: DURANT
+  order: '0'
+  priority: '0'
+  rate: '9.375'
+  shipping: '0'
+  state: OK
+wootax/28919:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '74720'
+    location_type: postcode
+  name: ACHILLE TOWN
+  order: '0'
+  priority: '0'
+  rate: '8'
+  shipping: '0'
+  state: OK
+wootax/28920:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '74721'
+    location_type: postcode
+  name: BRYAN COUNTY
+  order: '0'
+  priority: '0'
+  rate: '5'
+  shipping: '0'
+  state: OK
+wootax/28921:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '74722'
+    location_type: postcode
+  name: MCCURTAIN COUNTY
+  order: '0'
+  priority: '0'
+  rate: '6.25'
+  shipping: '0'
+  state: OK
+wootax/28922:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '74723'
+    location_type: postcode
+  name: BRYAN COUNTY
+  order: '0'
+  priority: '0'
+  rate: '5'
+  shipping: '0'
+  state: OK
+wootax/28923:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '74724'
+    location_type: postcode
+  name: MCCURTAIN COUNTY
+  order: '0'
+  priority: '0'
+  rate: '6.25'
+  shipping: '0'
+  state: OK
+wootax/28924:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '74726'
+    location_type: postcode
+  name: BRYAN COUNTY
+  order: '0'
+  priority: '0'
+  rate: '5'
+  shipping: '0'
+  state: OK
+wootax/28925:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '74727'
+    location_type: postcode
+  name: BOSWELL TOWN
+  order: '0'
+  priority: '0'
+  rate: '9.5'
+  shipping: '0'
+  state: OK
+wootax/28926:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '74728'
+    location_type: postcode
+  name: BROKEN BOW
+  order: '0'
+  priority: '0'
+  rate: '9.25'
+  shipping: '0'
+  state: OK
+wootax/28927:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '74729'
+    location_type: postcode
+  name: BRYAN COUNTY
+  order: '0'
+  priority: '0'
+  rate: '5'
+  shipping: '0'
+  state: OK
+wootax/28928:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '74730'
+    location_type: postcode
+  name: CALERA TOWN
+  order: '0'
+  priority: '0'
+  rate: '9'
+  shipping: '0'
+  state: OK
+wootax/28929:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '74731'
+    location_type: postcode
+  name: BRYAN COUNTY
+  order: '0'
+  priority: '0'
+  rate: '5'
+  shipping: '0'
+  state: OK
+wootax/28930:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '74733'
+    location_type: postcode
+  name: BRYAN COUNTY
+  order: '0'
+  priority: '0'
+  rate: '5'
+  shipping: '0'
+  state: OK
+wootax/28931:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '74734'
+    location_type: postcode
+  name: MCCURTAIN COUNTY
+  order: '0'
+  priority: '0'
+  rate: '6.25'
+  shipping: '0'
+  state: OK
+wootax/28932:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '74735'
+    location_type: postcode
+  name: FORT TOWSON TOWN
+  order: '0'
+  priority: '0'
+  rate: '10'
+  shipping: '0'
+  state: OK
+wootax/28933:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '74736'
+    location_type: postcode
+  name: MCCURTAIN COUNTY
+  order: '0'
+  priority: '0'
+  rate: '6.25'
+  shipping: '0'
+  state: OK
+wootax/28934:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '74737'
+    location_type: postcode
+  name: MCCURTAIN COUNTY
+  order: '0'
+  priority: '0'
+  rate: '6.25'
+  shipping: '0'
+  state: OK
+wootax/28935:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '74738'
+    location_type: postcode
+  name: CHOCTAW COUNTY
+  order: '0'
+  priority: '0'
+  rate: '6.5'
+  shipping: '0'
+  state: OK
+wootax/28936:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '74740'
+    location_type: postcode
+  name: HAWORTH TOWN
+  order: '0'
+  priority: '0'
+  rate: '9.75'
+  shipping: '0'
+  state: OK
+wootax/28937:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '74741'
+    location_type: postcode
+  name: BRYAN COUNTY
+  order: '0'
+  priority: '0'
+  rate: '5'
+  shipping: '0'
+  state: OK
+wootax/28938:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '74743'
+    location_type: postcode
+  name: HUGO
+  order: '0'
+  priority: '0'
+  rate: '10'
+  shipping: '0'
+  state: OK
+wootax/28939:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '74745'
+    location_type: postcode
+  name: IDABEL
+  order: '0'
+  priority: '0'
+  rate: '9.25'
+  shipping: '0'
+  state: OK
+wootax/28940:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '74748'
+    location_type: postcode
+  name: JOHNSTON COUNTY
+  order: '0'
+  priority: '0'
+  rate: '6.5'
+  shipping: '0'
+  state: OK
+wootax/28941:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '74750'
+    location_type: postcode
+  name: MILLERTON TOWN
+  order: '0'
+  priority: '0'
+  rate: '9.25'
+  shipping: '0'
+  state: OK
+wootax/28942:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '74752'
+    location_type: postcode
+  name: MCCURTAIN COUNTY
+  order: '0'
+  priority: '0'
+  rate: '6.25'
+  shipping: '0'
+  state: OK
+wootax/28943:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '74753'
+    location_type: postcode
+  name: BRYAN COUNTY
+  order: '0'
+  priority: '0'
+  rate: '5'
+  shipping: '0'
+  state: OK
+wootax/28944:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '74754'
+    location_type: postcode
+  name: MCCURTAIN COUNTY
+  order: '0'
+  priority: '0'
+  rate: '6.25'
+  shipping: '0'
+  state: OK
+wootax/28945:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '74755'
+    location_type: postcode
+  name: MCCURTAIN COUNTY
+  order: '0'
+  priority: '0'
+  rate: '6.25'
+  shipping: '0'
+  state: OK
+wootax/28946:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '74756'
+    location_type: postcode
+  name: SAWYER TOWN
+  order: '0'
+  priority: '0'
+  rate: '7.5'
+  shipping: '0'
+  state: OK
+wootax/28947:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '74759'
+    location_type: postcode
+  name: SOPER TOWN
+  order: '0'
+  priority: '0'
+  rate: '8.5'
+  shipping: '0'
+  state: OK
+wootax/28948:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '74760'
+    location_type: postcode
+  name: CHOCTAW COUNTY
+  order: '0'
+  priority: '0'
+  rate: '6.5'
+  shipping: '0'
+  state: OK
+wootax/28949:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '74761'
+    location_type: postcode
+  name: CHOCTAW COUNTY
+  order: '0'
+  priority: '0'
+  rate: '6.5'
+  shipping: '0'
+  state: OK
+wootax/28950:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '74764'
+    location_type: postcode
+  name: VALLIANT TOWN
+  order: '0'
+  priority: '0'
+  rate: '9.25'
+  shipping: '0'
+  state: OK
+wootax/28951:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '74766'
+    location_type: postcode
+  name: WRIGHT TOWN
+  order: '0'
+  priority: '0'
+  rate: '9.25'
+  shipping: '0'
+  state: OK
+wootax/28952:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '74801'
+    location_type: postcode
+  name: SHAWNEE
+  order: '0'
+  priority: '0'
+  rate: '9.495'
+  shipping: '0'
+  state: OK
+wootax/28953:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '74802'
+    location_type: postcode
+  name: SHAWNEE
+  order: '0'
+  priority: '0'
+  rate: '9.495'
+  shipping: '0'
+  state: OK
+wootax/28954:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '74804'
+    location_type: postcode
+  name: SHAWNEE
+  order: '0'
+  priority: '0'
+  rate: '9.495'
+  shipping: '0'
+  state: OK
+wootax/28955:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '74820'
+    location_type: postcode
+  name: ADA
+  order: '0'
+  priority: '0'
+  rate: '9.375'
+  shipping: '0'
+  state: OK
+wootax/28956:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '74821'
+    location_type: postcode
+  name: ADA
+  order: '0'
+  priority: '0'
+  rate: '9.375'
+  shipping: '0'
+  state: OK
+wootax/28957:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '74824'
+    location_type: postcode
+  name: LINCOLN COUNTY
+  order: '0'
+  priority: '0'
+  rate: '5.5'
+  shipping: '0'
+  state: OK
+wootax/28958:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '74825'
+    location_type: postcode
+  name: ALLEN (PONTOTOC CO)
+  order: '0'
+  priority: '0'
+  rate: '8.375'
+  shipping: '0'
+  state: OK
+wootax/28959:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '74826'
+    location_type: postcode
+  name: POTTAWATOMIE COUNTY
+  order: '0'
+  priority: '0'
+  rate: '5.995'
+  shipping: '0'
+  state: OK
+wootax/28960:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '74827'
+    location_type: postcode
+  name: HUGHES COUNTY
+  order: '0'
+  priority: '0'
+  rate: '5.5'
+  shipping: '0'
+  state: OK
+wootax/28961:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '74829'
+    location_type: postcode
+  name: BOLEY TOWN
+  order: '0'
+  priority: '0'
+  rate: '11.5'
+  shipping: '0'
+  state: OK
+wootax/28962:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '74830'
+    location_type: postcode
+  name: BOWLEGS TOWN
+  order: '0'
+  priority: '0'
+  rate: '8.75'
+  shipping: '0'
+  state: OK
+wootax/28963:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '74831'
+    location_type: postcode
+  name: MCCLAIN COUNTY
+  order: '0'
+  priority: '0'
+  rate: '5'
+  shipping: '0'
+  state: OK
+wootax/28964:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '74832'
+    location_type: postcode
+  name: CARNEY TOWN
+  order: '0'
+  priority: '0'
+  rate: '9.5'
+  shipping: '0'
+  state: OK
+wootax/28965:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '74833'
+    location_type: postcode
+  name: CASTLE TOWN
+  order: '0'
+  priority: '0'
+  rate: '9.5'
+  shipping: '0'
+  state: OK
+wootax/28966:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '74834'
+    location_type: postcode
+  name: LINCOLN COUNTY
+  order: '0'
+  priority: '0'
+  rate: '5.5'
+  shipping: '0'
+  state: OK
+wootax/28967:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '74836'
+    location_type: postcode
+  name: JOHNSTON COUNTY
+  order: '0'
+  priority: '0'
+  rate: '6.5'
+  shipping: '0'
+  state: OK
+wootax/28968:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '74837'
+    location_type: postcode
+  name: CROMWELL TOWN
+  order: '0'
+  priority: '0'
+  rate: '8.75'
+  shipping: '0'
+  state: OK
+wootax/28969:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '74839'
+    location_type: postcode
+  name: HUGHES COUNTY
+  order: '0'
+  priority: '0'
+  rate: '5.5'
+  shipping: '0'
+  state: OK
+wootax/28970:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '74840'
+    location_type: postcode
+  name: POTTAWATOMIE COUNTY
+  order: '0'
+  priority: '0'
+  rate: '5.995'
+  shipping: '0'
+  state: OK
+wootax/28971:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '74842'
+    location_type: postcode
+  name: PONTOTOC COUNTY
+  order: '0'
+  priority: '0'
+  rate: '5.375'
+  shipping: '0'
+  state: OK
+wootax/28972:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '74843'
+    location_type: postcode
+  name: FITZHUGH
+  order: '0'
+  priority: '0'
+  rate: '5.375'
+  shipping: '0'
+  state: OK
+wootax/28973:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '74844'
+    location_type: postcode
+  name: FRANCIS TOWN
+  order: '0'
+  priority: '0'
+  rate: '8.375'
+  shipping: '0'
+  state: OK
+wootax/28974:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '74845'
+    location_type: postcode
+  name: HANNA TOWN
+  order: '0'
+  priority: '0'
+  rate: '10.5'
+  shipping: '0'
+  state: OK
+wootax/28975:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '74848'
+    location_type: postcode
+  name: HOLDENVILLE
+  order: '0'
+  priority: '0'
+  rate: '10.5'
+  shipping: '0'
+  state: OK
+wootax/28976:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '74849'
+    location_type: postcode
+  name: KONAWA
+  order: '0'
+  priority: '0'
+  rate: '9.75'
+  shipping: '0'
+  state: OK
+wootax/28977:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '74850'
+    location_type: postcode
+  name: LAMAR TOWN
+  order: '0'
+  priority: '0'
+  rate: '8.5'
+  shipping: '0'
+  state: OK
+wootax/28978:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '74851'
+    location_type: postcode
+  name: MCLOUD TOWN
+  order: '0'
+  priority: '0'
+  rate: '9.995'
+  shipping: '0'
+  state: OK
+wootax/28979:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '74852'
+    location_type: postcode
+  name: POTTAWATOMIE COUNTY
+  order: '0'
+  priority: '0'
+  rate: '5.995'
+  shipping: '0'
+  state: OK
+wootax/28980:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '74854'
+    location_type: postcode
+  name: MAUD (POTTAWATOMIE CO)
+  order: '0'
+  priority: '0'
+  rate: '9.995'
+  shipping: '0'
+  state: OK
+wootax/28981:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '74855'
+    location_type: postcode
+  name: LINCOLN COUNTY
+  order: '0'
+  priority: '0'
+  rate: '5.5'
+  shipping: '0'
+  state: OK
+wootax/28982:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '74856'
+    location_type: postcode
+  name: JOHNSTON COUNTY
+  order: '0'
+  priority: '0'
+  rate: '6.5'
+  shipping: '0'
+  state: OK
+wootax/28983:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '74857'
+    location_type: postcode
+  name: OKLAHOMA CITY (CLEVELAND CO)
+  order: '0'
+  priority: '0'
+  rate: '8.875'
+  shipping: '0'
+  state: OK
+wootax/28984:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '74859'
+    location_type: postcode
+  name: OKEMAH
+  order: '0'
+  priority: '0'
+  rate: '10'
+  shipping: '0'
+  state: OK
+wootax/28985:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '74860'
+    location_type: postcode
+  name: OKFUSKEE COUNTY
+  order: '0'
+  priority: '0'
+  rate: '6.5'
+  shipping: '0'
+  state: OK
+wootax/28986:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '74864'
+    location_type: postcode
+  name: LINCOLN COUNTY
+  order: '0'
+  priority: '0'
+  rate: '5.5'
+  shipping: '0'
+  state: OK
+wootax/28987:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '74865'
+    location_type: postcode
+  name: PONTOTOC COUNTY
+  order: '0'
+  priority: '0'
+  rate: '5.375'
+  shipping: '0'
+  state: OK
+wootax/28988:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '74866'
+    location_type: postcode
+  name: SAINT LOUIS
+  order: '0'
+  priority: '0'
+  rate: '5.995'
+  shipping: '0'
+  state: OK
+wootax/28989:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '74867'
+    location_type: postcode
+  name: SEMINOLE COUNTY
+  order: '0'
+  priority: '0'
+  rate: '5.75'
+  shipping: '0'
+  state: OK
+wootax/28990:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '74868'
+    location_type: postcode
+  name: SEMINOLE
+  order: '0'
+  priority: '0'
+  rate: '9.75'
+  shipping: '0'
+  state: OK
+wootax/28991:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '74869'
+    location_type: postcode
+  name: LINCOLN COUNTY
+  order: '0'
+  priority: '0'
+  rate: '5.5'
+  shipping: '0'
+  state: OK
+wootax/28992:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '74871'
+    location_type: postcode
+  name: PONTOTOC COUNTY
+  order: '0'
+  priority: '0'
+  rate: '5.375'
+  shipping: '0'
+  state: OK
+wootax/28993:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '74872'
+    location_type: postcode
+  name: STRATFORD TOWN
+  order: '0'
+  priority: '0'
+  rate: '9.25'
+  shipping: '0'
+  state: OK
+wootax/28994:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '74873'
+    location_type: postcode
+  name: TECUMSEH
+  order: '0'
+  priority: '0'
+  rate: '8.995'
+  shipping: '0'
+  state: OK
+wootax/28995:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '74875'
+    location_type: postcode
+  name: LINCOLN COUNTY
+  order: '0'
+  priority: '0'
+  rate: '5.5'
+  shipping: '0'
+  state: OK
+wootax/28996:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '74878'
+    location_type: postcode
+  name: POTTAWATOMIE COUNTY
+  order: '0'
+  priority: '0'
+  rate: '5.995'
+  shipping: '0'
+  state: OK
+wootax/28997:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '74880'
+    location_type: postcode
+  name: OKFUSKEE COUNTY
+  order: '0'
+  priority: '0'
+  rate: '6.5'
+  shipping: '0'
+  state: OK
+wootax/28998:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '74881'
+    location_type: postcode
+  name: LINCOLN COUNTY
+  order: '0'
+  priority: '0'
+  rate: '5.5'
+  shipping: '0'
+  state: OK
+wootax/28999:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '74883'
+    location_type: postcode
+  name: WETUMKA
+  order: '0'
+  priority: '0'
+  rate: '10.5'
+  shipping: '0'
+  state: OK
+wootax/29000:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '74884'
+    location_type: postcode
+  name: WEWOKA
+  order: '0'
+  priority: '0'
+  rate: '9.75'
+  shipping: '0'
+  state: OK
+wootax/29001:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '74901'
+    location_type: postcode
+  name: ARKOMA TOWN
+  order: '0'
+  priority: '0'
+  rate: '9.5'
+  shipping: '0'
+  state: OK
+wootax/29002:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '74902'
+    location_type: postcode
+  name: POCOLA TOWN
+  order: '0'
+  priority: '0'
+  rate: '10.5'
+  shipping: '0'
+  state: OK
+wootax/29003:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '74930'
+    location_type: postcode
+  name: LEFLORE COUNTY
+  order: '0'
+  priority: '0'
+  rate: '6.5'
+  shipping: '0'
+  state: OK
+wootax/29004:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '74931'
+    location_type: postcode
+  name: CHEROKEE COUNTY
+  order: '0'
+  priority: '0'
+  rate: '6.25'
+  shipping: '0'
+  state: OK
+wootax/29005:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '74932'
+    location_type: postcode
+  name: LEFLORE COUNTY
+  order: '0'
+  priority: '0'
+  rate: '6.5'
+  shipping: '0'
+  state: OK
+wootax/29006:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '74935'
+    location_type: postcode
+  name: FANSHAWE (LE FLORE CO)
+  order: '0'
+  priority: '0'
+  rate: '9.5'
+  shipping: '0'
+  state: OK
+wootax/29007:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '74936'
+    location_type: postcode
+  name: SEQUOYAH COUNTY
+  order: '0'
+  priority: '0'
+  rate: '5.917'
+  shipping: '0'
+  state: OK
+wootax/29008:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '74937'
+    location_type: postcode
+  name: LEFLORE COUNTY
+  order: '0'
+  priority: '0'
+  rate: '6.5'
+  shipping: '0'
+  state: OK
+wootax/29009:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '74939'
+    location_type: postcode
+  name: LEFLORE COUNTY
+  order: '0'
+  priority: '0'
+  rate: '6.5'
+  shipping: '0'
+  state: OK
+wootax/29010:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '74940'
+    location_type: postcode
+  name: LEFLORE COUNTY
+  order: '0'
+  priority: '0'
+  rate: '6.5'
+  shipping: '0'
+  state: OK
+wootax/29011:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '74941'
+    location_type: postcode
+  name: HASKELL COUNTY
+  order: '0'
+  priority: '0'
+  rate: '6.5'
+  shipping: '0'
+  state: OK
+wootax/29012:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '74942'
+    location_type: postcode
+  name: LE FLORE TOWN
+  order: '0'
+  priority: '0'
+  rate: '7.5'
+  shipping: '0'
+  state: OK
+wootax/29013:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '74943'
+    location_type: postcode
+  name: HASKELL COUNTY
+  order: '0'
+  priority: '0'
+  rate: '6.5'
+  shipping: '0'
+  state: OK
+wootax/29014:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '74944'
+    location_type: postcode
+  name: HASKELL COUNTY
+  order: '0'
+  priority: '0'
+  rate: '6.5'
+  shipping: '0'
+  state: OK
+wootax/29015:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '74945'
+    location_type: postcode
+  name: MARBLE TOWN
+  order: '0'
+  priority: '0'
+  rate: '8.917'
+  shipping: '0'
+  state: OK
+wootax/29016:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '74946'
+    location_type: postcode
+  name: MOFFETT TOWN
+  order: '0'
+  priority: '0'
+  rate: '7.917'
+  shipping: '0'
+  state: OK
+wootax/29017:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '74947'
+    location_type: postcode
+  name: LEFLORE COUNTY
+  order: '0'
+  priority: '0'
+  rate: '6.5'
+  shipping: '0'
+  state: OK
+wootax/29018:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '74948'
+    location_type: postcode
+  name: SEQUOYAH COUNTY
+  order: '0'
+  priority: '0'
+  rate: '5.917'
+  shipping: '0'
+  state: OK
+wootax/29019:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '74949'
+    location_type: postcode
+  name: LEFLORE COUNTY
+  order: '0'
+  priority: '0'
+  rate: '6.5'
+  shipping: '0'
+  state: OK
+wootax/29020:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '74951'
+    location_type: postcode
+  name: PANAMA TOWN
+  order: '0'
+  priority: '0'
+  rate: '9.5'
+  shipping: '0'
+  state: OK
+wootax/29021:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '74953'
+    location_type: postcode
+  name: POTEAU
+  order: '0'
+  priority: '0'
+  rate: '9.5'
+  shipping: '0'
+  state: OK
+wootax/29022:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '74954'
+    location_type: postcode
+  name: ROLAND TOWN
+  order: '0'
+  priority: '0'
+  rate: '9.917'
+  shipping: '0'
+  state: OK
+wootax/29023:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '74955'
+    location_type: postcode
+  name: SALLISAW
+  order: '0'
+  priority: '0'
+  rate: '9.917'
+  shipping: '0'
+  state: OK
+wootax/29024:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '74956'
+    location_type: postcode
+  name: LEFLORE COUNTY
+  order: '0'
+  priority: '0'
+  rate: '6.5'
+  shipping: '0'
+  state: OK
+wootax/29025:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '74957'
+    location_type: postcode
+  name: LEFLORE COUNTY
+  order: '0'
+  priority: '0'
+  rate: '6.5'
+  shipping: '0'
+  state: OK
+wootax/29026:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '74959'
+    location_type: postcode
+  name: LEFLORE COUNTY
+  order: '0'
+  priority: '0'
+  rate: '6.5'
+  shipping: '0'
+  state: OK
+wootax/29027:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '74960'
+    location_type: postcode
+  name: STILWELL
+  order: '0'
+  priority: '0'
+  rate: '9.75'
+  shipping: '0'
+  state: OK
+wootax/29028:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '74962'
+    location_type: postcode
+  name: SEQUOYAH COUNTY
+  order: '0'
+  priority: '0'
+  rate: '5.917'
+  shipping: '0'
+  state: OK
+wootax/29029:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '74963'
+    location_type: postcode
+  name: MCCURTAIN COUNTY
+  order: '0'
+  priority: '0'
+  rate: '6.25'
+  shipping: '0'
+  state: OK
+wootax/29030:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '74964'
+    location_type: postcode
+  name: WATTS TOWN
+  order: '0'
+  priority: '0'
+  rate: '10.25'
+  shipping: '0'
+  state: OK
+wootax/29031:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '74965'
+    location_type: postcode
+  name: WESTVILLE TOWN
+  order: '0'
+  priority: '0'
+  rate: '10'
+  shipping: '0'
+  state: OK
+wootax/29032:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '74966'
+    location_type: postcode
+  name: LEFLORE COUNTY
+  order: '0'
+  priority: '0'
+  rate: '6.5'
+  shipping: '0'
+  state: OK

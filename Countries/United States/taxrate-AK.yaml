@@ -1,0 +1,3107 @@
+wootax/10:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '99507'
+    location_type: postcode
+  name: ANCHORAGE BOROUGH
+  order: '0'
+  priority: '0'
+  rate: '0'
+  shipping: '0'
+  state: AK
+wootax/100:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '99641'
+    location_type: postcode
+  name: NUNAPITCHUK
+  order: '0'
+  priority: '0'
+  rate: '4'
+  shipping: '0'
+  state: AK
+wootax/101:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '99643'
+    location_type: postcode
+  name: OLD HARBOR
+  order: '0'
+  priority: '0'
+  rate: '3'
+  shipping: '0'
+  state: AK
+wootax/102:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '99644'
+    location_type: postcode
+  name: OUZINKIE
+  order: '0'
+  priority: '0'
+  rate: '3'
+  shipping: '0'
+  state: AK
+wootax/103:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '99645'
+    location_type: postcode
+  name: MATANUSKA-SUSITNA BOROUGH
+  order: '0'
+  priority: '0'
+  rate: '0'
+  shipping: '0'
+  state: AK
+wootax/104:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '99648'
+    location_type: postcode
+  name: LAKE AND PENINSULA BOROUGH
+  order: '0'
+  priority: '0'
+  rate: '0'
+  shipping: '0'
+  state: AK
+wootax/105:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '99649'
+    location_type: postcode
+  name: PILOT POINT
+  order: '0'
+  priority: '0'
+  rate: '0'
+  shipping: '0'
+  state: AK
+wootax/106:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '99650'
+    location_type: postcode
+  name: PILOT STATION
+  order: '0'
+  priority: '0'
+  rate: '4'
+  shipping: '0'
+  state: AK
+wootax/107:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '99651'
+    location_type: postcode
+  name: ALASKA STATE
+  order: '0'
+  priority: '0'
+  rate: '0'
+  shipping: '0'
+  state: AK
+wootax/108:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '99652'
+    location_type: postcode
+  name: MATANUSKA-SUSITNA BOROUGH
+  order: '0'
+  priority: '0'
+  rate: '0'
+  shipping: '0'
+  state: AK
+wootax/109:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '99653'
+    location_type: postcode
+  name: LAKE AND PENINSULA BOROUGH
+  order: '0'
+  priority: '0'
+  rate: '0'
+  shipping: '0'
+  state: AK
+wootax/11:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '99508'
+    location_type: postcode
+  name: ANCHORAGE BOROUGH
+  order: '0'
+  priority: '0'
+  rate: '0'
+  shipping: '0'
+  state: AK
+wootax/110:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '99654'
+    location_type: postcode
+  name: MATANUSKA-SUSITNA BOROUGH
+  order: '0'
+  priority: '0'
+  rate: '0'
+  shipping: '0'
+  state: AK
+wootax/111:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '99655'
+    location_type: postcode
+  name: QUINHAGAK
+  order: '0'
+  priority: '0'
+  rate: '3'
+  shipping: '0'
+  state: AK
+wootax/112:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '99656'
+    location_type: postcode
+  name: ALASKA STATE
+  order: '0'
+  priority: '0'
+  rate: '0'
+  shipping: '0'
+  state: AK
+wootax/113:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '99657'
+    location_type: postcode
+  name: RUSSIAN MISSION
+  order: '0'
+  priority: '0'
+  rate: '0'
+  shipping: '0'
+  state: AK
+wootax/114:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '99659'
+    location_type: postcode
+  name: GRAYLING
+  order: '0'
+  priority: '0'
+  rate: '0'
+  shipping: '0'
+  state: AK
+wootax/115:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '99660'
+    location_type: postcode
+  name: SAINT PAUL
+  order: '0'
+  priority: '0'
+  rate: '3.5'
+  shipping: '0'
+  state: AK
+wootax/116:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '99661'
+    location_type: postcode
+  name: SAND POINT
+  order: '0'
+  priority: '0'
+  rate: '4'
+  shipping: '0'
+  state: AK
+wootax/117:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '99662'
+    location_type: postcode
+  name: SCAMMON BAY
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '0'
+  state: AK
+wootax/118:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '99663'
+    location_type: postcode
+  name: SELDOVIA
+  order: '0'
+  priority: '0'
+  rate: '7.5'
+  shipping: '0'
+  state: AK
+wootax/119:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '99664'
+    location_type: postcode
+  name: KENAI PENINSULA BURROUGH
+  order: '0'
+  priority: '0'
+  rate: '3'
+  shipping: '0'
+  state: AK
+wootax/12:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '99509'
+    location_type: postcode
+  name: ANCHORAGE BOROUGH
+  order: '0'
+  priority: '0'
+  rate: '0'
+  shipping: '0'
+  state: AK
+wootax/120:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '99665'
+    location_type: postcode
+  name: SHAGELUK
+  order: '0'
+  priority: '0'
+  rate: '0'
+  shipping: '0'
+  state: AK
+wootax/121:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '99667'
+    location_type: postcode
+  name: MATANUSKA-SUSITNA BOROUGH
+  order: '0'
+  priority: '0'
+  rate: '0'
+  shipping: '0'
+  state: AK
+wootax/122:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '99668'
+    location_type: postcode
+  name: ALASKA STATE
+  order: '0'
+  priority: '0'
+  rate: '0'
+  shipping: '0'
+  state: AK
+wootax/123:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '99669'
+    location_type: postcode
+  name: SOLDOTNA
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '0'
+  state: AK
+wootax/124:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '99670'
+    location_type: postcode
+  name: BRISTOL BAY BOROUGH
+  order: '0'
+  priority: '0'
+  rate: '0'
+  shipping: '0'
+  state: AK
+wootax/125:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '99671'
+    location_type: postcode
+  name: STEBBINS
+  order: '0'
+  priority: '0'
+  rate: '4'
+  shipping: '0'
+  state: AK
+wootax/126:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '99672'
+    location_type: postcode
+  name: KENAI PENINSULA BURROUGH
+  order: '0'
+  priority: '0'
+  rate: '3'
+  shipping: '0'
+  state: AK
+wootax/127:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '99674'
+    location_type: postcode
+  name: MATANUSKA-SUSITNA BOROUGH
+  order: '0'
+  priority: '0'
+  rate: '0'
+  shipping: '0'
+  state: AK
+wootax/128:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '99675'
+    location_type: postcode
+  name: ALASKA STATE
+  order: '0'
+  priority: '0'
+  rate: '0'
+  shipping: '0'
+  state: AK
+wootax/129:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '99676'
+    location_type: postcode
+  name: MATANUSKA-SUSITNA BOROUGH
+  order: '0'
+  priority: '0'
+  rate: '0'
+  shipping: '0'
+  state: AK
+wootax/13:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '99510'
+    location_type: postcode
+  name: ANCHORAGE BOROUGH
+  order: '0'
+  priority: '0'
+  rate: '0'
+  shipping: '0'
+  state: AK
+wootax/130:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '99678'
+    location_type: postcode
+  name: TOGIAK
+  order: '0'
+  priority: '0'
+  rate: '2'
+  shipping: '0'
+  state: AK
+wootax/131:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '99679'
+    location_type: postcode
+  name: BETHEL
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '0'
+  state: AK
+wootax/132:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '99681'
+    location_type: postcode
+  name: ALASKA STATE
+  order: '0'
+  priority: '0'
+  rate: '0'
+  shipping: '0'
+  state: AK
+wootax/133:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '99682'
+    location_type: postcode
+  name: KENAI PENINSULA BURROUGH
+  order: '0'
+  priority: '0'
+  rate: '3'
+  shipping: '0'
+  state: AK
+wootax/134:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '99683'
+    location_type: postcode
+  name: MATANUSKA-SUSITNA BOROUGH
+  order: '0'
+  priority: '0'
+  rate: '0'
+  shipping: '0'
+  state: AK
+wootax/135:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '99684'
+    location_type: postcode
+  name: UNALAKLEET
+  order: '0'
+  priority: '0'
+  rate: '5'
+  shipping: '0'
+  state: AK
+wootax/136:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '99685'
+    location_type: postcode
+  name: UNALASKA
+  order: '0'
+  priority: '0'
+  rate: '3'
+  shipping: '0'
+  state: AK
+wootax/137:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '99686'
+    location_type: postcode
+  name: VALDEZ
+  order: '0'
+  priority: '0'
+  rate: '0'
+  shipping: '0'
+  state: AK
+wootax/138:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '99688'
+    location_type: postcode
+  name: MATANUSKA-SUSITNA BOROUGH
+  order: '0'
+  priority: '0'
+  rate: '0'
+  shipping: '0'
+  state: AK
+wootax/139:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '99689'
+    location_type: postcode
+  name: YAKUTAT
+  order: '0'
+  priority: '0'
+  rate: '5'
+  shipping: '0'
+  state: AK
+wootax/14:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '99511'
+    location_type: postcode
+  name: ANCHORAGE BOROUGH
+  order: '0'
+  priority: '0'
+  rate: '0'
+  shipping: '0'
+  state: AK
+wootax/140:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '99691'
+    location_type: postcode
+  name: NIKOLAI
+  order: '0'
+  priority: '0'
+  rate: '0'
+  shipping: '0'
+  state: AK
+wootax/141:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '99692'
+    location_type: postcode
+  name: UNALASKA
+  order: '0'
+  priority: '0'
+  rate: '3'
+  shipping: '0'
+  state: AK
+wootax/142:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '99694'
+    location_type: postcode
+  name: HOUSTON
+  order: '0'
+  priority: '0'
+  rate: '2'
+  shipping: '0'
+  state: AK
+wootax/143:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '99701'
+    location_type: postcode
+  name: FAIRBANKS
+  order: '0'
+  priority: '0'
+  rate: '0'
+  shipping: '0'
+  state: AK
+wootax/144:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '99702'
+    location_type: postcode
+  name: FAIRBANKS NORTH STAR BOROUGH
+  order: '0'
+  priority: '0'
+  rate: '0'
+  shipping: '0'
+  state: AK
+wootax/145:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '99703'
+    location_type: postcode
+  name: FORT WAINWRIGHT
+  order: '0'
+  priority: '0'
+  rate: '0'
+  shipping: '0'
+  state: AK
+wootax/146:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '99704'
+    location_type: postcode
+  name: CLEAR AIR FORCE BASE
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '0'
+  state: AK
+wootax/147:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '99705'
+    location_type: postcode
+  name: FAIRBANKS NORTH STAR BOROUGH
+  order: '0'
+  priority: '0'
+  rate: '0'
+  shipping: '0'
+  state: AK
+wootax/148:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '99706'
+    location_type: postcode
+  name: FAIRBANKS
+  order: '0'
+  priority: '0'
+  rate: '0'
+  shipping: '0'
+  state: AK
+wootax/149:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '99707'
+    location_type: postcode
+  name: FAIRBANKS
+  order: '0'
+  priority: '0'
+  rate: '0'
+  shipping: '0'
+  state: AK
+wootax/15:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '99513'
+    location_type: postcode
+  name: ANCHORAGE BOROUGH
+  order: '0'
+  priority: '0'
+  rate: '0'
+  shipping: '0'
+  state: AK
+wootax/150:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '99708'
+    location_type: postcode
+  name: FAIRBANKS NORTH STAR BOROUGH
+  order: '0'
+  priority: '0'
+  rate: '0'
+  shipping: '0'
+  state: AK
+wootax/151:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '99709'
+    location_type: postcode
+  name: FAIRBANKS NORTH STAR BOROUGH
+  order: '0'
+  priority: '0'
+  rate: '0'
+  shipping: '0'
+  state: AK
+wootax/152:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '99712'
+    location_type: postcode
+  name: FAIRBANKS NORTH STAR BOROUGH
+  order: '0'
+  priority: '0'
+  rate: '0'
+  shipping: '0'
+  state: AK
+wootax/153:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '99714'
+    location_type: postcode
+  name: FAIRBANKS NORTH STAR BOROUGH
+  order: '0'
+  priority: '0'
+  rate: '0'
+  shipping: '0'
+  state: AK
+wootax/154:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '99720'
+    location_type: postcode
+  name: ALLAKAKET
+  order: '0'
+  priority: '0'
+  rate: '0'
+  shipping: '0'
+  state: AK
+wootax/155:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '99721'
+    location_type: postcode
+  name: ANAKTUVUK PASS
+  order: '0'
+  priority: '0'
+  rate: '0'
+  shipping: '0'
+  state: AK
+wootax/156:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '99722'
+    location_type: postcode
+  name: ALASKA STATE
+  order: '0'
+  priority: '0'
+  rate: '0'
+  shipping: '0'
+  state: AK
+wootax/157:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '99723'
+    location_type: postcode
+  name: UTQIAGVIK
+  order: '0'
+  priority: '0'
+  rate: '0'
+  shipping: '0'
+  state: AK
+wootax/158:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '99724'
+    location_type: postcode
+  name: ALASKA STATE
+  order: '0'
+  priority: '0'
+  rate: '0'
+  shipping: '0'
+  state: AK
+wootax/159:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '99725'
+    location_type: postcode
+  name: FAIRBANKS NORTH STAR BOROUGH
+  order: '0'
+  priority: '0'
+  rate: '0'
+  shipping: '0'
+  state: AK
+wootax/16:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '99514'
+    location_type: postcode
+  name: ANCHORAGE BOROUGH
+  order: '0'
+  priority: '0'
+  rate: '0'
+  shipping: '0'
+  state: AK
+wootax/160:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '99726'
+    location_type: postcode
+  name: BETTLES
+  order: '0'
+  priority: '0'
+  rate: '0'
+  shipping: '0'
+  state: AK
+wootax/161:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '99727'
+    location_type: postcode
+  name: BUCKLAND
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '0'
+  state: AK
+wootax/162:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '99729'
+    location_type: postcode
+  name: DENALI BOROUGH
+  order: '0'
+  priority: '0'
+  rate: '0'
+  shipping: '0'
+  state: AK
+wootax/163:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '99730'
+    location_type: postcode
+  name: ALASKA STATE
+  order: '0'
+  priority: '0'
+  rate: '0'
+  shipping: '0'
+  state: AK
+wootax/164:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '99731'
+    location_type: postcode
+  name: ALASKA STATE
+  order: '0'
+  priority: '0'
+  rate: '0'
+  shipping: '0'
+  state: AK
+wootax/165:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '99732'
+    location_type: postcode
+  name: ALASKA STATE
+  order: '0'
+  priority: '0'
+  rate: '0'
+  shipping: '0'
+  state: AK
+wootax/166:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '99733'
+    location_type: postcode
+  name: ALASKA STATE
+  order: '0'
+  priority: '0'
+  rate: '0'
+  shipping: '0'
+  state: AK
+wootax/167:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '99736'
+    location_type: postcode
+  name: DEERING
+  order: '0'
+  priority: '0'
+  rate: '3'
+  shipping: '0'
+  state: AK
+wootax/168:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '99737'
+    location_type: postcode
+  name: ALASKA STATE
+  order: '0'
+  priority: '0'
+  rate: '0'
+  shipping: '0'
+  state: AK
+wootax/169:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '99738'
+    location_type: postcode
+  name: EAGLE
+  order: '0'
+  priority: '0'
+  rate: '0'
+  shipping: '0'
+  state: AK
+wootax/17:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '99515'
+    location_type: postcode
+  name: ANCHORAGE BOROUGH
+  order: '0'
+  priority: '0'
+  rate: '0'
+  shipping: '0'
+  state: AK
+wootax/170:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '99739'
+    location_type: postcode
+  name: ELIM
+  order: '0'
+  priority: '0'
+  rate: '3'
+  shipping: '0'
+  state: AK
+wootax/171:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '99740'
+    location_type: postcode
+  name: FORT YUKON
+  order: '0'
+  priority: '0'
+  rate: '3'
+  shipping: '0'
+  state: AK
+wootax/172:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '99741'
+    location_type: postcode
+  name: GALENA
+  order: '0'
+  priority: '0'
+  rate: '3'
+  shipping: '0'
+  state: AK
+wootax/173:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '99742'
+    location_type: postcode
+  name: GAMBELL
+  order: '0'
+  priority: '0'
+  rate: '3'
+  shipping: '0'
+  state: AK
+wootax/174:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '99743'
+    location_type: postcode
+  name: DENALI BOROUGH
+  order: '0'
+  priority: '0'
+  rate: '0'
+  shipping: '0'
+  state: AK
+wootax/175:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '99744'
+    location_type: postcode
+  name: ANDERSON
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '0'
+  state: AK
+wootax/176:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '99745'
+    location_type: postcode
+  name: HUGHES
+  order: '0'
+  priority: '0'
+  rate: '0'
+  shipping: '0'
+  state: AK
+wootax/177:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '99746'
+    location_type: postcode
+  name: HUSLIA
+  order: '0'
+  priority: '0'
+  rate: '0'
+  shipping: '0'
+  state: AK
+wootax/178:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '99747'
+    location_type: postcode
+  name: KAKTOVIK
+  order: '0'
+  priority: '0'
+  rate: '0'
+  shipping: '0'
+  state: AK
+wootax/179:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '99748'
+    location_type: postcode
+  name: KALTAG
+  order: '0'
+  priority: '0'
+  rate: '0'
+  shipping: '0'
+  state: AK
+wootax/18:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '99516'
+    location_type: postcode
+  name: ANCHORAGE BOROUGH
+  order: '0'
+  priority: '0'
+  rate: '0'
+  shipping: '0'
+  state: AK
+wootax/180:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '99749'
+    location_type: postcode
+  name: KIANA
+  order: '0'
+  priority: '0'
+  rate: '3'
+  shipping: '0'
+  state: AK
+wootax/181:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '99750'
+    location_type: postcode
+  name: KIVALINA
+  order: '0'
+  priority: '0'
+  rate: '2'
+  shipping: '0'
+  state: AK
+wootax/182:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '99751'
+    location_type: postcode
+  name: KOBUK
+  order: '0'
+  priority: '0'
+  rate: '0'
+  shipping: '0'
+  state: AK
+wootax/183:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '99752'
+    location_type: postcode
+  name: KOTZEBUE
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '0'
+  state: AK
+wootax/184:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '99753'
+    location_type: postcode
+  name: KOYUK
+  order: '0'
+  priority: '0'
+  rate: '2'
+  shipping: '0'
+  state: AK
+wootax/185:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '99754'
+    location_type: postcode
+  name: ALASKA STATE
+  order: '0'
+  priority: '0'
+  rate: '0'
+  shipping: '0'
+  state: AK
+wootax/186:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '99755'
+    location_type: postcode
+  name: DENALI BOROUGH
+  order: '0'
+  priority: '0'
+  rate: '0'
+  shipping: '0'
+  state: AK
+wootax/187:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '99756'
+    location_type: postcode
+  name: ALASKA STATE
+  order: '0'
+  priority: '0'
+  rate: '0'
+  shipping: '0'
+  state: AK
+wootax/188:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '99757'
+    location_type: postcode
+  name: ALASKA STATE
+  order: '0'
+  priority: '0'
+  rate: '0'
+  shipping: '0'
+  state: AK
+wootax/189:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '99758'
+    location_type: postcode
+  name: ALASKA STATE
+  order: '0'
+  priority: '0'
+  rate: '0'
+  shipping: '0'
+  state: AK
+wootax/19:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '99517'
+    location_type: postcode
+  name: ANCHORAGE BOROUGH
+  order: '0'
+  priority: '0'
+  rate: '0'
+  shipping: '0'
+  state: AK
+wootax/190:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '99759'
+    location_type: postcode
+  name: NORTH SLOPE BOROUGH
+  order: '0'
+  priority: '0'
+  rate: '0'
+  shipping: '0'
+  state: AK
+wootax/191:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '99760'
+    location_type: postcode
+  name: NENANA
+  order: '0'
+  priority: '0'
+  rate: '4'
+  shipping: '0'
+  state: AK
+wootax/192:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '99761'
+    location_type: postcode
+  name: NORTHWEST ARCTIC BOROUGH
+  order: '0'
+  priority: '0'
+  rate: '0'
+  shipping: '0'
+  state: AK
+wootax/193:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '99762'
+    location_type: postcode
+  name: NOME
+  order: '0'
+  priority: '0'
+  rate: '7'
+  shipping: '0'
+  state: AK
+wootax/194:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '99763'
+    location_type: postcode
+  name: NOORVIK
+  order: '0'
+  priority: '0'
+  rate: '4'
+  shipping: '0'
+  state: AK
+wootax/195:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '99764'
+    location_type: postcode
+  name: ALASKA STATE
+  order: '0'
+  priority: '0'
+  rate: '0'
+  shipping: '0'
+  state: AK
+wootax/196:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '99765'
+    location_type: postcode
+  name: NULATO
+  order: '0'
+  priority: '0'
+  rate: '0'
+  shipping: '0'
+  state: AK
+wootax/197:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '99766'
+    location_type: postcode
+  name: POINT HOPE
+  order: '0'
+  priority: '0'
+  rate: '3'
+  shipping: '0'
+  state: AK
+wootax/198:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '99767'
+    location_type: postcode
+  name: ALASKA STATE
+  order: '0'
+  priority: '0'
+  rate: '0'
+  shipping: '0'
+  state: AK
+wootax/199:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '99768'
+    location_type: postcode
+  name: RUBY
+  order: '0'
+  priority: '0'
+  rate: '0'
+  shipping: '0'
+  state: AK
+wootax/20:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '99518'
+    location_type: postcode
+  name: ANCHORAGE BOROUGH
+  order: '0'
+  priority: '0'
+  rate: '0'
+  shipping: '0'
+  state: AK
+wootax/200:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '99769'
+    location_type: postcode
+  name: ALASKA STATE
+  order: '0'
+  priority: '0'
+  rate: '0'
+  shipping: '0'
+  state: AK
+wootax/201:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '99770'
+    location_type: postcode
+  name: SELAWIK
+  order: '0'
+  priority: '0'
+  rate: '6.5'
+  shipping: '0'
+  state: AK
+wootax/202:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '99771'
+    location_type: postcode
+  name: ALASKA STATE
+  order: '0'
+  priority: '0'
+  rate: '0'
+  shipping: '0'
+  state: AK
+wootax/203:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '99772'
+    location_type: postcode
+  name: SHISHMAREF
+  order: '0'
+  priority: '0'
+  rate: '3'
+  shipping: '0'
+  state: AK
+wootax/204:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '99773'
+    location_type: postcode
+  name: SHUNGNAK
+  order: '0'
+  priority: '0'
+  rate: '2'
+  shipping: '0'
+  state: AK
+wootax/205:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '99774'
+    location_type: postcode
+  name: ALASKA STATE
+  order: '0'
+  priority: '0'
+  rate: '0'
+  shipping: '0'
+  state: AK
+wootax/206:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '99775'
+    location_type: postcode
+  name: FAIRBANKS NORTH STAR BOROUGH
+  order: '0'
+  priority: '0'
+  rate: '0'
+  shipping: '0'
+  state: AK
+wootax/207:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '99776'
+    location_type: postcode
+  name: ALASKA STATE
+  order: '0'
+  priority: '0'
+  rate: '0'
+  shipping: '0'
+  state: AK
+wootax/208:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '99777'
+    location_type: postcode
+  name: TANANA
+  order: '0'
+  priority: '0'
+  rate: '2'
+  shipping: '0'
+  state: AK
+wootax/209:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '99778'
+    location_type: postcode
+  name: TELLER
+  order: '0'
+  priority: '0'
+  rate: '3'
+  shipping: '0'
+  state: AK
+wootax/21:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '99519'
+    location_type: postcode
+  name: ANCHORAGE BOROUGH
+  order: '0'
+  priority: '0'
+  rate: '0'
+  shipping: '0'
+  state: AK
+wootax/210:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '99780'
+    location_type: postcode
+  name: ALASKA STATE
+  order: '0'
+  priority: '0'
+  rate: '0'
+  shipping: '0'
+  state: AK
+wootax/211:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '99781'
+    location_type: postcode
+  name: ALASKA STATE
+  order: '0'
+  priority: '0'
+  rate: '0'
+  shipping: '0'
+  state: AK
+wootax/212:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '99782'
+    location_type: postcode
+  name: WAINWRIGHT
+  order: '0'
+  priority: '0'
+  rate: '0'
+  shipping: '0'
+  state: AK
+wootax/213:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '99783'
+    location_type: postcode
+  name: WALES
+  order: '0'
+  priority: '0'
+  rate: '3'
+  shipping: '0'
+  state: AK
+wootax/214:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '99784'
+    location_type: postcode
+  name: WHITE MOUNTAIN
+  order: '0'
+  priority: '0'
+  rate: '1'
+  shipping: '0'
+  state: AK
+wootax/215:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '99785'
+    location_type: postcode
+  name: BREVIG MISSION
+  order: '0'
+  priority: '0'
+  rate: '3'
+  shipping: '0'
+  state: AK
+wootax/216:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '99786'
+    location_type: postcode
+  name: AMBLER
+  order: '0'
+  priority: '0'
+  rate: '3'
+  shipping: '0'
+  state: AK
+wootax/217:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '99788'
+    location_type: postcode
+  name: ALASKA STATE
+  order: '0'
+  priority: '0'
+  rate: '0'
+  shipping: '0'
+  state: AK
+wootax/218:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '99789'
+    location_type: postcode
+  name: NUIQSUT
+  order: '0'
+  priority: '0'
+  rate: '0'
+  shipping: '0'
+  state: AK
+wootax/219:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '99801'
+    location_type: postcode
+  name: JUNEAU BURROUGH
+  order: '0'
+  priority: '0'
+  rate: '5'
+  shipping: '0'
+  state: AK
+wootax/22:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '99520'
+    location_type: postcode
+  name: ANCHORAGE BOROUGH
+  order: '0'
+  priority: '0'
+  rate: '0'
+  shipping: '0'
+  state: AK
+wootax/220:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '99820'
+    location_type: postcode
+  name: ANGOON
+  order: '0'
+  priority: '0'
+  rate: '3'
+  shipping: '0'
+  state: AK
+wootax/221:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '99824'
+    location_type: postcode
+  name: JUNEAU BURROUGH
+  order: '0'
+  priority: '0'
+  rate: '5'
+  shipping: '0'
+  state: AK
+wootax/222:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '99825'
+    location_type: postcode
+  name: ALASKA STATE
+  order: '0'
+  priority: '0'
+  rate: '0'
+  shipping: '0'
+  state: AK
+wootax/223:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '99826'
+    location_type: postcode
+  name: GUSTAVUS
+  order: '0'
+  priority: '0'
+  rate: '3'
+  shipping: '0'
+  state: AK
+wootax/224:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '99827'
+    location_type: postcode
+  name: HAINES BURROUGH
+  order: '0'
+  priority: '0'
+  rate: '4'
+  shipping: '0'
+  state: AK
+wootax/225:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '99829'
+    location_type: postcode
+  name: HOONAH
+  order: '0'
+  priority: '0'
+  rate: '6.5'
+  shipping: '0'
+  state: AK
+wootax/226:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '99830'
+    location_type: postcode
+  name: KAKE
+  order: '0'
+  priority: '0'
+  rate: '5'
+  shipping: '0'
+  state: AK
+wootax/227:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '99832'
+    location_type: postcode
+  name: PELICAN
+  order: '0'
+  priority: '0'
+  rate: '4'
+  shipping: '0'
+  state: AK
+wootax/228:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '99833'
+    location_type: postcode
+  name: PETERSBURG BOROUGH
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '0'
+  state: AK
+wootax/229:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '99835'
+    location_type: postcode
+  name: SITKA BURROUGH
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '0'
+  state: AK
+wootax/23:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '99521'
+    location_type: postcode
+  name: ANCHORAGE BOROUGH
+  order: '0'
+  priority: '0'
+  rate: '0'
+  shipping: '0'
+  state: AK
+wootax/230:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '99836'
+    location_type: postcode
+  name: PORT ALEXANDER
+  order: '0'
+  priority: '0'
+  rate: '4'
+  shipping: '0'
+  state: AK
+wootax/231:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '99840'
+    location_type: postcode
+  name: SKAGWAY
+  order: '0'
+  priority: '0'
+  rate: '5'
+  shipping: '0'
+  state: AK
+wootax/232:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '99841'
+    location_type: postcode
+  name: TENAKEE SPRINGS
+  order: '0'
+  priority: '0'
+  rate: '2'
+  shipping: '0'
+  state: AK
+wootax/233:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '99901'
+    location_type: postcode
+  name: KETCHIKAN
+  order: '0'
+  priority: '0'
+  rate: '6.5'
+  shipping: '0'
+  state: AK
+wootax/234:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '99919'
+    location_type: postcode
+  name: ALASKA STATE
+  order: '0'
+  priority: '0'
+  rate: '0'
+  shipping: '0'
+  state: AK
+wootax/235:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '99921'
+    location_type: postcode
+  name: CRAIG
+  order: '0'
+  priority: '0'
+  rate: '5'
+  shipping: '0'
+  state: AK
+wootax/236:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '99922'
+    location_type: postcode
+  name: HYDABURG
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '0'
+  state: AK
+wootax/237:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '99923'
+    location_type: postcode
+  name: ALASKA STATE
+  order: '0'
+  priority: '0'
+  rate: '0'
+  shipping: '0'
+  state: AK
+wootax/238:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '99925'
+    location_type: postcode
+  name: KLAWOCK
+  order: '0'
+  priority: '0'
+  rate: '6.5'
+  shipping: '0'
+  state: AK
+wootax/239:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '99926'
+    location_type: postcode
+  name: ALASKA STATE
+  order: '0'
+  priority: '0'
+  rate: '0'
+  shipping: '0'
+  state: AK
+wootax/24:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '99522'
+    location_type: postcode
+  name: ANCHORAGE BOROUGH
+  order: '0'
+  priority: '0'
+  rate: '0'
+  shipping: '0'
+  state: AK
+wootax/240:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '99927'
+    location_type: postcode
+  name: ALASKA STATE
+  order: '0'
+  priority: '0'
+  rate: '0'
+  shipping: '0'
+  state: AK
+wootax/241:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '99928'
+    location_type: postcode
+  name: KETCHIKAN GATEWAY BURROUGH
+  order: '0'
+  priority: '0'
+  rate: '2.5'
+  shipping: '0'
+  state: AK
+wootax/242:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '99929'
+    location_type: postcode
+  name: WRANGELL
+  order: '0'
+  priority: '0'
+  rate: '7'
+  shipping: '0'
+  state: AK
+wootax/25:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '99523'
+    location_type: postcode
+  name: ANCHORAGE BOROUGH
+  order: '0'
+  priority: '0'
+  rate: '0'
+  shipping: '0'
+  state: AK
+wootax/26:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '99524'
+    location_type: postcode
+  name: ANCHORAGE BOROUGH
+  order: '0'
+  priority: '0'
+  rate: '0'
+  shipping: '0'
+  state: AK
+wootax/27:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '99529'
+    location_type: postcode
+  name: ANCHORAGE BOROUGH
+  order: '0'
+  priority: '0'
+  rate: '0'
+  shipping: '0'
+  state: AK
+wootax/28:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '99530'
+    location_type: postcode
+  name: ANCHORAGE BOROUGH
+  order: '0'
+  priority: '0'
+  rate: '0'
+  shipping: '0'
+  state: AK
+wootax/29:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '99540'
+    location_type: postcode
+  name: ANCHORAGE BOROUGH
+  order: '0'
+  priority: '0'
+  rate: '0'
+  shipping: '0'
+  state: AK
+wootax/30:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '99550'
+    location_type: postcode
+  name: KODIAK ISLAND BOROUGH
+  order: '0'
+  priority: '0'
+  rate: '0'
+  shipping: '0'
+  state: AK
+wootax/31:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '99551'
+    location_type: postcode
+  name: ALASKA STATE
+  order: '0'
+  priority: '0'
+  rate: '0'
+  shipping: '0'
+  state: AK
+wootax/32:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '99552'
+    location_type: postcode
+  name: AKIAK
+  order: '0'
+  priority: '0'
+  rate: '0'
+  shipping: '0'
+  state: AK
+wootax/33:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '99553'
+    location_type: postcode
+  name: AKUTAN
+  order: '0'
+  priority: '0'
+  rate: '0'
+  shipping: '0'
+  state: AK
+wootax/34:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '99554'
+    location_type: postcode
+  name: ALAKANUK
+  order: '0'
+  priority: '0'
+  rate: '4'
+  shipping: '0'
+  state: AK
+wootax/35:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '99555'
+    location_type: postcode
+  name: ALEKNAGIK
+  order: '0'
+  priority: '0'
+  rate: '5'
+  shipping: '0'
+  state: AK
+wootax/36:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '99556'
+    location_type: postcode
+  name: KENAI PENINSULA BURROUGH
+  order: '0'
+  priority: '0'
+  rate: '3'
+  shipping: '0'
+  state: AK
+wootax/37:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '99557'
+    location_type: postcode
+  name: ANIAK
+  order: '0'
+  priority: '0'
+  rate: '2'
+  shipping: '0'
+  state: AK
+wootax/38:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '99558'
+    location_type: postcode
+  name: ANVIK
+  order: '0'
+  priority: '0'
+  rate: '0'
+  shipping: '0'
+  state: AK
+wootax/39:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '99559'
+    location_type: postcode
+  name: BETHEL
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '0'
+  state: AK
+wootax/4:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '99501'
+    location_type: postcode
+  name: ANCHORAGE BOROUGH
+  order: '0'
+  priority: '0'
+  rate: '0'
+  shipping: '0'
+  state: AK
+wootax/40:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '99561'
+    location_type: postcode
+  name: CHEFORNAK
+  order: '0'
+  priority: '0'
+  rate: '2'
+  shipping: '0'
+  state: AK
+wootax/41:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '99563'
+    location_type: postcode
+  name: CHEVAK
+  order: '0'
+  priority: '0'
+  rate: '3'
+  shipping: '0'
+  state: AK
+wootax/42:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '99564'
+    location_type: postcode
+  name: CHIGNIK
+  order: '0'
+  priority: '0'
+  rate: '0'
+  shipping: '0'
+  state: AK
+wootax/43:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '99565'
+    location_type: postcode
+  name: LAKE AND PENINSULA BOROUGH
+  order: '0'
+  priority: '0'
+  rate: '0'
+  shipping: '0'
+  state: AK
+wootax/44:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '99566'
+    location_type: postcode
+  name: ALASKA STATE
+  order: '0'
+  priority: '0'
+  rate: '0'
+  shipping: '0'
+  state: AK
+wootax/45:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '99567'
+    location_type: postcode
+  name: ANCHORAGE BOROUGH
+  order: '0'
+  priority: '0'
+  rate: '0'
+  shipping: '0'
+  state: AK
+wootax/46:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '99568'
+    location_type: postcode
+  name: KENAI PENINSULA BURROUGH
+  order: '0'
+  priority: '0'
+  rate: '3'
+  shipping: '0'
+  state: AK
+wootax/47:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '99569'
+    location_type: postcode
+  name: CLARKS POINT
+  order: '0'
+  priority: '0'
+  rate: '5'
+  shipping: '0'
+  state: AK
+wootax/48:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '99571'
+    location_type: postcode
+  name: COLD BAY
+  order: '0'
+  priority: '0'
+  rate: '0'
+  shipping: '0'
+  state: AK
+wootax/49:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '99572'
+    location_type: postcode
+  name: KENAI PENINSULA BURROUGH
+  order: '0'
+  priority: '0'
+  rate: '3'
+  shipping: '0'
+  state: AK
+wootax/5:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '99502'
+    location_type: postcode
+  name: ANCHORAGE BOROUGH
+  order: '0'
+  priority: '0'
+  rate: '0'
+  shipping: '0'
+  state: AK
+wootax/50:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '99573'
+    location_type: postcode
+  name: ALASKA STATE
+  order: '0'
+  priority: '0'
+  rate: '0'
+  shipping: '0'
+  state: AK
+wootax/51:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '99574'
+    location_type: postcode
+  name: CORDOVA
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '0'
+  state: AK
+wootax/52:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '99575'
+    location_type: postcode
+  name: ALASKA STATE
+  order: '0'
+  priority: '0'
+  rate: '0'
+  shipping: '0'
+  state: AK
+wootax/53:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '99576'
+    location_type: postcode
+  name: DILLINGHAM
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '0'
+  state: AK
+wootax/54:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '99577'
+    location_type: postcode
+  name: ANCHORAGE BOROUGH
+  order: '0'
+  priority: '0'
+  rate: '0'
+  shipping: '0'
+  state: AK
+wootax/55:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '99578'
+    location_type: postcode
+  name: EEK
+  order: '0'
+  priority: '0'
+  rate: '2'
+  shipping: '0'
+  state: AK
+wootax/56:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '99579'
+    location_type: postcode
+  name: EGEGIK
+  order: '0'
+  priority: '0'
+  rate: '0'
+  shipping: '0'
+  state: AK
+wootax/57:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '99580'
+    location_type: postcode
+  name: EKWOK
+  order: '0'
+  priority: '0'
+  rate: '0'
+  shipping: '0'
+  state: AK
+wootax/58:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '99581'
+    location_type: postcode
+  name: EMMONAK
+  order: '0'
+  priority: '0'
+  rate: '4'
+  shipping: '0'
+  state: AK
+wootax/59:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '99583'
+    location_type: postcode
+  name: FALSE PASS
+  order: '0'
+  priority: '0'
+  rate: '3'
+  shipping: '0'
+  state: AK
+wootax/6:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '99503'
+    location_type: postcode
+  name: ANCHORAGE BOROUGH
+  order: '0'
+  priority: '0'
+  rate: '0'
+  shipping: '0'
+  state: AK
+wootax/60:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '99585'
+    location_type: postcode
+  name: MARSHALL
+  order: '0'
+  priority: '0'
+  rate: '4'
+  shipping: '0'
+  state: AK
+wootax/61:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '99586'
+    location_type: postcode
+  name: ALASKA STATE
+  order: '0'
+  priority: '0'
+  rate: '0'
+  shipping: '0'
+  state: AK
+wootax/62:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '99587'
+    location_type: postcode
+  name: ANCHORAGE BOROUGH
+  order: '0'
+  priority: '0'
+  rate: '0'
+  shipping: '0'
+  state: AK
+wootax/63:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '99588'
+    location_type: postcode
+  name: ALASKA STATE
+  order: '0'
+  priority: '0'
+  rate: '0'
+  shipping: '0'
+  state: AK
+wootax/64:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '99589'
+    location_type: postcode
+  name: GOODNEWS BAY
+  order: '0'
+  priority: '0'
+  rate: '0'
+  shipping: '0'
+  state: AK
+wootax/65:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '99590'
+    location_type: postcode
+  name: GRAYLING
+  order: '0'
+  priority: '0'
+  rate: '0'
+  shipping: '0'
+  state: AK
+wootax/66:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '99599'
+    location_type: postcode
+  name: ANCHORAGE BOROUGH
+  order: '0'
+  priority: '0'
+  rate: '0'
+  shipping: '0'
+  state: AK
+wootax/67:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '99602'
+    location_type: postcode
+  name: HOLY CROSS
+  order: '0'
+  priority: '0'
+  rate: '0'
+  shipping: '0'
+  state: AK
+wootax/68:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '99603'
+    location_type: postcode
+  name: HOMER
+  order: '0'
+  priority: '0'
+  rate: '7.85'
+  shipping: '0'
+  state: AK
+wootax/69:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '99604'
+    location_type: postcode
+  name: HOOPER BAY
+  order: '0'
+  priority: '0'
+  rate: '5'
+  shipping: '0'
+  state: AK
+wootax/7:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '99504'
+    location_type: postcode
+  name: ANCHORAGE BOROUGH
+  order: '0'
+  priority: '0'
+  rate: '0'
+  shipping: '0'
+  state: AK
+wootax/70:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '99605'
+    location_type: postcode
+  name: KENAI PENINSULA BURROUGH
+  order: '0'
+  priority: '0'
+  rate: '3'
+  shipping: '0'
+  state: AK
+wootax/71:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '99606'
+    location_type: postcode
+  name: LAKE AND PENINSULA BOROUGH
+  order: '0'
+  priority: '0'
+  rate: '0'
+  shipping: '0'
+  state: AK
+wootax/72:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '99607'
+    location_type: postcode
+  name: UPPER KALSKAG
+  order: '0'
+  priority: '0'
+  rate: '0'
+  shipping: '0'
+  state: AK
+wootax/73:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '99608'
+    location_type: postcode
+  name: KODIAK ISLAND BOROUGH
+  order: '0'
+  priority: '0'
+  rate: '0'
+  shipping: '0'
+  state: AK
+wootax/74:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '99609'
+    location_type: postcode
+  name: ALASKA STATE
+  order: '0'
+  priority: '0'
+  rate: '0'
+  shipping: '0'
+  state: AK
+wootax/75:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '99610'
+    location_type: postcode
+  name: KENAI PENINSULA BURROUGH
+  order: '0'
+  priority: '0'
+  rate: '3'
+  shipping: '0'
+  state: AK
+wootax/76:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '99611'
+    location_type: postcode
+  name: KENAI
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '0'
+  state: AK
+wootax/77:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '99612'
+    location_type: postcode
+  name: KING COVE
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '0'
+  state: AK
+wootax/78:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '99613'
+    location_type: postcode
+  name: BRISTOL BAY BOROUGH
+  order: '0'
+  priority: '0'
+  rate: '0'
+  shipping: '0'
+  state: AK
+wootax/79:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '99614'
+    location_type: postcode
+  name: ALASKA STATE
+  order: '0'
+  priority: '0'
+  rate: '0'
+  shipping: '0'
+  state: AK
+wootax/8:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '99505'
+    location_type: postcode
+  name: ANCHORAGE BOROUGH
+  order: '0'
+  priority: '0'
+  rate: '0'
+  shipping: '0'
+  state: AK
+wootax/80:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '99615'
+    location_type: postcode
+  name: KODIAK
+  order: '0'
+  priority: '0'
+  rate: '7'
+  shipping: '0'
+  state: AK
+wootax/81:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '99620'
+    location_type: postcode
+  name: KOTLIK
+  order: '0'
+  priority: '0'
+  rate: '3'
+  shipping: '0'
+  state: AK
+wootax/82:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '99621'
+    location_type: postcode
+  name: KWETHLUK
+  order: '0'
+  priority: '0'
+  rate: '5'
+  shipping: '0'
+  state: AK
+wootax/83:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '99622'
+    location_type: postcode
+  name: ALASKA STATE
+  order: '0'
+  priority: '0'
+  rate: '0'
+  shipping: '0'
+  state: AK
+wootax/84:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '99623'
+    location_type: postcode
+  name: MATANUSKA-SUSITNA BOROUGH
+  order: '0'
+  priority: '0'
+  rate: '0'
+  shipping: '0'
+  state: AK
+wootax/85:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '99624'
+    location_type: postcode
+  name: LARSEN BAY
+  order: '0'
+  priority: '0'
+  rate: '3'
+  shipping: '0'
+  state: AK
+wootax/86:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '99625'
+    location_type: postcode
+  name: LAKE AND PENINSULA BOROUGH
+  order: '0'
+  priority: '0'
+  rate: '0'
+  shipping: '0'
+  state: AK
+wootax/87:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '99626'
+    location_type: postcode
+  name: LOWER KALSKAG
+  order: '0'
+  priority: '0'
+  rate: '0'
+  shipping: '0'
+  state: AK
+wootax/88:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '99627'
+    location_type: postcode
+  name: ALASKA STATE
+  order: '0'
+  priority: '0'
+  rate: '0'
+  shipping: '0'
+  state: AK
+wootax/89:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '99628'
+    location_type: postcode
+  name: MANOKOTAK
+  order: '0'
+  priority: '0'
+  rate: '2'
+  shipping: '0'
+  state: AK
+wootax/9:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '99506'
+    location_type: postcode
+  name: ANCHORAGE BOROUGH
+  order: '0'
+  priority: '0'
+  rate: '0'
+  shipping: '0'
+  state: AK
+wootax/90:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '99630'
+    location_type: postcode
+  name: MEKORYUK
+  order: '0'
+  priority: '0'
+  rate: '4'
+  shipping: '0'
+  state: AK
+wootax/91:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '99631'
+    location_type: postcode
+  name: KENAI PENINSULA BURROUGH
+  order: '0'
+  priority: '0'
+  rate: '3'
+  shipping: '0'
+  state: AK
+wootax/92:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '99632'
+    location_type: postcode
+  name: MOUNTAIN VILLAGE
+  order: '0'
+  priority: '0'
+  rate: '3'
+  shipping: '0'
+  state: AK
+wootax/93:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '99633'
+    location_type: postcode
+  name: BRISTOL BAY BOROUGH
+  order: '0'
+  priority: '0'
+  rate: '0'
+  shipping: '0'
+  state: AK
+wootax/94:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '99634'
+    location_type: postcode
+  name: NAPAKIAK
+  order: '0'
+  priority: '0'
+  rate: '5'
+  shipping: '0'
+  state: AK
+wootax/95:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '99635'
+    location_type: postcode
+  name: KENAI
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '0'
+  state: AK
+wootax/96:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '99636'
+    location_type: postcode
+  name: NEW STUYAHOK
+  order: '0'
+  priority: '0'
+  rate: '0'
+  shipping: '0'
+  state: AK
+wootax/97:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '99638'
+    location_type: postcode
+  name: ALASKA STATE
+  order: '0'
+  priority: '0'
+  rate: '0'
+  shipping: '0'
+  state: AK
+wootax/98:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '99639'
+    location_type: postcode
+  name: KENAI PENINSULA BURROUGH
+  order: '0'
+  priority: '0'
+  rate: '3'
+  shipping: '0'
+  state: AK
+wootax/99:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '99640'
+    location_type: postcode
+  name: LAKE AND PENINSULA BOROUGH
+  order: '0'
+  priority: '0'
+  rate: '0'
+  shipping: '0'
+  state: AK
