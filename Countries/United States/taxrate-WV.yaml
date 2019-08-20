@@ -1,0 +1,10764 @@
+wootax/39327:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '24701'
+    location_type: postcode
+  name: BLUEFIELD
+  order: '0'
+  priority: '0'
+  rate: '7'
+  shipping: '1'
+  state: WV
+wootax/39328:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '24712'
+    location_type: postcode
+  name: MERCER
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: WV
+wootax/39329:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '24714'
+    location_type: postcode
+  name: MERCER
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: WV
+wootax/39330:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '24715'
+    location_type: postcode
+  name: MERCER
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: WV
+wootax/39331:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '24716'
+    location_type: postcode
+  name: WYOMING
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: WV
+wootax/39332:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '24719'
+    location_type: postcode
+  name: WYOMING
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: WV
+wootax/39333:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '24724'
+    location_type: postcode
+  name: BRAMWELL
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: WV
+wootax/39334:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '24726'
+    location_type: postcode
+  name: WYOMING
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: WV
+wootax/39335:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '24729'
+    location_type: postcode
+  name: MERCER
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: WV
+wootax/39336:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '24731'
+    location_type: postcode
+  name: MERCER
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: WV
+wootax/39337:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '24732'
+    location_type: postcode
+  name: MERCER
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: WV
+wootax/39338:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '24733'
+    location_type: postcode
+  name: MERCER
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: WV
+wootax/39339:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '24736'
+    location_type: postcode
+  name: MATOAKA
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: WV
+wootax/39340:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '24737'
+    location_type: postcode
+  name: MERCER
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: WV
+wootax/39341:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '24738'
+    location_type: postcode
+  name: MERCER
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: WV
+wootax/39342:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '24739'
+    location_type: postcode
+  name: PRINCETON
+  order: '0'
+  priority: '0'
+  rate: '7'
+  shipping: '1'
+  state: WV
+wootax/39343:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '24740'
+    location_type: postcode
+  name: MERCER
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: WV
+wootax/39344:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '24747'
+    location_type: postcode
+  name: MERCER
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: WV
+wootax/39345:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '24801'
+    location_type: postcode
+  name: WELCH
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: WV
+wootax/39346:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '24808'
+    location_type: postcode
+  name: MCDOWELL
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: WV
+wootax/39347:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '24811'
+    location_type: postcode
+  name: MCDOWELL
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: WV
+wootax/39348:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '24813'
+    location_type: postcode
+  name: MCDOWELL
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: WV
+wootax/39349:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '24815'
+    location_type: postcode
+  name: MCDOWELL
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: WV
+wootax/39350:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '24816'
+    location_type: postcode
+  name: MCDOWELL
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: WV
+wootax/39351:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '24817'
+    location_type: postcode
+  name: BRADSHAW
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: WV
+wootax/39352:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '24818'
+    location_type: postcode
+  name: WYOMING
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: WV
+wootax/39353:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '24822'
+    location_type: postcode
+  name: WYOMING
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: WV
+wootax/39354:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '24823'
+    location_type: postcode
+  name: WYOMING
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: WV
+wootax/39355:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '24826'
+    location_type: postcode
+  name: MCDOWELL
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: WV
+wootax/39356:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '24827'
+    location_type: postcode
+  name: WYOMING
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: WV
+wootax/39357:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '24828'
+    location_type: postcode
+  name: MCDOWELL
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: WV
+wootax/39358:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '24830'
+    location_type: postcode
+  name: GARY
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: WV
+wootax/39359:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '24831'
+    location_type: postcode
+  name: MCDOWELL
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: WV
+wootax/39360:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '24834'
+    location_type: postcode
+  name: WYOMING
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: WV
+wootax/39361:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '24836'
+    location_type: postcode
+  name: GARY
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: WV
+wootax/39362:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '24839'
+    location_type: postcode
+  name: WYOMING
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: WV
+wootax/39363:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '24843'
+    location_type: postcode
+  name: MCDOWELL
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: WV
+wootax/39364:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '24844'
+    location_type: postcode
+  name: IAEGER
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: WV
+wootax/39365:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '24845'
+    location_type: postcode
+  name: WYOMING
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: WV
+wootax/39366:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '24846'
+    location_type: postcode
+  name: MCDOWELL
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: WV
+wootax/39367:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '24847'
+    location_type: postcode
+  name: WYOMING
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: WV
+wootax/39368:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '24848'
+    location_type: postcode
+  name: MCDOWELL
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: WV
+wootax/39369:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '24849'
+    location_type: postcode
+  name: WYOMING
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: WV
+wootax/39370:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '24850'
+    location_type: postcode
+  name: MCDOWELL
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: WV
+wootax/39371:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '24851'
+    location_type: postcode
+  name: MINGO
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: WV
+wootax/39372:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '24853'
+    location_type: postcode
+  name: KIMBALL
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: WV
+wootax/39373:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '24854'
+    location_type: postcode
+  name: WYOMING
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: WV
+wootax/39374:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '24855'
+    location_type: postcode
+  name: MCDOWELL
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: WV
+wootax/39375:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '24857'
+    location_type: postcode
+  name: WYOMING
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: WV
+wootax/39376:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '24859'
+    location_type: postcode
+  name: WYOMING
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: WV
+wootax/39377:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '24860'
+    location_type: postcode
+  name: WYOMING
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: WV
+wootax/39378:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '24861'
+    location_type: postcode
+  name: MCDOWELL
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: WV
+wootax/39379:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '24862'
+    location_type: postcode
+  name: MCDOWELL
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: WV
+wootax/39380:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '24866'
+    location_type: postcode
+  name: MCDOWELL
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: WV
+wootax/39381:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '24867'
+    location_type: postcode
+  name: WYOMING
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: WV
+wootax/39382:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '24868'
+    location_type: postcode
+  name: MCDOWELL
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: WV
+wootax/39383:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '24869'
+    location_type: postcode
+  name: WYOMING
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: WV
+wootax/39384:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '24870'
+    location_type: postcode
+  name: OCEANA
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: WV
+wootax/39385:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '24871'
+    location_type: postcode
+  name: MCDOWELL
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: WV
+wootax/39386:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '24872'
+    location_type: postcode
+  name: MCDOWELL
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: WV
+wootax/39387:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '24873'
+    location_type: postcode
+  name: MCDOWELL
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: WV
+wootax/39388:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '24874'
+    location_type: postcode
+  name: PINEVILLE
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: WV
+wootax/39389:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '24878'
+    location_type: postcode
+  name: MCDOWELL
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: WV
+wootax/39390:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '24879'
+    location_type: postcode
+  name: MCDOWELL
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: WV
+wootax/39391:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '24880'
+    location_type: postcode
+  name: WYOMING
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: WV
+wootax/39392:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '24881'
+    location_type: postcode
+  name: MCDOWELL
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: WV
+wootax/39393:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '24882'
+    location_type: postcode
+  name: WYOMING
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: WV
+wootax/39394:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '24884'
+    location_type: postcode
+  name: MCDOWELL
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: WV
+wootax/39395:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '24887'
+    location_type: postcode
+  name: MCDOWELL
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: WV
+wootax/39396:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '24888'
+    location_type: postcode
+  name: GARY
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: WV
+wootax/39397:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '24892'
+    location_type: postcode
+  name: MCDOWELL
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: WV
+wootax/39398:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '24894'
+    location_type: postcode
+  name: MCDOWELL
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: WV
+wootax/39399:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '24895'
+    location_type: postcode
+  name: WYOMING
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: WV
+wootax/39400:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '24898'
+    location_type: postcode
+  name: WYOMING
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: WV
+wootax/39401:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '24901'
+    location_type: postcode
+  name: LEWISBURG
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: WV
+wootax/39402:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '24902'
+    location_type: postcode
+  name: GREENBRIER
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: WV
+wootax/39403:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '24910'
+    location_type: postcode
+  name: ALDERSON
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: WV
+wootax/39404:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '24915'
+    location_type: postcode
+  name: POCAHONTAS
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: WV
+wootax/39405:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '24916'
+    location_type: postcode
+  name: GREENBRIER
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: WV
+wootax/39406:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '24918'
+    location_type: postcode
+  name: MONROE
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: WV
+wootax/39407:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '24920'
+    location_type: postcode
+  name: POCAHONTAS
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: WV
+wootax/39408:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '24924'
+    location_type: postcode
+  name: POCAHONTAS
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: WV
+wootax/39409:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '24925'
+    location_type: postcode
+  name: GREENBRIER
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: WV
+wootax/39410:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '24927'
+    location_type: postcode
+  name: POCAHONTAS
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: WV
+wootax/39411:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '24931'
+    location_type: postcode
+  name: GREENBRIER
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: WV
+wootax/39412:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '24934'
+    location_type: postcode
+  name: POCAHONTAS
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: WV
+wootax/39413:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '24935'
+    location_type: postcode
+  name: SUMMERS
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: WV
+wootax/39414:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '24938'
+    location_type: postcode
+  name: GREENBRIER
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: WV
+wootax/39415:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '24941'
+    location_type: postcode
+  name: MONROE
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: WV
+wootax/39416:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '24943'
+    location_type: postcode
+  name: GREENBRIER
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: WV
+wootax/39417:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '24944'
+    location_type: postcode
+  name: POCAHONTAS
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: WV
+wootax/39418:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '24945'
+    location_type: postcode
+  name: MONROE
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: WV
+wootax/39419:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '24946'
+    location_type: postcode
+  name: POCAHONTAS
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: WV
+wootax/39420:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '24951'
+    location_type: postcode
+  name: MONROE
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: WV
+wootax/39421:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '24954'
+    location_type: postcode
+  name: MARLINTON
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: WV
+wootax/39422:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '24957'
+    location_type: postcode
+  name: GREENBRIER
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: WV
+wootax/39423:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '24962'
+    location_type: postcode
+  name: SUMMERS
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: WV
+wootax/39424:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '24963'
+    location_type: postcode
+  name: MONROE
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: WV
+wootax/39425:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '24966'
+    location_type: postcode
+  name: GREENBRIER
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: WV
+wootax/39426:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '24970'
+    location_type: postcode
+  name: RONCEVERTE
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: WV
+wootax/39427:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '24974'
+    location_type: postcode
+  name: MONROE
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: WV
+wootax/39428:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '24976'
+    location_type: postcode
+  name: MONROE
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: WV
+wootax/39429:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '24977'
+    location_type: postcode
+  name: GREENBRIER
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: WV
+wootax/39430:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '24981'
+    location_type: postcode
+  name: SUMMERS
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: WV
+wootax/39431:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '24983'
+    location_type: postcode
+  name: UNION
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: WV
+wootax/39432:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '24984'
+    location_type: postcode
+  name: MONROE
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: WV
+wootax/39433:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '24985'
+    location_type: postcode
+  name: MONROE
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: WV
+wootax/39434:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '24986'
+    location_type: postcode
+  name: WHITE SULPHUR SPRINGS
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: WV
+wootax/39435:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '24991'
+    location_type: postcode
+  name: GREENBRIER
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: WV
+wootax/39436:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '24993'
+    location_type: postcode
+  name: MONROE
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: WV
+wootax/39437:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '25002'
+    location_type: postcode
+  name: FAYETTE
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: WV
+wootax/39438:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '25003'
+    location_type: postcode
+  name: KANAWHA
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: WV
+wootax/39439:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '25005'
+    location_type: postcode
+  name: ROANE
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: WV
+wootax/39440:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '25007'
+    location_type: postcode
+  name: RALEIGH
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: WV
+wootax/39441:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '25008'
+    location_type: postcode
+  name: RALEIGH
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: WV
+wootax/39442:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '25009'
+    location_type: postcode
+  name: BOONE
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: WV
+wootax/39443:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '25011'
+    location_type: postcode
+  name: BANCROFT
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: WV
+wootax/39444:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '25015'
+    location_type: postcode
+  name: KANAWHA
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: WV
+wootax/39445:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '25019'
+    location_type: postcode
+  name: CLAY
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: WV
+wootax/39446:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '25021'
+    location_type: postcode
+  name: BOONE
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: WV
+wootax/39447:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '25022'
+    location_type: postcode
+  name: LOGAN
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: WV
+wootax/39448:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '25024'
+    location_type: postcode
+  name: BOONE
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: WV
+wootax/39449:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '25025'
+    location_type: postcode
+  name: KANAWHA
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: WV
+wootax/39450:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '25026'
+    location_type: postcode
+  name: KANAWHA
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: WV
+wootax/39451:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '25028'
+    location_type: postcode
+  name: BOONE
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: WV
+wootax/39452:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '25030'
+    location_type: postcode
+  name: CLAY
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: WV
+wootax/39453:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '25031'
+    location_type: postcode
+  name: FAYETTE
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: WV
+wootax/39454:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '25033'
+    location_type: postcode
+  name: BUFFALO
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: WV
+wootax/39455:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '25035'
+    location_type: postcode
+  name: KANAWHA
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: WV
+wootax/39456:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '25036'
+    location_type: postcode
+  name: FAYETTE
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: WV
+wootax/39457:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '25039'
+    location_type: postcode
+  name: CEDAR GROVE
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: WV
+wootax/39458:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '25040'
+    location_type: postcode
+  name: FAYETTE
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: WV
+wootax/39459:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '25043'
+    location_type: postcode
+  name: CLAY
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: WV
+wootax/39460:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '25044'
+    location_type: postcode
+  name: RALEIGH
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: WV
+wootax/39461:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '25045'
+    location_type: postcode
+  name: KANAWHA
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: WV
+wootax/39462:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '25047'
+    location_type: postcode
+  name: BOONE
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: WV
+wootax/39463:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '25048'
+    location_type: postcode
+  name: RALEIGH
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: WV
+wootax/39464:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '25049'
+    location_type: postcode
+  name: BOONE
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: WV
+wootax/39465:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '25051'
+    location_type: postcode
+  name: BOONE
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: WV
+wootax/39466:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '25053'
+    location_type: postcode
+  name: BOONE
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: WV
+wootax/39467:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '25054'
+    location_type: postcode
+  name: KANAWHA
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: WV
+wootax/39468:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '25059'
+    location_type: postcode
+  name: NICHOLAS
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: WV
+wootax/39469:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '25060'
+    location_type: postcode
+  name: RALEIGH
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: WV
+wootax/39470:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '25061'
+    location_type: postcode
+  name: KANAWHA
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: WV
+wootax/39471:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '25062'
+    location_type: postcode
+  name: RALEIGH
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: WV
+wootax/39472:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '25063'
+    location_type: postcode
+  name: CLAY
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: WV
+wootax/39473:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '25064'
+    location_type: postcode
+  name: DUNBAR
+  order: '0'
+  priority: '0'
+  rate: '7'
+  shipping: '1'
+  state: WV
+wootax/39474:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '25067'
+    location_type: postcode
+  name: KANAWHA
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: WV
+wootax/39475:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '25070'
+    location_type: postcode
+  name: ELEANOR
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: WV
+wootax/39476:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '25071'
+    location_type: postcode
+  name: KANAWHA
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: WV
+wootax/39477:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '25075'
+    location_type: postcode
+  name: KANAWHA
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: WV
+wootax/39478:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '25076'
+    location_type: postcode
+  name: LOGAN
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: WV
+wootax/39479:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '25079'
+    location_type: postcode
+  name: KANAWHA
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: WV
+wootax/39480:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '25081'
+    location_type: postcode
+  name: BOONE
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: WV
+wootax/39481:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '25082'
+    location_type: postcode
+  name: PUTNAM
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: WV
+wootax/39482:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '25083'
+    location_type: postcode
+  name: KANAWHA
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: WV
+wootax/39483:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '25085'
+    location_type: postcode
+  name: FAYETTE
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: WV
+wootax/39484:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '25086'
+    location_type: postcode
+  name: GLASGOW
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: WV
+wootax/39485:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '25088'
+    location_type: postcode
+  name: CLAY
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: WV
+wootax/39486:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '25090'
+    location_type: postcode
+  name: FAYETTE
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: WV
+wootax/39487:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '25093'
+    location_type: postcode
+  name: BOONE
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: WV
+wootax/39488:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '25102'
+    location_type: postcode
+  name: KANAWHA
+  order: '0'
+  priority: '0'
+  rate: '7'
+  shipping: '1'
+  state: WV
+wootax/39489:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '25103'
+    location_type: postcode
+  name: KANAWHA
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: WV
+wootax/39490:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '25106'
+    location_type: postcode
+  name: MASON
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: WV
+wootax/39491:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '25107'
+    location_type: postcode
+  name: KANAWHA
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: WV
+wootax/39492:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '25108'
+    location_type: postcode
+  name: BOONE
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: WV
+wootax/39493:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '25109'
+    location_type: postcode
+  name: PUTNAM
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: WV
+wootax/39494:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '25110'
+    location_type: postcode
+  name: KANAWHA
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: WV
+wootax/39495:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '25111'
+    location_type: postcode
+  name: CLAY
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: WV
+wootax/39496:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '25112'
+    location_type: postcode
+  name: KANAWHA
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: WV
+wootax/39497:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '25113'
+    location_type: postcode
+  name: CLAY
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: WV
+wootax/39498:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '25114'
+    location_type: postcode
+  name: BOONE
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: WV
+wootax/39499:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '25115'
+    location_type: postcode
+  name: FAYETTE
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: WV
+wootax/39500:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '25118'
+    location_type: postcode
+  name: FAYETTE
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: WV
+wootax/39501:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '25119'
+    location_type: postcode
+  name: FAYETTE
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: WV
+wootax/39502:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '25121'
+    location_type: postcode
+  name: LOGAN
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: WV
+wootax/39503:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '25123'
+    location_type: postcode
+  name: MASON
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: WV
+wootax/39504:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '25124'
+    location_type: postcode
+  name: PUTNAM
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: WV
+wootax/39505:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '25125'
+    location_type: postcode
+  name: CLAY
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: WV
+wootax/39506:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '25126'
+    location_type: postcode
+  name: KANAWHA
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: WV
+wootax/39507:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '25130'
+    location_type: postcode
+  name: MADISON
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: WV
+wootax/39508:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '25132'
+    location_type: postcode
+  name: KANAWHA
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: WV
+wootax/39509:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '25133'
+    location_type: postcode
+  name: CLAY
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: WV
+wootax/39510:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '25134'
+    location_type: postcode
+  name: KANAWHA
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: WV
+wootax/39511:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '25136'
+    location_type: postcode
+  name: MONTGOMERY
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: WV
+wootax/39512:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '25139'
+    location_type: postcode
+  name: FAYETTE
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: WV
+wootax/39513:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '25140'
+    location_type: postcode
+  name: RALEIGH
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: WV
+wootax/39514:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '25141'
+    location_type: postcode
+  name: CLAY
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: WV
+wootax/39515:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '25142'
+    location_type: postcode
+  name: BOONE
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: WV
+wootax/39516:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '25143'
+    location_type: postcode
+  name: NITRO
+  order: '0'
+  priority: '0'
+  rate: '7'
+  shipping: '1'
+  state: WV
+wootax/39517:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '25148'
+    location_type: postcode
+  name: BOONE
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: WV
+wootax/39518:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '25149'
+    location_type: postcode
+  name: BOONE
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: WV
+wootax/39519:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '25154'
+    location_type: postcode
+  name: BOONE
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: WV
+wootax/39520:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '25156'
+    location_type: postcode
+  name: KANAWHA
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: WV
+wootax/39521:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '25159'
+    location_type: postcode
+  name: PUTNAM
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: WV
+wootax/39522:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '25160'
+    location_type: postcode
+  name: KANAWHA
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: WV
+wootax/39523:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '25161'
+    location_type: postcode
+  name: FAYETTE
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: WV
+wootax/39524:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '25162'
+    location_type: postcode
+  name: PRATT
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: WV
+wootax/39525:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '25164'
+    location_type: postcode
+  name: CLAY
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: WV
+wootax/39526:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '25165'
+    location_type: postcode
+  name: BOONE
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: WV
+wootax/39527:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '25168'
+    location_type: postcode
+  name: PUTNAM
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: WV
+wootax/39528:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '25169'
+    location_type: postcode
+  name: BOONE
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: WV
+wootax/39529:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '25173'
+    location_type: postcode
+  name: FAYETTE
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: WV
+wootax/39530:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '25174'
+    location_type: postcode
+  name: RALEIGH
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: WV
+wootax/39531:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '25177'
+    location_type: postcode
+  name: KANAWHA
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: WV
+wootax/39532:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '25180'
+    location_type: postcode
+  name: RALEIGH
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: WV
+wootax/39533:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '25181'
+    location_type: postcode
+  name: BOONE
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: WV
+wootax/39534:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '25183'
+    location_type: postcode
+  name: LOGAN
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: WV
+wootax/39535:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '25185'
+    location_type: postcode
+  name: SMITHERS
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: WV
+wootax/39536:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '25186'
+    location_type: postcode
+  name: SMITHERS
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: WV
+wootax/39537:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '25187'
+    location_type: postcode
+  name: MASON
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: WV
+wootax/39538:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '25193'
+    location_type: postcode
+  name: BOONE
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: WV
+wootax/39539:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '25201'
+    location_type: postcode
+  name: KANAWHA
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: WV
+wootax/39540:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '25202'
+    location_type: postcode
+  name: KANAWHA
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: WV
+wootax/39541:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '25203'
+    location_type: postcode
+  name: BOONE
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: WV
+wootax/39542:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '25204'
+    location_type: postcode
+  name: BOONE
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: WV
+wootax/39543:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '25205'
+    location_type: postcode
+  name: BOONE
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: WV
+wootax/39544:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '25206'
+    location_type: postcode
+  name: BOONE
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: WV
+wootax/39545:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '25208'
+    location_type: postcode
+  name: BOONE
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: WV
+wootax/39546:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '25209'
+    location_type: postcode
+  name: RALEIGH
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: WV
+wootax/39547:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '25211'
+    location_type: postcode
+  name: CLAY
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: WV
+wootax/39548:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '25213'
+    location_type: postcode
+  name: PUTNAM
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: WV
+wootax/39549:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '25214'
+    location_type: postcode
+  name: KANAWHA
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: WV
+wootax/39550:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '25231'
+    location_type: postcode
+  name: JACKSON
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: WV
+wootax/39551:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '25234'
+    location_type: postcode
+  name: CALHOUN
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: WV
+wootax/39552:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '25235'
+    location_type: postcode
+  name: CALHOUN
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: WV
+wootax/39553:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '25239'
+    location_type: postcode
+  name: JACKSON
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: WV
+wootax/39554:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '25241'
+    location_type: postcode
+  name: JACKSON
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: WV
+wootax/39555:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '25243'
+    location_type: postcode
+  name: ROANE
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: WV
+wootax/39556:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '25244'
+    location_type: postcode
+  name: JACKSON
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: WV
+wootax/39557:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '25245'
+    location_type: postcode
+  name: JACKSON
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: WV
+wootax/39558:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '25247'
+    location_type: postcode
+  name: HARTFORD CITY
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: WV
+wootax/39559:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '25248'
+    location_type: postcode
+  name: JACKSON
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: WV
+wootax/39560:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '25251'
+    location_type: postcode
+  name: ROANE
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: WV
+wootax/39561:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '25252'
+    location_type: postcode
+  name: ROANE
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: WV
+wootax/39562:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '25253'
+    location_type: postcode
+  name: MASON
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: WV
+wootax/39563:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '25259'
+    location_type: postcode
+  name: ROANE
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: WV
+wootax/39564:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '25260'
+    location_type: postcode
+  name: MASON
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: WV
+wootax/39565:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '25261'
+    location_type: postcode
+  name: CALHOUN
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: WV
+wootax/39566:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '25262'
+    location_type: postcode
+  name: JACKSON
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: WV
+wootax/39567:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '25264'
+    location_type: postcode
+  name: MASON
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: WV
+wootax/39568:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '25265'
+    location_type: postcode
+  name: NEW HAVEN
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: WV
+wootax/39569:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '25266'
+    location_type: postcode
+  name: ROANE
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: WV
+wootax/39570:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '25267'
+    location_type: postcode
+  name: GILMER
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: WV
+wootax/39571:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '25268'
+    location_type: postcode
+  name: CALHOUN
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: WV
+wootax/39572:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '25270'
+    location_type: postcode
+  name: ROANE
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: WV
+wootax/39573:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '25271'
+    location_type: postcode
+  name: JACKSON
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: WV
+wootax/39574:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '25275'
+    location_type: postcode
+  name: JACKSON
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: WV
+wootax/39575:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '25276'
+    location_type: postcode
+  name: ROANE
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: WV
+wootax/39576:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '25285'
+    location_type: postcode
+  name: CLAY
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: WV
+wootax/39577:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '25286'
+    location_type: postcode
+  name: ROANE
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: WV
+wootax/39578:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '25287'
+    location_type: postcode
+  name: MASON
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: WV
+wootax/39579:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '25301'
+    location_type: postcode
+  name: CHARLESTON
+  order: '0'
+  priority: '0'
+  rate: '7'
+  shipping: '1'
+  state: WV
+wootax/39580:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '25302'
+    location_type: postcode
+  name: CHARLESTON
+  order: '0'
+  priority: '0'
+  rate: '7'
+  shipping: '1'
+  state: WV
+wootax/39581:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '25303'
+    location_type: postcode
+  name: KANAWHA
+  order: '0'
+  priority: '0'
+  rate: '7'
+  shipping: '1'
+  state: WV
+wootax/39582:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '25304'
+    location_type: postcode
+  name: CHARLESTON
+  order: '0'
+  priority: '0'
+  rate: '7'
+  shipping: '1'
+  state: WV
+wootax/39583:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '25305'
+    location_type: postcode
+  name: CHARLESTON
+  order: '0'
+  priority: '0'
+  rate: '7'
+  shipping: '1'
+  state: WV
+wootax/39584:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '25306'
+    location_type: postcode
+  name: KANAWHA
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: WV
+wootax/39585:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '25309'
+    location_type: postcode
+  name: KANAWHA
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: WV
+wootax/39586:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '25311'
+    location_type: postcode
+  name: CHARLESTON
+  order: '0'
+  priority: '0'
+  rate: '7'
+  shipping: '1'
+  state: WV
+wootax/39587:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '25312'
+    location_type: postcode
+  name: KANAWHA
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: WV
+wootax/39588:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '25313'
+    location_type: postcode
+  name: KANAWHA
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: WV
+wootax/39589:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '25314'
+    location_type: postcode
+  name: CHARLESTON
+  order: '0'
+  priority: '0'
+  rate: '7'
+  shipping: '1'
+  state: WV
+wootax/39590:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '25315'
+    location_type: postcode
+  name: MARMET
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: WV
+wootax/39591:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '25317'
+    location_type: postcode
+  name: CHARLESTON
+  order: '0'
+  priority: '0'
+  rate: '7'
+  shipping: '1'
+  state: WV
+wootax/39592:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '25320'
+    location_type: postcode
+  name: KANAWHA
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: WV
+wootax/39593:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '25321'
+    location_type: postcode
+  name: CHARLESTON
+  order: '0'
+  priority: '0'
+  rate: '7'
+  shipping: '1'
+  state: WV
+wootax/39594:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '25322'
+    location_type: postcode
+  name: CHARLESTON
+  order: '0'
+  priority: '0'
+  rate: '7'
+  shipping: '1'
+  state: WV
+wootax/39595:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '25323'
+    location_type: postcode
+  name: CHARLESTON
+  order: '0'
+  priority: '0'
+  rate: '7'
+  shipping: '1'
+  state: WV
+wootax/39596:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '25324'
+    location_type: postcode
+  name: CHARLESTON
+  order: '0'
+  priority: '0'
+  rate: '7'
+  shipping: '1'
+  state: WV
+wootax/39597:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '25325'
+    location_type: postcode
+  name: CHARLESTON
+  order: '0'
+  priority: '0'
+  rate: '7'
+  shipping: '1'
+  state: WV
+wootax/39598:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '25326'
+    location_type: postcode
+  name: CHARLESTON
+  order: '0'
+  priority: '0'
+  rate: '7'
+  shipping: '1'
+  state: WV
+wootax/39599:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '25327'
+    location_type: postcode
+  name: CHARLESTON
+  order: '0'
+  priority: '0'
+  rate: '7'
+  shipping: '1'
+  state: WV
+wootax/39600:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '25328'
+    location_type: postcode
+  name: CHARLESTON
+  order: '0'
+  priority: '0'
+  rate: '7'
+  shipping: '1'
+  state: WV
+wootax/39601:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '25329'
+    location_type: postcode
+  name: CHARLESTON
+  order: '0'
+  priority: '0'
+  rate: '7'
+  shipping: '1'
+  state: WV
+wootax/39602:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '25330'
+    location_type: postcode
+  name: CHARLESTON
+  order: '0'
+  priority: '0'
+  rate: '7'
+  shipping: '1'
+  state: WV
+wootax/39603:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '25331'
+    location_type: postcode
+  name: CHARLESTON
+  order: '0'
+  priority: '0'
+  rate: '7'
+  shipping: '1'
+  state: WV
+wootax/39604:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '25332'
+    location_type: postcode
+  name: CHARLESTON
+  order: '0'
+  priority: '0'
+  rate: '7'
+  shipping: '1'
+  state: WV
+wootax/39605:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '25333'
+    location_type: postcode
+  name: CHARLESTON
+  order: '0'
+  priority: '0'
+  rate: '7'
+  shipping: '1'
+  state: WV
+wootax/39606:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '25334'
+    location_type: postcode
+  name: CHARLESTON
+  order: '0'
+  priority: '0'
+  rate: '7'
+  shipping: '1'
+  state: WV
+wootax/39607:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '25335'
+    location_type: postcode
+  name: CHARLESTON
+  order: '0'
+  priority: '0'
+  rate: '7'
+  shipping: '1'
+  state: WV
+wootax/39608:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '25336'
+    location_type: postcode
+  name: CHARLESTON
+  order: '0'
+  priority: '0'
+  rate: '7'
+  shipping: '1'
+  state: WV
+wootax/39609:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '25337'
+    location_type: postcode
+  name: CHARLESTON
+  order: '0'
+  priority: '0'
+  rate: '7'
+  shipping: '1'
+  state: WV
+wootax/39610:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '25338'
+    location_type: postcode
+  name: CHARLESTON
+  order: '0'
+  priority: '0'
+  rate: '7'
+  shipping: '1'
+  state: WV
+wootax/39611:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '25339'
+    location_type: postcode
+  name: CHARLESTON
+  order: '0'
+  priority: '0'
+  rate: '7'
+  shipping: '1'
+  state: WV
+wootax/39612:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '25361'
+    location_type: postcode
+  name: CHARLESTON
+  order: '0'
+  priority: '0'
+  rate: '7'
+  shipping: '1'
+  state: WV
+wootax/39613:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '25362'
+    location_type: postcode
+  name: CHARLESTON
+  order: '0'
+  priority: '0'
+  rate: '7'
+  shipping: '1'
+  state: WV
+wootax/39614:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '25364'
+    location_type: postcode
+  name: CHARLESTON
+  order: '0'
+  priority: '0'
+  rate: '7'
+  shipping: '1'
+  state: WV
+wootax/39615:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '25387'
+    location_type: postcode
+  name: CHARLESTON
+  order: '0'
+  priority: '0'
+  rate: '7'
+  shipping: '1'
+  state: WV
+wootax/39616:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '25389'
+    location_type: postcode
+  name: CHARLESTON
+  order: '0'
+  priority: '0'
+  rate: '7'
+  shipping: '1'
+  state: WV
+wootax/39617:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '25392'
+    location_type: postcode
+  name: CHARLESTON
+  order: '0'
+  priority: '0'
+  rate: '7'
+  shipping: '1'
+  state: WV
+wootax/39618:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '25396'
+    location_type: postcode
+  name: CHARLESTON
+  order: '0'
+  priority: '0'
+  rate: '7'
+  shipping: '1'
+  state: WV
+wootax/39619:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '25401'
+    location_type: postcode
+  name: MARTINSBURG
+  order: '0'
+  priority: '0'
+  rate: '7'
+  shipping: '1'
+  state: WV
+wootax/39620:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '25402'
+    location_type: postcode
+  name: MARTINSBURG
+  order: '0'
+  priority: '0'
+  rate: '7'
+  shipping: '1'
+  state: WV
+wootax/39621:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '25403'
+    location_type: postcode
+  name: BERKELEY
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: WV
+wootax/39622:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '25404'
+    location_type: postcode
+  name: BERKELEY
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: WV
+wootax/39623:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '25405'
+    location_type: postcode
+  name: BERKELEY
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: WV
+wootax/39624:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '25411'
+    location_type: postcode
+  name: MORGAN
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: WV
+wootax/39625:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '25413'
+    location_type: postcode
+  name: BERKELEY
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: WV
+wootax/39626:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '25414'
+    location_type: postcode
+  name: JEFFERSON
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: WV
+wootax/39627:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '25419'
+    location_type: postcode
+  name: BERKELEY
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: WV
+wootax/39628:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '25420'
+    location_type: postcode
+  name: BERKELEY
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: WV
+wootax/39629:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '25421'
+    location_type: postcode
+  name: BERKELEY
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: WV
+wootax/39630:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '25422'
+    location_type: postcode
+  name: MORGAN
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: WV
+wootax/39631:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '25423'
+    location_type: postcode
+  name: JEFFERSON
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: WV
+wootax/39632:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '25425'
+    location_type: postcode
+  name: JEFFERSON
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: WV
+wootax/39633:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '25427'
+    location_type: postcode
+  name: BERKELEY
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: WV
+wootax/39634:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '25428'
+    location_type: postcode
+  name: BERKELEY
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: WV
+wootax/39635:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '25430'
+    location_type: postcode
+  name: JEFFERSON
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: WV
+wootax/39636:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '25431'
+    location_type: postcode
+  name: HAMPSHIRE
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: WV
+wootax/39637:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '25432'
+    location_type: postcode
+  name: JEFFERSON
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: WV
+wootax/39638:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '25434'
+    location_type: postcode
+  name: HAMPSHIRE
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: WV
+wootax/39639:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '25437'
+    location_type: postcode
+  name: HAMPSHIRE
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: WV
+wootax/39640:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '25438'
+    location_type: postcode
+  name: RANSON
+  order: '0'
+  priority: '0'
+  rate: '7'
+  shipping: '1'
+  state: WV
+wootax/39641:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '25441'
+    location_type: postcode
+  name: JEFFERSON
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: WV
+wootax/39642:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '25442'
+    location_type: postcode
+  name: JEFFERSON
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: WV
+wootax/39643:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '25443'
+    location_type: postcode
+  name: JEFFERSON
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: WV
+wootax/39644:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '25444'
+    location_type: postcode
+  name: HAMPSHIRE
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: WV
+wootax/39645:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '25446'
+    location_type: postcode
+  name: JEFFERSON
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: WV
+wootax/39646:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '25501'
+    location_type: postcode
+  name: LINCOLN
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: WV
+wootax/39647:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '25502'
+    location_type: postcode
+  name: MASON
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: WV
+wootax/39648:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '25503'
+    location_type: postcode
+  name: MASON
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: WV
+wootax/39649:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '25504'
+    location_type: postcode
+  name: CABELL
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: WV
+wootax/39650:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '25505'
+    location_type: postcode
+  name: LOGAN
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: WV
+wootax/39651:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '25506'
+    location_type: postcode
+  name: LINCOLN
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: WV
+wootax/39652:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '25507'
+    location_type: postcode
+  name: CEREDO
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: WV
+wootax/39653:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '25508'
+    location_type: postcode
+  name: LOGAN
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: WV
+wootax/39654:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '25510'
+    location_type: postcode
+  name: CABELL
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: WV
+wootax/39655:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '25511'
+    location_type: postcode
+  name: WAYNE
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: WV
+wootax/39656:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '25512'
+    location_type: postcode
+  name: WAYNE
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: WV
+wootax/39657:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '25514'
+    location_type: postcode
+  name: FORT GAY
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: WV
+wootax/39658:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '25515'
+    location_type: postcode
+  name: MASON
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: WV
+wootax/39659:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '25517'
+    location_type: postcode
+  name: WAYNE
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: WV
+wootax/39660:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '25520'
+    location_type: postcode
+  name: MASON
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: WV
+wootax/39661:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '25521'
+    location_type: postcode
+  name: LINCOLN
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: WV
+wootax/39662:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '25523'
+    location_type: postcode
+  name: LINCOLN
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: WV
+wootax/39663:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '25524'
+    location_type: postcode
+  name: LINCOLN
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: WV
+wootax/39664:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '25526'
+    location_type: postcode
+  name: PUTNAM
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: WV
+wootax/39665:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '25529'
+    location_type: postcode
+  name: BOONE
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: WV
+wootax/39666:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '25530'
+    location_type: postcode
+  name: WAYNE
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: WV
+wootax/39667:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '25534'
+    location_type: postcode
+  name: WAYNE
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: WV
+wootax/39668:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '25535'
+    location_type: postcode
+  name: WAYNE
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: WV
+wootax/39669:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '25537'
+    location_type: postcode
+  name: CABELL
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: WV
+wootax/39670:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '25540'
+    location_type: postcode
+  name: LINCOLN
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: WV
+wootax/39671:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '25541'
+    location_type: postcode
+  name: CABELL
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: WV
+wootax/39672:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '25544'
+    location_type: postcode
+  name: LINCOLN
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: WV
+wootax/39673:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '25545'
+    location_type: postcode
+  name: CABELL
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: WV
+wootax/39674:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '25547'
+    location_type: postcode
+  name: LOGAN
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: WV
+wootax/39675:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '25550'
+    location_type: postcode
+  name: MASON
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: WV
+wootax/39676:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '25555'
+    location_type: postcode
+  name: WAYNE
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: WV
+wootax/39677:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '25557'
+    location_type: postcode
+  name: LINCOLN
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: WV
+wootax/39678:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '25559'
+    location_type: postcode
+  name: CABELL
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: WV
+wootax/39679:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '25560'
+    location_type: postcode
+  name: PUTNAM
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: WV
+wootax/39680:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '25562'
+    location_type: postcode
+  name: WAYNE
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: WV
+wootax/39681:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '25564'
+    location_type: postcode
+  name: LINCOLN
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: WV
+wootax/39682:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '25565'
+    location_type: postcode
+  name: LINCOLN
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: WV
+wootax/39683:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '25567'
+    location_type: postcode
+  name: LINCOLN
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: WV
+wootax/39684:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '25569'
+    location_type: postcode
+  name: PUTNAM
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: WV
+wootax/39685:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '25570'
+    location_type: postcode
+  name: WAYNE
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: WV
+wootax/39686:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '25571'
+    location_type: postcode
+  name: WEST HAMLIN
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: WV
+wootax/39687:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '25572'
+    location_type: postcode
+  name: LINCOLN
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: WV
+wootax/39688:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '25573'
+    location_type: postcode
+  name: LINCOLN
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: WV
+wootax/39689:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '25601'
+    location_type: postcode
+  name: LOGAN
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: WV
+wootax/39690:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '25606'
+    location_type: postcode
+  name: LOGAN
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: WV
+wootax/39691:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '25607'
+    location_type: postcode
+  name: LOGAN
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: WV
+wootax/39692:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '25608'
+    location_type: postcode
+  name: MINGO
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: WV
+wootax/39693:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '25611'
+    location_type: postcode
+  name: LOGAN
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: WV
+wootax/39694:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '25612'
+    location_type: postcode
+  name: LOGAN
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: WV
+wootax/39695:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '25614'
+    location_type: postcode
+  name: LOGAN
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: WV
+wootax/39696:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '25617'
+    location_type: postcode
+  name: LOGAN
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: WV
+wootax/39697:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '25621'
+    location_type: postcode
+  name: MINGO
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: WV
+wootax/39698:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '25624'
+    location_type: postcode
+  name: LOGAN
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: WV
+wootax/39699:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '25625'
+    location_type: postcode
+  name: LOGAN
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: WV
+wootax/39700:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '25628'
+    location_type: postcode
+  name: LOGAN
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: WV
+wootax/39701:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '25630'
+    location_type: postcode
+  name: LOGAN
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: WV
+wootax/39702:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '25632'
+    location_type: postcode
+  name: LOGAN
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: WV
+wootax/39703:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '25634'
+    location_type: postcode
+  name: LOGAN
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: WV
+wootax/39704:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '25635'
+    location_type: postcode
+  name: MAN
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: WV
+wootax/39705:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '25637'
+    location_type: postcode
+  name: LOGAN
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: WV
+wootax/39706:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '25638'
+    location_type: postcode
+  name: LOGAN
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: WV
+wootax/39707:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '25639'
+    location_type: postcode
+  name: LOGAN
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: WV
+wootax/39708:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '25644'
+    location_type: postcode
+  name: LOGAN
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: WV
+wootax/39709:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '25646'
+    location_type: postcode
+  name: LOGAN
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: WV
+wootax/39710:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '25647'
+    location_type: postcode
+  name: LOGAN
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: WV
+wootax/39711:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '25649'
+    location_type: postcode
+  name: LOGAN
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: WV
+wootax/39712:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '25650'
+    location_type: postcode
+  name: LOGAN
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: WV
+wootax/39713:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '25651'
+    location_type: postcode
+  name: MINGO
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: WV
+wootax/39714:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '25652'
+    location_type: postcode
+  name: LOGAN
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: WV
+wootax/39715:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '25653'
+    location_type: postcode
+  name: LOGAN
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: WV
+wootax/39716:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '25654'
+    location_type: postcode
+  name: LOGAN
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: WV
+wootax/39717:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '25661'
+    location_type: postcode
+  name: WILLIAMSON
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: WV
+wootax/39718:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '25666'
+    location_type: postcode
+  name: MINGO
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: WV
+wootax/39719:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '25667'
+    location_type: postcode
+  name: MINGO
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: WV
+wootax/39720:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '25669'
+    location_type: postcode
+  name: WAYNE
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: WV
+wootax/39721:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '25670'
+    location_type: postcode
+  name: MINGO
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: WV
+wootax/39722:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '25671'
+    location_type: postcode
+  name: MINGO
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: WV
+wootax/39723:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '25672'
+    location_type: postcode
+  name: MINGO
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: WV
+wootax/39724:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '25674'
+    location_type: postcode
+  name: WAYNE
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: WV
+wootax/39725:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '25676'
+    location_type: postcode
+  name: MINGO
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: WV
+wootax/39726:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '25678'
+    location_type: postcode
+  name: MINGO
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: WV
+wootax/39727:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '25685'
+    location_type: postcode
+  name: MINGO
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: WV
+wootax/39728:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '25686'
+    location_type: postcode
+  name: MINGO
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: WV
+wootax/39729:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '25688'
+    location_type: postcode
+  name: MINGO
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: WV
+wootax/39730:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '25690'
+    location_type: postcode
+  name: MINGO
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: WV
+wootax/39731:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '25691'
+    location_type: postcode
+  name: MINGO
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: WV
+wootax/39732:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '25692'
+    location_type: postcode
+  name: MINGO
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: WV
+wootax/39733:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '25696'
+    location_type: postcode
+  name: MINGO
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: WV
+wootax/39734:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '25699'
+    location_type: postcode
+  name: WAYNE
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: WV
+wootax/39735:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '25701'
+    location_type: postcode
+  name: HUNTINGTON
+  order: '0'
+  priority: '0'
+  rate: '7'
+  shipping: '1'
+  state: WV
+wootax/39736:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '25702'
+    location_type: postcode
+  name: HUNTINGTON
+  order: '0'
+  priority: '0'
+  rate: '7'
+  shipping: '1'
+  state: WV
+wootax/39737:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '25703'
+    location_type: postcode
+  name: HUNTINGTON
+  order: '0'
+  priority: '0'
+  rate: '7'
+  shipping: '1'
+  state: WV
+wootax/39738:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '25704'
+    location_type: postcode
+  name: HUNTINGTON
+  order: '0'
+  priority: '0'
+  rate: '7'
+  shipping: '1'
+  state: WV
+wootax/39739:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '25705'
+    location_type: postcode
+  name: CABELL
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: WV
+wootax/39740:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '25706'
+    location_type: postcode
+  name: HUNTINGTON
+  order: '0'
+  priority: '0'
+  rate: '7'
+  shipping: '1'
+  state: WV
+wootax/39741:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '25707'
+    location_type: postcode
+  name: HUNTINGTON
+  order: '0'
+  priority: '0'
+  rate: '7'
+  shipping: '1'
+  state: WV
+wootax/39742:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '25708'
+    location_type: postcode
+  name: HUNTINGTON
+  order: '0'
+  priority: '0'
+  rate: '7'
+  shipping: '1'
+  state: WV
+wootax/39743:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '25709'
+    location_type: postcode
+  name: HUNTINGTON
+  order: '0'
+  priority: '0'
+  rate: '7'
+  shipping: '1'
+  state: WV
+wootax/39744:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '25710'
+    location_type: postcode
+  name: HUNTINGTON
+  order: '0'
+  priority: '0'
+  rate: '7'
+  shipping: '1'
+  state: WV
+wootax/39745:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '25711'
+    location_type: postcode
+  name: HUNTINGTON
+  order: '0'
+  priority: '0'
+  rate: '7'
+  shipping: '1'
+  state: WV
+wootax/39746:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '25712'
+    location_type: postcode
+  name: HUNTINGTON
+  order: '0'
+  priority: '0'
+  rate: '7'
+  shipping: '1'
+  state: WV
+wootax/39747:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '25713'
+    location_type: postcode
+  name: HUNTINGTON
+  order: '0'
+  priority: '0'
+  rate: '7'
+  shipping: '1'
+  state: WV
+wootax/39748:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '25714'
+    location_type: postcode
+  name: HUNTINGTON
+  order: '0'
+  priority: '0'
+  rate: '7'
+  shipping: '1'
+  state: WV
+wootax/39749:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '25715'
+    location_type: postcode
+  name: HUNTINGTON
+  order: '0'
+  priority: '0'
+  rate: '7'
+  shipping: '1'
+  state: WV
+wootax/39750:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '25716'
+    location_type: postcode
+  name: HUNTINGTON
+  order: '0'
+  priority: '0'
+  rate: '7'
+  shipping: '1'
+  state: WV
+wootax/39751:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '25717'
+    location_type: postcode
+  name: HUNTINGTON
+  order: '0'
+  priority: '0'
+  rate: '7'
+  shipping: '1'
+  state: WV
+wootax/39752:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '25718'
+    location_type: postcode
+  name: HUNTINGTON
+  order: '0'
+  priority: '0'
+  rate: '7'
+  shipping: '1'
+  state: WV
+wootax/39753:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '25719'
+    location_type: postcode
+  name: HUNTINGTON
+  order: '0'
+  priority: '0'
+  rate: '7'
+  shipping: '1'
+  state: WV
+wootax/39754:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '25720'
+    location_type: postcode
+  name: HUNTINGTON
+  order: '0'
+  priority: '0'
+  rate: '7'
+  shipping: '1'
+  state: WV
+wootax/39755:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '25721'
+    location_type: postcode
+  name: HUNTINGTON
+  order: '0'
+  priority: '0'
+  rate: '7'
+  shipping: '1'
+  state: WV
+wootax/39756:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '25722'
+    location_type: postcode
+  name: HUNTINGTON
+  order: '0'
+  priority: '0'
+  rate: '7'
+  shipping: '1'
+  state: WV
+wootax/39757:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '25723'
+    location_type: postcode
+  name: HUNTINGTON
+  order: '0'
+  priority: '0'
+  rate: '7'
+  shipping: '1'
+  state: WV
+wootax/39758:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '25724'
+    location_type: postcode
+  name: HUNTINGTON
+  order: '0'
+  priority: '0'
+  rate: '7'
+  shipping: '1'
+  state: WV
+wootax/39759:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '25725'
+    location_type: postcode
+  name: HUNTINGTON
+  order: '0'
+  priority: '0'
+  rate: '7'
+  shipping: '1'
+  state: WV
+wootax/39760:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '25726'
+    location_type: postcode
+  name: HUNTINGTON
+  order: '0'
+  priority: '0'
+  rate: '7'
+  shipping: '1'
+  state: WV
+wootax/39761:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '25727'
+    location_type: postcode
+  name: HUNTINGTON
+  order: '0'
+  priority: '0'
+  rate: '7'
+  shipping: '1'
+  state: WV
+wootax/39762:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '25728'
+    location_type: postcode
+  name: HUNTINGTON
+  order: '0'
+  priority: '0'
+  rate: '7'
+  shipping: '1'
+  state: WV
+wootax/39763:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '25729'
+    location_type: postcode
+  name: HUNTINGTON
+  order: '0'
+  priority: '0'
+  rate: '7'
+  shipping: '1'
+  state: WV
+wootax/39764:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '25755'
+    location_type: postcode
+  name: HUNTINGTON
+  order: '0'
+  priority: '0'
+  rate: '7'
+  shipping: '1'
+  state: WV
+wootax/39765:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '25772'
+    location_type: postcode
+  name: HUNTINGTON
+  order: '0'
+  priority: '0'
+  rate: '7'
+  shipping: '1'
+  state: WV
+wootax/39766:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '25773'
+    location_type: postcode
+  name: HUNTINGTON
+  order: '0'
+  priority: '0'
+  rate: '7'
+  shipping: '1'
+  state: WV
+wootax/39767:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '25774'
+    location_type: postcode
+  name: HUNTINGTON
+  order: '0'
+  priority: '0'
+  rate: '7'
+  shipping: '1'
+  state: WV
+wootax/39768:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '25775'
+    location_type: postcode
+  name: HUNTINGTON
+  order: '0'
+  priority: '0'
+  rate: '7'
+  shipping: '1'
+  state: WV
+wootax/39769:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '25776'
+    location_type: postcode
+  name: HUNTINGTON
+  order: '0'
+  priority: '0'
+  rate: '7'
+  shipping: '1'
+  state: WV
+wootax/39770:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '25777'
+    location_type: postcode
+  name: HUNTINGTON
+  order: '0'
+  priority: '0'
+  rate: '7'
+  shipping: '1'
+  state: WV
+wootax/39771:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '25778'
+    location_type: postcode
+  name: HUNTINGTON
+  order: '0'
+  priority: '0'
+  rate: '7'
+  shipping: '1'
+  state: WV
+wootax/39772:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '25779'
+    location_type: postcode
+  name: HUNTINGTON
+  order: '0'
+  priority: '0'
+  rate: '7'
+  shipping: '1'
+  state: WV
+wootax/39773:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '25801'
+    location_type: postcode
+  name: BECKLEY
+  order: '0'
+  priority: '0'
+  rate: '7'
+  shipping: '1'
+  state: WV
+wootax/39774:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '25802'
+    location_type: postcode
+  name: BECKLEY
+  order: '0'
+  priority: '0'
+  rate: '7'
+  shipping: '1'
+  state: WV
+wootax/39775:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '25810'
+    location_type: postcode
+  name: WYOMING
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: WV
+wootax/39776:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '25811'
+    location_type: postcode
+  name: WYOMING
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: WV
+wootax/39777:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '25812'
+    location_type: postcode
+  name: ANSTED
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: WV
+wootax/39778:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '25813'
+    location_type: postcode
+  name: RALEIGH
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: WV
+wootax/39779:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '25817'
+    location_type: postcode
+  name: RALEIGH
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: WV
+wootax/39780:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '25818'
+    location_type: postcode
+  name: RALEIGH
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: WV
+wootax/39781:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '25820'
+    location_type: postcode
+  name: MERCER
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: WV
+wootax/39782:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '25823'
+    location_type: postcode
+  name: RALEIGH
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: WV
+wootax/39783:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '25825'
+    location_type: postcode
+  name: RALEIGH
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: WV
+wootax/39784:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '25826'
+    location_type: postcode
+  name: WYOMING
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: WV
+wootax/39785:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '25827'
+    location_type: postcode
+  name: RALEIGH
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: WV
+wootax/39786:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '25831'
+    location_type: postcode
+  name: FAYETTE
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: WV
+wootax/39787:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '25832'
+    location_type: postcode
+  name: RALEIGH
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: WV
+wootax/39788:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '25833'
+    location_type: postcode
+  name: FAYETTE
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: WV
+wootax/39789:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '25836'
+    location_type: postcode
+  name: RALEIGH
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: WV
+wootax/39790:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '25837'
+    location_type: postcode
+  name: FAYETTE
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: WV
+wootax/39791:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '25839'
+    location_type: postcode
+  name: RALEIGH
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: WV
+wootax/39792:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '25840'
+    location_type: postcode
+  name: FAYETTEVILLE
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: WV
+wootax/39793:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '25841'
+    location_type: postcode
+  name: MERCER
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: WV
+wootax/39794:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '25843'
+    location_type: postcode
+  name: RALEIGH
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: WV
+wootax/39795:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '25844'
+    location_type: postcode
+  name: RALEIGH
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: WV
+wootax/39796:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '25845'
+    location_type: postcode
+  name: WYOMING
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: WV
+wootax/39797:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '25846'
+    location_type: postcode
+  name: FAYETTE
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: WV
+wootax/39798:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '25848'
+    location_type: postcode
+  name: WYOMING
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: WV
+wootax/39799:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '25849'
+    location_type: postcode
+  name: RALEIGH
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: WV
+wootax/39800:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '25851'
+    location_type: postcode
+  name: RALEIGH
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: WV
+wootax/39801:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '25853'
+    location_type: postcode
+  name: RALEIGH
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: WV
+wootax/39802:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '25854'
+    location_type: postcode
+  name: FAYETTE
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: WV
+wootax/39803:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '25855'
+    location_type: postcode
+  name: FAYETTE
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: WV
+wootax/39804:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '25857'
+    location_type: postcode
+  name: RALEIGH
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: WV
+wootax/39805:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '25860'
+    location_type: postcode
+  name: RALEIGH
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: WV
+wootax/39806:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '25862'
+    location_type: postcode
+  name: FAYETTE
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: WV
+wootax/39807:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '25864'
+    location_type: postcode
+  name: RALEIGH
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: WV
+wootax/39808:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '25865'
+    location_type: postcode
+  name: RALEIGH
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: WV
+wootax/39809:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '25866'
+    location_type: postcode
+  name: FAYETTE
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: WV
+wootax/39810:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '25868'
+    location_type: postcode
+  name: FAYETTE
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: WV
+wootax/39811:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '25870'
+    location_type: postcode
+  name: WYOMING
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: WV
+wootax/39812:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '25871'
+    location_type: postcode
+  name: MABSCOTT
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: WV
+wootax/39813:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '25873'
+    location_type: postcode
+  name: RALEIGH
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: WV
+wootax/39814:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '25875'
+    location_type: postcode
+  name: WYOMING
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: WV
+wootax/39815:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '25876'
+    location_type: postcode
+  name: WYOMING
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: WV
+wootax/39816:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '25878'
+    location_type: postcode
+  name: RALEIGH
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: WV
+wootax/39817:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '25879'
+    location_type: postcode
+  name: OAK HILL
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: WV
+wootax/39818:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '25880'
+    location_type: postcode
+  name: RALEIGH
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: WV
+wootax/39819:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '25882'
+    location_type: postcode
+  name: MULLENS
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: WV
+wootax/39820:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '25901'
+    location_type: postcode
+  name: OAK HILL
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: WV
+wootax/39821:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '25902'
+    location_type: postcode
+  name: RALEIGH
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: WV
+wootax/39822:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '25904'
+    location_type: postcode
+  name: PAX
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: WV
+wootax/39823:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '25906'
+    location_type: postcode
+  name: RALEIGH
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: WV
+wootax/39824:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '25907'
+    location_type: postcode
+  name: FAYETTE
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: WV
+wootax/39825:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '25908'
+    location_type: postcode
+  name: RALEIGH
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: WV
+wootax/39826:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '25909'
+    location_type: postcode
+  name: RALEIGH
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: WV
+wootax/39827:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '25911'
+    location_type: postcode
+  name: RALEIGH
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: WV
+wootax/39828:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '25913'
+    location_type: postcode
+  name: WYOMING
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: WV
+wootax/39829:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '25915'
+    location_type: postcode
+  name: RALEIGH
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: WV
+wootax/39830:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '25916'
+    location_type: postcode
+  name: WYOMING
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: WV
+wootax/39831:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '25917'
+    location_type: postcode
+  name: FAYETTE
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: WV
+wootax/39832:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '25918'
+    location_type: postcode
+  name: RALEIGH
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: WV
+wootax/39833:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '25919'
+    location_type: postcode
+  name: BECKLEY
+  order: '0'
+  priority: '0'
+  rate: '7'
+  shipping: '1'
+  state: WV
+wootax/39834:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '25920'
+    location_type: postcode
+  name: RALEIGH
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: WV
+wootax/39835:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '25921'
+    location_type: postcode
+  name: SOPHIA
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: WV
+wootax/39836:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '25922'
+    location_type: postcode
+  name: MERCER
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: WV
+wootax/39837:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '25927'
+    location_type: postcode
+  name: RALEIGH
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: WV
+wootax/39838:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '25928'
+    location_type: postcode
+  name: WYOMING
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: WV
+wootax/39839:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '25932'
+    location_type: postcode
+  name: RALEIGH
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: WV
+wootax/39840:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '25936'
+    location_type: postcode
+  name: THURMOND
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: WV
+wootax/39841:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '25938'
+    location_type: postcode
+  name: FAYETTE
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: WV
+wootax/39842:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '25942'
+    location_type: postcode
+  name: FAYETTE
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: WV
+wootax/39843:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '25943'
+    location_type: postcode
+  name: WYOMING
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: WV
+wootax/39844:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '25951'
+    location_type: postcode
+  name: HINTON
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: WV
+wootax/39845:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '25958'
+    location_type: postcode
+  name: GREENBRIER
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: WV
+wootax/39846:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '25962'
+    location_type: postcode
+  name: RAINELLE
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: WV
+wootax/39847:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '25969'
+    location_type: postcode
+  name: SUMMERS
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: WV
+wootax/39848:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '25971'
+    location_type: postcode
+  name: MERCER
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: WV
+wootax/39849:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '25972'
+    location_type: postcode
+  name: GREENBRIER
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: WV
+wootax/39850:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '25976'
+    location_type: postcode
+  name: FAYETTE
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: WV
+wootax/39851:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '25977'
+    location_type: postcode
+  name: SUMMERS
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: WV
+wootax/39852:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '25978'
+    location_type: postcode
+  name: SUMMERS
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: WV
+wootax/39853:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '25979'
+    location_type: postcode
+  name: SUMMERS
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: WV
+wootax/39854:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '25981'
+    location_type: postcode
+  name: QUINWOOD
+  order: '0'
+  priority: '0'
+  rate: '7'
+  shipping: '1'
+  state: WV
+wootax/39855:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '25984'
+    location_type: postcode
+  name: GREENBRIER
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: WV
+wootax/39856:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '25985'
+    location_type: postcode
+  name: SUMMERS
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: WV
+wootax/39857:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '25986'
+    location_type: postcode
+  name: FAYETTE
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: WV
+wootax/39858:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '25989'
+    location_type: postcode
+  name: RALEIGH
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: WV
+wootax/39859:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '26003'
+    location_type: postcode
+  name: WHEELING
+  order: '0'
+  priority: '0'
+  rate: '7'
+  shipping: '1'
+  state: WV
+wootax/39860:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '26030'
+    location_type: postcode
+  name: BEECH BOTTOM
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: WV
+wootax/39861:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '26031'
+    location_type: postcode
+  name: MARSHALL
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: WV
+wootax/39862:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '26032'
+    location_type: postcode
+  name: BROOKE
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: WV
+wootax/39863:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '26033'
+    location_type: postcode
+  name: MARSHALL
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: WV
+wootax/39864:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '26034'
+    location_type: postcode
+  name: HANCOCK
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: WV
+wootax/39865:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '26035'
+    location_type: postcode
+  name: BROOKE
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: WV
+wootax/39866:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '26036'
+    location_type: postcode
+  name: MARSHALL
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: WV
+wootax/39867:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '26037'
+    location_type: postcode
+  name: BROOKE
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: WV
+wootax/39868:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '26038'
+    location_type: postcode
+  name: MARSHALL
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: WV
+wootax/39869:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '26039'
+    location_type: postcode
+  name: MARSHALL
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: WV
+wootax/39870:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '26040'
+    location_type: postcode
+  name: MARSHALL
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: WV
+wootax/39871:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '26041'
+    location_type: postcode
+  name: MOUNDSVILLE
+  order: '0'
+  priority: '0'
+  rate: '7'
+  shipping: '1'
+  state: WV
+wootax/39872:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '26047'
+    location_type: postcode
+  name: HANCOCK
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: WV
+wootax/39873:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '26050'
+    location_type: postcode
+  name: HANCOCK
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: WV
+wootax/39874:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '26055'
+    location_type: postcode
+  name: MARSHALL
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: WV
+wootax/39875:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '26056'
+    location_type: postcode
+  name: HANCOCK
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: WV
+wootax/39876:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '26058'
+    location_type: postcode
+  name: BROOKE
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: WV
+wootax/39877:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '26059'
+    location_type: postcode
+  name: OHIO
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: WV
+wootax/39878:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '26060'
+    location_type: postcode
+  name: OHIO
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: WV
+wootax/39879:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '26062'
+    location_type: postcode
+  name: WEIRTON
+  order: '0'
+  priority: '0'
+  rate: '7'
+  shipping: '1'
+  state: WV
+wootax/39880:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '26070'
+    location_type: postcode
+  name: BROOKE
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: WV
+wootax/39881:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '26074'
+    location_type: postcode
+  name: WEST LIBERTY
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: WV
+wootax/39882:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '26075'
+    location_type: postcode
+  name: WINDSOR HEIGHTS
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: WV
+wootax/39883:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '26101'
+    location_type: postcode
+  name: PARKERSBURG
+  order: '0'
+  priority: '0'
+  rate: '7'
+  shipping: '1'
+  state: WV
+wootax/39884:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '26102'
+    location_type: postcode
+  name: PARKERSBURG
+  order: '0'
+  priority: '0'
+  rate: '7'
+  shipping: '1'
+  state: WV
+wootax/39885:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '26103'
+    location_type: postcode
+  name: PARKERSBURG
+  order: '0'
+  priority: '0'
+  rate: '7'
+  shipping: '1'
+  state: WV
+wootax/39886:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '26104'
+    location_type: postcode
+  name: WOOD
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: WV
+wootax/39887:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '26105'
+    location_type: postcode
+  name: VIENNA
+  order: '0'
+  priority: '0'
+  rate: '7'
+  shipping: '1'
+  state: WV
+wootax/39888:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '26106'
+    location_type: postcode
+  name: PARKERSBURG
+  order: '0'
+  priority: '0'
+  rate: '7'
+  shipping: '1'
+  state: WV
+wootax/39889:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '26120'
+    location_type: postcode
+  name: WOOD
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: WV
+wootax/39890:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '26121'
+    location_type: postcode
+  name: WOOD
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: WV
+wootax/39891:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '26133'
+    location_type: postcode
+  name: WOOD
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: WV
+wootax/39892:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '26134'
+    location_type: postcode
+  name: BELMONT
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: WV
+wootax/39893:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '26136'
+    location_type: postcode
+  name: CALHOUN
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: WV
+wootax/39894:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '26137'
+    location_type: postcode
+  name: CALHOUN
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: WV
+wootax/39895:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '26138'
+    location_type: postcode
+  name: WIRT
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: WV
+wootax/39896:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '26141'
+    location_type: postcode
+  name: CALHOUN
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: WV
+wootax/39897:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '26142'
+    location_type: postcode
+  name: WOOD
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: WV
+wootax/39898:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '26143'
+    location_type: postcode
+  name: WIRT
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: WV
+wootax/39899:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '26146'
+    location_type: postcode
+  name: TYLER
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: WV
+wootax/39900:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '26147'
+    location_type: postcode
+  name: CALHOUN
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: WV
+wootax/39901:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '26148'
+    location_type: postcode
+  name: RITCHIE
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: WV
+wootax/39902:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '26149'
+    location_type: postcode
+  name: MIDDLEBOURNE
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: WV
+wootax/39903:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '26150'
+    location_type: postcode
+  name: WOOD
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: WV
+wootax/39904:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '26151'
+    location_type: postcode
+  name: CALHOUN
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: WV
+wootax/39905:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '26152'
+    location_type: postcode
+  name: CALHOUN
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: WV
+wootax/39906:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '26155'
+    location_type: postcode
+  name: NEW MARTINSVILLE
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: WV
+wootax/39907:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '26159'
+    location_type: postcode
+  name: PADEN CITY
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: WV
+wootax/39908:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '26160'
+    location_type: postcode
+  name: WIRT
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: WV
+wootax/39909:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '26161'
+    location_type: postcode
+  name: RITCHIE
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: WV
+wootax/39910:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '26162'
+    location_type: postcode
+  name: WETZEL
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: WV
+wootax/39911:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '26164'
+    location_type: postcode
+  name: JACKSON
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: WV
+wootax/39912:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '26167'
+    location_type: postcode
+  name: WETZEL
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: WV
+wootax/39913:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '26169'
+    location_type: postcode
+  name: WOOD
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: WV
+wootax/39914:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '26170'
+    location_type: postcode
+  name: PLEASANTS
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: WV
+wootax/39915:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '26175'
+    location_type: postcode
+  name: TYLER
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: WV
+wootax/39916:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '26178'
+    location_type: postcode
+  name: RITCHIE
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: WV
+wootax/39917:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '26180'
+    location_type: postcode
+  name: WOOD
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: WV
+wootax/39918:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '26181'
+    location_type: postcode
+  name: WOOD
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: WV
+wootax/39919:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '26184'
+    location_type: postcode
+  name: WOOD
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: WV
+wootax/39920:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '26187'
+    location_type: postcode
+  name: WOOD
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: WV
+wootax/39921:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '26201'
+    location_type: postcode
+  name: UPSHUR
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: WV
+wootax/39922:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '26202'
+    location_type: postcode
+  name: NICHOLAS
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: WV
+wootax/39923:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '26203'
+    location_type: postcode
+  name: WEBSTER
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: WV
+wootax/39924:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '26205'
+    location_type: postcode
+  name: NICHOLAS
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: WV
+wootax/39925:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '26206'
+    location_type: postcode
+  name: WEBSTER
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: WV
+wootax/39926:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '26208'
+    location_type: postcode
+  name: WEBSTER
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: WV
+wootax/39927:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '26210'
+    location_type: postcode
+  name: UPSHUR
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: WV
+wootax/39928:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '26215'
+    location_type: postcode
+  name: WEBSTER
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: WV
+wootax/39929:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '26217'
+    location_type: postcode
+  name: WEBSTER
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: WV
+wootax/39930:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '26218'
+    location_type: postcode
+  name: UPSHUR
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: WV
+wootax/39931:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '26219'
+    location_type: postcode
+  name: UPSHUR
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: WV
+wootax/39932:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '26222'
+    location_type: postcode
+  name: WEBSTER
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: WV
+wootax/39933:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '26224'
+    location_type: postcode
+  name: RANDOLPH
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: WV
+wootax/39934:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '26228'
+    location_type: postcode
+  name: UPSHUR
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: WV
+wootax/39935:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '26229'
+    location_type: postcode
+  name: UPSHUR
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: WV
+wootax/39936:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '26230'
+    location_type: postcode
+  name: RANDOLPH
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: WV
+wootax/39937:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '26234'
+    location_type: postcode
+  name: UPSHUR
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: WV
+wootax/39938:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '26236'
+    location_type: postcode
+  name: UPSHUR
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: WV
+wootax/39939:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '26237'
+    location_type: postcode
+  name: UPSHUR
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: WV
+wootax/39940:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '26238'
+    location_type: postcode
+  name: BARBOUR
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: WV
+wootax/39941:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '26241'
+    location_type: postcode
+  name: ELKINS
+  order: '0'
+  priority: '0'
+  rate: '7'
+  shipping: '1'
+  state: WV
+wootax/39942:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '26250'
+    location_type: postcode
+  name: BELINGTON
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: WV
+wootax/39943:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '26253'
+    location_type: postcode
+  name: RANDOLPH
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: WV
+wootax/39944:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '26254'
+    location_type: postcode
+  name: RANDOLPH
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: WV
+wootax/39945:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '26257'
+    location_type: postcode
+  name: WOMELSDORF
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: WV
+wootax/39946:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '26259'
+    location_type: postcode
+  name: RANDOLPH
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: WV
+wootax/39947:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '26260'
+    location_type: postcode
+  name: TUCKER
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: WV
+wootax/39948:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '26261'
+    location_type: postcode
+  name: RICHWOOD
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: WV
+wootax/39949:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '26263'
+    location_type: postcode
+  name: RANDOLPH
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: WV
+wootax/39950:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '26264'
+    location_type: postcode
+  name: POCAHONTAS
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: WV
+wootax/39951:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '26266'
+    location_type: postcode
+  name: WEBSTER
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: WV
+wootax/39952:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '26267'
+    location_type: postcode
+  name: UPSHUR
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: WV
+wootax/39953:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '26268'
+    location_type: postcode
+  name: RANDOLPH
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: WV
+wootax/39954:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '26269'
+    location_type: postcode
+  name: TUCKER
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: WV
+wootax/39955:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '26270'
+    location_type: postcode
+  name: HARMAN
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: WV
+wootax/39956:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '26271'
+    location_type: postcode
+  name: HENDRICKS
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: WV
+wootax/39957:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '26273'
+    location_type: postcode
+  name: RANDOLPH
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: WV
+wootax/39958:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '26275'
+    location_type: postcode
+  name: JUNIOR
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: WV
+wootax/39959:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '26276'
+    location_type: postcode
+  name: RANDOLPH
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: WV
+wootax/39960:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '26278'
+    location_type: postcode
+  name: RANDOLPH
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: WV
+wootax/39961:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '26280'
+    location_type: postcode
+  name: RANDOLPH
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: WV
+wootax/39962:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '26282'
+    location_type: postcode
+  name: RANDOLPH
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: WV
+wootax/39963:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '26283'
+    location_type: postcode
+  name: RANDOLPH
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: WV
+wootax/39964:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '26285'
+    location_type: postcode
+  name: RANDOLPH
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: WV
+wootax/39965:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '26287'
+    location_type: postcode
+  name: TUCKER
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: WV
+wootax/39966:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '26288'
+    location_type: postcode
+  name: WEBSTER
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: WV
+wootax/39967:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '26289'
+    location_type: postcode
+  name: TUCKER
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: WV
+wootax/39968:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '26291'
+    location_type: postcode
+  name: POCAHONTAS
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: WV
+wootax/39969:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '26292'
+    location_type: postcode
+  name: THOMAS
+  order: '0'
+  priority: '0'
+  rate: '7'
+  shipping: '1'
+  state: WV
+wootax/39970:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '26293'
+    location_type: postcode
+  name: RANDOLPH
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: WV
+wootax/39971:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '26294'
+    location_type: postcode
+  name: RANDOLPH
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: WV
+wootax/39972:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '26298'
+    location_type: postcode
+  name: WEBSTER
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: WV
+wootax/39973:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '26301'
+    location_type: postcode
+  name: CLARKSBURG
+  order: '0'
+  priority: '0'
+  rate: '7'
+  shipping: '1'
+  state: WV
+wootax/39974:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '26306'
+    location_type: postcode
+  name: CLARKSBURG
+  order: '0'
+  priority: '0'
+  rate: '7'
+  shipping: '1'
+  state: WV
+wootax/39975:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '26320'
+    location_type: postcode
+  name: TYLER
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: WV
+wootax/39976:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '26321'
+    location_type: postcode
+  name: LEWIS
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: WV
+wootax/39977:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '26323'
+    location_type: postcode
+  name: ANMOORE
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: WV
+wootax/39978:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '26325'
+    location_type: postcode
+  name: RITCHIE
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: WV
+wootax/39979:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '26327'
+    location_type: postcode
+  name: RITCHIE
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: WV
+wootax/39980:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '26330'
+    location_type: postcode
+  name: BRIDGEPORT (TAYLOR CO)
+  order: '0'
+  priority: '0'
+  rate: '7'
+  shipping: '1'
+  state: WV
+wootax/39981:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '26335'
+    location_type: postcode
+  name: BRAXTON
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: WV
+wootax/39982:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '26337'
+    location_type: postcode
+  name: RITCHIE
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: WV
+wootax/39983:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '26338'
+    location_type: postcode
+  name: LEWIS
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: WV
+wootax/39984:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '26339'
+    location_type: postcode
+  name: DODDRIDGE
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: WV
+wootax/39985:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '26342'
+    location_type: postcode
+  name: GILMER
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: WV
+wootax/39986:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '26343'
+    location_type: postcode
+  name: LEWIS
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: WV
+wootax/39987:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '26346'
+    location_type: postcode
+  name: ELLENBORO
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: WV
+wootax/39988:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '26347'
+    location_type: postcode
+  name: TAYLOR
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: WV
+wootax/39989:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '26348'
+    location_type: postcode
+  name: WETZEL
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: WV
+wootax/39990:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '26349'
+    location_type: postcode
+  name: BARBOUR
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: WV
+wootax/39991:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '26351'
+    location_type: postcode
+  name: GLENVILLE
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: WV
+wootax/39992:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '26354'
+    location_type: postcode
+  name: GRAFTON
+  order: '0'
+  priority: '0'
+  rate: '7'
+  shipping: '1'
+  state: WV
+wootax/39993:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '26361'
+    location_type: postcode
+  name: HARRISON
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: WV
+wootax/39994:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '26362'
+    location_type: postcode
+  name: HARRISVILLE
+  order: '0'
+  priority: '0'
+  rate: '7'
+  shipping: '1'
+  state: WV
+wootax/39995:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '26366'
+    location_type: postcode
+  name: LUMBERPORT
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: WV
+wootax/39996:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '26369'
+    location_type: postcode
+  name: HARRISON
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: WV
+wootax/39997:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '26372'
+    location_type: postcode
+  name: LEWIS
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: WV
+wootax/39998:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '26374'
+    location_type: postcode
+  name: PRESTON
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: WV
+wootax/39999:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '26376'
+    location_type: postcode
+  name: BRAXTON
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: WV
+wootax/40000:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '26377'
+    location_type: postcode
+  name: WETZEL
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: WV
+wootax/40001:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '26378'
+    location_type: postcode
+  name: LEWIS
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: WV
+wootax/40002:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '26384'
+    location_type: postcode
+  name: GILMER
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: WV
+wootax/40003:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '26385'
+    location_type: postcode
+  name: HARRISON
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: WV
+wootax/40004:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '26386'
+    location_type: postcode
+  name: HARRISON
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: WV
+wootax/40005:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '26404'
+    location_type: postcode
+  name: HARRISON
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: WV
+wootax/40006:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '26405'
+    location_type: postcode
+  name: PRESTON
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: WV
+wootax/40007:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '26408'
+    location_type: postcode
+  name: HARRISON
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: WV
+wootax/40008:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '26410'
+    location_type: postcode
+  name: PRESTON
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: WV
+wootax/40009:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '26411'
+    location_type: postcode
+  name: DODDRIDGE
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: WV
+wootax/40010:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '26412'
+    location_type: postcode
+  name: LEWIS
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: WV
+wootax/40011:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '26415'
+    location_type: postcode
+  name: PENNSBORO
+  order: '0'
+  priority: '0'
+  rate: '7'
+  shipping: '1'
+  state: WV
+wootax/40012:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '26416'
+    location_type: postcode
+  name: PHILIPPI
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: WV
+wootax/40013:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '26419'
+    location_type: postcode
+  name: PINE GROVE
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: WV
+wootax/40014:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '26421'
+    location_type: postcode
+  name: RITCHIE
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: WV
+wootax/40015:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '26422'
+    location_type: postcode
+  name: HARRISON
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: WV
+wootax/40016:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '26424'
+    location_type: postcode
+  name: TAYLOR
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: WV
+wootax/40017:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '26425'
+    location_type: postcode
+  name: PRESTON
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: WV
+wootax/40018:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '26426'
+    location_type: postcode
+  name: SALEM
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: WV
+wootax/40019:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '26430'
+    location_type: postcode
+  name: GILMER
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: WV
+wootax/40020:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '26431'
+    location_type: postcode
+  name: SHINNSTON
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: WV
+wootax/40021:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '26434'
+    location_type: postcode
+  name: TYLER
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: WV
+wootax/40022:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '26435'
+    location_type: postcode
+  name: TAYLOR
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: WV
+wootax/40023:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '26436'
+    location_type: postcode
+  name: DODDRIDGE
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: WV
+wootax/40024:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '26437'
+    location_type: postcode
+  name: WETZEL
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: WV
+wootax/40025:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '26438'
+    location_type: postcode
+  name: HARRISON
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: WV
+wootax/40026:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '26440'
+    location_type: postcode
+  name: PRESTON
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: WV
+wootax/40027:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '26443'
+    location_type: postcode
+  name: GILMER
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: WV
+wootax/40028:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '26444'
+    location_type: postcode
+  name: PRESTON
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: WV
+wootax/40029:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '26447'
+    location_type: postcode
+  name: LEWIS
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: WV
+wootax/40030:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '26448'
+    location_type: postcode
+  name: HARRISON
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: WV
+wootax/40031:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '26451'
+    location_type: postcode
+  name: WEST MILFORD
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: WV
+wootax/40032:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '26452'
+    location_type: postcode
+  name: LEWIS
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: WV
+wootax/40033:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '26456'
+    location_type: postcode
+  name: DODDRIDGE
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: WV
+wootax/40034:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '26463'
+    location_type: postcode
+  name: HARRISON
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: WV
+wootax/40035:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '26501'
+    location_type: postcode
+  name: MORGANTOWN
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: WV
+wootax/40036:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '26504'
+    location_type: postcode
+  name: STAR CITY
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: WV
+wootax/40037:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '26505'
+    location_type: postcode
+  name: MORGANTOWN
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: WV
+wootax/40038:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '26506'
+    location_type: postcode
+  name: MORGANTOWN
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: WV
+wootax/40039:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '26507'
+    location_type: postcode
+  name: MORGANTOWN
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: WV
+wootax/40040:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '26508'
+    location_type: postcode
+  name: MONONGALIA
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: WV
+wootax/40041:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '26519'
+    location_type: postcode
+  name: PRESTON
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: WV
+wootax/40042:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '26520'
+    location_type: postcode
+  name: PRESTON
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: WV
+wootax/40043:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '26521'
+    location_type: postcode
+  name: MONONGALIA
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: WV
+wootax/40044:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '26524'
+    location_type: postcode
+  name: PRESTON
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: WV
+wootax/40045:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '26525'
+    location_type: postcode
+  name: PRESTON
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: WV
+wootax/40046:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '26527'
+    location_type: postcode
+  name: MONONGALIA
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: WV
+wootax/40047:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '26531'
+    location_type: postcode
+  name: MONONGALIA
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: WV
+wootax/40048:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '26534'
+    location_type: postcode
+  name: GRANVILLE
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: WV
+wootax/40049:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '26537'
+    location_type: postcode
+  name: PRESTON
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: WV
+wootax/40050:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '26541'
+    location_type: postcode
+  name: MONONGALIA
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: WV
+wootax/40051:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '26542'
+    location_type: postcode
+  name: PRESTON
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: WV
+wootax/40052:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '26543'
+    location_type: postcode
+  name: MONONGALIA
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: WV
+wootax/40053:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '26544'
+    location_type: postcode
+  name: MONONGALIA
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: WV
+wootax/40054:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '26546'
+    location_type: postcode
+  name: MONONGALIA
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: WV
+wootax/40055:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '26547'
+    location_type: postcode
+  name: PRESTON
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: WV
+wootax/40056:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '26554'
+    location_type: postcode
+  name: FAIRMONT
+  order: '0'
+  priority: '0'
+  rate: '7'
+  shipping: '1'
+  state: WV
+wootax/40057:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '26555'
+    location_type: postcode
+  name: FAIRMONT
+  order: '0'
+  priority: '0'
+  rate: '7'
+  shipping: '1'
+  state: WV
+wootax/40058:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '26559'
+    location_type: postcode
+  name: BARRACKVILLE
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: WV
+wootax/40059:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '26560'
+    location_type: postcode
+  name: MARION
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: WV
+wootax/40060:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '26562'
+    location_type: postcode
+  name: WETZEL
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: WV
+wootax/40061:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '26563'
+    location_type: postcode
+  name: MARION
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: WV
+wootax/40062:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '26566'
+    location_type: postcode
+  name: MARION
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: WV
+wootax/40063:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '26568'
+    location_type: postcode
+  name: HARRISON
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: WV
+wootax/40064:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '26570'
+    location_type: postcode
+  name: MONONGALIA
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: WV
+wootax/40065:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '26571'
+    location_type: postcode
+  name: MARION
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: WV
+wootax/40066:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '26572'
+    location_type: postcode
+  name: MARION
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: WV
+wootax/40067:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '26574'
+    location_type: postcode
+  name: GRANT TOWN
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: WV
+wootax/40068:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '26575'
+    location_type: postcode
+  name: WETZEL
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: WV
+wootax/40069:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '26576'
+    location_type: postcode
+  name: MARION
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: WV
+wootax/40070:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '26578'
+    location_type: postcode
+  name: PLEASANT VALLEY
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: WV
+wootax/40071:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '26581'
+    location_type: postcode
+  name: WETZEL
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: WV
+wootax/40072:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '26582'
+    location_type: postcode
+  name: MARION
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: WV
+wootax/40073:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '26585'
+    location_type: postcode
+  name: MARION
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: WV
+wootax/40074:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '26586'
+    location_type: postcode
+  name: MARION
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: WV
+wootax/40075:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '26587'
+    location_type: postcode
+  name: MARION
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: WV
+wootax/40076:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '26588'
+    location_type: postcode
+  name: MARION
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: WV
+wootax/40077:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '26590'
+    location_type: postcode
+  name: MONONGALIA
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: WV
+wootax/40078:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '26591'
+    location_type: postcode
+  name: MARION
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: WV
+wootax/40079:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '26601'
+    location_type: postcode
+  name: BRAXTON
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: WV
+wootax/40080:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '26610'
+    location_type: postcode
+  name: NICHOLAS
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: WV
+wootax/40081:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '26611'
+    location_type: postcode
+  name: GILMER
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: WV
+wootax/40082:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '26615'
+    location_type: postcode
+  name: BRAXTON
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: WV
+wootax/40083:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '26617'
+    location_type: postcode
+  name: CLAY
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: WV
+wootax/40084:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '26619'
+    location_type: postcode
+  name: BRAXTON
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: WV
+wootax/40085:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '26621'
+    location_type: postcode
+  name: BRAXTON
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: WV
+wootax/40086:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '26623'
+    location_type: postcode
+  name: BRAXTON
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: WV
+wootax/40087:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '26624'
+    location_type: postcode
+  name: BRAXTON
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: WV
+wootax/40088:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '26627'
+    location_type: postcode
+  name: BRAXTON
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: WV
+wootax/40089:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '26629'
+    location_type: postcode
+  name: BRAXTON
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: WV
+wootax/40090:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '26631'
+    location_type: postcode
+  name: BRAXTON
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: WV
+wootax/40091:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '26636'
+    location_type: postcode
+  name: GILMER
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: WV
+wootax/40092:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '26638'
+    location_type: postcode
+  name: GILMER
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: WV
+wootax/40093:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '26651'
+    location_type: postcode
+  name: NICHOLAS
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: WV
+wootax/40094:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '26656'
+    location_type: postcode
+  name: NICHOLAS
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: WV
+wootax/40095:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '26660'
+    location_type: postcode
+  name: NICHOLAS
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: WV
+wootax/40096:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '26662'
+    location_type: postcode
+  name: NICHOLAS
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: WV
+wootax/40097:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '26667'
+    location_type: postcode
+  name: NICHOLAS
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: WV
+wootax/40098:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '26671'
+    location_type: postcode
+  name: NICHOLAS
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: WV
+wootax/40099:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '26675'
+    location_type: postcode
+  name: NICHOLAS
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: WV
+wootax/40100:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '26676'
+    location_type: postcode
+  name: NICHOLAS
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: WV
+wootax/40101:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '26678'
+    location_type: postcode
+  name: NICHOLAS
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: WV
+wootax/40102:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '26679'
+    location_type: postcode
+  name: NICHOLAS
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: WV
+wootax/40103:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '26680'
+    location_type: postcode
+  name: FAYETTE
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: WV
+wootax/40104:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '26681'
+    location_type: postcode
+  name: NICHOLAS
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: WV
+wootax/40105:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '26684'
+    location_type: postcode
+  name: NICHOLAS
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: WV
+wootax/40106:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '26690'
+    location_type: postcode
+  name: NICHOLAS
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: WV
+wootax/40107:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '26691'
+    location_type: postcode
+  name: NICHOLAS
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: WV
+wootax/40108:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '26704'
+    location_type: postcode
+  name: HAMPSHIRE
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: WV
+wootax/40109:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '26705'
+    location_type: postcode
+  name: PRESTON
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: WV
+wootax/40110:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '26707'
+    location_type: postcode
+  name: BAYARD
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: WV
+wootax/40111:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '26710'
+    location_type: postcode
+  name: MINERAL
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: WV
+wootax/40112:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '26711'
+    location_type: postcode
+  name: HAMPSHIRE
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: WV
+wootax/40113:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '26714'
+    location_type: postcode
+  name: HAMPSHIRE
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: WV
+wootax/40114:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '26716'
+    location_type: postcode
+  name: PRESTON
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: WV
+wootax/40115:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '26717'
+    location_type: postcode
+  name: ELK GARDEN
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: WV
+wootax/40116:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '26719'
+    location_type: postcode
+  name: MINERAL
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: WV
+wootax/40117:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '26720'
+    location_type: postcode
+  name: GRANT
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: WV
+wootax/40118:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '26722'
+    location_type: postcode
+  name: HAMPSHIRE
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: WV
+wootax/40119:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '26726'
+    location_type: postcode
+  name: KEYSER
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: WV
+wootax/40120:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '26731'
+    location_type: postcode
+  name: GRANT
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: WV
+wootax/40121:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '26739'
+    location_type: postcode
+  name: GRANT
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: WV
+wootax/40122:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '26743'
+    location_type: postcode
+  name: MINERAL
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: WV
+wootax/40123:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '26750'
+    location_type: postcode
+  name: PIEDMONT
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: WV
+wootax/40124:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '26753'
+    location_type: postcode
+  name: RIDGELEY
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: WV
+wootax/40125:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '26755'
+    location_type: postcode
+  name: HAMPSHIRE
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: WV
+wootax/40126:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '26757'
+    location_type: postcode
+  name: HAMPSHIRE
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: WV
+wootax/40127:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '26761'
+    location_type: postcode
+  name: HAMPSHIRE
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: WV
+wootax/40128:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '26763'
+    location_type: postcode
+  name: HAMPSHIRE
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: WV
+wootax/40129:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '26764'
+    location_type: postcode
+  name: PRESTON
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: WV
+wootax/40130:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '26767'
+    location_type: postcode
+  name: MINERAL
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: WV
+wootax/40131:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '26801'
+    location_type: postcode
+  name: HARDY
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: WV
+wootax/40132:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '26802'
+    location_type: postcode
+  name: PENDLETON
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: WV
+wootax/40133:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '26804'
+    location_type: postcode
+  name: PENDLETON
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: WV
+wootax/40134:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '26807'
+    location_type: postcode
+  name: PENDLETON
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: WV
+wootax/40135:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '26808'
+    location_type: postcode
+  name: HAMPSHIRE
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: WV
+wootax/40136:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '26810'
+    location_type: postcode
+  name: HARDY
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: WV
+wootax/40137:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '26812'
+    location_type: postcode
+  name: HARDY
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: WV
+wootax/40138:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '26814'
+    location_type: postcode
+  name: PENDLETON
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: WV
+wootax/40139:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '26815'
+    location_type: postcode
+  name: PENDLETON
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: WV
+wootax/40140:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '26817'
+    location_type: postcode
+  name: HAMPSHIRE
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: WV
+wootax/40141:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '26818'
+    location_type: postcode
+  name: HARDY
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: WV
+wootax/40142:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '26823'
+    location_type: postcode
+  name: HAMPSHIRE
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: WV
+wootax/40143:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '26833'
+    location_type: postcode
+  name: GRANT
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: WV
+wootax/40144:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '26836'
+    location_type: postcode
+  name: HARDY
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: WV
+wootax/40145:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '26838'
+    location_type: postcode
+  name: HARDY
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: WV
+wootax/40146:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '26845'
+    location_type: postcode
+  name: HARDY
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: WV
+wootax/40147:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '26847'
+    location_type: postcode
+  name: GRANT
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: WV
+wootax/40148:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '26851'
+    location_type: postcode
+  name: HARDY
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: WV
+wootax/40149:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '26852'
+    location_type: postcode
+  name: HAMPSHIRE
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: WV
+wootax/40150:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '26855'
+    location_type: postcode
+  name: GRANT
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: WV
+wootax/40151:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '26865'
+    location_type: postcode
+  name: HAMPSHIRE
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: WV
+wootax/40152:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '26866'
+    location_type: postcode
+  name: PENDLETON
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: WV
+wootax/40153:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '26884'
+    location_type: postcode
+  name: PENDLETON
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: WV
+wootax/40154:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '26886'
+    location_type: postcode
+  name: PENDLETON
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: WV

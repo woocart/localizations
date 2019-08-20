@@ -1,0 +1,6812 @@
+wootax/31835:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '29001'
+    location_type: postcode
+  name: CLARENDON COUNTY
+  order: '0'
+  priority: '0'
+  rate: '8'
+  shipping: '1'
+  state: SC
+wootax/31836:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '29002'
+    location_type: postcode
+  name: RICHLAND COUNTY
+  order: '0'
+  priority: '0'
+  rate: '8'
+  shipping: '1'
+  state: SC
+wootax/31837:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '29003'
+    location_type: postcode
+  name: BAMBERG COUNTY
+  order: '0'
+  priority: '0'
+  rate: '8'
+  shipping: '1'
+  state: SC
+wootax/31838:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '29006'
+    location_type: postcode
+  name: BATESBURG-LEESVILLE
+  order: '0'
+  priority: '0'
+  rate: '7'
+  shipping: '1'
+  state: SC
+wootax/31839:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '29009'
+    location_type: postcode
+  name: KERSHAW COUNTY
+  order: '0'
+  priority: '0'
+  rate: '8'
+  shipping: '1'
+  state: SC
+wootax/31840:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '29010'
+    location_type: postcode
+  name: LEE COUNTY
+  order: '0'
+  priority: '0'
+  rate: '8'
+  shipping: '1'
+  state: SC
+wootax/31841:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '29014'
+    location_type: postcode
+  name: CHESTER COUNTY
+  order: '0'
+  priority: '0'
+  rate: '8'
+  shipping: '1'
+  state: SC
+wootax/31842:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '29015'
+    location_type: postcode
+  name: FAIRFIELD COUNTY
+  order: '0'
+  priority: '0'
+  rate: '7'
+  shipping: '1'
+  state: SC
+wootax/31843:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '29016'
+    location_type: postcode
+  name: RICHLAND COUNTY
+  order: '0'
+  priority: '0'
+  rate: '8'
+  shipping: '1'
+  state: SC
+wootax/31844:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '29018'
+    location_type: postcode
+  name: ORANGEBURG COUNTY
+  order: '0'
+  priority: '0'
+  rate: '7'
+  shipping: '1'
+  state: SC
+wootax/31845:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '29020'
+    location_type: postcode
+  name: KERSHAW COUNTY
+  order: '0'
+  priority: '0'
+  rate: '8'
+  shipping: '1'
+  state: SC
+wootax/31846:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '29021'
+    location_type: postcode
+  name: CAMDEN
+  order: '0'
+  priority: '0'
+  rate: '8'
+  shipping: '1'
+  state: SC
+wootax/31847:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '29030'
+    location_type: postcode
+  name: CALHOUN CO CAPITAL PROJECTS TAX SP
+  order: '0'
+  priority: '0'
+  rate: '8'
+  shipping: '1'
+  state: SC
+wootax/31848:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '29031'
+    location_type: postcode
+  name: UNION COUNTY
+  order: '0'
+  priority: '0'
+  rate: '7'
+  shipping: '1'
+  state: SC
+wootax/31849:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '29032'
+    location_type: postcode
+  name: KERSHAW COUNTY
+  order: '0'
+  priority: '0'
+  rate: '8'
+  shipping: '1'
+  state: SC
+wootax/31850:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '29033'
+    location_type: postcode
+  name: CAYCE
+  order: '0'
+  priority: '0'
+  rate: '7'
+  shipping: '1'
+  state: SC
+wootax/31851:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '29036'
+    location_type: postcode
+  name: LEXINGTON COUNTY
+  order: '0'
+  priority: '0'
+  rate: '7'
+  shipping: '1'
+  state: SC
+wootax/31852:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '29037'
+    location_type: postcode
+  name: NEWBERRY COUNTY
+  order: '0'
+  priority: '0'
+  rate: '7'
+  shipping: '1'
+  state: SC
+wootax/31853:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '29038'
+    location_type: postcode
+  name: ORANGEBURG COUNTY
+  order: '0'
+  priority: '0'
+  rate: '7'
+  shipping: '1'
+  state: SC
+wootax/31854:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '29039'
+    location_type: postcode
+  name: ORANGEBURG COUNTY
+  order: '0'
+  priority: '0'
+  rate: '7'
+  shipping: '1'
+  state: SC
+wootax/31855:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '29040'
+    location_type: postcode
+  name: SUMTER COUNTY
+  order: '0'
+  priority: '0'
+  rate: '8'
+  shipping: '1'
+  state: SC
+wootax/31856:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '29041'
+    location_type: postcode
+  name: CLARENDON COUNTY
+  order: '0'
+  priority: '0'
+  rate: '8'
+  shipping: '1'
+  state: SC
+wootax/31857:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '29042'
+    location_type: postcode
+  name: BAMBERG COUNTY
+  order: '0'
+  priority: '0'
+  rate: '8'
+  shipping: '1'
+  state: SC
+wootax/31858:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '29044'
+    location_type: postcode
+  name: RICHLAND COUNTY
+  order: '0'
+  priority: '0'
+  rate: '8'
+  shipping: '1'
+  state: SC
+wootax/31859:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '29045'
+    location_type: postcode
+  name: KERSHAW COUNTY
+  order: '0'
+  priority: '0'
+  rate: '8'
+  shipping: '1'
+  state: SC
+wootax/31860:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '29046'
+    location_type: postcode
+  name: LEE COUNTY
+  order: '0'
+  priority: '0'
+  rate: '8'
+  shipping: '1'
+  state: SC
+wootax/31861:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '29047'
+    location_type: postcode
+  name: ORANGEBURG COUNTY
+  order: '0'
+  priority: '0'
+  rate: '7'
+  shipping: '1'
+  state: SC
+wootax/31862:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '29048'
+    location_type: postcode
+  name: ORANGEBURG COUNTY
+  order: '0'
+  priority: '0'
+  rate: '7'
+  shipping: '1'
+  state: SC
+wootax/31863:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '29051'
+    location_type: postcode
+  name: CLARENDON COUNTY
+  order: '0'
+  priority: '0'
+  rate: '8'
+  shipping: '1'
+  state: SC
+wootax/31864:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '29052'
+    location_type: postcode
+  name: RICHLAND COUNTY
+  order: '0'
+  priority: '0'
+  rate: '8'
+  shipping: '1'
+  state: SC
+wootax/31865:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '29053'
+    location_type: postcode
+  name: LEXINGTON COUNTY
+  order: '0'
+  priority: '0'
+  rate: '7'
+  shipping: '1'
+  state: SC
+wootax/31866:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '29054'
+    location_type: postcode
+  name: LEXINGTON COUNTY
+  order: '0'
+  priority: '0'
+  rate: '7'
+  shipping: '1'
+  state: SC
+wootax/31867:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '29055'
+    location_type: postcode
+  name: GREAT FALLS
+  order: '0'
+  priority: '0'
+  rate: '8'
+  shipping: '1'
+  state: SC
+wootax/31868:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '29056'
+    location_type: postcode
+  name: WILLIAMSBURG COUNTY
+  order: '0'
+  priority: '0'
+  rate: '8'
+  shipping: '1'
+  state: SC
+wootax/31869:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '29058'
+    location_type: postcode
+  name: LANCASTER COUNTY
+  order: '0'
+  priority: '0'
+  rate: '8'
+  shipping: '1'
+  state: SC
+wootax/31870:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '29059'
+    location_type: postcode
+  name: ORANGEBURG COUNTY
+  order: '0'
+  priority: '0'
+  rate: '7'
+  shipping: '1'
+  state: SC
+wootax/31871:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '29061'
+    location_type: postcode
+  name: RICHLAND COUNTY
+  order: '0'
+  priority: '0'
+  rate: '8'
+  shipping: '1'
+  state: SC
+wootax/31872:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '29062'
+    location_type: postcode
+  name: SUMTER COUNTY
+  order: '0'
+  priority: '0'
+  rate: '8'
+  shipping: '1'
+  state: SC
+wootax/31873:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '29063'
+    location_type: postcode
+  name: RICHLAND COUNTY
+  order: '0'
+  priority: '0'
+  rate: '8'
+  shipping: '1'
+  state: SC
+wootax/31874:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '29065'
+    location_type: postcode
+  name: FAIRFIELD COUNTY
+  order: '0'
+  priority: '0'
+  rate: '7'
+  shipping: '1'
+  state: SC
+wootax/31875:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '29067'
+    location_type: postcode
+  name: LANCASTER COUNTY
+  order: '0'
+  priority: '0'
+  rate: '8'
+  shipping: '1'
+  state: SC
+wootax/31876:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '29069'
+    location_type: postcode
+  name: DARLINGTON COUNTY
+  order: '0'
+  priority: '0'
+  rate: '8'
+  shipping: '1'
+  state: SC
+wootax/31877:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '29070'
+    location_type: postcode
+  name: LEXINGTON COUNTY
+  order: '0'
+  priority: '0'
+  rate: '7'
+  shipping: '1'
+  state: SC
+wootax/31878:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '29071'
+    location_type: postcode
+  name: LEXINGTON
+  order: '0'
+  priority: '0'
+  rate: '7'
+  shipping: '1'
+  state: SC
+wootax/31879:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '29072'
+    location_type: postcode
+  name: LEXINGTON COUNTY
+  order: '0'
+  priority: '0'
+  rate: '7'
+  shipping: '1'
+  state: SC
+wootax/31880:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '29073'
+    location_type: postcode
+  name: LEXINGTON COUNTY
+  order: '0'
+  priority: '0'
+  rate: '7'
+  shipping: '1'
+  state: SC
+wootax/31881:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '29074'
+    location_type: postcode
+  name: KERSHAW COUNTY
+  order: '0'
+  priority: '0'
+  rate: '8'
+  shipping: '1'
+  state: SC
+wootax/31882:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '29075'
+    location_type: postcode
+  name: NEWBERRY COUNTY
+  order: '0'
+  priority: '0'
+  rate: '7'
+  shipping: '1'
+  state: SC
+wootax/31883:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '29078'
+    location_type: postcode
+  name: KERSHAW COUNTY
+  order: '0'
+  priority: '0'
+  rate: '8'
+  shipping: '1'
+  state: SC
+wootax/31884:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '29079'
+    location_type: postcode
+  name: DARLINGTON COUNTY
+  order: '0'
+  priority: '0'
+  rate: '8'
+  shipping: '1'
+  state: SC
+wootax/31885:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '29080'
+    location_type: postcode
+  name: SUMTER COUNTY
+  order: '0'
+  priority: '0'
+  rate: '8'
+  shipping: '1'
+  state: SC
+wootax/31886:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '29081'
+    location_type: postcode
+  name: BAMBERG COUNTY
+  order: '0'
+  priority: '0'
+  rate: '8'
+  shipping: '1'
+  state: SC
+wootax/31887:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '29082'
+    location_type: postcode
+  name: COLLETON COUNTY
+  order: '0'
+  priority: '0'
+  rate: '8'
+  shipping: '1'
+  state: SC
+wootax/31888:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '29101'
+    location_type: postcode
+  name: CHESTERFIELD COUNTY
+  order: '0'
+  priority: '0'
+  rate: '8'
+  shipping: '1'
+  state: SC
+wootax/31889:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '29102'
+    location_type: postcode
+  name: CLARENDON COUNTY
+  order: '0'
+  priority: '0'
+  rate: '8'
+  shipping: '1'
+  state: SC
+wootax/31890:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '29104'
+    location_type: postcode
+  name: LEE COUNTY
+  order: '0'
+  priority: '0'
+  rate: '8'
+  shipping: '1'
+  state: SC
+wootax/31891:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '29105'
+    location_type: postcode
+  name: AIKEN COUNTY
+  order: '0'
+  priority: '0'
+  rate: '8'
+  shipping: '1'
+  state: SC
+wootax/31892:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '29107'
+    location_type: postcode
+  name: ORANGEBURG COUNTY
+  order: '0'
+  priority: '0'
+  rate: '7'
+  shipping: '1'
+  state: SC
+wootax/31893:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '29108'
+    location_type: postcode
+  name: NEWBERRY COUNTY
+  order: '0'
+  priority: '0'
+  rate: '7'
+  shipping: '1'
+  state: SC
+wootax/31894:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '29111'
+    location_type: postcode
+  name: CLARENDON COUNTY
+  order: '0'
+  priority: '0'
+  rate: '8'
+  shipping: '1'
+  state: SC
+wootax/31895:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '29112'
+    location_type: postcode
+  name: ORANGEBURG COUNTY
+  order: '0'
+  priority: '0'
+  rate: '7'
+  shipping: '1'
+  state: SC
+wootax/31896:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '29113'
+    location_type: postcode
+  name: ORANGEBURG COUNTY
+  order: '0'
+  priority: '0'
+  rate: '7'
+  shipping: '1'
+  state: SC
+wootax/31897:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '29114'
+    location_type: postcode
+  name: FLORENCE CO REMAINDER
+  order: '0'
+  priority: '0'
+  rate: '8'
+  shipping: '1'
+  state: SC
+wootax/31898:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '29115'
+    location_type: postcode
+  name: ORANGEBURG COUNTY
+  order: '0'
+  priority: '0'
+  rate: '7'
+  shipping: '1'
+  state: SC
+wootax/31899:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '29116'
+    location_type: postcode
+  name: ORANGEBURG
+  order: '0'
+  priority: '0'
+  rate: '7'
+  shipping: '1'
+  state: SC
+wootax/31900:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '29117'
+    location_type: postcode
+  name: ORANGEBURG
+  order: '0'
+  priority: '0'
+  rate: '7'
+  shipping: '1'
+  state: SC
+wootax/31901:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '29118'
+    location_type: postcode
+  name: ORANGEBURG COUNTY
+  order: '0'
+  priority: '0'
+  rate: '7'
+  shipping: '1'
+  state: SC
+wootax/31902:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '29122'
+    location_type: postcode
+  name: PEAK
+  order: '0'
+  priority: '0'
+  rate: '7'
+  shipping: '1'
+  state: SC
+wootax/31903:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '29123'
+    location_type: postcode
+  name: LEXINGTON COUNTY
+  order: '0'
+  priority: '0'
+  rate: '7'
+  shipping: '1'
+  state: SC
+wootax/31904:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '29125'
+    location_type: postcode
+  name: CLARENDON COUNTY
+  order: '0'
+  priority: '0'
+  rate: '8'
+  shipping: '1'
+  state: SC
+wootax/31905:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '29126'
+    location_type: postcode
+  name: NEWBERRY COUNTY
+  order: '0'
+  priority: '0'
+  rate: '7'
+  shipping: '1'
+  state: SC
+wootax/31906:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '29127'
+    location_type: postcode
+  name: NEWBERRY COUNTY
+  order: '0'
+  priority: '0'
+  rate: '7'
+  shipping: '1'
+  state: SC
+wootax/31907:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '29128'
+    location_type: postcode
+  name: SUMTER COUNTY
+  order: '0'
+  priority: '0'
+  rate: '8'
+  shipping: '1'
+  state: SC
+wootax/31908:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '29129'
+    location_type: postcode
+  name: AIKEN COUNTY
+  order: '0'
+  priority: '0'
+  rate: '8'
+  shipping: '1'
+  state: SC
+wootax/31909:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '29130'
+    location_type: postcode
+  name: FAIRFIELD COUNTY
+  order: '0'
+  priority: '0'
+  rate: '7'
+  shipping: '1'
+  state: SC
+wootax/31910:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '29133'
+    location_type: postcode
+  name: ORANGEBURG COUNTY
+  order: '0'
+  priority: '0'
+  rate: '7'
+  shipping: '1'
+  state: SC
+wootax/31911:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '29135'
+    location_type: postcode
+  name: CALHOUN CO CAPITAL PROJECTS TAX SP
+  order: '0'
+  priority: '0'
+  rate: '8'
+  shipping: '1'
+  state: SC
+wootax/31912:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '29137'
+    location_type: postcode
+  name: AIKEN COUNTY
+  order: '0'
+  priority: '0'
+  rate: '8'
+  shipping: '1'
+  state: SC
+wootax/31913:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '29138'
+    location_type: postcode
+  name: SALUDA CO CAPITAL PROJECTS TAX SP
+  order: '0'
+  priority: '0'
+  rate: '8'
+  shipping: '1'
+  state: SC
+wootax/31914:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '29142'
+    location_type: postcode
+  name: ORANGEBURG COUNTY
+  order: '0'
+  priority: '0'
+  rate: '7'
+  shipping: '1'
+  state: SC
+wootax/31915:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '29145'
+    location_type: postcode
+  name: NEWBERRY COUNTY
+  order: '0'
+  priority: '0'
+  rate: '7'
+  shipping: '1'
+  state: SC
+wootax/31916:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '29146'
+    location_type: postcode
+  name: ORANGEBURG COUNTY
+  order: '0'
+  priority: '0'
+  rate: '7'
+  shipping: '1'
+  state: SC
+wootax/31917:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '29147'
+    location_type: postcode
+  name: COLUMBIA
+  order: '0'
+  priority: '0'
+  rate: '8'
+  shipping: '1'
+  state: SC
+wootax/31918:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '29148'
+    location_type: postcode
+  name: CLARENDON COUNTY
+  order: '0'
+  priority: '0'
+  rate: '8'
+  shipping: '1'
+  state: SC
+wootax/31919:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '29150'
+    location_type: postcode
+  name: SUMTER
+  order: '0'
+  priority: '0'
+  rate: '8'
+  shipping: '1'
+  state: SC
+wootax/31920:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '29151'
+    location_type: postcode
+  name: SUMTER
+  order: '0'
+  priority: '0'
+  rate: '8'
+  shipping: '1'
+  state: SC
+wootax/31921:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '29152'
+    location_type: postcode
+  name: SUMTER
+  order: '0'
+  priority: '0'
+  rate: '8'
+  shipping: '1'
+  state: SC
+wootax/31922:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '29153'
+    location_type: postcode
+  name: SUMTER COUNTY
+  order: '0'
+  priority: '0'
+  rate: '8'
+  shipping: '1'
+  state: SC
+wootax/31923:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '29154'
+    location_type: postcode
+  name: SUMTER COUNTY
+  order: '0'
+  priority: '0'
+  rate: '8'
+  shipping: '1'
+  state: SC
+wootax/31924:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '29160'
+    location_type: postcode
+  name: LEXINGTON COUNTY
+  order: '0'
+  priority: '0'
+  rate: '7'
+  shipping: '1'
+  state: SC
+wootax/31925:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '29161'
+    location_type: postcode
+  name: FLORENCE CO REMAINDER
+  order: '0'
+  priority: '0'
+  rate: '8'
+  shipping: '1'
+  state: SC
+wootax/31926:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '29162'
+    location_type: postcode
+  name: CLARENDON COUNTY
+  order: '0'
+  priority: '0'
+  rate: '8'
+  shipping: '1'
+  state: SC
+wootax/31927:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '29163'
+    location_type: postcode
+  name: ORANGEBURG COUNTY
+  order: '0'
+  priority: '0'
+  rate: '7'
+  shipping: '1'
+  state: SC
+wootax/31928:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '29164'
+    location_type: postcode
+  name: AIKEN COUNTY
+  order: '0'
+  priority: '0'
+  rate: '8'
+  shipping: '1'
+  state: SC
+wootax/31929:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '29166'
+    location_type: postcode
+  name: SALUDA CO CAPITAL PROJECTS TAX SP
+  order: '0'
+  priority: '0'
+  rate: '8'
+  shipping: '1'
+  state: SC
+wootax/31930:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '29168'
+    location_type: postcode
+  name: SUMTER COUNTY
+  order: '0'
+  priority: '0'
+  rate: '8'
+  shipping: '1'
+  state: SC
+wootax/31931:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '29169'
+    location_type: postcode
+  name: WEST COLUMBIA
+  order: '0'
+  priority: '0'
+  rate: '7'
+  shipping: '1'
+  state: SC
+wootax/31932:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '29170'
+    location_type: postcode
+  name: LEXINGTON COUNTY
+  order: '0'
+  priority: '0'
+  rate: '7'
+  shipping: '1'
+  state: SC
+wootax/31933:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '29171'
+    location_type: postcode
+  name: WEST COLUMBIA
+  order: '0'
+  priority: '0'
+  rate: '7'
+  shipping: '1'
+  state: SC
+wootax/31934:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '29172'
+    location_type: postcode
+  name: LEXINGTON COUNTY
+  order: '0'
+  priority: '0'
+  rate: '7'
+  shipping: '1'
+  state: SC
+wootax/31935:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '29175'
+    location_type: postcode
+  name: KERSHAW COUNTY
+  order: '0'
+  priority: '0'
+  rate: '8'
+  shipping: '1'
+  state: SC
+wootax/31936:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '29177'
+    location_type: postcode
+  name: RICHLAND COUNTY
+  order: '0'
+  priority: '0'
+  rate: '8'
+  shipping: '1'
+  state: SC
+wootax/31937:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '29178'
+    location_type: postcode
+  name: WHITMIRE
+  order: '0'
+  priority: '0'
+  rate: '7'
+  shipping: '1'
+  state: SC
+wootax/31938:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '29180'
+    location_type: postcode
+  name: FAIRFIELD COUNTY
+  order: '0'
+  priority: '0'
+  rate: '7'
+  shipping: '1'
+  state: SC
+wootax/31939:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '29201'
+    location_type: postcode
+  name: COLUMBIA
+  order: '0'
+  priority: '0'
+  rate: '8'
+  shipping: '1'
+  state: SC
+wootax/31940:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '29202'
+    location_type: postcode
+  name: COLUMBIA
+  order: '0'
+  priority: '0'
+  rate: '8'
+  shipping: '1'
+  state: SC
+wootax/31941:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '29203'
+    location_type: postcode
+  name: COLUMBIA
+  order: '0'
+  priority: '0'
+  rate: '8'
+  shipping: '1'
+  state: SC
+wootax/31942:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '29204'
+    location_type: postcode
+  name: COLUMBIA
+  order: '0'
+  priority: '0'
+  rate: '8'
+  shipping: '1'
+  state: SC
+wootax/31943:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '29205'
+    location_type: postcode
+  name: COLUMBIA
+  order: '0'
+  priority: '0'
+  rate: '8'
+  shipping: '1'
+  state: SC
+wootax/31944:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '29206'
+    location_type: postcode
+  name: FOREST ACRES
+  order: '0'
+  priority: '0'
+  rate: '8'
+  shipping: '1'
+  state: SC
+wootax/31945:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '29207'
+    location_type: postcode
+  name: COLUMBIA
+  order: '0'
+  priority: '0'
+  rate: '8'
+  shipping: '1'
+  state: SC
+wootax/31946:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '29208'
+    location_type: postcode
+  name: COLUMBIA
+  order: '0'
+  priority: '0'
+  rate: '8'
+  shipping: '1'
+  state: SC
+wootax/31947:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '29209'
+    location_type: postcode
+  name: COLUMBIA
+  order: '0'
+  priority: '0'
+  rate: '8'
+  shipping: '1'
+  state: SC
+wootax/31948:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '29210'
+    location_type: postcode
+  name: RICHLAND COUNTY
+  order: '0'
+  priority: '0'
+  rate: '8'
+  shipping: '1'
+  state: SC
+wootax/31949:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '29211'
+    location_type: postcode
+  name: COLUMBIA
+  order: '0'
+  priority: '0'
+  rate: '8'
+  shipping: '1'
+  state: SC
+wootax/31950:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '29212'
+    location_type: postcode
+  name: LEXINGTON COUNTY
+  order: '0'
+  priority: '0'
+  rate: '7'
+  shipping: '1'
+  state: SC
+wootax/31951:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '29214'
+    location_type: postcode
+  name: COLUMBIA
+  order: '0'
+  priority: '0'
+  rate: '8'
+  shipping: '1'
+  state: SC
+wootax/31952:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '29215'
+    location_type: postcode
+  name: COLUMBIA
+  order: '0'
+  priority: '0'
+  rate: '8'
+  shipping: '1'
+  state: SC
+wootax/31953:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '29217'
+    location_type: postcode
+  name: COLUMBIA
+  order: '0'
+  priority: '0'
+  rate: '8'
+  shipping: '1'
+  state: SC
+wootax/31954:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '29218'
+    location_type: postcode
+  name: COLUMBIA
+  order: '0'
+  priority: '0'
+  rate: '8'
+  shipping: '1'
+  state: SC
+wootax/31955:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '29219'
+    location_type: postcode
+  name: RICHLAND COUNTY
+  order: '0'
+  priority: '0'
+  rate: '8'
+  shipping: '1'
+  state: SC
+wootax/31956:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '29220'
+    location_type: postcode
+  name: COLUMBIA
+  order: '0'
+  priority: '0'
+  rate: '8'
+  shipping: '1'
+  state: SC
+wootax/31957:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '29221'
+    location_type: postcode
+  name: RICHLAND COUNTY
+  order: '0'
+  priority: '0'
+  rate: '8'
+  shipping: '1'
+  state: SC
+wootax/31958:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '29222'
+    location_type: postcode
+  name: COLUMBIA
+  order: '0'
+  priority: '0'
+  rate: '8'
+  shipping: '1'
+  state: SC
+wootax/31959:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '29223'
+    location_type: postcode
+  name: RICHLAND COUNTY
+  order: '0'
+  priority: '0'
+  rate: '8'
+  shipping: '1'
+  state: SC
+wootax/31960:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '29224'
+    location_type: postcode
+  name: RICHLAND COUNTY
+  order: '0'
+  priority: '0'
+  rate: '8'
+  shipping: '1'
+  state: SC
+wootax/31961:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '29225'
+    location_type: postcode
+  name: COLUMBIA
+  order: '0'
+  priority: '0'
+  rate: '8'
+  shipping: '1'
+  state: SC
+wootax/31962:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '29226'
+    location_type: postcode
+  name: COLUMBIA
+  order: '0'
+  priority: '0'
+  rate: '8'
+  shipping: '1'
+  state: SC
+wootax/31963:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '29227'
+    location_type: postcode
+  name: COLUMBIA
+  order: '0'
+  priority: '0'
+  rate: '8'
+  shipping: '1'
+  state: SC
+wootax/31964:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '29229'
+    location_type: postcode
+  name: RICHLAND COUNTY
+  order: '0'
+  priority: '0'
+  rate: '8'
+  shipping: '1'
+  state: SC
+wootax/31965:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '29230'
+    location_type: postcode
+  name: COLUMBIA
+  order: '0'
+  priority: '0'
+  rate: '8'
+  shipping: '1'
+  state: SC
+wootax/31966:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '29240'
+    location_type: postcode
+  name: COLUMBIA
+  order: '0'
+  priority: '0'
+  rate: '8'
+  shipping: '1'
+  state: SC
+wootax/31967:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '29250'
+    location_type: postcode
+  name: COLUMBIA
+  order: '0'
+  priority: '0'
+  rate: '8'
+  shipping: '1'
+  state: SC
+wootax/31968:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '29260'
+    location_type: postcode
+  name: FOREST ACRES
+  order: '0'
+  priority: '0'
+  rate: '8'
+  shipping: '1'
+  state: SC
+wootax/31969:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '29290'
+    location_type: postcode
+  name: COLUMBIA
+  order: '0'
+  priority: '0'
+  rate: '8'
+  shipping: '1'
+  state: SC
+wootax/31970:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '29292'
+    location_type: postcode
+  name: COLUMBIA
+  order: '0'
+  priority: '0'
+  rate: '8'
+  shipping: '1'
+  state: SC
+wootax/31971:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '29301'
+    location_type: postcode
+  name: SPARTANBURG CO CAPITAL PROJECTS TAX SP
+  order: '0'
+  priority: '0'
+  rate: '7'
+  shipping: '1'
+  state: SC
+wootax/31972:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '29302'
+    location_type: postcode
+  name: SPARTANBURG CO CAPITAL PROJECTS TAX SP
+  order: '0'
+  priority: '0'
+  rate: '7'
+  shipping: '1'
+  state: SC
+wootax/31973:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '29303'
+    location_type: postcode
+  name: SPARTANBURG CO CAPITAL PROJECTS TAX SP
+  order: '0'
+  priority: '0'
+  rate: '7'
+  shipping: '1'
+  state: SC
+wootax/31974:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '29304'
+    location_type: postcode
+  name: SPARTANBURG CO CAPITAL PROJECTS TAX SP
+  order: '0'
+  priority: '0'
+  rate: '7'
+  shipping: '1'
+  state: SC
+wootax/31975:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '29305'
+    location_type: postcode
+  name: SPARTANBURG CO CAPITAL PROJECTS TAX SP
+  order: '0'
+  priority: '0'
+  rate: '7'
+  shipping: '1'
+  state: SC
+wootax/31976:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '29306'
+    location_type: postcode
+  name: SPARTANBURG CO CAPITAL PROJECTS TAX SP
+  order: '0'
+  priority: '0'
+  rate: '7'
+  shipping: '1'
+  state: SC
+wootax/31977:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '29307'
+    location_type: postcode
+  name: SPARTANBURG CO CAPITAL PROJECTS TAX SP
+  order: '0'
+  priority: '0'
+  rate: '7'
+  shipping: '1'
+  state: SC
+wootax/31978:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '29316'
+    location_type: postcode
+  name: SPARTANBURG CO CAPITAL PROJECTS TAX SP
+  order: '0'
+  priority: '0'
+  rate: '7'
+  shipping: '1'
+  state: SC
+wootax/31979:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '29319'
+    location_type: postcode
+  name: SPARTANBURG CO CAPITAL PROJECTS TAX SP
+  order: '0'
+  priority: '0'
+  rate: '7'
+  shipping: '1'
+  state: SC
+wootax/31980:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '29320'
+    location_type: postcode
+  name: SPARTANBURG CO CAPITAL PROJECTS TAX SP
+  order: '0'
+  priority: '0'
+  rate: '7'
+  shipping: '1'
+  state: SC
+wootax/31981:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '29321'
+    location_type: postcode
+  name: UNION COUNTY
+  order: '0'
+  priority: '0'
+  rate: '7'
+  shipping: '1'
+  state: SC
+wootax/31982:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '29322'
+    location_type: postcode
+  name: SPARTANBURG CO CAPITAL PROJECTS TAX SP
+  order: '0'
+  priority: '0'
+  rate: '7'
+  shipping: '1'
+  state: SC
+wootax/31983:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '29323'
+    location_type: postcode
+  name: SPARTANBURG CO CAPITAL PROJECTS TAX SP
+  order: '0'
+  priority: '0'
+  rate: '7'
+  shipping: '1'
+  state: SC
+wootax/31984:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '29324'
+    location_type: postcode
+  name: SPARTANBURG CO CAPITAL PROJECTS TAX SP
+  order: '0'
+  priority: '0'
+  rate: '7'
+  shipping: '1'
+  state: SC
+wootax/31985:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '29325'
+    location_type: postcode
+  name: LAURENS COUNTY
+  order: '0'
+  priority: '0'
+  rate: '7'
+  shipping: '1'
+  state: SC
+wootax/31986:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '29329'
+    location_type: postcode
+  name: SPARTANBURG CO CAPITAL PROJECTS TAX SP
+  order: '0'
+  priority: '0'
+  rate: '7'
+  shipping: '1'
+  state: SC
+wootax/31987:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '29330'
+    location_type: postcode
+  name: SPARTANBURG CO CAPITAL PROJECTS TAX SP
+  order: '0'
+  priority: '0'
+  rate: '7'
+  shipping: '1'
+  state: SC
+wootax/31988:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '29331'
+    location_type: postcode
+  name: SPARTANBURG CO CAPITAL PROJECTS TAX SP
+  order: '0'
+  priority: '0'
+  rate: '7'
+  shipping: '1'
+  state: SC
+wootax/31989:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '29332'
+    location_type: postcode
+  name: LAURENS COUNTY
+  order: '0'
+  priority: '0'
+  rate: '7'
+  shipping: '1'
+  state: SC
+wootax/31990:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '29333'
+    location_type: postcode
+  name: SPARTANBURG CO CAPITAL PROJECTS TAX SP
+  order: '0'
+  priority: '0'
+  rate: '7'
+  shipping: '1'
+  state: SC
+wootax/31991:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '29334'
+    location_type: postcode
+  name: SPARTANBURG CO CAPITAL PROJECTS TAX SP
+  order: '0'
+  priority: '0'
+  rate: '7'
+  shipping: '1'
+  state: SC
+wootax/31992:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '29335'
+    location_type: postcode
+  name: SPARTANBURG CO CAPITAL PROJECTS TAX SP
+  order: '0'
+  priority: '0'
+  rate: '7'
+  shipping: '1'
+  state: SC
+wootax/31993:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '29336'
+    location_type: postcode
+  name: SPARTANBURG CO CAPITAL PROJECTS TAX SP
+  order: '0'
+  priority: '0'
+  rate: '7'
+  shipping: '1'
+  state: SC
+wootax/31994:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '29338'
+    location_type: postcode
+  name: SPARTANBURG CO CAPITAL PROJECTS TAX SP
+  order: '0'
+  priority: '0'
+  rate: '7'
+  shipping: '1'
+  state: SC
+wootax/31995:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '29340'
+    location_type: postcode
+  name: CHEROKEE COUNTY
+  order: '0'
+  priority: '0'
+  rate: '8'
+  shipping: '1'
+  state: SC
+wootax/31996:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '29341'
+    location_type: postcode
+  name: CHEROKEE COUNTY
+  order: '0'
+  priority: '0'
+  rate: '8'
+  shipping: '1'
+  state: SC
+wootax/31997:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '29346'
+    location_type: postcode
+  name: SPARTANBURG CO CAPITAL PROJECTS TAX SP
+  order: '0'
+  priority: '0'
+  rate: '7'
+  shipping: '1'
+  state: SC
+wootax/31998:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '29348'
+    location_type: postcode
+  name: SPARTANBURG CO CAPITAL PROJECTS TAX SP
+  order: '0'
+  priority: '0'
+  rate: '7'
+  shipping: '1'
+  state: SC
+wootax/31999:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '29349'
+    location_type: postcode
+  name: SPARTANBURG CO CAPITAL PROJECTS TAX SP
+  order: '0'
+  priority: '0'
+  rate: '7'
+  shipping: '1'
+  state: SC
+wootax/32000:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '29351'
+    location_type: postcode
+  name: LAURENS COUNTY
+  order: '0'
+  priority: '0'
+  rate: '7'
+  shipping: '1'
+  state: SC
+wootax/32001:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '29353'
+    location_type: postcode
+  name: UNION COUNTY
+  order: '0'
+  priority: '0'
+  rate: '7'
+  shipping: '1'
+  state: SC
+wootax/32002:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '29355'
+    location_type: postcode
+  name: NEWBERRY COUNTY
+  order: '0'
+  priority: '0'
+  rate: '7'
+  shipping: '1'
+  state: SC
+wootax/32003:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '29356'
+    location_type: postcode
+  name: GREENVILLE COUNTY
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: SC
+wootax/32004:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '29360'
+    location_type: postcode
+  name: LAURENS COUNTY
+  order: '0'
+  priority: '0'
+  rate: '7'
+  shipping: '1'
+  state: SC
+wootax/32005:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '29364'
+    location_type: postcode
+  name: UNION COUNTY
+  order: '0'
+  priority: '0'
+  rate: '7'
+  shipping: '1'
+  state: SC
+wootax/32006:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '29365'
+    location_type: postcode
+  name: SPARTANBURG CO CAPITAL PROJECTS TAX SP
+  order: '0'
+  priority: '0'
+  rate: '7'
+  shipping: '1'
+  state: SC
+wootax/32007:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '29368'
+    location_type: postcode
+  name: SPARTANBURG CO CAPITAL PROJECTS TAX SP
+  order: '0'
+  priority: '0'
+  rate: '7'
+  shipping: '1'
+  state: SC
+wootax/32008:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '29369'
+    location_type: postcode
+  name: SPARTANBURG CO CAPITAL PROJECTS TAX SP
+  order: '0'
+  priority: '0'
+  rate: '7'
+  shipping: '1'
+  state: SC
+wootax/32009:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '29370'
+    location_type: postcode
+  name: LAURENS COUNTY
+  order: '0'
+  priority: '0'
+  rate: '7'
+  shipping: '1'
+  state: SC
+wootax/32010:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '29372'
+    location_type: postcode
+  name: PACOLET
+  order: '0'
+  priority: '0'
+  rate: '7'
+  shipping: '1'
+  state: SC
+wootax/32011:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '29373'
+    location_type: postcode
+  name: PACOLET
+  order: '0'
+  priority: '0'
+  rate: '7'
+  shipping: '1'
+  state: SC
+wootax/32012:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '29374'
+    location_type: postcode
+  name: SPARTANBURG CO CAPITAL PROJECTS TAX SP
+  order: '0'
+  priority: '0'
+  rate: '7'
+  shipping: '1'
+  state: SC
+wootax/32013:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '29375'
+    location_type: postcode
+  name: REIDVILLE
+  order: '0'
+  priority: '0'
+  rate: '7'
+  shipping: '1'
+  state: SC
+wootax/32014:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '29376'
+    location_type: postcode
+  name: SPARTANBURG CO CAPITAL PROJECTS TAX SP
+  order: '0'
+  priority: '0'
+  rate: '7'
+  shipping: '1'
+  state: SC
+wootax/32015:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '29377'
+    location_type: postcode
+  name: SPARTANBURG CO CAPITAL PROJECTS TAX SP
+  order: '0'
+  priority: '0'
+  rate: '7'
+  shipping: '1'
+  state: SC
+wootax/32016:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '29378'
+    location_type: postcode
+  name: SPARTANBURG CO CAPITAL PROJECTS TAX SP
+  order: '0'
+  priority: '0'
+  rate: '7'
+  shipping: '1'
+  state: SC
+wootax/32017:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '29379'
+    location_type: postcode
+  name: UNION COUNTY
+  order: '0'
+  priority: '0'
+  rate: '7'
+  shipping: '1'
+  state: SC
+wootax/32018:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '29384'
+    location_type: postcode
+  name: LAURENS COUNTY
+  order: '0'
+  priority: '0'
+  rate: '7'
+  shipping: '1'
+  state: SC
+wootax/32019:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '29385'
+    location_type: postcode
+  name: SPARTANBURG CO CAPITAL PROJECTS TAX SP
+  order: '0'
+  priority: '0'
+  rate: '7'
+  shipping: '1'
+  state: SC
+wootax/32020:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '29386'
+    location_type: postcode
+  name: SPARTANBURG CO CAPITAL PROJECTS TAX SP
+  order: '0'
+  priority: '0'
+  rate: '7'
+  shipping: '1'
+  state: SC
+wootax/32021:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '29388'
+    location_type: postcode
+  name: SPARTANBURG CO CAPITAL PROJECTS TAX SP
+  order: '0'
+  priority: '0'
+  rate: '7'
+  shipping: '1'
+  state: SC
+wootax/32022:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '29395'
+    location_type: postcode
+  name: UNION COUNTY
+  order: '0'
+  priority: '0'
+  rate: '7'
+  shipping: '1'
+  state: SC
+wootax/32023:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '29401'
+    location_type: postcode
+  name: CHARLESTON
+  order: '0'
+  priority: '0'
+  rate: '9'
+  shipping: '1'
+  state: SC
+wootax/32024:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '29402'
+    location_type: postcode
+  name: CHARLESTON
+  order: '0'
+  priority: '0'
+  rate: '9'
+  shipping: '1'
+  state: SC
+wootax/32025:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '29403'
+    location_type: postcode
+  name: CHARLESTON
+  order: '0'
+  priority: '0'
+  rate: '9'
+  shipping: '1'
+  state: SC
+wootax/32026:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '29404'
+    location_type: postcode
+  name: NORTH CHARLESTON
+  order: '0'
+  priority: '0'
+  rate: '9'
+  shipping: '1'
+  state: SC
+wootax/32027:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '29405'
+    location_type: postcode
+  name: NORTH CHARLESTON
+  order: '0'
+  priority: '0'
+  rate: '9'
+  shipping: '1'
+  state: SC
+wootax/32028:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '29406'
+    location_type: postcode
+  name: NORTH CHARLESTON
+  order: '0'
+  priority: '0'
+  rate: '9'
+  shipping: '1'
+  state: SC
+wootax/32029:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '29407'
+    location_type: postcode
+  name: CHARLESTON
+  order: '0'
+  priority: '0'
+  rate: '9'
+  shipping: '1'
+  state: SC
+wootax/32030:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '29409'
+    location_type: postcode
+  name: CHARLESTON
+  order: '0'
+  priority: '0'
+  rate: '9'
+  shipping: '1'
+  state: SC
+wootax/32031:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '29410'
+    location_type: postcode
+  name: HANAHAN
+  order: '0'
+  priority: '0'
+  rate: '8'
+  shipping: '1'
+  state: SC
+wootax/32032:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '29412'
+    location_type: postcode
+  name: CHARLESTON
+  order: '0'
+  priority: '0'
+  rate: '9'
+  shipping: '1'
+  state: SC
+wootax/32033:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '29413'
+    location_type: postcode
+  name: CHARLESTON
+  order: '0'
+  priority: '0'
+  rate: '9'
+  shipping: '1'
+  state: SC
+wootax/32034:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '29414'
+    location_type: postcode
+  name: CHARLESTON
+  order: '0'
+  priority: '0'
+  rate: '9'
+  shipping: '1'
+  state: SC
+wootax/32035:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '29415'
+    location_type: postcode
+  name: NORTH CHARLESTON
+  order: '0'
+  priority: '0'
+  rate: '9'
+  shipping: '1'
+  state: SC
+wootax/32036:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '29416'
+    location_type: postcode
+  name: CHARLESTON
+  order: '0'
+  priority: '0'
+  rate: '9'
+  shipping: '1'
+  state: SC
+wootax/32037:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '29417'
+    location_type: postcode
+  name: CHARLESTON
+  order: '0'
+  priority: '0'
+  rate: '9'
+  shipping: '1'
+  state: SC
+wootax/32038:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '29418'
+    location_type: postcode
+  name: NORTH CHARLESTON
+  order: '0'
+  priority: '0'
+  rate: '9'
+  shipping: '1'
+  state: SC
+wootax/32039:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '29419'
+    location_type: postcode
+  name: NORTH CHARLESTON
+  order: '0'
+  priority: '0'
+  rate: '9'
+  shipping: '1'
+  state: SC
+wootax/32040:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '29420'
+    location_type: postcode
+  name: NORTH CHARLESTON
+  order: '0'
+  priority: '0'
+  rate: '7'
+  shipping: '1'
+  state: SC
+wootax/32041:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '29422'
+    location_type: postcode
+  name: CHARLESTON
+  order: '0'
+  priority: '0'
+  rate: '9'
+  shipping: '1'
+  state: SC
+wootax/32042:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '29423'
+    location_type: postcode
+  name: NORTH CHARLESTON
+  order: '0'
+  priority: '0'
+  rate: '9'
+  shipping: '1'
+  state: SC
+wootax/32043:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '29424'
+    location_type: postcode
+  name: CHARLESTON
+  order: '0'
+  priority: '0'
+  rate: '9'
+  shipping: '1'
+  state: SC
+wootax/32044:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '29425'
+    location_type: postcode
+  name: CHARLESTON
+  order: '0'
+  priority: '0'
+  rate: '9'
+  shipping: '1'
+  state: SC
+wootax/32045:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '29426'
+    location_type: postcode
+  name: CHARLESTON COUNTY
+  order: '0'
+  priority: '0'
+  rate: '9'
+  shipping: '1'
+  state: SC
+wootax/32046:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '29429'
+    location_type: postcode
+  name: CHARLESTON COUNTY
+  order: '0'
+  priority: '0'
+  rate: '9'
+  shipping: '1'
+  state: SC
+wootax/32047:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '29431'
+    location_type: postcode
+  name: BERKELEY COUNTY
+  order: '0'
+  priority: '0'
+  rate: '8'
+  shipping: '1'
+  state: SC
+wootax/32048:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '29432'
+    location_type: postcode
+  name: ORANGEBURG COUNTY
+  order: '0'
+  priority: '0'
+  rate: '7'
+  shipping: '1'
+  state: SC
+wootax/32049:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '29434'
+    location_type: postcode
+  name: BERKELEY COUNTY
+  order: '0'
+  priority: '0'
+  rate: '8'
+  shipping: '1'
+  state: SC
+wootax/32050:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '29435'
+    location_type: postcode
+  name: COLLETON COUNTY
+  order: '0'
+  priority: '0'
+  rate: '8'
+  shipping: '1'
+  state: SC
+wootax/32051:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '29436'
+    location_type: postcode
+  name: BERKELEY COUNTY
+  order: '0'
+  priority: '0'
+  rate: '8'
+  shipping: '1'
+  state: SC
+wootax/32052:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '29437'
+    location_type: postcode
+  name: DORCHESTER COUNTY
+  order: '0'
+  priority: '0'
+  rate: '7'
+  shipping: '1'
+  state: SC
+wootax/32053:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '29438'
+    location_type: postcode
+  name: CHARLESTON COUNTY
+  order: '0'
+  priority: '0'
+  rate: '9'
+  shipping: '1'
+  state: SC
+wootax/32054:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '29439'
+    location_type: postcode
+  name: FOLLY BEACH
+  order: '0'
+  priority: '0'
+  rate: '9'
+  shipping: '1'
+  state: SC
+wootax/32055:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '29440'
+    location_type: postcode
+  name: GEORGETOWN CO SP
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: SC
+wootax/32056:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '29442'
+    location_type: postcode
+  name: GEORGETOWN
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: SC
+wootax/32057:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '29445'
+    location_type: postcode
+  name: GOOSE CREEK
+  order: '0'
+  priority: '0'
+  rate: '8'
+  shipping: '1'
+  state: SC
+wootax/32058:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '29446'
+    location_type: postcode
+  name: COLLETON COUNTY
+  order: '0'
+  priority: '0'
+  rate: '8'
+  shipping: '1'
+  state: SC
+wootax/32059:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '29447'
+    location_type: postcode
+  name: DORCHESTER COUNTY
+  order: '0'
+  priority: '0'
+  rate: '7'
+  shipping: '1'
+  state: SC
+wootax/32060:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '29448'
+    location_type: postcode
+  name: DORCHESTER COUNTY
+  order: '0'
+  priority: '0'
+  rate: '7'
+  shipping: '1'
+  state: SC
+wootax/32061:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '29449'
+    location_type: postcode
+  name: HOLLYWOOD
+  order: '0'
+  priority: '0'
+  rate: '9'
+  shipping: '1'
+  state: SC
+wootax/32062:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '29450'
+    location_type: postcode
+  name: BERKELEY COUNTY
+  order: '0'
+  priority: '0'
+  rate: '8'
+  shipping: '1'
+  state: SC
+wootax/32063:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '29451'
+    location_type: postcode
+  name: ISLE OF PALMS
+  order: '0'
+  priority: '0'
+  rate: '9'
+  shipping: '1'
+  state: SC
+wootax/32064:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '29452'
+    location_type: postcode
+  name: COLLETON COUNTY
+  order: '0'
+  priority: '0'
+  rate: '8'
+  shipping: '1'
+  state: SC
+wootax/32065:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '29453'
+    location_type: postcode
+  name: BERKELEY COUNTY
+  order: '0'
+  priority: '0'
+  rate: '8'
+  shipping: '1'
+  state: SC
+wootax/32066:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '29455'
+    location_type: postcode
+  name: CHARLESTON COUNTY
+  order: '0'
+  priority: '0'
+  rate: '9'
+  shipping: '1'
+  state: SC
+wootax/32067:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '29456'
+    location_type: postcode
+  name: DORCHESTER COUNTY
+  order: '0'
+  priority: '0'
+  rate: '7'
+  shipping: '1'
+  state: SC
+wootax/32068:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '29457'
+    location_type: postcode
+  name: CHARLESTON
+  order: '0'
+  priority: '0'
+  rate: '9'
+  shipping: '1'
+  state: SC
+wootax/32069:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '29458'
+    location_type: postcode
+  name: CHARLESTON COUNTY
+  order: '0'
+  priority: '0'
+  rate: '9'
+  shipping: '1'
+  state: SC
+wootax/32070:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '29461'
+    location_type: postcode
+  name: BERKELEY COUNTY
+  order: '0'
+  priority: '0'
+  rate: '8'
+  shipping: '1'
+  state: SC
+wootax/32071:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '29464'
+    location_type: postcode
+  name: MOUNT PLEASANT
+  order: '0'
+  priority: '0'
+  rate: '9'
+  shipping: '1'
+  state: SC
+wootax/32072:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '29465'
+    location_type: postcode
+  name: MOUNT PLEASANT
+  order: '0'
+  priority: '0'
+  rate: '9'
+  shipping: '1'
+  state: SC
+wootax/32073:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '29466'
+    location_type: postcode
+  name: MOUNT PLEASANT
+  order: '0'
+  priority: '0'
+  rate: '9'
+  shipping: '1'
+  state: SC
+wootax/32074:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '29468'
+    location_type: postcode
+  name: BERKELEY COUNTY
+  order: '0'
+  priority: '0'
+  rate: '8'
+  shipping: '1'
+  state: SC
+wootax/32075:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '29469'
+    location_type: postcode
+  name: BERKELEY COUNTY
+  order: '0'
+  priority: '0'
+  rate: '8'
+  shipping: '1'
+  state: SC
+wootax/32076:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '29470'
+    location_type: postcode
+  name: RAVENEL
+  order: '0'
+  priority: '0'
+  rate: '9'
+  shipping: '1'
+  state: SC
+wootax/32077:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '29471'
+    location_type: postcode
+  name: DORCHESTER COUNTY
+  order: '0'
+  priority: '0'
+  rate: '7'
+  shipping: '1'
+  state: SC
+wootax/32078:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '29472'
+    location_type: postcode
+  name: DORCHESTER COUNTY
+  order: '0'
+  priority: '0'
+  rate: '7'
+  shipping: '1'
+  state: SC
+wootax/32079:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '29474'
+    location_type: postcode
+  name: COLLETON COUNTY
+  order: '0'
+  priority: '0'
+  rate: '8'
+  shipping: '1'
+  state: SC
+wootax/32080:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '29475'
+    location_type: postcode
+  name: COLLETON COUNTY
+  order: '0'
+  priority: '0'
+  rate: '8'
+  shipping: '1'
+  state: SC
+wootax/32081:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '29476'
+    location_type: postcode
+  name: BERKELEY COUNTY
+  order: '0'
+  priority: '0'
+  rate: '8'
+  shipping: '1'
+  state: SC
+wootax/32082:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '29477'
+    location_type: postcode
+  name: DORCHESTER COUNTY
+  order: '0'
+  priority: '0'
+  rate: '7'
+  shipping: '1'
+  state: SC
+wootax/32083:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '29479'
+    location_type: postcode
+  name: BERKELEY COUNTY
+  order: '0'
+  priority: '0'
+  rate: '8'
+  shipping: '1'
+  state: SC
+wootax/32084:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '29481'
+    location_type: postcode
+  name: COLLETON COUNTY
+  order: '0'
+  priority: '0'
+  rate: '8'
+  shipping: '1'
+  state: SC
+wootax/32085:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '29482'
+    location_type: postcode
+  name: SULLIVANS ISLAND
+  order: '0'
+  priority: '0'
+  rate: '9'
+  shipping: '1'
+  state: SC
+wootax/32086:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '29483'
+    location_type: postcode
+  name: SUMMERVILLE
+  order: '0'
+  priority: '0'
+  rate: '7'
+  shipping: '1'
+  state: SC
+wootax/32087:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '29484'
+    location_type: postcode
+  name: SUMMERVILLE
+  order: '0'
+  priority: '0'
+  rate: '7'
+  shipping: '1'
+  state: SC
+wootax/32088:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '29485'
+    location_type: postcode
+  name: SUMMERVILLE
+  order: '0'
+  priority: '0'
+  rate: '7'
+  shipping: '1'
+  state: SC
+wootax/32089:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '29486'
+    location_type: postcode
+  name: SUMMERVILLE
+  order: '0'
+  priority: '0'
+  rate: '8'
+  shipping: '1'
+  state: SC
+wootax/32090:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '29487'
+    location_type: postcode
+  name: CHARLESTON COUNTY
+  order: '0'
+  priority: '0'
+  rate: '9'
+  shipping: '1'
+  state: SC
+wootax/32091:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '29488'
+    location_type: postcode
+  name: COLLETON COUNTY
+  order: '0'
+  priority: '0'
+  rate: '8'
+  shipping: '1'
+  state: SC
+wootax/32092:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '29492'
+    location_type: postcode
+  name: CHARLESTON
+  order: '0'
+  priority: '0'
+  rate: '8'
+  shipping: '1'
+  state: SC
+wootax/32093:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '29493'
+    location_type: postcode
+  name: WILLIAMS
+  order: '0'
+  priority: '0'
+  rate: '8'
+  shipping: '1'
+  state: SC
+wootax/32094:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '29501'
+    location_type: postcode
+  name: FLORENCE CO REMAINDER
+  order: '0'
+  priority: '0'
+  rate: '8'
+  shipping: '1'
+  state: SC
+wootax/32095:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '29502'
+    location_type: postcode
+  name: FLORENCE
+  order: '0'
+  priority: '0'
+  rate: '8'
+  shipping: '1'
+  state: SC
+wootax/32096:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '29503'
+    location_type: postcode
+  name: FLORENCE
+  order: '0'
+  priority: '0'
+  rate: '8'
+  shipping: '1'
+  state: SC
+wootax/32097:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '29504'
+    location_type: postcode
+  name: FLORENCE
+  order: '0'
+  priority: '0'
+  rate: '8'
+  shipping: '1'
+  state: SC
+wootax/32098:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '29505'
+    location_type: postcode
+  name: FLORENCE CO REMAINDER
+  order: '0'
+  priority: '0'
+  rate: '8'
+  shipping: '1'
+  state: SC
+wootax/32099:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '29506'
+    location_type: postcode
+  name: FLORENCE CO REMAINDER
+  order: '0'
+  priority: '0'
+  rate: '8'
+  shipping: '1'
+  state: SC
+wootax/32100:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '29510'
+    location_type: postcode
+  name: WILLIAMSBURG COUNTY
+  order: '0'
+  priority: '0'
+  rate: '8'
+  shipping: '1'
+  state: SC
+wootax/32101:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '29511'
+    location_type: postcode
+  name: HORRY CO REMAINDER
+  order: '0'
+  priority: '0'
+  rate: '8'
+  shipping: '1'
+  state: SC
+wootax/32102:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '29512'
+    location_type: postcode
+  name: MARLBORO COUNTY
+  order: '0'
+  priority: '0'
+  rate: '8'
+  shipping: '1'
+  state: SC
+wootax/32103:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '29516'
+    location_type: postcode
+  name: MARLBORO COUNTY
+  order: '0'
+  priority: '0'
+  rate: '8'
+  shipping: '1'
+  state: SC
+wootax/32104:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '29518'
+    location_type: postcode
+  name: WILLIAMSBURG COUNTY
+  order: '0'
+  priority: '0'
+  rate: '8'
+  shipping: '1'
+  state: SC
+wootax/32105:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '29519'
+    location_type: postcode
+  name: MARION COUNTY
+  order: '0'
+  priority: '0'
+  rate: '8'
+  shipping: '1'
+  state: SC
+wootax/32106:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '29520'
+    location_type: postcode
+  name: CHESTERFIELD COUNTY
+  order: '0'
+  priority: '0'
+  rate: '8'
+  shipping: '1'
+  state: SC
+wootax/32107:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '29525'
+    location_type: postcode
+  name: MARLBORO COUNTY
+  order: '0'
+  priority: '0'
+  rate: '8'
+  shipping: '1'
+  state: SC
+wootax/32108:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '29526'
+    location_type: postcode
+  name: HORRY CO REMAINDER
+  order: '0'
+  priority: '0'
+  rate: '8'
+  shipping: '1'
+  state: SC
+wootax/32109:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '29527'
+    location_type: postcode
+  name: HORRY CO REMAINDER
+  order: '0'
+  priority: '0'
+  rate: '8'
+  shipping: '1'
+  state: SC
+wootax/32110:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '29528'
+    location_type: postcode
+  name: CONWAY
+  order: '0'
+  priority: '0'
+  rate: '8'
+  shipping: '1'
+  state: SC
+wootax/32111:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '29530'
+    location_type: postcode
+  name: FLORENCE CO REMAINDER
+  order: '0'
+  priority: '0'
+  rate: '8'
+  shipping: '1'
+  state: SC
+wootax/32112:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '29532'
+    location_type: postcode
+  name: DARLINGTON COUNTY
+  order: '0'
+  priority: '0'
+  rate: '8'
+  shipping: '1'
+  state: SC
+wootax/32113:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '29536'
+    location_type: postcode
+  name: DILLON
+  order: '0'
+  priority: '0'
+  rate: '8'
+  shipping: '1'
+  state: SC
+wootax/32114:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '29540'
+    location_type: postcode
+  name: DARLINGTON COUNTY
+  order: '0'
+  priority: '0'
+  rate: '8'
+  shipping: '1'
+  state: SC
+wootax/32115:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '29541'
+    location_type: postcode
+  name: FLORENCE CO REMAINDER
+  order: '0'
+  priority: '0'
+  rate: '8'
+  shipping: '1'
+  state: SC
+wootax/32116:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '29543'
+    location_type: postcode
+  name: DILLON COUNTY
+  order: '0'
+  priority: '0'
+  rate: '8'
+  shipping: '1'
+  state: SC
+wootax/32117:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '29544'
+    location_type: postcode
+  name: HORRY CO REMAINDER
+  order: '0'
+  priority: '0'
+  rate: '8'
+  shipping: '1'
+  state: SC
+wootax/32118:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '29545'
+    location_type: postcode
+  name: HORRY CO REMAINDER
+  order: '0'
+  priority: '0'
+  rate: '8'
+  shipping: '1'
+  state: SC
+wootax/32119:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '29546'
+    location_type: postcode
+  name: MARION COUNTY
+  order: '0'
+  priority: '0'
+  rate: '8'
+  shipping: '1'
+  state: SC
+wootax/32120:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '29547'
+    location_type: postcode
+  name: DILLON COUNTY
+  order: '0'
+  priority: '0'
+  rate: '8'
+  shipping: '1'
+  state: SC
+wootax/32121:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '29550'
+    location_type: postcode
+  name: DARLINGTON COUNTY
+  order: '0'
+  priority: '0'
+  rate: '8'
+  shipping: '1'
+  state: SC
+wootax/32122:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '29551'
+    location_type: postcode
+  name: HARTSVILLE
+  order: '0'
+  priority: '0'
+  rate: '8'
+  shipping: '1'
+  state: SC
+wootax/32123:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '29554'
+    location_type: postcode
+  name: GEORGETOWN CO SP
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: SC
+wootax/32124:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '29555'
+    location_type: postcode
+  name: FLORENCE CO REMAINDER
+  order: '0'
+  priority: '0'
+  rate: '8'
+  shipping: '1'
+  state: SC
+wootax/32125:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '29556'
+    location_type: postcode
+  name: WILLIAMSBURG COUNTY
+  order: '0'
+  priority: '0'
+  rate: '8'
+  shipping: '1'
+  state: SC
+wootax/32126:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '29560'
+    location_type: postcode
+  name: FLORENCE CO REMAINDER
+  order: '0'
+  priority: '0'
+  rate: '8'
+  shipping: '1'
+  state: SC
+wootax/32127:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '29563'
+    location_type: postcode
+  name: DILLON COUNTY
+  order: '0'
+  priority: '0'
+  rate: '8'
+  shipping: '1'
+  state: SC
+wootax/32128:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '29564'
+    location_type: postcode
+  name: WILLIAMSBURG COUNTY
+  order: '0'
+  priority: '0'
+  rate: '8'
+  shipping: '1'
+  state: SC
+wootax/32129:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '29565'
+    location_type: postcode
+  name: DILLON COUNTY
+  order: '0'
+  priority: '0'
+  rate: '8'
+  shipping: '1'
+  state: SC
+wootax/32130:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '29566'
+    location_type: postcode
+  name: HORRY CO REMAINDER
+  order: '0'
+  priority: '0'
+  rate: '8'
+  shipping: '1'
+  state: SC
+wootax/32131:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '29567'
+    location_type: postcode
+  name: DILLON COUNTY
+  order: '0'
+  priority: '0'
+  rate: '8'
+  shipping: '1'
+  state: SC
+wootax/32132:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '29568'
+    location_type: postcode
+  name: HORRY CO REMAINDER
+  order: '0'
+  priority: '0'
+  rate: '8'
+  shipping: '1'
+  state: SC
+wootax/32133:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '29569'
+    location_type: postcode
+  name: HORRY CO REMAINDER
+  order: '0'
+  priority: '0'
+  rate: '8'
+  shipping: '1'
+  state: SC
+wootax/32134:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '29570'
+    location_type: postcode
+  name: MARLBORO COUNTY
+  order: '0'
+  priority: '0'
+  rate: '8'
+  shipping: '1'
+  state: SC
+wootax/32135:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '29571'
+    location_type: postcode
+  name: MARION COUNTY
+  order: '0'
+  priority: '0'
+  rate: '8'
+  shipping: '1'
+  state: SC
+wootax/32136:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '29572'
+    location_type: postcode
+  name: MYRTLE BEACH
+  order: '0'
+  priority: '0'
+  rate: '9'
+  shipping: '1'
+  state: SC
+wootax/32137:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '29574'
+    location_type: postcode
+  name: MARION COUNTY
+  order: '0'
+  priority: '0'
+  rate: '8'
+  shipping: '1'
+  state: SC
+wootax/32138:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '29575'
+    location_type: postcode
+  name: HORRY CO REMAINDER
+  order: '0'
+  priority: '0'
+  rate: '8'
+  shipping: '1'
+  state: SC
+wootax/32139:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '29576'
+    location_type: postcode
+  name: HORRY CO REMAINDER
+  order: '0'
+  priority: '0'
+  rate: '8'
+  shipping: '1'
+  state: SC
+wootax/32140:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '29577'
+    location_type: postcode
+  name: MYRTLE BEACH
+  order: '0'
+  priority: '0'
+  rate: '9'
+  shipping: '1'
+  state: SC
+wootax/32141:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '29578'
+    location_type: postcode
+  name: MYRTLE BEACH
+  order: '0'
+  priority: '0'
+  rate: '9'
+  shipping: '1'
+  state: SC
+wootax/32142:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '29579'
+    location_type: postcode
+  name: HORRY CO REMAINDER
+  order: '0'
+  priority: '0'
+  rate: '8'
+  shipping: '1'
+  state: SC
+wootax/32143:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '29580'
+    location_type: postcode
+  name: WILLIAMSBURG COUNTY
+  order: '0'
+  priority: '0'
+  rate: '8'
+  shipping: '1'
+  state: SC
+wootax/32144:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '29581'
+    location_type: postcode
+  name: HORRY CO REMAINDER
+  order: '0'
+  priority: '0'
+  rate: '8'
+  shipping: '1'
+  state: SC
+wootax/32145:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '29582'
+    location_type: postcode
+  name: NORTH MYRTLE BEACH
+  order: '0'
+  priority: '0'
+  rate: '8'
+  shipping: '1'
+  state: SC
+wootax/32146:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '29583'
+    location_type: postcode
+  name: FLORENCE CO REMAINDER
+  order: '0'
+  priority: '0'
+  rate: '8'
+  shipping: '1'
+  state: SC
+wootax/32147:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '29584'
+    location_type: postcode
+  name: CHESTERFIELD COUNTY
+  order: '0'
+  priority: '0'
+  rate: '8'
+  shipping: '1'
+  state: SC
+wootax/32148:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '29585'
+    location_type: postcode
+  name: GEORGETOWN CO SP
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: SC
+wootax/32149:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '29587'
+    location_type: postcode
+  name: SURFSIDE BEACH
+  order: '0'
+  priority: '0'
+  rate: '8'
+  shipping: '1'
+  state: SC
+wootax/32150:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '29588'
+    location_type: postcode
+  name: HORRY CO REMAINDER
+  order: '0'
+  priority: '0'
+  rate: '8'
+  shipping: '1'
+  state: SC
+wootax/32151:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '29589'
+    location_type: postcode
+  name: MARION COUNTY
+  order: '0'
+  priority: '0'
+  rate: '8'
+  shipping: '1'
+  state: SC
+wootax/32152:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '29590'
+    location_type: postcode
+  name: WILLIAMSBURG COUNTY
+  order: '0'
+  priority: '0'
+  rate: '8'
+  shipping: '1'
+  state: SC
+wootax/32153:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '29591'
+    location_type: postcode
+  name: FLORENCE CO REMAINDER
+  order: '0'
+  priority: '0'
+  rate: '8'
+  shipping: '1'
+  state: SC
+wootax/32154:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '29592'
+    location_type: postcode
+  name: DILLON COUNTY
+  order: '0'
+  priority: '0'
+  rate: '8'
+  shipping: '1'
+  state: SC
+wootax/32155:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '29593'
+    location_type: postcode
+  name: DARLINGTON COUNTY
+  order: '0'
+  priority: '0'
+  rate: '8'
+  shipping: '1'
+  state: SC
+wootax/32156:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '29594'
+    location_type: postcode
+  name: TATUM
+  order: '0'
+  priority: '0'
+  rate: '8'
+  shipping: '1'
+  state: SC
+wootax/32157:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '29596'
+    location_type: postcode
+  name: MARLBORO COUNTY
+  order: '0'
+  priority: '0'
+  rate: '8'
+  shipping: '1'
+  state: SC
+wootax/32158:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '29597'
+    location_type: postcode
+  name: NORTH MYRTLE BEACH
+  order: '0'
+  priority: '0'
+  rate: '8'
+  shipping: '1'
+  state: SC
+wootax/32159:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '29598'
+    location_type: postcode
+  name: NORTH MYRTLE BEACH
+  order: '0'
+  priority: '0'
+  rate: '8'
+  shipping: '1'
+  state: SC
+wootax/32160:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '29601'
+    location_type: postcode
+  name: GREENVILLE
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: SC
+wootax/32161:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '29602'
+    location_type: postcode
+  name: GREENVILLE
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: SC
+wootax/32162:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '29603'
+    location_type: postcode
+  name: GREENVILLE
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: SC
+wootax/32163:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '29604'
+    location_type: postcode
+  name: GREENVILLE
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: SC
+wootax/32164:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '29605'
+    location_type: postcode
+  name: GREENVILLE COUNTY
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: SC
+wootax/32165:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '29606'
+    location_type: postcode
+  name: GREENVILLE
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: SC
+wootax/32166:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '29607'
+    location_type: postcode
+  name: GREENVILLE
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: SC
+wootax/32167:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '29608'
+    location_type: postcode
+  name: GREENVILLE COUNTY
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: SC
+wootax/32168:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '29609'
+    location_type: postcode
+  name: GREENVILLE COUNTY
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: SC
+wootax/32169:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '29610'
+    location_type: postcode
+  name: GREENVILLE COUNTY
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: SC
+wootax/32170:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '29611'
+    location_type: postcode
+  name: GREENVILLE COUNTY
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: SC
+wootax/32171:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '29612'
+    location_type: postcode
+  name: GREER
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: SC
+wootax/32172:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '29613'
+    location_type: postcode
+  name: GREENVILLE COUNTY
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: SC
+wootax/32173:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '29614'
+    location_type: postcode
+  name: GREENVILLE
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: SC
+wootax/32174:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '29615'
+    location_type: postcode
+  name: GREENVILLE COUNTY
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: SC
+wootax/32175:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '29616'
+    location_type: postcode
+  name: GREENVILLE
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: SC
+wootax/32176:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '29617'
+    location_type: postcode
+  name: GREENVILLE COUNTY
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: SC
+wootax/32177:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '29620'
+    location_type: postcode
+  name: ABBEVILLE COUNTY
+  order: '0'
+  priority: '0'
+  rate: '7'
+  shipping: '1'
+  state: SC
+wootax/32178:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '29621'
+    location_type: postcode
+  name: ANDERSON COUNTY
+  order: '0'
+  priority: '0'
+  rate: '7'
+  shipping: '1'
+  state: SC
+wootax/32179:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '29622'
+    location_type: postcode
+  name: ANDERSON
+  order: '0'
+  priority: '0'
+  rate: '7'
+  shipping: '1'
+  state: SC
+wootax/32180:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '29623'
+    location_type: postcode
+  name: ANDERSON
+  order: '0'
+  priority: '0'
+  rate: '7'
+  shipping: '1'
+  state: SC
+wootax/32181:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '29624'
+    location_type: postcode
+  name: ANDERSON COUNTY
+  order: '0'
+  priority: '0'
+  rate: '7'
+  shipping: '1'
+  state: SC
+wootax/32182:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '29625'
+    location_type: postcode
+  name: ANDERSON COUNTY
+  order: '0'
+  priority: '0'
+  rate: '7'
+  shipping: '1'
+  state: SC
+wootax/32183:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '29626'
+    location_type: postcode
+  name: ANDERSON COUNTY
+  order: '0'
+  priority: '0'
+  rate: '7'
+  shipping: '1'
+  state: SC
+wootax/32184:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '29627'
+    location_type: postcode
+  name: ANDERSON COUNTY
+  order: '0'
+  priority: '0'
+  rate: '7'
+  shipping: '1'
+  state: SC
+wootax/32185:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '29628'
+    location_type: postcode
+  name: ABBEVILLE COUNTY
+  order: '0'
+  priority: '0'
+  rate: '7'
+  shipping: '1'
+  state: SC
+wootax/32186:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '29630'
+    location_type: postcode
+  name: PICKENS COUNTY
+  order: '0'
+  priority: '0'
+  rate: '7'
+  shipping: '1'
+  state: SC
+wootax/32187:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '29631'
+    location_type: postcode
+  name: CLEMSON
+  order: '0'
+  priority: '0'
+  rate: '7'
+  shipping: '1'
+  state: SC
+wootax/32188:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '29632'
+    location_type: postcode
+  name: CLEMSON
+  order: '0'
+  priority: '0'
+  rate: '7'
+  shipping: '1'
+  state: SC
+wootax/32189:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '29633'
+    location_type: postcode
+  name: CLEMSON
+  order: '0'
+  priority: '0'
+  rate: '7'
+  shipping: '1'
+  state: SC
+wootax/32190:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '29634'
+    location_type: postcode
+  name: CLEMSON
+  order: '0'
+  priority: '0'
+  rate: '7'
+  shipping: '1'
+  state: SC
+wootax/32191:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '29635'
+    location_type: postcode
+  name: GREENVILLE COUNTY
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: SC
+wootax/32192:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '29636'
+    location_type: postcode
+  name: GREENVILLE COUNTY
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: SC
+wootax/32193:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '29638'
+    location_type: postcode
+  name: ABBEVILLE COUNTY
+  order: '0'
+  priority: '0'
+  rate: '7'
+  shipping: '1'
+  state: SC
+wootax/32194:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '29639'
+    location_type: postcode
+  name: ABBEVILLE COUNTY
+  order: '0'
+  priority: '0'
+  rate: '7'
+  shipping: '1'
+  state: SC
+wootax/32195:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '29640'
+    location_type: postcode
+  name: PICKENS COUNTY
+  order: '0'
+  priority: '0'
+  rate: '7'
+  shipping: '1'
+  state: SC
+wootax/32196:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '29641'
+    location_type: postcode
+  name: EASLEY
+  order: '0'
+  priority: '0'
+  rate: '7'
+  shipping: '1'
+  state: SC
+wootax/32197:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '29642'
+    location_type: postcode
+  name: EASLEY
+  order: '0'
+  priority: '0'
+  rate: '7'
+  shipping: '1'
+  state: SC
+wootax/32198:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '29643'
+    location_type: postcode
+  name: OCONEE COUNTY
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: SC
+wootax/32199:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '29644'
+    location_type: postcode
+  name: LAURENS COUNTY
+  order: '0'
+  priority: '0'
+  rate: '7'
+  shipping: '1'
+  state: SC
+wootax/32200:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '29645'
+    location_type: postcode
+  name: LAURENS COUNTY
+  order: '0'
+  priority: '0'
+  rate: '7'
+  shipping: '1'
+  state: SC
+wootax/32201:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '29646'
+    location_type: postcode
+  name: GREENWOOD
+  order: '0'
+  priority: '0'
+  rate: '7'
+  shipping: '1'
+  state: SC
+wootax/32202:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '29647'
+    location_type: postcode
+  name: GREENWOOD
+  order: '0'
+  priority: '0'
+  rate: '7'
+  shipping: '1'
+  state: SC
+wootax/32203:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '29648'
+    location_type: postcode
+  name: GREENWOOD
+  order: '0'
+  priority: '0'
+  rate: '7'
+  shipping: '1'
+  state: SC
+wootax/32204:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '29649'
+    location_type: postcode
+  name: GREENWOOD CO REMAINDER
+  order: '0'
+  priority: '0'
+  rate: '7'
+  shipping: '1'
+  state: SC
+wootax/32205:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '29650'
+    location_type: postcode
+  name: GREENVILLE COUNTY
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: SC
+wootax/32206:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '29651'
+    location_type: postcode
+  name: GREENVILLE COUNTY
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: SC
+wootax/32207:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '29652'
+    location_type: postcode
+  name: GREER
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: SC
+wootax/32208:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '29653'
+    location_type: postcode
+  name: GREENWOOD CO REMAINDER
+  order: '0'
+  priority: '0'
+  rate: '7'
+  shipping: '1'
+  state: SC
+wootax/32209:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '29654'
+    location_type: postcode
+  name: HONEA PATH
+  order: '0'
+  priority: '0'
+  rate: '7'
+  shipping: '1'
+  state: SC
+wootax/32210:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '29655'
+    location_type: postcode
+  name: ANDERSON COUNTY
+  order: '0'
+  priority: '0'
+  rate: '7'
+  shipping: '1'
+  state: SC
+wootax/32211:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '29656'
+    location_type: postcode
+  name: ANDERSON COUNTY
+  order: '0'
+  priority: '0'
+  rate: '7'
+  shipping: '1'
+  state: SC
+wootax/32212:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '29657'
+    location_type: postcode
+  name: PICKENS COUNTY
+  order: '0'
+  priority: '0'
+  rate: '7'
+  shipping: '1'
+  state: SC
+wootax/32213:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '29658'
+    location_type: postcode
+  name: OCONEE COUNTY
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: SC
+wootax/32214:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '29659'
+    location_type: postcode
+  name: LOWNDESVILLE
+  order: '0'
+  priority: '0'
+  rate: '7'
+  shipping: '1'
+  state: SC
+wootax/32215:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '29661'
+    location_type: postcode
+  name: GREENVILLE COUNTY
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: SC
+wootax/32216:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '29662'
+    location_type: postcode
+  name: MAULDIN
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: SC
+wootax/32217:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '29664'
+    location_type: postcode
+  name: OCONEE COUNTY
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: SC
+wootax/32218:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '29665'
+    location_type: postcode
+  name: OCONEE COUNTY
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: SC
+wootax/32219:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '29666'
+    location_type: postcode
+  name: GREENWOOD CO REMAINDER
+  order: '0'
+  priority: '0'
+  rate: '7'
+  shipping: '1'
+  state: SC
+wootax/32220:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '29667'
+    location_type: postcode
+  name: NORRIS
+  order: '0'
+  priority: '0'
+  rate: '7'
+  shipping: '1'
+  state: SC
+wootax/32221:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '29669'
+    location_type: postcode
+  name: GREENVILLE COUNTY
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: SC
+wootax/32222:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '29670'
+    location_type: postcode
+  name: PENDLETON
+  order: '0'
+  priority: '0'
+  rate: '7'
+  shipping: '1'
+  state: SC
+wootax/32223:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '29671'
+    location_type: postcode
+  name: PICKENS COUNTY
+  order: '0'
+  priority: '0'
+  rate: '7'
+  shipping: '1'
+  state: SC
+wootax/32224:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '29672'
+    location_type: postcode
+  name: OCONEE COUNTY
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: SC
+wootax/32225:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '29673'
+    location_type: postcode
+  name: ANDERSON COUNTY
+  order: '0'
+  priority: '0'
+  rate: '7'
+  shipping: '1'
+  state: SC
+wootax/32226:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '29675'
+    location_type: postcode
+  name: OCONEE COUNTY
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: SC
+wootax/32227:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '29676'
+    location_type: postcode
+  name: OCONEE COUNTY
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: SC
+wootax/32228:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '29677'
+    location_type: postcode
+  name: ANDERSON COUNTY
+  order: '0'
+  priority: '0'
+  rate: '7'
+  shipping: '1'
+  state: SC
+wootax/32229:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '29678'
+    location_type: postcode
+  name: OCONEE COUNTY
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: SC
+wootax/32230:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '29679'
+    location_type: postcode
+  name: SENECA
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: SC
+wootax/32231:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '29680'
+    location_type: postcode
+  name: GREENVILLE COUNTY
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: SC
+wootax/32232:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '29681'
+    location_type: postcode
+  name: GREENVILLE COUNTY
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: SC
+wootax/32233:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '29682'
+    location_type: postcode
+  name: PICKENS COUNTY
+  order: '0'
+  priority: '0'
+  rate: '7'
+  shipping: '1'
+  state: SC
+wootax/32234:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '29683'
+    location_type: postcode
+  name: GREENVILLE COUNTY
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: SC
+wootax/32235:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '29684'
+    location_type: postcode
+  name: ANDERSON COUNTY
+  order: '0'
+  priority: '0'
+  rate: '7'
+  shipping: '1'
+  state: SC
+wootax/32236:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '29685'
+    location_type: postcode
+  name: PICKENS COUNTY
+  order: '0'
+  priority: '0'
+  rate: '7'
+  shipping: '1'
+  state: SC
+wootax/32237:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '29686'
+    location_type: postcode
+  name: OCONEE COUNTY
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: SC
+wootax/32238:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '29687'
+    location_type: postcode
+  name: GREENVILLE COUNTY
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: SC
+wootax/32239:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '29688'
+    location_type: postcode
+  name: GREENVILLE COUNTY
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: SC
+wootax/32240:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '29689'
+    location_type: postcode
+  name: ANDERSON COUNTY
+  order: '0'
+  priority: '0'
+  rate: '7'
+  shipping: '1'
+  state: SC
+wootax/32241:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '29690'
+    location_type: postcode
+  name: GREENVILLE COUNTY
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: SC
+wootax/32242:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '29691'
+    location_type: postcode
+  name: OCONEE COUNTY
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: SC
+wootax/32243:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '29692'
+    location_type: postcode
+  name: LAURENS COUNTY
+  order: '0'
+  priority: '0'
+  rate: '7'
+  shipping: '1'
+  state: SC
+wootax/32244:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '29693'
+    location_type: postcode
+  name: OCONEE COUNTY
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: SC
+wootax/32245:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '29696'
+    location_type: postcode
+  name: OCONEE COUNTY
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: SC
+wootax/32246:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '29697'
+    location_type: postcode
+  name: ANDERSON COUNTY
+  order: '0'
+  priority: '0'
+  rate: '7'
+  shipping: '1'
+  state: SC
+wootax/32247:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '29702'
+    location_type: postcode
+  name: CHEROKEE COUNTY
+  order: '0'
+  priority: '0'
+  rate: '8'
+  shipping: '1'
+  state: SC
+wootax/32248:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '29703'
+    location_type: postcode
+  name: YORK CO CP
+  order: '0'
+  priority: '0'
+  rate: '7'
+  shipping: '1'
+  state: SC
+wootax/32249:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '29704'
+    location_type: postcode
+  name: YORK CO CP
+  order: '0'
+  priority: '0'
+  rate: '7'
+  shipping: '1'
+  state: SC
+wootax/32250:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '29706'
+    location_type: postcode
+  name: CHESTER COUNTY
+  order: '0'
+  priority: '0'
+  rate: '8'
+  shipping: '1'
+  state: SC
+wootax/32251:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '29707'
+    location_type: postcode
+  name: LANCASTER COUNTY
+  order: '0'
+  priority: '0'
+  rate: '8'
+  shipping: '1'
+  state: SC
+wootax/32252:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '29708'
+    location_type: postcode
+  name: YORK CO CP
+  order: '0'
+  priority: '0'
+  rate: '7'
+  shipping: '1'
+  state: SC
+wootax/32253:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '29709'
+    location_type: postcode
+  name: CHESTERFIELD COUNTY
+  order: '0'
+  priority: '0'
+  rate: '8'
+  shipping: '1'
+  state: SC
+wootax/32254:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '29710'
+    location_type: postcode
+  name: YORK CO CP
+  order: '0'
+  priority: '0'
+  rate: '7'
+  shipping: '1'
+  state: SC
+wootax/32255:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '29712'
+    location_type: postcode
+  name: CHESTER COUNTY
+  order: '0'
+  priority: '0'
+  rate: '8'
+  shipping: '1'
+  state: SC
+wootax/32256:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '29714'
+    location_type: postcode
+  name: CHESTER COUNTY
+  order: '0'
+  priority: '0'
+  rate: '8'
+  shipping: '1'
+  state: SC
+wootax/32257:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '29715'
+    location_type: postcode
+  name: FORT MILL
+  order: '0'
+  priority: '0'
+  rate: '7'
+  shipping: '1'
+  state: SC
+wootax/32258:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '29716'
+    location_type: postcode
+  name: FORT MILL
+  order: '0'
+  priority: '0'
+  rate: '7'
+  shipping: '1'
+  state: SC
+wootax/32259:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '29717'
+    location_type: postcode
+  name: YORK CO CP
+  order: '0'
+  priority: '0'
+  rate: '7'
+  shipping: '1'
+  state: SC
+wootax/32260:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '29718'
+    location_type: postcode
+  name: CHESTERFIELD COUNTY
+  order: '0'
+  priority: '0'
+  rate: '8'
+  shipping: '1'
+  state: SC
+wootax/32261:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '29720'
+    location_type: postcode
+  name: LANCASTER COUNTY
+  order: '0'
+  priority: '0'
+  rate: '8'
+  shipping: '1'
+  state: SC
+wootax/32262:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '29721'
+    location_type: postcode
+  name: LANCASTER
+  order: '0'
+  priority: '0'
+  rate: '8'
+  shipping: '1'
+  state: SC
+wootax/32263:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '29724'
+    location_type: postcode
+  name: CHESTER COUNTY
+  order: '0'
+  priority: '0'
+  rate: '8'
+  shipping: '1'
+  state: SC
+wootax/32264:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '29726'
+    location_type: postcode
+  name: YORK CO CP
+  order: '0'
+  priority: '0'
+  rate: '7'
+  shipping: '1'
+  state: SC
+wootax/32265:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '29727'
+    location_type: postcode
+  name: CHESTERFIELD COUNTY
+  order: '0'
+  priority: '0'
+  rate: '8'
+  shipping: '1'
+  state: SC
+wootax/32266:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '29728'
+    location_type: postcode
+  name: CHESTERFIELD COUNTY
+  order: '0'
+  priority: '0'
+  rate: '8'
+  shipping: '1'
+  state: SC
+wootax/32267:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '29729'
+    location_type: postcode
+  name: CHESTER COUNTY
+  order: '0'
+  priority: '0'
+  rate: '8'
+  shipping: '1'
+  state: SC
+wootax/32268:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '29730'
+    location_type: postcode
+  name: ROCK HILL
+  order: '0'
+  priority: '0'
+  rate: '7'
+  shipping: '1'
+  state: SC
+wootax/32269:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '29731'
+    location_type: postcode
+  name: ROCK HILL
+  order: '0'
+  priority: '0'
+  rate: '7'
+  shipping: '1'
+  state: SC
+wootax/32270:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '29732'
+    location_type: postcode
+  name: ROCK HILL
+  order: '0'
+  priority: '0'
+  rate: '7'
+  shipping: '1'
+  state: SC
+wootax/32271:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '29733'
+    location_type: postcode
+  name: ROCK HILL
+  order: '0'
+  priority: '0'
+  rate: '7'
+  shipping: '1'
+  state: SC
+wootax/32272:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '29734'
+    location_type: postcode
+  name: ROCK HILL
+  order: '0'
+  priority: '0'
+  rate: '7'
+  shipping: '1'
+  state: SC
+wootax/32273:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '29741'
+    location_type: postcode
+  name: CHESTERFIELD COUNTY
+  order: '0'
+  priority: '0'
+  rate: '8'
+  shipping: '1'
+  state: SC
+wootax/32274:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '29742'
+    location_type: postcode
+  name: YORK CO CP
+  order: '0'
+  priority: '0'
+  rate: '7'
+  shipping: '1'
+  state: SC
+wootax/32275:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '29743'
+    location_type: postcode
+  name: YORK CO CP
+  order: '0'
+  priority: '0'
+  rate: '7'
+  shipping: '1'
+  state: SC
+wootax/32276:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '29744'
+    location_type: postcode
+  name: VAN WYCK
+  order: '0'
+  priority: '0'
+  rate: '8'
+  shipping: '1'
+  state: SC
+wootax/32277:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '29745'
+    location_type: postcode
+  name: YORK CO CP
+  order: '0'
+  priority: '0'
+  rate: '7'
+  shipping: '1'
+  state: SC
+wootax/32278:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '29801'
+    location_type: postcode
+  name: AIKEN
+  order: '0'
+  priority: '0'
+  rate: '8'
+  shipping: '1'
+  state: SC
+wootax/32279:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '29802'
+    location_type: postcode
+  name: AIKEN
+  order: '0'
+  priority: '0'
+  rate: '8'
+  shipping: '1'
+  state: SC
+wootax/32280:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '29803'
+    location_type: postcode
+  name: AIKEN COUNTY
+  order: '0'
+  priority: '0'
+  rate: '8'
+  shipping: '1'
+  state: SC
+wootax/32281:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '29804'
+    location_type: postcode
+  name: AIKEN
+  order: '0'
+  priority: '0'
+  rate: '8'
+  shipping: '1'
+  state: SC
+wootax/32282:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '29805'
+    location_type: postcode
+  name: AIKEN COUNTY
+  order: '0'
+  priority: '0'
+  rate: '8'
+  shipping: '1'
+  state: SC
+wootax/32283:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '29808'
+    location_type: postcode
+  name: AIKEN
+  order: '0'
+  priority: '0'
+  rate: '8'
+  shipping: '1'
+  state: SC
+wootax/32284:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '29809'
+    location_type: postcode
+  name: NEW ELLENTON
+  order: '0'
+  priority: '0'
+  rate: '8'
+  shipping: '1'
+  state: SC
+wootax/32285:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '29810'
+    location_type: postcode
+  name: ALLENDALE
+  order: '0'
+  priority: '0'
+  rate: '8'
+  shipping: '1'
+  state: SC
+wootax/32286:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '29812'
+    location_type: postcode
+  name: BARNWELL COUNTY
+  order: '0'
+  priority: '0'
+  rate: '8'
+  shipping: '1'
+  state: SC
+wootax/32287:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '29813'
+    location_type: postcode
+  name: HILDA
+  order: '0'
+  priority: '0'
+  rate: '8'
+  shipping: '1'
+  state: SC
+wootax/32288:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '29816'
+    location_type: postcode
+  name: AIKEN COUNTY
+  order: '0'
+  priority: '0'
+  rate: '8'
+  shipping: '1'
+  state: SC
+wootax/32289:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '29817'
+    location_type: postcode
+  name: BARNWELL COUNTY
+  order: '0'
+  priority: '0'
+  rate: '8'
+  shipping: '1'
+  state: SC
+wootax/32290:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '29819'
+    location_type: postcode
+  name: GREENWOOD CO REMAINDER
+  order: '0'
+  priority: '0'
+  rate: '7'
+  shipping: '1'
+  state: SC
+wootax/32291:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '29821'
+    location_type: postcode
+  name: MCCORMICK COUNTY
+  order: '0'
+  priority: '0'
+  rate: '8'
+  shipping: '1'
+  state: SC
+wootax/32292:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '29822'
+    location_type: postcode
+  name: AIKEN COUNTY
+  order: '0'
+  priority: '0'
+  rate: '8'
+  shipping: '1'
+  state: SC
+wootax/32293:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '29824'
+    location_type: postcode
+  name: EDGEFIELD COUNTY
+  order: '0'
+  priority: '0'
+  rate: '7'
+  shipping: '1'
+  state: SC
+wootax/32294:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '29826'
+    location_type: postcode
+  name: ELKO
+  order: '0'
+  priority: '0'
+  rate: '8'
+  shipping: '1'
+  state: SC
+wootax/32295:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '29827'
+    location_type: postcode
+  name: FAIRFAX
+  order: '0'
+  priority: '0'
+  rate: '8'
+  shipping: '1'
+  state: SC
+wootax/32296:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '29828'
+    location_type: postcode
+  name: AIKEN COUNTY
+  order: '0'
+  priority: '0'
+  rate: '8'
+  shipping: '1'
+  state: SC
+wootax/32297:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '29829'
+    location_type: postcode
+  name: AIKEN COUNTY
+  order: '0'
+  priority: '0'
+  rate: '8'
+  shipping: '1'
+  state: SC
+wootax/32298:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '29831'
+    location_type: postcode
+  name: AIKEN COUNTY
+  order: '0'
+  priority: '0'
+  rate: '8'
+  shipping: '1'
+  state: SC
+wootax/32299:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '29832'
+    location_type: postcode
+  name: EDGEFIELD COUNTY
+  order: '0'
+  priority: '0'
+  rate: '7'
+  shipping: '1'
+  state: SC
+wootax/32300:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '29834'
+    location_type: postcode
+  name: AIKEN COUNTY
+  order: '0'
+  priority: '0'
+  rate: '8'
+  shipping: '1'
+  state: SC
+wootax/32301:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '29835'
+    location_type: postcode
+  name: MCCORMICK COUNTY
+  order: '0'
+  priority: '0'
+  rate: '8'
+  shipping: '1'
+  state: SC
+wootax/32302:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '29836'
+    location_type: postcode
+  name: ALLENDALE COUNTY
+  order: '0'
+  priority: '0'
+  rate: '8'
+  shipping: '1'
+  state: SC
+wootax/32303:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '29838'
+    location_type: postcode
+  name: MCCORMICK COUNTY
+  order: '0'
+  priority: '0'
+  rate: '8'
+  shipping: '1'
+  state: SC
+wootax/32304:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '29839'
+    location_type: postcode
+  name: AIKEN COUNTY
+  order: '0'
+  priority: '0'
+  rate: '8'
+  shipping: '1'
+  state: SC
+wootax/32305:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '29840'
+    location_type: postcode
+  name: MCCORMICK COUNTY
+  order: '0'
+  priority: '0'
+  rate: '8'
+  shipping: '1'
+  state: SC
+wootax/32306:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '29841'
+    location_type: postcode
+  name: NORTH AUGUSTA
+  order: '0'
+  priority: '0'
+  rate: '8'
+  shipping: '1'
+  state: SC
+wootax/32307:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '29842'
+    location_type: postcode
+  name: AIKEN COUNTY
+  order: '0'
+  priority: '0'
+  rate: '8'
+  shipping: '1'
+  state: SC
+wootax/32308:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '29843'
+    location_type: postcode
+  name: BAMBERG COUNTY
+  order: '0'
+  priority: '0'
+  rate: '8'
+  shipping: '1'
+  state: SC
+wootax/32309:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '29844'
+    location_type: postcode
+  name: PARKSVILLE
+  order: '0'
+  priority: '0'
+  rate: '8'
+  shipping: '1'
+  state: SC
+wootax/32310:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '29845'
+    location_type: postcode
+  name: MCCORMICK COUNTY
+  order: '0'
+  priority: '0'
+  rate: '8'
+  shipping: '1'
+  state: SC
+wootax/32311:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '29846'
+    location_type: postcode
+  name: SYCAMORE
+  order: '0'
+  priority: '0'
+  rate: '8'
+  shipping: '1'
+  state: SC
+wootax/32312:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '29847'
+    location_type: postcode
+  name: EDGEFIELD COUNTY
+  order: '0'
+  priority: '0'
+  rate: '7'
+  shipping: '1'
+  state: SC
+wootax/32313:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '29848'
+    location_type: postcode
+  name: MCCORMICK COUNTY
+  order: '0'
+  priority: '0'
+  rate: '8'
+  shipping: '1'
+  state: SC
+wootax/32314:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '29849'
+    location_type: postcode
+  name: ALLENDALE COUNTY
+  order: '0'
+  priority: '0'
+  rate: '8'
+  shipping: '1'
+  state: SC
+wootax/32315:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '29850'
+    location_type: postcode
+  name: AIKEN COUNTY
+  order: '0'
+  priority: '0'
+  rate: '8'
+  shipping: '1'
+  state: SC
+wootax/32316:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '29851'
+    location_type: postcode
+  name: AIKEN COUNTY
+  order: '0'
+  priority: '0'
+  rate: '8'
+  shipping: '1'
+  state: SC
+wootax/32317:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '29853'
+    location_type: postcode
+  name: BARNWELL COUNTY
+  order: '0'
+  priority: '0'
+  rate: '8'
+  shipping: '1'
+  state: SC
+wootax/32318:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '29856'
+    location_type: postcode
+  name: AIKEN COUNTY
+  order: '0'
+  priority: '0'
+  rate: '8'
+  shipping: '1'
+  state: SC
+wootax/32319:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '29860'
+    location_type: postcode
+  name: EDGEFIELD COUNTY
+  order: '0'
+  priority: '0'
+  rate: '7'
+  shipping: '1'
+  state: SC
+wootax/32320:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '29861'
+    location_type: postcode
+  name: NORTH AUGUSTA
+  order: '0'
+  priority: '0'
+  rate: '8'
+  shipping: '1'
+  state: SC
+wootax/32321:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '29899'
+    location_type: postcode
+  name: MCCORMICK
+  order: '0'
+  priority: '0'
+  rate: '8'
+  shipping: '1'
+  state: SC
+wootax/32322:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '29901'
+    location_type: postcode
+  name: BEAUFORT
+  order: '0'
+  priority: '0'
+  rate: '7'
+  shipping: '1'
+  state: SC
+wootax/32323:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '29902'
+    location_type: postcode
+  name: BEAUFORT
+  order: '0'
+  priority: '0'
+  rate: '7'
+  shipping: '1'
+  state: SC
+wootax/32324:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '29903'
+    location_type: postcode
+  name: BEAUFORT
+  order: '0'
+  priority: '0'
+  rate: '7'
+  shipping: '1'
+  state: SC
+wootax/32325:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '29904'
+    location_type: postcode
+  name: BEAUFORT
+  order: '0'
+  priority: '0'
+  rate: '7'
+  shipping: '1'
+  state: SC
+wootax/32326:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '29905'
+    location_type: postcode
+  name: PORT ROYAL
+  order: '0'
+  priority: '0'
+  rate: '7'
+  shipping: '1'
+  state: SC
+wootax/32327:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '29906'
+    location_type: postcode
+  name: BEAUFORT COUNTY TRANSPORTATION DISTRICT
+  order: '0'
+  priority: '0'
+  rate: '7'
+  shipping: '1'
+  state: SC
+wootax/32328:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '29907'
+    location_type: postcode
+  name: BEAUFORT COUNTY TRANSPORTATION DISTRICT
+  order: '0'
+  priority: '0'
+  rate: '7'
+  shipping: '1'
+  state: SC
+wootax/32329:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '29909'
+    location_type: postcode
+  name: BEAUFORT COUNTY TRANSPORTATION DISTRICT
+  order: '0'
+  priority: '0'
+  rate: '7'
+  shipping: '1'
+  state: SC
+wootax/32330:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '29910'
+    location_type: postcode
+  name: BLUFFTON
+  order: '0'
+  priority: '0'
+  rate: '7'
+  shipping: '1'
+  state: SC
+wootax/32331:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '29911'
+    location_type: postcode
+  name: HAMPTON COUNTY
+  order: '0'
+  priority: '0'
+  rate: '8'
+  shipping: '1'
+  state: SC
+wootax/32332:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '29912'
+    location_type: postcode
+  name: JASPER COUNTY
+  order: '0'
+  priority: '0'
+  rate: '9'
+  shipping: '1'
+  state: SC
+wootax/32333:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '29915'
+    location_type: postcode
+  name: BEAUFORT COUNTY TRANSPORTATION DISTRICT
+  order: '0'
+  priority: '0'
+  rate: '7'
+  shipping: '1'
+  state: SC
+wootax/32334:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '29916'
+    location_type: postcode
+  name: HAMPTON COUNTY
+  order: '0'
+  priority: '0'
+  rate: '8'
+  shipping: '1'
+  state: SC
+wootax/32335:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '29918'
+    location_type: postcode
+  name: HAMPTON COUNTY
+  order: '0'
+  priority: '0'
+  rate: '8'
+  shipping: '1'
+  state: SC
+wootax/32336:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '29920'
+    location_type: postcode
+  name: BEAUFORT COUNTY TRANSPORTATION DISTRICT
+  order: '0'
+  priority: '0'
+  rate: '7'
+  shipping: '1'
+  state: SC
+wootax/32337:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '29921'
+    location_type: postcode
+  name: FURMAN
+  order: '0'
+  priority: '0'
+  rate: '8'
+  shipping: '1'
+  state: SC
+wootax/32338:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '29922'
+    location_type: postcode
+  name: HAMPTON COUNTY
+  order: '0'
+  priority: '0'
+  rate: '8'
+  shipping: '1'
+  state: SC
+wootax/32339:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '29923'
+    location_type: postcode
+  name: GIFFORD
+  order: '0'
+  priority: '0'
+  rate: '8'
+  shipping: '1'
+  state: SC
+wootax/32340:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '29924'
+    location_type: postcode
+  name: HAMPTON COUNTY
+  order: '0'
+  priority: '0'
+  rate: '8'
+  shipping: '1'
+  state: SC
+wootax/32341:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '29925'
+    location_type: postcode
+  name: HILTON HEAD ISLAND
+  order: '0'
+  priority: '0'
+  rate: '7'
+  shipping: '1'
+  state: SC
+wootax/32342:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '29926'
+    location_type: postcode
+  name: HILTON HEAD ISLAND
+  order: '0'
+  priority: '0'
+  rate: '7'
+  shipping: '1'
+  state: SC
+wootax/32343:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '29927'
+    location_type: postcode
+  name: JASPER COUNTY
+  order: '0'
+  priority: '0'
+  rate: '9'
+  shipping: '1'
+  state: SC
+wootax/32344:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '29928'
+    location_type: postcode
+  name: HILTON HEAD ISLAND
+  order: '0'
+  priority: '0'
+  rate: '7'
+  shipping: '1'
+  state: SC
+wootax/32345:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '29929'
+    location_type: postcode
+  name: COLLETON COUNTY
+  order: '0'
+  priority: '0'
+  rate: '8'
+  shipping: '1'
+  state: SC
+wootax/32346:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '29931'
+    location_type: postcode
+  name: BEAUFORT COUNTY TRANSPORTATION DISTRICT
+  order: '0'
+  priority: '0'
+  rate: '7'
+  shipping: '1'
+  state: SC
+wootax/32347:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '29932'
+    location_type: postcode
+  name: HAMPTON COUNTY
+  order: '0'
+  priority: '0'
+  rate: '8'
+  shipping: '1'
+  state: SC
+wootax/32348:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '29933'
+    location_type: postcode
+  name: HAMPTON COUNTY
+  order: '0'
+  priority: '0'
+  rate: '8'
+  shipping: '1'
+  state: SC
+wootax/32349:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '29934'
+    location_type: postcode
+  name: JASPER COUNTY
+  order: '0'
+  priority: '0'
+  rate: '9'
+  shipping: '1'
+  state: SC
+wootax/32350:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '29935'
+    location_type: postcode
+  name: PORT ROYAL
+  order: '0'
+  priority: '0'
+  rate: '7'
+  shipping: '1'
+  state: SC
+wootax/32351:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '29936'
+    location_type: postcode
+  name: JASPER COUNTY
+  order: '0'
+  priority: '0'
+  rate: '9'
+  shipping: '1'
+  state: SC
+wootax/32352:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '29938'
+    location_type: postcode
+  name: HILTON HEAD ISLAND
+  order: '0'
+  priority: '0'
+  rate: '7'
+  shipping: '1'
+  state: SC
+wootax/32353:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '29939'
+    location_type: postcode
+  name: SCOTIA
+  order: '0'
+  priority: '0'
+  rate: '8'
+  shipping: '1'
+  state: SC
+wootax/32354:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '29940'
+    location_type: postcode
+  name: BEAUFORT COUNTY TRANSPORTATION DISTRICT
+  order: '0'
+  priority: '0'
+  rate: '7'
+  shipping: '1'
+  state: SC
+wootax/32355:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '29941'
+    location_type: postcode
+  name: BEAUFORT COUNTY TRANSPORTATION DISTRICT
+  order: '0'
+  priority: '0'
+  rate: '7'
+  shipping: '1'
+  state: SC
+wootax/32356:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '29943'
+    location_type: postcode
+  name: JASPER COUNTY
+  order: '0'
+  priority: '0'
+  rate: '9'
+  shipping: '1'
+  state: SC
+wootax/32357:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '29944'
+    location_type: postcode
+  name: HAMPTON COUNTY
+  order: '0'
+  priority: '0'
+  rate: '8'
+  shipping: '1'
+  state: SC
+wootax/32358:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '29945'
+    location_type: postcode
+  name: COLLETON COUNTY
+  order: '0'
+  priority: '0'
+  rate: '8'
+  shipping: '1'
+  state: SC

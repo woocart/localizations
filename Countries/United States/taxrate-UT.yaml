@@ -1,0 +1,4316 @@
+wootax/35964:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '84001'
+    location_type: postcode
+  name: ALTAMONT
+  order: '0'
+  priority: '0'
+  rate: '6.35'
+  shipping: '0'
+  state: UT
+wootax/35965:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '84002'
+    location_type: postcode
+  name: DUCHESNE CO
+  order: '0'
+  priority: '0'
+  rate: '6.35'
+  shipping: '0'
+  state: UT
+wootax/35966:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '84003'
+    location_type: postcode
+  name: AMERICAN FORK
+  order: '0'
+  priority: '0'
+  rate: '7.25'
+  shipping: '0'
+  state: UT
+wootax/35967:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '84004'
+    location_type: postcode
+  name: ALPINE
+  order: '0'
+  priority: '0'
+  rate: '7.15'
+  shipping: '0'
+  state: UT
+wootax/35968:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '84005'
+    location_type: postcode
+  name: EAGLE MOUNTAIN
+  order: '0'
+  priority: '0'
+  rate: '7.15'
+  shipping: '0'
+  state: UT
+wootax/35969:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '84006'
+    location_type: postcode
+  name: COPPERTON
+  order: '0'
+  priority: '0'
+  rate: '7.25'
+  shipping: '0'
+  state: UT
+wootax/35970:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '84007'
+    location_type: postcode
+  name: DUCHESNE CO
+  order: '0'
+  priority: '0'
+  rate: '6.35'
+  shipping: '0'
+  state: UT
+wootax/35971:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '84009'
+    location_type: postcode
+  name: SOUTH JORDAN
+  order: '0'
+  priority: '0'
+  rate: '7.25'
+  shipping: '0'
+  state: UT
+wootax/35972:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '84010'
+    location_type: postcode
+  name: BOUNTIFUL
+  order: '0'
+  priority: '0'
+  rate: '7.25'
+  shipping: '0'
+  state: UT
+wootax/35973:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '84011'
+    location_type: postcode
+  name: BOUNTIFUL
+  order: '0'
+  priority: '0'
+  rate: '7.25'
+  shipping: '0'
+  state: UT
+wootax/35974:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '84013'
+    location_type: postcode
+  name: EAGLE MOUNTAIN
+  order: '0'
+  priority: '0'
+  rate: '7.15'
+  shipping: '0'
+  state: UT
+wootax/35975:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '84014'
+    location_type: postcode
+  name: CENTERVILLE
+  order: '0'
+  priority: '0'
+  rate: '7.25'
+  shipping: '0'
+  state: UT
+wootax/35976:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '84015'
+    location_type: postcode
+  name: CLEARFIELD
+  order: '0'
+  priority: '0'
+  rate: '7.25'
+  shipping: '0'
+  state: UT
+wootax/35977:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '84016'
+    location_type: postcode
+  name: CLEARFIELD
+  order: '0'
+  priority: '0'
+  rate: '7.25'
+  shipping: '0'
+  state: UT
+wootax/35978:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '84017'
+    location_type: postcode
+  name: SUMMIT COUNTY
+  order: '0'
+  priority: '0'
+  rate: '7.15'
+  shipping: '0'
+  state: UT
+wootax/35979:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '84018'
+    location_type: postcode
+  name: MORGAN COUNTY
+  order: '0'
+  priority: '0'
+  rate: '6.2'
+  shipping: '0'
+  state: UT
+wootax/35980:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '84020'
+    location_type: postcode
+  name: DRAPER
+  order: '0'
+  priority: '0'
+  rate: '7.25'
+  shipping: '0'
+  state: UT
+wootax/35981:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '84021'
+    location_type: postcode
+  name: DUCHESNE (CITY)
+  order: '0'
+  priority: '0'
+  rate: '6.45'
+  shipping: '0'
+  state: UT
+wootax/35982:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '84022'
+    location_type: postcode
+  name: TOOELE COUNTY
+  order: '0'
+  priority: '0'
+  rate: '6.6'
+  shipping: '0'
+  state: UT
+wootax/35983:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '84023'
+    location_type: postcode
+  name: DAGGETT COUNTY
+  order: '0'
+  priority: '0'
+  rate: '7.1'
+  shipping: '0'
+  state: UT
+wootax/35984:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '84024'
+    location_type: postcode
+  name: SUMMIT COUNTY
+  order: '0'
+  priority: '0'
+  rate: '7.15'
+  shipping: '0'
+  state: UT
+wootax/35985:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '84025'
+    location_type: postcode
+  name: FARMINGTON
+  order: '0'
+  priority: '0'
+  rate: '7.25'
+  shipping: '0'
+  state: UT
+wootax/35986:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '84026'
+    location_type: postcode
+  name: UINTAH COUNTY
+  order: '0'
+  priority: '0'
+  rate: '6.2'
+  shipping: '0'
+  state: UT
+wootax/35987:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '84027'
+    location_type: postcode
+  name: DUCHESNE CO
+  order: '0'
+  priority: '0'
+  rate: '6.35'
+  shipping: '0'
+  state: UT
+wootax/35988:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '84028'
+    location_type: postcode
+  name: GARDEN CITY
+  order: '0'
+  priority: '0'
+  rate: '7.95'
+  shipping: '0'
+  state: UT
+wootax/35989:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '84029'
+    location_type: postcode
+  name: GRANTSVILLE
+  order: '0'
+  priority: '0'
+  rate: '6.9'
+  shipping: '0'
+  state: UT
+wootax/35990:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '84031'
+    location_type: postcode
+  name: DUCHESNE CO
+  order: '0'
+  priority: '0'
+  rate: '6.35'
+  shipping: '0'
+  state: UT
+wootax/35991:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '84032'
+    location_type: postcode
+  name: HEBER
+  order: '0'
+  priority: '0'
+  rate: '6.4'
+  shipping: '0'
+  state: UT
+wootax/35992:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '84033'
+    location_type: postcode
+  name: HENEFER
+  order: '0'
+  priority: '0'
+  rate: '7.15'
+  shipping: '0'
+  state: UT
+wootax/35993:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '84034'
+    location_type: postcode
+  name: TOOELE COUNTY
+  order: '0'
+  priority: '0'
+  rate: '6.6'
+  shipping: '0'
+  state: UT
+wootax/35994:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '84035'
+    location_type: postcode
+  name: UINTAH COUNTY
+  order: '0'
+  priority: '0'
+  rate: '6.2'
+  shipping: '0'
+  state: UT
+wootax/35995:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '84036'
+    location_type: postcode
+  name: SUMMIT COUNTY
+  order: '0'
+  priority: '0'
+  rate: '7.15'
+  shipping: '0'
+  state: UT
+wootax/35996:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '84037'
+    location_type: postcode
+  name: KAYSVILLE
+  order: '0'
+  priority: '0'
+  rate: '7.15'
+  shipping: '0'
+  state: UT
+wootax/35997:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '84038'
+    location_type: postcode
+  name: LAKETOWN
+  order: '0'
+  priority: '0'
+  rate: '6.35'
+  shipping: '0'
+  state: UT
+wootax/35998:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '84039'
+    location_type: postcode
+  name: UINTAH COUNTY
+  order: '0'
+  priority: '0'
+  rate: '6.2'
+  shipping: '0'
+  state: UT
+wootax/35999:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '84040'
+    location_type: postcode
+  name: LAYTON
+  order: '0'
+  priority: '0'
+  rate: '7.25'
+  shipping: '0'
+  state: UT
+wootax/36000:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '84041'
+    location_type: postcode
+  name: LAYTON
+  order: '0'
+  priority: '0'
+  rate: '7.25'
+  shipping: '0'
+  state: UT
+wootax/36001:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '84042'
+    location_type: postcode
+  name: LINDON
+  order: '0'
+  priority: '0'
+  rate: '7.25'
+  shipping: '0'
+  state: UT
+wootax/36002:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '84043'
+    location_type: postcode
+  name: LEHI
+  order: '0'
+  priority: '0'
+  rate: '7.15'
+  shipping: '0'
+  state: UT
+wootax/36003:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '84044'
+    location_type: postcode
+  name: MAGNA
+  order: '0'
+  priority: '0'
+  rate: '7.25'
+  shipping: '0'
+  state: UT
+wootax/36004:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '84045'
+    location_type: postcode
+  name: SARATOGA SPRINGS
+  order: '0'
+  priority: '0'
+  rate: '7.15'
+  shipping: '0'
+  state: UT
+wootax/36005:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '84046'
+    location_type: postcode
+  name: DAGGETT COUNTY
+  order: '0'
+  priority: '0'
+  rate: '7.1'
+  shipping: '0'
+  state: UT
+wootax/36006:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '84047'
+    location_type: postcode
+  name: MIDVALE
+  order: '0'
+  priority: '0'
+  rate: '7.25'
+  shipping: '0'
+  state: UT
+wootax/36007:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '84049'
+    location_type: postcode
+  name: MIDWAY
+  order: '0'
+  priority: '0'
+  rate: '7.5'
+  shipping: '0'
+  state: UT
+wootax/36008:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '84050'
+    location_type: postcode
+  name: MORGAN COUNTY
+  order: '0'
+  priority: '0'
+  rate: '6.2'
+  shipping: '0'
+  state: UT
+wootax/36009:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '84051'
+    location_type: postcode
+  name: DUCHESNE CO
+  order: '0'
+  priority: '0'
+  rate: '6.35'
+  shipping: '0'
+  state: UT
+wootax/36010:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '84052'
+    location_type: postcode
+  name: DUCHESNE CO
+  order: '0'
+  priority: '0'
+  rate: '6.35'
+  shipping: '0'
+  state: UT
+wootax/36011:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '84053'
+    location_type: postcode
+  name: DUCHESNE CO
+  order: '0'
+  priority: '0'
+  rate: '6.35'
+  shipping: '0'
+  state: UT
+wootax/36012:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '84054'
+    location_type: postcode
+  name: NORTH SALT LAKE
+  order: '0'
+  priority: '0'
+  rate: '7.25'
+  shipping: '0'
+  state: UT
+wootax/36013:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '84055'
+    location_type: postcode
+  name: OAKLEY
+  order: '0'
+  priority: '0'
+  rate: '7.15'
+  shipping: '0'
+  state: UT
+wootax/36014:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '84056'
+    location_type: postcode
+  name: CLEARFIELD
+  order: '0'
+  priority: '0'
+  rate: '7.25'
+  shipping: '0'
+  state: UT
+wootax/36015:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '84057'
+    location_type: postcode
+  name: OREM
+  order: '0'
+  priority: '0'
+  rate: '7.25'
+  shipping: '0'
+  state: UT
+wootax/36016:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '84058'
+    location_type: postcode
+  name: OREM
+  order: '0'
+  priority: '0'
+  rate: '7.25'
+  shipping: '0'
+  state: UT
+wootax/36017:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '84059'
+    location_type: postcode
+  name: OREM
+  order: '0'
+  priority: '0'
+  rate: '7.25'
+  shipping: '0'
+  state: UT
+wootax/36018:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '84060'
+    location_type: postcode
+  name: PARK CITY
+  order: '0'
+  priority: '0'
+  rate: '9.05'
+  shipping: '0'
+  state: UT
+wootax/36019:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '84061'
+    location_type: postcode
+  name: SUMMIT COUNTY
+  order: '0'
+  priority: '0'
+  rate: '7.15'
+  shipping: '0'
+  state: UT
+wootax/36020:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '84062'
+    location_type: postcode
+  name: PLEASANT GROVE
+  order: '0'
+  priority: '0'
+  rate: '7.25'
+  shipping: '0'
+  state: UT
+wootax/36021:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '84063'
+    location_type: postcode
+  name: UINTAH COUNTY
+  order: '0'
+  priority: '0'
+  rate: '6.2'
+  shipping: '0'
+  state: UT
+wootax/36022:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '84064'
+    location_type: postcode
+  name: RANDOLPH
+  order: '0'
+  priority: '0'
+  rate: '6.35'
+  shipping: '0'
+  state: UT
+wootax/36023:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '84065'
+    location_type: postcode
+  name: RIVERTON
+  order: '0'
+  priority: '0'
+  rate: '7.25'
+  shipping: '0'
+  state: UT
+wootax/36024:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '84066'
+    location_type: postcode
+  name: ROOSEVELT
+  order: '0'
+  priority: '0'
+  rate: '6.75'
+  shipping: '0'
+  state: UT
+wootax/36025:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '84067'
+    location_type: postcode
+  name: ROY
+  order: '0'
+  priority: '0'
+  rate: '7.25'
+  shipping: '0'
+  state: UT
+wootax/36026:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '84068'
+    location_type: postcode
+  name: PARK CITY
+  order: '0'
+  priority: '0'
+  rate: '9.05'
+  shipping: '0'
+  state: UT
+wootax/36027:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '84069'
+    location_type: postcode
+  name: RUSH VALLEY
+  order: '0'
+  priority: '0'
+  rate: '6.6'
+  shipping: '0'
+  state: UT
+wootax/36028:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '84070'
+    location_type: postcode
+  name: SANDY
+  order: '0'
+  priority: '0'
+  rate: '7.25'
+  shipping: '0'
+  state: UT
+wootax/36029:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '84071'
+    location_type: postcode
+  name: TOOELE COUNTY
+  order: '0'
+  priority: '0'
+  rate: '6.6'
+  shipping: '0'
+  state: UT
+wootax/36030:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '84072'
+    location_type: postcode
+  name: DUCHESNE CO
+  order: '0'
+  priority: '0'
+  rate: '6.35'
+  shipping: '0'
+  state: UT
+wootax/36031:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '84073'
+    location_type: postcode
+  name: DUCHESNE CO
+  order: '0'
+  priority: '0'
+  rate: '6.35'
+  shipping: '0'
+  state: UT
+wootax/36032:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '84074'
+    location_type: postcode
+  name: TOOELE (CITY)
+  order: '0'
+  priority: '0'
+  rate: '7'
+  shipping: '0'
+  state: UT
+wootax/36033:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '84075'
+    location_type: postcode
+  name: SYRACUSE
+  order: '0'
+  priority: '0'
+  rate: '7.25'
+  shipping: '0'
+  state: UT
+wootax/36034:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '84076'
+    location_type: postcode
+  name: UINTAH COUNTY
+  order: '0'
+  priority: '0'
+  rate: '6.2'
+  shipping: '0'
+  state: UT
+wootax/36035:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '84078'
+    location_type: postcode
+  name: UINTAH COUNTY
+  order: '0'
+  priority: '0'
+  rate: '6.2'
+  shipping: '0'
+  state: UT
+wootax/36036:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '84079'
+    location_type: postcode
+  name: VERNAL
+  order: '0'
+  priority: '0'
+  rate: '6.7'
+  shipping: '0'
+  state: UT
+wootax/36037:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '84080'
+    location_type: postcode
+  name: VERNON
+  order: '0'
+  priority: '0'
+  rate: '6.6'
+  shipping: '0'
+  state: UT
+wootax/36038:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '84081'
+    location_type: postcode
+  name: WEST JORDAN
+  order: '0'
+  priority: '0'
+  rate: '7.25'
+  shipping: '0'
+  state: UT
+wootax/36039:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '84082'
+    location_type: postcode
+  name: WASATCH COUNTY
+  order: '0'
+  priority: '0'
+  rate: '6.1'
+  shipping: '0'
+  state: UT
+wootax/36040:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '84083'
+    location_type: postcode
+  name: WENDOVER
+  order: '0'
+  priority: '0'
+  rate: '6.6'
+  shipping: '0'
+  state: UT
+wootax/36041:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '84084'
+    location_type: postcode
+  name: WEST JORDAN
+  order: '0'
+  priority: '0'
+  rate: '7.25'
+  shipping: '0'
+  state: UT
+wootax/36042:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '84085'
+    location_type: postcode
+  name: UINTAH COUNTY
+  order: '0'
+  priority: '0'
+  rate: '6.2'
+  shipping: '0'
+  state: UT
+wootax/36043:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '84086'
+    location_type: postcode
+  name: WOODRUFF
+  order: '0'
+  priority: '0'
+  rate: '6.35'
+  shipping: '0'
+  state: UT
+wootax/36044:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '84087'
+    location_type: postcode
+  name: WOODS CROSS
+  order: '0'
+  priority: '0'
+  rate: '7.25'
+  shipping: '0'
+  state: UT
+wootax/36045:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '84088'
+    location_type: postcode
+  name: WEST JORDAN
+  order: '0'
+  priority: '0'
+  rate: '7.25'
+  shipping: '0'
+  state: UT
+wootax/36046:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '84089'
+    location_type: postcode
+  name: CLEARFIELD
+  order: '0'
+  priority: '0'
+  rate: '7.25'
+  shipping: '0'
+  state: UT
+wootax/36047:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '84090'
+    location_type: postcode
+  name: SANDY
+  order: '0'
+  priority: '0'
+  rate: '7.25'
+  shipping: '0'
+  state: UT
+wootax/36048:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '84091'
+    location_type: postcode
+  name: SANDY
+  order: '0'
+  priority: '0'
+  rate: '7.25'
+  shipping: '0'
+  state: UT
+wootax/36049:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '84092'
+    location_type: postcode
+  name: SANDY
+  order: '0'
+  priority: '0'
+  rate: '7.25'
+  shipping: '0'
+  state: UT
+wootax/36050:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '84093'
+    location_type: postcode
+  name: SANDY
+  order: '0'
+  priority: '0'
+  rate: '7.25'
+  shipping: '0'
+  state: UT
+wootax/36051:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '84094'
+    location_type: postcode
+  name: SANDY
+  order: '0'
+  priority: '0'
+  rate: '7.25'
+  shipping: '0'
+  state: UT
+wootax/36052:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '84095'
+    location_type: postcode
+  name: SOUTH JORDAN
+  order: '0'
+  priority: '0'
+  rate: '7.25'
+  shipping: '0'
+  state: UT
+wootax/36053:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '84096'
+    location_type: postcode
+  name: HERRIMAN
+  order: '0'
+  priority: '0'
+  rate: '7.25'
+  shipping: '0'
+  state: UT
+wootax/36054:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '84097'
+    location_type: postcode
+  name: OREM
+  order: '0'
+  priority: '0'
+  rate: '7.25'
+  shipping: '0'
+  state: UT
+wootax/36055:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '84098'
+    location_type: postcode
+  name: PARK CITY
+  order: '0'
+  priority: '0'
+  rate: '9.05'
+  shipping: '0'
+  state: UT
+wootax/36056:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '84101'
+    location_type: postcode
+  name: SALT LAKE (CITY)
+  order: '0'
+  priority: '0'
+  rate: '7.75'
+  shipping: '0'
+  state: UT
+wootax/36057:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '84102'
+    location_type: postcode
+  name: SALT LAKE (CITY)
+  order: '0'
+  priority: '0'
+  rate: '7.75'
+  shipping: '0'
+  state: UT
+wootax/36058:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '84103'
+    location_type: postcode
+  name: SALT LAKE (CITY)
+  order: '0'
+  priority: '0'
+  rate: '7.75'
+  shipping: '0'
+  state: UT
+wootax/36059:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '84104'
+    location_type: postcode
+  name: SALT LAKE (CITY)
+  order: '0'
+  priority: '0'
+  rate: '7.75'
+  shipping: '0'
+  state: UT
+wootax/36060:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '84105'
+    location_type: postcode
+  name: SALT LAKE (CITY)
+  order: '0'
+  priority: '0'
+  rate: '7.75'
+  shipping: '0'
+  state: UT
+wootax/36061:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '84106'
+    location_type: postcode
+  name: SALT LAKE (CITY)
+  order: '0'
+  priority: '0'
+  rate: '7.75'
+  shipping: '0'
+  state: UT
+wootax/36062:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '84107'
+    location_type: postcode
+  name: MURRAY
+  order: '0'
+  priority: '0'
+  rate: '7.45'
+  shipping: '0'
+  state: UT
+wootax/36063:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '84108'
+    location_type: postcode
+  name: SALT LAKE (CITY)
+  order: '0'
+  priority: '0'
+  rate: '7.75'
+  shipping: '0'
+  state: UT
+wootax/36064:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '84109'
+    location_type: postcode
+  name: MILLCREEK
+  order: '0'
+  priority: '0'
+  rate: '7.25'
+  shipping: '0'
+  state: UT
+wootax/36065:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '84110'
+    location_type: postcode
+  name: SALT LAKE (CITY)
+  order: '0'
+  priority: '0'
+  rate: '7.75'
+  shipping: '0'
+  state: UT
+wootax/36066:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '84111'
+    location_type: postcode
+  name: SALT LAKE (CITY)
+  order: '0'
+  priority: '0'
+  rate: '7.75'
+  shipping: '0'
+  state: UT
+wootax/36067:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '84112'
+    location_type: postcode
+  name: SALT LAKE (CITY)
+  order: '0'
+  priority: '0'
+  rate: '7.75'
+  shipping: '0'
+  state: UT
+wootax/36068:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '84113'
+    location_type: postcode
+  name: SALT LAKE (CITY)
+  order: '0'
+  priority: '0'
+  rate: '7.75'
+  shipping: '0'
+  state: UT
+wootax/36069:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '84114'
+    location_type: postcode
+  name: SALT LAKE (CITY)
+  order: '0'
+  priority: '0'
+  rate: '7.75'
+  shipping: '0'
+  state: UT
+wootax/36070:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '84115'
+    location_type: postcode
+  name: SOUTH SALT LAKE
+  order: '0'
+  priority: '0'
+  rate: '7.45'
+  shipping: '0'
+  state: UT
+wootax/36071:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '84116'
+    location_type: postcode
+  name: SALT LAKE (CITY)
+  order: '0'
+  priority: '0'
+  rate: '7.75'
+  shipping: '0'
+  state: UT
+wootax/36072:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '84117'
+    location_type: postcode
+  name: HOLLADAY
+  order: '0'
+  priority: '0'
+  rate: '7.25'
+  shipping: '0'
+  state: UT
+wootax/36073:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '84118'
+    location_type: postcode
+  name: KEARNS
+  order: '0'
+  priority: '0'
+  rate: '7.25'
+  shipping: '0'
+  state: UT
+wootax/36074:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '84119'
+    location_type: postcode
+  name: WEST VALLEY CITY
+  order: '0'
+  priority: '0'
+  rate: '7.25'
+  shipping: '0'
+  state: UT
+wootax/36075:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '84120'
+    location_type: postcode
+  name: WEST VALLEY CITY
+  order: '0'
+  priority: '0'
+  rate: '7.25'
+  shipping: '0'
+  state: UT
+wootax/36076:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '84121'
+    location_type: postcode
+  name: COTTONWOOD HEIGHTS
+  order: '0'
+  priority: '0'
+  rate: '7.25'
+  shipping: '0'
+  state: UT
+wootax/36077:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '84122'
+    location_type: postcode
+  name: SOUTH SALT LAKE
+  order: '0'
+  priority: '0'
+  rate: '7.45'
+  shipping: '0'
+  state: UT
+wootax/36078:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '84123'
+    location_type: postcode
+  name: TAYLORSVILLE
+  order: '0'
+  priority: '0'
+  rate: '7.25'
+  shipping: '0'
+  state: UT
+wootax/36079:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '84124'
+    location_type: postcode
+  name: MILLCREEK
+  order: '0'
+  priority: '0'
+  rate: '7.25'
+  shipping: '0'
+  state: UT
+wootax/36080:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '84125'
+    location_type: postcode
+  name: SALT LAKE (CITY)
+  order: '0'
+  priority: '0'
+  rate: '7.75'
+  shipping: '0'
+  state: UT
+wootax/36081:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '84126'
+    location_type: postcode
+  name: SALT LAKE (CITY)
+  order: '0'
+  priority: '0'
+  rate: '7.75'
+  shipping: '0'
+  state: UT
+wootax/36082:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '84127'
+    location_type: postcode
+  name: SALT LAKE (CITY)
+  order: '0'
+  priority: '0'
+  rate: '7.75'
+  shipping: '0'
+  state: UT
+wootax/36083:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '84128'
+    location_type: postcode
+  name: WEST VALLEY CITY
+  order: '0'
+  priority: '0'
+  rate: '7.25'
+  shipping: '0'
+  state: UT
+wootax/36084:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '84129'
+    location_type: postcode
+  name: TAYLORSVILLE
+  order: '0'
+  priority: '0'
+  rate: '7.25'
+  shipping: '0'
+  state: UT
+wootax/36085:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '84132'
+    location_type: postcode
+  name: SALT LAKE (CITY)
+  order: '0'
+  priority: '0'
+  rate: '7.75'
+  shipping: '0'
+  state: UT
+wootax/36086:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '84133'
+    location_type: postcode
+  name: SALT LAKE (CITY)
+  order: '0'
+  priority: '0'
+  rate: '7.75'
+  shipping: '0'
+  state: UT
+wootax/36087:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '84134'
+    location_type: postcode
+  name: SALT LAKE (CITY)
+  order: '0'
+  priority: '0'
+  rate: '7.75'
+  shipping: '0'
+  state: UT
+wootax/36088:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '84138'
+    location_type: postcode
+  name: SALT LAKE (CITY)
+  order: '0'
+  priority: '0'
+  rate: '7.75'
+  shipping: '0'
+  state: UT
+wootax/36089:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '84139'
+    location_type: postcode
+  name: SALT LAKE (CITY)
+  order: '0'
+  priority: '0'
+  rate: '7.75'
+  shipping: '0'
+  state: UT
+wootax/36090:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '84143'
+    location_type: postcode
+  name: SALT LAKE (CITY)
+  order: '0'
+  priority: '0'
+  rate: '7.75'
+  shipping: '0'
+  state: UT
+wootax/36091:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '84148'
+    location_type: postcode
+  name: SALT LAKE (CITY)
+  order: '0'
+  priority: '0'
+  rate: '7.75'
+  shipping: '0'
+  state: UT
+wootax/36092:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '84150'
+    location_type: postcode
+  name: SALT LAKE (CITY)
+  order: '0'
+  priority: '0'
+  rate: '7.75'
+  shipping: '0'
+  state: UT
+wootax/36093:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '84152'
+    location_type: postcode
+  name: SALT LAKE (CITY)
+  order: '0'
+  priority: '0'
+  rate: '7.75'
+  shipping: '0'
+  state: UT
+wootax/36094:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '84157'
+    location_type: postcode
+  name: MURRAY
+  order: '0'
+  priority: '0'
+  rate: '7.45'
+  shipping: '0'
+  state: UT
+wootax/36095:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '84158'
+    location_type: postcode
+  name: SALT LAKE (CITY)
+  order: '0'
+  priority: '0'
+  rate: '7.75'
+  shipping: '0'
+  state: UT
+wootax/36096:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '84165'
+    location_type: postcode
+  name: SOUTH SALT LAKE
+  order: '0'
+  priority: '0'
+  rate: '7.45'
+  shipping: '0'
+  state: UT
+wootax/36097:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '84170'
+    location_type: postcode
+  name: WEST VALLEY CITY
+  order: '0'
+  priority: '0'
+  rate: '7.25'
+  shipping: '0'
+  state: UT
+wootax/36098:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '84171'
+    location_type: postcode
+  name: COTTONWOOD HEIGHTS
+  order: '0'
+  priority: '0'
+  rate: '7.25'
+  shipping: '0'
+  state: UT
+wootax/36099:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '84180'
+    location_type: postcode
+  name: SALT LAKE (CITY)
+  order: '0'
+  priority: '0'
+  rate: '7.75'
+  shipping: '0'
+  state: UT
+wootax/36100:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '84184'
+    location_type: postcode
+  name: TAYLORSVILLE
+  order: '0'
+  priority: '0'
+  rate: '7.25'
+  shipping: '0'
+  state: UT
+wootax/36101:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '84190'
+    location_type: postcode
+  name: SALT LAKE (CITY)
+  order: '0'
+  priority: '0'
+  rate: '7.75'
+  shipping: '0'
+  state: UT
+wootax/36102:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '84199'
+    location_type: postcode
+  name: SALT LAKE (CITY)
+  order: '0'
+  priority: '0'
+  rate: '7.75'
+  shipping: '0'
+  state: UT
+wootax/36103:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '84201'
+    location_type: postcode
+  name: OGDEN
+  order: '0'
+  priority: '0'
+  rate: '7.25'
+  shipping: '0'
+  state: UT
+wootax/36104:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '84244'
+    location_type: postcode
+  name: OGDEN
+  order: '0'
+  priority: '0'
+  rate: '7.25'
+  shipping: '0'
+  state: UT
+wootax/36105:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '84301'
+    location_type: postcode
+  name: BEAR RIVER
+  order: '0'
+  priority: '0'
+  rate: '6.1'
+  shipping: '0'
+  state: UT
+wootax/36106:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '84302'
+    location_type: postcode
+  name: BRIGHAM
+  order: '0'
+  priority: '0'
+  rate: '6.65'
+  shipping: '0'
+  state: UT
+wootax/36107:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '84304'
+    location_type: postcode
+  name: CACHE CO
+  order: '0'
+  priority: '0'
+  rate: '6.7'
+  shipping: '0'
+  state: UT
+wootax/36108:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '84305'
+    location_type: postcode
+  name: CLARKSTON
+  order: '0'
+  priority: '0'
+  rate: '6.7'
+  shipping: '0'
+  state: UT
+wootax/36109:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '84306'
+    location_type: postcode
+  name: BOX ELDER CO
+  order: '0'
+  priority: '0'
+  rate: '6.1'
+  shipping: '0'
+  state: UT
+wootax/36110:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '84307'
+    location_type: postcode
+  name: BOX ELDER CO
+  order: '0'
+  priority: '0'
+  rate: '6.1'
+  shipping: '0'
+  state: UT
+wootax/36111:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '84308'
+    location_type: postcode
+  name: CORNISH
+  order: '0'
+  priority: '0'
+  rate: '6.7'
+  shipping: '0'
+  state: UT
+wootax/36112:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '84309'
+    location_type: postcode
+  name: DEWEYVILLE
+  order: '0'
+  priority: '0'
+  rate: '6.1'
+  shipping: '0'
+  state: UT
+wootax/36113:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '84310'
+    location_type: postcode
+  name: WEBER COUNTY
+  order: '0'
+  priority: '0'
+  rate: '7.25'
+  shipping: '0'
+  state: UT
+wootax/36114:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '84311'
+    location_type: postcode
+  name: FIELDING
+  order: '0'
+  priority: '0'
+  rate: '6.1'
+  shipping: '0'
+  state: UT
+wootax/36115:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '84312'
+    location_type: postcode
+  name: GARLAND
+  order: '0'
+  priority: '0'
+  rate: '6.1'
+  shipping: '0'
+  state: UT
+wootax/36116:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '84313'
+    location_type: postcode
+  name: BOX ELDER CO
+  order: '0'
+  priority: '0'
+  rate: '6.1'
+  shipping: '0'
+  state: UT
+wootax/36117:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '84314'
+    location_type: postcode
+  name: HONEYVILLE
+  order: '0'
+  priority: '0'
+  rate: '6.1'
+  shipping: '0'
+  state: UT
+wootax/36118:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '84315'
+    location_type: postcode
+  name: HOOPER
+  order: '0'
+  priority: '0'
+  rate: '7.25'
+  shipping: '0'
+  state: UT
+wootax/36119:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '84316'
+    location_type: postcode
+  name: HOWELL
+  order: '0'
+  priority: '0'
+  rate: '6.1'
+  shipping: '0'
+  state: UT
+wootax/36120:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '84317'
+    location_type: postcode
+  name: WEBER COUNTY
+  order: '0'
+  priority: '0'
+  rate: '7.25'
+  shipping: '0'
+  state: UT
+wootax/36121:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '84318'
+    location_type: postcode
+  name: HYDE PARK
+  order: '0'
+  priority: '0'
+  rate: '6.95'
+  shipping: '0'
+  state: UT
+wootax/36122:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '84319'
+    location_type: postcode
+  name: HYRUM
+  order: '0'
+  priority: '0'
+  rate: '7'
+  shipping: '0'
+  state: UT
+wootax/36123:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '84320'
+    location_type: postcode
+  name: LEWISTON
+  order: '0'
+  priority: '0'
+  rate: '6.95'
+  shipping: '0'
+  state: UT
+wootax/36124:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '84321'
+    location_type: postcode
+  name: LOGAN
+  order: '0'
+  priority: '0'
+  rate: '7'
+  shipping: '0'
+  state: UT
+wootax/36125:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '84322'
+    location_type: postcode
+  name: LOGAN
+  order: '0'
+  priority: '0'
+  rate: '7'
+  shipping: '0'
+  state: UT
+wootax/36126:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '84323'
+    location_type: postcode
+  name: LOGAN
+  order: '0'
+  priority: '0'
+  rate: '7'
+  shipping: '0'
+  state: UT
+wootax/36127:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '84324'
+    location_type: postcode
+  name: MANTUA
+  order: '0'
+  priority: '0'
+  rate: '6.1'
+  shipping: '0'
+  state: UT
+wootax/36128:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '84325'
+    location_type: postcode
+  name: CACHE CO
+  order: '0'
+  priority: '0'
+  rate: '6.7'
+  shipping: '0'
+  state: UT
+wootax/36129:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '84326'
+    location_type: postcode
+  name: MILLVILLE
+  order: '0'
+  priority: '0'
+  rate: '6.95'
+  shipping: '0'
+  state: UT
+wootax/36130:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '84327'
+    location_type: postcode
+  name: NEWTON
+  order: '0'
+  priority: '0'
+  rate: '6.7'
+  shipping: '0'
+  state: UT
+wootax/36131:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '84328'
+    location_type: postcode
+  name: PARADISE
+  order: '0'
+  priority: '0'
+  rate: '6.7'
+  shipping: '0'
+  state: UT
+wootax/36132:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '84329'
+    location_type: postcode
+  name: BOX ELDER CO
+  order: '0'
+  priority: '0'
+  rate: '6.1'
+  shipping: '0'
+  state: UT
+wootax/36133:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '84330'
+    location_type: postcode
+  name: PLYMOUTH
+  order: '0'
+  priority: '0'
+  rate: '6.1'
+  shipping: '0'
+  state: UT
+wootax/36134:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '84331'
+    location_type: postcode
+  name: PORTAGE
+  order: '0'
+  priority: '0'
+  rate: '6.1'
+  shipping: '0'
+  state: UT
+wootax/36135:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '84332'
+    location_type: postcode
+  name: PROVIDENCE
+  order: '0'
+  priority: '0'
+  rate: '7'
+  shipping: '0'
+  state: UT
+wootax/36136:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '84333'
+    location_type: postcode
+  name: RICHMOND
+  order: '0'
+  priority: '0'
+  rate: '7'
+  shipping: '0'
+  state: UT
+wootax/36137:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '84334'
+    location_type: postcode
+  name: BOX ELDER CO
+  order: '0'
+  priority: '0'
+  rate: '6.1'
+  shipping: '0'
+  state: UT
+wootax/36138:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '84335'
+    location_type: postcode
+  name: SMITHFIELD
+  order: '0'
+  priority: '0'
+  rate: '7'
+  shipping: '0'
+  state: UT
+wootax/36139:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '84336'
+    location_type: postcode
+  name: SNOWVILLE
+  order: '0'
+  priority: '0'
+  rate: '7.1'
+  shipping: '0'
+  state: UT
+wootax/36140:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '84337'
+    location_type: postcode
+  name: TREMONTON
+  order: '0'
+  priority: '0'
+  rate: '6.1'
+  shipping: '0'
+  state: UT
+wootax/36141:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '84338'
+    location_type: postcode
+  name: TRENTON
+  order: '0'
+  priority: '0'
+  rate: '6.7'
+  shipping: '0'
+  state: UT
+wootax/36142:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '84339'
+    location_type: postcode
+  name: WELLSVILLE
+  order: '0'
+  priority: '0'
+  rate: '6.7'
+  shipping: '0'
+  state: UT
+wootax/36143:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '84340'
+    location_type: postcode
+  name: BOX ELDER CO
+  order: '0'
+  priority: '0'
+  rate: '6.1'
+  shipping: '0'
+  state: UT
+wootax/36144:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '84341'
+    location_type: postcode
+  name: LOGAN
+  order: '0'
+  priority: '0'
+  rate: '7'
+  shipping: '0'
+  state: UT
+wootax/36145:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '84401'
+    location_type: postcode
+  name: OGDEN
+  order: '0'
+  priority: '0'
+  rate: '7.25'
+  shipping: '0'
+  state: UT
+wootax/36146:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '84402'
+    location_type: postcode
+  name: OGDEN
+  order: '0'
+  priority: '0'
+  rate: '7.25'
+  shipping: '0'
+  state: UT
+wootax/36147:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '84403'
+    location_type: postcode
+  name: OGDEN
+  order: '0'
+  priority: '0'
+  rate: '7.25'
+  shipping: '0'
+  state: UT
+wootax/36148:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '84404'
+    location_type: postcode
+  name: OGDEN
+  order: '0'
+  priority: '0'
+  rate: '7.25'
+  shipping: '0'
+  state: UT
+wootax/36149:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '84405'
+    location_type: postcode
+  name: RIVERDALE
+  order: '0'
+  priority: '0'
+  rate: '7.45'
+  shipping: '0'
+  state: UT
+wootax/36150:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '84407'
+    location_type: postcode
+  name: OGDEN
+  order: '0'
+  priority: '0'
+  rate: '7.25'
+  shipping: '0'
+  state: UT
+wootax/36151:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '84408'
+    location_type: postcode
+  name: OGDEN
+  order: '0'
+  priority: '0'
+  rate: '7.25'
+  shipping: '0'
+  state: UT
+wootax/36152:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '84409'
+    location_type: postcode
+  name: OGDEN
+  order: '0'
+  priority: '0'
+  rate: '7.25'
+  shipping: '0'
+  state: UT
+wootax/36153:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '84412'
+    location_type: postcode
+  name: OGDEN
+  order: '0'
+  priority: '0'
+  rate: '7.25'
+  shipping: '0'
+  state: UT
+wootax/36154:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '84414'
+    location_type: postcode
+  name: NORTH OGDEN
+  order: '0'
+  priority: '0'
+  rate: '7.25'
+  shipping: '0'
+  state: UT
+wootax/36155:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '84415'
+    location_type: postcode
+  name: OGDEN
+  order: '0'
+  priority: '0'
+  rate: '7.25'
+  shipping: '0'
+  state: UT
+wootax/36156:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '84501'
+    location_type: postcode
+  name: PRICE
+  order: '0'
+  priority: '0'
+  rate: '6.75'
+  shipping: '0'
+  state: UT
+wootax/36157:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '84510'
+    location_type: postcode
+  name: SAN JUAN COUNTY
+  order: '0'
+  priority: '0'
+  rate: '6.35'
+  shipping: '0'
+  state: UT
+wootax/36158:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '84511'
+    location_type: postcode
+  name: BLANDING
+  order: '0'
+  priority: '0'
+  rate: '6.75'
+  shipping: '0'
+  state: UT
+wootax/36159:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '84512'
+    location_type: postcode
+  name: BLUFF
+  order: '0'
+  priority: '0'
+  rate: '7.45'
+  shipping: '0'
+  state: UT
+wootax/36160:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '84513'
+    location_type: postcode
+  name: CASTLE DALE
+  order: '0'
+  priority: '0'
+  rate: '6.35'
+  shipping: '0'
+  state: UT
+wootax/36161:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '84516'
+    location_type: postcode
+  name: CLAWSON
+  order: '0'
+  priority: '0'
+  rate: '6.35'
+  shipping: '0'
+  state: UT
+wootax/36162:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '84518'
+    location_type: postcode
+  name: CLEVELAND
+  order: '0'
+  priority: '0'
+  rate: '6.35'
+  shipping: '0'
+  state: UT
+wootax/36163:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '84520'
+    location_type: postcode
+  name: EAST CARBON
+  order: '0'
+  priority: '0'
+  rate: '6.35'
+  shipping: '0'
+  state: UT
+wootax/36164:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '84521'
+    location_type: postcode
+  name: EMERY COUNTY
+  order: '0'
+  priority: '0'
+  rate: '6.35'
+  shipping: '0'
+  state: UT
+wootax/36165:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '84522'
+    location_type: postcode
+  name: EMERY (CITY)
+  order: '0'
+  priority: '0'
+  rate: '6.35'
+  shipping: '0'
+  state: UT
+wootax/36166:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '84523'
+    location_type: postcode
+  name: FERRON
+  order: '0'
+  priority: '0'
+  rate: '6.35'
+  shipping: '0'
+  state: UT
+wootax/36167:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '84525'
+    location_type: postcode
+  name: GREEN RIVER
+  order: '0'
+  priority: '0'
+  rate: '8.25'
+  shipping: '0'
+  state: UT
+wootax/36168:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '84526'
+    location_type: postcode
+  name: HELPER
+  order: '0'
+  priority: '0'
+  rate: '6.45'
+  shipping: '0'
+  state: UT
+wootax/36169:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '84528'
+    location_type: postcode
+  name: HUNTINGTON
+  order: '0'
+  priority: '0'
+  rate: '6.35'
+  shipping: '0'
+  state: UT
+wootax/36170:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '84529'
+    location_type: postcode
+  name: HELPER
+  order: '0'
+  priority: '0'
+  rate: '6.45'
+  shipping: '0'
+  state: UT
+wootax/36171:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '84530'
+    location_type: postcode
+  name: SAN JUAN COUNTY
+  order: '0'
+  priority: '0'
+  rate: '6.35'
+  shipping: '0'
+  state: UT
+wootax/36172:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '84531'
+    location_type: postcode
+  name: SAN JUAN COUNTY
+  order: '0'
+  priority: '0'
+  rate: '6.35'
+  shipping: '0'
+  state: UT
+wootax/36173:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '84532'
+    location_type: postcode
+  name: MOAB
+  order: '0'
+  priority: '0'
+  rate: '8.75'
+  shipping: '0'
+  state: UT
+wootax/36174:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '84533'
+    location_type: postcode
+  name: SAN JUAN COUNTY
+  order: '0'
+  priority: '0'
+  rate: '6.35'
+  shipping: '0'
+  state: UT
+wootax/36175:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '84534'
+    location_type: postcode
+  name: SAN JUAN COUNTY
+  order: '0'
+  priority: '0'
+  rate: '6.35'
+  shipping: '0'
+  state: UT
+wootax/36176:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '84535'
+    location_type: postcode
+  name: MONTICELLO
+  order: '0'
+  priority: '0'
+  rate: '6.75'
+  shipping: '0'
+  state: UT
+wootax/36177:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '84537'
+    location_type: postcode
+  name: EMERY COUNTY
+  order: '0'
+  priority: '0'
+  rate: '6.35'
+  shipping: '0'
+  state: UT
+wootax/36178:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '84539'
+    location_type: postcode
+  name: CARBON COUNTY
+  order: '0'
+  priority: '0'
+  rate: '6.35'
+  shipping: '0'
+  state: UT
+wootax/36179:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '84540'
+    location_type: postcode
+  name: GRAND COUNTY
+  order: '0'
+  priority: '0'
+  rate: '6.85'
+  shipping: '0'
+  state: UT
+wootax/36180:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '84542'
+    location_type: postcode
+  name: WELLINGTON
+  order: '0'
+  priority: '0'
+  rate: '6.65'
+  shipping: '0'
+  state: UT
+wootax/36181:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '84601'
+    location_type: postcode
+  name: PROVO
+  order: '0'
+  priority: '0'
+  rate: '7.25'
+  shipping: '0'
+  state: UT
+wootax/36182:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '84602'
+    location_type: postcode
+  name: PROVO
+  order: '0'
+  priority: '0'
+  rate: '7.25'
+  shipping: '0'
+  state: UT
+wootax/36183:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '84603'
+    location_type: postcode
+  name: PROVO
+  order: '0'
+  priority: '0'
+  rate: '7.25'
+  shipping: '0'
+  state: UT
+wootax/36184:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '84604'
+    location_type: postcode
+  name: PROVO
+  order: '0'
+  priority: '0'
+  rate: '7.25'
+  shipping: '0'
+  state: UT
+wootax/36185:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '84605'
+    location_type: postcode
+  name: PROVO
+  order: '0'
+  priority: '0'
+  rate: '7.25'
+  shipping: '0'
+  state: UT
+wootax/36186:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '84606'
+    location_type: postcode
+  name: PROVO
+  order: '0'
+  priority: '0'
+  rate: '7.25'
+  shipping: '0'
+  state: UT
+wootax/36187:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '84620'
+    location_type: postcode
+  name: AURORA
+  order: '0'
+  priority: '0'
+  rate: '6.45'
+  shipping: '0'
+  state: UT
+wootax/36188:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '84621'
+    location_type: postcode
+  name: CENTERFIELD
+  order: '0'
+  priority: '0'
+  rate: '6.45'
+  shipping: '0'
+  state: UT
+wootax/36189:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '84622'
+    location_type: postcode
+  name: CENTERFIELD
+  order: '0'
+  priority: '0'
+  rate: '6.45'
+  shipping: '0'
+  state: UT
+wootax/36190:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '84624'
+    location_type: postcode
+  name: MILLARD COUNTY
+  order: '0'
+  priority: '0'
+  rate: '6.35'
+  shipping: '0'
+  state: UT
+wootax/36191:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '84626'
+    location_type: postcode
+  name: UTAH COUNTY
+  order: '0'
+  priority: '0'
+  rate: '7.15'
+  shipping: '0'
+  state: UT
+wootax/36192:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '84627'
+    location_type: postcode
+  name: EPHRAIM
+  order: '0'
+  priority: '0'
+  rate: '6.65'
+  shipping: '0'
+  state: UT
+wootax/36193:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '84628'
+    location_type: postcode
+  name: EUREKA
+  order: '0'
+  priority: '0'
+  rate: '6.1'
+  shipping: '0'
+  state: UT
+wootax/36194:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '84629'
+    location_type: postcode
+  name: SANPETE COUNTY
+  order: '0'
+  priority: '0'
+  rate: '6.35'
+  shipping: '0'
+  state: UT
+wootax/36195:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '84630'
+    location_type: postcode
+  name: FAYETTE
+  order: '0'
+  priority: '0'
+  rate: '6.35'
+  shipping: '0'
+  state: UT
+wootax/36196:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '84631'
+    location_type: postcode
+  name: FILLMORE
+  order: '0'
+  priority: '0'
+  rate: '6.35'
+  shipping: '0'
+  state: UT
+wootax/36197:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '84632'
+    location_type: postcode
+  name: FOUNTAIN GREEN
+  order: '0'
+  priority: '0'
+  rate: '6.35'
+  shipping: '0'
+  state: UT
+wootax/36198:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '84633'
+    location_type: postcode
+  name: GOSHEN
+  order: '0'
+  priority: '0'
+  rate: '7.15'
+  shipping: '0'
+  state: UT
+wootax/36199:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '84634'
+    location_type: postcode
+  name: GUNNISON
+  order: '0'
+  priority: '0'
+  rate: '6.75'
+  shipping: '0'
+  state: UT
+wootax/36200:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '84635'
+    location_type: postcode
+  name: MILLARD COUNTY
+  order: '0'
+  priority: '0'
+  rate: '6.35'
+  shipping: '0'
+  state: UT
+wootax/36201:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '84636'
+    location_type: postcode
+  name: HOLDEN
+  order: '0'
+  priority: '0'
+  rate: '6.35'
+  shipping: '0'
+  state: UT
+wootax/36202:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '84637'
+    location_type: postcode
+  name: KANOSH
+  order: '0'
+  priority: '0'
+  rate: '6.35'
+  shipping: '0'
+  state: UT
+wootax/36203:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '84638'
+    location_type: postcode
+  name: DELTA
+  order: '0'
+  priority: '0'
+  rate: '6.35'
+  shipping: '0'
+  state: UT
+wootax/36204:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '84639'
+    location_type: postcode
+  name: LEVAN
+  order: '0'
+  priority: '0'
+  rate: '6.1'
+  shipping: '0'
+  state: UT
+wootax/36205:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '84640'
+    location_type: postcode
+  name: LYNNDYL
+  order: '0'
+  priority: '0'
+  rate: '6.35'
+  shipping: '0'
+  state: UT
+wootax/36206:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '84642'
+    location_type: postcode
+  name: MANTI
+  order: '0'
+  priority: '0'
+  rate: '6.35'
+  shipping: '0'
+  state: UT
+wootax/36207:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '84643'
+    location_type: postcode
+  name: MAYFIELD
+  order: '0'
+  priority: '0'
+  rate: '6.45'
+  shipping: '0'
+  state: UT
+wootax/36208:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '84644'
+    location_type: postcode
+  name: MEADOW
+  order: '0'
+  priority: '0'
+  rate: '6.35'
+  shipping: '0'
+  state: UT
+wootax/36209:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '84645'
+    location_type: postcode
+  name: MONA
+  order: '0'
+  priority: '0'
+  rate: '6.1'
+  shipping: '0'
+  state: UT
+wootax/36210:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '84646'
+    location_type: postcode
+  name: MORONI
+  order: '0'
+  priority: '0'
+  rate: '6.35'
+  shipping: '0'
+  state: UT
+wootax/36211:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '84647'
+    location_type: postcode
+  name: MT. PLEASANT
+  order: '0'
+  priority: '0'
+  rate: '6.65'
+  shipping: '0'
+  state: UT
+wootax/36212:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '84648'
+    location_type: postcode
+  name: NEPHI
+  order: '0'
+  priority: '0'
+  rate: '6.5'
+  shipping: '0'
+  state: UT
+wootax/36213:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '84649'
+    location_type: postcode
+  name: OAK CITY
+  order: '0'
+  priority: '0'
+  rate: '6.35'
+  shipping: '0'
+  state: UT
+wootax/36214:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '84651'
+    location_type: postcode
+  name: PAYSON
+  order: '0'
+  priority: '0'
+  rate: '7.25'
+  shipping: '0'
+  state: UT
+wootax/36215:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '84652'
+    location_type: postcode
+  name: REDMOND
+  order: '0'
+  priority: '0'
+  rate: '6.45'
+  shipping: '0'
+  state: UT
+wootax/36216:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '84653'
+    location_type: postcode
+  name: SALEM
+  order: '0'
+  priority: '0'
+  rate: '7.15'
+  shipping: '0'
+  state: UT
+wootax/36217:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '84654'
+    location_type: postcode
+  name: SALINA
+  order: '0'
+  priority: '0'
+  rate: '6.75'
+  shipping: '0'
+  state: UT
+wootax/36218:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '84655'
+    location_type: postcode
+  name: SANTAQUIN
+  order: '0'
+  priority: '0'
+  rate: '7.25'
+  shipping: '0'
+  state: UT
+wootax/36219:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '84656'
+    location_type: postcode
+  name: SCIPIO
+  order: '0'
+  priority: '0'
+  rate: '6.35'
+  shipping: '0'
+  state: UT
+wootax/36220:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '84657'
+    location_type: postcode
+  name: SIGURD
+  order: '0'
+  priority: '0'
+  rate: '6.35'
+  shipping: '0'
+  state: UT
+wootax/36221:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '84660'
+    location_type: postcode
+  name: SPANISH FORK
+  order: '0'
+  priority: '0'
+  rate: '7.25'
+  shipping: '0'
+  state: UT
+wootax/36222:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '84662'
+    location_type: postcode
+  name: SPRING CITY
+  order: '0'
+  priority: '0'
+  rate: '6.35'
+  shipping: '0'
+  state: UT
+wootax/36223:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '84663'
+    location_type: postcode
+  name: SPRINGVILLE
+  order: '0'
+  priority: '0'
+  rate: '7.15'
+  shipping: '0'
+  state: UT
+wootax/36224:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '84664'
+    location_type: postcode
+  name: MAPLETON
+  order: '0'
+  priority: '0'
+  rate: '7.15'
+  shipping: '0'
+  state: UT
+wootax/36225:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '84665'
+    location_type: postcode
+  name: MANTI
+  order: '0'
+  priority: '0'
+  rate: '6.35'
+  shipping: '0'
+  state: UT
+wootax/36226:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '84667'
+    location_type: postcode
+  name: WALES
+  order: '0'
+  priority: '0'
+  rate: '6.35'
+  shipping: '0'
+  state: UT
+wootax/36227:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '84701'
+    location_type: postcode
+  name: RICHFIELD
+  order: '0'
+  priority: '0'
+  rate: '6.75'
+  shipping: '0'
+  state: UT
+wootax/36228:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '84710'
+    location_type: postcode
+  name: ALTON
+  order: '0'
+  priority: '0'
+  rate: '7.1'
+  shipping: '0'
+  state: UT
+wootax/36229:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '84711'
+    location_type: postcode
+  name: ANNABELLA
+  order: '0'
+  priority: '0'
+  rate: '6.35'
+  shipping: '0'
+  state: UT
+wootax/36230:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '84712'
+    location_type: postcode
+  name: PIUTE COUNTY
+  order: '0'
+  priority: '0'
+  rate: '6.1'
+  shipping: '0'
+  state: UT
+wootax/36231:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '84713'
+    location_type: postcode
+  name: BEAVER (CITY)
+  order: '0'
+  priority: '0'
+  rate: '7.35'
+  shipping: '0'
+  state: UT
+wootax/36232:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '84714'
+    location_type: postcode
+  name: IRON COUNTY
+  order: '0'
+  priority: '0'
+  rate: '6.1'
+  shipping: '0'
+  state: UT
+wootax/36233:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '84715'
+    location_type: postcode
+  name: BICKNELL
+  order: '0'
+  priority: '0'
+  rate: '6.1'
+  shipping: '0'
+  state: UT
+wootax/36234:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '84716'
+    location_type: postcode
+  name: GARFIELD COUNTY
+  order: '0'
+  priority: '0'
+  rate: '7.1'
+  shipping: '0'
+  state: UT
+wootax/36235:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '84718'
+    location_type: postcode
+  name: CANNONVILLE
+  order: '0'
+  priority: '0'
+  rate: '7.1'
+  shipping: '0'
+  state: UT
+wootax/36236:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '84719'
+    location_type: postcode
+  name: BRIAN HEAD
+  order: '0'
+  priority: '0'
+  rate: '8.1'
+  shipping: '0'
+  state: UT
+wootax/36237:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '84720'
+    location_type: postcode
+  name: CEDAR CITY
+  order: '0'
+  priority: '0'
+  rate: '6.2'
+  shipping: '0'
+  state: UT
+wootax/36238:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '84721'
+    location_type: postcode
+  name: CEDAR CITY
+  order: '0'
+  priority: '0'
+  rate: '6.2'
+  shipping: '0'
+  state: UT
+wootax/36239:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '84722'
+    location_type: postcode
+  name: WASHINGTON COUNTY
+  order: '0'
+  priority: '0'
+  rate: '6.2'
+  shipping: '0'
+  state: UT
+wootax/36240:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '84723'
+    location_type: postcode
+  name: CIRCLEVILLE
+  order: '0'
+  priority: '0'
+  rate: '6.1'
+  shipping: '0'
+  state: UT
+wootax/36241:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '84724'
+    location_type: postcode
+  name: ELSINORE
+  order: '0'
+  priority: '0'
+  rate: '6.35'
+  shipping: '0'
+  state: UT
+wootax/36242:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '84725'
+    location_type: postcode
+  name: ENTERPRISE
+  order: '0'
+  priority: '0'
+  rate: '6.2'
+  shipping: '0'
+  state: UT
+wootax/36243:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '84726'
+    location_type: postcode
+  name: ESCALANTE
+  order: '0'
+  priority: '0'
+  rate: '8.2'
+  shipping: '0'
+  state: UT
+wootax/36244:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '84728'
+    location_type: postcode
+  name: MILLARD COUNTY
+  order: '0'
+  priority: '0'
+  rate: '6.35'
+  shipping: '0'
+  state: UT
+wootax/36245:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '84729'
+    location_type: postcode
+  name: GLENDALE
+  order: '0'
+  priority: '0'
+  rate: '7.1'
+  shipping: '0'
+  state: UT
+wootax/36246:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '84730'
+    location_type: postcode
+  name: RICHFIELD
+  order: '0'
+  priority: '0'
+  rate: '6.75'
+  shipping: '0'
+  state: UT
+wootax/36247:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '84733'
+    location_type: postcode
+  name: WASHINGTON COUNTY
+  order: '0'
+  priority: '0'
+  rate: '6.2'
+  shipping: '0'
+  state: UT
+wootax/36248:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '84734'
+    location_type: postcode
+  name: HANKSVILLE
+  order: '0'
+  priority: '0'
+  rate: '6.1'
+  shipping: '0'
+  state: UT
+wootax/36249:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '84735'
+    location_type: postcode
+  name: GARFIELD COUNTY
+  order: '0'
+  priority: '0'
+  rate: '7.1'
+  shipping: '0'
+  state: UT
+wootax/36250:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '84736'
+    location_type: postcode
+  name: HENRIEVILLE
+  order: '0'
+  priority: '0'
+  rate: '7.1'
+  shipping: '0'
+  state: UT
+wootax/36251:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '84737'
+    location_type: postcode
+  name: HURRICANE
+  order: '0'
+  priority: '0'
+  rate: '6.5'
+  shipping: '0'
+  state: UT
+wootax/36252:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '84738'
+    location_type: postcode
+  name: IVINS
+  order: '0'
+  priority: '0'
+  rate: '6.5'
+  shipping: '0'
+  state: UT
+wootax/36253:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '84739'
+    location_type: postcode
+  name: JOSEPH
+  order: '0'
+  priority: '0'
+  rate: '6.35'
+  shipping: '0'
+  state: UT
+wootax/36254:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '84740'
+    location_type: postcode
+  name: JUNCTION
+  order: '0'
+  priority: '0'
+  rate: '6.1'
+  shipping: '0'
+  state: UT
+wootax/36255:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '84741'
+    location_type: postcode
+  name: KANAB
+  order: '0'
+  priority: '0'
+  rate: '8.1'
+  shipping: '0'
+  state: UT
+wootax/36256:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '84742'
+    location_type: postcode
+  name: KANARRAVILLE
+  order: '0'
+  priority: '0'
+  rate: '6.1'
+  shipping: '0'
+  state: UT
+wootax/36257:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '84743'
+    location_type: postcode
+  name: KINGSTON
+  order: '0'
+  priority: '0'
+  rate: '6.1'
+  shipping: '0'
+  state: UT
+wootax/36258:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '84744'
+    location_type: postcode
+  name: KOOSHAREM
+  order: '0'
+  priority: '0'
+  rate: '6.35'
+  shipping: '0'
+  state: UT
+wootax/36259:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '84745'
+    location_type: postcode
+  name: LA VERKIN
+  order: '0'
+  priority: '0'
+  rate: '6.5'
+  shipping: '0'
+  state: UT
+wootax/36260:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '84746'
+    location_type: postcode
+  name: LEEDS
+  order: '0'
+  priority: '0'
+  rate: '6.2'
+  shipping: '0'
+  state: UT
+wootax/36261:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '84747'
+    location_type: postcode
+  name: WAYNE COUNTY
+  order: '0'
+  priority: '0'
+  rate: '6.1'
+  shipping: '0'
+  state: UT
+wootax/36262:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '84749'
+    location_type: postcode
+  name: LYMAN
+  order: '0'
+  priority: '0'
+  rate: '6.1'
+  shipping: '0'
+  state: UT
+wootax/36263:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '84750'
+    location_type: postcode
+  name: MARYSVALE
+  order: '0'
+  priority: '0'
+  rate: '6.1'
+  shipping: '0'
+  state: UT
+wootax/36264:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '84751'
+    location_type: postcode
+  name: MILFORD
+  order: '0'
+  priority: '0'
+  rate: '6.35'
+  shipping: '0'
+  state: UT
+wootax/36265:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '84752'
+    location_type: postcode
+  name: MINERSVILLE
+  order: '0'
+  priority: '0'
+  rate: '6.35'
+  shipping: '0'
+  state: UT
+wootax/36266:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '84753'
+    location_type: postcode
+  name: IRON COUNTY
+  order: '0'
+  priority: '0'
+  rate: '6.1'
+  shipping: '0'
+  state: UT
+wootax/36267:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '84754'
+    location_type: postcode
+  name: MONROE
+  order: '0'
+  priority: '0'
+  rate: '6.35'
+  shipping: '0'
+  state: UT
+wootax/36268:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '84755'
+    location_type: postcode
+  name: ORDERVILLE
+  order: '0'
+  priority: '0'
+  rate: '8.1'
+  shipping: '0'
+  state: UT
+wootax/36269:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '84756'
+    location_type: postcode
+  name: IRON COUNTY
+  order: '0'
+  priority: '0'
+  rate: '6.1'
+  shipping: '0'
+  state: UT
+wootax/36270:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '84757'
+    location_type: postcode
+  name: WASHINGTON COUNTY
+  order: '0'
+  priority: '0'
+  rate: '6.2'
+  shipping: '0'
+  state: UT
+wootax/36271:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '84758'
+    location_type: postcode
+  name: ORDERVILLE
+  order: '0'
+  priority: '0'
+  rate: '8.1'
+  shipping: '0'
+  state: UT
+wootax/36272:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '84759'
+    location_type: postcode
+  name: PANGUITCH
+  order: '0'
+  priority: '0'
+  rate: '8.1'
+  shipping: '0'
+  state: UT
+wootax/36273:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '84760'
+    location_type: postcode
+  name: PARAGONAH
+  order: '0'
+  priority: '0'
+  rate: '6.1'
+  shipping: '0'
+  state: UT
+wootax/36274:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '84761'
+    location_type: postcode
+  name: PAROWAN
+  order: '0'
+  priority: '0'
+  rate: '6.1'
+  shipping: '0'
+  state: UT
+wootax/36275:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '84762'
+    location_type: postcode
+  name: KANE COUNTY
+  order: '0'
+  priority: '0'
+  rate: '7.1'
+  shipping: '0'
+  state: UT
+wootax/36276:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '84763'
+    location_type: postcode
+  name: ROCKVILLE
+  order: '0'
+  priority: '0'
+  rate: '6.2'
+  shipping: '0'
+  state: UT
+wootax/36277:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '84764'
+    location_type: postcode
+  name: BRYCE CANYON
+  order: '0'
+  priority: '0'
+  rate: '8.2'
+  shipping: '0'
+  state: UT
+wootax/36278:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '84765'
+    location_type: postcode
+  name: SANTA CLARA
+  order: '0'
+  priority: '0'
+  rate: '6.5'
+  shipping: '0'
+  state: UT
+wootax/36279:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '84766'
+    location_type: postcode
+  name: SEVIER COUNTY
+  order: '0'
+  priority: '0'
+  rate: '6.35'
+  shipping: '0'
+  state: UT
+wootax/36280:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '84767'
+    location_type: postcode
+  name: SPRINGDALE
+  order: '0'
+  priority: '0'
+  rate: '7.8'
+  shipping: '0'
+  state: UT
+wootax/36281:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '84770'
+    location_type: postcode
+  name: ST GEORGE
+  order: '0'
+  priority: '0'
+  rate: '6.5'
+  shipping: '0'
+  state: UT
+wootax/36282:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '84771'
+    location_type: postcode
+  name: ST GEORGE
+  order: '0'
+  priority: '0'
+  rate: '6.5'
+  shipping: '0'
+  state: UT
+wootax/36283:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '84772'
+    location_type: postcode
+  name: IRON COUNTY
+  order: '0'
+  priority: '0'
+  rate: '6.1'
+  shipping: '0'
+  state: UT
+wootax/36284:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '84773'
+    location_type: postcode
+  name: WAYNE COUNTY
+  order: '0'
+  priority: '0'
+  rate: '6.1'
+  shipping: '0'
+  state: UT
+wootax/36285:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '84774'
+    location_type: postcode
+  name: TOQUERVILLE
+  order: '0'
+  priority: '0'
+  rate: '6.2'
+  shipping: '0'
+  state: UT
+wootax/36286:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '84775'
+    location_type: postcode
+  name: WAYNE COUNTY
+  order: '0'
+  priority: '0'
+  rate: '6.1'
+  shipping: '0'
+  state: UT
+wootax/36287:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '84776'
+    location_type: postcode
+  name: TROPIC
+  order: '0'
+  priority: '0'
+  rate: '8.1'
+  shipping: '0'
+  state: UT
+wootax/36288:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '84779'
+    location_type: postcode
+  name: VIRGIN
+  order: '0'
+  priority: '0'
+  rate: '6.2'
+  shipping: '0'
+  state: UT
+wootax/36289:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '84780'
+    location_type: postcode
+  name: WASHINGTON (CITY)
+  order: '0'
+  priority: '0'
+  rate: '6.5'
+  shipping: '0'
+  state: UT
+wootax/36290:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '84781'
+    location_type: postcode
+  name: WASHINGTON COUNTY
+  order: '0'
+  priority: '0'
+  rate: '6.2'
+  shipping: '0'
+  state: UT
+wootax/36291:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '84782'
+    location_type: postcode
+  name: WASHINGTON COUNTY
+  order: '0'
+  priority: '0'
+  rate: '6.2'
+  shipping: '0'
+  state: UT
+wootax/36292:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '84783'
+    location_type: postcode
+  name: WASHINGTON COUNTY
+  order: '0'
+  priority: '0'
+  rate: '6.2'
+  shipping: '0'
+  state: UT
+wootax/36293:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '84784'
+    location_type: postcode
+  name: HURRICANE
+  order: '0'
+  priority: '0'
+  rate: '6.5'
+  shipping: '0'
+  state: UT
+wootax/36294:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '84790'
+    location_type: postcode
+  name: ST GEORGE
+  order: '0'
+  priority: '0'
+  rate: '6.5'
+  shipping: '0'
+  state: UT
+wootax/36295:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '84791'
+    location_type: postcode
+  name: ST GEORGE
+  order: '0'
+  priority: '0'
+  rate: '6.5'
+  shipping: '0'
+  state: UT

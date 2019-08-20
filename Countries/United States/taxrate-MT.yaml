@@ -1,0 +1,5213 @@
+wootax/20714:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '59001'
+    location_type: postcode
+  name: STILLWATER
+  order: '0'
+  priority: '0'
+  rate: '0'
+  shipping: '0'
+  state: MT
+wootax/20715:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '59002'
+    location_type: postcode
+  name: YELLOWSTONE
+  order: '0'
+  priority: '0'
+  rate: '0'
+  shipping: '0'
+  state: MT
+wootax/20716:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '59003'
+    location_type: postcode
+  name: ROSEBUD
+  order: '0'
+  priority: '0'
+  rate: '0'
+  shipping: '0'
+  state: MT
+wootax/20717:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '59004'
+    location_type: postcode
+  name: MONTANA STATE
+  order: '0'
+  priority: '0'
+  rate: '0'
+  shipping: '0'
+  state: MT
+wootax/20718:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '59006'
+    location_type: postcode
+  name: YELLOWSTONE
+  order: '0'
+  priority: '0'
+  rate: '0'
+  shipping: '0'
+  state: MT
+wootax/20719:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '59007'
+    location_type: postcode
+  name: BEARCREEK
+  order: '0'
+  priority: '0'
+  rate: '0'
+  shipping: '0'
+  state: MT
+wootax/20720:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '59008'
+    location_type: postcode
+  name: CARBON
+  order: '0'
+  priority: '0'
+  rate: '0'
+  shipping: '0'
+  state: MT
+wootax/20721:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '59010'
+    location_type: postcode
+  name: BIG HORN
+  order: '0'
+  priority: '0'
+  rate: '0'
+  shipping: '0'
+  state: MT
+wootax/20722:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '59011'
+    location_type: postcode
+  name: BIG TIMBER
+  order: '0'
+  priority: '0'
+  rate: '0'
+  shipping: '0'
+  state: MT
+wootax/20723:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '59012'
+    location_type: postcode
+  name: ROSEBUD
+  order: '0'
+  priority: '0'
+  rate: '0'
+  shipping: '0'
+  state: MT
+wootax/20724:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '59013'
+    location_type: postcode
+  name: CARBON
+  order: '0'
+  priority: '0'
+  rate: '0'
+  shipping: '0'
+  state: MT
+wootax/20725:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '59014'
+    location_type: postcode
+  name: CARBON
+  order: '0'
+  priority: '0'
+  rate: '0'
+  shipping: '0'
+  state: MT
+wootax/20726:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '59015'
+    location_type: postcode
+  name: YELLOWSTONE
+  order: '0'
+  priority: '0'
+  rate: '0'
+  shipping: '0'
+  state: MT
+wootax/20727:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '59016'
+    location_type: postcode
+  name: MONTANA STATE
+  order: '0'
+  priority: '0'
+  rate: '0'
+  shipping: '0'
+  state: MT
+wootax/20728:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '59018'
+    location_type: postcode
+  name: CLYDE PARK
+  order: '0'
+  priority: '0'
+  rate: '0'
+  shipping: '0'
+  state: MT
+wootax/20729:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '59019'
+    location_type: postcode
+  name: STILLWATER
+  order: '0'
+  priority: '0'
+  rate: '0'
+  shipping: '0'
+  state: MT
+wootax/20730:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '59020'
+    location_type: postcode
+  name: MONTANA STATE
+  order: '0'
+  priority: '0'
+  rate: '0'
+  shipping: '0'
+  state: MT
+wootax/20731:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '59022'
+    location_type: postcode
+  name: BIG HORN
+  order: '0'
+  priority: '0'
+  rate: '0'
+  shipping: '0'
+  state: MT
+wootax/20732:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '59024'
+    location_type: postcode
+  name: YELLOWSTONE
+  order: '0'
+  priority: '0'
+  rate: '0'
+  shipping: '0'
+  state: MT
+wootax/20733:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '59025'
+    location_type: postcode
+  name: BIG HORN
+  order: '0'
+  priority: '0'
+  rate: '0'
+  shipping: '0'
+  state: MT
+wootax/20734:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '59026'
+    location_type: postcode
+  name: CARBON
+  order: '0'
+  priority: '0'
+  rate: '0'
+  shipping: '0'
+  state: MT
+wootax/20735:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '59027'
+    location_type: postcode
+  name: PARK
+  order: '0'
+  priority: '0'
+  rate: '0'
+  shipping: '0'
+  state: MT
+wootax/20736:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '59028'
+    location_type: postcode
+  name: STILLWATER
+  order: '0'
+  priority: '0'
+  rate: '0'
+  shipping: '0'
+  state: MT
+wootax/20737:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '59029'
+    location_type: postcode
+  name: CARBON
+  order: '0'
+  priority: '0'
+  rate: '0'
+  shipping: '0'
+  state: MT
+wootax/20738:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '59030'
+    location_type: postcode
+  name: GARDINER RESORT AREA
+  order: '0'
+  priority: '0'
+  rate: '0'
+  shipping: '0'
+  state: MT
+wootax/20739:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '59031'
+    location_type: postcode
+  name: BIG HORN
+  order: '0'
+  priority: '0'
+  rate: '0'
+  shipping: '0'
+  state: MT
+wootax/20740:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '59032'
+    location_type: postcode
+  name: FERGUS
+  order: '0'
+  priority: '0'
+  rate: '0'
+  shipping: '0'
+  state: MT
+wootax/20741:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '59033'
+    location_type: postcode
+  name: SWEET GRASS
+  order: '0'
+  priority: '0'
+  rate: '0'
+  shipping: '0'
+  state: MT
+wootax/20742:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '59034'
+    location_type: postcode
+  name: HARDIN
+  order: '0'
+  priority: '0'
+  rate: '0'
+  shipping: '0'
+  state: MT
+wootax/20743:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '59036'
+    location_type: postcode
+  name: HARLOWTON
+  order: '0'
+  priority: '0'
+  rate: '0'
+  shipping: '0'
+  state: MT
+wootax/20744:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '59037'
+    location_type: postcode
+  name: YELLOWSTONE
+  order: '0'
+  priority: '0'
+  rate: '0'
+  shipping: '0'
+  state: MT
+wootax/20745:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '59038'
+    location_type: postcode
+  name: TREASURE
+  order: '0'
+  priority: '0'
+  rate: '0'
+  shipping: '0'
+  state: MT
+wootax/20746:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '59039'
+    location_type: postcode
+  name: ROSEBUD
+  order: '0'
+  priority: '0'
+  rate: '0'
+  shipping: '0'
+  state: MT
+wootax/20747:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '59041'
+    location_type: postcode
+  name: CARBON
+  order: '0'
+  priority: '0'
+  rate: '0'
+  shipping: '0'
+  state: MT
+wootax/20748:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '59043'
+    location_type: postcode
+  name: ROSEBUD
+  order: '0'
+  priority: '0'
+  rate: '0'
+  shipping: '0'
+  state: MT
+wootax/20749:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '59044'
+    location_type: postcode
+  name: LAUREL
+  order: '0'
+  priority: '0'
+  rate: '0'
+  shipping: '0'
+  state: MT
+wootax/20750:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '59046'
+    location_type: postcode
+  name: GOLDEN VALLEY
+  order: '0'
+  priority: '0'
+  rate: '0'
+  shipping: '0'
+  state: MT
+wootax/20751:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '59047'
+    location_type: postcode
+  name: LIVINGSTON
+  order: '0'
+  priority: '0'
+  rate: '0'
+  shipping: '0'
+  state: MT
+wootax/20752:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '59050'
+    location_type: postcode
+  name: BIG HORN
+  order: '0'
+  priority: '0'
+  rate: '0'
+  shipping: '0'
+  state: MT
+wootax/20753:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '59052'
+    location_type: postcode
+  name: SWEET GRASS
+  order: '0'
+  priority: '0'
+  rate: '0'
+  shipping: '0'
+  state: MT
+wootax/20754:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '59053'
+    location_type: postcode
+  name: MEAGHER
+  order: '0'
+  priority: '0'
+  rate: '0'
+  shipping: '0'
+  state: MT
+wootax/20755:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '59054'
+    location_type: postcode
+  name: 'MELSTONE '
+  order: '0'
+  priority: '0'
+  rate: '0'
+  shipping: '0'
+  state: MT
+wootax/20756:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '59055'
+    location_type: postcode
+  name: SWEET GRASS
+  order: '0'
+  priority: '0'
+  rate: '0'
+  shipping: '0'
+  state: MT
+wootax/20757:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '59057'
+    location_type: postcode
+  name: YELLOWSTONE
+  order: '0'
+  priority: '0'
+  rate: '0'
+  shipping: '0'
+  state: MT
+wootax/20758:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '59058'
+    location_type: postcode
+  name: GARFIELD
+  order: '0'
+  priority: '0'
+  rate: '0'
+  shipping: '0'
+  state: MT
+wootax/20759:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '59059'
+    location_type: postcode
+  name: MUSSELSHELL
+  order: '0'
+  priority: '0'
+  rate: '0'
+  shipping: '0'
+  state: MT
+wootax/20760:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '59061'
+    location_type: postcode
+  name: STILLWATER
+  order: '0'
+  priority: '0'
+  rate: '0'
+  shipping: '0'
+  state: MT
+wootax/20761:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '59062'
+    location_type: postcode
+  name: POWDER RIVER
+  order: '0'
+  priority: '0'
+  rate: '0'
+  shipping: '0'
+  state: MT
+wootax/20762:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '59063'
+    location_type: postcode
+  name: STILLWATER
+  order: '0'
+  priority: '0'
+  rate: '0'
+  shipping: '0'
+  state: MT
+wootax/20763:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '59064'
+    location_type: postcode
+  name: YELLOWSTONE
+  order: '0'
+  priority: '0'
+  rate: '0'
+  shipping: '0'
+  state: MT
+wootax/20764:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '59065'
+    location_type: postcode
+  name: PARK
+  order: '0'
+  priority: '0'
+  rate: '0'
+  shipping: '0'
+  state: MT
+wootax/20765:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '59066'
+    location_type: postcode
+  name: BIG HORN
+  order: '0'
+  priority: '0'
+  rate: '0'
+  shipping: '0'
+  state: MT
+wootax/20766:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '59067'
+    location_type: postcode
+  name: STILLWATER
+  order: '0'
+  priority: '0'
+  rate: '0'
+  shipping: '0'
+  state: MT
+wootax/20767:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '59068'
+    location_type: postcode
+  name: RED LODGE
+  order: '0'
+  priority: '0'
+  rate: '0'
+  shipping: '0'
+  state: MT
+wootax/20768:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '59069'
+    location_type: postcode
+  name: STILLWATER
+  order: '0'
+  priority: '0'
+  rate: '0'
+  shipping: '0'
+  state: MT
+wootax/20769:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '59070'
+    location_type: postcode
+  name: CARBON
+  order: '0'
+  priority: '0'
+  rate: '0'
+  shipping: '0'
+  state: MT
+wootax/20770:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '59071'
+    location_type: postcode
+  name: CARBON
+  order: '0'
+  priority: '0'
+  rate: '0'
+  shipping: '0'
+  state: MT
+wootax/20771:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '59072'
+    location_type: postcode
+  name: MUSSELSHELL
+  order: '0'
+  priority: '0'
+  rate: '0'
+  shipping: '0'
+  state: MT
+wootax/20772:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '59073'
+    location_type: postcode
+  name: 'ROUNDUP '
+  order: '0'
+  priority: '0'
+  rate: '0'
+  shipping: '0'
+  state: MT
+wootax/20773:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '59074'
+    location_type: postcode
+  name: GOLDEN VALLEY
+  order: '0'
+  priority: '0'
+  rate: '0'
+  shipping: '0'
+  state: MT
+wootax/20774:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '59075'
+    location_type: postcode
+  name: BIG HORN
+  order: '0'
+  priority: '0'
+  rate: '0'
+  shipping: '0'
+  state: MT
+wootax/20775:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '59076'
+    location_type: postcode
+  name: TREASURE
+  order: '0'
+  priority: '0'
+  rate: '0'
+  shipping: '0'
+  state: MT
+wootax/20776:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '59077'
+    location_type: postcode
+  name: GARFIELD
+  order: '0'
+  priority: '0'
+  rate: '0'
+  shipping: '0'
+  state: MT
+wootax/20777:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '59078'
+    location_type: postcode
+  name: WHEATLAND
+  order: '0'
+  priority: '0'
+  rate: '0'
+  shipping: '0'
+  state: MT
+wootax/20778:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '59079'
+    location_type: postcode
+  name: YELLOWSTONE
+  order: '0'
+  priority: '0'
+  rate: '0'
+  shipping: '0'
+  state: MT
+wootax/20779:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '59081'
+    location_type: postcode
+  name: COOKE CITY & SILVER GATE & COLTER PASS RESORT AREA
+  order: '0'
+  priority: '0'
+  rate: '0'
+  shipping: '0'
+  state: MT
+wootax/20780:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '59082'
+    location_type: postcode
+  name: PARK
+  order: '0'
+  priority: '0'
+  rate: '0'
+  shipping: '0'
+  state: MT
+wootax/20781:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '59083'
+    location_type: postcode
+  name: ROSEBUD
+  order: '0'
+  priority: '0'
+  rate: '0'
+  shipping: '0'
+  state: MT
+wootax/20782:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '59084'
+    location_type: postcode
+  name: MONTANA STATE
+  order: '0'
+  priority: '0'
+  rate: '0'
+  shipping: '0'
+  state: MT
+wootax/20783:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '59085'
+    location_type: postcode
+  name: WHEATLAND
+  order: '0'
+  priority: '0'
+  rate: '0'
+  shipping: '0'
+  state: MT
+wootax/20784:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '59086'
+    location_type: postcode
+  name: PARK
+  order: '0'
+  priority: '0'
+  rate: '0'
+  shipping: '0'
+  state: MT
+wootax/20785:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '59087'
+    location_type: postcode
+  name: PETROLEUM
+  order: '0'
+  priority: '0'
+  rate: '0'
+  shipping: '0'
+  state: MT
+wootax/20786:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '59088'
+    location_type: postcode
+  name: YELLOWSTONE
+  order: '0'
+  priority: '0'
+  rate: '0'
+  shipping: '0'
+  state: MT
+wootax/20787:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '59089'
+    location_type: postcode
+  name: BIG HORN
+  order: '0'
+  priority: '0'
+  rate: '0'
+  shipping: '0'
+  state: MT
+wootax/20788:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '59101'
+    location_type: postcode
+  name: BILLINGS
+  order: '0'
+  priority: '0'
+  rate: '0'
+  shipping: '0'
+  state: MT
+wootax/20789:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '59102'
+    location_type: postcode
+  name: BILLINGS
+  order: '0'
+  priority: '0'
+  rate: '0'
+  shipping: '0'
+  state: MT
+wootax/20790:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '59103'
+    location_type: postcode
+  name: BILLINGS
+  order: '0'
+  priority: '0'
+  rate: '0'
+  shipping: '0'
+  state: MT
+wootax/20791:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '59104'
+    location_type: postcode
+  name: BILLINGS
+  order: '0'
+  priority: '0'
+  rate: '0'
+  shipping: '0'
+  state: MT
+wootax/20792:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '59105'
+    location_type: postcode
+  name: BILLINGS
+  order: '0'
+  priority: '0'
+  rate: '0'
+  shipping: '0'
+  state: MT
+wootax/20793:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '59106'
+    location_type: postcode
+  name: YELLOWSTONE
+  order: '0'
+  priority: '0'
+  rate: '0'
+  shipping: '0'
+  state: MT
+wootax/20794:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '59107'
+    location_type: postcode
+  name: BILLINGS
+  order: '0'
+  priority: '0'
+  rate: '0'
+  shipping: '0'
+  state: MT
+wootax/20795:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '59108'
+    location_type: postcode
+  name: BILLINGS
+  order: '0'
+  priority: '0'
+  rate: '0'
+  shipping: '0'
+  state: MT
+wootax/20796:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '59111'
+    location_type: postcode
+  name: BILLINGS
+  order: '0'
+  priority: '0'
+  rate: '0'
+  shipping: '0'
+  state: MT
+wootax/20797:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '59112'
+    location_type: postcode
+  name: BILLINGS
+  order: '0'
+  priority: '0'
+  rate: '0'
+  shipping: '0'
+  state: MT
+wootax/20798:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '59114'
+    location_type: postcode
+  name: BILLINGS
+  order: '0'
+  priority: '0'
+  rate: '0'
+  shipping: '0'
+  state: MT
+wootax/20799:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '59115'
+    location_type: postcode
+  name: BILLINGS
+  order: '0'
+  priority: '0'
+  rate: '0'
+  shipping: '0'
+  state: MT
+wootax/20800:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '59117'
+    location_type: postcode
+  name: YELLOWSTONE
+  order: '0'
+  priority: '0'
+  rate: '0'
+  shipping: '0'
+  state: MT
+wootax/20801:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '59201'
+    location_type: postcode
+  name: WOLF POINT
+  order: '0'
+  priority: '0'
+  rate: '0'
+  shipping: '0'
+  state: MT
+wootax/20802:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '59211'
+    location_type: postcode
+  name: SHERIDAN
+  order: '0'
+  priority: '0'
+  rate: '0'
+  shipping: '0'
+  state: MT
+wootax/20803:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '59212'
+    location_type: postcode
+  name: ROOSEVELT
+  order: '0'
+  priority: '0'
+  rate: '0'
+  shipping: '0'
+  state: MT
+wootax/20804:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '59213'
+    location_type: postcode
+  name: RICHLAND
+  order: '0'
+  priority: '0'
+  rate: '0'
+  shipping: '0'
+  state: MT
+wootax/20805:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '59214'
+    location_type: postcode
+  name: MCCONE
+  order: '0'
+  priority: '0'
+  rate: '0'
+  shipping: '0'
+  state: MT
+wootax/20806:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '59215'
+    location_type: postcode
+  name: CIRCLE
+  order: '0'
+  priority: '0'
+  rate: '0'
+  shipping: '0'
+  state: MT
+wootax/20807:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '59217'
+    location_type: postcode
+  name: MONTANA STATE
+  order: '0'
+  priority: '0'
+  rate: '0'
+  shipping: '0'
+  state: MT
+wootax/20808:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '59218'
+    location_type: postcode
+  name: CULBERTSON
+  order: '0'
+  priority: '0'
+  rate: '0'
+  shipping: '0'
+  state: MT
+wootax/20809:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '59219'
+    location_type: postcode
+  name: SHERIDAN
+  order: '0'
+  priority: '0'
+  rate: '0'
+  shipping: '0'
+  state: MT
+wootax/20810:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '59221'
+    location_type: postcode
+  name: FAIRVIEW
+  order: '0'
+  priority: '0'
+  rate: '0'
+  shipping: '0'
+  state: MT
+wootax/20811:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '59222'
+    location_type: postcode
+  name: DANIELS
+  order: '0'
+  priority: '0'
+  rate: '0'
+  shipping: '0'
+  state: MT
+wootax/20812:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '59223'
+    location_type: postcode
+  name: MCCONE
+  order: '0'
+  priority: '0'
+  rate: '0'
+  shipping: '0'
+  state: MT
+wootax/20813:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '59225'
+    location_type: postcode
+  name: VALLEY
+  order: '0'
+  priority: '0'
+  rate: '0'
+  shipping: '0'
+  state: MT
+wootax/20814:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '59226'
+    location_type: postcode
+  name: ROOSEVELT
+  order: '0'
+  priority: '0'
+  rate: '0'
+  shipping: '0'
+  state: MT
+wootax/20815:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '59230'
+    location_type: postcode
+  name: GLASGOW
+  order: '0'
+  priority: '0'
+  rate: '0'
+  shipping: '0'
+  state: MT
+wootax/20816:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '59231'
+    location_type: postcode
+  name: VALLEY
+  order: '0'
+  priority: '0'
+  rate: '0'
+  shipping: '0'
+  state: MT
+wootax/20817:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '59240'
+    location_type: postcode
+  name: VALLEY
+  order: '0'
+  priority: '0'
+  rate: '0'
+  shipping: '0'
+  state: MT
+wootax/20818:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '59241'
+    location_type: postcode
+  name: VALLEY
+  order: '0'
+  priority: '0'
+  rate: '0'
+  shipping: '0'
+  state: MT
+wootax/20819:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '59242'
+    location_type: postcode
+  name: SHERIDAN
+  order: '0'
+  priority: '0'
+  rate: '0'
+  shipping: '0'
+  state: MT
+wootax/20820:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '59243'
+    location_type: postcode
+  name: RICHLAND
+  order: '0'
+  priority: '0'
+  rate: '0'
+  shipping: '0'
+  state: MT
+wootax/20821:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '59244'
+    location_type: postcode
+  name: VALLEY
+  order: '0'
+  priority: '0'
+  rate: '0'
+  shipping: '0'
+  state: MT
+wootax/20822:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '59247'
+    location_type: postcode
+  name: SHERIDAN
+  order: '0'
+  priority: '0'
+  rate: '0'
+  shipping: '0'
+  state: MT
+wootax/20823:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '59248'
+    location_type: postcode
+  name: VALLEY
+  order: '0'
+  priority: '0'
+  rate: '0'
+  shipping: '0'
+  state: MT
+wootax/20824:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '59250'
+    location_type: postcode
+  name: VALLEY
+  order: '0'
+  priority: '0'
+  rate: '0'
+  shipping: '0'
+  state: MT
+wootax/20825:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '59252'
+    location_type: postcode
+  name: SHERIDAN
+  order: '0'
+  priority: '0'
+  rate: '0'
+  shipping: '0'
+  state: MT
+wootax/20826:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '59253'
+    location_type: postcode
+  name: DANIELS
+  order: '0'
+  priority: '0'
+  rate: '0'
+  shipping: '0'
+  state: MT
+wootax/20827:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '59254'
+    location_type: postcode
+  name: PLENTYWOOD
+  order: '0'
+  priority: '0'
+  rate: '0'
+  shipping: '0'
+  state: MT
+wootax/20828:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '59255'
+    location_type: postcode
+  name: RICHLAND
+  order: '0'
+  priority: '0'
+  rate: '0'
+  shipping: '0'
+  state: MT
+wootax/20829:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '59256'
+    location_type: postcode
+  name: MONTANA STATE
+  order: '0'
+  priority: '0'
+  rate: '0'
+  shipping: '0'
+  state: MT
+wootax/20830:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '59257'
+    location_type: postcode
+  name: SHERIDAN
+  order: '0'
+  priority: '0'
+  rate: '0'
+  shipping: '0'
+  state: MT
+wootax/20831:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '59258'
+    location_type: postcode
+  name: SHERIDAN
+  order: '0'
+  priority: '0'
+  rate: '0'
+  shipping: '0'
+  state: MT
+wootax/20832:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '59259'
+    location_type: postcode
+  name: RICHEY
+  order: '0'
+  priority: '0'
+  rate: '0'
+  shipping: '0'
+  state: MT
+wootax/20833:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '59260'
+    location_type: postcode
+  name: VALLEY
+  order: '0'
+  priority: '0'
+  rate: '0'
+  shipping: '0'
+  state: MT
+wootax/20834:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '59261'
+    location_type: postcode
+  name: PHILLIPS
+  order: '0'
+  priority: '0'
+  rate: '0'
+  shipping: '0'
+  state: MT
+wootax/20835:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '59262'
+    location_type: postcode
+  name: RICHLAND
+  order: '0'
+  priority: '0'
+  rate: '0'
+  shipping: '0'
+  state: MT
+wootax/20836:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '59263'
+    location_type: postcode
+  name: DANIELS
+  order: '0'
+  priority: '0'
+  rate: '0'
+  shipping: '0'
+  state: MT
+wootax/20837:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '59270'
+    location_type: postcode
+  name: SIDNEY
+  order: '0'
+  priority: '0'
+  rate: '0'
+  shipping: '0'
+  state: MT
+wootax/20838:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '59273'
+    location_type: postcode
+  name: VALLEY
+  order: '0'
+  priority: '0'
+  rate: '0'
+  shipping: '0'
+  state: MT
+wootax/20839:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '59274'
+    location_type: postcode
+  name: MCCONE
+  order: '0'
+  priority: '0'
+  rate: '0'
+  shipping: '0'
+  state: MT
+wootax/20840:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '59275'
+    location_type: postcode
+  name: SHERIDAN
+  order: '0'
+  priority: '0'
+  rate: '0'
+  shipping: '0'
+  state: MT
+wootax/20841:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '59276'
+    location_type: postcode
+  name: DANIELS
+  order: '0'
+  priority: '0'
+  rate: '0'
+  shipping: '0'
+  state: MT
+wootax/20842:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '59301'
+    location_type: postcode
+  name: MILES CITY
+  order: '0'
+  priority: '0'
+  rate: '0'
+  shipping: '0'
+  state: MT
+wootax/20843:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '59311'
+    location_type: postcode
+  name: CARTER
+  order: '0'
+  priority: '0'
+  rate: '0'
+  shipping: '0'
+  state: MT
+wootax/20844:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '59312'
+    location_type: postcode
+  name: MONTANA STATE
+  order: '0'
+  priority: '0'
+  rate: '0'
+  shipping: '0'
+  state: MT
+wootax/20845:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '59313'
+    location_type: postcode
+  name: BAKER
+  order: '0'
+  priority: '0'
+  rate: '0'
+  shipping: '0'
+  state: MT
+wootax/20846:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '59314'
+    location_type: postcode
+  name: POWDER RIVER
+  order: '0'
+  priority: '0'
+  rate: '0'
+  shipping: '0'
+  state: MT
+wootax/20847:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '59315'
+    location_type: postcode
+  name: DAWSON
+  order: '0'
+  priority: '0'
+  rate: '0'
+  shipping: '0'
+  state: MT
+wootax/20848:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '59316'
+    location_type: postcode
+  name: CARTER
+  order: '0'
+  priority: '0'
+  rate: '0'
+  shipping: '0'
+  state: MT
+wootax/20849:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '59317'
+    location_type: postcode
+  name: BROADUS
+  order: '0'
+  priority: '0'
+  rate: '0'
+  shipping: '0'
+  state: MT
+wootax/20850:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '59318'
+    location_type: postcode
+  name: GARFIELD
+  order: '0'
+  priority: '0'
+  rate: '0'
+  shipping: '0'
+  state: MT
+wootax/20851:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '59319'
+    location_type: postcode
+  name: CARTER
+  order: '0'
+  priority: '0'
+  rate: '0'
+  shipping: '0'
+  state: MT
+wootax/20852:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '59322'
+    location_type: postcode
+  name: GARFIELD
+  order: '0'
+  priority: '0'
+  rate: '0'
+  shipping: '0'
+  state: MT
+wootax/20853:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '59323'
+    location_type: postcode
+  name: COLSTRIP
+  order: '0'
+  priority: '0'
+  rate: '0'
+  shipping: '0'
+  state: MT
+wootax/20854:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '59324'
+    location_type: postcode
+  name: CARTER
+  order: '0'
+  priority: '0'
+  rate: '0'
+  shipping: '0'
+  state: MT
+wootax/20855:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '59326'
+    location_type: postcode
+  name: PRAIRIE
+  order: '0'
+  priority: '0'
+  rate: '0'
+  shipping: '0'
+  state: MT
+wootax/20856:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '59327'
+    location_type: postcode
+  name: FORSYTH
+  order: '0'
+  priority: '0'
+  rate: '0'
+  shipping: '0'
+  state: MT
+wootax/20857:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '59330'
+    location_type: postcode
+  name: GLENDIVE
+  order: '0'
+  priority: '0'
+  rate: '0'
+  shipping: '0'
+  state: MT
+wootax/20858:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '59332'
+    location_type: postcode
+  name: CARTER
+  order: '0'
+  priority: '0'
+  rate: '0'
+  shipping: '0'
+  state: MT
+wootax/20859:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '59333'
+    location_type: postcode
+  name: ROSEBUD
+  order: '0'
+  priority: '0'
+  rate: '0'
+  shipping: '0'
+  state: MT
+wootax/20860:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '59336'
+    location_type: postcode
+  name: FALLON
+  order: '0'
+  priority: '0'
+  rate: '0'
+  shipping: '0'
+  state: MT
+wootax/20861:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '59337'
+    location_type: postcode
+  name: JORDAN
+  order: '0'
+  priority: '0'
+  rate: '0'
+  shipping: '0'
+  state: MT
+wootax/20862:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '59338'
+    location_type: postcode
+  name: CUSTER
+  order: '0'
+  priority: '0'
+  rate: '0'
+  shipping: '0'
+  state: MT
+wootax/20863:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '59339'
+    location_type: postcode
+  name: DAWSON
+  order: '0'
+  priority: '0'
+  rate: '0'
+  shipping: '0'
+  state: MT
+wootax/20864:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '59341'
+    location_type: postcode
+  name: PRAIRIE
+  order: '0'
+  priority: '0'
+  rate: '0'
+  shipping: '0'
+  state: MT
+wootax/20865:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '59343'
+    location_type: postcode
+  name: MONTANA STATE
+  order: '0'
+  priority: '0'
+  rate: '0'
+  shipping: '0'
+  state: MT
+wootax/20866:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '59344'
+    location_type: postcode
+  name: FALLON
+  order: '0'
+  priority: '0'
+  rate: '0'
+  shipping: '0'
+  state: MT
+wootax/20867:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '59345'
+    location_type: postcode
+  name: MONTANA STATE
+  order: '0'
+  priority: '0'
+  rate: '0'
+  shipping: '0'
+  state: MT
+wootax/20868:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '59347'
+    location_type: postcode
+  name: ROSEBUD
+  order: '0'
+  priority: '0'
+  rate: '0'
+  shipping: '0'
+  state: MT
+wootax/20869:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '59349'
+    location_type: postcode
+  name: PRAIRIE
+  order: '0'
+  priority: '0'
+  rate: '0'
+  shipping: '0'
+  state: MT
+wootax/20870:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '59351'
+    location_type: postcode
+  name: MONTANA STATE
+  order: '0'
+  priority: '0'
+  rate: '0'
+  shipping: '0'
+  state: MT
+wootax/20871:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '59353'
+    location_type: postcode
+  name: WIBAUX
+  order: '0'
+  priority: '0'
+  rate: '0'
+  shipping: '0'
+  state: MT
+wootax/20872:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '59354'
+    location_type: postcode
+  name: BAKER
+  order: '0'
+  priority: '0'
+  rate: '0'
+  shipping: '0'
+  state: MT
+wootax/20873:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '59401'
+    location_type: postcode
+  name: GREAT FALLS
+  order: '0'
+  priority: '0'
+  rate: '0'
+  shipping: '0'
+  state: MT
+wootax/20874:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '59402'
+    location_type: postcode
+  name: MONTANA STATE
+  order: '0'
+  priority: '0'
+  rate: '0'
+  shipping: '0'
+  state: MT
+wootax/20875:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '59403'
+    location_type: postcode
+  name: GREAT FALLS
+  order: '0'
+  priority: '0'
+  rate: '0'
+  shipping: '0'
+  state: MT
+wootax/20876:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '59404'
+    location_type: postcode
+  name: GREAT FALLS
+  order: '0'
+  priority: '0'
+  rate: '0'
+  shipping: '0'
+  state: MT
+wootax/20877:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '59405'
+    location_type: postcode
+  name: GREAT FALLS
+  order: '0'
+  priority: '0'
+  rate: '0'
+  shipping: '0'
+  state: MT
+wootax/20878:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '59406'
+    location_type: postcode
+  name: GREAT FALLS
+  order: '0'
+  priority: '0'
+  rate: '0'
+  shipping: '0'
+  state: MT
+wootax/20879:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '59410'
+    location_type: postcode
+  name: LEWIS AND CLARK
+  order: '0'
+  priority: '0'
+  rate: '0'
+  shipping: '0'
+  state: MT
+wootax/20880:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '59411'
+    location_type: postcode
+  name: GLACIER
+  order: '0'
+  priority: '0'
+  rate: '0'
+  shipping: '0'
+  state: MT
+wootax/20881:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '59412'
+    location_type: postcode
+  name: CASCADE
+  order: '0'
+  priority: '0'
+  rate: '0'
+  shipping: '0'
+  state: MT
+wootax/20882:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '59414'
+    location_type: postcode
+  name: CASCADE
+  order: '0'
+  priority: '0'
+  rate: '0'
+  shipping: '0'
+  state: MT
+wootax/20883:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '59416'
+    location_type: postcode
+  name: CHOUTEAU
+  order: '0'
+  priority: '0'
+  rate: '0'
+  shipping: '0'
+  state: MT
+wootax/20884:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '59417'
+    location_type: postcode
+  name: GLACIER
+  order: '0'
+  priority: '0'
+  rate: '0'
+  shipping: '0'
+  state: MT
+wootax/20885:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '59418'
+    location_type: postcode
+  name: FERGUS
+  order: '0'
+  priority: '0'
+  rate: '0'
+  shipping: '0'
+  state: MT
+wootax/20886:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '59419'
+    location_type: postcode
+  name: MONTANA STATE
+  order: '0'
+  priority: '0'
+  rate: '0'
+  shipping: '0'
+  state: MT
+wootax/20887:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '59420'
+    location_type: postcode
+  name: CHOUTEAU
+  order: '0'
+  priority: '0'
+  rate: '0'
+  shipping: '0'
+  state: MT
+wootax/20888:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '59421'
+    location_type: postcode
+  name: CASCADE
+  order: '0'
+  priority: '0'
+  rate: '0'
+  shipping: '0'
+  state: MT
+wootax/20889:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '59422'
+    location_type: postcode
+  name: CHOTEAU
+  order: '0'
+  priority: '0'
+  rate: '0'
+  shipping: '0'
+  state: MT
+wootax/20890:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '59424'
+    location_type: postcode
+  name: FERGUS
+  order: '0'
+  priority: '0'
+  rate: '0'
+  shipping: '0'
+  state: MT
+wootax/20891:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '59425'
+    location_type: postcode
+  name: CONRAD
+  order: '0'
+  priority: '0'
+  rate: '0'
+  shipping: '0'
+  state: MT
+wootax/20892:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '59427'
+    location_type: postcode
+  name: CUT BANK
+  order: '0'
+  priority: '0'
+  rate: '0'
+  shipping: '0'
+  state: MT
+wootax/20893:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '59430'
+    location_type: postcode
+  name: FERGUS
+  order: '0'
+  priority: '0'
+  rate: '0'
+  shipping: '0'
+  state: MT
+wootax/20894:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '59432'
+    location_type: postcode
+  name: MONTANA STATE
+  order: '0'
+  priority: '0'
+  rate: '0'
+  shipping: '0'
+  state: MT
+wootax/20895:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '59433'
+    location_type: postcode
+  name: TETON
+  order: '0'
+  priority: '0'
+  rate: '0'
+  shipping: '0'
+  state: MT
+wootax/20896:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '59434'
+    location_type: postcode
+  name: GLACIER
+  order: '0'
+  priority: '0'
+  rate: '0'
+  shipping: '0'
+  state: MT
+wootax/20897:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '59435'
+    location_type: postcode
+  name: MONTANA STATE
+  order: '0'
+  priority: '0'
+  rate: '0'
+  shipping: '0'
+  state: MT
+wootax/20898:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '59436'
+    location_type: postcode
+  name: TETON
+  order: '0'
+  priority: '0'
+  rate: '0'
+  shipping: '0'
+  state: MT
+wootax/20899:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '59440'
+    location_type: postcode
+  name: CHOUTEAU
+  order: '0'
+  priority: '0'
+  rate: '0'
+  shipping: '0'
+  state: MT
+wootax/20900:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '59441'
+    location_type: postcode
+  name: FERGUS
+  order: '0'
+  priority: '0'
+  rate: '0'
+  shipping: '0'
+  state: MT
+wootax/20901:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '59442'
+    location_type: postcode
+  name: FORT BENTON
+  order: '0'
+  priority: '0'
+  rate: '0'
+  shipping: '0'
+  state: MT
+wootax/20902:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '59443'
+    location_type: postcode
+  name: CASCADE
+  order: '0'
+  priority: '0'
+  rate: '0'
+  shipping: '0'
+  state: MT
+wootax/20903:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '59444'
+    location_type: postcode
+  name: TOOLE
+  order: '0'
+  priority: '0'
+  rate: '0'
+  shipping: '0'
+  state: MT
+wootax/20904:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '59446'
+    location_type: postcode
+  name: CHOUTEAU
+  order: '0'
+  priority: '0'
+  rate: '0'
+  shipping: '0'
+  state: MT
+wootax/20905:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '59447'
+    location_type: postcode
+  name: JUDITH BASIN
+  order: '0'
+  priority: '0'
+  rate: '0'
+  shipping: '0'
+  state: MT
+wootax/20906:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '59448'
+    location_type: postcode
+  name: PONDERA
+  order: '0'
+  priority: '0'
+  rate: '0'
+  shipping: '0'
+  state: MT
+wootax/20907:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '59450'
+    location_type: postcode
+  name: CHOUTEAU
+  order: '0'
+  priority: '0'
+  rate: '0'
+  shipping: '0'
+  state: MT
+wootax/20908:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '59451'
+    location_type: postcode
+  name: FERGUS
+  order: '0'
+  priority: '0'
+  rate: '0'
+  shipping: '0'
+  state: MT
+wootax/20909:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '59452'
+    location_type: postcode
+  name: JUDITH BASIN
+  order: '0'
+  priority: '0'
+  rate: '0'
+  shipping: '0'
+  state: MT
+wootax/20910:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '59453'
+    location_type: postcode
+  name: WHEATLAND
+  order: '0'
+  priority: '0'
+  rate: '0'
+  shipping: '0'
+  state: MT
+wootax/20911:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '59454'
+    location_type: postcode
+  name: KEVIN
+  order: '0'
+  priority: '0'
+  rate: '0'
+  shipping: '0'
+  state: MT
+wootax/20912:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '59456'
+    location_type: postcode
+  name: TOOLE
+  order: '0'
+  priority: '0'
+  rate: '0'
+  shipping: '0'
+  state: MT
+wootax/20913:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '59457'
+    location_type: postcode
+  name: LEWISTOWN
+  order: '0'
+  priority: '0'
+  rate: '0'
+  shipping: '0'
+  state: MT
+wootax/20914:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '59460'
+    location_type: postcode
+  name: CHOUTEAU
+  order: '0'
+  priority: '0'
+  rate: '0'
+  shipping: '0'
+  state: MT
+wootax/20915:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '59461'
+    location_type: postcode
+  name: MONTANA STATE
+  order: '0'
+  priority: '0'
+  rate: '0'
+  shipping: '0'
+  state: MT
+wootax/20916:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '59462'
+    location_type: postcode
+  name: JUDITH BASIN
+  order: '0'
+  priority: '0'
+  rate: '0'
+  shipping: '0'
+  state: MT
+wootax/20917:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '59463'
+    location_type: postcode
+  name: CASCADE
+  order: '0'
+  priority: '0'
+  rate: '0'
+  shipping: '0'
+  state: MT
+wootax/20918:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '59464'
+    location_type: postcode
+  name: FERGUS
+  order: '0'
+  priority: '0'
+  rate: '0'
+  shipping: '0'
+  state: MT
+wootax/20919:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '59465'
+    location_type: postcode
+  name: NEIHART
+  order: '0'
+  priority: '0'
+  rate: '0'
+  shipping: '0'
+  state: MT
+wootax/20920:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '59466'
+    location_type: postcode
+  name: TOOLE
+  order: '0'
+  priority: '0'
+  rate: '0'
+  shipping: '0'
+  state: MT
+wootax/20921:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '59467'
+    location_type: postcode
+  name: TETON
+  order: '0'
+  priority: '0'
+  rate: '0'
+  shipping: '0'
+  state: MT
+wootax/20922:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '59468'
+    location_type: postcode
+  name: TETON
+  order: '0'
+  priority: '0'
+  rate: '0'
+  shipping: '0'
+  state: MT
+wootax/20923:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '59469'
+    location_type: postcode
+  name: JUDITH BASIN
+  order: '0'
+  priority: '0'
+  rate: '0'
+  shipping: '0'
+  state: MT
+wootax/20924:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '59471'
+    location_type: postcode
+  name: FERGUS
+  order: '0'
+  priority: '0'
+  rate: '0'
+  shipping: '0'
+  state: MT
+wootax/20925:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '59472'
+    location_type: postcode
+  name: CASCADE
+  order: '0'
+  priority: '0'
+  rate: '0'
+  shipping: '0'
+  state: MT
+wootax/20926:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '59474'
+    location_type: postcode
+  name: SHELBY
+  order: '0'
+  priority: '0'
+  rate: '0'
+  shipping: '0'
+  state: MT
+wootax/20927:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '59477'
+    location_type: postcode
+  name: CASCADE
+  order: '0'
+  priority: '0'
+  rate: '0'
+  shipping: '0'
+  state: MT
+wootax/20928:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '59479'
+    location_type: postcode
+  name: JUDITH BASIN
+  order: '0'
+  priority: '0'
+  rate: '0'
+  shipping: '0'
+  state: MT
+wootax/20929:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '59480'
+    location_type: postcode
+  name: CASCADE
+  order: '0'
+  priority: '0'
+  rate: '0'
+  shipping: '0'
+  state: MT
+wootax/20930:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '59482'
+    location_type: postcode
+  name: TOOLE
+  order: '0'
+  priority: '0'
+  rate: '0'
+  shipping: '0'
+  state: MT
+wootax/20931:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '59483'
+    location_type: postcode
+  name: CASCADE
+  order: '0'
+  priority: '0'
+  rate: '0'
+  shipping: '0'
+  state: MT
+wootax/20932:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '59484'
+    location_type: postcode
+  name: TOOLE
+  order: '0'
+  priority: '0'
+  rate: '0'
+  shipping: '0'
+  state: MT
+wootax/20933:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '59485'
+    location_type: postcode
+  name: MONTANA STATE
+  order: '0'
+  priority: '0'
+  rate: '0'
+  shipping: '0'
+  state: MT
+wootax/20934:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '59486'
+    location_type: postcode
+  name: PONDERA
+  order: '0'
+  priority: '0'
+  rate: '0'
+  shipping: '0'
+  state: MT
+wootax/20935:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '59487'
+    location_type: postcode
+  name: CASCADE
+  order: '0'
+  priority: '0'
+  rate: '0'
+  shipping: '0'
+  state: MT
+wootax/20936:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '59489'
+    location_type: postcode
+  name: FERGUS
+  order: '0'
+  priority: '0'
+  rate: '0'
+  shipping: '0'
+  state: MT
+wootax/20937:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '59501'
+    location_type: postcode
+  name: HAVRE
+  order: '0'
+  priority: '0'
+  rate: '0'
+  shipping: '0'
+  state: MT
+wootax/20938:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '59520'
+    location_type: postcode
+  name: CHOUTEAU
+  order: '0'
+  priority: '0'
+  rate: '0'
+  shipping: '0'
+  state: MT
+wootax/20939:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '59521'
+    location_type: postcode
+  name: CHOUTEAU
+  order: '0'
+  priority: '0'
+  rate: '0'
+  shipping: '0'
+  state: MT
+wootax/20940:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '59522'
+    location_type: postcode
+  name: CHESTER
+  order: '0'
+  priority: '0'
+  rate: '0'
+  shipping: '0'
+  state: MT
+wootax/20941:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '59523'
+    location_type: postcode
+  name: BLAINE
+  order: '0'
+  priority: '0'
+  rate: '0'
+  shipping: '0'
+  state: MT
+wootax/20942:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '59524'
+    location_type: postcode
+  name: PHILLIPS
+  order: '0'
+  priority: '0'
+  rate: '0'
+  shipping: '0'
+  state: MT
+wootax/20943:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '59525'
+    location_type: postcode
+  name: HILL
+  order: '0'
+  priority: '0'
+  rate: '0'
+  shipping: '0'
+  state: MT
+wootax/20944:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '59526'
+    location_type: postcode
+  name: BLAINE
+  order: '0'
+  priority: '0'
+  rate: '0'
+  shipping: '0'
+  state: MT
+wootax/20945:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '59527'
+    location_type: postcode
+  name: BLAINE
+  order: '0'
+  priority: '0'
+  rate: '0'
+  shipping: '0'
+  state: MT
+wootax/20946:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '59528'
+    location_type: postcode
+  name: HINGHAM
+  order: '0'
+  priority: '0'
+  rate: '0'
+  shipping: '0'
+  state: MT
+wootax/20947:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '59529'
+    location_type: postcode
+  name: BLAINE
+  order: '0'
+  priority: '0'
+  rate: '0'
+  shipping: '0'
+  state: MT
+wootax/20948:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '59530'
+    location_type: postcode
+  name: HILL
+  order: '0'
+  priority: '0'
+  rate: '0'
+  shipping: '0'
+  state: MT
+wootax/20949:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '59531'
+    location_type: postcode
+  name: LIBERTY
+  order: '0'
+  priority: '0'
+  rate: '0'
+  shipping: '0'
+  state: MT
+wootax/20950:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '59532'
+    location_type: postcode
+  name: HILL
+  order: '0'
+  priority: '0'
+  rate: '0'
+  shipping: '0'
+  state: MT
+wootax/20951:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '59535'
+    location_type: postcode
+  name: BLAINE
+  order: '0'
+  priority: '0'
+  rate: '0'
+  shipping: '0'
+  state: MT
+wootax/20952:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '59537'
+    location_type: postcode
+  name: PHILLIPS
+  order: '0'
+  priority: '0'
+  rate: '0'
+  shipping: '0'
+  state: MT
+wootax/20953:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '59538'
+    location_type: postcode
+  name: PHILLIPS
+  order: '0'
+  priority: '0'
+  rate: '0'
+  shipping: '0'
+  state: MT
+wootax/20954:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '59540'
+    location_type: postcode
+  name: HILL
+  order: '0'
+  priority: '0'
+  rate: '0'
+  shipping: '0'
+  state: MT
+wootax/20955:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '59542'
+    location_type: postcode
+  name: BLAINE
+  order: '0'
+  priority: '0'
+  rate: '0'
+  shipping: '0'
+  state: MT
+wootax/20956:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '59544'
+    location_type: postcode
+  name: PHILLIPS
+  order: '0'
+  priority: '0'
+  rate: '0'
+  shipping: '0'
+  state: MT
+wootax/20957:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '59545'
+    location_type: postcode
+  name: TOOLE
+  order: '0'
+  priority: '0'
+  rate: '0'
+  shipping: '0'
+  state: MT
+wootax/20958:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '59546'
+    location_type: postcode
+  name: PHILLIPS
+  order: '0'
+  priority: '0'
+  rate: '0'
+  shipping: '0'
+  state: MT
+wootax/20959:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '59547'
+    location_type: postcode
+  name: BLAINE
+  order: '0'
+  priority: '0'
+  rate: '0'
+  shipping: '0'
+  state: MT
+wootax/20960:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '59601'
+    location_type: postcode
+  name: HELENA
+  order: '0'
+  priority: '0'
+  rate: '0'
+  shipping: '0'
+  state: MT
+wootax/20961:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '59602'
+    location_type: postcode
+  name: LEWIS AND CLARK
+  order: '0'
+  priority: '0'
+  rate: '0'
+  shipping: '0'
+  state: MT
+wootax/20962:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '59604'
+    location_type: postcode
+  name: HELENA
+  order: '0'
+  priority: '0'
+  rate: '0'
+  shipping: '0'
+  state: MT
+wootax/20963:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '59620'
+    location_type: postcode
+  name: MONTANA STATE
+  order: '0'
+  priority: '0'
+  rate: '0'
+  shipping: '0'
+  state: MT
+wootax/20964:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '59623'
+    location_type: postcode
+  name: HELENA
+  order: '0'
+  priority: '0'
+  rate: '0'
+  shipping: '0'
+  state: MT
+wootax/20965:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '59624'
+    location_type: postcode
+  name: HELENA
+  order: '0'
+  priority: '0'
+  rate: '0'
+  shipping: '0'
+  state: MT
+wootax/20966:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '59625'
+    location_type: postcode
+  name: MONTANA STATE
+  order: '0'
+  priority: '0'
+  rate: '0'
+  shipping: '0'
+  state: MT
+wootax/20967:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '59626'
+    location_type: postcode
+  name: HELENA
+  order: '0'
+  priority: '0'
+  rate: '0'
+  shipping: '0'
+  state: MT
+wootax/20968:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '59631'
+    location_type: postcode
+  name: JEFFERSON
+  order: '0'
+  priority: '0'
+  rate: '0'
+  shipping: '0'
+  state: MT
+wootax/20969:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '59632'
+    location_type: postcode
+  name: BOULDER
+  order: '0'
+  priority: '0'
+  rate: '0'
+  shipping: '0'
+  state: MT
+wootax/20970:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '59633'
+    location_type: postcode
+  name: LEWIS AND CLARK
+  order: '0'
+  priority: '0'
+  rate: '0'
+  shipping: '0'
+  state: MT
+wootax/20971:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '59634'
+    location_type: postcode
+  name: JEFFERSON
+  order: '0'
+  priority: '0'
+  rate: '0'
+  shipping: '0'
+  state: MT
+wootax/20972:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '59635'
+    location_type: postcode
+  name: LEWIS AND CLARK
+  order: '0'
+  priority: '0'
+  rate: '0'
+  shipping: '0'
+  state: MT
+wootax/20973:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '59636'
+    location_type: postcode
+  name: LEWIS AND CLARK
+  order: '0'
+  priority: '0'
+  rate: '0'
+  shipping: '0'
+  state: MT
+wootax/20974:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '59638'
+    location_type: postcode
+  name: JEFFERSON
+  order: '0'
+  priority: '0'
+  rate: '0'
+  shipping: '0'
+  state: MT
+wootax/20975:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '59639'
+    location_type: postcode
+  name: LEWIS AND CLARK
+  order: '0'
+  priority: '0'
+  rate: '0'
+  shipping: '0'
+  state: MT
+wootax/20976:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '59640'
+    location_type: postcode
+  name: LEWIS AND CLARK
+  order: '0'
+  priority: '0'
+  rate: '0'
+  shipping: '0'
+  state: MT
+wootax/20977:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '59641'
+    location_type: postcode
+  name: BROADWATER
+  order: '0'
+  priority: '0'
+  rate: '0'
+  shipping: '0'
+  state: MT
+wootax/20978:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '59642'
+    location_type: postcode
+  name: MEAGHER
+  order: '0'
+  priority: '0'
+  rate: '0'
+  shipping: '0'
+  state: MT
+wootax/20979:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '59643'
+    location_type: postcode
+  name: BROADWATER
+  order: '0'
+  priority: '0'
+  rate: '0'
+  shipping: '0'
+  state: MT
+wootax/20980:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '59644'
+    location_type: postcode
+  name: TOWNSEND
+  order: '0'
+  priority: '0'
+  rate: '0'
+  shipping: '0'
+  state: MT
+wootax/20981:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '59645'
+    location_type: postcode
+  name: WHITE SULPHUR SPRINGS
+  order: '0'
+  priority: '0'
+  rate: '0'
+  shipping: '0'
+  state: MT
+wootax/20982:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '59647'
+    location_type: postcode
+  name: BROADWATER
+  order: '0'
+  priority: '0'
+  rate: '0'
+  shipping: '0'
+  state: MT
+wootax/20983:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '59648'
+    location_type: postcode
+  name: LEWIS AND CLARK
+  order: '0'
+  priority: '0'
+  rate: '0'
+  shipping: '0'
+  state: MT
+wootax/20984:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '59701'
+    location_type: postcode
+  name: BUTTE
+  order: '0'
+  priority: '0'
+  rate: '0'
+  shipping: '0'
+  state: MT
+wootax/20985:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '59702'
+    location_type: postcode
+  name: BUTTE
+  order: '0'
+  priority: '0'
+  rate: '0'
+  shipping: '0'
+  state: MT
+wootax/20986:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '59703'
+    location_type: postcode
+  name: WALKERVILLE
+  order: '0'
+  priority: '0'
+  rate: '0'
+  shipping: '0'
+  state: MT
+wootax/20987:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '59707'
+    location_type: postcode
+  name: BUTTE
+  order: '0'
+  priority: '0'
+  rate: '0'
+  shipping: '0'
+  state: MT
+wootax/20988:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '59710'
+    location_type: postcode
+  name: MADISON
+  order: '0'
+  priority: '0'
+  rate: '0'
+  shipping: '0'
+  state: MT
+wootax/20989:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '59711'
+    location_type: postcode
+  name: ANACONDA
+  order: '0'
+  priority: '0'
+  rate: '0'
+  shipping: '0'
+  state: MT
+wootax/20990:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '59713'
+    location_type: postcode
+  name: MONTANA STATE
+  order: '0'
+  priority: '0'
+  rate: '0'
+  shipping: '0'
+  state: MT
+wootax/20991:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '59714'
+    location_type: postcode
+  name: GALLATIN
+  order: '0'
+  priority: '0'
+  rate: '0'
+  shipping: '0'
+  state: MT
+wootax/20992:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '59715'
+    location_type: postcode
+  name: BOZEMAN
+  order: '0'
+  priority: '0'
+  rate: '0'
+  shipping: '0'
+  state: MT
+wootax/20993:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '59716'
+    location_type: postcode
+  name: BIG SKY RESORT AREA
+  order: '0'
+  priority: '0'
+  rate: '0'
+  shipping: '0'
+  state: MT
+wootax/20994:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '59717'
+    location_type: postcode
+  name: BOZEMAN
+  order: '0'
+  priority: '0'
+  rate: '0'
+  shipping: '0'
+  state: MT
+wootax/20995:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '59718'
+    location_type: postcode
+  name: BOZEMAN
+  order: '0'
+  priority: '0'
+  rate: '0'
+  shipping: '0'
+  state: MT
+wootax/20996:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '59719'
+    location_type: postcode
+  name: GALLATIN
+  order: '0'
+  priority: '0'
+  rate: '0'
+  shipping: '0'
+  state: MT
+wootax/20997:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '59720'
+    location_type: postcode
+  name: MADISON
+  order: '0'
+  priority: '0'
+  rate: '0'
+  shipping: '0'
+  state: MT
+wootax/20998:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '59721'
+    location_type: postcode
+  name: MADISON
+  order: '0'
+  priority: '0'
+  rate: '0'
+  shipping: '0'
+  state: MT
+wootax/20999:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '59722'
+    location_type: postcode
+  name: DEER LODGE
+  order: '0'
+  priority: '0'
+  rate: '0'
+  shipping: '0'
+  state: MT
+wootax/21000:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '59724'
+    location_type: postcode
+  name: MONTANA STATE
+  order: '0'
+  priority: '0'
+  rate: '0'
+  shipping: '0'
+  state: MT
+wootax/21001:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '59725'
+    location_type: postcode
+  name: BEAVERHEAD
+  order: '0'
+  priority: '0'
+  rate: '0'
+  shipping: '0'
+  state: MT
+wootax/21002:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '59727'
+    location_type: postcode
+  name: BUTTE
+  order: '0'
+  priority: '0'
+  rate: '0'
+  shipping: '0'
+  state: MT
+wootax/21003:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '59728'
+    location_type: postcode
+  name: POWELL
+  order: '0'
+  priority: '0'
+  rate: '0'
+  shipping: '0'
+  state: MT
+wootax/21004:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '59729'
+    location_type: postcode
+  name: MADISON
+  order: '0'
+  priority: '0'
+  rate: '0'
+  shipping: '0'
+  state: MT
+wootax/21005:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '59730'
+    location_type: postcode
+  name: GALLATIN
+  order: '0'
+  priority: '0'
+  rate: '0'
+  shipping: '0'
+  state: MT
+wootax/21006:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '59731'
+    location_type: postcode
+  name: POWELL
+  order: '0'
+  priority: '0'
+  rate: '0'
+  shipping: '0'
+  state: MT
+wootax/21007:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '59732'
+    location_type: postcode
+  name: BEAVERHEAD
+  order: '0'
+  priority: '0'
+  rate: '0'
+  shipping: '0'
+  state: MT
+wootax/21008:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '59733'
+    location_type: postcode
+  name: POWELL
+  order: '0'
+  priority: '0'
+  rate: '0'
+  shipping: '0'
+  state: MT
+wootax/21009:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '59735'
+    location_type: postcode
+  name: MADISON
+  order: '0'
+  priority: '0'
+  rate: '0'
+  shipping: '0'
+  state: MT
+wootax/21010:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '59736'
+    location_type: postcode
+  name: MONTANA STATE
+  order: '0'
+  priority: '0'
+  rate: '0'
+  shipping: '0'
+  state: MT
+wootax/21011:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '59739'
+    location_type: postcode
+  name: BEAVERHEAD
+  order: '0'
+  priority: '0'
+  rate: '0'
+  shipping: '0'
+  state: MT
+wootax/21012:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '59740'
+    location_type: postcode
+  name: MADISON
+  order: '0'
+  priority: '0'
+  rate: '0'
+  shipping: '0'
+  state: MT
+wootax/21013:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '59741'
+    location_type: postcode
+  name: GALLATIN
+  order: '0'
+  priority: '0'
+  rate: '0'
+  shipping: '0'
+  state: MT
+wootax/21014:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '59743'
+    location_type: postcode
+  name: BUTTE
+  order: '0'
+  priority: '0'
+  rate: '0'
+  shipping: '0'
+  state: MT
+wootax/21015:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '59745'
+    location_type: postcode
+  name: MADISON
+  order: '0'
+  priority: '0'
+  rate: '0'
+  shipping: '0'
+  state: MT
+wootax/21016:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '59746'
+    location_type: postcode
+  name: BEAVERHEAD
+  order: '0'
+  priority: '0'
+  rate: '0'
+  shipping: '0'
+  state: MT
+wootax/21017:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '59747'
+    location_type: postcode
+  name: MADISON
+  order: '0'
+  priority: '0'
+  rate: '0'
+  shipping: '0'
+  state: MT
+wootax/21018:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '59748'
+    location_type: postcode
+  name: MONTANA STATE
+  order: '0'
+  priority: '0'
+  rate: '0'
+  shipping: '0'
+  state: MT
+wootax/21019:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '59749'
+    location_type: postcode
+  name: MADISON
+  order: '0'
+  priority: '0'
+  rate: '0'
+  shipping: '0'
+  state: MT
+wootax/21020:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '59750'
+    location_type: postcode
+  name: BUTTE
+  order: '0'
+  priority: '0'
+  rate: '0'
+  shipping: '0'
+  state: MT
+wootax/21021:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '59751'
+    location_type: postcode
+  name: MADISON
+  order: '0'
+  priority: '0'
+  rate: '0'
+  shipping: '0'
+  state: MT
+wootax/21022:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '59752'
+    location_type: postcode
+  name: GALLATIN
+  order: '0'
+  priority: '0'
+  rate: '0'
+  shipping: '0'
+  state: MT
+wootax/21023:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '59754'
+    location_type: postcode
+  name: MADISON
+  order: '0'
+  priority: '0'
+  rate: '0'
+  shipping: '0'
+  state: MT
+wootax/21024:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '59755'
+    location_type: postcode
+  name: VIRGINIA CITY
+  order: '0'
+  priority: '0'
+  rate: '0'
+  shipping: '0'
+  state: MT
+wootax/21025:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '59756'
+    location_type: postcode
+  name: ANACONDA
+  order: '0'
+  priority: '0'
+  rate: '0'
+  shipping: '0'
+  state: MT
+wootax/21026:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '59758'
+    location_type: postcode
+  name: GALLATIN
+  order: '0'
+  priority: '0'
+  rate: '0'
+  shipping: '0'
+  state: MT
+wootax/21027:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '59759'
+    location_type: postcode
+  name: JEFFERSON
+  order: '0'
+  priority: '0'
+  rate: '0'
+  shipping: '0'
+  state: MT
+wootax/21028:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '59760'
+    location_type: postcode
+  name: GALLATIN
+  order: '0'
+  priority: '0'
+  rate: '0'
+  shipping: '0'
+  state: MT
+wootax/21029:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '59761'
+    location_type: postcode
+  name: BEAVERHEAD
+  order: '0'
+  priority: '0'
+  rate: '0'
+  shipping: '0'
+  state: MT
+wootax/21030:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '59762'
+    location_type: postcode
+  name: ANACONDA
+  order: '0'
+  priority: '0'
+  rate: '0'
+  shipping: '0'
+  state: MT
+wootax/21031:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '59771'
+    location_type: postcode
+  name: BOZEMAN
+  order: '0'
+  priority: '0'
+  rate: '0'
+  shipping: '0'
+  state: MT
+wootax/21032:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '59772'
+    location_type: postcode
+  name: BOZEMAN
+  order: '0'
+  priority: '0'
+  rate: '0'
+  shipping: '0'
+  state: MT
+wootax/21033:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '59801'
+    location_type: postcode
+  name: 'MISSOULA '
+  order: '0'
+  priority: '0'
+  rate: '0'
+  shipping: '0'
+  state: MT
+wootax/21034:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '59802'
+    location_type: postcode
+  name: 'MISSOULA '
+  order: '0'
+  priority: '0'
+  rate: '0'
+  shipping: '0'
+  state: MT
+wootax/21035:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '59803'
+    location_type: postcode
+  name: 'MISSOULA '
+  order: '0'
+  priority: '0'
+  rate: '0'
+  shipping: '0'
+  state: MT
+wootax/21036:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '59804'
+    location_type: postcode
+  name: MISSOULA
+  order: '0'
+  priority: '0'
+  rate: '0'
+  shipping: '0'
+  state: MT
+wootax/21037:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '59806'
+    location_type: postcode
+  name: 'MISSOULA '
+  order: '0'
+  priority: '0'
+  rate: '0'
+  shipping: '0'
+  state: MT
+wootax/21038:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '59807'
+    location_type: postcode
+  name: 'MISSOULA '
+  order: '0'
+  priority: '0'
+  rate: '0'
+  shipping: '0'
+  state: MT
+wootax/21039:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '59808'
+    location_type: postcode
+  name: 'MISSOULA '
+  order: '0'
+  priority: '0'
+  rate: '0'
+  shipping: '0'
+  state: MT
+wootax/21040:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '59812'
+    location_type: postcode
+  name: 'MISSOULA '
+  order: '0'
+  priority: '0'
+  rate: '0'
+  shipping: '0'
+  state: MT
+wootax/21041:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '59820'
+    location_type: postcode
+  name: MISSOULA
+  order: '0'
+  priority: '0'
+  rate: '0'
+  shipping: '0'
+  state: MT
+wootax/21042:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '59821'
+    location_type: postcode
+  name: LAKE
+  order: '0'
+  priority: '0'
+  rate: '0'
+  shipping: '0'
+  state: MT
+wootax/21043:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '59823'
+    location_type: postcode
+  name: MISSOULA
+  order: '0'
+  priority: '0'
+  rate: '0'
+  shipping: '0'
+  state: MT
+wootax/21044:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '59824'
+    location_type: postcode
+  name: LAKE
+  order: '0'
+  priority: '0'
+  rate: '0'
+  shipping: '0'
+  state: MT
+wootax/21045:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '59825'
+    location_type: postcode
+  name: MISSOULA
+  order: '0'
+  priority: '0'
+  rate: '0'
+  shipping: '0'
+  state: MT
+wootax/21046:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '59826'
+    location_type: postcode
+  name: MISSOULA
+  order: '0'
+  priority: '0'
+  rate: '0'
+  shipping: '0'
+  state: MT
+wootax/21047:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '59827'
+    location_type: postcode
+  name: RAVALLI
+  order: '0'
+  priority: '0'
+  rate: '0'
+  shipping: '0'
+  state: MT
+wootax/21048:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '59828'
+    location_type: postcode
+  name: RAVALLI
+  order: '0'
+  priority: '0'
+  rate: '0'
+  shipping: '0'
+  state: MT
+wootax/21049:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '59829'
+    location_type: postcode
+  name: RAVALLI
+  order: '0'
+  priority: '0'
+  rate: '0'
+  shipping: '0'
+  state: MT
+wootax/21050:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '59830'
+    location_type: postcode
+  name: MONTANA STATE
+  order: '0'
+  priority: '0'
+  rate: '0'
+  shipping: '0'
+  state: MT
+wootax/21051:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '59831'
+    location_type: postcode
+  name: SANDERS
+  order: '0'
+  priority: '0'
+  rate: '0'
+  shipping: '0'
+  state: MT
+wootax/21052:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '59832'
+    location_type: postcode
+  name: GRANITE
+  order: '0'
+  priority: '0'
+  rate: '0'
+  shipping: '0'
+  state: MT
+wootax/21053:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '59833'
+    location_type: postcode
+  name: RAVALLI
+  order: '0'
+  priority: '0'
+  rate: '0'
+  shipping: '0'
+  state: MT
+wootax/21054:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '59834'
+    location_type: postcode
+  name: MISSOULA
+  order: '0'
+  priority: '0'
+  rate: '0'
+  shipping: '0'
+  state: MT
+wootax/21055:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '59835'
+    location_type: postcode
+  name: HAMILTON
+  order: '0'
+  priority: '0'
+  rate: '0'
+  shipping: '0'
+  state: MT
+wootax/21056:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '59837'
+    location_type: postcode
+  name: GRANITE
+  order: '0'
+  priority: '0'
+  rate: '0'
+  shipping: '0'
+  state: MT
+wootax/21057:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '59840'
+    location_type: postcode
+  name: RAVALLI
+  order: '0'
+  priority: '0'
+  rate: '0'
+  shipping: '0'
+  state: MT
+wootax/21058:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '59842'
+    location_type: postcode
+  name: MONTANA STATE
+  order: '0'
+  priority: '0'
+  rate: '0'
+  shipping: '0'
+  state: MT
+wootax/21059:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '59843'
+    location_type: postcode
+  name: POWELL
+  order: '0'
+  priority: '0'
+  rate: '0'
+  shipping: '0'
+  state: MT
+wootax/21060:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '59844'
+    location_type: postcode
+  name: SANDERS
+  order: '0'
+  priority: '0'
+  rate: '0'
+  shipping: '0'
+  state: MT
+wootax/21061:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '59845'
+    location_type: postcode
+  name: SANDERS
+  order: '0'
+  priority: '0'
+  rate: '0'
+  shipping: '0'
+  state: MT
+wootax/21062:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '59846'
+    location_type: postcode
+  name: MISSOULA
+  order: '0'
+  priority: '0'
+  rate: '0'
+  shipping: '0'
+  state: MT
+wootax/21063:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '59847'
+    location_type: postcode
+  name: MISSOULA
+  order: '0'
+  priority: '0'
+  rate: '0'
+  shipping: '0'
+  state: MT
+wootax/21064:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '59848'
+    location_type: postcode
+  name: SANDERS
+  order: '0'
+  priority: '0'
+  rate: '0'
+  shipping: '0'
+  state: MT
+wootax/21065:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '59851'
+    location_type: postcode
+  name: MONTANA STATE
+  order: '0'
+  priority: '0'
+  rate: '0'
+  shipping: '0'
+  state: MT
+wootax/21066:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '59853'
+    location_type: postcode
+  name: SANDERS
+  order: '0'
+  priority: '0'
+  rate: '0'
+  shipping: '0'
+  state: MT
+wootax/21067:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '59854'
+    location_type: postcode
+  name: POWELL
+  order: '0'
+  priority: '0'
+  rate: '0'
+  shipping: '0'
+  state: MT
+wootax/21068:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '59855'
+    location_type: postcode
+  name: MONTANA STATE
+  order: '0'
+  priority: '0'
+  rate: '0'
+  shipping: '0'
+  state: MT
+wootax/21069:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '59856'
+    location_type: postcode
+  name: MONTANA STATE
+  order: '0'
+  priority: '0'
+  rate: '0'
+  shipping: '0'
+  state: MT
+wootax/21070:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '59858'
+    location_type: postcode
+  name: GRANITE
+  order: '0'
+  priority: '0'
+  rate: '0'
+  shipping: '0'
+  state: MT
+wootax/21071:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '59859'
+    location_type: postcode
+  name: SANDERS
+  order: '0'
+  priority: '0'
+  rate: '0'
+  shipping: '0'
+  state: MT
+wootax/21072:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '59860'
+    location_type: postcode
+  name: LAKE
+  order: '0'
+  priority: '0'
+  rate: '0'
+  shipping: '0'
+  state: MT
+wootax/21073:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '59863'
+    location_type: postcode
+  name: LAKE
+  order: '0'
+  priority: '0'
+  rate: '0'
+  shipping: '0'
+  state: MT
+wootax/21074:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '59864'
+    location_type: postcode
+  name: LAKE
+  order: '0'
+  priority: '0'
+  rate: '0'
+  shipping: '0'
+  state: MT
+wootax/21075:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '59865'
+    location_type: postcode
+  name: LAKE
+  order: '0'
+  priority: '0'
+  rate: '0'
+  shipping: '0'
+  state: MT
+wootax/21076:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '59866'
+    location_type: postcode
+  name: MINERAL
+  order: '0'
+  priority: '0'
+  rate: '0'
+  shipping: '0'
+  state: MT
+wootax/21077:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '59867'
+    location_type: postcode
+  name: MINERAL
+  order: '0'
+  priority: '0'
+  rate: '0'
+  shipping: '0'
+  state: MT
+wootax/21078:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '59868'
+    location_type: postcode
+  name: MISSOULA
+  order: '0'
+  priority: '0'
+  rate: '0'
+  shipping: '0'
+  state: MT
+wootax/21079:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '59870'
+    location_type: postcode
+  name: RAVALLI
+  order: '0'
+  priority: '0'
+  rate: '0'
+  shipping: '0'
+  state: MT
+wootax/21080:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '59871'
+    location_type: postcode
+  name: RAVALLI
+  order: '0'
+  priority: '0'
+  rate: '0'
+  shipping: '0'
+  state: MT
+wootax/21081:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '59872'
+    location_type: postcode
+  name: MINERAL
+  order: '0'
+  priority: '0'
+  rate: '0'
+  shipping: '0'
+  state: MT
+wootax/21082:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '59873'
+    location_type: postcode
+  name: SANDERS
+  order: '0'
+  priority: '0'
+  rate: '0'
+  shipping: '0'
+  state: MT
+wootax/21083:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '59874'
+    location_type: postcode
+  name: SANDERS
+  order: '0'
+  priority: '0'
+  rate: '0'
+  shipping: '0'
+  state: MT
+wootax/21084:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '59875'
+    location_type: postcode
+  name: RAVALLI
+  order: '0'
+  priority: '0'
+  rate: '0'
+  shipping: '0'
+  state: MT
+wootax/21085:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '59901'
+    location_type: postcode
+  name: FLATHEAD
+  order: '0'
+  priority: '0'
+  rate: '0'
+  shipping: '0'
+  state: MT
+wootax/21086:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '59903'
+    location_type: postcode
+  name: KALISPELL
+  order: '0'
+  priority: '0'
+  rate: '0'
+  shipping: '0'
+  state: MT
+wootax/21087:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '59904'
+    location_type: postcode
+  name: KALISPELL
+  order: '0'
+  priority: '0'
+  rate: '0'
+  shipping: '0'
+  state: MT
+wootax/21088:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '59910'
+    location_type: postcode
+  name: LAKE
+  order: '0'
+  priority: '0'
+  rate: '0'
+  shipping: '0'
+  state: MT
+wootax/21089:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '59911'
+    location_type: postcode
+  name: FLATHEAD
+  order: '0'
+  priority: '0'
+  rate: '0'
+  shipping: '0'
+  state: MT
+wootax/21090:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '59912'
+    location_type: postcode
+  name: FLATHEAD
+  order: '0'
+  priority: '0'
+  rate: '0'
+  shipping: '0'
+  state: MT
+wootax/21091:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '59913'
+    location_type: postcode
+  name: MONTANA STATE
+  order: '0'
+  priority: '0'
+  rate: '0'
+  shipping: '0'
+  state: MT
+wootax/21092:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '59914'
+    location_type: postcode
+  name: LAKE
+  order: '0'
+  priority: '0'
+  rate: '0'
+  shipping: '0'
+  state: MT
+wootax/21093:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '59915'
+    location_type: postcode
+  name: LAKE
+  order: '0'
+  priority: '0'
+  rate: '0'
+  shipping: '0'
+  state: MT
+wootax/21094:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '59916'
+    location_type: postcode
+  name: FLATHEAD
+  order: '0'
+  priority: '0'
+  rate: '0'
+  shipping: '0'
+  state: MT
+wootax/21095:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '59917'
+    location_type: postcode
+  name: LINCOLN
+  order: '0'
+  priority: '0'
+  rate: '0'
+  shipping: '0'
+  state: MT
+wootax/21096:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '59918'
+    location_type: postcode
+  name: LINCOLN
+  order: '0'
+  priority: '0'
+  rate: '0'
+  shipping: '0'
+  state: MT
+wootax/21097:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '59919'
+    location_type: postcode
+  name: FLATHEAD
+  order: '0'
+  priority: '0'
+  rate: '0'
+  shipping: '0'
+  state: MT
+wootax/21098:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '59920'
+    location_type: postcode
+  name: FLATHEAD
+  order: '0'
+  priority: '0'
+  rate: '0'
+  shipping: '0'
+  state: MT
+wootax/21099:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '59921'
+    location_type: postcode
+  name: FLATHEAD
+  order: '0'
+  priority: '0'
+  rate: '0'
+  shipping: '0'
+  state: MT
+wootax/21100:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '59922'
+    location_type: postcode
+  name: FLATHEAD
+  order: '0'
+  priority: '0'
+  rate: '0'
+  shipping: '0'
+  state: MT
+wootax/21101:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '59923'
+    location_type: postcode
+  name: LINCOLN
+  order: '0'
+  priority: '0'
+  rate: '0'
+  shipping: '0'
+  state: MT
+wootax/21102:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '59925'
+    location_type: postcode
+  name: FLATHEAD
+  order: '0'
+  priority: '0'
+  rate: '0'
+  shipping: '0'
+  state: MT
+wootax/21103:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '59926'
+    location_type: postcode
+  name: FLATHEAD
+  order: '0'
+  priority: '0'
+  rate: '0'
+  shipping: '0'
+  state: MT
+wootax/21104:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '59927'
+    location_type: postcode
+  name: FLATHEAD
+  order: '0'
+  priority: '0'
+  rate: '0'
+  shipping: '0'
+  state: MT
+wootax/21105:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '59928'
+    location_type: postcode
+  name: FLATHEAD
+  order: '0'
+  priority: '0'
+  rate: '0'
+  shipping: '0'
+  state: MT
+wootax/21106:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '59929'
+    location_type: postcode
+  name: LAKE
+  order: '0'
+  priority: '0'
+  rate: '0'
+  shipping: '0'
+  state: MT
+wootax/21107:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '59930'
+    location_type: postcode
+  name: LINCOLN
+  order: '0'
+  priority: '0'
+  rate: '0'
+  shipping: '0'
+  state: MT
+wootax/21108:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '59931'
+    location_type: postcode
+  name: LAKE
+  order: '0'
+  priority: '0'
+  rate: '0'
+  shipping: '0'
+  state: MT
+wootax/21109:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '59932'
+    location_type: postcode
+  name: FLATHEAD
+  order: '0'
+  priority: '0'
+  rate: '0'
+  shipping: '0'
+  state: MT
+wootax/21110:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '59933'
+    location_type: postcode
+  name: LINCOLN
+  order: '0'
+  priority: '0'
+  rate: '0'
+  shipping: '0'
+  state: MT
+wootax/21111:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '59934'
+    location_type: postcode
+  name: LINCOLN
+  order: '0'
+  priority: '0'
+  rate: '0'
+  shipping: '0'
+  state: MT
+wootax/21112:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '59935'
+    location_type: postcode
+  name: LINCOLN
+  order: '0'
+  priority: '0'
+  rate: '0'
+  shipping: '0'
+  state: MT
+wootax/21113:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '59936'
+    location_type: postcode
+  name: FLATHEAD
+  order: '0'
+  priority: '0'
+  rate: '0'
+  shipping: '0'
+  state: MT
+wootax/21114:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '59937'
+    location_type: postcode
+  name: WHITEFISH
+  order: '0'
+  priority: '0'
+  rate: '0'
+  shipping: '0'
+  state: MT

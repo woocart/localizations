@@ -1,0 +1,1157 @@
+wootax/6004:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '19701'
+    location_type: postcode
+  name: NEW CASTLE
+  order: '0'
+  priority: '0'
+  rate: '0'
+  shipping: '0'
+  state: DE
+wootax/6005:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '19702'
+    location_type: postcode
+  name: NEW CASTLE
+  order: '0'
+  priority: '0'
+  rate: '0'
+  shipping: '0'
+  state: DE
+wootax/6006:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '19703'
+    location_type: postcode
+  name: NEW CASTLE
+  order: '0'
+  priority: '0'
+  rate: '0'
+  shipping: '0'
+  state: DE
+wootax/6007:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '19706'
+    location_type: postcode
+  name: DELAWARE CITY
+  order: '0'
+  priority: '0'
+  rate: '0'
+  shipping: '0'
+  state: DE
+wootax/6008:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '19707'
+    location_type: postcode
+  name: NEW CASTLE
+  order: '0'
+  priority: '0'
+  rate: '0'
+  shipping: '0'
+  state: DE
+wootax/6009:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '19708'
+    location_type: postcode
+  name: NEW CASTLE
+  order: '0'
+  priority: '0'
+  rate: '0'
+  shipping: '0'
+  state: DE
+wootax/6010:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '19709'
+    location_type: postcode
+  name: MIDDLETOWN
+  order: '0'
+  priority: '0'
+  rate: '0'
+  shipping: '0'
+  state: DE
+wootax/6011:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '19710'
+    location_type: postcode
+  name: DELAWARE STATE
+  order: '0'
+  priority: '0'
+  rate: '0'
+  shipping: '0'
+  state: DE
+wootax/6012:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '19711'
+    location_type: postcode
+  name: NEWARK
+  order: '0'
+  priority: '0'
+  rate: '0'
+  shipping: '0'
+  state: DE
+wootax/6013:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '19712'
+    location_type: postcode
+  name: NEW CASTLE
+  order: '0'
+  priority: '0'
+  rate: '0'
+  shipping: '0'
+  state: DE
+wootax/6014:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '19713'
+    location_type: postcode
+  name: NEW CASTLE
+  order: '0'
+  priority: '0'
+  rate: '0'
+  shipping: '0'
+  state: DE
+wootax/6015:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '19714'
+    location_type: postcode
+  name: NEWARK
+  order: '0'
+  priority: '0'
+  rate: '0'
+  shipping: '0'
+  state: DE
+wootax/6016:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '19715'
+    location_type: postcode
+  name: NEWARK
+  order: '0'
+  priority: '0'
+  rate: '0'
+  shipping: '0'
+  state: DE
+wootax/6017:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '19716'
+    location_type: postcode
+  name: NEWARK
+  order: '0'
+  priority: '0'
+  rate: '0'
+  shipping: '0'
+  state: DE
+wootax/6018:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '19717'
+    location_type: postcode
+  name: NEWARK
+  order: '0'
+  priority: '0'
+  rate: '0'
+  shipping: '0'
+  state: DE
+wootax/6019:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '19718'
+    location_type: postcode
+  name: NEW CASTLE
+  order: '0'
+  priority: '0'
+  rate: '0'
+  shipping: '0'
+  state: DE
+wootax/6020:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '19720'
+    location_type: postcode
+  name: NEW CASTLE
+  order: '0'
+  priority: '0'
+  rate: '0'
+  shipping: '0'
+  state: DE
+wootax/6021:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '19721'
+    location_type: postcode
+  name: NEW CASTLE
+  order: '0'
+  priority: '0'
+  rate: '0'
+  shipping: '0'
+  state: DE
+wootax/6022:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '19725'
+    location_type: postcode
+  name: NEWARK
+  order: '0'
+  priority: '0'
+  rate: '0'
+  shipping: '0'
+  state: DE
+wootax/6023:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '19726'
+    location_type: postcode
+  name: NEWARK
+  order: '0'
+  priority: '0'
+  rate: '0'
+  shipping: '0'
+  state: DE
+wootax/6024:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '19730'
+    location_type: postcode
+  name: ODESSA
+  order: '0'
+  priority: '0'
+  rate: '0'
+  shipping: '0'
+  state: DE
+wootax/6025:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '19731'
+    location_type: postcode
+  name: NEW CASTLE
+  order: '0'
+  priority: '0'
+  rate: '0'
+  shipping: '0'
+  state: DE
+wootax/6026:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '19732'
+    location_type: postcode
+  name: NEW CASTLE
+  order: '0'
+  priority: '0'
+  rate: '0'
+  shipping: '0'
+  state: DE
+wootax/6027:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '19733'
+    location_type: postcode
+  name: NEW CASTLE
+  order: '0'
+  priority: '0'
+  rate: '0'
+  shipping: '0'
+  state: DE
+wootax/6028:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '19734'
+    location_type: postcode
+  name: NEW CASTLE
+  order: '0'
+  priority: '0'
+  rate: '0'
+  shipping: '0'
+  state: DE
+wootax/6029:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '19735'
+    location_type: postcode
+  name: NEW CASTLE
+  order: '0'
+  priority: '0'
+  rate: '0'
+  shipping: '0'
+  state: DE
+wootax/6030:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '19736'
+    location_type: postcode
+  name: NEW CASTLE
+  order: '0'
+  priority: '0'
+  rate: '0'
+  shipping: '0'
+  state: DE
+wootax/6031:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '19801'
+    location_type: postcode
+  name: WILMINGTON
+  order: '0'
+  priority: '0'
+  rate: '0'
+  shipping: '0'
+  state: DE
+wootax/6032:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '19802'
+    location_type: postcode
+  name: WILMINGTON
+  order: '0'
+  priority: '0'
+  rate: '0'
+  shipping: '0'
+  state: DE
+wootax/6033:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '19803'
+    location_type: postcode
+  name: NEW CASTLE
+  order: '0'
+  priority: '0'
+  rate: '0'
+  shipping: '0'
+  state: DE
+wootax/6034:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '19804'
+    location_type: postcode
+  name: NEW CASTLE
+  order: '0'
+  priority: '0'
+  rate: '0'
+  shipping: '0'
+  state: DE
+wootax/6035:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '19805'
+    location_type: postcode
+  name: WILMINGTON
+  order: '0'
+  priority: '0'
+  rate: '0'
+  shipping: '0'
+  state: DE
+wootax/6036:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '19806'
+    location_type: postcode
+  name: WILMINGTON
+  order: '0'
+  priority: '0'
+  rate: '0'
+  shipping: '0'
+  state: DE
+wootax/6037:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '19807'
+    location_type: postcode
+  name: NEW CASTLE
+  order: '0'
+  priority: '0'
+  rate: '0'
+  shipping: '0'
+  state: DE
+wootax/6038:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '19808'
+    location_type: postcode
+  name: NEW CASTLE
+  order: '0'
+  priority: '0'
+  rate: '0'
+  shipping: '0'
+  state: DE
+wootax/6039:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '19809'
+    location_type: postcode
+  name: NEW CASTLE
+  order: '0'
+  priority: '0'
+  rate: '0'
+  shipping: '0'
+  state: DE
+wootax/6040:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '19810'
+    location_type: postcode
+  name: NEW CASTLE
+  order: '0'
+  priority: '0'
+  rate: '0'
+  shipping: '0'
+  state: DE
+wootax/6041:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '19884'
+    location_type: postcode
+  name: WILMINGTON
+  order: '0'
+  priority: '0'
+  rate: '0'
+  shipping: '0'
+  state: DE
+wootax/6042:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '19890'
+    location_type: postcode
+  name: WILMINGTON
+  order: '0'
+  priority: '0'
+  rate: '0'
+  shipping: '0'
+  state: DE
+wootax/6043:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '19892'
+    location_type: postcode
+  name: NEW CASTLE
+  order: '0'
+  priority: '0'
+  rate: '0'
+  shipping: '0'
+  state: DE
+wootax/6044:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '19894'
+    location_type: postcode
+  name: WILMINGTON
+  order: '0'
+  priority: '0'
+  rate: '0'
+  shipping: '0'
+  state: DE
+wootax/6045:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '19895'
+    location_type: postcode
+  name: WILMINGTON
+  order: '0'
+  priority: '0'
+  rate: '0'
+  shipping: '0'
+  state: DE
+wootax/6046:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '19896'
+    location_type: postcode
+  name: WILMINGTON
+  order: '0'
+  priority: '0'
+  rate: '0'
+  shipping: '0'
+  state: DE
+wootax/6047:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '19897'
+    location_type: postcode
+  name: NEW CASTLE
+  order: '0'
+  priority: '0'
+  rate: '0'
+  shipping: '0'
+  state: DE
+wootax/6048:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '19898'
+    location_type: postcode
+  name: WILMINGTON
+  order: '0'
+  priority: '0'
+  rate: '0'
+  shipping: '0'
+  state: DE
+wootax/6049:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '19899'
+    location_type: postcode
+  name: WILMINGTON
+  order: '0'
+  priority: '0'
+  rate: '0'
+  shipping: '0'
+  state: DE
+wootax/6050:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '19901'
+    location_type: postcode
+  name: KENT
+  order: '0'
+  priority: '0'
+  rate: '0'
+  shipping: '0'
+  state: DE
+wootax/6051:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '19902'
+    location_type: postcode
+  name: DOVER
+  order: '0'
+  priority: '0'
+  rate: '0'
+  shipping: '0'
+  state: DE
+wootax/6052:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '19903'
+    location_type: postcode
+  name: DOVER
+  order: '0'
+  priority: '0'
+  rate: '0'
+  shipping: '0'
+  state: DE
+wootax/6053:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '19904'
+    location_type: postcode
+  name: DOVER
+  order: '0'
+  priority: '0'
+  rate: '0'
+  shipping: '0'
+  state: DE
+wootax/6054:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '19906'
+    location_type: postcode
+  name: DOVER
+  order: '0'
+  priority: '0'
+  rate: '0'
+  shipping: '0'
+  state: DE
+wootax/6055:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '19930'
+    location_type: postcode
+  name: SUSSEX
+  order: '0'
+  priority: '0'
+  rate: '0'
+  shipping: '0'
+  state: DE
+wootax/6056:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '19931'
+    location_type: postcode
+  name: BETHEL
+  order: '0'
+  priority: '0'
+  rate: '0'
+  shipping: '0'
+  state: DE
+wootax/6057:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '19933'
+    location_type: postcode
+  name: SUSSEX
+  order: '0'
+  priority: '0'
+  rate: '0'
+  shipping: '0'
+  state: DE
+wootax/6058:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '19934'
+    location_type: postcode
+  name: KENT
+  order: '0'
+  priority: '0'
+  rate: '0'
+  shipping: '0'
+  state: DE
+wootax/6059:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '19936'
+    location_type: postcode
+  name: CHESWOLD
+  order: '0'
+  priority: '0'
+  rate: '0'
+  shipping: '0'
+  state: DE
+wootax/6060:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '19938'
+    location_type: postcode
+  name: KENT
+  order: '0'
+  priority: '0'
+  rate: '0'
+  shipping: '0'
+  state: DE
+wootax/6061:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '19939'
+    location_type: postcode
+  name: SUSSEX
+  order: '0'
+  priority: '0'
+  rate: '0'
+  shipping: '0'
+  state: DE
+wootax/6062:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '19940'
+    location_type: postcode
+  name: SUSSEX
+  order: '0'
+  priority: '0'
+  rate: '0'
+  shipping: '0'
+  state: DE
+wootax/6063:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '19941'
+    location_type: postcode
+  name: SUSSEX
+  order: '0'
+  priority: '0'
+  rate: '0'
+  shipping: '0'
+  state: DE
+wootax/6064:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '19943'
+    location_type: postcode
+  name: KENT
+  order: '0'
+  priority: '0'
+  rate: '0'
+  shipping: '0'
+  state: DE
+wootax/6065:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '19944'
+    location_type: postcode
+  name: SUSSEX
+  order: '0'
+  priority: '0'
+  rate: '0'
+  shipping: '0'
+  state: DE
+wootax/6066:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '19945'
+    location_type: postcode
+  name: SUSSEX
+  order: '0'
+  priority: '0'
+  rate: '0'
+  shipping: '0'
+  state: DE
+wootax/6067:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '19946'
+    location_type: postcode
+  name: KENT
+  order: '0'
+  priority: '0'
+  rate: '0'
+  shipping: '0'
+  state: DE
+wootax/6068:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '19947'
+    location_type: postcode
+  name: SUSSEX
+  order: '0'
+  priority: '0'
+  rate: '0'
+  shipping: '0'
+  state: DE
+wootax/6069:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '19950'
+    location_type: postcode
+  name: SUSSEX
+  order: '0'
+  priority: '0'
+  rate: '0'
+  shipping: '0'
+  state: DE
+wootax/6070:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '19951'
+    location_type: postcode
+  name: SUSSEX
+  order: '0'
+  priority: '0'
+  rate: '0'
+  shipping: '0'
+  state: DE
+wootax/6071:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '19952'
+    location_type: postcode
+  name: KENT
+  order: '0'
+  priority: '0'
+  rate: '0'
+  shipping: '0'
+  state: DE
+wootax/6072:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '19953'
+    location_type: postcode
+  name: KENT
+  order: '0'
+  priority: '0'
+  rate: '0'
+  shipping: '0'
+  state: DE
+wootax/6073:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '19954'
+    location_type: postcode
+  name: KENT
+  order: '0'
+  priority: '0'
+  rate: '0'
+  shipping: '0'
+  state: DE
+wootax/6074:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '19955'
+    location_type: postcode
+  name: KENTON
+  order: '0'
+  priority: '0'
+  rate: '0'
+  shipping: '0'
+  state: DE
+wootax/6075:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '19956'
+    location_type: postcode
+  name: SUSSEX
+  order: '0'
+  priority: '0'
+  rate: '0'
+  shipping: '0'
+  state: DE
+wootax/6076:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '19958'
+    location_type: postcode
+  name: SUSSEX
+  order: '0'
+  priority: '0'
+  rate: '0'
+  shipping: '0'
+  state: DE
+wootax/6077:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '19960'
+    location_type: postcode
+  name: SUSSEX
+  order: '0'
+  priority: '0'
+  rate: '0'
+  shipping: '0'
+  state: DE
+wootax/6078:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '19961'
+    location_type: postcode
+  name: LITTLE CREEK
+  order: '0'
+  priority: '0'
+  rate: '0'
+  shipping: '0'
+  state: DE
+wootax/6079:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '19962'
+    location_type: postcode
+  name: KENT
+  order: '0'
+  priority: '0'
+  rate: '0'
+  shipping: '0'
+  state: DE
+wootax/6080:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '19963'
+    location_type: postcode
+  name: KENT
+  order: '0'
+  priority: '0'
+  rate: '0'
+  shipping: '0'
+  state: DE
+wootax/6081:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '19964'
+    location_type: postcode
+  name: KENT
+  order: '0'
+  priority: '0'
+  rate: '0'
+  shipping: '0'
+  state: DE
+wootax/6082:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '19966'
+    location_type: postcode
+  name: SUSSEX
+  order: '0'
+  priority: '0'
+  rate: '0'
+  shipping: '0'
+  state: DE
+wootax/6083:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '19967'
+    location_type: postcode
+  name: MILLVILLE
+  order: '0'
+  priority: '0'
+  rate: '0'
+  shipping: '0'
+  state: DE
+wootax/6084:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '19968'
+    location_type: postcode
+  name: SUSSEX
+  order: '0'
+  priority: '0'
+  rate: '0'
+  shipping: '0'
+  state: DE
+wootax/6085:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '19969'
+    location_type: postcode
+  name: SUSSEX
+  order: '0'
+  priority: '0'
+  rate: '0'
+  shipping: '0'
+  state: DE
+wootax/6086:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '19970'
+    location_type: postcode
+  name: SUSSEX
+  order: '0'
+  priority: '0'
+  rate: '0'
+  shipping: '0'
+  state: DE
+wootax/6087:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '19971'
+    location_type: postcode
+  name: SUSSEX
+  order: '0'
+  priority: '0'
+  rate: '0'
+  shipping: '0'
+  state: DE
+wootax/6088:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '19973'
+    location_type: postcode
+  name: SUSSEX
+  order: '0'
+  priority: '0'
+  rate: '0'
+  shipping: '0'
+  state: DE
+wootax/6089:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '19975'
+    location_type: postcode
+  name: SUSSEX
+  order: '0'
+  priority: '0'
+  rate: '0'
+  shipping: '0'
+  state: DE
+wootax/6090:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '19977'
+    location_type: postcode
+  name: KENT
+  order: '0'
+  priority: '0'
+  rate: '0'
+  shipping: '0'
+  state: DE
+wootax/6091:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '19979'
+    location_type: postcode
+  name: KENT
+  order: '0'
+  priority: '0'
+  rate: '0'
+  shipping: '0'
+  state: DE
+wootax/6092:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '19980'
+    location_type: postcode
+  name: WOODSIDE
+  order: '0'
+  priority: '0'
+  rate: '0'
+  shipping: '0'
+  state: DE

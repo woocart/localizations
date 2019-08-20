@@ -1,0 +1,2210 @@
+wootax/31575:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '00601'
+    location_type: postcode
+  name: ADJUNTAS CO
+  order: '0'
+  priority: '0'
+  rate: '11.5'
+  shipping: '0'
+  state: PR
+wootax/31576:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '00602'
+    location_type: postcode
+  name: AGUADA CO
+  order: '0'
+  priority: '0'
+  rate: '11.5'
+  shipping: '0'
+  state: PR
+wootax/31577:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '00603'
+    location_type: postcode
+  name: AGUADILLA CO
+  order: '0'
+  priority: '0'
+  rate: '11.5'
+  shipping: '0'
+  state: PR
+wootax/31578:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '00604'
+    location_type: postcode
+  name: AGUADILLA CO
+  order: '0'
+  priority: '0'
+  rate: '11.5'
+  shipping: '0'
+  state: PR
+wootax/31579:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '00605'
+    location_type: postcode
+  name: AGUADILLA CO
+  order: '0'
+  priority: '0'
+  rate: '11.5'
+  shipping: '0'
+  state: PR
+wootax/31580:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '00606'
+    location_type: postcode
+  name: MARICAO CO
+  order: '0'
+  priority: '0'
+  rate: '11.5'
+  shipping: '0'
+  state: PR
+wootax/31581:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '00610'
+    location_type: postcode
+  name: ANASCO CO
+  order: '0'
+  priority: '0'
+  rate: '11.5'
+  shipping: '0'
+  state: PR
+wootax/31582:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '00611'
+    location_type: postcode
+  name: UTUADO CO
+  order: '0'
+  priority: '0'
+  rate: '11.5'
+  shipping: '0'
+  state: PR
+wootax/31583:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '00612'
+    location_type: postcode
+  name: ARECIBO CO
+  order: '0'
+  priority: '0'
+  rate: '11.5'
+  shipping: '0'
+  state: PR
+wootax/31584:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '00613'
+    location_type: postcode
+  name: ARECIBO CO
+  order: '0'
+  priority: '0'
+  rate: '11.5'
+  shipping: '0'
+  state: PR
+wootax/31585:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '00614'
+    location_type: postcode
+  name: ARECIBO CO
+  order: '0'
+  priority: '0'
+  rate: '11.5'
+  shipping: '0'
+  state: PR
+wootax/31586:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '00616'
+    location_type: postcode
+  name: ARECIBO CO
+  order: '0'
+  priority: '0'
+  rate: '11.5'
+  shipping: '0'
+  state: PR
+wootax/31587:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '00617'
+    location_type: postcode
+  name: BARCELONETA CO
+  order: '0'
+  priority: '0'
+  rate: '11.5'
+  shipping: '0'
+  state: PR
+wootax/31588:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '00622'
+    location_type: postcode
+  name: CABO ROJO CO
+  order: '0'
+  priority: '0'
+  rate: '11.5'
+  shipping: '0'
+  state: PR
+wootax/31589:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '00623'
+    location_type: postcode
+  name: CABO ROJO CO
+  order: '0'
+  priority: '0'
+  rate: '11.5'
+  shipping: '0'
+  state: PR
+wootax/31590:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '00624'
+    location_type: postcode
+  name: PENUELAS CO
+  order: '0'
+  priority: '0'
+  rate: '11.5'
+  shipping: '0'
+  state: PR
+wootax/31591:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '00627'
+    location_type: postcode
+  name: CAMUY CO
+  order: '0'
+  priority: '0'
+  rate: '11.5'
+  shipping: '0'
+  state: PR
+wootax/31592:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '00631'
+    location_type: postcode
+  name: PUERTO RICO
+  order: '0'
+  priority: '0'
+  rate: '10.5'
+  shipping: '0'
+  state: PR
+wootax/31593:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '00636'
+    location_type: postcode
+  name: MAYAGUEZ CO
+  order: '0'
+  priority: '0'
+  rate: '11.5'
+  shipping: '0'
+  state: PR
+wootax/31594:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '00637'
+    location_type: postcode
+  name: SABANA GRANDE CO
+  order: '0'
+  priority: '0'
+  rate: '11.5'
+  shipping: '0'
+  state: PR
+wootax/31595:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: 00638
+    location_type: postcode
+  name: CIALES CO
+  order: '0'
+  priority: '0'
+  rate: '11.5'
+  shipping: '0'
+  state: PR
+wootax/31596:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '00641'
+    location_type: postcode
+  name: UTUADO CO
+  order: '0'
+  priority: '0'
+  rate: '11.5'
+  shipping: '0'
+  state: PR
+wootax/31597:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '00646'
+    location_type: postcode
+  name: DORADO CO
+  order: '0'
+  priority: '0'
+  rate: '11.5'
+  shipping: '0'
+  state: PR
+wootax/31598:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '00647'
+    location_type: postcode
+  name: GUANICA CO
+  order: '0'
+  priority: '0'
+  rate: '11.5'
+  shipping: '0'
+  state: PR
+wootax/31599:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '00650'
+    location_type: postcode
+  name: FLORIDA CO
+  order: '0'
+  priority: '0'
+  rate: '11.5'
+  shipping: '0'
+  state: PR
+wootax/31600:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '00652'
+    location_type: postcode
+  name: ARECIBO CO
+  order: '0'
+  priority: '0'
+  rate: '11.5'
+  shipping: '0'
+  state: PR
+wootax/31601:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '00653'
+    location_type: postcode
+  name: GUANICA CO
+  order: '0'
+  priority: '0'
+  rate: '11.5'
+  shipping: '0'
+  state: PR
+wootax/31602:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '00656'
+    location_type: postcode
+  name: GUAYANILLA CO
+  order: '0'
+  priority: '0'
+  rate: '11.5'
+  shipping: '0'
+  state: PR
+wootax/31603:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: 00659
+    location_type: postcode
+  name: HATILLO CO
+  order: '0'
+  priority: '0'
+  rate: '11.5'
+  shipping: '0'
+  state: PR
+wootax/31604:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '00660'
+    location_type: postcode
+  name: HORMIGUEROS CO
+  order: '0'
+  priority: '0'
+  rate: '11.5'
+  shipping: '0'
+  state: PR
+wootax/31605:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '00662'
+    location_type: postcode
+  name: ISABELA CO
+  order: '0'
+  priority: '0'
+  rate: '11.5'
+  shipping: '0'
+  state: PR
+wootax/31606:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '00664'
+    location_type: postcode
+  name: JAYUYA CO
+  order: '0'
+  priority: '0'
+  rate: '11.5'
+  shipping: '0'
+  state: PR
+wootax/31607:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '00667'
+    location_type: postcode
+  name: LAJAS CO
+  order: '0'
+  priority: '0'
+  rate: '11.5'
+  shipping: '0'
+  state: PR
+wootax/31608:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: 00669
+    location_type: postcode
+  name: LARES CO
+  order: '0'
+  priority: '0'
+  rate: '11.5'
+  shipping: '0'
+  state: PR
+wootax/31609:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '00670'
+    location_type: postcode
+  name: LAS MARIAS CO
+  order: '0'
+  priority: '0'
+  rate: '11.5'
+  shipping: '0'
+  state: PR
+wootax/31610:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '00674'
+    location_type: postcode
+  name: MANATI CO
+  order: '0'
+  priority: '0'
+  rate: '11.5'
+  shipping: '0'
+  state: PR
+wootax/31611:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '00676'
+    location_type: postcode
+  name: MOCA CO
+  order: '0'
+  priority: '0'
+  rate: '11.5'
+  shipping: '0'
+  state: PR
+wootax/31612:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '00677'
+    location_type: postcode
+  name: RINCON CO
+  order: '0'
+  priority: '0'
+  rate: '11.5'
+  shipping: '0'
+  state: PR
+wootax/31613:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: 00678
+    location_type: postcode
+  name: QUEBRADILLAS CO
+  order: '0'
+  priority: '0'
+  rate: '11.5'
+  shipping: '0'
+  state: PR
+wootax/31614:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: 00680
+    location_type: postcode
+  name: MAYAGUEZ CO
+  order: '0'
+  priority: '0'
+  rate: '11.5'
+  shipping: '0'
+  state: PR
+wootax/31615:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: 00681
+    location_type: postcode
+  name: MAYAGUEZ CO
+  order: '0'
+  priority: '0'
+  rate: '11.5'
+  shipping: '0'
+  state: PR
+wootax/31616:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: 00682
+    location_type: postcode
+  name: MAYAGUEZ CO
+  order: '0'
+  priority: '0'
+  rate: '11.5'
+  shipping: '0'
+  state: PR
+wootax/31617:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: 00683
+    location_type: postcode
+  name: SAN GERMAN CO
+  order: '0'
+  priority: '0'
+  rate: '11.5'
+  shipping: '0'
+  state: PR
+wootax/31618:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: 00685
+    location_type: postcode
+  name: SAN SEBASTIAN CO
+  order: '0'
+  priority: '0'
+  rate: '11.5'
+  shipping: '0'
+  state: PR
+wootax/31619:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: 00687
+    location_type: postcode
+  name: MOROVIS CO
+  order: '0'
+  priority: '0'
+  rate: '11.5'
+  shipping: '0'
+  state: PR
+wootax/31620:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: 00688
+    location_type: postcode
+  name: ARECIBO CO
+  order: '0'
+  priority: '0'
+  rate: '11.5'
+  shipping: '0'
+  state: PR
+wootax/31621:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: 00690
+    location_type: postcode
+  name: AGUADILLA CO
+  order: '0'
+  priority: '0'
+  rate: '11.5'
+  shipping: '0'
+  state: PR
+wootax/31622:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: 00692
+    location_type: postcode
+  name: VEGA ALTA CO
+  order: '0'
+  priority: '0'
+  rate: '11.5'
+  shipping: '0'
+  state: PR
+wootax/31623:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: 00693
+    location_type: postcode
+  name: VEGA BAJA CO
+  order: '0'
+  priority: '0'
+  rate: '11.5'
+  shipping: '0'
+  state: PR
+wootax/31624:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: 00694
+    location_type: postcode
+  name: VEGA BAJA CO
+  order: '0'
+  priority: '0'
+  rate: '11.5'
+  shipping: '0'
+  state: PR
+wootax/31625:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: 00698
+    location_type: postcode
+  name: YAUCO CO
+  order: '0'
+  priority: '0'
+  rate: '11.5'
+  shipping: '0'
+  state: PR
+wootax/31626:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '00703'
+    location_type: postcode
+  name: AGUAS BUENAS CO
+  order: '0'
+  priority: '0'
+  rate: '11.5'
+  shipping: '0'
+  state: PR
+wootax/31627:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '00704'
+    location_type: postcode
+  name: SALINAS CO
+  order: '0'
+  priority: '0'
+  rate: '11.5'
+  shipping: '0'
+  state: PR
+wootax/31628:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '00705'
+    location_type: postcode
+  name: AIBONITO CO
+  order: '0'
+  priority: '0'
+  rate: '11.5'
+  shipping: '0'
+  state: PR
+wootax/31629:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '00707'
+    location_type: postcode
+  name: MAUNABO CO
+  order: '0'
+  priority: '0'
+  rate: '11.5'
+  shipping: '0'
+  state: PR
+wootax/31630:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '00714'
+    location_type: postcode
+  name: ARROYO CO
+  order: '0'
+  priority: '0'
+  rate: '11.5'
+  shipping: '0'
+  state: PR
+wootax/31631:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '00715'
+    location_type: postcode
+  name: PONCE CO
+  order: '0'
+  priority: '0'
+  rate: '11.5'
+  shipping: '0'
+  state: PR
+wootax/31632:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '00716'
+    location_type: postcode
+  name: PONCE CO
+  order: '0'
+  priority: '0'
+  rate: '11.5'
+  shipping: '0'
+  state: PR
+wootax/31633:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '00717'
+    location_type: postcode
+  name: PONCE CO
+  order: '0'
+  priority: '0'
+  rate: '11.5'
+  shipping: '0'
+  state: PR
+wootax/31634:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: 00718
+    location_type: postcode
+  name: NAGUABO CO
+  order: '0'
+  priority: '0'
+  rate: '11.5'
+  shipping: '0'
+  state: PR
+wootax/31635:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: 00719
+    location_type: postcode
+  name: NARANJITO CO
+  order: '0'
+  priority: '0'
+  rate: '11.5'
+  shipping: '0'
+  state: PR
+wootax/31636:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '00720'
+    location_type: postcode
+  name: OROCOVIS CO
+  order: '0'
+  priority: '0'
+  rate: '11.5'
+  shipping: '0'
+  state: PR
+wootax/31637:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '00721'
+    location_type: postcode
+  name: SAN JUAN CO
+  order: '0'
+  priority: '0'
+  rate: '11.5'
+  shipping: '0'
+  state: PR
+wootax/31638:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '00723'
+    location_type: postcode
+  name: PATILLAS CO
+  order: '0'
+  priority: '0'
+  rate: '11.5'
+  shipping: '0'
+  state: PR
+wootax/31639:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '00725'
+    location_type: postcode
+  name: CAGUAS CO
+  order: '0'
+  priority: '0'
+  rate: '11.5'
+  shipping: '0'
+  state: PR
+wootax/31640:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '00726'
+    location_type: postcode
+  name: CAGUAS CO
+  order: '0'
+  priority: '0'
+  rate: '11.5'
+  shipping: '0'
+  state: PR
+wootax/31641:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '00727'
+    location_type: postcode
+  name: CAGUAS CO
+  order: '0'
+  priority: '0'
+  rate: '11.5'
+  shipping: '0'
+  state: PR
+wootax/31642:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: 00728
+    location_type: postcode
+  name: PONCE CO
+  order: '0'
+  priority: '0'
+  rate: '11.5'
+  shipping: '0'
+  state: PR
+wootax/31643:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: 00729
+    location_type: postcode
+  name: CANOVANAS CO
+  order: '0'
+  priority: '0'
+  rate: '11.5'
+  shipping: '0'
+  state: PR
+wootax/31644:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '00730'
+    location_type: postcode
+  name: PONCE CO
+  order: '0'
+  priority: '0'
+  rate: '11.5'
+  shipping: '0'
+  state: PR
+wootax/31645:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '00731'
+    location_type: postcode
+  name: PUERTO RICO
+  order: '0'
+  priority: '0'
+  rate: '10.5'
+  shipping: '0'
+  state: PR
+wootax/31646:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '00732'
+    location_type: postcode
+  name: PONCE CO
+  order: '0'
+  priority: '0'
+  rate: '11.5'
+  shipping: '0'
+  state: PR
+wootax/31647:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '00733'
+    location_type: postcode
+  name: PONCE CO
+  order: '0'
+  priority: '0'
+  rate: '11.5'
+  shipping: '0'
+  state: PR
+wootax/31648:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '00735'
+    location_type: postcode
+  name: CEIBA CO
+  order: '0'
+  priority: '0'
+  rate: '11.5'
+  shipping: '0'
+  state: PR
+wootax/31649:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '00736'
+    location_type: postcode
+  name: CAYEY CO
+  order: '0'
+  priority: '0'
+  rate: '11.5'
+  shipping: '0'
+  state: PR
+wootax/31650:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '00737'
+    location_type: postcode
+  name: CAYEY CO
+  order: '0'
+  priority: '0'
+  rate: '11.5'
+  shipping: '0'
+  state: PR
+wootax/31651:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: 00738
+    location_type: postcode
+  name: FAJARDO CO
+  order: '0'
+  priority: '0'
+  rate: '11.5'
+  shipping: '0'
+  state: PR
+wootax/31652:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: 00739
+    location_type: postcode
+  name: CIDRA CO
+  order: '0'
+  priority: '0'
+  rate: '11.5'
+  shipping: '0'
+  state: PR
+wootax/31653:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '00740'
+    location_type: postcode
+  name: FAJARDO CO
+  order: '0'
+  priority: '0'
+  rate: '11.5'
+  shipping: '0'
+  state: PR
+wootax/31654:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '00741'
+    location_type: postcode
+  name: HUMACAO CO
+  order: '0'
+  priority: '0'
+  rate: '11.5'
+  shipping: '0'
+  state: PR
+wootax/31655:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '00742'
+    location_type: postcode
+  name: PUERTO RICO
+  order: '0'
+  priority: '0'
+  rate: '10.5'
+  shipping: '0'
+  state: PR
+wootax/31656:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '00744'
+    location_type: postcode
+  name: NAGUABO CO
+  order: '0'
+  priority: '0'
+  rate: '11.5'
+  shipping: '0'
+  state: PR
+wootax/31657:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '00745'
+    location_type: postcode
+  name: RIO GRANDE CO
+  order: '0'
+  priority: '0'
+  rate: '11.5'
+  shipping: '0'
+  state: PR
+wootax/31658:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '00751'
+    location_type: postcode
+  name: SALINAS CO
+  order: '0'
+  priority: '0'
+  rate: '11.5'
+  shipping: '0'
+  state: PR
+wootax/31659:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '00754'
+    location_type: postcode
+  name: SAN LORENZO CO
+  order: '0'
+  priority: '0'
+  rate: '11.5'
+  shipping: '0'
+  state: PR
+wootax/31660:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '00757'
+    location_type: postcode
+  name: SANTA ISABEL CO
+  order: '0'
+  priority: '0'
+  rate: '11.5'
+  shipping: '0'
+  state: PR
+wootax/31661:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '00765'
+    location_type: postcode
+  name: VIEQUES CO
+  order: '0'
+  priority: '0'
+  rate: '11.5'
+  shipping: '0'
+  state: PR
+wootax/31662:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '00766'
+    location_type: postcode
+  name: VILLALBA CO
+  order: '0'
+  priority: '0'
+  rate: '11.5'
+  shipping: '0'
+  state: PR
+wootax/31663:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '00767'
+    location_type: postcode
+  name: YABUCOA CO
+  order: '0'
+  priority: '0'
+  rate: '11.5'
+  shipping: '0'
+  state: PR
+wootax/31664:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: 00769
+    location_type: postcode
+  name: COAMO CO
+  order: '0'
+  priority: '0'
+  rate: '11.5'
+  shipping: '0'
+  state: PR
+wootax/31665:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '00771'
+    location_type: postcode
+  name: LAS PIEDRAS CO
+  order: '0'
+  priority: '0'
+  rate: '11.5'
+  shipping: '0'
+  state: PR
+wootax/31666:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '00772'
+    location_type: postcode
+  name: LOIZA CO
+  order: '0'
+  priority: '0'
+  rate: '11.5'
+  shipping: '0'
+  state: PR
+wootax/31667:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '00773'
+    location_type: postcode
+  name: LUQUILLO CO
+  order: '0'
+  priority: '0'
+  rate: '11.5'
+  shipping: '0'
+  state: PR
+wootax/31668:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '00775'
+    location_type: postcode
+  name: CULEBRA CO
+  order: '0'
+  priority: '0'
+  rate: '11.5'
+  shipping: '0'
+  state: PR
+wootax/31669:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '00777'
+    location_type: postcode
+  name: JUNCOS CO
+  order: '0'
+  priority: '0'
+  rate: '11.5'
+  shipping: '0'
+  state: PR
+wootax/31670:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: 00778
+    location_type: postcode
+  name: GURABO CO
+  order: '0'
+  priority: '0'
+  rate: '11.5'
+  shipping: '0'
+  state: PR
+wootax/31671:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: 00780
+    location_type: postcode
+  name: PONCE CO
+  order: '0'
+  priority: '0'
+  rate: '11.5'
+  shipping: '0'
+  state: PR
+wootax/31672:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: 00782
+    location_type: postcode
+  name: COMERIO CO
+  order: '0'
+  priority: '0'
+  rate: '11.5'
+  shipping: '0'
+  state: PR
+wootax/31673:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: 00783
+    location_type: postcode
+  name: COROZAL CO
+  order: '0'
+  priority: '0'
+  rate: '11.5'
+  shipping: '0'
+  state: PR
+wootax/31674:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: 00784
+    location_type: postcode
+  name: GUAYAMA CO
+  order: '0'
+  priority: '0'
+  rate: '11.5'
+  shipping: '0'
+  state: PR
+wootax/31675:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: 00785
+    location_type: postcode
+  name: GUAYAMA CO
+  order: '0'
+  priority: '0'
+  rate: '11.5'
+  shipping: '0'
+  state: PR
+wootax/31676:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: 00786
+    location_type: postcode
+  name: PUERTO RICO
+  order: '0'
+  priority: '0'
+  rate: '10.5'
+  shipping: '0'
+  state: PR
+wootax/31677:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: 00791
+    location_type: postcode
+  name: HUMACAO CO
+  order: '0'
+  priority: '0'
+  rate: '11.5'
+  shipping: '0'
+  state: PR
+wootax/31678:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: 00792
+    location_type: postcode
+  name: HUMACAO CO
+  order: '0'
+  priority: '0'
+  rate: '11.5'
+  shipping: '0'
+  state: PR
+wootax/31679:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: 00794
+    location_type: postcode
+  name: BARRANQUITAS CO
+  order: '0'
+  priority: '0'
+  rate: '11.5'
+  shipping: '0'
+  state: PR
+wootax/31680:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: 00795
+    location_type: postcode
+  name: JUANA DIAZ CO
+  order: '0'
+  priority: '0'
+  rate: '11.5'
+  shipping: '0'
+  state: PR
+wootax/31681:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: 00901
+    location_type: postcode
+  name: SAN JUAN CO
+  order: '0'
+  priority: '0'
+  rate: '11.5'
+  shipping: '0'
+  state: PR
+wootax/31682:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: 00902
+    location_type: postcode
+  name: SAN JUAN CO
+  order: '0'
+  priority: '0'
+  rate: '11.5'
+  shipping: '0'
+  state: PR
+wootax/31683:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: 00907
+    location_type: postcode
+  name: SAN JUAN CO
+  order: '0'
+  priority: '0'
+  rate: '11.5'
+  shipping: '0'
+  state: PR
+wootax/31684:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: 00908
+    location_type: postcode
+  name: SAN JUAN CO
+  order: '0'
+  priority: '0'
+  rate: '11.5'
+  shipping: '0'
+  state: PR
+wootax/31685:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: 00909
+    location_type: postcode
+  name: SAN JUAN CO
+  order: '0'
+  priority: '0'
+  rate: '11.5'
+  shipping: '0'
+  state: PR
+wootax/31686:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: 00910
+    location_type: postcode
+  name: SAN JUAN CO
+  order: '0'
+  priority: '0'
+  rate: '11.5'
+  shipping: '0'
+  state: PR
+wootax/31687:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: 00911
+    location_type: postcode
+  name: SAN JUAN CO
+  order: '0'
+  priority: '0'
+  rate: '11.5'
+  shipping: '0'
+  state: PR
+wootax/31688:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: 00912
+    location_type: postcode
+  name: SAN JUAN CO
+  order: '0'
+  priority: '0'
+  rate: '11.5'
+  shipping: '0'
+  state: PR
+wootax/31689:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: 00913
+    location_type: postcode
+  name: SAN JUAN CO
+  order: '0'
+  priority: '0'
+  rate: '11.5'
+  shipping: '0'
+  state: PR
+wootax/31690:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: 00914
+    location_type: postcode
+  name: SAN JUAN CO
+  order: '0'
+  priority: '0'
+  rate: '11.5'
+  shipping: '0'
+  state: PR
+wootax/31691:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: 00915
+    location_type: postcode
+  name: SAN JUAN CO
+  order: '0'
+  priority: '0'
+  rate: '11.5'
+  shipping: '0'
+  state: PR
+wootax/31692:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: 00916
+    location_type: postcode
+  name: SAN JUAN CO
+  order: '0'
+  priority: '0'
+  rate: '11.5'
+  shipping: '0'
+  state: PR
+wootax/31693:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: 00917
+    location_type: postcode
+  name: SAN JUAN CO
+  order: '0'
+  priority: '0'
+  rate: '11.5'
+  shipping: '0'
+  state: PR
+wootax/31694:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: 00918
+    location_type: postcode
+  name: SAN JUAN CO
+  order: '0'
+  priority: '0'
+  rate: '11.5'
+  shipping: '0'
+  state: PR
+wootax/31695:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: 00919
+    location_type: postcode
+  name: SAN JUAN CO
+  order: '0'
+  priority: '0'
+  rate: '11.5'
+  shipping: '0'
+  state: PR
+wootax/31696:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: 00920
+    location_type: postcode
+  name: SAN JUAN CO
+  order: '0'
+  priority: '0'
+  rate: '11.5'
+  shipping: '0'
+  state: PR
+wootax/31697:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: 00921
+    location_type: postcode
+  name: SAN JUAN CO
+  order: '0'
+  priority: '0'
+  rate: '11.5'
+  shipping: '0'
+  state: PR
+wootax/31698:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: 00922
+    location_type: postcode
+  name: SAN JUAN CO
+  order: '0'
+  priority: '0'
+  rate: '11.5'
+  shipping: '0'
+  state: PR
+wootax/31699:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: 00923
+    location_type: postcode
+  name: SAN JUAN CO
+  order: '0'
+  priority: '0'
+  rate: '11.5'
+  shipping: '0'
+  state: PR
+wootax/31700:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: 00924
+    location_type: postcode
+  name: SAN JUAN CO
+  order: '0'
+  priority: '0'
+  rate: '11.5'
+  shipping: '0'
+  state: PR
+wootax/31701:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: 00925
+    location_type: postcode
+  name: SAN JUAN CO
+  order: '0'
+  priority: '0'
+  rate: '11.5'
+  shipping: '0'
+  state: PR
+wootax/31702:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: 00926
+    location_type: postcode
+  name: SAN JUAN CO
+  order: '0'
+  priority: '0'
+  rate: '11.5'
+  shipping: '0'
+  state: PR
+wootax/31703:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: 00927
+    location_type: postcode
+  name: SAN JUAN CO
+  order: '0'
+  priority: '0'
+  rate: '11.5'
+  shipping: '0'
+  state: PR
+wootax/31704:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: 00928
+    location_type: postcode
+  name: SAN JUAN CO
+  order: '0'
+  priority: '0'
+  rate: '11.5'
+  shipping: '0'
+  state: PR
+wootax/31705:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: 00929
+    location_type: postcode
+  name: SAN JUAN CO
+  order: '0'
+  priority: '0'
+  rate: '11.5'
+  shipping: '0'
+  state: PR
+wootax/31706:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: 00930
+    location_type: postcode
+  name: SAN JUAN CO
+  order: '0'
+  priority: '0'
+  rate: '11.5'
+  shipping: '0'
+  state: PR
+wootax/31707:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: 00931
+    location_type: postcode
+  name: SAN JUAN CO
+  order: '0'
+  priority: '0'
+  rate: '11.5'
+  shipping: '0'
+  state: PR
+wootax/31708:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: 00934
+    location_type: postcode
+  name: GUAYNABO CO
+  order: '0'
+  priority: '0'
+  rate: '11.5'
+  shipping: '0'
+  state: PR
+wootax/31709:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: 00935
+    location_type: postcode
+  name: PUERTO RICO
+  order: '0'
+  priority: '0'
+  rate: '10.5'
+  shipping: '0'
+  state: PR
+wootax/31710:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: 00936
+    location_type: postcode
+  name: SAN JUAN CO
+  order: '0'
+  priority: '0'
+  rate: '11.5'
+  shipping: '0'
+  state: PR
+wootax/31711:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: 00937
+    location_type: postcode
+  name: PUERTO RICO
+  order: '0'
+  priority: '0'
+  rate: '10.5'
+  shipping: '0'
+  state: PR
+wootax/31712:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: 00940
+    location_type: postcode
+  name: SAN JUAN CO
+  order: '0'
+  priority: '0'
+  rate: '11.5'
+  shipping: '0'
+  state: PR
+wootax/31713:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: 00949
+    location_type: postcode
+  name: TOA BAJA CO
+  order: '0'
+  priority: '0'
+  rate: '11.5'
+  shipping: '0'
+  state: PR
+wootax/31714:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: 00950
+    location_type: postcode
+  name: TOA BAJA CO
+  order: '0'
+  priority: '0'
+  rate: '11.5'
+  shipping: '0'
+  state: PR
+wootax/31715:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: 00951
+    location_type: postcode
+  name: TOA BAJA CO
+  order: '0'
+  priority: '0'
+  rate: '11.5'
+  shipping: '0'
+  state: PR
+wootax/31716:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: 00952
+    location_type: postcode
+  name: TOA BAJA CO
+  order: '0'
+  priority: '0'
+  rate: '11.5'
+  shipping: '0'
+  state: PR
+wootax/31717:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: 00953
+    location_type: postcode
+  name: TOA ALTA CO
+  order: '0'
+  priority: '0'
+  rate: '11.5'
+  shipping: '0'
+  state: PR
+wootax/31718:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: 00954
+    location_type: postcode
+  name: TOA ALTA CO
+  order: '0'
+  priority: '0'
+  rate: '11.5'
+  shipping: '0'
+  state: PR
+wootax/31719:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: 00956
+    location_type: postcode
+  name: BAYAMON CO
+  order: '0'
+  priority: '0'
+  rate: '11.5'
+  shipping: '0'
+  state: PR
+wootax/31720:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: 00957
+    location_type: postcode
+  name: BAYAMON CO
+  order: '0'
+  priority: '0'
+  rate: '11.5'
+  shipping: '0'
+  state: PR
+wootax/31721:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: 00958
+    location_type: postcode
+  name: BAYAMON CO
+  order: '0'
+  priority: '0'
+  rate: '11.5'
+  shipping: '0'
+  state: PR
+wootax/31722:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: 00959
+    location_type: postcode
+  name: BAYAMON CO
+  order: '0'
+  priority: '0'
+  rate: '11.5'
+  shipping: '0'
+  state: PR
+wootax/31723:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: 00960
+    location_type: postcode
+  name: BAYAMON CO
+  order: '0'
+  priority: '0'
+  rate: '11.5'
+  shipping: '0'
+  state: PR
+wootax/31724:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: 00961
+    location_type: postcode
+  name: BAYAMON CO
+  order: '0'
+  priority: '0'
+  rate: '11.5'
+  shipping: '0'
+  state: PR
+wootax/31725:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: 00962
+    location_type: postcode
+  name: CATANO CO
+  order: '0'
+  priority: '0'
+  rate: '11.5'
+  shipping: '0'
+  state: PR
+wootax/31726:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: 00963
+    location_type: postcode
+  name: CATANO CO
+  order: '0'
+  priority: '0'
+  rate: '11.5'
+  shipping: '0'
+  state: PR
+wootax/31727:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: 00965
+    location_type: postcode
+  name: GUAYNABO CO
+  order: '0'
+  priority: '0'
+  rate: '11.5'
+  shipping: '0'
+  state: PR
+wootax/31728:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: 00966
+    location_type: postcode
+  name: GUAYNABO CO
+  order: '0'
+  priority: '0'
+  rate: '11.5'
+  shipping: '0'
+  state: PR
+wootax/31729:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: 00968
+    location_type: postcode
+  name: GUAYNABO CO
+  order: '0'
+  priority: '0'
+  rate: '11.5'
+  shipping: '0'
+  state: PR
+wootax/31730:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: 00969
+    location_type: postcode
+  name: GUAYNABO CO
+  order: '0'
+  priority: '0'
+  rate: '11.5'
+  shipping: '0'
+  state: PR
+wootax/31731:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: 00970
+    location_type: postcode
+  name: GUAYNABO CO
+  order: '0'
+  priority: '0'
+  rate: '11.5'
+  shipping: '0'
+  state: PR
+wootax/31732:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: 00971
+    location_type: postcode
+  name: GUAYNABO CO
+  order: '0'
+  priority: '0'
+  rate: '11.5'
+  shipping: '0'
+  state: PR
+wootax/31733:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: 00975
+    location_type: postcode
+  name: PUERTO RICO
+  order: '0'
+  priority: '0'
+  rate: '10.5'
+  shipping: '0'
+  state: PR
+wootax/31734:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: 00976
+    location_type: postcode
+  name: TRUJILLO ALTO CO
+  order: '0'
+  priority: '0'
+  rate: '11.5'
+  shipping: '0'
+  state: PR
+wootax/31735:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: 00977
+    location_type: postcode
+  name: TRUJILLO ALTO CO
+  order: '0'
+  priority: '0'
+  rate: '11.5'
+  shipping: '0'
+  state: PR
+wootax/31736:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: 00979
+    location_type: postcode
+  name: CAROLINA CO
+  order: '0'
+  priority: '0'
+  rate: '11.5'
+  shipping: '0'
+  state: PR
+wootax/31737:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: 00981
+    location_type: postcode
+  name: CAROLINA CO
+  order: '0'
+  priority: '0'
+  rate: '11.5'
+  shipping: '0'
+  state: PR
+wootax/31738:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: 00982
+    location_type: postcode
+  name: CAROLINA CO
+  order: '0'
+  priority: '0'
+  rate: '11.5'
+  shipping: '0'
+  state: PR
+wootax/31739:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: 00983
+    location_type: postcode
+  name: CAROLINA CO
+  order: '0'
+  priority: '0'
+  rate: '11.5'
+  shipping: '0'
+  state: PR
+wootax/31740:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: 00984
+    location_type: postcode
+  name: CAROLINA CO
+  order: '0'
+  priority: '0'
+  rate: '11.5'
+  shipping: '0'
+  state: PR
+wootax/31741:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: 00985
+    location_type: postcode
+  name: CAROLINA CO
+  order: '0'
+  priority: '0'
+  rate: '11.5'
+  shipping: '0'
+  state: PR
+wootax/31742:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: 00986
+    location_type: postcode
+  name: CAROLINA CO
+  order: '0'
+  priority: '0'
+  rate: '11.5'
+  shipping: '0'
+  state: PR
+wootax/31743:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: 00987
+    location_type: postcode
+  name: CAROLINA CO
+  order: '0'
+  priority: '0'
+  rate: '11.5'
+  shipping: '0'
+  state: PR
+wootax/31744:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: 00988
+    location_type: postcode
+  name: CAROLINA CO
+  order: '0'
+  priority: '0'
+  rate: '11.5'
+  shipping: '0'
+  state: PR

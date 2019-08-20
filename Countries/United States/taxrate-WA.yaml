@@ -1,0 +1,9126 @@
+wootax/37755:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '98001'
+    location_type: postcode
+  name: KING COUNTY
+  order: '0'
+  priority: '0'
+  rate: '10'
+  shipping: '1'
+  state: WA
+wootax/37756:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '98002'
+    location_type: postcode
+  name: AUBURN (KING CO)
+  order: '0'
+  priority: '0'
+  rate: '10'
+  shipping: '1'
+  state: WA
+wootax/37757:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '98003'
+    location_type: postcode
+  name: FEDERAL WAY
+  order: '0'
+  priority: '0'
+  rate: '10'
+  shipping: '1'
+  state: WA
+wootax/37758:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '98004'
+    location_type: postcode
+  name: BELLEVUE
+  order: '0'
+  priority: '0'
+  rate: '10'
+  shipping: '1'
+  state: WA
+wootax/37759:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '98005'
+    location_type: postcode
+  name: BELLEVUE
+  order: '0'
+  priority: '0'
+  rate: '10'
+  shipping: '1'
+  state: WA
+wootax/37760:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '98006'
+    location_type: postcode
+  name: BELLEVUE
+  order: '0'
+  priority: '0'
+  rate: '10'
+  shipping: '1'
+  state: WA
+wootax/37761:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '98007'
+    location_type: postcode
+  name: BELLEVUE
+  order: '0'
+  priority: '0'
+  rate: '10'
+  shipping: '1'
+  state: WA
+wootax/37762:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '98008'
+    location_type: postcode
+  name: BELLEVUE
+  order: '0'
+  priority: '0'
+  rate: '10'
+  shipping: '1'
+  state: WA
+wootax/37763:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '98009'
+    location_type: postcode
+  name: BELLEVUE
+  order: '0'
+  priority: '0'
+  rate: '10'
+  shipping: '1'
+  state: WA
+wootax/37764:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '98010'
+    location_type: postcode
+  name: BLACK DIAMOND
+  order: '0'
+  priority: '0'
+  rate: '8.6'
+  shipping: '1'
+  state: WA
+wootax/37765:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '98011'
+    location_type: postcode
+  name: BOTHELL (KING CO)
+  order: '0'
+  priority: '0'
+  rate: '10'
+  shipping: '1'
+  state: WA
+wootax/37766:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '98012'
+    location_type: postcode
+  name: MILL CREEK
+  order: '0'
+  priority: '0'
+  rate: '10.5'
+  shipping: '1'
+  state: WA
+wootax/37767:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '98014'
+    location_type: postcode
+  name: KING COUNTY NON-RTA
+  order: '0'
+  priority: '0'
+  rate: '8.6'
+  shipping: '1'
+  state: WA
+wootax/37768:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '98015'
+    location_type: postcode
+  name: BELLEVUE
+  order: '0'
+  priority: '0'
+  rate: '10'
+  shipping: '1'
+  state: WA
+wootax/37769:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '98019'
+    location_type: postcode
+  name: DUVALL
+  order: '0'
+  priority: '0'
+  rate: '8.6'
+  shipping: '1'
+  state: WA
+wootax/37770:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '98020'
+    location_type: postcode
+  name: EDMONDS
+  order: '0'
+  priority: '0'
+  rate: '10.4'
+  shipping: '1'
+  state: WA
+wootax/37771:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '98021'
+    location_type: postcode
+  name: BOTHELL (SNOHOMISH CO)
+  order: '0'
+  priority: '0'
+  rate: '10.4'
+  shipping: '1'
+  state: WA
+wootax/37772:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '98022'
+    location_type: postcode
+  name: ENUMCLAW
+  order: '0'
+  priority: '0'
+  rate: '8.7'
+  shipping: '1'
+  state: WA
+wootax/37773:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '98023'
+    location_type: postcode
+  name: FEDERAL WAY
+  order: '0'
+  priority: '0'
+  rate: '10'
+  shipping: '1'
+  state: WA
+wootax/37774:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '98024'
+    location_type: postcode
+  name: KING COUNTY NON-RTA
+  order: '0'
+  priority: '0'
+  rate: '8.6'
+  shipping: '1'
+  state: WA
+wootax/37775:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '98025'
+    location_type: postcode
+  name: KING COUNTY NON-RTA
+  order: '0'
+  priority: '0'
+  rate: '8.6'
+  shipping: '1'
+  state: WA
+wootax/37776:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '98026'
+    location_type: postcode
+  name: EDMONDS
+  order: '0'
+  priority: '0'
+  rate: '10.4'
+  shipping: '1'
+  state: WA
+wootax/37777:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '98027'
+    location_type: postcode
+  name: ISSAQUAH
+  order: '0'
+  priority: '0'
+  rate: '10'
+  shipping: '1'
+  state: WA
+wootax/37778:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '98028'
+    location_type: postcode
+  name: KENMORE
+  order: '0'
+  priority: '0'
+  rate: '10'
+  shipping: '1'
+  state: WA
+wootax/37779:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '98029'
+    location_type: postcode
+  name: ISSAQUAH
+  order: '0'
+  priority: '0'
+  rate: '10'
+  shipping: '1'
+  state: WA
+wootax/37780:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '98030'
+    location_type: postcode
+  name: KENT
+  order: '0'
+  priority: '0'
+  rate: '10'
+  shipping: '1'
+  state: WA
+wootax/37781:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '98031'
+    location_type: postcode
+  name: KENT
+  order: '0'
+  priority: '0'
+  rate: '10'
+  shipping: '1'
+  state: WA
+wootax/37782:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '98032'
+    location_type: postcode
+  name: KENT
+  order: '0'
+  priority: '0'
+  rate: '10'
+  shipping: '1'
+  state: WA
+wootax/37783:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '98033'
+    location_type: postcode
+  name: KIRKLAND
+  order: '0'
+  priority: '0'
+  rate: '10.1'
+  shipping: '1'
+  state: WA
+wootax/37784:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '98034'
+    location_type: postcode
+  name: KIRKLAND
+  order: '0'
+  priority: '0'
+  rate: '10.1'
+  shipping: '1'
+  state: WA
+wootax/37785:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '98035'
+    location_type: postcode
+  name: KENT
+  order: '0'
+  priority: '0'
+  rate: '10'
+  shipping: '1'
+  state: WA
+wootax/37786:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '98036'
+    location_type: postcode
+  name: LYNNWOOD
+  order: '0'
+  priority: '0'
+  rate: '10.5'
+  shipping: '1'
+  state: WA
+wootax/37787:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '98037'
+    location_type: postcode
+  name: LYNNWOOD
+  order: '0'
+  priority: '0'
+  rate: '10.5'
+  shipping: '1'
+  state: WA
+wootax/37788:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '98038'
+    location_type: postcode
+  name: MAPLE VALLEY
+  order: '0'
+  priority: '0'
+  rate: '8.6'
+  shipping: '1'
+  state: WA
+wootax/37789:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '98039'
+    location_type: postcode
+  name: MEDINA
+  order: '0'
+  priority: '0'
+  rate: '10'
+  shipping: '1'
+  state: WA
+wootax/37790:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '98040'
+    location_type: postcode
+  name: MERCER ISLAND
+  order: '0'
+  priority: '0'
+  rate: '10'
+  shipping: '1'
+  state: WA
+wootax/37791:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '98041'
+    location_type: postcode
+  name: BOTHELL (KING CO)
+  order: '0'
+  priority: '0'
+  rate: '10'
+  shipping: '1'
+  state: WA
+wootax/37792:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '98042'
+    location_type: postcode
+  name: COVINGTON
+  order: '0'
+  priority: '0'
+  rate: '8.6'
+  shipping: '1'
+  state: WA
+wootax/37793:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '98043'
+    location_type: postcode
+  name: MOUNTLAKE TERRACE
+  order: '0'
+  priority: '0'
+  rate: '10.4'
+  shipping: '1'
+  state: WA
+wootax/37794:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '98045'
+    location_type: postcode
+  name: KING COUNTY NON-RTA
+  order: '0'
+  priority: '0'
+  rate: '8.6'
+  shipping: '1'
+  state: WA
+wootax/37795:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '98046'
+    location_type: postcode
+  name: LYNNWOOD
+  order: '0'
+  priority: '0'
+  rate: '10.5'
+  shipping: '1'
+  state: WA
+wootax/37796:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '98047'
+    location_type: postcode
+  name: PACIFIC (KING CO)
+  order: '0'
+  priority: '0'
+  rate: '10'
+  shipping: '1'
+  state: WA
+wootax/37797:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '98050'
+    location_type: postcode
+  name: KING COUNTY NON-RTA
+  order: '0'
+  priority: '0'
+  rate: '8.6'
+  shipping: '1'
+  state: WA
+wootax/37798:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '98051'
+    location_type: postcode
+  name: KING COUNTY NON-RTA
+  order: '0'
+  priority: '0'
+  rate: '8.6'
+  shipping: '1'
+  state: WA
+wootax/37799:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '98052'
+    location_type: postcode
+  name: REDMOND
+  order: '0'
+  priority: '0'
+  rate: '10'
+  shipping: '1'
+  state: WA
+wootax/37800:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '98053'
+    location_type: postcode
+  name: KING COUNTY NON-RTA
+  order: '0'
+  priority: '0'
+  rate: '8.6'
+  shipping: '1'
+  state: WA
+wootax/37801:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '98055'
+    location_type: postcode
+  name: RENTON
+  order: '0'
+  priority: '0'
+  rate: '10'
+  shipping: '1'
+  state: WA
+wootax/37802:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '98056'
+    location_type: postcode
+  name: RENTON
+  order: '0'
+  priority: '0'
+  rate: '10'
+  shipping: '1'
+  state: WA
+wootax/37803:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '98057'
+    location_type: postcode
+  name: RENTON
+  order: '0'
+  priority: '0'
+  rate: '10'
+  shipping: '1'
+  state: WA
+wootax/37804:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '98058'
+    location_type: postcode
+  name: KING COUNTY
+  order: '0'
+  priority: '0'
+  rate: '10'
+  shipping: '1'
+  state: WA
+wootax/37805:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '98059'
+    location_type: postcode
+  name: RENTON
+  order: '0'
+  priority: '0'
+  rate: '10'
+  shipping: '1'
+  state: WA
+wootax/37806:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '98061'
+    location_type: postcode
+  name: BAINBRIDGE ISLAND
+  order: '0'
+  priority: '0'
+  rate: '9'
+  shipping: '1'
+  state: WA
+wootax/37807:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '98062'
+    location_type: postcode
+  name: BURIEN
+  order: '0'
+  priority: '0'
+  rate: '10'
+  shipping: '1'
+  state: WA
+wootax/37808:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '98063'
+    location_type: postcode
+  name: FEDERAL WAY
+  order: '0'
+  priority: '0'
+  rate: '10'
+  shipping: '1'
+  state: WA
+wootax/37809:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '98064'
+    location_type: postcode
+  name: KENT
+  order: '0'
+  priority: '0'
+  rate: '10'
+  shipping: '1'
+  state: WA
+wootax/37810:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '98065'
+    location_type: postcode
+  name: SNOQUALMIE
+  order: '0'
+  priority: '0'
+  rate: '8.6'
+  shipping: '1'
+  state: WA
+wootax/37811:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '98068'
+    location_type: postcode
+  name: KING COUNTY NON-RTA
+  order: '0'
+  priority: '0'
+  rate: '8.6'
+  shipping: '1'
+  state: WA
+wootax/37812:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '98070'
+    location_type: postcode
+  name: KING COUNTY NON-RTA
+  order: '0'
+  priority: '0'
+  rate: '8.6'
+  shipping: '1'
+  state: WA
+wootax/37813:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '98071'
+    location_type: postcode
+  name: AUBURN (KING CO)
+  order: '0'
+  priority: '0'
+  rate: '10'
+  shipping: '1'
+  state: WA
+wootax/37814:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '98072'
+    location_type: postcode
+  name: WOODINVILLE
+  order: '0'
+  priority: '0'
+  rate: '10'
+  shipping: '1'
+  state: WA
+wootax/37815:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '98073'
+    location_type: postcode
+  name: REDMOND
+  order: '0'
+  priority: '0'
+  rate: '10'
+  shipping: '1'
+  state: WA
+wootax/37816:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '98074'
+    location_type: postcode
+  name: SAMMAMISH
+  order: '0'
+  priority: '0'
+  rate: '10'
+  shipping: '1'
+  state: WA
+wootax/37817:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '98075'
+    location_type: postcode
+  name: SAMMAMISH
+  order: '0'
+  priority: '0'
+  rate: '10'
+  shipping: '1'
+  state: WA
+wootax/37818:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '98077'
+    location_type: postcode
+  name: KING COUNTY NON-RTA
+  order: '0'
+  priority: '0'
+  rate: '8.6'
+  shipping: '1'
+  state: WA
+wootax/37819:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '98082'
+    location_type: postcode
+  name: MILL CREEK
+  order: '0'
+  priority: '0'
+  rate: '10.5'
+  shipping: '1'
+  state: WA
+wootax/37820:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '98083'
+    location_type: postcode
+  name: KIRKLAND
+  order: '0'
+  priority: '0'
+  rate: '10.1'
+  shipping: '1'
+  state: WA
+wootax/37821:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '98087'
+    location_type: postcode
+  name: SNOHOMISH COUNTY UNINCORP. P.T.B.A.
+  order: '0'
+  priority: '0'
+  rate: '10.4'
+  shipping: '1'
+  state: WA
+wootax/37822:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '98089'
+    location_type: postcode
+  name: KENT
+  order: '0'
+  priority: '0'
+  rate: '10'
+  shipping: '1'
+  state: WA
+wootax/37823:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '98092'
+    location_type: postcode
+  name: AUBURN (KING CO)
+  order: '0'
+  priority: '0'
+  rate: '10'
+  shipping: '1'
+  state: WA
+wootax/37824:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '98093'
+    location_type: postcode
+  name: FEDERAL WAY
+  order: '0'
+  priority: '0'
+  rate: '10'
+  shipping: '1'
+  state: WA
+wootax/37825:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '98101'
+    location_type: postcode
+  name: SEATTLE
+  order: '0'
+  priority: '0'
+  rate: '10.1'
+  shipping: '1'
+  state: WA
+wootax/37826:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '98102'
+    location_type: postcode
+  name: SEATTLE
+  order: '0'
+  priority: '0'
+  rate: '10.1'
+  shipping: '1'
+  state: WA
+wootax/37827:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '98103'
+    location_type: postcode
+  name: SEATTLE
+  order: '0'
+  priority: '0'
+  rate: '10.1'
+  shipping: '1'
+  state: WA
+wootax/37828:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '98104'
+    location_type: postcode
+  name: SEATTLE
+  order: '0'
+  priority: '0'
+  rate: '10.1'
+  shipping: '1'
+  state: WA
+wootax/37829:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '98105'
+    location_type: postcode
+  name: SEATTLE
+  order: '0'
+  priority: '0'
+  rate: '10.1'
+  shipping: '1'
+  state: WA
+wootax/37830:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '98106'
+    location_type: postcode
+  name: SEATTLE
+  order: '0'
+  priority: '0'
+  rate: '10.1'
+  shipping: '1'
+  state: WA
+wootax/37831:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '98107'
+    location_type: postcode
+  name: SEATTLE
+  order: '0'
+  priority: '0'
+  rate: '10.1'
+  shipping: '1'
+  state: WA
+wootax/37832:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '98108'
+    location_type: postcode
+  name: SEATTLE
+  order: '0'
+  priority: '0'
+  rate: '10.1'
+  shipping: '1'
+  state: WA
+wootax/37833:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '98109'
+    location_type: postcode
+  name: SEATTLE
+  order: '0'
+  priority: '0'
+  rate: '10.1'
+  shipping: '1'
+  state: WA
+wootax/37834:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '98110'
+    location_type: postcode
+  name: BAINBRIDGE ISLAND
+  order: '0'
+  priority: '0'
+  rate: '9'
+  shipping: '1'
+  state: WA
+wootax/37835:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '98111'
+    location_type: postcode
+  name: SEATTLE
+  order: '0'
+  priority: '0'
+  rate: '10.1'
+  shipping: '1'
+  state: WA
+wootax/37836:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '98112'
+    location_type: postcode
+  name: SEATTLE
+  order: '0'
+  priority: '0'
+  rate: '10.1'
+  shipping: '1'
+  state: WA
+wootax/37837:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '98113'
+    location_type: postcode
+  name: SEATTLE
+  order: '0'
+  priority: '0'
+  rate: '10.1'
+  shipping: '1'
+  state: WA
+wootax/37838:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '98114'
+    location_type: postcode
+  name: SEATTLE
+  order: '0'
+  priority: '0'
+  rate: '10.1'
+  shipping: '1'
+  state: WA
+wootax/37839:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '98115'
+    location_type: postcode
+  name: SEATTLE
+  order: '0'
+  priority: '0'
+  rate: '10.1'
+  shipping: '1'
+  state: WA
+wootax/37840:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '98116'
+    location_type: postcode
+  name: SEATTLE
+  order: '0'
+  priority: '0'
+  rate: '10.1'
+  shipping: '1'
+  state: WA
+wootax/37841:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '98117'
+    location_type: postcode
+  name: SEATTLE
+  order: '0'
+  priority: '0'
+  rate: '10.1'
+  shipping: '1'
+  state: WA
+wootax/37842:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '98118'
+    location_type: postcode
+  name: SEATTLE
+  order: '0'
+  priority: '0'
+  rate: '10.1'
+  shipping: '1'
+  state: WA
+wootax/37843:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '98119'
+    location_type: postcode
+  name: SEATTLE
+  order: '0'
+  priority: '0'
+  rate: '10.1'
+  shipping: '1'
+  state: WA
+wootax/37844:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '98121'
+    location_type: postcode
+  name: SEATTLE
+  order: '0'
+  priority: '0'
+  rate: '10.1'
+  shipping: '1'
+  state: WA
+wootax/37845:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '98122'
+    location_type: postcode
+  name: SEATTLE
+  order: '0'
+  priority: '0'
+  rate: '10.1'
+  shipping: '1'
+  state: WA
+wootax/37846:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '98124'
+    location_type: postcode
+  name: SEATTLE
+  order: '0'
+  priority: '0'
+  rate: '10.1'
+  shipping: '1'
+  state: WA
+wootax/37847:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '98125'
+    location_type: postcode
+  name: SEATTLE
+  order: '0'
+  priority: '0'
+  rate: '10.1'
+  shipping: '1'
+  state: WA
+wootax/37848:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '98126'
+    location_type: postcode
+  name: SEATTLE
+  order: '0'
+  priority: '0'
+  rate: '10.1'
+  shipping: '1'
+  state: WA
+wootax/37849:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '98127'
+    location_type: postcode
+  name: SEATTLE
+  order: '0'
+  priority: '0'
+  rate: '10.1'
+  shipping: '1'
+  state: WA
+wootax/37850:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '98129'
+    location_type: postcode
+  name: TUKWILA
+  order: '0'
+  priority: '0'
+  rate: '10'
+  shipping: '1'
+  state: WA
+wootax/37851:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '98131'
+    location_type: postcode
+  name: TUKWILA
+  order: '0'
+  priority: '0'
+  rate: '10'
+  shipping: '1'
+  state: WA
+wootax/37852:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '98132'
+    location_type: postcode
+  name: SEATTLE
+  order: '0'
+  priority: '0'
+  rate: '10.1'
+  shipping: '1'
+  state: WA
+wootax/37853:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '98133'
+    location_type: postcode
+  name: SEATTLE
+  order: '0'
+  priority: '0'
+  rate: '10.1'
+  shipping: '1'
+  state: WA
+wootax/37854:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '98134'
+    location_type: postcode
+  name: SEATTLE
+  order: '0'
+  priority: '0'
+  rate: '10.1'
+  shipping: '1'
+  state: WA
+wootax/37855:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '98136'
+    location_type: postcode
+  name: SEATTLE
+  order: '0'
+  priority: '0'
+  rate: '10.1'
+  shipping: '1'
+  state: WA
+wootax/37856:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '98138'
+    location_type: postcode
+  name: KING COUNTY
+  order: '0'
+  priority: '0'
+  rate: '10'
+  shipping: '1'
+  state: WA
+wootax/37857:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '98139'
+    location_type: postcode
+  name: SEATTLE
+  order: '0'
+  priority: '0'
+  rate: '10.1'
+  shipping: '1'
+  state: WA
+wootax/37858:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '98144'
+    location_type: postcode
+  name: SEATTLE
+  order: '0'
+  priority: '0'
+  rate: '10.1'
+  shipping: '1'
+  state: WA
+wootax/37859:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '98145'
+    location_type: postcode
+  name: SEATTLE
+  order: '0'
+  priority: '0'
+  rate: '10.1'
+  shipping: '1'
+  state: WA
+wootax/37860:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '98146'
+    location_type: postcode
+  name: BURIEN
+  order: '0'
+  priority: '0'
+  rate: '10'
+  shipping: '1'
+  state: WA
+wootax/37861:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '98148'
+    location_type: postcode
+  name: BURIEN
+  order: '0'
+  priority: '0'
+  rate: '10'
+  shipping: '1'
+  state: WA
+wootax/37862:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '98154'
+    location_type: postcode
+  name: TUKWILA
+  order: '0'
+  priority: '0'
+  rate: '10'
+  shipping: '1'
+  state: WA
+wootax/37863:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '98155'
+    location_type: postcode
+  name: SHORELINE
+  order: '0'
+  priority: '0'
+  rate: '10.2'
+  shipping: '1'
+  state: WA
+wootax/37864:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '98158'
+    location_type: postcode
+  name: SEATAC
+  order: '0'
+  priority: '0'
+  rate: '10'
+  shipping: '1'
+  state: WA
+wootax/37865:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '98161'
+    location_type: postcode
+  name: SEATTLE
+  order: '0'
+  priority: '0'
+  rate: '10.1'
+  shipping: '1'
+  state: WA
+wootax/37866:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '98164'
+    location_type: postcode
+  name: TUKWILA
+  order: '0'
+  priority: '0'
+  rate: '10'
+  shipping: '1'
+  state: WA
+wootax/37867:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '98165'
+    location_type: postcode
+  name: SEATTLE
+  order: '0'
+  priority: '0'
+  rate: '10.1'
+  shipping: '1'
+  state: WA
+wootax/37868:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '98166'
+    location_type: postcode
+  name: BURIEN
+  order: '0'
+  priority: '0'
+  rate: '10'
+  shipping: '1'
+  state: WA
+wootax/37869:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '98168'
+    location_type: postcode
+  name: TUKWILA
+  order: '0'
+  priority: '0'
+  rate: '10'
+  shipping: '1'
+  state: WA
+wootax/37870:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '98170'
+    location_type: postcode
+  name: SEATTLE
+  order: '0'
+  priority: '0'
+  rate: '10.1'
+  shipping: '1'
+  state: WA
+wootax/37871:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '98174'
+    location_type: postcode
+  name: TUKWILA
+  order: '0'
+  priority: '0'
+  rate: '10'
+  shipping: '1'
+  state: WA
+wootax/37872:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '98175'
+    location_type: postcode
+  name: SEATTLE
+  order: '0'
+  priority: '0'
+  rate: '10.1'
+  shipping: '1'
+  state: WA
+wootax/37873:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '98177'
+    location_type: postcode
+  name: SHORELINE
+  order: '0'
+  priority: '0'
+  rate: '10.2'
+  shipping: '1'
+  state: WA
+wootax/37874:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '98178'
+    location_type: postcode
+  name: KING COUNTY
+  order: '0'
+  priority: '0'
+  rate: '10'
+  shipping: '1'
+  state: WA
+wootax/37875:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '98181'
+    location_type: postcode
+  name: SEATTLE
+  order: '0'
+  priority: '0'
+  rate: '10.1'
+  shipping: '1'
+  state: WA
+wootax/37876:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '98185'
+    location_type: postcode
+  name: SEATTLE
+  order: '0'
+  priority: '0'
+  rate: '10.1'
+  shipping: '1'
+  state: WA
+wootax/37877:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '98188'
+    location_type: postcode
+  name: SEATAC
+  order: '0'
+  priority: '0'
+  rate: '10'
+  shipping: '1'
+  state: WA
+wootax/37878:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '98189'
+    location_type: postcode
+  name: SEATTLE
+  order: '0'
+  priority: '0'
+  rate: '10.1'
+  shipping: '1'
+  state: WA
+wootax/37879:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '98191'
+    location_type: postcode
+  name: SEATTLE
+  order: '0'
+  priority: '0'
+  rate: '10.1'
+  shipping: '1'
+  state: WA
+wootax/37880:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '98194'
+    location_type: postcode
+  name: SEATTLE
+  order: '0'
+  priority: '0'
+  rate: '10.1'
+  shipping: '1'
+  state: WA
+wootax/37881:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '98195'
+    location_type: postcode
+  name: SEATTLE
+  order: '0'
+  priority: '0'
+  rate: '10.1'
+  shipping: '1'
+  state: WA
+wootax/37882:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '98198'
+    location_type: postcode
+  name: DES MOINES
+  order: '0'
+  priority: '0'
+  rate: '10'
+  shipping: '1'
+  state: WA
+wootax/37883:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '98199'
+    location_type: postcode
+  name: SEATTLE
+  order: '0'
+  priority: '0'
+  rate: '10.1'
+  shipping: '1'
+  state: WA
+wootax/37884:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '98201'
+    location_type: postcode
+  name: EVERETT
+  order: '0'
+  priority: '0'
+  rate: '9.8'
+  shipping: '1'
+  state: WA
+wootax/37885:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '98203'
+    location_type: postcode
+  name: EVERETT
+  order: '0'
+  priority: '0'
+  rate: '9.8'
+  shipping: '1'
+  state: WA
+wootax/37886:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '98204'
+    location_type: postcode
+  name: SNOHOMISH COUNTY UNINCORP. P.T.B.A.
+  order: '0'
+  priority: '0'
+  rate: '10.4'
+  shipping: '1'
+  state: WA
+wootax/37887:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '98205'
+    location_type: postcode
+  name: EVERETT
+  order: '0'
+  priority: '0'
+  rate: '9.8'
+  shipping: '1'
+  state: WA
+wootax/37888:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '98206'
+    location_type: postcode
+  name: SNOHOMISH COUNTY UNINCORP. P.T.B.A.
+  order: '0'
+  priority: '0'
+  rate: '10.4'
+  shipping: '1'
+  state: WA
+wootax/37889:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '98207'
+    location_type: postcode
+  name: EVERETT
+  order: '0'
+  priority: '0'
+  rate: '9.8'
+  shipping: '1'
+  state: WA
+wootax/37890:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '98208'
+    location_type: postcode
+  name: SNOHOMISH COUNTY UNINCORP. P.T.B.A.
+  order: '0'
+  priority: '0'
+  rate: '10.4'
+  shipping: '1'
+  state: WA
+wootax/37891:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '98213'
+    location_type: postcode
+  name: EVERETT
+  order: '0'
+  priority: '0'
+  rate: '9.8'
+  shipping: '1'
+  state: WA
+wootax/37892:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '98220'
+    location_type: postcode
+  name: WHATCOM COUNTY UNINCORP. P.T.B.A.
+  order: '0'
+  priority: '0'
+  rate: '8.5'
+  shipping: '1'
+  state: WA
+wootax/37893:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '98221'
+    location_type: postcode
+  name: ANACORTES
+  order: '0'
+  priority: '0'
+  rate: '8.7'
+  shipping: '1'
+  state: WA
+wootax/37894:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '98222'
+    location_type: postcode
+  name: SAN JUAN COUNTY
+  order: '0'
+  priority: '0'
+  rate: '8.1'
+  shipping: '1'
+  state: WA
+wootax/37895:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '98223'
+    location_type: postcode
+  name: ARLINGTON
+  order: '0'
+  priority: '0'
+  rate: '9.2'
+  shipping: '1'
+  state: WA
+wootax/37896:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '98224'
+    location_type: postcode
+  name: KING COUNTY NON-RTA
+  order: '0'
+  priority: '0'
+  rate: '8.6'
+  shipping: '1'
+  state: WA
+wootax/37897:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '98225'
+    location_type: postcode
+  name: BELLINGHAM
+  order: '0'
+  priority: '0'
+  rate: '8.7'
+  shipping: '1'
+  state: WA
+wootax/37898:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '98226'
+    location_type: postcode
+  name: BELLINGHAM
+  order: '0'
+  priority: '0'
+  rate: '8.7'
+  shipping: '1'
+  state: WA
+wootax/37899:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '98227'
+    location_type: postcode
+  name: BELLINGHAM
+  order: '0'
+  priority: '0'
+  rate: '8.7'
+  shipping: '1'
+  state: WA
+wootax/37900:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '98228'
+    location_type: postcode
+  name: BELLINGHAM
+  order: '0'
+  priority: '0'
+  rate: '8.7'
+  shipping: '1'
+  state: WA
+wootax/37901:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '98229'
+    location_type: postcode
+  name: BELLINGHAM
+  order: '0'
+  priority: '0'
+  rate: '8.7'
+  shipping: '1'
+  state: WA
+wootax/37902:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '98230'
+    location_type: postcode
+  name: WHATCOM COUNTY UNINCORP. P.T.B.A.
+  order: '0'
+  priority: '0'
+  rate: '8.5'
+  shipping: '1'
+  state: WA
+wootax/37903:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '98231'
+    location_type: postcode
+  name: BLAINE
+  order: '0'
+  priority: '0'
+  rate: '8.7'
+  shipping: '1'
+  state: WA
+wootax/37904:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '98232'
+    location_type: postcode
+  name: SKAGIT COUNTY UNINCORP. P.T.B.A.
+  order: '0'
+  priority: '0'
+  rate: '8.5'
+  shipping: '1'
+  state: WA
+wootax/37905:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '98233'
+    location_type: postcode
+  name: BURLINGTON
+  order: '0'
+  priority: '0'
+  rate: '8.5'
+  shipping: '1'
+  state: WA
+wootax/37906:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '98235'
+    location_type: postcode
+  name: SKAGIT COUNTY UNINCORP. P.T.B.A.
+  order: '0'
+  priority: '0'
+  rate: '8.5'
+  shipping: '1'
+  state: WA
+wootax/37907:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '98236'
+    location_type: postcode
+  name: ISLAND COUNTY
+  order: '0'
+  priority: '0'
+  rate: '8.7'
+  shipping: '1'
+  state: WA
+wootax/37908:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '98237'
+    location_type: postcode
+  name: SKAGIT COUNTY UNINCORP. P.T.B.A.
+  order: '0'
+  priority: '0'
+  rate: '8.5'
+  shipping: '1'
+  state: WA
+wootax/37909:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '98238'
+    location_type: postcode
+  name: SKAGIT COUNTY
+  order: '0'
+  priority: '0'
+  rate: '8.1'
+  shipping: '1'
+  state: WA
+wootax/37910:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '98239'
+    location_type: postcode
+  name: ISLAND COUNTY
+  order: '0'
+  priority: '0'
+  rate: '8.7'
+  shipping: '1'
+  state: WA
+wootax/37911:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '98240'
+    location_type: postcode
+  name: WHATCOM COUNTY UNINCORP. P.T.B.A.
+  order: '0'
+  priority: '0'
+  rate: '8.5'
+  shipping: '1'
+  state: WA
+wootax/37912:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '98241'
+    location_type: postcode
+  name: DARRINGTON
+  order: '0'
+  priority: '0'
+  rate: '9'
+  shipping: '1'
+  state: WA
+wootax/37913:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '98243'
+    location_type: postcode
+  name: SAN JUAN COUNTY
+  order: '0'
+  priority: '0'
+  rate: '8.1'
+  shipping: '1'
+  state: WA
+wootax/37914:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '98244'
+    location_type: postcode
+  name: WHATCOM COUNTY UNINCORP. P.T.B.A.
+  order: '0'
+  priority: '0'
+  rate: '8.5'
+  shipping: '1'
+  state: WA
+wootax/37915:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '98245'
+    location_type: postcode
+  name: SAN JUAN COUNTY
+  order: '0'
+  priority: '0'
+  rate: '8.1'
+  shipping: '1'
+  state: WA
+wootax/37916:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '98247'
+    location_type: postcode
+  name: WHATCOM COUNTY UNINCORP. P.T.B.A.
+  order: '0'
+  priority: '0'
+  rate: '8.5'
+  shipping: '1'
+  state: WA
+wootax/37917:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '98248'
+    location_type: postcode
+  name: FERNDALE
+  order: '0'
+  priority: '0'
+  rate: '8.7'
+  shipping: '1'
+  state: WA
+wootax/37918:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '98249'
+    location_type: postcode
+  name: ISLAND COUNTY
+  order: '0'
+  priority: '0'
+  rate: '8.7'
+  shipping: '1'
+  state: WA
+wootax/37919:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '98250'
+    location_type: postcode
+  name: SAN JUAN COUNTY
+  order: '0'
+  priority: '0'
+  rate: '8.1'
+  shipping: '1'
+  state: WA
+wootax/37920:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '98251'
+    location_type: postcode
+  name: SNOHOMISH COUNTY UNINCORP. P.T.B.A. NON-RTA
+  order: '0'
+  priority: '0'
+  rate: '9'
+  shipping: '1'
+  state: WA
+wootax/37921:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '98252'
+    location_type: postcode
+  name: SNOHOMISH COUNTY UNINCORP. P.T.B.A. NON-RTA
+  order: '0'
+  priority: '0'
+  rate: '9'
+  shipping: '1'
+  state: WA
+wootax/37922:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '98253'
+    location_type: postcode
+  name: ISLAND COUNTY
+  order: '0'
+  priority: '0'
+  rate: '8.7'
+  shipping: '1'
+  state: WA
+wootax/37923:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '98255'
+    location_type: postcode
+  name: HAMILTON
+  order: '0'
+  priority: '0'
+  rate: '8.5'
+  shipping: '1'
+  state: WA
+wootax/37924:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '98256'
+    location_type: postcode
+  name: INDEX
+  order: '0'
+  priority: '0'
+  rate: '9'
+  shipping: '1'
+  state: WA
+wootax/37925:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '98257'
+    location_type: postcode
+  name: SKAGIT COUNTY UNINCORP. P.T.B.A.
+  order: '0'
+  priority: '0'
+  rate: '8.5'
+  shipping: '1'
+  state: WA
+wootax/37926:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '98258'
+    location_type: postcode
+  name: LAKE STEVENS
+  order: '0'
+  priority: '0'
+  rate: '9'
+  shipping: '1'
+  state: WA
+wootax/37927:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '98259'
+    location_type: postcode
+  name: MARYSVILLE
+  order: '0'
+  priority: '0'
+  rate: '9.3'
+  shipping: '1'
+  state: WA
+wootax/37928:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '98260'
+    location_type: postcode
+  name: ISLAND COUNTY
+  order: '0'
+  priority: '0'
+  rate: '8.7'
+  shipping: '1'
+  state: WA
+wootax/37929:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '98261'
+    location_type: postcode
+  name: SAN JUAN COUNTY
+  order: '0'
+  priority: '0'
+  rate: '8.1'
+  shipping: '1'
+  state: WA
+wootax/37930:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '98262'
+    location_type: postcode
+  name: WHATCOM COUNTY UNINCORP. P.T.B.A.
+  order: '0'
+  priority: '0'
+  rate: '8.5'
+  shipping: '1'
+  state: WA
+wootax/37931:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '98263'
+    location_type: postcode
+  name: LYMAN
+  order: '0'
+  priority: '0'
+  rate: '8.5'
+  shipping: '1'
+  state: WA
+wootax/37932:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '98264'
+    location_type: postcode
+  name: LYNDEN
+  order: '0'
+  priority: '0'
+  rate: '8.7'
+  shipping: '1'
+  state: WA
+wootax/37933:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '98266'
+    location_type: postcode
+  name: WHATCOM COUNTY UNINCORP. P.T.B.A.
+  order: '0'
+  priority: '0'
+  rate: '8.5'
+  shipping: '1'
+  state: WA
+wootax/37934:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '98267'
+    location_type: postcode
+  name: SKAGIT COUNTY UNINCORP. P.T.B.A.
+  order: '0'
+  priority: '0'
+  rate: '8.5'
+  shipping: '1'
+  state: WA
+wootax/37935:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '98270'
+    location_type: postcode
+  name: MARYSVILLE
+  order: '0'
+  priority: '0'
+  rate: '9.3'
+  shipping: '1'
+  state: WA
+wootax/37936:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '98271'
+    location_type: postcode
+  name: MARYSVILLE
+  order: '0'
+  priority: '0'
+  rate: '9.3'
+  shipping: '1'
+  state: WA
+wootax/37937:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '98272'
+    location_type: postcode
+  name: MONROE
+  order: '0'
+  priority: '0'
+  rate: '9.3'
+  shipping: '1'
+  state: WA
+wootax/37938:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '98273'
+    location_type: postcode
+  name: MOUNT VERNON
+  order: '0'
+  priority: '0'
+  rate: '8.7'
+  shipping: '1'
+  state: WA
+wootax/37939:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '98274'
+    location_type: postcode
+  name: MOUNT VERNON
+  order: '0'
+  priority: '0'
+  rate: '8.7'
+  shipping: '1'
+  state: WA
+wootax/37940:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '98275'
+    location_type: postcode
+  name: MUKILTEO
+  order: '0'
+  priority: '0'
+  rate: '10.5'
+  shipping: '1'
+  state: WA
+wootax/37941:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '98276'
+    location_type: postcode
+  name: NOOKSACK
+  order: '0'
+  priority: '0'
+  rate: '8.5'
+  shipping: '1'
+  state: WA
+wootax/37942:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '98277'
+    location_type: postcode
+  name: OAK HARBOR
+  order: '0'
+  priority: '0'
+  rate: '8.7'
+  shipping: '1'
+  state: WA
+wootax/37943:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '98278'
+    location_type: postcode
+  name: ISLAND COUNTY
+  order: '0'
+  priority: '0'
+  rate: '8.7'
+  shipping: '1'
+  state: WA
+wootax/37944:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '98279'
+    location_type: postcode
+  name: SAN JUAN COUNTY
+  order: '0'
+  priority: '0'
+  rate: '8.1'
+  shipping: '1'
+  state: WA
+wootax/37945:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '98280'
+    location_type: postcode
+  name: SAN JUAN COUNTY
+  order: '0'
+  priority: '0'
+  rate: '8.1'
+  shipping: '1'
+  state: WA
+wootax/37946:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '98281'
+    location_type: postcode
+  name: WHATCOM COUNTY UNINCORP. P.T.B.A.
+  order: '0'
+  priority: '0'
+  rate: '8.5'
+  shipping: '1'
+  state: WA
+wootax/37947:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '98282'
+    location_type: postcode
+  name: ISLAND COUNTY
+  order: '0'
+  priority: '0'
+  rate: '8.7'
+  shipping: '1'
+  state: WA
+wootax/37948:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '98283'
+    location_type: postcode
+  name: SKAGIT COUNTY UNINCORP. P.T.B.A.
+  order: '0'
+  priority: '0'
+  rate: '8.5'
+  shipping: '1'
+  state: WA
+wootax/37949:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '98284'
+    location_type: postcode
+  name: SKAGIT COUNTY UNINCORP. P.T.B.A.
+  order: '0'
+  priority: '0'
+  rate: '8.5'
+  shipping: '1'
+  state: WA
+wootax/37950:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '98286'
+    location_type: postcode
+  name: SAN JUAN COUNTY
+  order: '0'
+  priority: '0'
+  rate: '8.1'
+  shipping: '1'
+  state: WA
+wootax/37951:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '98287'
+    location_type: postcode
+  name: SNOHOMISH COUNTY UNINCORP. P.T.B.A. NON-RTA
+  order: '0'
+  priority: '0'
+  rate: '9'
+  shipping: '1'
+  state: WA
+wootax/37952:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '98288'
+    location_type: postcode
+  name: SKYKOMISH
+  order: '0'
+  priority: '0'
+  rate: '8.6'
+  shipping: '1'
+  state: WA
+wootax/37953:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '98290'
+    location_type: postcode
+  name: SNOHOMISH COUNTY NON-RTA
+  order: '0'
+  priority: '0'
+  rate: '7.8'
+  shipping: '1'
+  state: WA
+wootax/37954:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '98291'
+    location_type: postcode
+  name: SNOHOMISH
+  order: '0'
+  priority: '0'
+  rate: '9.2'
+  shipping: '1'
+  state: WA
+wootax/37955:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '98292'
+    location_type: postcode
+  name: SNOHOMISH COUNTY NON-RTA
+  order: '0'
+  priority: '0'
+  rate: '7.8'
+  shipping: '1'
+  state: WA
+wootax/37956:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '98293'
+    location_type: postcode
+  name: SNOHOMISH COUNTY UNINCORP. P.T.B.A. NON-RTA
+  order: '0'
+  priority: '0'
+  rate: '9'
+  shipping: '1'
+  state: WA
+wootax/37957:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '98294'
+    location_type: postcode
+  name: SULTAN
+  order: '0'
+  priority: '0'
+  rate: '9'
+  shipping: '1'
+  state: WA
+wootax/37958:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '98295'
+    location_type: postcode
+  name: SUMAS
+  order: '0'
+  priority: '0'
+  rate: '8.5'
+  shipping: '1'
+  state: WA
+wootax/37959:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '98296'
+    location_type: postcode
+  name: SNOHOMISH COUNTY NON-RTA
+  order: '0'
+  priority: '0'
+  rate: '7.8'
+  shipping: '1'
+  state: WA
+wootax/37960:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '98297'
+    location_type: postcode
+  name: SAN JUAN COUNTY
+  order: '0'
+  priority: '0'
+  rate: '8.1'
+  shipping: '1'
+  state: WA
+wootax/37961:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '98303'
+    location_type: postcode
+  name: PIERCE COUNTY NON-RTA
+  order: '0'
+  priority: '0'
+  rate: '7.9'
+  shipping: '1'
+  state: WA
+wootax/37962:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '98304'
+    location_type: postcode
+  name: PIERCE COUNTY NON-RTA
+  order: '0'
+  priority: '0'
+  rate: '7.9'
+  shipping: '1'
+  state: WA
+wootax/37963:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '98305'
+    location_type: postcode
+  name: CLALLAM COUNTY
+  order: '0'
+  priority: '0'
+  rate: '8.5'
+  shipping: '1'
+  state: WA
+wootax/37964:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '98310'
+    location_type: postcode
+  name: BREMERTON
+  order: '0'
+  priority: '0'
+  rate: '9'
+  shipping: '1'
+  state: WA
+wootax/37965:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '98311'
+    location_type: postcode
+  name: KITSAP COUNTY
+  order: '0'
+  priority: '0'
+  rate: '9'
+  shipping: '1'
+  state: WA
+wootax/37966:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '98312'
+    location_type: postcode
+  name: KITSAP COUNTY
+  order: '0'
+  priority: '0'
+  rate: '9'
+  shipping: '1'
+  state: WA
+wootax/37967:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '98314'
+    location_type: postcode
+  name: BREMERTON
+  order: '0'
+  priority: '0'
+  rate: '9'
+  shipping: '1'
+  state: WA
+wootax/37968:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '98315'
+    location_type: postcode
+  name: KITSAP COUNTY
+  order: '0'
+  priority: '0'
+  rate: '9'
+  shipping: '1'
+  state: WA
+wootax/37969:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '98320'
+    location_type: postcode
+  name: JEFFERSON COUNTY
+  order: '0'
+  priority: '0'
+  rate: '9'
+  shipping: '1'
+  state: WA
+wootax/37970:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '98321'
+    location_type: postcode
+  name: PIERCE COUNTY NON-RTA
+  order: '0'
+  priority: '0'
+  rate: '7.9'
+  shipping: '1'
+  state: WA
+wootax/37971:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '98322'
+    location_type: postcode
+  name: KITSAP COUNTY
+  order: '0'
+  priority: '0'
+  rate: '9'
+  shipping: '1'
+  state: WA
+wootax/37972:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '98323'
+    location_type: postcode
+  name: CARBONADO
+  order: '0'
+  priority: '0'
+  rate: '7.9'
+  shipping: '1'
+  state: WA
+wootax/37973:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '98324'
+    location_type: postcode
+  name: CLALLAM COUNTY
+  order: '0'
+  priority: '0'
+  rate: '8.5'
+  shipping: '1'
+  state: WA
+wootax/37974:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '98325'
+    location_type: postcode
+  name: JEFFERSON COUNTY
+  order: '0'
+  priority: '0'
+  rate: '9'
+  shipping: '1'
+  state: WA
+wootax/37975:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '98326'
+    location_type: postcode
+  name: CLALLAM COUNTY
+  order: '0'
+  priority: '0'
+  rate: '8.5'
+  shipping: '1'
+  state: WA
+wootax/37976:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '98327'
+    location_type: postcode
+  name: DUPONT
+  order: '0'
+  priority: '0'
+  rate: '9.3'
+  shipping: '1'
+  state: WA
+wootax/37977:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '98328'
+    location_type: postcode
+  name: PIERCE COUNTY NON-RTA
+  order: '0'
+  priority: '0'
+  rate: '7.9'
+  shipping: '1'
+  state: WA
+wootax/37978:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '98329'
+    location_type: postcode
+  name: PIERCE COUNTY NON-RTA
+  order: '0'
+  priority: '0'
+  rate: '7.9'
+  shipping: '1'
+  state: WA
+wootax/37979:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '98330'
+    location_type: postcode
+  name: PIERCE COUNTY NON-RTA
+  order: '0'
+  priority: '0'
+  rate: '7.9'
+  shipping: '1'
+  state: WA
+wootax/37980:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '98331'
+    location_type: postcode
+  name: FORKS
+  order: '0'
+  priority: '0'
+  rate: '8.5'
+  shipping: '1'
+  state: WA
+wootax/37981:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '98332'
+    location_type: postcode
+  name: PIERCE COUNTY NON-RTA
+  order: '0'
+  priority: '0'
+  rate: '7.9'
+  shipping: '1'
+  state: WA
+wootax/37982:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '98333'
+    location_type: postcode
+  name: PIERCE COUNTY NON-RTA
+  order: '0'
+  priority: '0'
+  rate: '7.9'
+  shipping: '1'
+  state: WA
+wootax/37983:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '98335'
+    location_type: postcode
+  name: PIERCE COUNTY NON-RTA
+  order: '0'
+  priority: '0'
+  rate: '7.9'
+  shipping: '1'
+  state: WA
+wootax/37984:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '98336'
+    location_type: postcode
+  name: LEWIS COUNTY
+  order: '0'
+  priority: '0'
+  rate: '7.8'
+  shipping: '1'
+  state: WA
+wootax/37985:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '98337'
+    location_type: postcode
+  name: BREMERTON
+  order: '0'
+  priority: '0'
+  rate: '9'
+  shipping: '1'
+  state: WA
+wootax/37986:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '98338'
+    location_type: postcode
+  name: PIERCE COUNTY NON-RTA
+  order: '0'
+  priority: '0'
+  rate: '7.9'
+  shipping: '1'
+  state: WA
+wootax/37987:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '98339'
+    location_type: postcode
+  name: JEFFERSON COUNTY
+  order: '0'
+  priority: '0'
+  rate: '9'
+  shipping: '1'
+  state: WA
+wootax/37988:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '98340'
+    location_type: postcode
+  name: KITSAP COUNTY
+  order: '0'
+  priority: '0'
+  rate: '9'
+  shipping: '1'
+  state: WA
+wootax/37989:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '98342'
+    location_type: postcode
+  name: KITSAP COUNTY
+  order: '0'
+  priority: '0'
+  rate: '9'
+  shipping: '1'
+  state: WA
+wootax/37990:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '98343'
+    location_type: postcode
+  name: CLALLAM COUNTY
+  order: '0'
+  priority: '0'
+  rate: '8.5'
+  shipping: '1'
+  state: WA
+wootax/37991:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '98344'
+    location_type: postcode
+  name: PIERCE COUNTY NON-RTA
+  order: '0'
+  priority: '0'
+  rate: '7.9'
+  shipping: '1'
+  state: WA
+wootax/37992:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '98345'
+    location_type: postcode
+  name: KITSAP COUNTY
+  order: '0'
+  priority: '0'
+  rate: '9'
+  shipping: '1'
+  state: WA
+wootax/37993:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '98346'
+    location_type: postcode
+  name: KITSAP COUNTY
+  order: '0'
+  priority: '0'
+  rate: '9'
+  shipping: '1'
+  state: WA
+wootax/37994:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '98348'
+    location_type: postcode
+  name: PIERCE COUNTY NON-RTA
+  order: '0'
+  priority: '0'
+  rate: '7.9'
+  shipping: '1'
+  state: WA
+wootax/37995:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '98349'
+    location_type: postcode
+  name: PIERCE COUNTY NON-RTA
+  order: '0'
+  priority: '0'
+  rate: '7.9'
+  shipping: '1'
+  state: WA
+wootax/37996:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '98350'
+    location_type: postcode
+  name: CLALLAM COUNTY
+  order: '0'
+  priority: '0'
+  rate: '8.5'
+  shipping: '1'
+  state: WA
+wootax/37997:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '98351'
+    location_type: postcode
+  name: PIERCE COUNTY NON-RTA
+  order: '0'
+  priority: '0'
+  rate: '7.9'
+  shipping: '1'
+  state: WA
+wootax/37998:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '98352'
+    location_type: postcode
+  name: SUMNER
+  order: '0'
+  priority: '0'
+  rate: '9.3'
+  shipping: '1'
+  state: WA
+wootax/37999:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '98353'
+    location_type: postcode
+  name: KITSAP COUNTY
+  order: '0'
+  priority: '0'
+  rate: '9'
+  shipping: '1'
+  state: WA
+wootax/38000:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '98354'
+    location_type: postcode
+  name: MILTON (PIERCE CO)
+  order: '0'
+  priority: '0'
+  rate: '9.9'
+  shipping: '1'
+  state: WA
+wootax/38001:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '98355'
+    location_type: postcode
+  name: LEWIS COUNTY
+  order: '0'
+  priority: '0'
+  rate: '7.8'
+  shipping: '1'
+  state: WA
+wootax/38002:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '98356'
+    location_type: postcode
+  name: MORTON
+  order: '0'
+  priority: '0'
+  rate: '7.8'
+  shipping: '1'
+  state: WA
+wootax/38003:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '98357'
+    location_type: postcode
+  name: CLALLAM COUNTY
+  order: '0'
+  priority: '0'
+  rate: '8.5'
+  shipping: '1'
+  state: WA
+wootax/38004:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '98358'
+    location_type: postcode
+  name: JEFFERSON COUNTY
+  order: '0'
+  priority: '0'
+  rate: '9'
+  shipping: '1'
+  state: WA
+wootax/38005:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '98359'
+    location_type: postcode
+  name: KITSAP COUNTY
+  order: '0'
+  priority: '0'
+  rate: '9'
+  shipping: '1'
+  state: WA
+wootax/38006:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '98360'
+    location_type: postcode
+  name: ORTING
+  order: '0'
+  priority: '0'
+  rate: '9.3'
+  shipping: '1'
+  state: WA
+wootax/38007:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '98361'
+    location_type: postcode
+  name: LEWIS COUNTY
+  order: '0'
+  priority: '0'
+  rate: '7.8'
+  shipping: '1'
+  state: WA
+wootax/38008:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '98362'
+    location_type: postcode
+  name: PORT ANGELES
+  order: '0'
+  priority: '0'
+  rate: '8.7'
+  shipping: '1'
+  state: WA
+wootax/38009:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '98363'
+    location_type: postcode
+  name: PORT ANGELES
+  order: '0'
+  priority: '0'
+  rate: '8.7'
+  shipping: '1'
+  state: WA
+wootax/38010:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '98364'
+    location_type: postcode
+  name: KITSAP COUNTY
+  order: '0'
+  priority: '0'
+  rate: '9'
+  shipping: '1'
+  state: WA
+wootax/38011:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '98365'
+    location_type: postcode
+  name: JEFFERSON COUNTY
+  order: '0'
+  priority: '0'
+  rate: '9'
+  shipping: '1'
+  state: WA
+wootax/38012:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '98366'
+    location_type: postcode
+  name: PORT ORCHARD
+  order: '0'
+  priority: '0'
+  rate: '9'
+  shipping: '1'
+  state: WA
+wootax/38013:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '98367'
+    location_type: postcode
+  name: KITSAP COUNTY
+  order: '0'
+  priority: '0'
+  rate: '9'
+  shipping: '1'
+  state: WA
+wootax/38014:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '98368'
+    location_type: postcode
+  name: PORT TOWNSEND
+  order: '0'
+  priority: '0'
+  rate: '9'
+  shipping: '1'
+  state: WA
+wootax/38015:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '98370'
+    location_type: postcode
+  name: KITSAP COUNTY
+  order: '0'
+  priority: '0'
+  rate: '9'
+  shipping: '1'
+  state: WA
+wootax/38016:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '98371'
+    location_type: postcode
+  name: PUYALLUP
+  order: '0'
+  priority: '0'
+  rate: '9.9'
+  shipping: '1'
+  state: WA
+wootax/38017:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '98372'
+    location_type: postcode
+  name: PUYALLUP
+  order: '0'
+  priority: '0'
+  rate: '9.9'
+  shipping: '1'
+  state: WA
+wootax/38018:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '98373'
+    location_type: postcode
+  name: PIERCE COUNTY UNINCORP. P.T.B.A.
+  order: '0'
+  priority: '0'
+  rate: '9.9'
+  shipping: '1'
+  state: WA
+wootax/38019:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '98374'
+    location_type: postcode
+  name: PIERCE COUNTY UNINCORP. P.T.B.A.
+  order: '0'
+  priority: '0'
+  rate: '9.9'
+  shipping: '1'
+  state: WA
+wootax/38020:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '98375'
+    location_type: postcode
+  name: PIERCE COUNTY
+  order: '0'
+  priority: '0'
+  rate: '9.3'
+  shipping: '1'
+  state: WA
+wootax/38021:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '98376'
+    location_type: postcode
+  name: JEFFERSON COUNTY
+  order: '0'
+  priority: '0'
+  rate: '9'
+  shipping: '1'
+  state: WA
+wootax/38022:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '98377'
+    location_type: postcode
+  name: LEWIS COUNTY
+  order: '0'
+  priority: '0'
+  rate: '7.8'
+  shipping: '1'
+  state: WA
+wootax/38023:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '98380'
+    location_type: postcode
+  name: KITSAP COUNTY
+  order: '0'
+  priority: '0'
+  rate: '9'
+  shipping: '1'
+  state: WA
+wootax/38024:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '98381'
+    location_type: postcode
+  name: CLALLAM COUNTY
+  order: '0'
+  priority: '0'
+  rate: '8.5'
+  shipping: '1'
+  state: WA
+wootax/38025:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '98382'
+    location_type: postcode
+  name: CLALLAM COUNTY
+  order: '0'
+  priority: '0'
+  rate: '8.5'
+  shipping: '1'
+  state: WA
+wootax/38026:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '98383'
+    location_type: postcode
+  name: KITSAP COUNTY
+  order: '0'
+  priority: '0'
+  rate: '9'
+  shipping: '1'
+  state: WA
+wootax/38027:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '98384'
+    location_type: postcode
+  name: KITSAP COUNTY
+  order: '0'
+  priority: '0'
+  rate: '9'
+  shipping: '1'
+  state: WA
+wootax/38028:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '98385'
+    location_type: postcode
+  name: SOUTH PRAIRIE
+  order: '0'
+  priority: '0'
+  rate: '7.9'
+  shipping: '1'
+  state: WA
+wootax/38029:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '98386'
+    location_type: postcode
+  name: KITSAP COUNTY
+  order: '0'
+  priority: '0'
+  rate: '9'
+  shipping: '1'
+  state: WA
+wootax/38030:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '98387'
+    location_type: postcode
+  name: PIERCE COUNTY UNINCORP. P.T.B.A.
+  order: '0'
+  priority: '0'
+  rate: '9.9'
+  shipping: '1'
+  state: WA
+wootax/38031:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '98388'
+    location_type: postcode
+  name: STEILACOOM
+  order: '0'
+  priority: '0'
+  rate: '9.9'
+  shipping: '1'
+  state: WA
+wootax/38032:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '98390'
+    location_type: postcode
+  name: SUMNER
+  order: '0'
+  priority: '0'
+  rate: '9.3'
+  shipping: '1'
+  state: WA
+wootax/38033:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '98391'
+    location_type: postcode
+  name: PIERCE COUNTY
+  order: '0'
+  priority: '0'
+  rate: '9.3'
+  shipping: '1'
+  state: WA
+wootax/38034:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '98392'
+    location_type: postcode
+  name: KITSAP COUNTY
+  order: '0'
+  priority: '0'
+  rate: '9'
+  shipping: '1'
+  state: WA
+wootax/38035:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '98393'
+    location_type: postcode
+  name: KITSAP COUNTY
+  order: '0'
+  priority: '0'
+  rate: '9'
+  shipping: '1'
+  state: WA
+wootax/38036:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '98394'
+    location_type: postcode
+  name: PIERCE COUNTY NON-RTA
+  order: '0'
+  priority: '0'
+  rate: '7.9'
+  shipping: '1'
+  state: WA
+wootax/38037:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '98395'
+    location_type: postcode
+  name: PIERCE COUNTY NON-RTA
+  order: '0'
+  priority: '0'
+  rate: '7.9'
+  shipping: '1'
+  state: WA
+wootax/38038:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '98396'
+    location_type: postcode
+  name: WILKESON
+  order: '0'
+  priority: '0'
+  rate: '7.9'
+  shipping: '1'
+  state: WA
+wootax/38039:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '98401'
+    location_type: postcode
+  name: TACOMA
+  order: '0'
+  priority: '0'
+  rate: '10.2'
+  shipping: '1'
+  state: WA
+wootax/38040:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '98402'
+    location_type: postcode
+  name: TACOMA
+  order: '0'
+  priority: '0'
+  rate: '10.2'
+  shipping: '1'
+  state: WA
+wootax/38041:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '98403'
+    location_type: postcode
+  name: TACOMA
+  order: '0'
+  priority: '0'
+  rate: '10.2'
+  shipping: '1'
+  state: WA
+wootax/38042:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '98404'
+    location_type: postcode
+  name: TACOMA
+  order: '0'
+  priority: '0'
+  rate: '10.2'
+  shipping: '1'
+  state: WA
+wootax/38043:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '98405'
+    location_type: postcode
+  name: TACOMA
+  order: '0'
+  priority: '0'
+  rate: '10.2'
+  shipping: '1'
+  state: WA
+wootax/38044:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '98406'
+    location_type: postcode
+  name: TACOMA
+  order: '0'
+  priority: '0'
+  rate: '10.2'
+  shipping: '1'
+  state: WA
+wootax/38045:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '98407'
+    location_type: postcode
+  name: TACOMA
+  order: '0'
+  priority: '0'
+  rate: '10.2'
+  shipping: '1'
+  state: WA
+wootax/38046:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '98408'
+    location_type: postcode
+  name: TACOMA
+  order: '0'
+  priority: '0'
+  rate: '10.2'
+  shipping: '1'
+  state: WA
+wootax/38047:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '98409'
+    location_type: postcode
+  name: TACOMA
+  order: '0'
+  priority: '0'
+  rate: '10.2'
+  shipping: '1'
+  state: WA
+wootax/38048:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '98411'
+    location_type: postcode
+  name: TACOMA
+  order: '0'
+  priority: '0'
+  rate: '10.2'
+  shipping: '1'
+  state: WA
+wootax/38049:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '98413'
+    location_type: postcode
+  name: TACOMA
+  order: '0'
+  priority: '0'
+  rate: '10.2'
+  shipping: '1'
+  state: WA
+wootax/38050:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '98416'
+    location_type: postcode
+  name: TACOMA
+  order: '0'
+  priority: '0'
+  rate: '10.2'
+  shipping: '1'
+  state: WA
+wootax/38051:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '98417'
+    location_type: postcode
+  name: TACOMA
+  order: '0'
+  priority: '0'
+  rate: '10.2'
+  shipping: '1'
+  state: WA
+wootax/38052:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '98418'
+    location_type: postcode
+  name: TACOMA
+  order: '0'
+  priority: '0'
+  rate: '10.2'
+  shipping: '1'
+  state: WA
+wootax/38053:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '98419'
+    location_type: postcode
+  name: TACOMA
+  order: '0'
+  priority: '0'
+  rate: '10.2'
+  shipping: '1'
+  state: WA
+wootax/38054:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '98421'
+    location_type: postcode
+  name: TACOMA
+  order: '0'
+  priority: '0'
+  rate: '10.2'
+  shipping: '1'
+  state: WA
+wootax/38055:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '98422'
+    location_type: postcode
+  name: TACOMA
+  order: '0'
+  priority: '0'
+  rate: '10.2'
+  shipping: '1'
+  state: WA
+wootax/38056:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '98424'
+    location_type: postcode
+  name: FIFE
+  order: '0'
+  priority: '0'
+  rate: '9.9'
+  shipping: '1'
+  state: WA
+wootax/38057:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '98430'
+    location_type: postcode
+  name: TACOMA
+  order: '0'
+  priority: '0'
+  rate: '10.2'
+  shipping: '1'
+  state: WA
+wootax/38058:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '98431'
+    location_type: postcode
+  name: TACOMA
+  order: '0'
+  priority: '0'
+  rate: '10.2'
+  shipping: '1'
+  state: WA
+wootax/38059:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '98433'
+    location_type: postcode
+  name: PIERCE COUNTY
+  order: '0'
+  priority: '0'
+  rate: '9.3'
+  shipping: '1'
+  state: WA
+wootax/38060:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '98438'
+    location_type: postcode
+  name: PIERCE COUNTY
+  order: '0'
+  priority: '0'
+  rate: '9.3'
+  shipping: '1'
+  state: WA
+wootax/38061:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '98439'
+    location_type: postcode
+  name: LAKEWOOD
+  order: '0'
+  priority: '0'
+  rate: '9.9'
+  shipping: '1'
+  state: WA
+wootax/38062:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '98443'
+    location_type: postcode
+  name: PIERCE COUNTY UNINCORP. P.T.B.A.
+  order: '0'
+  priority: '0'
+  rate: '9.9'
+  shipping: '1'
+  state: WA
+wootax/38063:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '98444'
+    location_type: postcode
+  name: PIERCE COUNTY UNINCORP. P.T.B.A.
+  order: '0'
+  priority: '0'
+  rate: '9.9'
+  shipping: '1'
+  state: WA
+wootax/38064:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '98445'
+    location_type: postcode
+  name: PIERCE COUNTY UNINCORP. P.T.B.A.
+  order: '0'
+  priority: '0'
+  rate: '9.9'
+  shipping: '1'
+  state: WA
+wootax/38065:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '98446'
+    location_type: postcode
+  name: PIERCE COUNTY
+  order: '0'
+  priority: '0'
+  rate: '9.3'
+  shipping: '1'
+  state: WA
+wootax/38066:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '98447'
+    location_type: postcode
+  name: PIERCE COUNTY UNINCORP. P.T.B.A.
+  order: '0'
+  priority: '0'
+  rate: '9.9'
+  shipping: '1'
+  state: WA
+wootax/38067:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '98448'
+    location_type: postcode
+  name: TACOMA
+  order: '0'
+  priority: '0'
+  rate: '10.2'
+  shipping: '1'
+  state: WA
+wootax/38068:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '98464'
+    location_type: postcode
+  name: UNIVERSITY PLACE
+  order: '0'
+  priority: '0'
+  rate: '9.9'
+  shipping: '1'
+  state: WA
+wootax/38069:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '98465'
+    location_type: postcode
+  name: TACOMA
+  order: '0'
+  priority: '0'
+  rate: '10.2'
+  shipping: '1'
+  state: WA
+wootax/38070:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '98466'
+    location_type: postcode
+  name: UNIVERSITY PLACE
+  order: '0'
+  priority: '0'
+  rate: '9.9'
+  shipping: '1'
+  state: WA
+wootax/38071:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '98467'
+    location_type: postcode
+  name: UNIVERSITY PLACE
+  order: '0'
+  priority: '0'
+  rate: '9.9'
+  shipping: '1'
+  state: WA
+wootax/38072:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '98490'
+    location_type: postcode
+  name: TACOMA
+  order: '0'
+  priority: '0'
+  rate: '10.2'
+  shipping: '1'
+  state: WA
+wootax/38073:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '98493'
+    location_type: postcode
+  name: PIERCE COUNTY
+  order: '0'
+  priority: '0'
+  rate: '9.3'
+  shipping: '1'
+  state: WA
+wootax/38074:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '98496'
+    location_type: postcode
+  name: LAKEWOOD
+  order: '0'
+  priority: '0'
+  rate: '9.9'
+  shipping: '1'
+  state: WA
+wootax/38075:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '98498'
+    location_type: postcode
+  name: LAKEWOOD
+  order: '0'
+  priority: '0'
+  rate: '9.9'
+  shipping: '1'
+  state: WA
+wootax/38076:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '98499'
+    location_type: postcode
+  name: LAKEWOOD
+  order: '0'
+  priority: '0'
+  rate: '9.9'
+  shipping: '1'
+  state: WA
+wootax/38077:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '98501'
+    location_type: postcode
+  name: OLYMPIA
+  order: '0'
+  priority: '0'
+  rate: '9.3'
+  shipping: '1'
+  state: WA
+wootax/38078:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '98502'
+    location_type: postcode
+  name: OLYMPIA
+  order: '0'
+  priority: '0'
+  rate: '9.3'
+  shipping: '1'
+  state: WA
+wootax/38079:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '98503'
+    location_type: postcode
+  name: LACEY
+  order: '0'
+  priority: '0'
+  rate: '9.3'
+  shipping: '1'
+  state: WA
+wootax/38080:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '98505'
+    location_type: postcode
+  name: THURSTON COUNTY UNINCORP. P.T.B.A.
+  order: '0'
+  priority: '0'
+  rate: '9.1'
+  shipping: '1'
+  state: WA
+wootax/38081:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '98506'
+    location_type: postcode
+  name: OLYMPIA
+  order: '0'
+  priority: '0'
+  rate: '9.3'
+  shipping: '1'
+  state: WA
+wootax/38082:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '98507'
+    location_type: postcode
+  name: OLYMPIA
+  order: '0'
+  priority: '0'
+  rate: '9.3'
+  shipping: '1'
+  state: WA
+wootax/38083:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '98508'
+    location_type: postcode
+  name: OLYMPIA
+  order: '0'
+  priority: '0'
+  rate: '9.3'
+  shipping: '1'
+  state: WA
+wootax/38084:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '98509'
+    location_type: postcode
+  name: LACEY
+  order: '0'
+  priority: '0'
+  rate: '9.3'
+  shipping: '1'
+  state: WA
+wootax/38085:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '98511'
+    location_type: postcode
+  name: TUMWATER
+  order: '0'
+  priority: '0'
+  rate: '9.3'
+  shipping: '1'
+  state: WA
+wootax/38086:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '98512'
+    location_type: postcode
+  name: TUMWATER
+  order: '0'
+  priority: '0'
+  rate: '9.3'
+  shipping: '1'
+  state: WA
+wootax/38087:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '98513'
+    location_type: postcode
+  name: THURSTON COUNTY UNINCORP. P.T.B.A.
+  order: '0'
+  priority: '0'
+  rate: '9.1'
+  shipping: '1'
+  state: WA
+wootax/38088:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '98516'
+    location_type: postcode
+  name: LACEY
+  order: '0'
+  priority: '0'
+  rate: '9.3'
+  shipping: '1'
+  state: WA
+wootax/38089:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '98520'
+    location_type: postcode
+  name: ABERDEEN
+  order: '0'
+  priority: '0'
+  rate: '8.98'
+  shipping: '1'
+  state: WA
+wootax/38090:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '98522'
+    location_type: postcode
+  name: LEWIS COUNTY
+  order: '0'
+  priority: '0'
+  rate: '7.8'
+  shipping: '1'
+  state: WA
+wootax/38091:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '98524'
+    location_type: postcode
+  name: MASON COUNTY
+  order: '0'
+  priority: '0'
+  rate: '8.5'
+  shipping: '1'
+  state: WA
+wootax/38092:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '98526'
+    location_type: postcode
+  name: GRAYS HARBOR COUNTY
+  order: '0'
+  priority: '0'
+  rate: '8.8'
+  shipping: '1'
+  state: WA
+wootax/38093:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '98527'
+    location_type: postcode
+  name: PACIFIC COUNTY
+  order: '0'
+  priority: '0'
+  rate: '8.1'
+  shipping: '1'
+  state: WA
+wootax/38094:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '98528'
+    location_type: postcode
+  name: MASON COUNTY
+  order: '0'
+  priority: '0'
+  rate: '8.5'
+  shipping: '1'
+  state: WA
+wootax/38095:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '98530'
+    location_type: postcode
+  name: BUCODA
+  order: '0'
+  priority: '0'
+  rate: '7.9'
+  shipping: '1'
+  state: WA
+wootax/38096:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '98531'
+    location_type: postcode
+  name: CENTRALIA
+  order: '0'
+  priority: '0'
+  rate: '8.2'
+  shipping: '1'
+  state: WA
+wootax/38097:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '98532'
+    location_type: postcode
+  name: CHEHALIS
+  order: '0'
+  priority: '0'
+  rate: '8.2'
+  shipping: '1'
+  state: WA
+wootax/38098:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '98533'
+    location_type: postcode
+  name: LEWIS COUNTY
+  order: '0'
+  priority: '0'
+  rate: '7.8'
+  shipping: '1'
+  state: WA
+wootax/38099:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '98535'
+    location_type: postcode
+  name: GRAYS HARBOR COUNTY
+  order: '0'
+  priority: '0'
+  rate: '8.8'
+  shipping: '1'
+  state: WA
+wootax/38100:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '98536'
+    location_type: postcode
+  name: GRAYS HARBOR COUNTY
+  order: '0'
+  priority: '0'
+  rate: '8.8'
+  shipping: '1'
+  state: WA
+wootax/38101:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '98537'
+    location_type: postcode
+  name: COSMOPOLIS
+  order: '0'
+  priority: '0'
+  rate: '8.8'
+  shipping: '1'
+  state: WA
+wootax/38102:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '98538'
+    location_type: postcode
+  name: LEWIS COUNTY
+  order: '0'
+  priority: '0'
+  rate: '7.8'
+  shipping: '1'
+  state: WA
+wootax/38103:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '98539'
+    location_type: postcode
+  name: LEWIS COUNTY
+  order: '0'
+  priority: '0'
+  rate: '7.8'
+  shipping: '1'
+  state: WA
+wootax/38104:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '98540'
+    location_type: postcode
+  name: THURSTON COUNTY
+  order: '0'
+  priority: '0'
+  rate: '7.9'
+  shipping: '1'
+  state: WA
+wootax/38105:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '98541'
+    location_type: postcode
+  name: ELMA
+  order: '0'
+  priority: '0'
+  rate: '8.8'
+  shipping: '1'
+  state: WA
+wootax/38106:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '98542'
+    location_type: postcode
+  name: LEWIS COUNTY
+  order: '0'
+  priority: '0'
+  rate: '7.8'
+  shipping: '1'
+  state: WA
+wootax/38107:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '98544'
+    location_type: postcode
+  name: LEWIS COUNTY
+  order: '0'
+  priority: '0'
+  rate: '7.8'
+  shipping: '1'
+  state: WA
+wootax/38108:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '98546'
+    location_type: postcode
+  name: MASON COUNTY
+  order: '0'
+  priority: '0'
+  rate: '8.5'
+  shipping: '1'
+  state: WA
+wootax/38109:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '98547'
+    location_type: postcode
+  name: GRAYS HARBOR COUNTY
+  order: '0'
+  priority: '0'
+  rate: '8.8'
+  shipping: '1'
+  state: WA
+wootax/38110:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '98548'
+    location_type: postcode
+  name: MASON COUNTY
+  order: '0'
+  priority: '0'
+  rate: '8.5'
+  shipping: '1'
+  state: WA
+wootax/38111:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '98550'
+    location_type: postcode
+  name: HOQUIAM
+  order: '0'
+  priority: '0'
+  rate: '8.8'
+  shipping: '1'
+  state: WA
+wootax/38112:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '98552'
+    location_type: postcode
+  name: GRAYS HARBOR COUNTY
+  order: '0'
+  priority: '0'
+  rate: '8.8'
+  shipping: '1'
+  state: WA
+wootax/38113:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '98554'
+    location_type: postcode
+  name: PACIFIC COUNTY
+  order: '0'
+  priority: '0'
+  rate: '8.1'
+  shipping: '1'
+  state: WA
+wootax/38114:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '98555'
+    location_type: postcode
+  name: MASON COUNTY
+  order: '0'
+  priority: '0'
+  rate: '8.5'
+  shipping: '1'
+  state: WA
+wootax/38115:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '98556'
+    location_type: postcode
+  name: THURSTON COUNTY
+  order: '0'
+  priority: '0'
+  rate: '7.9'
+  shipping: '1'
+  state: WA
+wootax/38116:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '98557'
+    location_type: postcode
+  name: MCCLEARY
+  order: '0'
+  priority: '0'
+  rate: '8.8'
+  shipping: '1'
+  state: WA
+wootax/38117:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '98558'
+    location_type: postcode
+  name: PIERCE COUNTY NON-RTA
+  order: '0'
+  priority: '0'
+  rate: '7.9'
+  shipping: '1'
+  state: WA
+wootax/38118:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '98559'
+    location_type: postcode
+  name: GRAYS HARBOR COUNTY
+  order: '0'
+  priority: '0'
+  rate: '8.8'
+  shipping: '1'
+  state: WA
+wootax/38119:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '98560'
+    location_type: postcode
+  name: MASON COUNTY
+  order: '0'
+  priority: '0'
+  rate: '8.5'
+  shipping: '1'
+  state: WA
+wootax/38120:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '98561'
+    location_type: postcode
+  name: PACIFIC COUNTY
+  order: '0'
+  priority: '0'
+  rate: '8.1'
+  shipping: '1'
+  state: WA
+wootax/38121:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '98562'
+    location_type: postcode
+  name: GRAYS HARBOR COUNTY
+  order: '0'
+  priority: '0'
+  rate: '8.8'
+  shipping: '1'
+  state: WA
+wootax/38122:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '98563'
+    location_type: postcode
+  name: MONTESANO
+  order: '0'
+  priority: '0'
+  rate: '8.8'
+  shipping: '1'
+  state: WA
+wootax/38123:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '98564'
+    location_type: postcode
+  name: LEWIS COUNTY
+  order: '0'
+  priority: '0'
+  rate: '7.8'
+  shipping: '1'
+  state: WA
+wootax/38124:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '98565'
+    location_type: postcode
+  name: NAPAVINE
+  order: '0'
+  priority: '0'
+  rate: '7.8'
+  shipping: '1'
+  state: WA
+wootax/38125:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '98566'
+    location_type: postcode
+  name: GRAYS HARBOR COUNTY
+  order: '0'
+  priority: '0'
+  rate: '8.8'
+  shipping: '1'
+  state: WA
+wootax/38126:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '98568'
+    location_type: postcode
+  name: GRAYS HARBOR COUNTY
+  order: '0'
+  priority: '0'
+  rate: '8.8'
+  shipping: '1'
+  state: WA
+wootax/38127:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '98569'
+    location_type: postcode
+  name: OCEAN SHORES
+  order: '0'
+  priority: '0'
+  rate: '9'
+  shipping: '1'
+  state: WA
+wootax/38128:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '98570'
+    location_type: postcode
+  name: LEWIS COUNTY
+  order: '0'
+  priority: '0'
+  rate: '7.8'
+  shipping: '1'
+  state: WA
+wootax/38129:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '98571'
+    location_type: postcode
+  name: GRAYS HARBOR COUNTY
+  order: '0'
+  priority: '0'
+  rate: '8.8'
+  shipping: '1'
+  state: WA
+wootax/38130:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '98572'
+    location_type: postcode
+  name: PE ELL
+  order: '0'
+  priority: '0'
+  rate: '7.8'
+  shipping: '1'
+  state: WA
+wootax/38131:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '98575'
+    location_type: postcode
+  name: GRAYS HARBOR COUNTY
+  order: '0'
+  priority: '0'
+  rate: '8.8'
+  shipping: '1'
+  state: WA
+wootax/38132:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '98576'
+    location_type: postcode
+  name: THURSTON COUNTY
+  order: '0'
+  priority: '0'
+  rate: '7.9'
+  shipping: '1'
+  state: WA
+wootax/38133:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '98577'
+    location_type: postcode
+  name: RAYMOND
+  order: '0'
+  priority: '0'
+  rate: '8.1'
+  shipping: '1'
+  state: WA
+wootax/38134:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '98579'
+    location_type: postcode
+  name: THURSTON COUNTY
+  order: '0'
+  priority: '0'
+  rate: '7.9'
+  shipping: '1'
+  state: WA
+wootax/38135:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '98580'
+    location_type: postcode
+  name: PIERCE COUNTY NON-RTA
+  order: '0'
+  priority: '0'
+  rate: '7.9'
+  shipping: '1'
+  state: WA
+wootax/38136:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '98581'
+    location_type: postcode
+  name: COWLITZ COUNTY
+  order: '0'
+  priority: '0'
+  rate: '7.8'
+  shipping: '1'
+  state: WA
+wootax/38137:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '98582'
+    location_type: postcode
+  name: LEWIS COUNTY
+  order: '0'
+  priority: '0'
+  rate: '7.8'
+  shipping: '1'
+  state: WA
+wootax/38138:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '98583'
+    location_type: postcode
+  name: GRAYS HARBOR COUNTY
+  order: '0'
+  priority: '0'
+  rate: '8.8'
+  shipping: '1'
+  state: WA
+wootax/38139:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '98584'
+    location_type: postcode
+  name: MASON COUNTY
+  order: '0'
+  priority: '0'
+  rate: '8.5'
+  shipping: '1'
+  state: WA
+wootax/38140:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '98585'
+    location_type: postcode
+  name: LEWIS COUNTY
+  order: '0'
+  priority: '0'
+  rate: '7.8'
+  shipping: '1'
+  state: WA
+wootax/38141:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '98586'
+    location_type: postcode
+  name: PACIFIC COUNTY
+  order: '0'
+  priority: '0'
+  rate: '8.1'
+  shipping: '1'
+  state: WA
+wootax/38142:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '98587'
+    location_type: postcode
+  name: GRAYS HARBOR COUNTY
+  order: '0'
+  priority: '0'
+  rate: '8.8'
+  shipping: '1'
+  state: WA
+wootax/38143:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '98588'
+    location_type: postcode
+  name: MASON COUNTY
+  order: '0'
+  priority: '0'
+  rate: '8.5'
+  shipping: '1'
+  state: WA
+wootax/38144:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '98589'
+    location_type: postcode
+  name: THURSTON COUNTY
+  order: '0'
+  priority: '0'
+  rate: '7.9'
+  shipping: '1'
+  state: WA
+wootax/38145:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '98590'
+    location_type: postcode
+  name: PACIFIC COUNTY
+  order: '0'
+  priority: '0'
+  rate: '8.1'
+  shipping: '1'
+  state: WA
+wootax/38146:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '98591'
+    location_type: postcode
+  name: LEWIS COUNTY
+  order: '0'
+  priority: '0'
+  rate: '7.8'
+  shipping: '1'
+  state: WA
+wootax/38147:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '98592'
+    location_type: postcode
+  name: MASON COUNTY
+  order: '0'
+  priority: '0'
+  rate: '8.5'
+  shipping: '1'
+  state: WA
+wootax/38148:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '98593'
+    location_type: postcode
+  name: VADER
+  order: '0'
+  priority: '0'
+  rate: '7.8'
+  shipping: '1'
+  state: WA
+wootax/38149:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '98595'
+    location_type: postcode
+  name: WESTPORT
+  order: '0'
+  priority: '0'
+  rate: '8.8'
+  shipping: '1'
+  state: WA
+wootax/38150:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '98596'
+    location_type: postcode
+  name: LEWIS COUNTY
+  order: '0'
+  priority: '0'
+  rate: '7.8'
+  shipping: '1'
+  state: WA
+wootax/38151:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '98597'
+    location_type: postcode
+  name: THURSTON COUNTY
+  order: '0'
+  priority: '0'
+  rate: '7.9'
+  shipping: '1'
+  state: WA
+wootax/38152:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '98601'
+    location_type: postcode
+  name: CLARK COUNTY
+  order: '0'
+  priority: '0'
+  rate: '7.7'
+  shipping: '1'
+  state: WA
+wootax/38153:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '98602'
+    location_type: postcode
+  name: KLICKITAT COUNTY
+  order: '0'
+  priority: '0'
+  rate: '7'
+  shipping: '1'
+  state: WA
+wootax/38154:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '98603'
+    location_type: postcode
+  name: COWLITZ COUNTY
+  order: '0'
+  priority: '0'
+  rate: '7.8'
+  shipping: '1'
+  state: WA
+wootax/38155:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '98604'
+    location_type: postcode
+  name: CLARK COUNTY
+  order: '0'
+  priority: '0'
+  rate: '7.7'
+  shipping: '1'
+  state: WA
+wootax/38156:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '98605'
+    location_type: postcode
+  name: BINGEN
+  order: '0'
+  priority: '0'
+  rate: '7.5'
+  shipping: '1'
+  state: WA
+wootax/38157:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '98606'
+    location_type: postcode
+  name: CLARK COUNTY
+  order: '0'
+  priority: '0'
+  rate: '7.7'
+  shipping: '1'
+  state: WA
+wootax/38158:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '98607'
+    location_type: postcode
+  name: CAMAS
+  order: '0'
+  priority: '0'
+  rate: '8.4'
+  shipping: '1'
+  state: WA
+wootax/38159:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '98609'
+    location_type: postcode
+  name: COWLITZ COUNTY
+  order: '0'
+  priority: '0'
+  rate: '7.8'
+  shipping: '1'
+  state: WA
+wootax/38160:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '98610'
+    location_type: postcode
+  name: SKAMANIA COUNTY
+  order: '0'
+  priority: '0'
+  rate: '7.7'
+  shipping: '1'
+  state: WA
+wootax/38161:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '98611'
+    location_type: postcode
+  name: COWLITZ COUNTY
+  order: '0'
+  priority: '0'
+  rate: '7.8'
+  shipping: '1'
+  state: WA
+wootax/38162:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '98612'
+    location_type: postcode
+  name: WAHKIAKUM COUNTY
+  order: '0'
+  priority: '0'
+  rate: '7.6'
+  shipping: '1'
+  state: WA
+wootax/38163:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '98613'
+    location_type: postcode
+  name: KLICKITAT COUNTY
+  order: '0'
+  priority: '0'
+  rate: '7'
+  shipping: '1'
+  state: WA
+wootax/38164:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '98614'
+    location_type: postcode
+  name: PACIFIC COUNTY
+  order: '0'
+  priority: '0'
+  rate: '8.1'
+  shipping: '1'
+  state: WA
+wootax/38165:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '98616'
+    location_type: postcode
+  name: COWLITZ COUNTY
+  order: '0'
+  priority: '0'
+  rate: '7.8'
+  shipping: '1'
+  state: WA
+wootax/38166:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '98617'
+    location_type: postcode
+  name: KLICKITAT COUNTY
+  order: '0'
+  priority: '0'
+  rate: '7'
+  shipping: '1'
+  state: WA
+wootax/38167:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '98619'
+    location_type: postcode
+  name: KLICKITAT COUNTY
+  order: '0'
+  priority: '0'
+  rate: '7'
+  shipping: '1'
+  state: WA
+wootax/38168:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '98620'
+    location_type: postcode
+  name: KLICKITAT COUNTY
+  order: '0'
+  priority: '0'
+  rate: '7'
+  shipping: '1'
+  state: WA
+wootax/38169:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '98621'
+    location_type: postcode
+  name: WAHKIAKUM COUNTY
+  order: '0'
+  priority: '0'
+  rate: '7.6'
+  shipping: '1'
+  state: WA
+wootax/38170:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '98622'
+    location_type: postcode
+  name: CLARK COUNTY
+  order: '0'
+  priority: '0'
+  rate: '7.7'
+  shipping: '1'
+  state: WA
+wootax/38171:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '98623'
+    location_type: postcode
+  name: KLICKITAT COUNTY
+  order: '0'
+  priority: '0'
+  rate: '7'
+  shipping: '1'
+  state: WA
+wootax/38172:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '98624'
+    location_type: postcode
+  name: ILWACO
+  order: '0'
+  priority: '0'
+  rate: '8.1'
+  shipping: '1'
+  state: WA
+wootax/38173:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '98625'
+    location_type: postcode
+  name: COWLITZ COUNTY
+  order: '0'
+  priority: '0'
+  rate: '7.8'
+  shipping: '1'
+  state: WA
+wootax/38174:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '98626'
+    location_type: postcode
+  name: KELSO
+  order: '0'
+  priority: '0'
+  rate: '8.1'
+  shipping: '1'
+  state: WA
+wootax/38175:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '98628'
+    location_type: postcode
+  name: KLICKITAT COUNTY
+  order: '0'
+  priority: '0'
+  rate: '7'
+  shipping: '1'
+  state: WA
+wootax/38176:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '98629'
+    location_type: postcode
+  name: CLARK COUNTY
+  order: '0'
+  priority: '0'
+  rate: '7.7'
+  shipping: '1'
+  state: WA
+wootax/38177:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '98631'
+    location_type: postcode
+  name: PACIFIC COUNTY
+  order: '0'
+  priority: '0'
+  rate: '8.1'
+  shipping: '1'
+  state: WA
+wootax/38178:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '98632'
+    location_type: postcode
+  name: LONGVIEW
+  order: '0'
+  priority: '0'
+  rate: '8.1'
+  shipping: '1'
+  state: WA
+wootax/38179:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '98635'
+    location_type: postcode
+  name: KLICKITAT COUNTY
+  order: '0'
+  priority: '0'
+  rate: '7'
+  shipping: '1'
+  state: WA
+wootax/38180:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '98637'
+    location_type: postcode
+  name: LONG BEACH
+  order: '0'
+  priority: '0'
+  rate: '8.3'
+  shipping: '1'
+  state: WA
+wootax/38181:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '98638'
+    location_type: postcode
+  name: PACIFIC COUNTY
+  order: '0'
+  priority: '0'
+  rate: '8.1'
+  shipping: '1'
+  state: WA
+wootax/38182:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '98639'
+    location_type: postcode
+  name: NORTH BONNEVILLE
+  order: '0'
+  priority: '0'
+  rate: '7.7'
+  shipping: '1'
+  state: WA
+wootax/38183:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '98640'
+    location_type: postcode
+  name: PACIFIC COUNTY
+  order: '0'
+  priority: '0'
+  rate: '8.1'
+  shipping: '1'
+  state: WA
+wootax/38184:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '98641'
+    location_type: postcode
+  name: PACIFIC COUNTY
+  order: '0'
+  priority: '0'
+  rate: '8.1'
+  shipping: '1'
+  state: WA
+wootax/38185:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '98642'
+    location_type: postcode
+  name: CLARK COUNTY
+  order: '0'
+  priority: '0'
+  rate: '7.7'
+  shipping: '1'
+  state: WA
+wootax/38186:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '98643'
+    location_type: postcode
+  name: WAHKIAKUM COUNTY
+  order: '0'
+  priority: '0'
+  rate: '7.6'
+  shipping: '1'
+  state: WA
+wootax/38187:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '98644'
+    location_type: postcode
+  name: PACIFIC COUNTY
+  order: '0'
+  priority: '0'
+  rate: '8.1'
+  shipping: '1'
+  state: WA
+wootax/38188:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '98645'
+    location_type: postcode
+  name: COWLITZ COUNTY
+  order: '0'
+  priority: '0'
+  rate: '7.8'
+  shipping: '1'
+  state: WA
+wootax/38189:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '98647'
+    location_type: postcode
+  name: WAHKIAKUM COUNTY
+  order: '0'
+  priority: '0'
+  rate: '7.6'
+  shipping: '1'
+  state: WA
+wootax/38190:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '98648'
+    location_type: postcode
+  name: SKAMANIA COUNTY
+  order: '0'
+  priority: '0'
+  rate: '7.7'
+  shipping: '1'
+  state: WA
+wootax/38191:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '98649'
+    location_type: postcode
+  name: COWLITZ COUNTY
+  order: '0'
+  priority: '0'
+  rate: '7.8'
+  shipping: '1'
+  state: WA
+wootax/38192:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '98650'
+    location_type: postcode
+  name: KLICKITAT COUNTY
+  order: '0'
+  priority: '0'
+  rate: '7'
+  shipping: '1'
+  state: WA
+wootax/38193:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '98651'
+    location_type: postcode
+  name: SKAMANIA COUNTY
+  order: '0'
+  priority: '0'
+  rate: '7.7'
+  shipping: '1'
+  state: WA
+wootax/38194:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '98660'
+    location_type: postcode
+  name: VANCOUVER
+  order: '0'
+  priority: '0'
+  rate: '8.4'
+  shipping: '1'
+  state: WA
+wootax/38195:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '98661'
+    location_type: postcode
+  name: VANCOUVER
+  order: '0'
+  priority: '0'
+  rate: '8.4'
+  shipping: '1'
+  state: WA
+wootax/38196:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '98662'
+    location_type: postcode
+  name: CLARK COUNTY UNINCORP. P.T.B.A
+  order: '0'
+  priority: '0'
+  rate: '8.4'
+  shipping: '1'
+  state: WA
+wootax/38197:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '98663'
+    location_type: postcode
+  name: VANCOUVER
+  order: '0'
+  priority: '0'
+  rate: '8.4'
+  shipping: '1'
+  state: WA
+wootax/38198:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '98664'
+    location_type: postcode
+  name: VANCOUVER
+  order: '0'
+  priority: '0'
+  rate: '8.4'
+  shipping: '1'
+  state: WA
+wootax/38199:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '98665'
+    location_type: postcode
+  name: CLARK COUNTY UNINCORP. P.T.B.A
+  order: '0'
+  priority: '0'
+  rate: '8.4'
+  shipping: '1'
+  state: WA
+wootax/38200:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '98666'
+    location_type: postcode
+  name: VANCOUVER
+  order: '0'
+  priority: '0'
+  rate: '8.4'
+  shipping: '1'
+  state: WA
+wootax/38201:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '98668'
+    location_type: postcode
+  name: VANCOUVER
+  order: '0'
+  priority: '0'
+  rate: '8.4'
+  shipping: '1'
+  state: WA
+wootax/38202:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '98670'
+    location_type: postcode
+  name: KLICKITAT COUNTY
+  order: '0'
+  priority: '0'
+  rate: '7'
+  shipping: '1'
+  state: WA
+wootax/38203:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '98671'
+    location_type: postcode
+  name: WASHOUGAL
+  order: '0'
+  priority: '0'
+  rate: '8.4'
+  shipping: '1'
+  state: WA
+wootax/38204:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '98672'
+    location_type: postcode
+  name: KLICKITAT COUNTY
+  order: '0'
+  priority: '0'
+  rate: '7'
+  shipping: '1'
+  state: WA
+wootax/38205:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '98673'
+    location_type: postcode
+  name: KLICKITAT COUNTY
+  order: '0'
+  priority: '0'
+  rate: '7'
+  shipping: '1'
+  state: WA
+wootax/38206:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '98674'
+    location_type: postcode
+  name: CLARK COUNTY
+  order: '0'
+  priority: '0'
+  rate: '7.7'
+  shipping: '1'
+  state: WA
+wootax/38207:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '98675'
+    location_type: postcode
+  name: CLARK COUNTY
+  order: '0'
+  priority: '0'
+  rate: '7.7'
+  shipping: '1'
+  state: WA
+wootax/38208:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '98682'
+    location_type: postcode
+  name: VANCOUVER
+  order: '0'
+  priority: '0'
+  rate: '8.4'
+  shipping: '1'
+  state: WA
+wootax/38209:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '98683'
+    location_type: postcode
+  name: VANCOUVER
+  order: '0'
+  priority: '0'
+  rate: '8.4'
+  shipping: '1'
+  state: WA
+wootax/38210:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '98684'
+    location_type: postcode
+  name: VANCOUVER
+  order: '0'
+  priority: '0'
+  rate: '8.4'
+  shipping: '1'
+  state: WA
+wootax/38211:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '98685'
+    location_type: postcode
+  name: CLARK COUNTY UNINCORP. P.T.B.A
+  order: '0'
+  priority: '0'
+  rate: '8.4'
+  shipping: '1'
+  state: WA
+wootax/38212:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '98686'
+    location_type: postcode
+  name: CLARK COUNTY UNINCORP. P.T.B.A
+  order: '0'
+  priority: '0'
+  rate: '8.4'
+  shipping: '1'
+  state: WA
+wootax/38213:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '98687'
+    location_type: postcode
+  name: VANCOUVER
+  order: '0'
+  priority: '0'
+  rate: '8.4'
+  shipping: '1'
+  state: WA
+wootax/38214:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '98801'
+    location_type: postcode
+  name: WENATCHEE
+  order: '0'
+  priority: '0'
+  rate: '8.4'
+  shipping: '1'
+  state: WA
+wootax/38215:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '98802'
+    location_type: postcode
+  name: DOUGLAS COUNTY UNINCORP. P.T.B.A.
+  order: '0'
+  priority: '0'
+  rate: '8.2'
+  shipping: '1'
+  state: WA
+wootax/38216:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '98807'
+    location_type: postcode
+  name: WENATCHEE
+  order: '0'
+  priority: '0'
+  rate: '8.4'
+  shipping: '1'
+  state: WA
+wootax/38217:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '98811'
+    location_type: postcode
+  name: CHELAN COUNTY
+  order: '0'
+  priority: '0'
+  rate: '8.2'
+  shipping: '1'
+  state: WA
+wootax/38218:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '98812'
+    location_type: postcode
+  name: OKANOGAN CO UN PTBA REMDR
+  order: '0'
+  priority: '0'
+  rate: '8.2'
+  shipping: '1'
+  state: WA
+wootax/38219:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '98813'
+    location_type: postcode
+  name: BRIDGEPORT
+  order: '0'
+  priority: '0'
+  rate: '7.7'
+  shipping: '1'
+  state: WA
+wootax/38220:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '98814'
+    location_type: postcode
+  name: OKANOGAN CO UN PTBA REMDR
+  order: '0'
+  priority: '0'
+  rate: '8.2'
+  shipping: '1'
+  state: WA
+wootax/38221:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '98815'
+    location_type: postcode
+  name: CHELAN COUNTY
+  order: '0'
+  priority: '0'
+  rate: '8.2'
+  shipping: '1'
+  state: WA
+wootax/38222:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '98816'
+    location_type: postcode
+  name: CHELAN
+  order: '0'
+  priority: '0'
+  rate: '8.2'
+  shipping: '1'
+  state: WA
+wootax/38223:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '98817'
+    location_type: postcode
+  name: CHELAN COUNTY
+  order: '0'
+  priority: '0'
+  rate: '8.2'
+  shipping: '1'
+  state: WA
+wootax/38224:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '98819'
+    location_type: postcode
+  name: CONCONULLY
+  order: '0'
+  priority: '0'
+  rate: '8.2'
+  shipping: '1'
+  state: WA
+wootax/38225:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '98821'
+    location_type: postcode
+  name: CHELAN COUNTY
+  order: '0'
+  priority: '0'
+  rate: '8.2'
+  shipping: '1'
+  state: WA
+wootax/38226:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '98822'
+    location_type: postcode
+  name: CHELAN COUNTY
+  order: '0'
+  priority: '0'
+  rate: '8.2'
+  shipping: '1'
+  state: WA
+wootax/38227:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '98823'
+    location_type: postcode
+  name: EPHRATA
+  order: '0'
+  priority: '0'
+  rate: '8.2'
+  shipping: '1'
+  state: WA
+wootax/38228:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '98824'
+    location_type: postcode
+  name: GEORGE
+  order: '0'
+  priority: '0'
+  rate: '7.9'
+  shipping: '1'
+  state: WA
+wootax/38229:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '98826'
+    location_type: postcode
+  name: CHELAN COUNTY
+  order: '0'
+  priority: '0'
+  rate: '8.2'
+  shipping: '1'
+  state: WA
+wootax/38230:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '98827'
+    location_type: postcode
+  name: OKANOGAN CO UN PTBA REMDR
+  order: '0'
+  priority: '0'
+  rate: '8.2'
+  shipping: '1'
+  state: WA
+wootax/38231:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '98828'
+    location_type: postcode
+  name: CHELAN COUNTY
+  order: '0'
+  priority: '0'
+  rate: '8.2'
+  shipping: '1'
+  state: WA
+wootax/38232:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '98829'
+    location_type: postcode
+  name: OKANOGAN CO UN PTBA REMDR
+  order: '0'
+  priority: '0'
+  rate: '8.2'
+  shipping: '1'
+  state: WA
+wootax/38233:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '98830'
+    location_type: postcode
+  name: DOUGLAS COUNTY
+  order: '0'
+  priority: '0'
+  rate: '7.8'
+  shipping: '1'
+  state: WA
+wootax/38234:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '98831'
+    location_type: postcode
+  name: CHELAN COUNTY
+  order: '0'
+  priority: '0'
+  rate: '8.2'
+  shipping: '1'
+  state: WA
+wootax/38235:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '98832'
+    location_type: postcode
+  name: GRANT COUNTY
+  order: '0'
+  priority: '0'
+  rate: '7.9'
+  shipping: '1'
+  state: WA
+wootax/38236:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '98833'
+    location_type: postcode
+  name: OKANOGAN CO UN PTBA REMDR
+  order: '0'
+  priority: '0'
+  rate: '8.2'
+  shipping: '1'
+  state: WA
+wootax/38237:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '98834'
+    location_type: postcode
+  name: OKANOGAN CO UN PTBA REMDR
+  order: '0'
+  priority: '0'
+  rate: '8.2'
+  shipping: '1'
+  state: WA
+wootax/38238:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '98836'
+    location_type: postcode
+  name: CHELAN COUNTY
+  order: '0'
+  priority: '0'
+  rate: '8.2'
+  shipping: '1'
+  state: WA
+wootax/38239:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '98837'
+    location_type: postcode
+  name: MOSES LAKE
+  order: '0'
+  priority: '0'
+  rate: '8.1'
+  shipping: '1'
+  state: WA
+wootax/38240:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '98840'
+    location_type: postcode
+  name: OKANOGAN
+  order: '0'
+  priority: '0'
+  rate: '8.3'
+  shipping: '1'
+  state: WA
+wootax/38241:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '98841'
+    location_type: postcode
+  name: OMAK
+  order: '0'
+  priority: '0'
+  rate: '8.2'
+  shipping: '1'
+  state: WA
+wootax/38242:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '98843'
+    location_type: postcode
+  name: DOUGLAS COUNTY UNINCORP. P.T.B.A.
+  order: '0'
+  priority: '0'
+  rate: '8.2'
+  shipping: '1'
+  state: WA
+wootax/38243:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '98844'
+    location_type: postcode
+  name: OKANOGAN CO UN PTBA REMDR
+  order: '0'
+  priority: '0'
+  rate: '8.2'
+  shipping: '1'
+  state: WA
+wootax/38244:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '98845'
+    location_type: postcode
+  name: DOUGLAS COUNTY
+  order: '0'
+  priority: '0'
+  rate: '7.8'
+  shipping: '1'
+  state: WA
+wootax/38245:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '98846'
+    location_type: postcode
+  name: OKANOGAN CO UN PTBA REMDR
+  order: '0'
+  priority: '0'
+  rate: '8.2'
+  shipping: '1'
+  state: WA
+wootax/38246:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '98847'
+    location_type: postcode
+  name: CHELAN COUNTY
+  order: '0'
+  priority: '0'
+  rate: '8.2'
+  shipping: '1'
+  state: WA
+wootax/38247:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '98848'
+    location_type: postcode
+  name: QUINCY
+  order: '0'
+  priority: '0'
+  rate: '7.9'
+  shipping: '1'
+  state: WA
+wootax/38248:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '98849'
+    location_type: postcode
+  name: OKANOGAN CO UN PTBA REMDR
+  order: '0'
+  priority: '0'
+  rate: '8.2'
+  shipping: '1'
+  state: WA
+wootax/38249:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '98850'
+    location_type: postcode
+  name: DOUGLAS COUNTY UNINCORP. P.T.B.A.
+  order: '0'
+  priority: '0'
+  rate: '8.2'
+  shipping: '1'
+  state: WA
+wootax/38250:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '98851'
+    location_type: postcode
+  name: GRANT COUNTY
+  order: '0'
+  priority: '0'
+  rate: '7.9'
+  shipping: '1'
+  state: WA
+wootax/38251:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '98852'
+    location_type: postcode
+  name: CHELAN COUNTY
+  order: '0'
+  priority: '0'
+  rate: '8.2'
+  shipping: '1'
+  state: WA
+wootax/38252:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '98853'
+    location_type: postcode
+  name: GRANT COUNTY
+  order: '0'
+  priority: '0'
+  rate: '7.9'
+  shipping: '1'
+  state: WA
+wootax/38253:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '98855'
+    location_type: postcode
+  name: OKANOGAN CO UN PTBA REMDR
+  order: '0'
+  priority: '0'
+  rate: '8.2'
+  shipping: '1'
+  state: WA
+wootax/38254:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '98856'
+    location_type: postcode
+  name: TWISP
+  order: '0'
+  priority: '0'
+  rate: '8.5'
+  shipping: '1'
+  state: WA
+wootax/38255:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '98857'
+    location_type: postcode
+  name: GRANT COUNTY
+  order: '0'
+  priority: '0'
+  rate: '7.9'
+  shipping: '1'
+  state: WA
+wootax/38256:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '98858'
+    location_type: postcode
+  name: DOUGLAS COUNTY UNINCORP. P.T.B.A.
+  order: '0'
+  priority: '0'
+  rate: '8.2'
+  shipping: '1'
+  state: WA
+wootax/38257:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '98859'
+    location_type: postcode
+  name: OKANOGAN CO UN PTBA REMDR
+  order: '0'
+  priority: '0'
+  rate: '8.2'
+  shipping: '1'
+  state: WA
+wootax/38258:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '98860'
+    location_type: postcode
+  name: WILSON CREEK
+  order: '0'
+  priority: '0'
+  rate: '7.9'
+  shipping: '1'
+  state: WA
+wootax/38259:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '98862'
+    location_type: postcode
+  name: OKANOGAN CO UN PTBA REMDR
+  order: '0'
+  priority: '0'
+  rate: '8.2'
+  shipping: '1'
+  state: WA
+wootax/38260:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '98901'
+    location_type: postcode
+  name: YAKIMA
+  order: '0'
+  priority: '0'
+  rate: '8.2'
+  shipping: '1'
+  state: WA
+wootax/38261:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '98902'
+    location_type: postcode
+  name: YAKIMA
+  order: '0'
+  priority: '0'
+  rate: '8.2'
+  shipping: '1'
+  state: WA
+wootax/38262:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '98903'
+    location_type: postcode
+  name: YAKIMA COUNTY
+  order: '0'
+  priority: '0'
+  rate: '7.9'
+  shipping: '1'
+  state: WA
+wootax/38263:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '98907'
+    location_type: postcode
+  name: YAKIMA
+  order: '0'
+  priority: '0'
+  rate: '8.2'
+  shipping: '1'
+  state: WA
+wootax/38264:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '98908'
+    location_type: postcode
+  name: YAKIMA
+  order: '0'
+  priority: '0'
+  rate: '8.2'
+  shipping: '1'
+  state: WA
+wootax/38265:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '98909'
+    location_type: postcode
+  name: YAKIMA
+  order: '0'
+  priority: '0'
+  rate: '8.2'
+  shipping: '1'
+  state: WA
+wootax/38266:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '98920'
+    location_type: postcode
+  name: YAKIMA COUNTY
+  order: '0'
+  priority: '0'
+  rate: '7.9'
+  shipping: '1'
+  state: WA
+wootax/38267:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '98921'
+    location_type: postcode
+  name: YAKIMA COUNTY
+  order: '0'
+  priority: '0'
+  rate: '7.9'
+  shipping: '1'
+  state: WA
+wootax/38268:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '98922'
+    location_type: postcode
+  name: KITTITAS COUNTY
+  order: '0'
+  priority: '0'
+  rate: '8'
+  shipping: '1'
+  state: WA
+wootax/38269:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '98923'
+    location_type: postcode
+  name: YAKIMA COUNTY
+  order: '0'
+  priority: '0'
+  rate: '7.9'
+  shipping: '1'
+  state: WA
+wootax/38270:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '98925'
+    location_type: postcode
+  name: KITTITAS COUNTY
+  order: '0'
+  priority: '0'
+  rate: '8'
+  shipping: '1'
+  state: WA
+wootax/38271:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '98926'
+    location_type: postcode
+  name: KITTITAS COUNTY
+  order: '0'
+  priority: '0'
+  rate: '8'
+  shipping: '1'
+  state: WA
+wootax/38272:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '98930'
+    location_type: postcode
+  name: GRANDVIEW
+  order: '0'
+  priority: '0'
+  rate: '7.9'
+  shipping: '1'
+  state: WA
+wootax/38273:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '98932'
+    location_type: postcode
+  name: GRANGER
+  order: '0'
+  priority: '0'
+  rate: '7.9'
+  shipping: '1'
+  state: WA
+wootax/38274:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '98933'
+    location_type: postcode
+  name: YAKIMA COUNTY
+  order: '0'
+  priority: '0'
+  rate: '7.9'
+  shipping: '1'
+  state: WA
+wootax/38275:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '98934'
+    location_type: postcode
+  name: KITTITAS (CITY)
+  order: '0'
+  priority: '0'
+  rate: '8'
+  shipping: '1'
+  state: WA
+wootax/38276:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '98935'
+    location_type: postcode
+  name: YAKIMA COUNTY
+  order: '0'
+  priority: '0'
+  rate: '7.9'
+  shipping: '1'
+  state: WA
+wootax/38277:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '98936'
+    location_type: postcode
+  name: YAKIMA COUNTY
+  order: '0'
+  priority: '0'
+  rate: '7.9'
+  shipping: '1'
+  state: WA
+wootax/38278:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '98937'
+    location_type: postcode
+  name: YAKIMA COUNTY
+  order: '0'
+  priority: '0'
+  rate: '7.9'
+  shipping: '1'
+  state: WA
+wootax/38279:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '98938'
+    location_type: postcode
+  name: YAKIMA COUNTY
+  order: '0'
+  priority: '0'
+  rate: '7.9'
+  shipping: '1'
+  state: WA
+wootax/38280:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '98939'
+    location_type: postcode
+  name: YAKIMA COUNTY
+  order: '0'
+  priority: '0'
+  rate: '7.9'
+  shipping: '1'
+  state: WA
+wootax/38281:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '98940'
+    location_type: postcode
+  name: KITTITAS COUNTY
+  order: '0'
+  priority: '0'
+  rate: '8'
+  shipping: '1'
+  state: WA
+wootax/38282:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '98941'
+    location_type: postcode
+  name: ROSLYN
+  order: '0'
+  priority: '0'
+  rate: '8'
+  shipping: '1'
+  state: WA
+wootax/38283:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '98942'
+    location_type: postcode
+  name: YAKIMA COUNTY
+  order: '0'
+  priority: '0'
+  rate: '7.9'
+  shipping: '1'
+  state: WA
+wootax/38284:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '98943'
+    location_type: postcode
+  name: SOUTH CLE ELUM
+  order: '0'
+  priority: '0'
+  rate: '8'
+  shipping: '1'
+  state: WA
+wootax/38285:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '98944'
+    location_type: postcode
+  name: SUNNYSIDE
+  order: '0'
+  priority: '0'
+  rate: '7.9'
+  shipping: '1'
+  state: WA
+wootax/38286:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '98946'
+    location_type: postcode
+  name: KITTITAS COUNTY
+  order: '0'
+  priority: '0'
+  rate: '8'
+  shipping: '1'
+  state: WA
+wootax/38287:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '98947'
+    location_type: postcode
+  name: YAKIMA COUNTY
+  order: '0'
+  priority: '0'
+  rate: '7.9'
+  shipping: '1'
+  state: WA
+wootax/38288:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '98948'
+    location_type: postcode
+  name: TOPPENISH
+  order: '0'
+  priority: '0'
+  rate: '7.9'
+  shipping: '1'
+  state: WA
+wootax/38289:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '98950'
+    location_type: postcode
+  name: ELLENSBURG
+  order: '0'
+  priority: '0'
+  rate: '8.3'
+  shipping: '1'
+  state: WA
+wootax/38290:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '98951'
+    location_type: postcode
+  name: YAKIMA COUNTY
+  order: '0'
+  priority: '0'
+  rate: '7.9'
+  shipping: '1'
+  state: WA
+wootax/38291:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '98952'
+    location_type: postcode
+  name: YAKIMA COUNTY
+  order: '0'
+  priority: '0'
+  rate: '7.9'
+  shipping: '1'
+  state: WA
+wootax/38292:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '98953'
+    location_type: postcode
+  name: YAKIMA COUNTY
+  order: '0'
+  priority: '0'
+  rate: '7.9'
+  shipping: '1'
+  state: WA
+wootax/38293:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '99001'
+    location_type: postcode
+  name: AIRWAY HEIGHTS
+  order: '0'
+  priority: '0'
+  rate: '9.1'
+  shipping: '1'
+  state: WA
+wootax/38294:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '99003'
+    location_type: postcode
+  name: SPOKANE COUNTY
+  order: '0'
+  priority: '0'
+  rate: '8.1'
+  shipping: '1'
+  state: WA
+wootax/38295:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '99004'
+    location_type: postcode
+  name: CHENEY
+  order: '0'
+  priority: '0'
+  rate: '8.9'
+  shipping: '1'
+  state: WA
+wootax/38296:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '99005'
+    location_type: postcode
+  name: SPOKANE COUNTY
+  order: '0'
+  priority: '0'
+  rate: '8.1'
+  shipping: '1'
+  state: WA
+wootax/38297:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '99006'
+    location_type: postcode
+  name: SPOKANE COUNTY
+  order: '0'
+  priority: '0'
+  rate: '8.1'
+  shipping: '1'
+  state: WA
+wootax/38298:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '99008'
+    location_type: postcode
+  name: LINCOLN COUNTY
+  order: '0'
+  priority: '0'
+  rate: '8'
+  shipping: '1'
+  state: WA
+wootax/38299:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '99009'
+    location_type: postcode
+  name: SPOKANE COUNTY
+  order: '0'
+  priority: '0'
+  rate: '8.1'
+  shipping: '1'
+  state: WA
+wootax/38300:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '99011'
+    location_type: postcode
+  name: SPOKANE COUNTY UNINCORP. P.T.B.A
+  order: '0'
+  priority: '0'
+  rate: '8.9'
+  shipping: '1'
+  state: WA
+wootax/38301:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '99012'
+    location_type: postcode
+  name: SPOKANE COUNTY
+  order: '0'
+  priority: '0'
+  rate: '8.1'
+  shipping: '1'
+  state: WA
+wootax/38302:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '99013'
+    location_type: postcode
+  name: STEVENS COUNTY
+  order: '0'
+  priority: '0'
+  rate: '7.6'
+  shipping: '1'
+  state: WA
+wootax/38303:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '99014'
+    location_type: postcode
+  name: SPOKANE COUNTY UNINCORP. P.T.B.A
+  order: '0'
+  priority: '0'
+  rate: '8.9'
+  shipping: '1'
+  state: WA
+wootax/38304:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '99016'
+    location_type: postcode
+  name: NOT DOWNTOWN SPOKANE TPA SP
+  order: '0'
+  priority: '0'
+  rate: '8.9'
+  shipping: '1'
+  state: WA
+wootax/38305:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '99017'
+    location_type: postcode
+  name: WHITMAN COUNTY
+  order: '0'
+  priority: '0'
+  rate: '7.8'
+  shipping: '1'
+  state: WA
+wootax/38306:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '99018'
+    location_type: postcode
+  name: LATAH
+  order: '0'
+  priority: '0'
+  rate: '8.1'
+  shipping: '1'
+  state: WA
+wootax/38307:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '99019'
+    location_type: postcode
+  name: LIBERTY LAKE
+  order: '0'
+  priority: '0'
+  rate: '8.9'
+  shipping: '1'
+  state: WA
+wootax/38308:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '99020'
+    location_type: postcode
+  name: SPOKANE COUNTY
+  order: '0'
+  priority: '0'
+  rate: '8.1'
+  shipping: '1'
+  state: WA
+wootax/38309:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '99021'
+    location_type: postcode
+  name: SPOKANE COUNTY
+  order: '0'
+  priority: '0'
+  rate: '8.1'
+  shipping: '1'
+  state: WA
+wootax/38310:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '99022'
+    location_type: postcode
+  name: MEDICAL LAKE
+  order: '0'
+  priority: '0'
+  rate: '8.9'
+  shipping: '1'
+  state: WA
+wootax/38311:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '99023'
+    location_type: postcode
+  name: SPOKANE COUNTY
+  order: '0'
+  priority: '0'
+  rate: '8.1'
+  shipping: '1'
+  state: WA
+wootax/38312:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '99025'
+    location_type: postcode
+  name: SPOKANE COUNTY
+  order: '0'
+  priority: '0'
+  rate: '8.1'
+  shipping: '1'
+  state: WA
+wootax/38313:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '99026'
+    location_type: postcode
+  name: SPOKANE COUNTY
+  order: '0'
+  priority: '0'
+  rate: '8.1'
+  shipping: '1'
+  state: WA
+wootax/38314:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '99027'
+    location_type: postcode
+  name: SPOKANE COUNTY
+  order: '0'
+  priority: '0'
+  rate: '8.1'
+  shipping: '1'
+  state: WA
+wootax/38315:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '99029'
+    location_type: postcode
+  name: LINCOLN COUNTY
+  order: '0'
+  priority: '0'
+  rate: '8'
+  shipping: '1'
+  state: WA
+wootax/38316:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '99030'
+    location_type: postcode
+  name: SPOKANE COUNTY
+  order: '0'
+  priority: '0'
+  rate: '8.1'
+  shipping: '1'
+  state: WA
+wootax/38317:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '99031'
+    location_type: postcode
+  name: SPOKANE COUNTY
+  order: '0'
+  priority: '0'
+  rate: '8.1'
+  shipping: '1'
+  state: WA
+wootax/38318:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '99032'
+    location_type: postcode
+  name: SPRAGUE
+  order: '0'
+  priority: '0'
+  rate: '8'
+  shipping: '1'
+  state: WA
+wootax/38319:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '99033'
+    location_type: postcode
+  name: TEKOA
+  order: '0'
+  priority: '0'
+  rate: '7.8'
+  shipping: '1'
+  state: WA
+wootax/38320:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '99034'
+    location_type: postcode
+  name: STEVENS COUNTY
+  order: '0'
+  priority: '0'
+  rate: '7.6'
+  shipping: '1'
+  state: WA
+wootax/38321:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '99036'
+    location_type: postcode
+  name: SPOKANE COUNTY
+  order: '0'
+  priority: '0'
+  rate: '8.1'
+  shipping: '1'
+  state: WA
+wootax/38322:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '99037'
+    location_type: postcode
+  name: NOT DOWNTOWN SPOKANE TPA SP
+  order: '0'
+  priority: '0'
+  rate: '8.9'
+  shipping: '1'
+  state: WA
+wootax/38323:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '99039'
+    location_type: postcode
+  name: WAVERLY
+  order: '0'
+  priority: '0'
+  rate: '8.1'
+  shipping: '1'
+  state: WA
+wootax/38324:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '99040'
+    location_type: postcode
+  name: STEVENS COUNTY
+  order: '0'
+  priority: '0'
+  rate: '7.6'
+  shipping: '1'
+  state: WA
+wootax/38325:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '99101'
+    location_type: postcode
+  name: STEVENS COUNTY
+  order: '0'
+  priority: '0'
+  rate: '7.6'
+  shipping: '1'
+  state: WA
+wootax/38326:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '99102'
+    location_type: postcode
+  name: ALBION
+  order: '0'
+  priority: '0'
+  rate: '7.8'
+  shipping: '1'
+  state: WA
+wootax/38327:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '99103'
+    location_type: postcode
+  name: ALMIRA
+  order: '0'
+  priority: '0'
+  rate: '8'
+  shipping: '1'
+  state: WA
+wootax/38328:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '99104'
+    location_type: postcode
+  name: WHITMAN COUNTY
+  order: '0'
+  priority: '0'
+  rate: '7.8'
+  shipping: '1'
+  state: WA
+wootax/38329:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '99105'
+    location_type: postcode
+  name: ADAMS COUNTY
+  order: '0'
+  priority: '0'
+  rate: '8'
+  shipping: '1'
+  state: WA
+wootax/38330:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '99109'
+    location_type: postcode
+  name: CHEWELAH
+  order: '0'
+  priority: '0'
+  rate: '7.6'
+  shipping: '1'
+  state: WA
+wootax/38331:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '99110'
+    location_type: postcode
+  name: STEVENS COUNTY
+  order: '0'
+  priority: '0'
+  rate: '7.6'
+  shipping: '1'
+  state: WA
+wootax/38332:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '99111'
+    location_type: postcode
+  name: COLFAX
+  order: '0'
+  priority: '0'
+  rate: '7.8'
+  shipping: '1'
+  state: WA
+wootax/38333:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '99113'
+    location_type: postcode
+  name: WHITMAN COUNTY
+  order: '0'
+  priority: '0'
+  rate: '7.8'
+  shipping: '1'
+  state: WA
+wootax/38334:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '99114'
+    location_type: postcode
+  name: COLVILLE
+  order: '0'
+  priority: '0'
+  rate: '7.6'
+  shipping: '1'
+  state: WA
+wootax/38335:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '99115'
+    location_type: postcode
+  name: GRANT COUNTY
+  order: '0'
+  priority: '0'
+  rate: '7.9'
+  shipping: '1'
+  state: WA
+wootax/38336:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '99116'
+    location_type: postcode
+  name: COULEE DAM
+  order: '0'
+  priority: '0'
+  rate: '7.8'
+  shipping: '1'
+  state: WA
+wootax/38337:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '99117'
+    location_type: postcode
+  name: LINCOLN COUNTY
+  order: '0'
+  priority: '0'
+  rate: '8'
+  shipping: '1'
+  state: WA
+wootax/38338:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '99118'
+    location_type: postcode
+  name: FERRY COUNTY
+  order: '0'
+  priority: '0'
+  rate: '7.7'
+  shipping: '1'
+  state: WA
+wootax/38339:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '99119'
+    location_type: postcode
+  name: PEND OREILLE COUNTY
+  order: '0'
+  priority: '0'
+  rate: '7.6'
+  shipping: '1'
+  state: WA
+wootax/38340:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '99121'
+    location_type: postcode
+  name: FERRY COUNTY
+  order: '0'
+  priority: '0'
+  rate: '7.7'
+  shipping: '1'
+  state: WA
+wootax/38341:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '99122'
+    location_type: postcode
+  name: LINCOLN COUNTY
+  order: '0'
+  priority: '0'
+  rate: '8'
+  shipping: '1'
+  state: WA
+wootax/38342:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '99123'
+    location_type: postcode
+  name: ELECTRIC CITY
+  order: '0'
+  priority: '0'
+  rate: '7.9'
+  shipping: '1'
+  state: WA
+wootax/38343:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '99124'
+    location_type: postcode
+  name: ELMER CITY
+  order: '0'
+  priority: '0'
+  rate: '7.8'
+  shipping: '1'
+  state: WA
+wootax/38344:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '99125'
+    location_type: postcode
+  name: WHITMAN COUNTY
+  order: '0'
+  priority: '0'
+  rate: '7.8'
+  shipping: '1'
+  state: WA
+wootax/38345:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '99126'
+    location_type: postcode
+  name: STEVENS COUNTY
+  order: '0'
+  priority: '0'
+  rate: '7.6'
+  shipping: '1'
+  state: WA
+wootax/38346:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '99128'
+    location_type: postcode
+  name: WHITMAN COUNTY
+  order: '0'
+  priority: '0'
+  rate: '7.8'
+  shipping: '1'
+  state: WA
+wootax/38347:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '99129'
+    location_type: postcode
+  name: STEVENS COUNTY
+  order: '0'
+  priority: '0'
+  rate: '7.6'
+  shipping: '1'
+  state: WA
+wootax/38348:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '99130'
+    location_type: postcode
+  name: GARFIELD
+  order: '0'
+  priority: '0'
+  rate: '7.8'
+  shipping: '1'
+  state: WA
+wootax/38349:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '99131'
+    location_type: postcode
+  name: STEVENS COUNTY
+  order: '0'
+  priority: '0'
+  rate: '7.6'
+  shipping: '1'
+  state: WA
+wootax/38350:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '99133'
+    location_type: postcode
+  name: GRAND COULEE
+  order: '0'
+  priority: '0'
+  rate: '8.1'
+  shipping: '1'
+  state: WA
+wootax/38351:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '99134'
+    location_type: postcode
+  name: HARRINGTON
+  order: '0'
+  priority: '0'
+  rate: '8'
+  shipping: '1'
+  state: WA
+wootax/38352:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '99135'
+    location_type: postcode
+  name: HARTLINE
+  order: '0'
+  priority: '0'
+  rate: '7.9'
+  shipping: '1'
+  state: WA
+wootax/38353:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '99136'
+    location_type: postcode
+  name: WHITMAN COUNTY
+  order: '0'
+  priority: '0'
+  rate: '7.8'
+  shipping: '1'
+  state: WA
+wootax/38354:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '99137'
+    location_type: postcode
+  name: STEVENS COUNTY
+  order: '0'
+  priority: '0'
+  rate: '7.6'
+  shipping: '1'
+  state: WA
+wootax/38355:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '99138'
+    location_type: postcode
+  name: FERRY COUNTY
+  order: '0'
+  priority: '0'
+  rate: '7.7'
+  shipping: '1'
+  state: WA
+wootax/38356:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '99139'
+    location_type: postcode
+  name: PEND OREILLE COUNTY
+  order: '0'
+  priority: '0'
+  rate: '7.6'
+  shipping: '1'
+  state: WA
+wootax/38357:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '99140'
+    location_type: postcode
+  name: FERRY COUNTY
+  order: '0'
+  priority: '0'
+  rate: '7.7'
+  shipping: '1'
+  state: WA
+wootax/38358:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '99141'
+    location_type: postcode
+  name: STEVENS COUNTY
+  order: '0'
+  priority: '0'
+  rate: '7.6'
+  shipping: '1'
+  state: WA
+wootax/38359:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '99143'
+    location_type: postcode
+  name: WHITMAN COUNTY
+  order: '0'
+  priority: '0'
+  rate: '7.8'
+  shipping: '1'
+  state: WA
+wootax/38360:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '99144'
+    location_type: postcode
+  name: LINCOLN COUNTY
+  order: '0'
+  priority: '0'
+  rate: '8'
+  shipping: '1'
+  state: WA
+wootax/38361:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '99146'
+    location_type: postcode
+  name: FERRY COUNTY
+  order: '0'
+  priority: '0'
+  rate: '7.7'
+  shipping: '1'
+  state: WA
+wootax/38362:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '99147'
+    location_type: postcode
+  name: LINCOLN COUNTY
+  order: '0'
+  priority: '0'
+  rate: '8'
+  shipping: '1'
+  state: WA
+wootax/38363:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '99148'
+    location_type: postcode
+  name: STEVENS COUNTY
+  order: '0'
+  priority: '0'
+  rate: '7.6'
+  shipping: '1'
+  state: WA
+wootax/38364:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '99149'
+    location_type: postcode
+  name: MALDEN
+  order: '0'
+  priority: '0'
+  rate: '7.8'
+  shipping: '1'
+  state: WA
+wootax/38365:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '99150'
+    location_type: postcode
+  name: FERRY COUNTY
+  order: '0'
+  priority: '0'
+  rate: '7.7'
+  shipping: '1'
+  state: WA
+wootax/38366:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '99151'
+    location_type: postcode
+  name: MARCUS
+  order: '0'
+  priority: '0'
+  rate: '7.6'
+  shipping: '1'
+  state: WA
+wootax/38367:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '99152'
+    location_type: postcode
+  name: METALINE
+  order: '0'
+  priority: '0'
+  rate: '7.6'
+  shipping: '1'
+  state: WA
+wootax/38368:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '99153'
+    location_type: postcode
+  name: METALINE FALLS
+  order: '0'
+  priority: '0'
+  rate: '7.6'
+  shipping: '1'
+  state: WA
+wootax/38369:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '99154'
+    location_type: postcode
+  name: LINCOLN COUNTY
+  order: '0'
+  priority: '0'
+  rate: '8'
+  shipping: '1'
+  state: WA
+wootax/38370:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '99155'
+    location_type: postcode
+  name: NESPELEM
+  order: '0'
+  priority: '0'
+  rate: '7.8'
+  shipping: '1'
+  state: WA
+wootax/38371:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '99156'
+    location_type: postcode
+  name: PEND OREILLE COUNTY
+  order: '0'
+  priority: '0'
+  rate: '7.6'
+  shipping: '1'
+  state: WA
+wootax/38372:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '99157'
+    location_type: postcode
+  name: NORTHPORT
+  order: '0'
+  priority: '0'
+  rate: '7.6'
+  shipping: '1'
+  state: WA
+wootax/38373:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '99158'
+    location_type: postcode
+  name: WHITMAN COUNTY
+  order: '0'
+  priority: '0'
+  rate: '7.8'
+  shipping: '1'
+  state: WA
+wootax/38374:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '99159'
+    location_type: postcode
+  name: LINCOLN COUNTY
+  order: '0'
+  priority: '0'
+  rate: '8'
+  shipping: '1'
+  state: WA
+wootax/38375:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '99160'
+    location_type: postcode
+  name: FERRY COUNTY
+  order: '0'
+  priority: '0'
+  rate: '7.7'
+  shipping: '1'
+  state: WA
+wootax/38376:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '99161'
+    location_type: postcode
+  name: PALOUSE
+  order: '0'
+  priority: '0'
+  rate: '7.8'
+  shipping: '1'
+  state: WA
+wootax/38377:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '99163'
+    location_type: postcode
+  name: PULLMAN
+  order: '0'
+  priority: '0'
+  rate: '7.8'
+  shipping: '1'
+  state: WA
+wootax/38378:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '99164'
+    location_type: postcode
+  name: PULLMAN
+  order: '0'
+  priority: '0'
+  rate: '7.8'
+  shipping: '1'
+  state: WA
+wootax/38379:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '99166'
+    location_type: postcode
+  name: FERRY COUNTY
+  order: '0'
+  priority: '0'
+  rate: '7.7'
+  shipping: '1'
+  state: WA
+wootax/38380:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '99167'
+    location_type: postcode
+  name: STEVENS COUNTY
+  order: '0'
+  priority: '0'
+  rate: '7.6'
+  shipping: '1'
+  state: WA
+wootax/38381:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '99169'
+    location_type: postcode
+  name: RITZVILLE
+  order: '0'
+  priority: '0'
+  rate: '8'
+  shipping: '1'
+  state: WA
+wootax/38382:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '99170'
+    location_type: postcode
+  name: ROSALIA
+  order: '0'
+  priority: '0'
+  rate: '7.8'
+  shipping: '1'
+  state: WA
+wootax/38383:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '99171'
+    location_type: postcode
+  name: WHITMAN COUNTY
+  order: '0'
+  priority: '0'
+  rate: '7.8'
+  shipping: '1'
+  state: WA
+wootax/38384:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '99173'
+    location_type: postcode
+  name: STEVENS COUNTY
+  order: '0'
+  priority: '0'
+  rate: '7.6'
+  shipping: '1'
+  state: WA
+wootax/38385:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '99174'
+    location_type: postcode
+  name: WHITMAN COUNTY
+  order: '0'
+  priority: '0'
+  rate: '7.8'
+  shipping: '1'
+  state: WA
+wootax/38386:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '99176'
+    location_type: postcode
+  name: WHITMAN COUNTY
+  order: '0'
+  priority: '0'
+  rate: '7.8'
+  shipping: '1'
+  state: WA
+wootax/38387:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '99179'
+    location_type: postcode
+  name: WHITMAN COUNTY
+  order: '0'
+  priority: '0'
+  rate: '7.8'
+  shipping: '1'
+  state: WA
+wootax/38388:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '99180'
+    location_type: postcode
+  name: PEND OREILLE COUNTY
+  order: '0'
+  priority: '0'
+  rate: '7.6'
+  shipping: '1'
+  state: WA
+wootax/38389:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '99181'
+    location_type: postcode
+  name: STEVENS COUNTY
+  order: '0'
+  priority: '0'
+  rate: '7.6'
+  shipping: '1'
+  state: WA
+wootax/38390:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '99185'
+    location_type: postcode
+  name: WILBUR
+  order: '0'
+  priority: '0'
+  rate: '8'
+  shipping: '1'
+  state: WA
+wootax/38391:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '99201'
+    location_type: postcode
+  name: NOT DOWNTOWN SPOKANE TPA SP
+  order: '0'
+  priority: '0'
+  rate: '8.9'
+  shipping: '1'
+  state: WA
+wootax/38392:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '99202'
+    location_type: postcode
+  name: NOT DOWNTOWN SPOKANE TPA SP
+  order: '0'
+  priority: '0'
+  rate: '8.9'
+  shipping: '1'
+  state: WA
+wootax/38393:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '99203'
+    location_type: postcode
+  name: NOT DOWNTOWN SPOKANE TPA SP
+  order: '0'
+  priority: '0'
+  rate: '8.9'
+  shipping: '1'
+  state: WA
+wootax/38394:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '99204'
+    location_type: postcode
+  name: NOT DOWNTOWN SPOKANE TPA SP
+  order: '0'
+  priority: '0'
+  rate: '8.9'
+  shipping: '1'
+  state: WA
+wootax/38395:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '99205'
+    location_type: postcode
+  name: NOT DOWNTOWN SPOKANE TPA SP
+  order: '0'
+  priority: '0'
+  rate: '8.9'
+  shipping: '1'
+  state: WA
+wootax/38396:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '99206'
+    location_type: postcode
+  name: NOT DOWNTOWN SPOKANE TPA SP
+  order: '0'
+  priority: '0'
+  rate: '8.9'
+  shipping: '1'
+  state: WA
+wootax/38397:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '99207'
+    location_type: postcode
+  name: NOT DOWNTOWN SPOKANE TPA SP
+  order: '0'
+  priority: '0'
+  rate: '8.9'
+  shipping: '1'
+  state: WA
+wootax/38398:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '99208'
+    location_type: postcode
+  name: NOT DOWNTOWN SPOKANE TPA SP
+  order: '0'
+  priority: '0'
+  rate: '8.9'
+  shipping: '1'
+  state: WA
+wootax/38399:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '99209'
+    location_type: postcode
+  name: NOT DOWNTOWN SPOKANE TPA SP
+  order: '0'
+  priority: '0'
+  rate: '8.9'
+  shipping: '1'
+  state: WA
+wootax/38400:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '99210'
+    location_type: postcode
+  name: DOWNTOWN SPOKANE TPA SP
+  order: '0'
+  priority: '0'
+  rate: '8.9'
+  shipping: '1'
+  state: WA
+wootax/38401:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '99211'
+    location_type: postcode
+  name: NOT DOWNTOWN SPOKANE TPA SP
+  order: '0'
+  priority: '0'
+  rate: '8.9'
+  shipping: '1'
+  state: WA
+wootax/38402:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '99212'
+    location_type: postcode
+  name: NOT DOWNTOWN SPOKANE TPA SP
+  order: '0'
+  priority: '0'
+  rate: '8.9'
+  shipping: '1'
+  state: WA
+wootax/38403:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '99213'
+    location_type: postcode
+  name: NOT DOWNTOWN SPOKANE TPA SP
+  order: '0'
+  priority: '0'
+  rate: '8.9'
+  shipping: '1'
+  state: WA
+wootax/38404:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '99214'
+    location_type: postcode
+  name: NOT DOWNTOWN SPOKANE TPA SP
+  order: '0'
+  priority: '0'
+  rate: '8.9'
+  shipping: '1'
+  state: WA
+wootax/38405:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '99216'
+    location_type: postcode
+  name: NOT DOWNTOWN SPOKANE TPA SP
+  order: '0'
+  priority: '0'
+  rate: '8.9'
+  shipping: '1'
+  state: WA
+wootax/38406:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '99217'
+    location_type: postcode
+  name: NOT DOWNTOWN SPOKANE TPA SP
+  order: '0'
+  priority: '0'
+  rate: '8.9'
+  shipping: '1'
+  state: WA
+wootax/38407:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '99218'
+    location_type: postcode
+  name: SPOKANE COUNTY UNINCORP. P.T.B.A
+  order: '0'
+  priority: '0'
+  rate: '8.9'
+  shipping: '1'
+  state: WA
+wootax/38408:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '99219'
+    location_type: postcode
+  name: NOT DOWNTOWN SPOKANE TPA SP
+  order: '0'
+  priority: '0'
+  rate: '8.9'
+  shipping: '1'
+  state: WA
+wootax/38409:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '99220'
+    location_type: postcode
+  name: DOWNTOWN SPOKANE TPA SP
+  order: '0'
+  priority: '0'
+  rate: '8.9'
+  shipping: '1'
+  state: WA
+wootax/38410:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '99223'
+    location_type: postcode
+  name: NOT DOWNTOWN SPOKANE TPA SP
+  order: '0'
+  priority: '0'
+  rate: '8.9'
+  shipping: '1'
+  state: WA
+wootax/38411:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '99224'
+    location_type: postcode
+  name: NOT DOWNTOWN SPOKANE TPA SP
+  order: '0'
+  priority: '0'
+  rate: '8.9'
+  shipping: '1'
+  state: WA
+wootax/38412:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '99228'
+    location_type: postcode
+  name: SPOKANE COUNTY UNINCORP. P.T.B.A
+  order: '0'
+  priority: '0'
+  rate: '8.9'
+  shipping: '1'
+  state: WA
+wootax/38413:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '99251'
+    location_type: postcode
+  name: SPOKANE COUNTY UNINCORP. P.T.B.A
+  order: '0'
+  priority: '0'
+  rate: '8.9'
+  shipping: '1'
+  state: WA
+wootax/38414:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '99252'
+    location_type: postcode
+  name: NOT DOWNTOWN SPOKANE TPA SP
+  order: '0'
+  priority: '0'
+  rate: '8.9'
+  shipping: '1'
+  state: WA
+wootax/38415:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '99256'
+    location_type: postcode
+  name: DOWNTOWN SPOKANE TPA SP
+  order: '0'
+  priority: '0'
+  rate: '8.9'
+  shipping: '1'
+  state: WA
+wootax/38416:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '99258'
+    location_type: postcode
+  name: DOWNTOWN SPOKANE TPA SP
+  order: '0'
+  priority: '0'
+  rate: '8.9'
+  shipping: '1'
+  state: WA
+wootax/38417:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '99260'
+    location_type: postcode
+  name: NOT DOWNTOWN SPOKANE TPA SP
+  order: '0'
+  priority: '0'
+  rate: '8.9'
+  shipping: '1'
+  state: WA
+wootax/38418:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '99301'
+    location_type: postcode
+  name: PASCO
+  order: '0'
+  priority: '0'
+  rate: '8.6'
+  shipping: '1'
+  state: WA
+wootax/38419:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '99302'
+    location_type: postcode
+  name: PASCO
+  order: '0'
+  priority: '0'
+  rate: '8.6'
+  shipping: '1'
+  state: WA
+wootax/38420:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '99320'
+    location_type: postcode
+  name: BENTON COUNTY UNINCORP. P.T.B.A.
+  order: '0'
+  priority: '0'
+  rate: '8.6'
+  shipping: '1'
+  state: WA
+wootax/38421:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '99321'
+    location_type: postcode
+  name: GRANT COUNTY
+  order: '0'
+  priority: '0'
+  rate: '7.9'
+  shipping: '1'
+  state: WA
+wootax/38422:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '99322'
+    location_type: postcode
+  name: KLICKITAT COUNTY
+  order: '0'
+  priority: '0'
+  rate: '7'
+  shipping: '1'
+  state: WA
+wootax/38423:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '99323'
+    location_type: postcode
+  name: WALLA WALLA COUNTY
+  order: '0'
+  priority: '0'
+  rate: '8.1'
+  shipping: '1'
+  state: WA
+wootax/38424:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '99324'
+    location_type: postcode
+  name: COLLEGE PLACE
+  order: '0'
+  priority: '0'
+  rate: '8.7'
+  shipping: '1'
+  state: WA
+wootax/38425:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '99326'
+    location_type: postcode
+  name: CONNELL
+  order: '0'
+  priority: '0'
+  rate: '8.2'
+  shipping: '1'
+  state: WA
+wootax/38426:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '99328'
+    location_type: postcode
+  name: DAYTON
+  order: '0'
+  priority: '0'
+  rate: '8.4'
+  shipping: '1'
+  state: WA
+wootax/38427:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '99329'
+    location_type: postcode
+  name: WALLA WALLA COUNTY
+  order: '0'
+  priority: '0'
+  rate: '8.1'
+  shipping: '1'
+  state: WA
+wootax/38428:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '99330'
+    location_type: postcode
+  name: FRANKLIN COUNTY
+  order: '0'
+  priority: '0'
+  rate: '8'
+  shipping: '1'
+  state: WA
+wootax/38429:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '99333'
+    location_type: postcode
+  name: WHITMAN COUNTY
+  order: '0'
+  priority: '0'
+  rate: '7.8'
+  shipping: '1'
+  state: WA
+wootax/38430:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '99335'
+    location_type: postcode
+  name: KAHLOTUS
+  order: '0'
+  priority: '0'
+  rate: '8'
+  shipping: '1'
+  state: WA
+wootax/38431:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '99336'
+    location_type: postcode
+  name: KENNEWICK
+  order: '0'
+  priority: '0'
+  rate: '8.6'
+  shipping: '1'
+  state: WA
+wootax/38432:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '99337'
+    location_type: postcode
+  name: KENNEWICK
+  order: '0'
+  priority: '0'
+  rate: '8.6'
+  shipping: '1'
+  state: WA
+wootax/38433:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '99338'
+    location_type: postcode
+  name: KENNEWICK
+  order: '0'
+  priority: '0'
+  rate: '8.6'
+  shipping: '1'
+  state: WA
+wootax/38434:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '99341'
+    location_type: postcode
+  name: LIND
+  order: '0'
+  priority: '0'
+  rate: '8'
+  shipping: '1'
+  state: WA
+wootax/38435:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '99343'
+    location_type: postcode
+  name: FRANKLIN COUNTY
+  order: '0'
+  priority: '0'
+  rate: '8'
+  shipping: '1'
+  state: WA
+wootax/38436:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '99344'
+    location_type: postcode
+  name: OTHELLO
+  order: '0'
+  priority: '0'
+  rate: '8.2'
+  shipping: '1'
+  state: WA
+wootax/38437:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '99345'
+    location_type: postcode
+  name: BENTON COUNTY
+  order: '0'
+  priority: '0'
+  rate: '8'
+  shipping: '1'
+  state: WA
+wootax/38438:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '99346'
+    location_type: postcode
+  name: BENTON COUNTY
+  order: '0'
+  priority: '0'
+  rate: '8'
+  shipping: '1'
+  state: WA
+wootax/38439:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '99347'
+    location_type: postcode
+  name: ASOTIN COUNTY
+  order: '0'
+  priority: '0'
+  rate: '7.7'
+  shipping: '1'
+  state: WA
+wootax/38440:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '99348'
+    location_type: postcode
+  name: WALLA WALLA COUNTY
+  order: '0'
+  priority: '0'
+  rate: '8.1'
+  shipping: '1'
+  state: WA
+wootax/38441:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '99349'
+    location_type: postcode
+  name: GRANT COUNTY
+  order: '0'
+  priority: '0'
+  rate: '7.9'
+  shipping: '1'
+  state: WA
+wootax/38442:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '99350'
+    location_type: postcode
+  name: BENTON COUNTY UNINCORP. P.T.B.A.
+  order: '0'
+  priority: '0'
+  rate: '8.6'
+  shipping: '1'
+  state: WA
+wootax/38443:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '99352'
+    location_type: postcode
+  name: RICHLAND
+  order: '0'
+  priority: '0'
+  rate: '8.6'
+  shipping: '1'
+  state: WA
+wootax/38444:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '99353'
+    location_type: postcode
+  name: WEST RICHLAND
+  order: '0'
+  priority: '0'
+  rate: '8.6'
+  shipping: '1'
+  state: WA
+wootax/38445:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '99354'
+    location_type: postcode
+  name: RICHLAND
+  order: '0'
+  priority: '0'
+  rate: '8.6'
+  shipping: '1'
+  state: WA
+wootax/38446:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '99356'
+    location_type: postcode
+  name: KLICKITAT COUNTY
+  order: '0'
+  priority: '0'
+  rate: '7'
+  shipping: '1'
+  state: WA
+wootax/38447:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '99357'
+    location_type: postcode
+  name: GRANT COUNTY
+  order: '0'
+  priority: '0'
+  rate: '7.9'
+  shipping: '1'
+  state: WA
+wootax/38448:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '99359'
+    location_type: postcode
+  name: STARBUCK
+  order: '0'
+  priority: '0'
+  rate: '8.2'
+  shipping: '1'
+  state: WA
+wootax/38449:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '99360'
+    location_type: postcode
+  name: WALLA WALLA COUNTY
+  order: '0'
+  priority: '0'
+  rate: '8.1'
+  shipping: '1'
+  state: WA
+wootax/38450:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '99361'
+    location_type: postcode
+  name: WALLA WALLA COUNTY
+  order: '0'
+  priority: '0'
+  rate: '8.1'
+  shipping: '1'
+  state: WA
+wootax/38451:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '99362'
+    location_type: postcode
+  name: WALLA WALLA TPA ZONE A SP
+  order: '0'
+  priority: '0'
+  rate: '8.9'
+  shipping: '1'
+  state: WA
+wootax/38452:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '99363'
+    location_type: postcode
+  name: WALLA WALLA COUNTY
+  order: '0'
+  priority: '0'
+  rate: '8.1'
+  shipping: '1'
+  state: WA
+wootax/38453:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '99371'
+    location_type: postcode
+  name: WASHTUCNA
+  order: '0'
+  priority: '0'
+  rate: '8'
+  shipping: '1'
+  state: WA
+wootax/38454:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '99401'
+    location_type: postcode
+  name: ASOTIN COUNTY
+  order: '0'
+  priority: '0'
+  rate: '7.7'
+  shipping: '1'
+  state: WA
+wootax/38455:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '99402'
+    location_type: postcode
+  name: ASOTIN
+  order: '0'
+  priority: '0'
+  rate: '7.7'
+  shipping: '1'
+  state: WA
+wootax/38456:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '99403'
+    location_type: postcode
+  name: ASOTIN COUNTY
+  order: '0'
+  priority: '0'
+  rate: '7.7'
+  shipping: '1'
+  state: WA

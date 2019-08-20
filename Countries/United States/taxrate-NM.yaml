@@ -1,0 +1,5421 @@
+wootax/24152:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '87001'
+    location_type: postcode
+  name: SANDOVAL COUNTY
+  order: '0'
+  priority: '0'
+  rate: '6.375'
+  shipping: '1'
+  state: NM
+wootax/24153:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '87002'
+    location_type: postcode
+  name: BELEN
+  order: '0'
+  priority: '0'
+  rate: '8.3125'
+  shipping: '1'
+  state: NM
+wootax/24154:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '87004'
+    location_type: postcode
+  name: BERNALILLO (CITY)
+  order: '0'
+  priority: '0'
+  rate: '7.1875'
+  shipping: '1'
+  state: NM
+wootax/24155:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '87005'
+    location_type: postcode
+  name: CIBOLA COUNTY
+  order: '0'
+  priority: '0'
+  rate: '6.8125'
+  shipping: '1'
+  state: NM
+wootax/24156:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '87006'
+    location_type: postcode
+  name: SOCORRO COUNTY
+  order: '0'
+  priority: '0'
+  rate: '6.375'
+  shipping: '1'
+  state: NM
+wootax/24157:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '87007'
+    location_type: postcode
+  name: LAGUNA PUEBLO (2) (CIBOLA CO)
+  order: '0'
+  priority: '0'
+  rate: '6.8125'
+  shipping: '1'
+  state: NM
+wootax/24158:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '87008'
+    location_type: postcode
+  name: BERNALILLO COUNTY
+  order: '0'
+  priority: '0'
+  rate: '6.4375'
+  shipping: '1'
+  state: NM
+wootax/24159:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '87010'
+    location_type: postcode
+  name: SANTA FE COUNTY
+  order: '0'
+  priority: '0'
+  rate: '7.125'
+  shipping: '1'
+  state: NM
+wootax/24160:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '87011'
+    location_type: postcode
+  name: SOCORRO COUNTY
+  order: '0'
+  priority: '0'
+  rate: '6.375'
+  shipping: '1'
+  state: NM
+wootax/24161:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '87012'
+    location_type: postcode
+  name: RIO ARRIBA COUNTY
+  order: '0'
+  priority: '0'
+  rate: '6.875'
+  shipping: '1'
+  state: NM
+wootax/24162:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '87013'
+    location_type: postcode
+  name: CUBA
+  order: '0'
+  priority: '0'
+  rate: '8.3125'
+  shipping: '1'
+  state: NM
+wootax/24163:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '87014'
+    location_type: postcode
+  name: CIBOLA COUNTY
+  order: '0'
+  priority: '0'
+  rate: '6.8125'
+  shipping: '1'
+  state: NM
+wootax/24164:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '87015'
+    location_type: postcode
+  name: EDGEWOOD
+  order: '0'
+  priority: '0'
+  rate: '8.1875'
+  shipping: '1'
+  state: NM
+wootax/24165:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '87016'
+    location_type: postcode
+  name: TORRANCE COUNTY
+  order: '0'
+  priority: '0'
+  rate: '6.75'
+  shipping: '1'
+  state: NM
+wootax/24166:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '87017'
+    location_type: postcode
+  name: RIO ARRIBA COUNTY
+  order: '0'
+  priority: '0'
+  rate: '6.875'
+  shipping: '1'
+  state: NM
+wootax/24167:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '87018'
+    location_type: postcode
+  name: SANDOVAL COUNTY
+  order: '0'
+  priority: '0'
+  rate: '6.375'
+  shipping: '1'
+  state: NM
+wootax/24168:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '87020'
+    location_type: postcode
+  name: GRANTS
+  order: '0'
+  priority: '0'
+  rate: '8.125'
+  shipping: '1'
+  state: NM
+wootax/24169:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '87021'
+    location_type: postcode
+  name: MILAN
+  order: '0'
+  priority: '0'
+  rate: '7.75'
+  shipping: '1'
+  state: NM
+wootax/24170:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '87022'
+    location_type: postcode
+  name: BERNALILLO COUNTY
+  order: '0'
+  priority: '0'
+  rate: '6.4375'
+  shipping: '1'
+  state: NM
+wootax/24171:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '87023'
+    location_type: postcode
+  name: VALENCIA COUNTY
+  order: '0'
+  priority: '0'
+  rate: '6.875'
+  shipping: '1'
+  state: NM
+wootax/24172:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '87024'
+    location_type: postcode
+  name: SANDOVAL COUNTY
+  order: '0'
+  priority: '0'
+  rate: '6.375'
+  shipping: '1'
+  state: NM
+wootax/24173:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '87025'
+    location_type: postcode
+  name: SANDOVAL COUNTY
+  order: '0'
+  priority: '0'
+  rate: '6.375'
+  shipping: '1'
+  state: NM
+wootax/24174:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '87026'
+    location_type: postcode
+  name: VALENCIA COUNTY
+  order: '0'
+  priority: '0'
+  rate: '6.875'
+  shipping: '1'
+  state: NM
+wootax/24175:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '87027'
+    location_type: postcode
+  name: SANDOVAL COUNTY
+  order: '0'
+  priority: '0'
+  rate: '6.375'
+  shipping: '1'
+  state: NM
+wootax/24176:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '87028'
+    location_type: postcode
+  name: SOCORRO COUNTY
+  order: '0'
+  priority: '0'
+  rate: '6.375'
+  shipping: '1'
+  state: NM
+wootax/24177:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '87029'
+    location_type: postcode
+  name: RIO ARRIBA COUNTY
+  order: '0'
+  priority: '0'
+  rate: '6.875'
+  shipping: '1'
+  state: NM
+wootax/24178:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '87031'
+    location_type: postcode
+  name: VALENCIA COUNTY
+  order: '0'
+  priority: '0'
+  rate: '6.875'
+  shipping: '1'
+  state: NM
+wootax/24179:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '87032'
+    location_type: postcode
+  name: TORRANCE COUNTY
+  order: '0'
+  priority: '0'
+  rate: '6.75'
+  shipping: '1'
+  state: NM
+wootax/24180:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '87034'
+    location_type: postcode
+  name: PUEBLO OF ACOMA 2
+  order: '0'
+  priority: '0'
+  rate: '6.8125'
+  shipping: '1'
+  state: NM
+wootax/24181:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '87035'
+    location_type: postcode
+  name: TORRANCE COUNTY
+  order: '0'
+  priority: '0'
+  rate: '6.75'
+  shipping: '1'
+  state: NM
+wootax/24182:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '87036'
+    location_type: postcode
+  name: MOUNTAINAIR
+  order: '0'
+  priority: '0'
+  rate: '7.9375'
+  shipping: '1'
+  state: NM
+wootax/24183:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '87037'
+    location_type: postcode
+  name: SAN JUAN COUNTY
+  order: '0'
+  priority: '0'
+  rate: '6.5625'
+  shipping: '1'
+  state: NM
+wootax/24184:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '87038'
+    location_type: postcode
+  name: LAGUNA PUEBLO (2) (CIBOLA CO)
+  order: '0'
+  priority: '0'
+  rate: '6.8125'
+  shipping: '1'
+  state: NM
+wootax/24185:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '87040'
+    location_type: postcode
+  name: LAGUNA PUEBLO (2) (CIBOLA CO)
+  order: '0'
+  priority: '0'
+  rate: '6.8125'
+  shipping: '1'
+  state: NM
+wootax/24186:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '87041'
+    location_type: postcode
+  name: PUEBLO DE COCHITI (2) (SANDOVAL CO)
+  order: '0'
+  priority: '0'
+  rate: '6.375'
+  shipping: '1'
+  state: NM
+wootax/24187:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '87042'
+    location_type: postcode
+  name: PERALTA
+  order: '0'
+  priority: '0'
+  rate: '7.9375'
+  shipping: '1'
+  state: NM
+wootax/24188:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '87043'
+    location_type: postcode
+  name: SANDOVAL COUNTY
+  order: '0'
+  priority: '0'
+  rate: '6.375'
+  shipping: '1'
+  state: NM
+wootax/24189:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '87044'
+    location_type: postcode
+  name: SANDOVAL COUNTY
+  order: '0'
+  priority: '0'
+  rate: '6.375'
+  shipping: '1'
+  state: NM
+wootax/24190:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '87045'
+    location_type: postcode
+  name: MCKINLEY COUNTY
+  order: '0'
+  priority: '0'
+  rate: '6.75'
+  shipping: '1'
+  state: NM
+wootax/24191:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '87046'
+    location_type: postcode
+  name: SANDOVAL COUNTY
+  order: '0'
+  priority: '0'
+  rate: '6.375'
+  shipping: '1'
+  state: NM
+wootax/24192:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '87047'
+    location_type: postcode
+  name: BERNALILLO COUNTY
+  order: '0'
+  priority: '0'
+  rate: '6.4375'
+  shipping: '1'
+  state: NM
+wootax/24193:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '87048'
+    location_type: postcode
+  name: CORRALES
+  order: '0'
+  priority: '0'
+  rate: '7.8125'
+  shipping: '1'
+  state: NM
+wootax/24194:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '87049'
+    location_type: postcode
+  name: CIBOLA COUNTY
+  order: '0'
+  priority: '0'
+  rate: '6.8125'
+  shipping: '1'
+  state: NM
+wootax/24195:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '87051'
+    location_type: postcode
+  name: CIBOLA COUNTY
+  order: '0'
+  priority: '0'
+  rate: '6.8125'
+  shipping: '1'
+  state: NM
+wootax/24196:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '87052'
+    location_type: postcode
+  name: KEWA PUEBLO 2
+  order: '0'
+  priority: '0'
+  rate: '6.375'
+  shipping: '1'
+  state: NM
+wootax/24197:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '87053'
+    location_type: postcode
+  name: SANDOVAL COUNTY
+  order: '0'
+  priority: '0'
+  rate: '6.375'
+  shipping: '1'
+  state: NM
+wootax/24198:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '87056'
+    location_type: postcode
+  name: SANTA FE COUNTY
+  order: '0'
+  priority: '0'
+  rate: '7.125'
+  shipping: '1'
+  state: NM
+wootax/24199:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '87059'
+    location_type: postcode
+  name: BERNALILLO COUNTY
+  order: '0'
+  priority: '0'
+  rate: '6.4375'
+  shipping: '1'
+  state: NM
+wootax/24200:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '87060'
+    location_type: postcode
+  name: VALENCIA COUNTY
+  order: '0'
+  priority: '0'
+  rate: '6.875'
+  shipping: '1'
+  state: NM
+wootax/24201:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '87061'
+    location_type: postcode
+  name: TORRANCE COUNTY
+  order: '0'
+  priority: '0'
+  rate: '6.75'
+  shipping: '1'
+  state: NM
+wootax/24202:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '87062'
+    location_type: postcode
+  name: SOCORRO COUNTY
+  order: '0'
+  priority: '0'
+  rate: '6.375'
+  shipping: '1'
+  state: NM
+wootax/24203:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '87063'
+    location_type: postcode
+  name: WILLARD
+  order: '0'
+  priority: '0'
+  rate: '7.5625'
+  shipping: '1'
+  state: NM
+wootax/24204:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '87064'
+    location_type: postcode
+  name: RIO ARRIBA COUNTY
+  order: '0'
+  priority: '0'
+  rate: '6.875'
+  shipping: '1'
+  state: NM
+wootax/24205:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '87068'
+    location_type: postcode
+  name: BOSQUE FARMS
+  order: '0'
+  priority: '0'
+  rate: '8.1875'
+  shipping: '1'
+  state: NM
+wootax/24206:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '87070'
+    location_type: postcode
+  name: TORRANCE COUNTY
+  order: '0'
+  priority: '0'
+  rate: '6.75'
+  shipping: '1'
+  state: NM
+wootax/24207:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '87072'
+    location_type: postcode
+  name: PUEBLO DE COCHITI (2) (SANDOVAL CO)
+  order: '0'
+  priority: '0'
+  rate: '6.375'
+  shipping: '1'
+  state: NM
+wootax/24208:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '87083'
+    location_type: postcode
+  name: PUEBLO DE COCHITI (2) (SANDOVAL CO)
+  order: '0'
+  priority: '0'
+  rate: '6.375'
+  shipping: '1'
+  state: NM
+wootax/24209:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '87101'
+    location_type: postcode
+  name: ALBUQUERQUE
+  order: '0'
+  priority: '0'
+  rate: '7.875'
+  shipping: '1'
+  state: NM
+wootax/24210:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '87102'
+    location_type: postcode
+  name: ALBUQUERQUE
+  order: '0'
+  priority: '0'
+  rate: '7.875'
+  shipping: '1'
+  state: NM
+wootax/24211:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '87103'
+    location_type: postcode
+  name: ALBUQUERQUE
+  order: '0'
+  priority: '0'
+  rate: '7.875'
+  shipping: '1'
+  state: NM
+wootax/24212:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '87104'
+    location_type: postcode
+  name: ALBUQUERQUE
+  order: '0'
+  priority: '0'
+  rate: '7.875'
+  shipping: '1'
+  state: NM
+wootax/24213:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '87105'
+    location_type: postcode
+  name: BERNALILLO COUNTY
+  order: '0'
+  priority: '0'
+  rate: '6.4375'
+  shipping: '1'
+  state: NM
+wootax/24214:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '87106'
+    location_type: postcode
+  name: ALBUQUERQUE
+  order: '0'
+  priority: '0'
+  rate: '7.875'
+  shipping: '1'
+  state: NM
+wootax/24215:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '87107'
+    location_type: postcode
+  name: ALBUQUERQUE
+  order: '0'
+  priority: '0'
+  rate: '7.875'
+  shipping: '1'
+  state: NM
+wootax/24216:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '87108'
+    location_type: postcode
+  name: ALBUQUERQUE
+  order: '0'
+  priority: '0'
+  rate: '7.875'
+  shipping: '1'
+  state: NM
+wootax/24217:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '87109'
+    location_type: postcode
+  name: ALBUQUERQUE
+  order: '0'
+  priority: '0'
+  rate: '7.875'
+  shipping: '1'
+  state: NM
+wootax/24218:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '87110'
+    location_type: postcode
+  name: ALBUQUERQUE
+  order: '0'
+  priority: '0'
+  rate: '7.875'
+  shipping: '1'
+  state: NM
+wootax/24219:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '87111'
+    location_type: postcode
+  name: ALBUQUERQUE
+  order: '0'
+  priority: '0'
+  rate: '7.875'
+  shipping: '1'
+  state: NM
+wootax/24220:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '87112'
+    location_type: postcode
+  name: ALBUQUERQUE
+  order: '0'
+  priority: '0'
+  rate: '7.875'
+  shipping: '1'
+  state: NM
+wootax/24221:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '87113'
+    location_type: postcode
+  name: ALBUQUERQUE
+  order: '0'
+  priority: '0'
+  rate: '7.875'
+  shipping: '1'
+  state: NM
+wootax/24222:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '87114'
+    location_type: postcode
+  name: ALBUQUERQUE
+  order: '0'
+  priority: '0'
+  rate: '7.875'
+  shipping: '1'
+  state: NM
+wootax/24223:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '87115'
+    location_type: postcode
+  name: BERNALILLO COUNTY
+  order: '0'
+  priority: '0'
+  rate: '6.4375'
+  shipping: '1'
+  state: NM
+wootax/24224:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '87116'
+    location_type: postcode
+  name: BERNALILLO COUNTY
+  order: '0'
+  priority: '0'
+  rate: '6.4375'
+  shipping: '1'
+  state: NM
+wootax/24225:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '87117'
+    location_type: postcode
+  name: BERNALILLO COUNTY
+  order: '0'
+  priority: '0'
+  rate: '6.4375'
+  shipping: '1'
+  state: NM
+wootax/24226:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '87119'
+    location_type: postcode
+  name: ALBUQUERQUE
+  order: '0'
+  priority: '0'
+  rate: '7.875'
+  shipping: '1'
+  state: NM
+wootax/24227:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '87120'
+    location_type: postcode
+  name: ALBUQUERQUE
+  order: '0'
+  priority: '0'
+  rate: '7.875'
+  shipping: '1'
+  state: NM
+wootax/24228:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '87121'
+    location_type: postcode
+  name: ALBUQUERQUE
+  order: '0'
+  priority: '0'
+  rate: '7.875'
+  shipping: '1'
+  state: NM
+wootax/24229:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '87122'
+    location_type: postcode
+  name: BERNALILLO COUNTY
+  order: '0'
+  priority: '0'
+  rate: '6.4375'
+  shipping: '1'
+  state: NM
+wootax/24230:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '87123'
+    location_type: postcode
+  name: ALBUQUERQUE
+  order: '0'
+  priority: '0'
+  rate: '7.875'
+  shipping: '1'
+  state: NM
+wootax/24231:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '87124'
+    location_type: postcode
+  name: RIO RANCHO (SANDOVAL CO)
+  order: '0'
+  priority: '0'
+  rate: '7.6875'
+  shipping: '1'
+  state: NM
+wootax/24232:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '87125'
+    location_type: postcode
+  name: ALBUQUERQUE
+  order: '0'
+  priority: '0'
+  rate: '7.875'
+  shipping: '1'
+  state: NM
+wootax/24233:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '87131'
+    location_type: postcode
+  name: ALBUQUERQUE
+  order: '0'
+  priority: '0'
+  rate: '7.875'
+  shipping: '1'
+  state: NM
+wootax/24234:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '87144'
+    location_type: postcode
+  name: RIO RANCHO (SANDOVAL CO)
+  order: '0'
+  priority: '0'
+  rate: '7.6875'
+  shipping: '1'
+  state: NM
+wootax/24235:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '87151'
+    location_type: postcode
+  name: ALBUQUERQUE
+  order: '0'
+  priority: '0'
+  rate: '7.875'
+  shipping: '1'
+  state: NM
+wootax/24236:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '87153'
+    location_type: postcode
+  name: ALBUQUERQUE
+  order: '0'
+  priority: '0'
+  rate: '7.875'
+  shipping: '1'
+  state: NM
+wootax/24237:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '87154'
+    location_type: postcode
+  name: ALBUQUERQUE
+  order: '0'
+  priority: '0'
+  rate: '7.875'
+  shipping: '1'
+  state: NM
+wootax/24238:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '87158'
+    location_type: postcode
+  name: ALBUQUERQUE
+  order: '0'
+  priority: '0'
+  rate: '7.875'
+  shipping: '1'
+  state: NM
+wootax/24239:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '87174'
+    location_type: postcode
+  name: RIO RANCHO (SANDOVAL CO)
+  order: '0'
+  priority: '0'
+  rate: '7.6875'
+  shipping: '1'
+  state: NM
+wootax/24240:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '87176'
+    location_type: postcode
+  name: ALBUQUERQUE
+  order: '0'
+  priority: '0'
+  rate: '7.875'
+  shipping: '1'
+  state: NM
+wootax/24241:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '87181'
+    location_type: postcode
+  name: ALBUQUERQUE
+  order: '0'
+  priority: '0'
+  rate: '7.875'
+  shipping: '1'
+  state: NM
+wootax/24242:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '87184'
+    location_type: postcode
+  name: BERNALILLO COUNTY
+  order: '0'
+  priority: '0'
+  rate: '6.4375'
+  shipping: '1'
+  state: NM
+wootax/24243:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '87185'
+    location_type: postcode
+  name: BERNALILLO COUNTY
+  order: '0'
+  priority: '0'
+  rate: '6.4375'
+  shipping: '1'
+  state: NM
+wootax/24244:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '87187'
+    location_type: postcode
+  name: ALBUQUERQUE
+  order: '0'
+  priority: '0'
+  rate: '7.875'
+  shipping: '1'
+  state: NM
+wootax/24245:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '87190'
+    location_type: postcode
+  name: ALBUQUERQUE
+  order: '0'
+  priority: '0'
+  rate: '7.875'
+  shipping: '1'
+  state: NM
+wootax/24246:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '87191'
+    location_type: postcode
+  name: ALBUQUERQUE
+  order: '0'
+  priority: '0'
+  rate: '7.875'
+  shipping: '1'
+  state: NM
+wootax/24247:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '87192'
+    location_type: postcode
+  name: ALBUQUERQUE
+  order: '0'
+  priority: '0'
+  rate: '7.875'
+  shipping: '1'
+  state: NM
+wootax/24248:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '87193'
+    location_type: postcode
+  name: ALBUQUERQUE
+  order: '0'
+  priority: '0'
+  rate: '7.875'
+  shipping: '1'
+  state: NM
+wootax/24249:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '87194'
+    location_type: postcode
+  name: ALBUQUERQUE
+  order: '0'
+  priority: '0'
+  rate: '7.875'
+  shipping: '1'
+  state: NM
+wootax/24250:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '87195'
+    location_type: postcode
+  name: BERNALILLO COUNTY
+  order: '0'
+  priority: '0'
+  rate: '6.4375'
+  shipping: '1'
+  state: NM
+wootax/24251:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '87196'
+    location_type: postcode
+  name: ALBUQUERQUE
+  order: '0'
+  priority: '0'
+  rate: '7.875'
+  shipping: '1'
+  state: NM
+wootax/24252:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '87197'
+    location_type: postcode
+  name: ALBUQUERQUE
+  order: '0'
+  priority: '0'
+  rate: '7.875'
+  shipping: '1'
+  state: NM
+wootax/24253:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '87198'
+    location_type: postcode
+  name: ALBUQUERQUE
+  order: '0'
+  priority: '0'
+  rate: '7.875'
+  shipping: '1'
+  state: NM
+wootax/24254:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '87199'
+    location_type: postcode
+  name: ALBUQUERQUE
+  order: '0'
+  priority: '0'
+  rate: '7.875'
+  shipping: '1'
+  state: NM
+wootax/24255:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '87301'
+    location_type: postcode
+  name: GALLUP
+  order: '0'
+  priority: '0'
+  rate: '8.3125'
+  shipping: '1'
+  state: NM
+wootax/24256:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '87302'
+    location_type: postcode
+  name: GALLUP
+  order: '0'
+  priority: '0'
+  rate: '8.3125'
+  shipping: '1'
+  state: NM
+wootax/24257:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '87305'
+    location_type: postcode
+  name: GALLUP
+  order: '0'
+  priority: '0'
+  rate: '8.3125'
+  shipping: '1'
+  state: NM
+wootax/24258:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '87311'
+    location_type: postcode
+  name: MCKINLEY COUNTY
+  order: '0'
+  priority: '0'
+  rate: '6.75'
+  shipping: '1'
+  state: NM
+wootax/24259:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '87312'
+    location_type: postcode
+  name: MCKINLEY COUNTY
+  order: '0'
+  priority: '0'
+  rate: '6.75'
+  shipping: '1'
+  state: NM
+wootax/24260:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '87313'
+    location_type: postcode
+  name: MCKINLEY COUNTY
+  order: '0'
+  priority: '0'
+  rate: '6.75'
+  shipping: '1'
+  state: NM
+wootax/24261:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '87315'
+    location_type: postcode
+  name: CIBOLA COUNTY
+  order: '0'
+  priority: '0'
+  rate: '6.8125'
+  shipping: '1'
+  state: NM
+wootax/24262:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '87316'
+    location_type: postcode
+  name: MCKINLEY COUNTY
+  order: '0'
+  priority: '0'
+  rate: '6.75'
+  shipping: '1'
+  state: NM
+wootax/24263:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '87317'
+    location_type: postcode
+  name: GALLUP
+  order: '0'
+  priority: '0'
+  rate: '8.3125'
+  shipping: '1'
+  state: NM
+wootax/24264:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '87319'
+    location_type: postcode
+  name: GALLUP
+  order: '0'
+  priority: '0'
+  rate: '8.3125'
+  shipping: '1'
+  state: NM
+wootax/24265:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '87320'
+    location_type: postcode
+  name: MCKINLEY COUNTY
+  order: '0'
+  priority: '0'
+  rate: '6.75'
+  shipping: '1'
+  state: NM
+wootax/24266:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '87321'
+    location_type: postcode
+  name: MCKINLEY COUNTY
+  order: '0'
+  priority: '0'
+  rate: '6.75'
+  shipping: '1'
+  state: NM
+wootax/24267:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '87322'
+    location_type: postcode
+  name: GALLUP
+  order: '0'
+  priority: '0'
+  rate: '8.3125'
+  shipping: '1'
+  state: NM
+wootax/24268:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '87323'
+    location_type: postcode
+  name: CIBOLA COUNTY
+  order: '0'
+  priority: '0'
+  rate: '6.8125'
+  shipping: '1'
+  state: NM
+wootax/24269:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '87325'
+    location_type: postcode
+  name: MCKINLEY COUNTY
+  order: '0'
+  priority: '0'
+  rate: '6.75'
+  shipping: '1'
+  state: NM
+wootax/24270:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '87326'
+    location_type: postcode
+  name: GALLUP
+  order: '0'
+  priority: '0'
+  rate: '8.3125'
+  shipping: '1'
+  state: NM
+wootax/24271:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '87327'
+    location_type: postcode
+  name: PUEBLO OF ZUNI 2
+  order: '0'
+  priority: '0'
+  rate: '6.75'
+  shipping: '1'
+  state: NM
+wootax/24272:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '87328'
+    location_type: postcode
+  name: MCKINLEY COUNTY
+  order: '0'
+  priority: '0'
+  rate: '6.75'
+  shipping: '1'
+  state: NM
+wootax/24273:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '87357'
+    location_type: postcode
+  name: MCKINLEY COUNTY
+  order: '0'
+  priority: '0'
+  rate: '6.75'
+  shipping: '1'
+  state: NM
+wootax/24274:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '87364'
+    location_type: postcode
+  name: SAN JUAN COUNTY
+  order: '0'
+  priority: '0'
+  rate: '6.5625'
+  shipping: '1'
+  state: NM
+wootax/24275:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '87365'
+    location_type: postcode
+  name: MCKINLEY COUNTY
+  order: '0'
+  priority: '0'
+  rate: '6.75'
+  shipping: '1'
+  state: NM
+wootax/24276:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '87375'
+    location_type: postcode
+  name: MCKINLEY COUNTY
+  order: '0'
+  priority: '0'
+  rate: '6.75'
+  shipping: '1'
+  state: NM
+wootax/24277:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '87401'
+    location_type: postcode
+  name: FARMINGTON
+  order: '0'
+  priority: '0'
+  rate: '8.25'
+  shipping: '1'
+  state: NM
+wootax/24278:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '87402'
+    location_type: postcode
+  name: FARMINGTON
+  order: '0'
+  priority: '0'
+  rate: '8.25'
+  shipping: '1'
+  state: NM
+wootax/24279:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '87410'
+    location_type: postcode
+  name: AZTEC
+  order: '0'
+  priority: '0'
+  rate: '8.25'
+  shipping: '1'
+  state: NM
+wootax/24280:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '87412'
+    location_type: postcode
+  name: SAN JUAN COUNTY
+  order: '0'
+  priority: '0'
+  rate: '6.5625'
+  shipping: '1'
+  state: NM
+wootax/24281:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '87413'
+    location_type: postcode
+  name: BLOOMFIELD
+  order: '0'
+  priority: '0'
+  rate: '8.1875'
+  shipping: '1'
+  state: NM
+wootax/24282:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '87415'
+    location_type: postcode
+  name: SAN JUAN COUNTY
+  order: '0'
+  priority: '0'
+  rate: '6.5625'
+  shipping: '1'
+  state: NM
+wootax/24283:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '87416'
+    location_type: postcode
+  name: SAN JUAN COUNTY
+  order: '0'
+  priority: '0'
+  rate: '6.5625'
+  shipping: '1'
+  state: NM
+wootax/24284:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '87417'
+    location_type: postcode
+  name: SAN JUAN COUNTY
+  order: '0'
+  priority: '0'
+  rate: '6.5625'
+  shipping: '1'
+  state: NM
+wootax/24285:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '87418'
+    location_type: postcode
+  name: SAN JUAN COUNTY
+  order: '0'
+  priority: '0'
+  rate: '6.5625'
+  shipping: '1'
+  state: NM
+wootax/24286:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '87419'
+    location_type: postcode
+  name: SAN JUAN COUNTY
+  order: '0'
+  priority: '0'
+  rate: '6.5625'
+  shipping: '1'
+  state: NM
+wootax/24287:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '87420'
+    location_type: postcode
+  name: SAN JUAN COUNTY
+  order: '0'
+  priority: '0'
+  rate: '6.5625'
+  shipping: '1'
+  state: NM
+wootax/24288:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '87421'
+    location_type: postcode
+  name: SAN JUAN COUNTY
+  order: '0'
+  priority: '0'
+  rate: '6.5625'
+  shipping: '1'
+  state: NM
+wootax/24289:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '87461'
+    location_type: postcode
+  name: SAN JUAN COUNTY
+  order: '0'
+  priority: '0'
+  rate: '6.5625'
+  shipping: '1'
+  state: NM
+wootax/24290:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '87499'
+    location_type: postcode
+  name: FARMINGTON
+  order: '0'
+  priority: '0'
+  rate: '8.25'
+  shipping: '1'
+  state: NM
+wootax/24291:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '87501'
+    location_type: postcode
+  name: SANTA FE (CITY)
+  order: '0'
+  priority: '0'
+  rate: '8.4375'
+  shipping: '1'
+  state: NM
+wootax/24292:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '87502'
+    location_type: postcode
+  name: SANTA FE (CITY)
+  order: '0'
+  priority: '0'
+  rate: '8.4375'
+  shipping: '1'
+  state: NM
+wootax/24293:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '87503'
+    location_type: postcode
+  name: SANTA FE (CITY)
+  order: '0'
+  priority: '0'
+  rate: '8.4375'
+  shipping: '1'
+  state: NM
+wootax/24294:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '87504'
+    location_type: postcode
+  name: SANTA FE (CITY)
+  order: '0'
+  priority: '0'
+  rate: '8.4375'
+  shipping: '1'
+  state: NM
+wootax/24295:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '87505'
+    location_type: postcode
+  name: SANTA FE (CITY)
+  order: '0'
+  priority: '0'
+  rate: '8.4375'
+  shipping: '1'
+  state: NM
+wootax/24296:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '87506'
+    location_type: postcode
+  name: SANTA FE COUNTY
+  order: '0'
+  priority: '0'
+  rate: '7.125'
+  shipping: '1'
+  state: NM
+wootax/24297:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '87507'
+    location_type: postcode
+  name: SANTA FE (CITY)
+  order: '0'
+  priority: '0'
+  rate: '8.4375'
+  shipping: '1'
+  state: NM
+wootax/24298:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '87508'
+    location_type: postcode
+  name: SANTA FE COUNTY
+  order: '0'
+  priority: '0'
+  rate: '7.125'
+  shipping: '1'
+  state: NM
+wootax/24299:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '87509'
+    location_type: postcode
+  name: SANTA FE (CITY)
+  order: '0'
+  priority: '0'
+  rate: '8.4375'
+  shipping: '1'
+  state: NM
+wootax/24300:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '87510'
+    location_type: postcode
+  name: RIO ARRIBA COUNTY
+  order: '0'
+  priority: '0'
+  rate: '6.875'
+  shipping: '1'
+  state: NM
+wootax/24301:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '87511'
+    location_type: postcode
+  name: OHKAY OWINGEH PUEBLO (2)
+  order: '0'
+  priority: '0'
+  rate: '6.875'
+  shipping: '1'
+  state: NM
+wootax/24302:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '87512'
+    location_type: postcode
+  name: TAOS COUNTY
+  order: '0'
+  priority: '0'
+  rate: '7.3125'
+  shipping: '1'
+  state: NM
+wootax/24303:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '87513'
+    location_type: postcode
+  name: TAOS COUNTY
+  order: '0'
+  priority: '0'
+  rate: '7.3125'
+  shipping: '1'
+  state: NM
+wootax/24304:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '87514'
+    location_type: postcode
+  name: TAOS COUNTY
+  order: '0'
+  priority: '0'
+  rate: '7.3125'
+  shipping: '1'
+  state: NM
+wootax/24305:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '87515'
+    location_type: postcode
+  name: RIO ARRIBA COUNTY
+  order: '0'
+  priority: '0'
+  rate: '6.875'
+  shipping: '1'
+  state: NM
+wootax/24306:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '87516'
+    location_type: postcode
+  name: RIO ARRIBA COUNTY
+  order: '0'
+  priority: '0'
+  rate: '6.875'
+  shipping: '1'
+  state: NM
+wootax/24307:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '87517'
+    location_type: postcode
+  name: TAOS COUNTY
+  order: '0'
+  priority: '0'
+  rate: '7.3125'
+  shipping: '1'
+  state: NM
+wootax/24308:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '87518'
+    location_type: postcode
+  name: RIO ARRIBA COUNTY
+  order: '0'
+  priority: '0'
+  rate: '6.875'
+  shipping: '1'
+  state: NM
+wootax/24309:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '87519'
+    location_type: postcode
+  name: TAOS COUNTY
+  order: '0'
+  priority: '0'
+  rate: '7.3125'
+  shipping: '1'
+  state: NM
+wootax/24310:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '87520'
+    location_type: postcode
+  name: CHAMA
+  order: '0'
+  priority: '0'
+  rate: '8.5625'
+  shipping: '1'
+  state: NM
+wootax/24311:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '87521'
+    location_type: postcode
+  name: TAOS COUNTY
+  order: '0'
+  priority: '0'
+  rate: '7.3125'
+  shipping: '1'
+  state: NM
+wootax/24312:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '87522'
+    location_type: postcode
+  name: SANTA FE COUNTY
+  order: '0'
+  priority: '0'
+  rate: '7.125'
+  shipping: '1'
+  state: NM
+wootax/24313:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '87523'
+    location_type: postcode
+  name: RIO ARRIBA COUNTY
+  order: '0'
+  priority: '0'
+  rate: '6.875'
+  shipping: '1'
+  state: NM
+wootax/24314:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '87524'
+    location_type: postcode
+  name: TAOS COUNTY
+  order: '0'
+  priority: '0'
+  rate: '7.3125'
+  shipping: '1'
+  state: NM
+wootax/24315:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '87525'
+    location_type: postcode
+  name: TAOS SKI VALLEY TIDD
+  order: '0'
+  priority: '0'
+  rate: '9.25'
+  shipping: '1'
+  state: NM
+wootax/24316:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '87527'
+    location_type: postcode
+  name: RIO ARRIBA COUNTY
+  order: '0'
+  priority: '0'
+  rate: '6.875'
+  shipping: '1'
+  state: NM
+wootax/24317:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '87528'
+    location_type: postcode
+  name: RIO ARRIBA COUNTY
+  order: '0'
+  priority: '0'
+  rate: '6.875'
+  shipping: '1'
+  state: NM
+wootax/24318:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '87529'
+    location_type: postcode
+  name: TAOS COUNTY
+  order: '0'
+  priority: '0'
+  rate: '7.3125'
+  shipping: '1'
+  state: NM
+wootax/24319:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '87530'
+    location_type: postcode
+  name: RIO ARRIBA COUNTY
+  order: '0'
+  priority: '0'
+  rate: '6.875'
+  shipping: '1'
+  state: NM
+wootax/24320:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '87531'
+    location_type: postcode
+  name: RIO ARRIBA COUNTY
+  order: '0'
+  priority: '0'
+  rate: '6.875'
+  shipping: '1'
+  state: NM
+wootax/24321:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '87532'
+    location_type: postcode
+  name: ESPANOLA (RIO ARRIBA CO)
+  order: '0'
+  priority: '0'
+  rate: '8.9375'
+  shipping: '1'
+  state: NM
+wootax/24322:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '87535'
+    location_type: postcode
+  name: SANTA FE COUNTY
+  order: '0'
+  priority: '0'
+  rate: '7.125'
+  shipping: '1'
+  state: NM
+wootax/24323:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '87537'
+    location_type: postcode
+  name: RIO ARRIBA COUNTY
+  order: '0'
+  priority: '0'
+  rate: '6.875'
+  shipping: '1'
+  state: NM
+wootax/24324:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '87538'
+    location_type: postcode
+  name: SAN MIGUEL COUNTY
+  order: '0'
+  priority: '0'
+  rate: '6.8333'
+  shipping: '1'
+  state: NM
+wootax/24325:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '87539'
+    location_type: postcode
+  name: RIO ARRIBA COUNTY
+  order: '0'
+  priority: '0'
+  rate: '6.875'
+  shipping: '1'
+  state: NM
+wootax/24326:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '87540'
+    location_type: postcode
+  name: SANTA FE COUNTY
+  order: '0'
+  priority: '0'
+  rate: '7.125'
+  shipping: '1'
+  state: NM
+wootax/24327:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '87543'
+    location_type: postcode
+  name: TAOS COUNTY
+  order: '0'
+  priority: '0'
+  rate: '7.3125'
+  shipping: '1'
+  state: NM
+wootax/24328:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '87544'
+    location_type: postcode
+  name: LOS ALAMOS COUNTY
+  order: '0'
+  priority: '0'
+  rate: '7.3125'
+  shipping: '1'
+  state: NM
+wootax/24329:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '87545'
+    location_type: postcode
+  name: LOS ALAMOS COUNTY
+  order: '0'
+  priority: '0'
+  rate: '7.3125'
+  shipping: '1'
+  state: NM
+wootax/24330:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '87547'
+    location_type: postcode
+  name: LOS ALAMOS COUNTY
+  order: '0'
+  priority: '0'
+  rate: '7.3125'
+  shipping: '1'
+  state: NM
+wootax/24331:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '87548'
+    location_type: postcode
+  name: RIO ARRIBA COUNTY
+  order: '0'
+  priority: '0'
+  rate: '6.875'
+  shipping: '1'
+  state: NM
+wootax/24332:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '87549'
+    location_type: postcode
+  name: TAOS COUNTY
+  order: '0'
+  priority: '0'
+  rate: '7.3125'
+  shipping: '1'
+  state: NM
+wootax/24333:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '87551'
+    location_type: postcode
+  name: RIO ARRIBA COUNTY
+  order: '0'
+  priority: '0'
+  rate: '6.875'
+  shipping: '1'
+  state: NM
+wootax/24334:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '87552'
+    location_type: postcode
+  name: SAN MIGUEL COUNTY
+  order: '0'
+  priority: '0'
+  rate: '6.8333'
+  shipping: '1'
+  state: NM
+wootax/24335:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '87553'
+    location_type: postcode
+  name: PICURIS PUEBLO 2
+  order: '0'
+  priority: '0'
+  rate: '7.3125'
+  shipping: '1'
+  state: NM
+wootax/24336:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '87554'
+    location_type: postcode
+  name: RIO ARRIBA COUNTY
+  order: '0'
+  priority: '0'
+  rate: '6.875'
+  shipping: '1'
+  state: NM
+wootax/24337:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '87556'
+    location_type: postcode
+  name: QUESTA
+  order: '0'
+  priority: '0'
+  rate: '8.375'
+  shipping: '1'
+  state: NM
+wootax/24338:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '87557'
+    location_type: postcode
+  name: EL VALLE DE LOS RANCHOS WATER & SANITATION DISTRICT (OUTSIDE CL)
+  order: '0'
+  priority: '0'
+  rate: '7.5625'
+  shipping: '1'
+  state: NM
+wootax/24339:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '87558'
+    location_type: postcode
+  name: RED RIVER
+  order: '0'
+  priority: '0'
+  rate: '8.625'
+  shipping: '1'
+  state: NM
+wootax/24340:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '87560'
+    location_type: postcode
+  name: SAN MIGUEL COUNTY
+  order: '0'
+  priority: '0'
+  rate: '6.8333'
+  shipping: '1'
+  state: NM
+wootax/24341:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '87562'
+    location_type: postcode
+  name: SAN MIGUEL COUNTY
+  order: '0'
+  priority: '0'
+  rate: '6.8333'
+  shipping: '1'
+  state: NM
+wootax/24342:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '87564'
+    location_type: postcode
+  name: TAOS COUNTY
+  order: '0'
+  priority: '0'
+  rate: '7.3125'
+  shipping: '1'
+  state: NM
+wootax/24343:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '87565'
+    location_type: postcode
+  name: SAN MIGUEL COUNTY
+  order: '0'
+  priority: '0'
+  rate: '6.8333'
+  shipping: '1'
+  state: NM
+wootax/24344:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '87566'
+    location_type: postcode
+  name: OHKAY OWINGEH PUEBLO (2)
+  order: '0'
+  priority: '0'
+  rate: '6.875'
+  shipping: '1'
+  state: NM
+wootax/24345:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '87567'
+    location_type: postcode
+  name: ESPANOLA/SANTA CLARA GRANT (2) (SANTA FE CO)
+  order: '0'
+  priority: '0'
+  rate: '9.0625'
+  shipping: '1'
+  state: NM
+wootax/24346:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '87569'
+    location_type: postcode
+  name: SAN MIGUEL COUNTY
+  order: '0'
+  priority: '0'
+  rate: '6.8333'
+  shipping: '1'
+  state: NM
+wootax/24347:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '87571'
+    location_type: postcode
+  name: TAOS/TAOS PUEBLO (2)
+  order: '0'
+  priority: '0'
+  rate: '8.5'
+  shipping: '1'
+  state: NM
+wootax/24348:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '87573'
+    location_type: postcode
+  name: SAN MIGUEL COUNTY
+  order: '0'
+  priority: '0'
+  rate: '6.8333'
+  shipping: '1'
+  state: NM
+wootax/24349:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '87574'
+    location_type: postcode
+  name: SANTA FE COUNTY
+  order: '0'
+  priority: '0'
+  rate: '7.125'
+  shipping: '1'
+  state: NM
+wootax/24350:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '87575'
+    location_type: postcode
+  name: RIO ARRIBA COUNTY
+  order: '0'
+  priority: '0'
+  rate: '6.875'
+  shipping: '1'
+  state: NM
+wootax/24351:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '87577'
+    location_type: postcode
+  name: TAOS COUNTY
+  order: '0'
+  priority: '0'
+  rate: '7.3125'
+  shipping: '1'
+  state: NM
+wootax/24352:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '87578'
+    location_type: postcode
+  name: RIO ARRIBA COUNTY
+  order: '0'
+  priority: '0'
+  rate: '6.875'
+  shipping: '1'
+  state: NM
+wootax/24353:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '87579'
+    location_type: postcode
+  name: TAOS COUNTY
+  order: '0'
+  priority: '0'
+  rate: '7.3125'
+  shipping: '1'
+  state: NM
+wootax/24354:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '87580'
+    location_type: postcode
+  name: TAOS COUNTY
+  order: '0'
+  priority: '0'
+  rate: '7.3125'
+  shipping: '1'
+  state: NM
+wootax/24355:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '87581'
+    location_type: postcode
+  name: RIO ARRIBA COUNTY
+  order: '0'
+  priority: '0'
+  rate: '6.875'
+  shipping: '1'
+  state: NM
+wootax/24356:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '87582'
+    location_type: postcode
+  name: RIO ARRIBA COUNTY
+  order: '0'
+  priority: '0'
+  rate: '6.875'
+  shipping: '1'
+  state: NM
+wootax/24357:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '87583'
+    location_type: postcode
+  name: SAN MIGUEL COUNTY
+  order: '0'
+  priority: '0'
+  rate: '6.8333'
+  shipping: '1'
+  state: NM
+wootax/24358:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '87592'
+    location_type: postcode
+  name: SANTA FE (CITY)
+  order: '0'
+  priority: '0'
+  rate: '8.4375'
+  shipping: '1'
+  state: NM
+wootax/24359:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '87594'
+    location_type: postcode
+  name: SANTA FE (CITY)
+  order: '0'
+  priority: '0'
+  rate: '8.4375'
+  shipping: '1'
+  state: NM
+wootax/24360:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '87654'
+    location_type: postcode
+  name: SIERRA COUNTY
+  order: '0'
+  priority: '0'
+  rate: '6.9375'
+  shipping: '1'
+  state: NM
+wootax/24361:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '87701'
+    location_type: postcode
+  name: LAS VEGAS
+  order: '0'
+  priority: '0'
+  rate: '8.3958'
+  shipping: '1'
+  state: NM
+wootax/24362:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '87710'
+    location_type: postcode
+  name: ANGEL FIRE
+  order: '0'
+  priority: '0'
+  rate: '7.7708'
+  shipping: '1'
+  state: NM
+wootax/24363:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '87711'
+    location_type: postcode
+  name: GUADALUPE COUNTY
+  order: '0'
+  priority: '0'
+  rate: '6.4375'
+  shipping: '1'
+  state: NM
+wootax/24364:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '87712'
+    location_type: postcode
+  name: MORA COUNTY
+  order: '0'
+  priority: '0'
+  rate: '6.7708'
+  shipping: '1'
+  state: NM
+wootax/24365:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '87713'
+    location_type: postcode
+  name: MORA COUNTY
+  order: '0'
+  priority: '0'
+  rate: '6.7708'
+  shipping: '1'
+  state: NM
+wootax/24366:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '87714'
+    location_type: postcode
+  name: CIMARRON
+  order: '0'
+  priority: '0'
+  rate: '8.1458'
+  shipping: '1'
+  state: NM
+wootax/24367:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '87715'
+    location_type: postcode
+  name: MORA COUNTY
+  order: '0'
+  priority: '0'
+  rate: '6.7708'
+  shipping: '1'
+  state: NM
+wootax/24368:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '87718'
+    location_type: postcode
+  name: COLFAX COUNTY
+  order: '0'
+  priority: '0'
+  rate: '6.0833'
+  shipping: '1'
+  state: NM
+wootax/24369:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '87722'
+    location_type: postcode
+  name: MORA COUNTY
+  order: '0'
+  priority: '0'
+  rate: '6.7708'
+  shipping: '1'
+  state: NM
+wootax/24370:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '87723'
+    location_type: postcode
+  name: MORA COUNTY
+  order: '0'
+  priority: '0'
+  rate: '6.7708'
+  shipping: '1'
+  state: NM
+wootax/24371:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '87724'
+    location_type: postcode
+  name: GUADALUPE COUNTY
+  order: '0'
+  priority: '0'
+  rate: '6.4375'
+  shipping: '1'
+  state: NM
+wootax/24372:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '87728'
+    location_type: postcode
+  name: COLFAX COUNTY
+  order: '0'
+  priority: '0'
+  rate: '6.0833'
+  shipping: '1'
+  state: NM
+wootax/24373:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '87729'
+    location_type: postcode
+  name: COLFAX COUNTY
+  order: '0'
+  priority: '0'
+  rate: '6.0833'
+  shipping: '1'
+  state: NM
+wootax/24374:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '87730'
+    location_type: postcode
+  name: HARDING COUNTY
+  order: '0'
+  priority: '0'
+  rate: '6.125'
+  shipping: '1'
+  state: NM
+wootax/24375:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '87731'
+    location_type: postcode
+  name: SAN MIGUEL COUNTY
+  order: '0'
+  priority: '0'
+  rate: '6.8333'
+  shipping: '1'
+  state: NM
+wootax/24376:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '87732'
+    location_type: postcode
+  name: MORA COUNTY
+  order: '0'
+  priority: '0'
+  rate: '6.7708'
+  shipping: '1'
+  state: NM
+wootax/24377:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '87733'
+    location_type: postcode
+  name: HARDING COUNTY
+  order: '0'
+  priority: '0'
+  rate: '6.125'
+  shipping: '1'
+  state: NM
+wootax/24378:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '87734'
+    location_type: postcode
+  name: MORA COUNTY
+  order: '0'
+  priority: '0'
+  rate: '6.7708'
+  shipping: '1'
+  state: NM
+wootax/24379:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '87735'
+    location_type: postcode
+  name: MORA COUNTY
+  order: '0'
+  priority: '0'
+  rate: '6.7708'
+  shipping: '1'
+  state: NM
+wootax/24380:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '87736'
+    location_type: postcode
+  name: MORA COUNTY
+  order: '0'
+  priority: '0'
+  rate: '6.7708'
+  shipping: '1'
+  state: NM
+wootax/24381:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '87740'
+    location_type: postcode
+  name: RATON
+  order: '0'
+  priority: '0'
+  rate: '8.2708'
+  shipping: '1'
+  state: NM
+wootax/24382:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '87742'
+    location_type: postcode
+  name: SAN MIGUEL COUNTY
+  order: '0'
+  priority: '0'
+  rate: '6.8333'
+  shipping: '1'
+  state: NM
+wootax/24383:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '87743'
+    location_type: postcode
+  name: HARDING COUNTY
+  order: '0'
+  priority: '0'
+  rate: '6.125'
+  shipping: '1'
+  state: NM
+wootax/24384:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '87745'
+    location_type: postcode
+  name: SAN MIGUEL COUNTY
+  order: '0'
+  priority: '0'
+  rate: '6.8333'
+  shipping: '1'
+  state: NM
+wootax/24385:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '87746'
+    location_type: postcode
+  name: HARDING COUNTY
+  order: '0'
+  priority: '0'
+  rate: '6.125'
+  shipping: '1'
+  state: NM
+wootax/24386:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '87747'
+    location_type: postcode
+  name: COLFAX COUNTY
+  order: '0'
+  priority: '0'
+  rate: '6.0833'
+  shipping: '1'
+  state: NM
+wootax/24387:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '87749'
+    location_type: postcode
+  name: COLFAX COUNTY
+  order: '0'
+  priority: '0'
+  rate: '6.0833'
+  shipping: '1'
+  state: NM
+wootax/24388:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '87752'
+    location_type: postcode
+  name: WAGON MOUND
+  order: '0'
+  priority: '0'
+  rate: '7.7708'
+  shipping: '1'
+  state: NM
+wootax/24389:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '87753'
+    location_type: postcode
+  name: MORA COUNTY
+  order: '0'
+  priority: '0'
+  rate: '6.7708'
+  shipping: '1'
+  state: NM
+wootax/24390:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '87801'
+    location_type: postcode
+  name: SOCORRO (CITY)
+  order: '0'
+  priority: '0'
+  rate: '7.4375'
+  shipping: '1'
+  state: NM
+wootax/24391:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '87820'
+    location_type: postcode
+  name: CATRON COUNTY
+  order: '0'
+  priority: '0'
+  rate: '5.6875'
+  shipping: '1'
+  state: NM
+wootax/24392:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '87821'
+    location_type: postcode
+  name: CATRON COUNTY
+  order: '0'
+  priority: '0'
+  rate: '5.6875'
+  shipping: '1'
+  state: NM
+wootax/24393:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '87823'
+    location_type: postcode
+  name: SOCORRO COUNTY
+  order: '0'
+  priority: '0'
+  rate: '6.375'
+  shipping: '1'
+  state: NM
+wootax/24394:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '87824'
+    location_type: postcode
+  name: CATRON COUNTY
+  order: '0'
+  priority: '0'
+  rate: '5.6875'
+  shipping: '1'
+  state: NM
+wootax/24395:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '87825'
+    location_type: postcode
+  name: MAGDALENA
+  order: '0'
+  priority: '0'
+  rate: '7.3125'
+  shipping: '1'
+  state: NM
+wootax/24396:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '87827'
+    location_type: postcode
+  name: CATRON COUNTY
+  order: '0'
+  priority: '0'
+  rate: '5.6875'
+  shipping: '1'
+  state: NM
+wootax/24397:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '87828'
+    location_type: postcode
+  name: SOCORRO COUNTY
+  order: '0'
+  priority: '0'
+  rate: '6.375'
+  shipping: '1'
+  state: NM
+wootax/24398:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '87829'
+    location_type: postcode
+  name: CATRON COUNTY
+  order: '0'
+  priority: '0'
+  rate: '5.6875'
+  shipping: '1'
+  state: NM
+wootax/24399:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '87830'
+    location_type: postcode
+  name: CATRON COUNTY
+  order: '0'
+  priority: '0'
+  rate: '5.6875'
+  shipping: '1'
+  state: NM
+wootax/24400:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '87831'
+    location_type: postcode
+  name: SOCORRO COUNTY
+  order: '0'
+  priority: '0'
+  rate: '6.375'
+  shipping: '1'
+  state: NM
+wootax/24401:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '87832'
+    location_type: postcode
+  name: SOCORRO COUNTY
+  order: '0'
+  priority: '0'
+  rate: '6.375'
+  shipping: '1'
+  state: NM
+wootax/24402:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '87901'
+    location_type: postcode
+  name: TRUTH OR CONSEQUENCES
+  order: '0'
+  priority: '0'
+  rate: '8.5'
+  shipping: '1'
+  state: NM
+wootax/24403:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '87930'
+    location_type: postcode
+  name: SIERRA COUNTY
+  order: '0'
+  priority: '0'
+  rate: '6.9375'
+  shipping: '1'
+  state: NM
+wootax/24404:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '87931'
+    location_type: postcode
+  name: SIERRA COUNTY
+  order: '0'
+  priority: '0'
+  rate: '6.9375'
+  shipping: '1'
+  state: NM
+wootax/24405:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '87933'
+    location_type: postcode
+  name: SIERRA COUNTY
+  order: '0'
+  priority: '0'
+  rate: '6.9375'
+  shipping: '1'
+  state: NM
+wootax/24406:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '87935'
+    location_type: postcode
+  name: ELEPHANT BUTTE
+  order: '0'
+  priority: '0'
+  rate: '8.1875'
+  shipping: '1'
+  state: NM
+wootax/24407:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '87936'
+    location_type: postcode
+  name: DONA ANA COUNTY
+  order: '0'
+  priority: '0'
+  rate: '6.75'
+  shipping: '1'
+  state: NM
+wootax/24408:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '87937'
+    location_type: postcode
+  name: HATCH
+  order: '0'
+  priority: '0'
+  rate: '7.8125'
+  shipping: '1'
+  state: NM
+wootax/24409:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '87939'
+    location_type: postcode
+  name: SIERRA COUNTY
+  order: '0'
+  priority: '0'
+  rate: '6.9375'
+  shipping: '1'
+  state: NM
+wootax/24410:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '87940'
+    location_type: postcode
+  name: DONA ANA COUNTY
+  order: '0'
+  priority: '0'
+  rate: '6.75'
+  shipping: '1'
+  state: NM
+wootax/24411:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '87941'
+    location_type: postcode
+  name: DONA ANA COUNTY
+  order: '0'
+  priority: '0'
+  rate: '6.75'
+  shipping: '1'
+  state: NM
+wootax/24412:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '87942'
+    location_type: postcode
+  name: SIERRA COUNTY
+  order: '0'
+  priority: '0'
+  rate: '6.9375'
+  shipping: '1'
+  state: NM
+wootax/24413:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '87943'
+    location_type: postcode
+  name: SIERRA COUNTY
+  order: '0'
+  priority: '0'
+  rate: '6.9375'
+  shipping: '1'
+  state: NM
+wootax/24414:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '88001'
+    location_type: postcode
+  name: LAS CRUCES
+  order: '0'
+  priority: '0'
+  rate: '8.3125'
+  shipping: '1'
+  state: NM
+wootax/24415:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '88002'
+    location_type: postcode
+  name: DONA ANA COUNTY
+  order: '0'
+  priority: '0'
+  rate: '6.75'
+  shipping: '1'
+  state: NM
+wootax/24416:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '88003'
+    location_type: postcode
+  name: DONA ANA COUNTY
+  order: '0'
+  priority: '0'
+  rate: '6.75'
+  shipping: '1'
+  state: NM
+wootax/24417:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '88004'
+    location_type: postcode
+  name: CITY OF LAS CRUCES TID DISTRICT
+  order: '0'
+  priority: '0'
+  rate: '8.3125'
+  shipping: '1'
+  state: NM
+wootax/24418:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '88005'
+    location_type: postcode
+  name: LAS CRUCES
+  order: '0'
+  priority: '0'
+  rate: '8.3125'
+  shipping: '1'
+  state: NM
+wootax/24419:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '88006'
+    location_type: postcode
+  name: CITY OF LAS CRUCES TID DISTRICT
+  order: '0'
+  priority: '0'
+  rate: '8.3125'
+  shipping: '1'
+  state: NM
+wootax/24420:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '88007'
+    location_type: postcode
+  name: DONA ANA COUNTY
+  order: '0'
+  priority: '0'
+  rate: '6.75'
+  shipping: '1'
+  state: NM
+wootax/24421:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '88008'
+    location_type: postcode
+  name: DONA ANA COUNTY
+  order: '0'
+  priority: '0'
+  rate: '6.75'
+  shipping: '1'
+  state: NM
+wootax/24422:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '88011'
+    location_type: postcode
+  name: LAS CRUCES
+  order: '0'
+  priority: '0'
+  rate: '8.3125'
+  shipping: '1'
+  state: NM
+wootax/24423:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '88012'
+    location_type: postcode
+  name: LAS CRUCES
+  order: '0'
+  priority: '0'
+  rate: '8.3125'
+  shipping: '1'
+  state: NM
+wootax/24424:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '88013'
+    location_type: postcode
+  name: LAS CRUCES
+  order: '0'
+  priority: '0'
+  rate: '8.3125'
+  shipping: '1'
+  state: NM
+wootax/24425:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '88020'
+    location_type: postcode
+  name: HIDALGO COUNTY
+  order: '0'
+  priority: '0'
+  rate: '6.1875'
+  shipping: '1'
+  state: NM
+wootax/24426:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '88021'
+    location_type: postcode
+  name: DONA ANA COUNTY
+  order: '0'
+  priority: '0'
+  rate: '6.75'
+  shipping: '1'
+  state: NM
+wootax/24427:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '88022'
+    location_type: postcode
+  name: GRANT COUNTY
+  order: '0'
+  priority: '0'
+  rate: '6.5625'
+  shipping: '1'
+  state: NM
+wootax/24428:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '88023'
+    location_type: postcode
+  name: BAYARD
+  order: '0'
+  priority: '0'
+  rate: '7.875'
+  shipping: '1'
+  state: NM
+wootax/24429:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '88024'
+    location_type: postcode
+  name: DONA ANA COUNTY
+  order: '0'
+  priority: '0'
+  rate: '6.75'
+  shipping: '1'
+  state: NM
+wootax/24430:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '88025'
+    location_type: postcode
+  name: GRANT COUNTY
+  order: '0'
+  priority: '0'
+  rate: '6.5625'
+  shipping: '1'
+  state: NM
+wootax/24431:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '88026'
+    location_type: postcode
+  name: SANTA CLARA
+  order: '0'
+  priority: '0'
+  rate: '7.625'
+  shipping: '1'
+  state: NM
+wootax/24432:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '88027'
+    location_type: postcode
+  name: DONA ANA COUNTY
+  order: '0'
+  priority: '0'
+  rate: '6.75'
+  shipping: '1'
+  state: NM
+wootax/24433:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '88028'
+    location_type: postcode
+  name: GRANT COUNTY
+  order: '0'
+  priority: '0'
+  rate: '6.5625'
+  shipping: '1'
+  state: NM
+wootax/24434:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '88029'
+    location_type: postcode
+  name: COLUMBUS
+  order: '0'
+  priority: '0'
+  rate: '7.9375'
+  shipping: '1'
+  state: NM
+wootax/24435:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '88030'
+    location_type: postcode
+  name: LUNA COUNTY
+  order: '0'
+  priority: '0'
+  rate: '6.875'
+  shipping: '1'
+  state: NM
+wootax/24436:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '88031'
+    location_type: postcode
+  name: DEMING
+  order: '0'
+  priority: '0'
+  rate: '8.25'
+  shipping: '1'
+  state: NM
+wootax/24437:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '88032'
+    location_type: postcode
+  name: DONA ANA COUNTY
+  order: '0'
+  priority: '0'
+  rate: '6.75'
+  shipping: '1'
+  state: NM
+wootax/24438:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '88033'
+    location_type: postcode
+  name: DONA ANA COUNTY
+  order: '0'
+  priority: '0'
+  rate: '6.75'
+  shipping: '1'
+  state: NM
+wootax/24439:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '88034'
+    location_type: postcode
+  name: GRANT COUNTY
+  order: '0'
+  priority: '0'
+  rate: '6.5625'
+  shipping: '1'
+  state: NM
+wootax/24440:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '88036'
+    location_type: postcode
+  name: SILVER CITY
+  order: '0'
+  priority: '0'
+  rate: '8'
+  shipping: '1'
+  state: NM
+wootax/24441:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '88038'
+    location_type: postcode
+  name: GRANT COUNTY
+  order: '0'
+  priority: '0'
+  rate: '6.5625'
+  shipping: '1'
+  state: NM
+wootax/24442:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '88039'
+    location_type: postcode
+  name: CATRON COUNTY
+  order: '0'
+  priority: '0'
+  rate: '5.6875'
+  shipping: '1'
+  state: NM
+wootax/24443:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '88040'
+    location_type: postcode
+  name: GRANT COUNTY
+  order: '0'
+  priority: '0'
+  rate: '6.5625'
+  shipping: '1'
+  state: NM
+wootax/24444:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '88041'
+    location_type: postcode
+  name: GRANT COUNTY
+  order: '0'
+  priority: '0'
+  rate: '6.5625'
+  shipping: '1'
+  state: NM
+wootax/24445:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '88042'
+    location_type: postcode
+  name: SIERRA COUNTY
+  order: '0'
+  priority: '0'
+  rate: '6.9375'
+  shipping: '1'
+  state: NM
+wootax/24446:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '88043'
+    location_type: postcode
+  name: HURLEY
+  order: '0'
+  priority: '0'
+  rate: '7.625'
+  shipping: '1'
+  state: NM
+wootax/24447:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '88044'
+    location_type: postcode
+  name: DONA ANA COUNTY
+  order: '0'
+  priority: '0'
+  rate: '6.75'
+  shipping: '1'
+  state: NM
+wootax/24448:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '88045'
+    location_type: postcode
+  name: LORDSBURG
+  order: '0'
+  priority: '0'
+  rate: '7.75'
+  shipping: '1'
+  state: NM
+wootax/24449:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '88046'
+    location_type: postcode
+  name: MESILLA
+  order: '0'
+  priority: '0'
+  rate: '8.1875'
+  shipping: '1'
+  state: NM
+wootax/24450:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '88047'
+    location_type: postcode
+  name: DONA ANA COUNTY
+  order: '0'
+  priority: '0'
+  rate: '6.75'
+  shipping: '1'
+  state: NM
+wootax/24451:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '88048'
+    location_type: postcode
+  name: DONA ANA COUNTY
+  order: '0'
+  priority: '0'
+  rate: '6.75'
+  shipping: '1'
+  state: NM
+wootax/24452:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '88049'
+    location_type: postcode
+  name: GRANT COUNTY
+  order: '0'
+  priority: '0'
+  rate: '6.5625'
+  shipping: '1'
+  state: NM
+wootax/24453:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '88051'
+    location_type: postcode
+  name: GRANT COUNTY
+  order: '0'
+  priority: '0'
+  rate: '6.5625'
+  shipping: '1'
+  state: NM
+wootax/24454:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '88052'
+    location_type: postcode
+  name: DONA ANA COUNTY
+  order: '0'
+  priority: '0'
+  rate: '6.75'
+  shipping: '1'
+  state: NM
+wootax/24455:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '88053'
+    location_type: postcode
+  name: SILVER CITY
+  order: '0'
+  priority: '0'
+  rate: '8'
+  shipping: '1'
+  state: NM
+wootax/24456:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '88054'
+    location_type: postcode
+  name: DONA ANA COUNTY
+  order: '0'
+  priority: '0'
+  rate: '6.75'
+  shipping: '1'
+  state: NM
+wootax/24457:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '88055'
+    location_type: postcode
+  name: LORDSBURG
+  order: '0'
+  priority: '0'
+  rate: '7.75'
+  shipping: '1'
+  state: NM
+wootax/24458:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '88056'
+    location_type: postcode
+  name: HIDALGO COUNTY
+  order: '0'
+  priority: '0'
+  rate: '6.1875'
+  shipping: '1'
+  state: NM
+wootax/24459:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '88058'
+    location_type: postcode
+  name: DONA ANA COUNTY
+  order: '0'
+  priority: '0'
+  rate: '6.75'
+  shipping: '1'
+  state: NM
+wootax/24460:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '88061'
+    location_type: postcode
+  name: SILVER CITY
+  order: '0'
+  priority: '0'
+  rate: '8'
+  shipping: '1'
+  state: NM
+wootax/24461:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '88062'
+    location_type: postcode
+  name: SILVER CITY
+  order: '0'
+  priority: '0'
+  rate: '8'
+  shipping: '1'
+  state: NM
+wootax/24462:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '88063'
+    location_type: postcode
+  name: SUNLAND PARK
+  order: '0'
+  priority: '0'
+  rate: '8.4375'
+  shipping: '1'
+  state: NM
+wootax/24463:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '88065'
+    location_type: postcode
+  name: GRANT COUNTY
+  order: '0'
+  priority: '0'
+  rate: '6.5625'
+  shipping: '1'
+  state: NM
+wootax/24464:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '88072'
+    location_type: postcode
+  name: DONA ANA COUNTY
+  order: '0'
+  priority: '0'
+  rate: '6.75'
+  shipping: '1'
+  state: NM
+wootax/24465:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '88081'
+    location_type: postcode
+  name: DONA ANA COUNTY
+  order: '0'
+  priority: '0'
+  rate: '6.75'
+  shipping: '1'
+  state: NM
+wootax/24466:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '88101'
+    location_type: postcode
+  name: CLOVIS
+  order: '0'
+  priority: '0'
+  rate: '8.1875'
+  shipping: '1'
+  state: NM
+wootax/24467:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '88102'
+    location_type: postcode
+  name: CLOVIS
+  order: '0'
+  priority: '0'
+  rate: '8.1875'
+  shipping: '1'
+  state: NM
+wootax/24468:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '88103'
+    location_type: postcode
+  name: CURRY COUNTY
+  order: '0'
+  priority: '0'
+  rate: '6.125'
+  shipping: '1'
+  state: NM
+wootax/24469:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '88112'
+    location_type: postcode
+  name: CURRY COUNTY
+  order: '0'
+  priority: '0'
+  rate: '6.125'
+  shipping: '1'
+  state: NM
+wootax/24470:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '88113'
+    location_type: postcode
+  name: CAUSEY
+  order: '0'
+  priority: '0'
+  rate: '7.125'
+  shipping: '1'
+  state: NM
+wootax/24471:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '88114'
+    location_type: postcode
+  name: LEA COUNTY
+  order: '0'
+  priority: '0'
+  rate: '5.5'
+  shipping: '1'
+  state: NM
+wootax/24472:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '88115'
+    location_type: postcode
+  name: DORA
+  order: '0'
+  priority: '0'
+  rate: '7.375'
+  shipping: '1'
+  state: NM
+wootax/24473:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '88116'
+    location_type: postcode
+  name: ROOSEVELT COUNTY
+  order: '0'
+  priority: '0'
+  rate: '6.625'
+  shipping: '1'
+  state: NM
+wootax/24474:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '88118'
+    location_type: postcode
+  name: ROOSEVELT COUNTY
+  order: '0'
+  priority: '0'
+  rate: '6.625'
+  shipping: '1'
+  state: NM
+wootax/24475:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '88119'
+    location_type: postcode
+  name: DEBACA COUNTY
+  order: '0'
+  priority: '0'
+  rate: '6.6875'
+  shipping: '1'
+  state: NM
+wootax/24476:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '88120'
+    location_type: postcode
+  name: GRADY
+  order: '0'
+  priority: '0'
+  rate: '6.9375'
+  shipping: '1'
+  state: NM
+wootax/24477:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '88121'
+    location_type: postcode
+  name: QUAY COUNTY
+  order: '0'
+  priority: '0'
+  rate: '6.6875'
+  shipping: '1'
+  state: NM
+wootax/24478:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '88122'
+    location_type: postcode
+  name: ROOSEVELT COUNTY
+  order: '0'
+  priority: '0'
+  rate: '6.625'
+  shipping: '1'
+  state: NM
+wootax/24479:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '88123'
+    location_type: postcode
+  name: ROOSEVELT COUNTY
+  order: '0'
+  priority: '0'
+  rate: '6.625'
+  shipping: '1'
+  state: NM
+wootax/24480:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '88124'
+    location_type: postcode
+  name: MELROSE
+  order: '0'
+  priority: '0'
+  rate: '7.75'
+  shipping: '1'
+  state: NM
+wootax/24481:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '88125'
+    location_type: postcode
+  name: ROOSEVELT COUNTY
+  order: '0'
+  priority: '0'
+  rate: '6.625'
+  shipping: '1'
+  state: NM
+wootax/24482:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '88126'
+    location_type: postcode
+  name: ROOSEVELT COUNTY
+  order: '0'
+  priority: '0'
+  rate: '6.625'
+  shipping: '1'
+  state: NM
+wootax/24483:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '88130'
+    location_type: postcode
+  name: PORTALES
+  order: '0'
+  priority: '0'
+  rate: '8.1875'
+  shipping: '1'
+  state: NM
+wootax/24484:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '88132'
+    location_type: postcode
+  name: ROOSEVELT COUNTY
+  order: '0'
+  priority: '0'
+  rate: '6.625'
+  shipping: '1'
+  state: NM
+wootax/24485:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '88133'
+    location_type: postcode
+  name: CURRY COUNTY
+  order: '0'
+  priority: '0'
+  rate: '6.125'
+  shipping: '1'
+  state: NM
+wootax/24486:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '88134'
+    location_type: postcode
+  name: DEBACA COUNTY
+  order: '0'
+  priority: '0'
+  rate: '6.6875'
+  shipping: '1'
+  state: NM
+wootax/24487:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '88135'
+    location_type: postcode
+  name: CURRY COUNTY
+  order: '0'
+  priority: '0'
+  rate: '6.125'
+  shipping: '1'
+  state: NM
+wootax/24488:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '88136'
+    location_type: postcode
+  name: DEBACA COUNTY
+  order: '0'
+  priority: '0'
+  rate: '6.6875'
+  shipping: '1'
+  state: NM
+wootax/24489:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '88201'
+    location_type: postcode
+  name: ROSWELL
+  order: '0'
+  priority: '0'
+  rate: '7.8333'
+  shipping: '1'
+  state: NM
+wootax/24490:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '88202'
+    location_type: postcode
+  name: ROSWELL
+  order: '0'
+  priority: '0'
+  rate: '7.8333'
+  shipping: '1'
+  state: NM
+wootax/24491:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '88203'
+    location_type: postcode
+  name: ROSWELL
+  order: '0'
+  priority: '0'
+  rate: '7.8333'
+  shipping: '1'
+  state: NM
+wootax/24492:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '88210'
+    location_type: postcode
+  name: ARTESIA
+  order: '0'
+  priority: '0'
+  rate: '7.8958'
+  shipping: '1'
+  state: NM
+wootax/24493:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '88213'
+    location_type: postcode
+  name: LEA COUNTY
+  order: '0'
+  priority: '0'
+  rate: '5.5'
+  shipping: '1'
+  state: NM
+wootax/24494:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '88220'
+    location_type: postcode
+  name: CARLSBAD
+  order: '0'
+  priority: '0'
+  rate: '7.6458'
+  shipping: '1'
+  state: NM
+wootax/24495:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '88221'
+    location_type: postcode
+  name: CARLSBAD
+  order: '0'
+  priority: '0'
+  rate: '7.6458'
+  shipping: '1'
+  state: NM
+wootax/24496:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '88230'
+    location_type: postcode
+  name: CHAVES COUNTY
+  order: '0'
+  priority: '0'
+  rate: '6.5208'
+  shipping: '1'
+  state: NM
+wootax/24497:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '88231'
+    location_type: postcode
+  name: EUNICE
+  order: '0'
+  priority: '0'
+  rate: '7.3125'
+  shipping: '1'
+  state: NM
+wootax/24498:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '88232'
+    location_type: postcode
+  name: HAGERMAN
+  order: '0'
+  priority: '0'
+  rate: '7.5833'
+  shipping: '1'
+  state: NM
+wootax/24499:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '88240'
+    location_type: postcode
+  name: HOBBS
+  order: '0'
+  priority: '0'
+  rate: '6.8125'
+  shipping: '1'
+  state: NM
+wootax/24500:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '88241'
+    location_type: postcode
+  name: LEA COUNTY
+  order: '0'
+  priority: '0'
+  rate: '5.5'
+  shipping: '1'
+  state: NM
+wootax/24501:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '88242'
+    location_type: postcode
+  name: LEA COUNTY
+  order: '0'
+  priority: '0'
+  rate: '5.5'
+  shipping: '1'
+  state: NM
+wootax/24502:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '88244'
+    location_type: postcode
+  name: HOBBS
+  order: '0'
+  priority: '0'
+  rate: '6.8125'
+  shipping: '1'
+  state: NM
+wootax/24503:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '88250'
+    location_type: postcode
+  name: HOPE
+  order: '0'
+  priority: '0'
+  rate: '6.8333'
+  shipping: '1'
+  state: NM
+wootax/24504:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '88252'
+    location_type: postcode
+  name: JAL
+  order: '0'
+  priority: '0'
+  rate: '7.4375'
+  shipping: '1'
+  state: NM
+wootax/24505:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '88253'
+    location_type: postcode
+  name: EDDY COUNTY
+  order: '0'
+  priority: '0'
+  rate: '5.9583'
+  shipping: '1'
+  state: NM
+wootax/24506:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '88254'
+    location_type: postcode
+  name: EDDY COUNTY
+  order: '0'
+  priority: '0'
+  rate: '5.9583'
+  shipping: '1'
+  state: NM
+wootax/24507:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '88255'
+    location_type: postcode
+  name: EDDY COUNTY
+  order: '0'
+  priority: '0'
+  rate: '5.9583'
+  shipping: '1'
+  state: NM
+wootax/24508:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '88256'
+    location_type: postcode
+  name: EDDY COUNTY
+  order: '0'
+  priority: '0'
+  rate: '5.9583'
+  shipping: '1'
+  state: NM
+wootax/24509:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '88260'
+    location_type: postcode
+  name: LOVINGTON
+  order: '0'
+  priority: '0'
+  rate: '7.25'
+  shipping: '1'
+  state: NM
+wootax/24510:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '88262'
+    location_type: postcode
+  name: LEA COUNTY
+  order: '0'
+  priority: '0'
+  rate: '5.5'
+  shipping: '1'
+  state: NM
+wootax/24511:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '88263'
+    location_type: postcode
+  name: EDDY COUNTY
+  order: '0'
+  priority: '0'
+  rate: '5.9583'
+  shipping: '1'
+  state: NM
+wootax/24512:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '88264'
+    location_type: postcode
+  name: LEA COUNTY
+  order: '0'
+  priority: '0'
+  rate: '5.5'
+  shipping: '1'
+  state: NM
+wootax/24513:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '88265'
+    location_type: postcode
+  name: LEA COUNTY
+  order: '0'
+  priority: '0'
+  rate: '5.5'
+  shipping: '1'
+  state: NM
+wootax/24514:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '88267'
+    location_type: postcode
+  name: LEA COUNTY
+  order: '0'
+  priority: '0'
+  rate: '5.5'
+  shipping: '1'
+  state: NM
+wootax/24515:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '88268'
+    location_type: postcode
+  name: EDDY COUNTY
+  order: '0'
+  priority: '0'
+  rate: '5.9583'
+  shipping: '1'
+  state: NM
+wootax/24516:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '88301'
+    location_type: postcode
+  name: LINCOLN COUNTY
+  order: '0'
+  priority: '0'
+  rate: '5.5'
+  shipping: '1'
+  state: NM
+wootax/24517:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '88310'
+    location_type: postcode
+  name: ALAMOGORDO
+  order: '0'
+  priority: '0'
+  rate: '8'
+  shipping: '1'
+  state: NM
+wootax/24518:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '88311'
+    location_type: postcode
+  name: ALAMOGORDO
+  order: '0'
+  priority: '0'
+  rate: '8'
+  shipping: '1'
+  state: NM
+wootax/24519:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '88312'
+    location_type: postcode
+  name: LINCOLN COUNTY
+  order: '0'
+  priority: '0'
+  rate: '5.5'
+  shipping: '1'
+  state: NM
+wootax/24520:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '88314'
+    location_type: postcode
+  name: OTERO COUNTY
+  order: '0'
+  priority: '0'
+  rate: '6.3125'
+  shipping: '1'
+  state: NM
+wootax/24521:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '88316'
+    location_type: postcode
+  name: CAPITAN
+  order: '0'
+  priority: '0'
+  rate: '6.8125'
+  shipping: '1'
+  state: NM
+wootax/24522:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '88317'
+    location_type: postcode
+  name: OTERO COUNTY
+  order: '0'
+  priority: '0'
+  rate: '6.3125'
+  shipping: '1'
+  state: NM
+wootax/24523:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '88318'
+    location_type: postcode
+  name: CORONA
+  order: '0'
+  priority: '0'
+  rate: '6.9375'
+  shipping: '1'
+  state: NM
+wootax/24524:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '88321'
+    location_type: postcode
+  name: ENCINO
+  order: '0'
+  priority: '0'
+  rate: '7.3125'
+  shipping: '1'
+  state: NM
+wootax/24525:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '88323'
+    location_type: postcode
+  name: LINCOLN COUNTY
+  order: '0'
+  priority: '0'
+  rate: '5.5'
+  shipping: '1'
+  state: NM
+wootax/24526:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '88324'
+    location_type: postcode
+  name: LINCOLN COUNTY
+  order: '0'
+  priority: '0'
+  rate: '5.5'
+  shipping: '1'
+  state: NM
+wootax/24527:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '88325'
+    location_type: postcode
+  name: OTERO COUNTY
+  order: '0'
+  priority: '0'
+  rate: '6.3125'
+  shipping: '1'
+  state: NM
+wootax/24528:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '88330'
+    location_type: postcode
+  name: OTERO COUNTY
+  order: '0'
+  priority: '0'
+  rate: '6.3125'
+  shipping: '1'
+  state: NM
+wootax/24529:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '88336'
+    location_type: postcode
+  name: LINCOLN COUNTY
+  order: '0'
+  priority: '0'
+  rate: '5.5'
+  shipping: '1'
+  state: NM
+wootax/24530:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '88337'
+    location_type: postcode
+  name: OTERO COUNTY
+  order: '0'
+  priority: '0'
+  rate: '6.3125'
+  shipping: '1'
+  state: NM
+wootax/24531:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '88338'
+    location_type: postcode
+  name: LINCOLN COUNTY
+  order: '0'
+  priority: '0'
+  rate: '5.5'
+  shipping: '1'
+  state: NM
+wootax/24532:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '88339'
+    location_type: postcode
+  name: OTERO COUNTY
+  order: '0'
+  priority: '0'
+  rate: '6.3125'
+  shipping: '1'
+  state: NM
+wootax/24533:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '88340'
+    location_type: postcode
+  name: OTERO COUNTY
+  order: '0'
+  priority: '0'
+  rate: '6.3125'
+  shipping: '1'
+  state: NM
+wootax/24534:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '88341'
+    location_type: postcode
+  name: LINCOLN COUNTY
+  order: '0'
+  priority: '0'
+  rate: '5.5'
+  shipping: '1'
+  state: NM
+wootax/24535:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '88342'
+    location_type: postcode
+  name: OTERO COUNTY
+  order: '0'
+  priority: '0'
+  rate: '6.3125'
+  shipping: '1'
+  state: NM
+wootax/24536:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '88343'
+    location_type: postcode
+  name: LINCOLN COUNTY
+  order: '0'
+  priority: '0'
+  rate: '5.5'
+  shipping: '1'
+  state: NM
+wootax/24537:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '88344'
+    location_type: postcode
+  name: CHAVES COUNTY
+  order: '0'
+  priority: '0'
+  rate: '6.5208'
+  shipping: '1'
+  state: NM
+wootax/24538:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '88345'
+    location_type: postcode
+  name: RUIDOSO
+  order: '0'
+  priority: '0'
+  rate: '8.4375'
+  shipping: '1'
+  state: NM
+wootax/24539:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '88346'
+    location_type: postcode
+  name: RUIDOSO DOWNS
+  order: '0'
+  priority: '0'
+  rate: '7.4375'
+  shipping: '1'
+  state: NM
+wootax/24540:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '88347'
+    location_type: postcode
+  name: OTERO COUNTY
+  order: '0'
+  priority: '0'
+  rate: '6.3125'
+  shipping: '1'
+  state: NM
+wootax/24541:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '88348'
+    location_type: postcode
+  name: LINCOLN COUNTY
+  order: '0'
+  priority: '0'
+  rate: '5.5'
+  shipping: '1'
+  state: NM
+wootax/24542:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '88349'
+    location_type: postcode
+  name: OTERO COUNTY
+  order: '0'
+  priority: '0'
+  rate: '6.3125'
+  shipping: '1'
+  state: NM
+wootax/24543:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '88350'
+    location_type: postcode
+  name: OTERO COUNTY
+  order: '0'
+  priority: '0'
+  rate: '6.3125'
+  shipping: '1'
+  state: NM
+wootax/24544:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '88351'
+    location_type: postcode
+  name: LINCOLN COUNTY
+  order: '0'
+  priority: '0'
+  rate: '5.5'
+  shipping: '1'
+  state: NM
+wootax/24545:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '88352'
+    location_type: postcode
+  name: TULAROSA
+  order: '0'
+  priority: '0'
+  rate: '7.75'
+  shipping: '1'
+  state: NM
+wootax/24546:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '88353'
+    location_type: postcode
+  name: VAUGHN
+  order: '0'
+  priority: '0'
+  rate: '8.25'
+  shipping: '1'
+  state: NM
+wootax/24547:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '88354'
+    location_type: postcode
+  name: OTERO COUNTY
+  order: '0'
+  priority: '0'
+  rate: '6.3125'
+  shipping: '1'
+  state: NM
+wootax/24548:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '88355'
+    location_type: postcode
+  name: RUIDOSO
+  order: '0'
+  priority: '0'
+  rate: '8.4375'
+  shipping: '1'
+  state: NM
+wootax/24549:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '88401'
+    location_type: postcode
+  name: TUCUMCARI
+  order: '0'
+  priority: '0'
+  rate: '8.375'
+  shipping: '1'
+  state: NM
+wootax/24550:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '88410'
+    location_type: postcode
+  name: UNION COUNTY
+  order: '0'
+  priority: '0'
+  rate: '6.0625'
+  shipping: '1'
+  state: NM
+wootax/24551:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '88411'
+    location_type: postcode
+  name: QUAY COUNTY
+  order: '0'
+  priority: '0'
+  rate: '6.6875'
+  shipping: '1'
+  state: NM
+wootax/24552:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '88414'
+    location_type: postcode
+  name: UNION COUNTY
+  order: '0'
+  priority: '0'
+  rate: '6.0625'
+  shipping: '1'
+  state: NM
+wootax/24553:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '88415'
+    location_type: postcode
+  name: CLAYTON
+  order: '0'
+  priority: '0'
+  rate: '8.125'
+  shipping: '1'
+  state: NM
+wootax/24554:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '88416'
+    location_type: postcode
+  name: TUCUMCARI
+  order: '0'
+  priority: '0'
+  rate: '8.375'
+  shipping: '1'
+  state: NM
+wootax/24555:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '88417'
+    location_type: postcode
+  name: GUADALUPE COUNTY
+  order: '0'
+  priority: '0'
+  rate: '6.4375'
+  shipping: '1'
+  state: NM
+wootax/24556:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '88418'
+    location_type: postcode
+  name: UNION COUNTY
+  order: '0'
+  priority: '0'
+  rate: '6.0625'
+  shipping: '1'
+  state: NM
+wootax/24557:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '88419'
+    location_type: postcode
+  name: UNION COUNTY
+  order: '0'
+  priority: '0'
+  rate: '6.0625'
+  shipping: '1'
+  state: NM
+wootax/24558:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '88421'
+    location_type: postcode
+  name: SAN MIGUEL COUNTY
+  order: '0'
+  priority: '0'
+  rate: '6.8333'
+  shipping: '1'
+  state: NM
+wootax/24559:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '88422'
+    location_type: postcode
+  name: UNION COUNTY
+  order: '0'
+  priority: '0'
+  rate: '6.0625'
+  shipping: '1'
+  state: NM
+wootax/24560:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '88424'
+    location_type: postcode
+  name: UNION COUNTY
+  order: '0'
+  priority: '0'
+  rate: '6.0625'
+  shipping: '1'
+  state: NM
+wootax/24561:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '88426'
+    location_type: postcode
+  name: LOGAN
+  order: '0'
+  priority: '0'
+  rate: '8.375'
+  shipping: '1'
+  state: NM
+wootax/24562:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '88427'
+    location_type: postcode
+  name: QUAY COUNTY
+  order: '0'
+  priority: '0'
+  rate: '6.6875'
+  shipping: '1'
+  state: NM
+wootax/24563:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '88430'
+    location_type: postcode
+  name: QUAY COUNTY
+  order: '0'
+  priority: '0'
+  rate: '6.6875'
+  shipping: '1'
+  state: NM
+wootax/24564:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '88431'
+    location_type: postcode
+  name: GUADALUPE COUNTY
+  order: '0'
+  priority: '0'
+  rate: '6.4375'
+  shipping: '1'
+  state: NM
+wootax/24565:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '88434'
+    location_type: postcode
+  name: QUAY COUNTY
+  order: '0'
+  priority: '0'
+  rate: '6.6875'
+  shipping: '1'
+  state: NM
+wootax/24566:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '88435'
+    location_type: postcode
+  name: SANTA ROSA
+  order: '0'
+  priority: '0'
+  rate: '8'
+  shipping: '1'
+  state: NM
+wootax/24567:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '88436'
+    location_type: postcode
+  name: UNION COUNTY
+  order: '0'
+  priority: '0'
+  rate: '6.0625'
+  shipping: '1'
+  state: NM
+wootax/24568:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '88439'
+    location_type: postcode
+  name: SAN MIGUEL COUNTY
+  order: '0'
+  priority: '0'
+  rate: '6.8333'
+  shipping: '1'
+  state: NM

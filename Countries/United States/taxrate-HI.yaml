@@ -1,0 +1,1690 @@
+wootax/8424:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '96701'
+    location_type: postcode
+  name: HONOLULU
+  order: '0'
+  priority: '0'
+  rate: '4.5'
+  shipping: '1'
+  state: HI
+wootax/8425:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '96703'
+    location_type: postcode
+  name: KAUAI COUNTY
+  order: '0'
+  priority: '0'
+  rate: '4.5'
+  shipping: '1'
+  state: HI
+wootax/8426:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '96704'
+    location_type: postcode
+  name: HAWAII COUNTY
+  order: '0'
+  priority: '0'
+  rate: '4.25'
+  shipping: '1'
+  state: HI
+wootax/8427:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '96705'
+    location_type: postcode
+  name: KAUAI COUNTY
+  order: '0'
+  priority: '0'
+  rate: '4.5'
+  shipping: '1'
+  state: HI
+wootax/8428:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '96706'
+    location_type: postcode
+  name: HONOLULU
+  order: '0'
+  priority: '0'
+  rate: '4.5'
+  shipping: '1'
+  state: HI
+wootax/8429:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '96707'
+    location_type: postcode
+  name: HONOLULU
+  order: '0'
+  priority: '0'
+  rate: '4.5'
+  shipping: '1'
+  state: HI
+wootax/8430:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '96708'
+    location_type: postcode
+  name: MAUI COUNTY
+  order: '0'
+  priority: '0'
+  rate: '4'
+  shipping: '1'
+  state: HI
+wootax/8431:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '96709'
+    location_type: postcode
+  name: HONOLULU
+  order: '0'
+  priority: '0'
+  rate: '4.5'
+  shipping: '1'
+  state: HI
+wootax/8432:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '96710'
+    location_type: postcode
+  name: HAWAII COUNTY
+  order: '0'
+  priority: '0'
+  rate: '4.25'
+  shipping: '1'
+  state: HI
+wootax/8433:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '96712'
+    location_type: postcode
+  name: HONOLULU
+  order: '0'
+  priority: '0'
+  rate: '4.5'
+  shipping: '1'
+  state: HI
+wootax/8434:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '96713'
+    location_type: postcode
+  name: MAUI COUNTY
+  order: '0'
+  priority: '0'
+  rate: '4'
+  shipping: '1'
+  state: HI
+wootax/8435:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '96714'
+    location_type: postcode
+  name: KAUAI COUNTY
+  order: '0'
+  priority: '0'
+  rate: '4.5'
+  shipping: '1'
+  state: HI
+wootax/8436:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '96715'
+    location_type: postcode
+  name: KAUAI COUNTY
+  order: '0'
+  priority: '0'
+  rate: '4.5'
+  shipping: '1'
+  state: HI
+wootax/8437:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '96716'
+    location_type: postcode
+  name: KAUAI COUNTY
+  order: '0'
+  priority: '0'
+  rate: '4.5'
+  shipping: '1'
+  state: HI
+wootax/8438:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '96717'
+    location_type: postcode
+  name: HONOLULU
+  order: '0'
+  priority: '0'
+  rate: '4.5'
+  shipping: '1'
+  state: HI
+wootax/8439:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '96718'
+    location_type: postcode
+  name: HAWAII COUNTY
+  order: '0'
+  priority: '0'
+  rate: '4.25'
+  shipping: '1'
+  state: HI
+wootax/8440:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '96719'
+    location_type: postcode
+  name: HAWAII COUNTY
+  order: '0'
+  priority: '0'
+  rate: '4.25'
+  shipping: '1'
+  state: HI
+wootax/8441:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '96720'
+    location_type: postcode
+  name: HAWAII COUNTY
+  order: '0'
+  priority: '0'
+  rate: '4.25'
+  shipping: '1'
+  state: HI
+wootax/8442:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '96721'
+    location_type: postcode
+  name: HAWAII COUNTY
+  order: '0'
+  priority: '0'
+  rate: '4.25'
+  shipping: '1'
+  state: HI
+wootax/8443:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '96722'
+    location_type: postcode
+  name: KAUAI COUNTY
+  order: '0'
+  priority: '0'
+  rate: '4.5'
+  shipping: '1'
+  state: HI
+wootax/8444:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '96725'
+    location_type: postcode
+  name: HAWAII COUNTY
+  order: '0'
+  priority: '0'
+  rate: '4.25'
+  shipping: '1'
+  state: HI
+wootax/8445:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '96726'
+    location_type: postcode
+  name: HAWAII COUNTY
+  order: '0'
+  priority: '0'
+  rate: '4.25'
+  shipping: '1'
+  state: HI
+wootax/8446:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '96727'
+    location_type: postcode
+  name: HAWAII COUNTY
+  order: '0'
+  priority: '0'
+  rate: '4.25'
+  shipping: '1'
+  state: HI
+wootax/8447:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '96728'
+    location_type: postcode
+  name: HAWAII COUNTY
+  order: '0'
+  priority: '0'
+  rate: '4.25'
+  shipping: '1'
+  state: HI
+wootax/8448:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '96729'
+    location_type: postcode
+  name: MAUI COUNTY
+  order: '0'
+  priority: '0'
+  rate: '4'
+  shipping: '1'
+  state: HI
+wootax/8449:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '96730'
+    location_type: postcode
+  name: HONOLULU
+  order: '0'
+  priority: '0'
+  rate: '4.5'
+  shipping: '1'
+  state: HI
+wootax/8450:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '96731'
+    location_type: postcode
+  name: HONOLULU
+  order: '0'
+  priority: '0'
+  rate: '4.5'
+  shipping: '1'
+  state: HI
+wootax/8451:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '96732'
+    location_type: postcode
+  name: MAUI COUNTY
+  order: '0'
+  priority: '0'
+  rate: '4'
+  shipping: '1'
+  state: HI
+wootax/8452:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '96733'
+    location_type: postcode
+  name: MAUI COUNTY
+  order: '0'
+  priority: '0'
+  rate: '4'
+  shipping: '1'
+  state: HI
+wootax/8453:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '96734'
+    location_type: postcode
+  name: HONOLULU
+  order: '0'
+  priority: '0'
+  rate: '4.5'
+  shipping: '1'
+  state: HI
+wootax/8454:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '96737'
+    location_type: postcode
+  name: HAWAII COUNTY
+  order: '0'
+  priority: '0'
+  rate: '4.25'
+  shipping: '1'
+  state: HI
+wootax/8455:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '96738'
+    location_type: postcode
+  name: HAWAII COUNTY
+  order: '0'
+  priority: '0'
+  rate: '4.25'
+  shipping: '1'
+  state: HI
+wootax/8456:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '96739'
+    location_type: postcode
+  name: HAWAII COUNTY
+  order: '0'
+  priority: '0'
+  rate: '4.25'
+  shipping: '1'
+  state: HI
+wootax/8457:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '96740'
+    location_type: postcode
+  name: HAWAII COUNTY
+  order: '0'
+  priority: '0'
+  rate: '4.25'
+  shipping: '1'
+  state: HI
+wootax/8458:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '96741'
+    location_type: postcode
+  name: KAUAI COUNTY
+  order: '0'
+  priority: '0'
+  rate: '4.5'
+  shipping: '1'
+  state: HI
+wootax/8459:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '96742'
+    location_type: postcode
+  name: MAUI COUNTY
+  order: '0'
+  priority: '0'
+  rate: '4'
+  shipping: '1'
+  state: HI
+wootax/8460:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '96743'
+    location_type: postcode
+  name: HAWAII COUNTY
+  order: '0'
+  priority: '0'
+  rate: '4.25'
+  shipping: '1'
+  state: HI
+wootax/8461:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '96744'
+    location_type: postcode
+  name: HONOLULU
+  order: '0'
+  priority: '0'
+  rate: '4.5'
+  shipping: '1'
+  state: HI
+wootax/8462:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '96745'
+    location_type: postcode
+  name: HAWAII COUNTY
+  order: '0'
+  priority: '0'
+  rate: '4.25'
+  shipping: '1'
+  state: HI
+wootax/8463:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '96746'
+    location_type: postcode
+  name: KAUAI COUNTY
+  order: '0'
+  priority: '0'
+  rate: '4.5'
+  shipping: '1'
+  state: HI
+wootax/8464:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '96747'
+    location_type: postcode
+  name: KAUAI COUNTY
+  order: '0'
+  priority: '0'
+  rate: '4.5'
+  shipping: '1'
+  state: HI
+wootax/8465:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '96748'
+    location_type: postcode
+  name: MAUI COUNTY
+  order: '0'
+  priority: '0'
+  rate: '4'
+  shipping: '1'
+  state: HI
+wootax/8466:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '96749'
+    location_type: postcode
+  name: HAWAII COUNTY
+  order: '0'
+  priority: '0'
+  rate: '4.25'
+  shipping: '1'
+  state: HI
+wootax/8467:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '96750'
+    location_type: postcode
+  name: HAWAII COUNTY
+  order: '0'
+  priority: '0'
+  rate: '4.25'
+  shipping: '1'
+  state: HI
+wootax/8468:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '96751'
+    location_type: postcode
+  name: KAUAI COUNTY
+  order: '0'
+  priority: '0'
+  rate: '4.5'
+  shipping: '1'
+  state: HI
+wootax/8469:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '96752'
+    location_type: postcode
+  name: KAUAI COUNTY
+  order: '0'
+  priority: '0'
+  rate: '4.5'
+  shipping: '1'
+  state: HI
+wootax/8470:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '96753'
+    location_type: postcode
+  name: MAUI COUNTY
+  order: '0'
+  priority: '0'
+  rate: '4'
+  shipping: '1'
+  state: HI
+wootax/8471:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '96754'
+    location_type: postcode
+  name: KAUAI COUNTY
+  order: '0'
+  priority: '0'
+  rate: '4.5'
+  shipping: '1'
+  state: HI
+wootax/8472:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '96755'
+    location_type: postcode
+  name: HAWAII COUNTY
+  order: '0'
+  priority: '0'
+  rate: '4.25'
+  shipping: '1'
+  state: HI
+wootax/8473:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '96756'
+    location_type: postcode
+  name: KAUAI COUNTY
+  order: '0'
+  priority: '0'
+  rate: '4.5'
+  shipping: '1'
+  state: HI
+wootax/8474:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '96757'
+    location_type: postcode
+  name: MAUI COUNTY
+  order: '0'
+  priority: '0'
+  rate: '4'
+  shipping: '1'
+  state: HI
+wootax/8475:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '96759'
+    location_type: postcode
+  name: HONOLULU
+  order: '0'
+  priority: '0'
+  rate: '4.5'
+  shipping: '1'
+  state: HI
+wootax/8476:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '96760'
+    location_type: postcode
+  name: HAWAII COUNTY
+  order: '0'
+  priority: '0'
+  rate: '4.25'
+  shipping: '1'
+  state: HI
+wootax/8477:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '96761'
+    location_type: postcode
+  name: MAUI COUNTY
+  order: '0'
+  priority: '0'
+  rate: '4'
+  shipping: '1'
+  state: HI
+wootax/8478:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '96762'
+    location_type: postcode
+  name: HONOLULU
+  order: '0'
+  priority: '0'
+  rate: '4.5'
+  shipping: '1'
+  state: HI
+wootax/8479:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '96763'
+    location_type: postcode
+  name: MAUI COUNTY
+  order: '0'
+  priority: '0'
+  rate: '4'
+  shipping: '1'
+  state: HI
+wootax/8480:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '96764'
+    location_type: postcode
+  name: HAWAII COUNTY
+  order: '0'
+  priority: '0'
+  rate: '4.25'
+  shipping: '1'
+  state: HI
+wootax/8481:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '96765'
+    location_type: postcode
+  name: KAUAI COUNTY
+  order: '0'
+  priority: '0'
+  rate: '4.5'
+  shipping: '1'
+  state: HI
+wootax/8482:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '96766'
+    location_type: postcode
+  name: KAUAI COUNTY
+  order: '0'
+  priority: '0'
+  rate: '4.5'
+  shipping: '1'
+  state: HI
+wootax/8483:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '96767'
+    location_type: postcode
+  name: MAUI COUNTY
+  order: '0'
+  priority: '0'
+  rate: '4'
+  shipping: '1'
+  state: HI
+wootax/8484:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '96768'
+    location_type: postcode
+  name: MAUI COUNTY
+  order: '0'
+  priority: '0'
+  rate: '4'
+  shipping: '1'
+  state: HI
+wootax/8485:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '96769'
+    location_type: postcode
+  name: KAUAI COUNTY
+  order: '0'
+  priority: '0'
+  rate: '4.5'
+  shipping: '1'
+  state: HI
+wootax/8486:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '96770'
+    location_type: postcode
+  name: MAUI COUNTY
+  order: '0'
+  priority: '0'
+  rate: '4'
+  shipping: '1'
+  state: HI
+wootax/8487:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '96771'
+    location_type: postcode
+  name: HAWAII COUNTY
+  order: '0'
+  priority: '0'
+  rate: '4.25'
+  shipping: '1'
+  state: HI
+wootax/8488:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '96772'
+    location_type: postcode
+  name: HAWAII COUNTY
+  order: '0'
+  priority: '0'
+  rate: '4.25'
+  shipping: '1'
+  state: HI
+wootax/8489:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '96773'
+    location_type: postcode
+  name: HAWAII COUNTY
+  order: '0'
+  priority: '0'
+  rate: '4.25'
+  shipping: '1'
+  state: HI
+wootax/8490:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '96774'
+    location_type: postcode
+  name: HAWAII COUNTY
+  order: '0'
+  priority: '0'
+  rate: '4.25'
+  shipping: '1'
+  state: HI
+wootax/8491:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '96776'
+    location_type: postcode
+  name: HAWAII COUNTY
+  order: '0'
+  priority: '0'
+  rate: '4.25'
+  shipping: '1'
+  state: HI
+wootax/8492:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '96777'
+    location_type: postcode
+  name: HAWAII COUNTY
+  order: '0'
+  priority: '0'
+  rate: '4.25'
+  shipping: '1'
+  state: HI
+wootax/8493:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '96778'
+    location_type: postcode
+  name: HAWAII COUNTY
+  order: '0'
+  priority: '0'
+  rate: '4.25'
+  shipping: '1'
+  state: HI
+wootax/8494:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '96779'
+    location_type: postcode
+  name: MAUI COUNTY
+  order: '0'
+  priority: '0'
+  rate: '4'
+  shipping: '1'
+  state: HI
+wootax/8495:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '96780'
+    location_type: postcode
+  name: HAWAII COUNTY
+  order: '0'
+  priority: '0'
+  rate: '4.25'
+  shipping: '1'
+  state: HI
+wootax/8496:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '96781'
+    location_type: postcode
+  name: HAWAII COUNTY
+  order: '0'
+  priority: '0'
+  rate: '4.25'
+  shipping: '1'
+  state: HI
+wootax/8497:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '96782'
+    location_type: postcode
+  name: HONOLULU
+  order: '0'
+  priority: '0'
+  rate: '4.5'
+  shipping: '1'
+  state: HI
+wootax/8498:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '96783'
+    location_type: postcode
+  name: HAWAII COUNTY
+  order: '0'
+  priority: '0'
+  rate: '4.25'
+  shipping: '1'
+  state: HI
+wootax/8499:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '96784'
+    location_type: postcode
+  name: MAUI COUNTY
+  order: '0'
+  priority: '0'
+  rate: '4'
+  shipping: '1'
+  state: HI
+wootax/8500:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '96785'
+    location_type: postcode
+  name: HAWAII COUNTY
+  order: '0'
+  priority: '0'
+  rate: '4.25'
+  shipping: '1'
+  state: HI
+wootax/8501:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '96786'
+    location_type: postcode
+  name: HONOLULU
+  order: '0'
+  priority: '0'
+  rate: '4.5'
+  shipping: '1'
+  state: HI
+wootax/8502:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '96789'
+    location_type: postcode
+  name: HONOLULU
+  order: '0'
+  priority: '0'
+  rate: '4.5'
+  shipping: '1'
+  state: HI
+wootax/8503:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '96790'
+    location_type: postcode
+  name: MAUI COUNTY
+  order: '0'
+  priority: '0'
+  rate: '4'
+  shipping: '1'
+  state: HI
+wootax/8504:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '96791'
+    location_type: postcode
+  name: HONOLULU
+  order: '0'
+  priority: '0'
+  rate: '4.5'
+  shipping: '1'
+  state: HI
+wootax/8505:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '96792'
+    location_type: postcode
+  name: HONOLULU
+  order: '0'
+  priority: '0'
+  rate: '4.5'
+  shipping: '1'
+  state: HI
+wootax/8506:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '96793'
+    location_type: postcode
+  name: MAUI COUNTY
+  order: '0'
+  priority: '0'
+  rate: '4'
+  shipping: '1'
+  state: HI
+wootax/8507:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '96795'
+    location_type: postcode
+  name: HONOLULU
+  order: '0'
+  priority: '0'
+  rate: '4.5'
+  shipping: '1'
+  state: HI
+wootax/8508:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '96796'
+    location_type: postcode
+  name: KAUAI COUNTY
+  order: '0'
+  priority: '0'
+  rate: '4.5'
+  shipping: '1'
+  state: HI
+wootax/8509:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '96797'
+    location_type: postcode
+  name: HONOLULU
+  order: '0'
+  priority: '0'
+  rate: '4.5'
+  shipping: '1'
+  state: HI
+wootax/8510:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '96801'
+    location_type: postcode
+  name: HONOLULU
+  order: '0'
+  priority: '0'
+  rate: '4.5'
+  shipping: '1'
+  state: HI
+wootax/8511:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '96802'
+    location_type: postcode
+  name: HONOLULU
+  order: '0'
+  priority: '0'
+  rate: '4.5'
+  shipping: '1'
+  state: HI
+wootax/8512:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '96803'
+    location_type: postcode
+  name: HONOLULU
+  order: '0'
+  priority: '0'
+  rate: '4.5'
+  shipping: '1'
+  state: HI
+wootax/8513:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '96804'
+    location_type: postcode
+  name: HONOLULU
+  order: '0'
+  priority: '0'
+  rate: '4.5'
+  shipping: '1'
+  state: HI
+wootax/8514:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '96805'
+    location_type: postcode
+  name: HONOLULU
+  order: '0'
+  priority: '0'
+  rate: '4.5'
+  shipping: '1'
+  state: HI
+wootax/8515:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '96806'
+    location_type: postcode
+  name: HONOLULU
+  order: '0'
+  priority: '0'
+  rate: '4.5'
+  shipping: '1'
+  state: HI
+wootax/8516:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '96807'
+    location_type: postcode
+  name: HONOLULU
+  order: '0'
+  priority: '0'
+  rate: '4.5'
+  shipping: '1'
+  state: HI
+wootax/8517:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '96808'
+    location_type: postcode
+  name: HONOLULU
+  order: '0'
+  priority: '0'
+  rate: '4.5'
+  shipping: '1'
+  state: HI
+wootax/8518:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '96809'
+    location_type: postcode
+  name: HONOLULU
+  order: '0'
+  priority: '0'
+  rate: '4.5'
+  shipping: '1'
+  state: HI
+wootax/8519:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '96810'
+    location_type: postcode
+  name: HONOLULU
+  order: '0'
+  priority: '0'
+  rate: '4.5'
+  shipping: '1'
+  state: HI
+wootax/8520:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '96811'
+    location_type: postcode
+  name: HONOLULU
+  order: '0'
+  priority: '0'
+  rate: '4.5'
+  shipping: '1'
+  state: HI
+wootax/8521:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '96812'
+    location_type: postcode
+  name: HONOLULU
+  order: '0'
+  priority: '0'
+  rate: '4.5'
+  shipping: '1'
+  state: HI
+wootax/8522:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '96813'
+    location_type: postcode
+  name: HONOLULU
+  order: '0'
+  priority: '0'
+  rate: '4.5'
+  shipping: '1'
+  state: HI
+wootax/8523:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '96814'
+    location_type: postcode
+  name: HONOLULU
+  order: '0'
+  priority: '0'
+  rate: '4.5'
+  shipping: '1'
+  state: HI
+wootax/8524:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '96815'
+    location_type: postcode
+  name: HONOLULU
+  order: '0'
+  priority: '0'
+  rate: '4.5'
+  shipping: '1'
+  state: HI
+wootax/8525:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '96816'
+    location_type: postcode
+  name: HONOLULU
+  order: '0'
+  priority: '0'
+  rate: '4.5'
+  shipping: '1'
+  state: HI
+wootax/8526:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '96817'
+    location_type: postcode
+  name: HONOLULU
+  order: '0'
+  priority: '0'
+  rate: '4.5'
+  shipping: '1'
+  state: HI
+wootax/8527:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '96818'
+    location_type: postcode
+  name: HONOLULU
+  order: '0'
+  priority: '0'
+  rate: '4.5'
+  shipping: '1'
+  state: HI
+wootax/8528:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '96819'
+    location_type: postcode
+  name: HONOLULU
+  order: '0'
+  priority: '0'
+  rate: '4.5'
+  shipping: '1'
+  state: HI
+wootax/8529:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '96820'
+    location_type: postcode
+  name: HONOLULU
+  order: '0'
+  priority: '0'
+  rate: '4.5'
+  shipping: '1'
+  state: HI
+wootax/8530:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '96821'
+    location_type: postcode
+  name: HONOLULU
+  order: '0'
+  priority: '0'
+  rate: '4.5'
+  shipping: '1'
+  state: HI
+wootax/8531:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '96822'
+    location_type: postcode
+  name: HONOLULU
+  order: '0'
+  priority: '0'
+  rate: '4.5'
+  shipping: '1'
+  state: HI
+wootax/8532:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '96823'
+    location_type: postcode
+  name: HONOLULU
+  order: '0'
+  priority: '0'
+  rate: '4.5'
+  shipping: '1'
+  state: HI
+wootax/8533:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '96824'
+    location_type: postcode
+  name: HONOLULU
+  order: '0'
+  priority: '0'
+  rate: '4.5'
+  shipping: '1'
+  state: HI
+wootax/8534:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '96825'
+    location_type: postcode
+  name: HONOLULU
+  order: '0'
+  priority: '0'
+  rate: '4.5'
+  shipping: '1'
+  state: HI
+wootax/8535:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '96826'
+    location_type: postcode
+  name: HONOLULU
+  order: '0'
+  priority: '0'
+  rate: '4.5'
+  shipping: '1'
+  state: HI
+wootax/8536:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '96828'
+    location_type: postcode
+  name: HONOLULU
+  order: '0'
+  priority: '0'
+  rate: '4.5'
+  shipping: '1'
+  state: HI
+wootax/8537:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '96830'
+    location_type: postcode
+  name: HONOLULU
+  order: '0'
+  priority: '0'
+  rate: '4.5'
+  shipping: '1'
+  state: HI
+wootax/8538:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '96836'
+    location_type: postcode
+  name: HONOLULU
+  order: '0'
+  priority: '0'
+  rate: '4.5'
+  shipping: '1'
+  state: HI
+wootax/8539:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '96837'
+    location_type: postcode
+  name: HONOLULU
+  order: '0'
+  priority: '0'
+  rate: '4.5'
+  shipping: '1'
+  state: HI
+wootax/8540:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '96839'
+    location_type: postcode
+  name: HONOLULU
+  order: '0'
+  priority: '0'
+  rate: '4.5'
+  shipping: '1'
+  state: HI
+wootax/8541:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '96843'
+    location_type: postcode
+  name: HONOLULU
+  order: '0'
+  priority: '0'
+  rate: '4.5'
+  shipping: '1'
+  state: HI
+wootax/8542:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '96844'
+    location_type: postcode
+  name: HONOLULU
+  order: '0'
+  priority: '0'
+  rate: '4.5'
+  shipping: '1'
+  state: HI
+wootax/8543:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '96848'
+    location_type: postcode
+  name: HONOLULU
+  order: '0'
+  priority: '0'
+  rate: '4.5'
+  shipping: '1'
+  state: HI
+wootax/8544:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '96850'
+    location_type: postcode
+  name: HONOLULU
+  order: '0'
+  priority: '0'
+  rate: '4.5'
+  shipping: '1'
+  state: HI
+wootax/8545:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '96853'
+    location_type: postcode
+  name: HONOLULU
+  order: '0'
+  priority: '0'
+  rate: '4.5'
+  shipping: '1'
+  state: HI
+wootax/8546:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '96854'
+    location_type: postcode
+  name: HONOLULU
+  order: '0'
+  priority: '0'
+  rate: '4.5'
+  shipping: '1'
+  state: HI
+wootax/8547:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '96857'
+    location_type: postcode
+  name: HONOLULU
+  order: '0'
+  priority: '0'
+  rate: '4.5'
+  shipping: '1'
+  state: HI
+wootax/8548:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '96858'
+    location_type: postcode
+  name: HONOLULU
+  order: '0'
+  priority: '0'
+  rate: '4.5'
+  shipping: '1'
+  state: HI
+wootax/8549:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '96859'
+    location_type: postcode
+  name: HONOLULU
+  order: '0'
+  priority: '0'
+  rate: '4.5'
+  shipping: '1'
+  state: HI
+wootax/8550:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '96860'
+    location_type: postcode
+  name: HONOLULU
+  order: '0'
+  priority: '0'
+  rate: '4.5'
+  shipping: '1'
+  state: HI
+wootax/8551:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '96861'
+    location_type: postcode
+  name: HONOLULU
+  order: '0'
+  priority: '0'
+  rate: '4.5'
+  shipping: '1'
+  state: HI
+wootax/8552:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '96863'
+    location_type: postcode
+  name: HONOLULU
+  order: '0'
+  priority: '0'
+  rate: '4.5'
+  shipping: '1'
+  state: HI
+wootax/8553:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '96898'
+    location_type: postcode
+  name: HONOLULU
+  order: '0'
+  priority: '0'
+  rate: '4.5'
+  shipping: '1'
+  state: HI

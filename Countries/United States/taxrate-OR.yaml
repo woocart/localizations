@@ -1,0 +1,5824 @@
+wootax/29033:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '97001'
+    location_type: postcode
+  name: CENTRAL DISTRICT SP
+  order: '0'
+  priority: '0'
+  rate: '0'
+  shipping: '0'
+  state: OR
+wootax/29034:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '97002'
+    location_type: postcode
+  name: WILLAMETTE VALLEY DISTRICT SP
+  order: '0'
+  priority: '0'
+  rate: '0'
+  shipping: '0'
+  state: OR
+wootax/29035:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '97003'
+    location_type: postcode
+  name: PORTLAND METRO DISTRICT SP
+  order: '0'
+  priority: '0'
+  rate: '0'
+  shipping: '0'
+  state: OR
+wootax/29036:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '97004'
+    location_type: postcode
+  name: WILLAMETTE VALLEY DISTRICT SP
+  order: '0'
+  priority: '0'
+  rate: '0'
+  shipping: '0'
+  state: OR
+wootax/29037:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '97005'
+    location_type: postcode
+  name: PORTLAND METRO DISTRICT SP
+  order: '0'
+  priority: '0'
+  rate: '0'
+  shipping: '0'
+  state: OR
+wootax/29038:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '97006'
+    location_type: postcode
+  name: PORTLAND METRO DISTRICT SP
+  order: '0'
+  priority: '0'
+  rate: '0'
+  shipping: '0'
+  state: OR
+wootax/29039:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '97007'
+    location_type: postcode
+  name: PORTLAND METRO DISTRICT SP
+  order: '0'
+  priority: '0'
+  rate: '0'
+  shipping: '0'
+  state: OR
+wootax/29040:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '97008'
+    location_type: postcode
+  name: PORTLAND METRO DISTRICT SP
+  order: '0'
+  priority: '0'
+  rate: '0'
+  shipping: '0'
+  state: OR
+wootax/29041:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '97009'
+    location_type: postcode
+  name: PORTLAND METRO DISTRICT SP
+  order: '0'
+  priority: '0'
+  rate: '0'
+  shipping: '0'
+  state: OR
+wootax/29042:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '97010'
+    location_type: postcode
+  name: MT HOOD GORGE DISTRICT SP
+  order: '0'
+  priority: '0'
+  rate: '0'
+  shipping: '0'
+  state: OR
+wootax/29043:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '97011'
+    location_type: postcode
+  name: MT HOOD GORGE DISTRICT SP
+  order: '0'
+  priority: '0'
+  rate: '0'
+  shipping: '0'
+  state: OR
+wootax/29044:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '97013'
+    location_type: postcode
+  name: WILLAMETTE VALLEY DISTRICT SP
+  order: '0'
+  priority: '0'
+  rate: '0'
+  shipping: '0'
+  state: OR
+wootax/29045:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '97014'
+    location_type: postcode
+  name: MT HOOD GORGE DISTRICT SP
+  order: '0'
+  priority: '0'
+  rate: '0'
+  shipping: '0'
+  state: OR
+wootax/29046:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '97015'
+    location_type: postcode
+  name: PORTLAND METRO DISTRICT SP
+  order: '0'
+  priority: '0'
+  rate: '0'
+  shipping: '0'
+  state: OR
+wootax/29047:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '97016'
+    location_type: postcode
+  name: PORTLAND METRO DISTRICT SP
+  order: '0'
+  priority: '0'
+  rate: '0'
+  shipping: '0'
+  state: OR
+wootax/29048:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '97017'
+    location_type: postcode
+  name: WILLAMETTE VALLEY DISTRICT SP
+  order: '0'
+  priority: '0'
+  rate: '0'
+  shipping: '0'
+  state: OR
+wootax/29049:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '97018'
+    location_type: postcode
+  name: PORTLAND METRO DISTRICT SP
+  order: '0'
+  priority: '0'
+  rate: '0'
+  shipping: '0'
+  state: OR
+wootax/29050:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '97019'
+    location_type: postcode
+  name: MT HOOD GORGE DISTRICT SP
+  order: '0'
+  priority: '0'
+  rate: '0'
+  shipping: '0'
+  state: OR
+wootax/29051:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '97020'
+    location_type: postcode
+  name: WILLAMETTE VALLEY DISTRICT SP
+  order: '0'
+  priority: '0'
+  rate: '0'
+  shipping: '0'
+  state: OR
+wootax/29052:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '97021'
+    location_type: postcode
+  name: NORTH EASTERN DISTRICT SP
+  order: '0'
+  priority: '0'
+  rate: '0'
+  shipping: '0'
+  state: OR
+wootax/29053:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '97022'
+    location_type: postcode
+  name: PORTLAND METRO DISTRICT SP
+  order: '0'
+  priority: '0'
+  rate: '0'
+  shipping: '0'
+  state: OR
+wootax/29054:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '97023'
+    location_type: postcode
+  name: MT HOOD GORGE DISTRICT SP
+  order: '0'
+  priority: '0'
+  rate: '0'
+  shipping: '0'
+  state: OR
+wootax/29055:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '97024'
+    location_type: postcode
+  name: PORTLAND METRO DISTRICT SP
+  order: '0'
+  priority: '0'
+  rate: '0'
+  shipping: '0'
+  state: OR
+wootax/29056:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '97026'
+    location_type: postcode
+  name: WILLAMETTE VALLEY DISTRICT SP
+  order: '0'
+  priority: '0'
+  rate: '0'
+  shipping: '0'
+  state: OR
+wootax/29057:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '97027'
+    location_type: postcode
+  name: PORTLAND METRO DISTRICT SP
+  order: '0'
+  priority: '0'
+  rate: '0'
+  shipping: '0'
+  state: OR
+wootax/29058:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '97028'
+    location_type: postcode
+  name: MT HOOD GORGE DISTRICT SP
+  order: '0'
+  priority: '0'
+  rate: '0'
+  shipping: '0'
+  state: OR
+wootax/29059:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '97029'
+    location_type: postcode
+  name: NORTH EASTERN DISTRICT SP
+  order: '0'
+  priority: '0'
+  rate: '0'
+  shipping: '0'
+  state: OR
+wootax/29060:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '97030'
+    location_type: postcode
+  name: PORTLAND METRO DISTRICT SP
+  order: '0'
+  priority: '0'
+  rate: '0'
+  shipping: '0'
+  state: OR
+wootax/29061:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '97031'
+    location_type: postcode
+  name: MT HOOD GORGE DISTRICT SP
+  order: '0'
+  priority: '0'
+  rate: '0'
+  shipping: '0'
+  state: OR
+wootax/29062:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '97032'
+    location_type: postcode
+  name: WILLAMETTE VALLEY DISTRICT SP
+  order: '0'
+  priority: '0'
+  rate: '0'
+  shipping: '0'
+  state: OR
+wootax/29063:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '97033'
+    location_type: postcode
+  name: NORTH EASTERN DISTRICT SP
+  order: '0'
+  priority: '0'
+  rate: '0'
+  shipping: '0'
+  state: OR
+wootax/29064:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '97034'
+    location_type: postcode
+  name: PORTLAND METRO DISTRICT SP
+  order: '0'
+  priority: '0'
+  rate: '0'
+  shipping: '0'
+  state: OR
+wootax/29065:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '97035'
+    location_type: postcode
+  name: PORTLAND METRO DISTRICT SP
+  order: '0'
+  priority: '0'
+  rate: '0'
+  shipping: '0'
+  state: OR
+wootax/29066:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '97036'
+    location_type: postcode
+  name: PORTLAND METRO DISTRICT SP
+  order: '0'
+  priority: '0'
+  rate: '0'
+  shipping: '0'
+  state: OR
+wootax/29067:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '97037'
+    location_type: postcode
+  name: CENTRAL DISTRICT SP
+  order: '0'
+  priority: '0'
+  rate: '0'
+  shipping: '0'
+  state: OR
+wootax/29068:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '97038'
+    location_type: postcode
+  name: WILLAMETTE VALLEY DISTRICT SP
+  order: '0'
+  priority: '0'
+  rate: '0'
+  shipping: '0'
+  state: OR
+wootax/29069:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '97039'
+    location_type: postcode
+  name: NORTH EASTERN DISTRICT SP
+  order: '0'
+  priority: '0'
+  rate: '0'
+  shipping: '0'
+  state: OR
+wootax/29070:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '97040'
+    location_type: postcode
+  name: MT HOOD GORGE DISTRICT SP
+  order: '0'
+  priority: '0'
+  rate: '0'
+  shipping: '0'
+  state: OR
+wootax/29071:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '97041'
+    location_type: postcode
+  name: MT HOOD GORGE DISTRICT SP
+  order: '0'
+  priority: '0'
+  rate: '0'
+  shipping: '0'
+  state: OR
+wootax/29072:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '97042'
+    location_type: postcode
+  name: WILLAMETTE VALLEY DISTRICT SP
+  order: '0'
+  priority: '0'
+  rate: '0'
+  shipping: '0'
+  state: OR
+wootax/29073:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '97044'
+    location_type: postcode
+  name: MT HOOD GORGE DISTRICT SP
+  order: '0'
+  priority: '0'
+  rate: '0'
+  shipping: '0'
+  state: OR
+wootax/29074:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '97045'
+    location_type: postcode
+  name: PORTLAND METRO DISTRICT SP
+  order: '0'
+  priority: '0'
+  rate: '0'
+  shipping: '0'
+  state: OR
+wootax/29075:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '97048'
+    location_type: postcode
+  name: PORTLAND METRO DISTRICT SP
+  order: '0'
+  priority: '0'
+  rate: '0'
+  shipping: '0'
+  state: OR
+wootax/29076:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '97049'
+    location_type: postcode
+  name: MT HOOD GORGE DISTRICT SP
+  order: '0'
+  priority: '0'
+  rate: '0'
+  shipping: '0'
+  state: OR
+wootax/29077:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '97050'
+    location_type: postcode
+  name: NORTH EASTERN DISTRICT SP
+  order: '0'
+  priority: '0'
+  rate: '0'
+  shipping: '0'
+  state: OR
+wootax/29078:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '97051'
+    location_type: postcode
+  name: PORTLAND METRO DISTRICT SP
+  order: '0'
+  priority: '0'
+  rate: '0'
+  shipping: '0'
+  state: OR
+wootax/29079:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '97053'
+    location_type: postcode
+  name: PORTLAND METRO DISTRICT SP
+  order: '0'
+  priority: '0'
+  rate: '0'
+  shipping: '0'
+  state: OR
+wootax/29080:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '97054'
+    location_type: postcode
+  name: PORTLAND METRO DISTRICT SP
+  order: '0'
+  priority: '0'
+  rate: '0'
+  shipping: '0'
+  state: OR
+wootax/29081:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '97055'
+    location_type: postcode
+  name: MT HOOD GORGE DISTRICT SP
+  order: '0'
+  priority: '0'
+  rate: '0'
+  shipping: '0'
+  state: OR
+wootax/29082:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '97056'
+    location_type: postcode
+  name: PORTLAND METRO DISTRICT SP
+  order: '0'
+  priority: '0'
+  rate: '0'
+  shipping: '0'
+  state: OR
+wootax/29083:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '97057'
+    location_type: postcode
+  name: CENTRAL DISTRICT SP
+  order: '0'
+  priority: '0'
+  rate: '0'
+  shipping: '0'
+  state: OR
+wootax/29084:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '97058'
+    location_type: postcode
+  name: MT HOOD GORGE DISTRICT SP
+  order: '0'
+  priority: '0'
+  rate: '0'
+  shipping: '0'
+  state: OR
+wootax/29085:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '97060'
+    location_type: postcode
+  name: MT HOOD GORGE DISTRICT SP
+  order: '0'
+  priority: '0'
+  rate: '0'
+  shipping: '0'
+  state: OR
+wootax/29086:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '97062'
+    location_type: postcode
+  name: TUALATIN
+  order: '0'
+  priority: '0'
+  rate: '0'
+  shipping: '0'
+  state: OR
+wootax/29087:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '97063'
+    location_type: postcode
+  name: NORTH EASTERN DISTRICT SP
+  order: '0'
+  priority: '0'
+  rate: '0'
+  shipping: '0'
+  state: OR
+wootax/29088:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '97064'
+    location_type: postcode
+  name: PORTLAND METRO DISTRICT SP
+  order: '0'
+  priority: '0'
+  rate: '0'
+  shipping: '0'
+  state: OR
+wootax/29089:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '97065'
+    location_type: postcode
+  name: NORTH EASTERN DISTRICT SP
+  order: '0'
+  priority: '0'
+  rate: '0'
+  shipping: '0'
+  state: OR
+wootax/29090:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '97067'
+    location_type: postcode
+  name: MT HOOD GORGE DISTRICT SP
+  order: '0'
+  priority: '0'
+  rate: '0'
+  shipping: '0'
+  state: OR
+wootax/29091:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '97068'
+    location_type: postcode
+  name: PORTLAND METRO DISTRICT SP
+  order: '0'
+  priority: '0'
+  rate: '0'
+  shipping: '0'
+  state: OR
+wootax/29092:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '97070'
+    location_type: postcode
+  name: WILLAMETTE VALLEY DISTRICT SP
+  order: '0'
+  priority: '0'
+  rate: '0'
+  shipping: '0'
+  state: OR
+wootax/29093:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '97071'
+    location_type: postcode
+  name: WILLAMETTE VALLEY DISTRICT SP
+  order: '0'
+  priority: '0'
+  rate: '0'
+  shipping: '0'
+  state: OR
+wootax/29094:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '97075'
+    location_type: postcode
+  name: PORTLAND METRO DISTRICT SP
+  order: '0'
+  priority: '0'
+  rate: '0'
+  shipping: '0'
+  state: OR
+wootax/29095:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '97078'
+    location_type: postcode
+  name: PORTLAND METRO DISTRICT SP
+  order: '0'
+  priority: '0'
+  rate: '0'
+  shipping: '0'
+  state: OR
+wootax/29096:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '97079'
+    location_type: postcode
+  name: PORTLAND METRO DISTRICT SP
+  order: '0'
+  priority: '0'
+  rate: '0'
+  shipping: '0'
+  state: OR
+wootax/29097:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '97080'
+    location_type: postcode
+  name: PORTLAND METRO DISTRICT SP
+  order: '0'
+  priority: '0'
+  rate: '0'
+  shipping: '0'
+  state: OR
+wootax/29098:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '97086'
+    location_type: postcode
+  name: PORTLAND METRO DISTRICT SP
+  order: '0'
+  priority: '0'
+  rate: '0'
+  shipping: '0'
+  state: OR
+wootax/29099:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '97089'
+    location_type: postcode
+  name: PORTLAND METRO DISTRICT SP
+  order: '0'
+  priority: '0'
+  rate: '0'
+  shipping: '0'
+  state: OR
+wootax/29100:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '97101'
+    location_type: postcode
+  name: WILLAMETTE VALLEY DISTRICT SP
+  order: '0'
+  priority: '0'
+  rate: '0'
+  shipping: '0'
+  state: OR
+wootax/29101:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '97102'
+    location_type: postcode
+  name: NORTH COAST DISTRICT SP
+  order: '0'
+  priority: '0'
+  rate: '0'
+  shipping: '0'
+  state: OR
+wootax/29102:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '97103'
+    location_type: postcode
+  name: NORTH COAST DISTRICT SP
+  order: '0'
+  priority: '0'
+  rate: '0'
+  shipping: '0'
+  state: OR
+wootax/29103:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '97106'
+    location_type: postcode
+  name: PORTLAND METRO DISTRICT SP
+  order: '0'
+  priority: '0'
+  rate: '0'
+  shipping: '0'
+  state: OR
+wootax/29104:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '97107'
+    location_type: postcode
+  name: NORTH COAST DISTRICT SP
+  order: '0'
+  priority: '0'
+  rate: '0'
+  shipping: '0'
+  state: OR
+wootax/29105:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '97108'
+    location_type: postcode
+  name: NORTH COAST DISTRICT SP
+  order: '0'
+  priority: '0'
+  rate: '0'
+  shipping: '0'
+  state: OR
+wootax/29106:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '97109'
+    location_type: postcode
+  name: PORTLAND METRO DISTRICT SP
+  order: '0'
+  priority: '0'
+  rate: '0'
+  shipping: '0'
+  state: OR
+wootax/29107:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '97110'
+    location_type: postcode
+  name: NORTH COAST DISTRICT SP
+  order: '0'
+  priority: '0'
+  rate: '0'
+  shipping: '0'
+  state: OR
+wootax/29108:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '97111'
+    location_type: postcode
+  name: WILLAMETTE VALLEY DISTRICT SP
+  order: '0'
+  priority: '0'
+  rate: '0'
+  shipping: '0'
+  state: OR
+wootax/29109:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '97112'
+    location_type: postcode
+  name: NORTH COAST DISTRICT SP
+  order: '0'
+  priority: '0'
+  rate: '0'
+  shipping: '0'
+  state: OR
+wootax/29110:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '97113'
+    location_type: postcode
+  name: PORTLAND METRO DISTRICT SP
+  order: '0'
+  priority: '0'
+  rate: '0'
+  shipping: '0'
+  state: OR
+wootax/29111:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '97114'
+    location_type: postcode
+  name: WILLAMETTE VALLEY DISTRICT SP
+  order: '0'
+  priority: '0'
+  rate: '0'
+  shipping: '0'
+  state: OR
+wootax/29112:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '97115'
+    location_type: postcode
+  name: WILLAMETTE VALLEY DISTRICT SP
+  order: '0'
+  priority: '0'
+  rate: '0'
+  shipping: '0'
+  state: OR
+wootax/29113:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '97116'
+    location_type: postcode
+  name: PORTLAND METRO DISTRICT SP
+  order: '0'
+  priority: '0'
+  rate: '0'
+  shipping: '0'
+  state: OR
+wootax/29114:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '97117'
+    location_type: postcode
+  name: PORTLAND METRO DISTRICT SP
+  order: '0'
+  priority: '0'
+  rate: '0'
+  shipping: '0'
+  state: OR
+wootax/29115:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '97118'
+    location_type: postcode
+  name: NORTH COAST DISTRICT SP
+  order: '0'
+  priority: '0'
+  rate: '0'
+  shipping: '0'
+  state: OR
+wootax/29116:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '97119'
+    location_type: postcode
+  name: PORTLAND METRO DISTRICT SP
+  order: '0'
+  priority: '0'
+  rate: '0'
+  shipping: '0'
+  state: OR
+wootax/29117:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '97121'
+    location_type: postcode
+  name: NORTH COAST DISTRICT SP
+  order: '0'
+  priority: '0'
+  rate: '0'
+  shipping: '0'
+  state: OR
+wootax/29118:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '97122'
+    location_type: postcode
+  name: NORTH COAST DISTRICT SP
+  order: '0'
+  priority: '0'
+  rate: '0'
+  shipping: '0'
+  state: OR
+wootax/29119:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '97123'
+    location_type: postcode
+  name: PORTLAND METRO DISTRICT SP
+  order: '0'
+  priority: '0'
+  rate: '0'
+  shipping: '0'
+  state: OR
+wootax/29120:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '97124'
+    location_type: postcode
+  name: PORTLAND METRO DISTRICT SP
+  order: '0'
+  priority: '0'
+  rate: '0'
+  shipping: '0'
+  state: OR
+wootax/29121:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '97125'
+    location_type: postcode
+  name: PORTLAND METRO DISTRICT SP
+  order: '0'
+  priority: '0'
+  rate: '0'
+  shipping: '0'
+  state: OR
+wootax/29122:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '97127'
+    location_type: postcode
+  name: WILLAMETTE VALLEY DISTRICT SP
+  order: '0'
+  priority: '0'
+  rate: '0'
+  shipping: '0'
+  state: OR
+wootax/29123:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '97128'
+    location_type: postcode
+  name: WILLAMETTE VALLEY DISTRICT SP
+  order: '0'
+  priority: '0'
+  rate: '0'
+  shipping: '0'
+  state: OR
+wootax/29124:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '97129'
+    location_type: postcode
+  name: OREGON STATE
+  order: '0'
+  priority: '0'
+  rate: '0'
+  shipping: '0'
+  state: OR
+wootax/29125:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '97130'
+    location_type: postcode
+  name: NORTH COAST DISTRICT SP
+  order: '0'
+  priority: '0'
+  rate: '0'
+  shipping: '0'
+  state: OR
+wootax/29126:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '97131'
+    location_type: postcode
+  name: NORTH COAST DISTRICT SP
+  order: '0'
+  priority: '0'
+  rate: '0'
+  shipping: '0'
+  state: OR
+wootax/29127:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '97132'
+    location_type: postcode
+  name: WILLAMETTE VALLEY DISTRICT SP
+  order: '0'
+  priority: '0'
+  rate: '0'
+  shipping: '0'
+  state: OR
+wootax/29128:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '97133'
+    location_type: postcode
+  name: PORTLAND METRO DISTRICT SP
+  order: '0'
+  priority: '0'
+  rate: '0'
+  shipping: '0'
+  state: OR
+wootax/29129:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '97134'
+    location_type: postcode
+  name: NORTH COAST DISTRICT SP
+  order: '0'
+  priority: '0'
+  rate: '0'
+  shipping: '0'
+  state: OR
+wootax/29130:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '97135'
+    location_type: postcode
+  name: NORTH COAST DISTRICT SP
+  order: '0'
+  priority: '0'
+  rate: '0'
+  shipping: '0'
+  state: OR
+wootax/29131:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '97136'
+    location_type: postcode
+  name: NORTH COAST DISTRICT SP
+  order: '0'
+  priority: '0'
+  rate: '0'
+  shipping: '0'
+  state: OR
+wootax/29132:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '97137'
+    location_type: postcode
+  name: WILLAMETTE VALLEY DISTRICT SP
+  order: '0'
+  priority: '0'
+  rate: '0'
+  shipping: '0'
+  state: OR
+wootax/29133:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '97138'
+    location_type: postcode
+  name: NORTH COAST DISTRICT SP
+  order: '0'
+  priority: '0'
+  rate: '0'
+  shipping: '0'
+  state: OR
+wootax/29134:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '97140'
+    location_type: postcode
+  name: PORTLAND METRO DISTRICT SP
+  order: '0'
+  priority: '0'
+  rate: '0'
+  shipping: '0'
+  state: OR
+wootax/29135:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '97141'
+    location_type: postcode
+  name: NORTH COAST DISTRICT SP
+  order: '0'
+  priority: '0'
+  rate: '0'
+  shipping: '0'
+  state: OR
+wootax/29136:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '97143'
+    location_type: postcode
+  name: NORTH COAST DISTRICT SP
+  order: '0'
+  priority: '0'
+  rate: '0'
+  shipping: '0'
+  state: OR
+wootax/29137:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '97144'
+    location_type: postcode
+  name: PORTLAND METRO DISTRICT SP
+  order: '0'
+  priority: '0'
+  rate: '0'
+  shipping: '0'
+  state: OR
+wootax/29138:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '97145'
+    location_type: postcode
+  name: NORTH COAST DISTRICT SP
+  order: '0'
+  priority: '0'
+  rate: '0'
+  shipping: '0'
+  state: OR
+wootax/29139:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '97146'
+    location_type: postcode
+  name: NORTH COAST DISTRICT SP
+  order: '0'
+  priority: '0'
+  rate: '0'
+  shipping: '0'
+  state: OR
+wootax/29140:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '97147'
+    location_type: postcode
+  name: NORTH COAST DISTRICT SP
+  order: '0'
+  priority: '0'
+  rate: '0'
+  shipping: '0'
+  state: OR
+wootax/29141:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '97148'
+    location_type: postcode
+  name: WILLAMETTE VALLEY DISTRICT SP
+  order: '0'
+  priority: '0'
+  rate: '0'
+  shipping: '0'
+  state: OR
+wootax/29142:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '97149'
+    location_type: postcode
+  name: NORTH COAST DISTRICT SP
+  order: '0'
+  priority: '0'
+  rate: '0'
+  shipping: '0'
+  state: OR
+wootax/29143:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '97202'
+    location_type: postcode
+  name: PORTLAND METRO DISTRICT SP
+  order: '0'
+  priority: '0'
+  rate: '0'
+  shipping: '0'
+  state: OR
+wootax/29144:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '97206'
+    location_type: postcode
+  name: PORTLAND METRO DISTRICT SP
+  order: '0'
+  priority: '0'
+  rate: '0'
+  shipping: '0'
+  state: OR
+wootax/29145:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '97208'
+    location_type: postcode
+  name: OREGON STATE
+  order: '0'
+  priority: '0'
+  rate: '0'
+  shipping: '0'
+  state: OR
+wootax/29146:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '97210'
+    location_type: postcode
+  name: PORTLAND METRO DISTRICT SP
+  order: '0'
+  priority: '0'
+  rate: '0'
+  shipping: '0'
+  state: OR
+wootax/29147:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '97214'
+    location_type: postcode
+  name: OREGON STATE
+  order: '0'
+  priority: '0'
+  rate: '0'
+  shipping: '0'
+  state: OR
+wootax/29148:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '97215'
+    location_type: postcode
+  name: OREGON STATE
+  order: '0'
+  priority: '0'
+  rate: '0'
+  shipping: '0'
+  state: OR
+wootax/29149:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '97216'
+    location_type: postcode
+  name: OREGON STATE
+  order: '0'
+  priority: '0'
+  rate: '0'
+  shipping: '0'
+  state: OR
+wootax/29150:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '97217'
+    location_type: postcode
+  name: OREGON STATE
+  order: '0'
+  priority: '0'
+  rate: '0'
+  shipping: '0'
+  state: OR
+wootax/29151:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '97219'
+    location_type: postcode
+  name: PORTLAND METRO DISTRICT SP
+  order: '0'
+  priority: '0'
+  rate: '0'
+  shipping: '0'
+  state: OR
+wootax/29152:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '97220'
+    location_type: postcode
+  name: PORTLAND METRO DISTRICT SP
+  order: '0'
+  priority: '0'
+  rate: '0'
+  shipping: '0'
+  state: OR
+wootax/29153:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '97221'
+    location_type: postcode
+  name: PORTLAND METRO DISTRICT SP
+  order: '0'
+  priority: '0'
+  rate: '0'
+  shipping: '0'
+  state: OR
+wootax/29154:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '97222'
+    location_type: postcode
+  name: PORTLAND METRO DISTRICT SP
+  order: '0'
+  priority: '0'
+  rate: '0'
+  shipping: '0'
+  state: OR
+wootax/29155:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '97223'
+    location_type: postcode
+  name: PORTLAND METRO DISTRICT SP
+  order: '0'
+  priority: '0'
+  rate: '0'
+  shipping: '0'
+  state: OR
+wootax/29156:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '97224'
+    location_type: postcode
+  name: PORTLAND METRO DISTRICT SP
+  order: '0'
+  priority: '0'
+  rate: '0'
+  shipping: '0'
+  state: OR
+wootax/29157:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '97225'
+    location_type: postcode
+  name: PORTLAND METRO DISTRICT SP
+  order: '0'
+  priority: '0'
+  rate: '0'
+  shipping: '0'
+  state: OR
+wootax/29158:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '97229'
+    location_type: postcode
+  name: PORTLAND METRO DISTRICT SP
+  order: '0'
+  priority: '0'
+  rate: '0'
+  shipping: '0'
+  state: OR
+wootax/29159:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '97230'
+    location_type: postcode
+  name: PORTLAND METRO DISTRICT SP
+  order: '0'
+  priority: '0'
+  rate: '0'
+  shipping: '0'
+  state: OR
+wootax/29160:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '97231'
+    location_type: postcode
+  name: PORTLAND METRO DISTRICT SP
+  order: '0'
+  priority: '0'
+  rate: '0'
+  shipping: '0'
+  state: OR
+wootax/29161:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '97233'
+    location_type: postcode
+  name: PORTLAND METRO DISTRICT SP
+  order: '0'
+  priority: '0'
+  rate: '0'
+  shipping: '0'
+  state: OR
+wootax/29162:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '97236'
+    location_type: postcode
+  name: PORTLAND METRO DISTRICT SP
+  order: '0'
+  priority: '0'
+  rate: '0'
+  shipping: '0'
+  state: OR
+wootax/29163:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '97239'
+    location_type: postcode
+  name: OREGON STATE
+  order: '0'
+  priority: '0'
+  rate: '0'
+  shipping: '0'
+  state: OR
+wootax/29164:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '97240'
+    location_type: postcode
+  name: OREGON STATE
+  order: '0'
+  priority: '0'
+  rate: '0'
+  shipping: '0'
+  state: OR
+wootax/29165:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '97250'
+    location_type: postcode
+  name: OREGON STATE
+  order: '0'
+  priority: '0'
+  rate: '0'
+  shipping: '0'
+  state: OR
+wootax/29166:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '97251'
+    location_type: postcode
+  name: OREGON STATE
+  order: '0'
+  priority: '0'
+  rate: '0'
+  shipping: '0'
+  state: OR
+wootax/29167:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '97266'
+    location_type: postcode
+  name: PORTLAND METRO DISTRICT SP
+  order: '0'
+  priority: '0'
+  rate: '0'
+  shipping: '0'
+  state: OR
+wootax/29168:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '97267'
+    location_type: postcode
+  name: PORTLAND METRO DISTRICT SP
+  order: '0'
+  priority: '0'
+  rate: '0'
+  shipping: '0'
+  state: OR
+wootax/29169:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '97268'
+    location_type: postcode
+  name: PORTLAND METRO DISTRICT SP
+  order: '0'
+  priority: '0'
+  rate: '0'
+  shipping: '0'
+  state: OR
+wootax/29170:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '97269'
+    location_type: postcode
+  name: PORTLAND METRO DISTRICT SP
+  order: '0'
+  priority: '0'
+  rate: '0'
+  shipping: '0'
+  state: OR
+wootax/29171:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '97281'
+    location_type: postcode
+  name: PORTLAND METRO DISTRICT SP
+  order: '0'
+  priority: '0'
+  rate: '0'
+  shipping: '0'
+  state: OR
+wootax/29172:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '97298'
+    location_type: postcode
+  name: PORTLAND METRO DISTRICT SP
+  order: '0'
+  priority: '0'
+  rate: '0'
+  shipping: '0'
+  state: OR
+wootax/29173:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '97301'
+    location_type: postcode
+  name: WILLAMETTE VALLEY DISTRICT SP
+  order: '0'
+  priority: '0'
+  rate: '0'
+  shipping: '0'
+  state: OR
+wootax/29174:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '97302'
+    location_type: postcode
+  name: WILLAMETTE VALLEY DISTRICT SP
+  order: '0'
+  priority: '0'
+  rate: '0'
+  shipping: '0'
+  state: OR
+wootax/29175:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '97303'
+    location_type: postcode
+  name: WILLAMETTE VALLEY DISTRICT SP
+  order: '0'
+  priority: '0'
+  rate: '0'
+  shipping: '0'
+  state: OR
+wootax/29176:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '97304'
+    location_type: postcode
+  name: WILLAMETTE VALLEY DISTRICT SP
+  order: '0'
+  priority: '0'
+  rate: '0'
+  shipping: '0'
+  state: OR
+wootax/29177:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '97305'
+    location_type: postcode
+  name: WILLAMETTE VALLEY DISTRICT SP
+  order: '0'
+  priority: '0'
+  rate: '0'
+  shipping: '0'
+  state: OR
+wootax/29178:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '97306'
+    location_type: postcode
+  name: WILLAMETTE VALLEY DISTRICT SP
+  order: '0'
+  priority: '0'
+  rate: '0'
+  shipping: '0'
+  state: OR
+wootax/29179:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '97307'
+    location_type: postcode
+  name: WILLAMETTE VALLEY DISTRICT SP
+  order: '0'
+  priority: '0'
+  rate: '0'
+  shipping: '0'
+  state: OR
+wootax/29180:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '97308'
+    location_type: postcode
+  name: WILLAMETTE VALLEY DISTRICT SP
+  order: '0'
+  priority: '0'
+  rate: '0'
+  shipping: '0'
+  state: OR
+wootax/29181:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '97309'
+    location_type: postcode
+  name: WILLAMETTE VALLEY DISTRICT SP
+  order: '0'
+  priority: '0'
+  rate: '0'
+  shipping: '0'
+  state: OR
+wootax/29182:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '97310'
+    location_type: postcode
+  name: WILLAMETTE VALLEY DISTRICT SP
+  order: '0'
+  priority: '0'
+  rate: '0'
+  shipping: '0'
+  state: OR
+wootax/29183:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '97311'
+    location_type: postcode
+  name: WILLAMETTE VALLEY DISTRICT SP
+  order: '0'
+  priority: '0'
+  rate: '0'
+  shipping: '0'
+  state: OR
+wootax/29184:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '97312'
+    location_type: postcode
+  name: WILLAMETTE VALLEY DISTRICT SP
+  order: '0'
+  priority: '0'
+  rate: '0'
+  shipping: '0'
+  state: OR
+wootax/29185:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '97314'
+    location_type: postcode
+  name: WILLAMETTE VALLEY DISTRICT SP
+  order: '0'
+  priority: '0'
+  rate: '0'
+  shipping: '0'
+  state: OR
+wootax/29186:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '97317'
+    location_type: postcode
+  name: WILLAMETTE VALLEY DISTRICT SP
+  order: '0'
+  priority: '0'
+  rate: '0'
+  shipping: '0'
+  state: OR
+wootax/29187:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '97321'
+    location_type: postcode
+  name: WILLAMETTE VALLEY DISTRICT SP
+  order: '0'
+  priority: '0'
+  rate: '0'
+  shipping: '0'
+  state: OR
+wootax/29188:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '97322'
+    location_type: postcode
+  name: WILLAMETTE VALLEY DISTRICT SP
+  order: '0'
+  priority: '0'
+  rate: '0'
+  shipping: '0'
+  state: OR
+wootax/29189:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '97324'
+    location_type: postcode
+  name: WILLAMETTE VALLEY DISTRICT SP
+  order: '0'
+  priority: '0'
+  rate: '0'
+  shipping: '0'
+  state: OR
+wootax/29190:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '97325'
+    location_type: postcode
+  name: WILLAMETTE VALLEY DISTRICT SP
+  order: '0'
+  priority: '0'
+  rate: '0'
+  shipping: '0'
+  state: OR
+wootax/29191:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '97326'
+    location_type: postcode
+  name: WILLAMETTE VALLEY DISTRICT SP
+  order: '0'
+  priority: '0'
+  rate: '0'
+  shipping: '0'
+  state: OR
+wootax/29192:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '97327'
+    location_type: postcode
+  name: WILLAMETTE VALLEY DISTRICT SP
+  order: '0'
+  priority: '0'
+  rate: '0'
+  shipping: '0'
+  state: OR
+wootax/29193:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '97329'
+    location_type: postcode
+  name: WILLAMETTE VALLEY DISTRICT SP
+  order: '0'
+  priority: '0'
+  rate: '0'
+  shipping: '0'
+  state: OR
+wootax/29194:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '97330'
+    location_type: postcode
+  name: WILLAMETTE VALLEY DISTRICT SP
+  order: '0'
+  priority: '0'
+  rate: '0'
+  shipping: '0'
+  state: OR
+wootax/29195:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '97331'
+    location_type: postcode
+  name: WILLAMETTE VALLEY DISTRICT SP
+  order: '0'
+  priority: '0'
+  rate: '0'
+  shipping: '0'
+  state: OR
+wootax/29196:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '97333'
+    location_type: postcode
+  name: WILLAMETTE VALLEY DISTRICT SP
+  order: '0'
+  priority: '0'
+  rate: '0'
+  shipping: '0'
+  state: OR
+wootax/29197:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '97335'
+    location_type: postcode
+  name: WILLAMETTE VALLEY DISTRICT SP
+  order: '0'
+  priority: '0'
+  rate: '0'
+  shipping: '0'
+  state: OR
+wootax/29198:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '97336'
+    location_type: postcode
+  name: WILLAMETTE VALLEY DISTRICT SP
+  order: '0'
+  priority: '0'
+  rate: '0'
+  shipping: '0'
+  state: OR
+wootax/29199:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '97338'
+    location_type: postcode
+  name: WILLAMETTE VALLEY DISTRICT SP
+  order: '0'
+  priority: '0'
+  rate: '0'
+  shipping: '0'
+  state: OR
+wootax/29200:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '97339'
+    location_type: postcode
+  name: WILLAMETTE VALLEY DISTRICT SP
+  order: '0'
+  priority: '0'
+  rate: '0'
+  shipping: '0'
+  state: OR
+wootax/29201:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '97341'
+    location_type: postcode
+  name: CENTRAL COAST DISTRICT SP
+  order: '0'
+  priority: '0'
+  rate: '0'
+  shipping: '0'
+  state: OR
+wootax/29202:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '97342'
+    location_type: postcode
+  name: WILLAMETTE VALLEY DISTRICT SP
+  order: '0'
+  priority: '0'
+  rate: '0'
+  shipping: '0'
+  state: OR
+wootax/29203:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '97343'
+    location_type: postcode
+  name: CENTRAL COAST DISTRICT SP
+  order: '0'
+  priority: '0'
+  rate: '0'
+  shipping: '0'
+  state: OR
+wootax/29204:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '97344'
+    location_type: postcode
+  name: WILLAMETTE VALLEY DISTRICT SP
+  order: '0'
+  priority: '0'
+  rate: '0'
+  shipping: '0'
+  state: OR
+wootax/29205:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '97345'
+    location_type: postcode
+  name: WILLAMETTE VALLEY DISTRICT SP
+  order: '0'
+  priority: '0'
+  rate: '0'
+  shipping: '0'
+  state: OR
+wootax/29206:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '97346'
+    location_type: postcode
+  name: WILLAMETTE VALLEY DISTRICT SP
+  order: '0'
+  priority: '0'
+  rate: '0'
+  shipping: '0'
+  state: OR
+wootax/29207:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '97347'
+    location_type: postcode
+  name: WILLAMETTE VALLEY DISTRICT SP
+  order: '0'
+  priority: '0'
+  rate: '0'
+  shipping: '0'
+  state: OR
+wootax/29208:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '97348'
+    location_type: postcode
+  name: WILLAMETTE VALLEY DISTRICT SP
+  order: '0'
+  priority: '0'
+  rate: '0'
+  shipping: '0'
+  state: OR
+wootax/29209:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '97350'
+    location_type: postcode
+  name: WILLAMETTE VALLEY DISTRICT SP
+  order: '0'
+  priority: '0'
+  rate: '0'
+  shipping: '0'
+  state: OR
+wootax/29210:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '97351'
+    location_type: postcode
+  name: WILLAMETTE VALLEY DISTRICT SP
+  order: '0'
+  priority: '0'
+  rate: '0'
+  shipping: '0'
+  state: OR
+wootax/29211:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '97352'
+    location_type: postcode
+  name: WILLAMETTE VALLEY DISTRICT SP
+  order: '0'
+  priority: '0'
+  rate: '0'
+  shipping: '0'
+  state: OR
+wootax/29212:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '97355'
+    location_type: postcode
+  name: WILLAMETTE VALLEY DISTRICT SP
+  order: '0'
+  priority: '0'
+  rate: '0'
+  shipping: '0'
+  state: OR
+wootax/29213:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '97357'
+    location_type: postcode
+  name: CENTRAL COAST DISTRICT SP
+  order: '0'
+  priority: '0'
+  rate: '0'
+  shipping: '0'
+  state: OR
+wootax/29214:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '97358'
+    location_type: postcode
+  name: WILLAMETTE VALLEY DISTRICT SP
+  order: '0'
+  priority: '0'
+  rate: '0'
+  shipping: '0'
+  state: OR
+wootax/29215:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '97360'
+    location_type: postcode
+  name: WILLAMETTE VALLEY DISTRICT SP
+  order: '0'
+  priority: '0'
+  rate: '0'
+  shipping: '0'
+  state: OR
+wootax/29216:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '97361'
+    location_type: postcode
+  name: WILLAMETTE VALLEY DISTRICT SP
+  order: '0'
+  priority: '0'
+  rate: '0'
+  shipping: '0'
+  state: OR
+wootax/29217:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '97362'
+    location_type: postcode
+  name: WILLAMETTE VALLEY DISTRICT SP
+  order: '0'
+  priority: '0'
+  rate: '0'
+  shipping: '0'
+  state: OR
+wootax/29218:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '97364'
+    location_type: postcode
+  name: CENTRAL COAST DISTRICT SP
+  order: '0'
+  priority: '0'
+  rate: '0'
+  shipping: '0'
+  state: OR
+wootax/29219:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '97365'
+    location_type: postcode
+  name: CENTRAL COAST DISTRICT SP
+  order: '0'
+  priority: '0'
+  rate: '0'
+  shipping: '0'
+  state: OR
+wootax/29220:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '97366'
+    location_type: postcode
+  name: CENTRAL COAST DISTRICT SP
+  order: '0'
+  priority: '0'
+  rate: '0'
+  shipping: '0'
+  state: OR
+wootax/29221:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '97367'
+    location_type: postcode
+  name: CENTRAL COAST DISTRICT SP
+  order: '0'
+  priority: '0'
+  rate: '0'
+  shipping: '0'
+  state: OR
+wootax/29222:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '97368'
+    location_type: postcode
+  name: CENTRAL COAST DISTRICT SP
+  order: '0'
+  priority: '0'
+  rate: '0'
+  shipping: '0'
+  state: OR
+wootax/29223:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '97369'
+    location_type: postcode
+  name: CENTRAL COAST DISTRICT SP
+  order: '0'
+  priority: '0'
+  rate: '0'
+  shipping: '0'
+  state: OR
+wootax/29224:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '97370'
+    location_type: postcode
+  name: WILLAMETTE VALLEY DISTRICT SP
+  order: '0'
+  priority: '0'
+  rate: '0'
+  shipping: '0'
+  state: OR
+wootax/29225:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '97371'
+    location_type: postcode
+  name: WILLAMETTE VALLEY DISTRICT SP
+  order: '0'
+  priority: '0'
+  rate: '0'
+  shipping: '0'
+  state: OR
+wootax/29226:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '97373'
+    location_type: postcode
+  name: WILLAMETTE VALLEY DISTRICT SP
+  order: '0'
+  priority: '0'
+  rate: '0'
+  shipping: '0'
+  state: OR
+wootax/29227:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '97374'
+    location_type: postcode
+  name: WILLAMETTE VALLEY DISTRICT SP
+  order: '0'
+  priority: '0'
+  rate: '0'
+  shipping: '0'
+  state: OR
+wootax/29228:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '97375'
+    location_type: postcode
+  name: WILLAMETTE VALLEY DISTRICT SP
+  order: '0'
+  priority: '0'
+  rate: '0'
+  shipping: '0'
+  state: OR
+wootax/29229:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '97376'
+    location_type: postcode
+  name: CENTRAL COAST DISTRICT SP
+  order: '0'
+  priority: '0'
+  rate: '0'
+  shipping: '0'
+  state: OR
+wootax/29230:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '97377'
+    location_type: postcode
+  name: WILLAMETTE VALLEY DISTRICT SP
+  order: '0'
+  priority: '0'
+  rate: '0'
+  shipping: '0'
+  state: OR
+wootax/29231:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '97378'
+    location_type: postcode
+  name: WILLAMETTE VALLEY DISTRICT SP
+  order: '0'
+  priority: '0'
+  rate: '0'
+  shipping: '0'
+  state: OR
+wootax/29232:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '97380'
+    location_type: postcode
+  name: CENTRAL COAST DISTRICT SP
+  order: '0'
+  priority: '0'
+  rate: '0'
+  shipping: '0'
+  state: OR
+wootax/29233:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '97381'
+    location_type: postcode
+  name: WILLAMETTE VALLEY DISTRICT SP
+  order: '0'
+  priority: '0'
+  rate: '0'
+  shipping: '0'
+  state: OR
+wootax/29234:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '97383'
+    location_type: postcode
+  name: WILLAMETTE VALLEY DISTRICT SP
+  order: '0'
+  priority: '0'
+  rate: '0'
+  shipping: '0'
+  state: OR
+wootax/29235:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '97384'
+    location_type: postcode
+  name: WILLAMETTE VALLEY DISTRICT SP
+  order: '0'
+  priority: '0'
+  rate: '0'
+  shipping: '0'
+  state: OR
+wootax/29236:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '97385'
+    location_type: postcode
+  name: WILLAMETTE VALLEY DISTRICT SP
+  order: '0'
+  priority: '0'
+  rate: '0'
+  shipping: '0'
+  state: OR
+wootax/29237:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '97386'
+    location_type: postcode
+  name: WILLAMETTE VALLEY DISTRICT SP
+  order: '0'
+  priority: '0'
+  rate: '0'
+  shipping: '0'
+  state: OR
+wootax/29238:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '97388'
+    location_type: postcode
+  name: CENTRAL COAST DISTRICT SP
+  order: '0'
+  priority: '0'
+  rate: '0'
+  shipping: '0'
+  state: OR
+wootax/29239:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '97389'
+    location_type: postcode
+  name: WILLAMETTE VALLEY DISTRICT SP
+  order: '0'
+  priority: '0'
+  rate: '0'
+  shipping: '0'
+  state: OR
+wootax/29240:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '97390'
+    location_type: postcode
+  name: CENTRAL COAST DISTRICT SP
+  order: '0'
+  priority: '0'
+  rate: '0'
+  shipping: '0'
+  state: OR
+wootax/29241:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '97391'
+    location_type: postcode
+  name: CENTRAL COAST DISTRICT SP
+  order: '0'
+  priority: '0'
+  rate: '0'
+  shipping: '0'
+  state: OR
+wootax/29242:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '97392'
+    location_type: postcode
+  name: WILLAMETTE VALLEY DISTRICT SP
+  order: '0'
+  priority: '0'
+  rate: '0'
+  shipping: '0'
+  state: OR
+wootax/29243:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '97394'
+    location_type: postcode
+  name: CENTRAL COAST DISTRICT SP
+  order: '0'
+  priority: '0'
+  rate: '0'
+  shipping: '0'
+  state: OR
+wootax/29244:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '97396'
+    location_type: postcode
+  name: WILLAMETTE VALLEY DISTRICT SP
+  order: '0'
+  priority: '0'
+  rate: '0'
+  shipping: '0'
+  state: OR
+wootax/29245:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '97401'
+    location_type: postcode
+  name: WILLAMETTE VALLEY DISTRICT SP
+  order: '0'
+  priority: '0'
+  rate: '0'
+  shipping: '0'
+  state: OR
+wootax/29246:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '97402'
+    location_type: postcode
+  name: WILLAMETTE VALLEY DISTRICT SP
+  order: '0'
+  priority: '0'
+  rate: '0'
+  shipping: '0'
+  state: OR
+wootax/29247:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '97403'
+    location_type: postcode
+  name: WILLAMETTE VALLEY DISTRICT SP
+  order: '0'
+  priority: '0'
+  rate: '0'
+  shipping: '0'
+  state: OR
+wootax/29248:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '97404'
+    location_type: postcode
+  name: WILLAMETTE VALLEY DISTRICT SP
+  order: '0'
+  priority: '0'
+  rate: '0'
+  shipping: '0'
+  state: OR
+wootax/29249:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '97405'
+    location_type: postcode
+  name: WILLAMETTE VALLEY DISTRICT SP
+  order: '0'
+  priority: '0'
+  rate: '0'
+  shipping: '0'
+  state: OR
+wootax/29250:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '97406'
+    location_type: postcode
+  name: SOUTH COAST DISTRICT SP
+  order: '0'
+  priority: '0'
+  rate: '0'
+  shipping: '0'
+  state: OR
+wootax/29251:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '97407'
+    location_type: postcode
+  name: SOUTH COAST DISTRICT SP
+  order: '0'
+  priority: '0'
+  rate: '0'
+  shipping: '0'
+  state: OR
+wootax/29252:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '97408'
+    location_type: postcode
+  name: WILLAMETTE VALLEY DISTRICT SP
+  order: '0'
+  priority: '0'
+  rate: '0'
+  shipping: '0'
+  state: OR
+wootax/29253:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '97409'
+    location_type: postcode
+  name: OREGON STATE
+  order: '0'
+  priority: '0'
+  rate: '0'
+  shipping: '0'
+  state: OR
+wootax/29254:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '97410'
+    location_type: postcode
+  name: DOUGLAS COUNTY
+  order: '0'
+  priority: '0'
+  rate: '0'
+  shipping: '0'
+  state: OR
+wootax/29255:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '97411'
+    location_type: postcode
+  name: SOUTH COAST DISTRICT SP
+  order: '0'
+  priority: '0'
+  rate: '0'
+  shipping: '0'
+  state: OR
+wootax/29256:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '97412'
+    location_type: postcode
+  name: WILLAMETTE VALLEY DISTRICT SP
+  order: '0'
+  priority: '0'
+  rate: '0'
+  shipping: '0'
+  state: OR
+wootax/29257:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '97413'
+    location_type: postcode
+  name: WILLAMETTE VALLEY DISTRICT SP
+  order: '0'
+  priority: '0'
+  rate: '0'
+  shipping: '0'
+  state: OR
+wootax/29258:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '97414'
+    location_type: postcode
+  name: SOUTH COAST DISTRICT SP
+  order: '0'
+  priority: '0'
+  rate: '0'
+  shipping: '0'
+  state: OR
+wootax/29259:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '97415'
+    location_type: postcode
+  name: SOUTH COAST DISTRICT SP
+  order: '0'
+  priority: '0'
+  rate: '0'
+  shipping: '0'
+  state: OR
+wootax/29260:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '97416'
+    location_type: postcode
+  name: DOUGLAS COUNTY
+  order: '0'
+  priority: '0'
+  rate: '0'
+  shipping: '0'
+  state: OR
+wootax/29261:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '97417'
+    location_type: postcode
+  name: SOUTHERN DISTRICT SP
+  order: '0'
+  priority: '0'
+  rate: '0'
+  shipping: '0'
+  state: OR
+wootax/29262:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '97419'
+    location_type: postcode
+  name: WILLAMETTE VALLEY DISTRICT SP
+  order: '0'
+  priority: '0'
+  rate: '0'
+  shipping: '0'
+  state: OR
+wootax/29263:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '97420'
+    location_type: postcode
+  name: SOUTH COAST DISTRICT SP
+  order: '0'
+  priority: '0'
+  rate: '0'
+  shipping: '0'
+  state: OR
+wootax/29264:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '97423'
+    location_type: postcode
+  name: COQUILLE
+  order: '0'
+  priority: '0'
+  rate: '0'
+  shipping: '0'
+  state: OR
+wootax/29265:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '97424'
+    location_type: postcode
+  name: WILLAMETTE VALLEY DISTRICT SP
+  order: '0'
+  priority: '0'
+  rate: '0'
+  shipping: '0'
+  state: OR
+wootax/29266:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '97426'
+    location_type: postcode
+  name: WILLAMETTE VALLEY DISTRICT SP
+  order: '0'
+  priority: '0'
+  rate: '0'
+  shipping: '0'
+  state: OR
+wootax/29267:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '97429'
+    location_type: postcode
+  name: DOUGLAS COUNTY
+  order: '0'
+  priority: '0'
+  rate: '0'
+  shipping: '0'
+  state: OR
+wootax/29268:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '97430'
+    location_type: postcode
+  name: WILLAMETTE VALLEY DISTRICT SP
+  order: '0'
+  priority: '0'
+  rate: '0'
+  shipping: '0'
+  state: OR
+wootax/29269:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '97431'
+    location_type: postcode
+  name: WILLAMETTE VALLEY DISTRICT SP
+  order: '0'
+  priority: '0'
+  rate: '0'
+  shipping: '0'
+  state: OR
+wootax/29270:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '97432'
+    location_type: postcode
+  name: DOUGLAS COUNTY
+  order: '0'
+  priority: '0'
+  rate: '0'
+  shipping: '0'
+  state: OR
+wootax/29271:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '97434'
+    location_type: postcode
+  name: WILLAMETTE VALLEY DISTRICT SP
+  order: '0'
+  priority: '0'
+  rate: '0'
+  shipping: '0'
+  state: OR
+wootax/29272:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '97435'
+    location_type: postcode
+  name: DOUGLAS COUNTY
+  order: '0'
+  priority: '0'
+  rate: '0'
+  shipping: '0'
+  state: OR
+wootax/29273:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '97436'
+    location_type: postcode
+  name: DOUGLAS COUNTY
+  order: '0'
+  priority: '0'
+  rate: '0'
+  shipping: '0'
+  state: OR
+wootax/29274:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '97437'
+    location_type: postcode
+  name: WILLAMETTE VALLEY DISTRICT SP
+  order: '0'
+  priority: '0'
+  rate: '0'
+  shipping: '0'
+  state: OR
+wootax/29275:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '97438'
+    location_type: postcode
+  name: WILLAMETTE VALLEY DISTRICT SP
+  order: '0'
+  priority: '0'
+  rate: '0'
+  shipping: '0'
+  state: OR
+wootax/29276:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '97439'
+    location_type: postcode
+  name: CENTRAL COAST DISTRICT SP
+  order: '0'
+  priority: '0'
+  rate: '0'
+  shipping: '0'
+  state: OR
+wootax/29277:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '97440'
+    location_type: postcode
+  name: WILLAMETTE VALLEY DISTRICT SP
+  order: '0'
+  priority: '0'
+  rate: '0'
+  shipping: '0'
+  state: OR
+wootax/29278:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '97441'
+    location_type: postcode
+  name: CENTRAL COAST DISTRICT SP
+  order: '0'
+  priority: '0'
+  rate: '0'
+  shipping: '0'
+  state: OR
+wootax/29279:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '97442'
+    location_type: postcode
+  name: DOUGLAS COUNTY
+  order: '0'
+  priority: '0'
+  rate: '0'
+  shipping: '0'
+  state: OR
+wootax/29280:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '97443'
+    location_type: postcode
+  name: DOUGLAS COUNTY
+  order: '0'
+  priority: '0'
+  rate: '0'
+  shipping: '0'
+  state: OR
+wootax/29281:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '97444'
+    location_type: postcode
+  name: SOUTH COAST DISTRICT SP
+  order: '0'
+  priority: '0'
+  rate: '0'
+  shipping: '0'
+  state: OR
+wootax/29282:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '97446'
+    location_type: postcode
+  name: WILLAMETTE VALLEY DISTRICT SP
+  order: '0'
+  priority: '0'
+  rate: '0'
+  shipping: '0'
+  state: OR
+wootax/29283:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '97447'
+    location_type: postcode
+  name: DOUGLAS COUNTY
+  order: '0'
+  priority: '0'
+  rate: '0'
+  shipping: '0'
+  state: OR
+wootax/29284:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '97448'
+    location_type: postcode
+  name: WILLAMETTE VALLEY DISTRICT SP
+  order: '0'
+  priority: '0'
+  rate: '0'
+  shipping: '0'
+  state: OR
+wootax/29285:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '97449'
+    location_type: postcode
+  name: SOUTH COAST DISTRICT SP
+  order: '0'
+  priority: '0'
+  rate: '0'
+  shipping: '0'
+  state: OR
+wootax/29286:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '97450'
+    location_type: postcode
+  name: SOUTH COAST DISTRICT SP
+  order: '0'
+  priority: '0'
+  rate: '0'
+  shipping: '0'
+  state: OR
+wootax/29287:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '97451'
+    location_type: postcode
+  name: WILLAMETTE VALLEY DISTRICT SP
+  order: '0'
+  priority: '0'
+  rate: '0'
+  shipping: '0'
+  state: OR
+wootax/29288:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '97452'
+    location_type: postcode
+  name: WILLAMETTE VALLEY DISTRICT SP
+  order: '0'
+  priority: '0'
+  rate: '0'
+  shipping: '0'
+  state: OR
+wootax/29289:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '97453'
+    location_type: postcode
+  name: CENTRAL COAST DISTRICT SP
+  order: '0'
+  priority: '0'
+  rate: '0'
+  shipping: '0'
+  state: OR
+wootax/29290:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '97454'
+    location_type: postcode
+  name: WILLAMETTE VALLEY DISTRICT SP
+  order: '0'
+  priority: '0'
+  rate: '0'
+  shipping: '0'
+  state: OR
+wootax/29291:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '97455'
+    location_type: postcode
+  name: WILLAMETTE VALLEY DISTRICT SP
+  order: '0'
+  priority: '0'
+  rate: '0'
+  shipping: '0'
+  state: OR
+wootax/29292:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '97456'
+    location_type: postcode
+  name: WILLAMETTE VALLEY DISTRICT SP
+  order: '0'
+  priority: '0'
+  rate: '0'
+  shipping: '0'
+  state: OR
+wootax/29293:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '97457'
+    location_type: postcode
+  name: DOUGLAS COUNTY
+  order: '0'
+  priority: '0'
+  rate: '0'
+  shipping: '0'
+  state: OR
+wootax/29294:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '97458'
+    location_type: postcode
+  name: SOUTH COAST DISTRICT SP
+  order: '0'
+  priority: '0'
+  rate: '0'
+  shipping: '0'
+  state: OR
+wootax/29295:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '97459'
+    location_type: postcode
+  name: SOUTH COAST DISTRICT SP
+  order: '0'
+  priority: '0'
+  rate: '0'
+  shipping: '0'
+  state: OR
+wootax/29296:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '97461'
+    location_type: postcode
+  name: WILLAMETTE VALLEY DISTRICT SP
+  order: '0'
+  priority: '0'
+  rate: '0'
+  shipping: '0'
+  state: OR
+wootax/29297:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '97462'
+    location_type: postcode
+  name: DOUGLAS COUNTY
+  order: '0'
+  priority: '0'
+  rate: '0'
+  shipping: '0'
+  state: OR
+wootax/29298:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '97463'
+    location_type: postcode
+  name: WILLAMETTE VALLEY DISTRICT SP
+  order: '0'
+  priority: '0'
+  rate: '0'
+  shipping: '0'
+  state: OR
+wootax/29299:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '97464'
+    location_type: postcode
+  name: SOUTH COAST DISTRICT SP
+  order: '0'
+  priority: '0'
+  rate: '0'
+  shipping: '0'
+  state: OR
+wootax/29300:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '97465'
+    location_type: postcode
+  name: SOUTH COAST DISTRICT SP
+  order: '0'
+  priority: '0'
+  rate: '0'
+  shipping: '0'
+  state: OR
+wootax/29301:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '97466'
+    location_type: postcode
+  name: SOUTH COAST DISTRICT SP
+  order: '0'
+  priority: '0'
+  rate: '0'
+  shipping: '0'
+  state: OR
+wootax/29302:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '97467'
+    location_type: postcode
+  name: CENTRAL COAST DISTRICT SP
+  order: '0'
+  priority: '0'
+  rate: '0'
+  shipping: '0'
+  state: OR
+wootax/29303:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '97469'
+    location_type: postcode
+  name: SOUTHERN DISTRICT SP
+  order: '0'
+  priority: '0'
+  rate: '0'
+  shipping: '0'
+  state: OR
+wootax/29304:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '97470'
+    location_type: postcode
+  name: SOUTHERN DISTRICT SP
+  order: '0'
+  priority: '0'
+  rate: '0'
+  shipping: '0'
+  state: OR
+wootax/29305:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '97471'
+    location_type: postcode
+  name: DOUGLAS COUNTY
+  order: '0'
+  priority: '0'
+  rate: '0'
+  shipping: '0'
+  state: OR
+wootax/29306:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '97473'
+    location_type: postcode
+  name: CENTRAL COAST DISTRICT SP
+  order: '0'
+  priority: '0'
+  rate: '0'
+  shipping: '0'
+  state: OR
+wootax/29307:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '97475'
+    location_type: postcode
+  name: WILLAMETTE VALLEY DISTRICT SP
+  order: '0'
+  priority: '0'
+  rate: '0'
+  shipping: '0'
+  state: OR
+wootax/29308:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '97476'
+    location_type: postcode
+  name: SOUTH COAST DISTRICT SP
+  order: '0'
+  priority: '0'
+  rate: '0'
+  shipping: '0'
+  state: OR
+wootax/29309:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '97477'
+    location_type: postcode
+  name: WILLAMETTE VALLEY DISTRICT SP
+  order: '0'
+  priority: '0'
+  rate: '0'
+  shipping: '0'
+  state: OR
+wootax/29310:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '97478'
+    location_type: postcode
+  name: WILLAMETTE VALLEY DISTRICT SP
+  order: '0'
+  priority: '0'
+  rate: '0'
+  shipping: '0'
+  state: OR
+wootax/29311:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '97479'
+    location_type: postcode
+  name: SOUTHERN DISTRICT SP
+  order: '0'
+  priority: '0'
+  rate: '0'
+  shipping: '0'
+  state: OR
+wootax/29312:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '97480'
+    location_type: postcode
+  name: WILLAMETTE VALLEY DISTRICT SP
+  order: '0'
+  priority: '0'
+  rate: '0'
+  shipping: '0'
+  state: OR
+wootax/29313:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '97481'
+    location_type: postcode
+  name: DOUGLAS COUNTY
+  order: '0'
+  priority: '0'
+  rate: '0'
+  shipping: '0'
+  state: OR
+wootax/29314:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '97484'
+    location_type: postcode
+  name: DOUGLAS COUNTY
+  order: '0'
+  priority: '0'
+  rate: '0'
+  shipping: '0'
+  state: OR
+wootax/29315:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '97486'
+    location_type: postcode
+  name: DOUGLAS COUNTY
+  order: '0'
+  priority: '0'
+  rate: '0'
+  shipping: '0'
+  state: OR
+wootax/29316:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '97487'
+    location_type: postcode
+  name: WILLAMETTE VALLEY DISTRICT SP
+  order: '0'
+  priority: '0'
+  rate: '0'
+  shipping: '0'
+  state: OR
+wootax/29317:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '97488'
+    location_type: postcode
+  name: WILLAMETTE VALLEY DISTRICT SP
+  order: '0'
+  priority: '0'
+  rate: '0'
+  shipping: '0'
+  state: OR
+wootax/29318:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '97489'
+    location_type: postcode
+  name: WILLAMETTE VALLEY DISTRICT SP
+  order: '0'
+  priority: '0'
+  rate: '0'
+  shipping: '0'
+  state: OR
+wootax/29319:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '97490'
+    location_type: postcode
+  name: WILLAMETTE VALLEY DISTRICT SP
+  order: '0'
+  priority: '0'
+  rate: '0'
+  shipping: '0'
+  state: OR
+wootax/29320:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '97491'
+    location_type: postcode
+  name: OREGON STATE
+  order: '0'
+  priority: '0'
+  rate: '0'
+  shipping: '0'
+  state: OR
+wootax/29321:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '97492'
+    location_type: postcode
+  name: WILLAMETTE VALLEY DISTRICT SP
+  order: '0'
+  priority: '0'
+  rate: '0'
+  shipping: '0'
+  state: OR
+wootax/29322:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '97493'
+    location_type: postcode
+  name: CENTRAL COAST DISTRICT SP
+  order: '0'
+  priority: '0'
+  rate: '0'
+  shipping: '0'
+  state: OR
+wootax/29323:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '97494'
+    location_type: postcode
+  name: DOUGLAS COUNTY
+  order: '0'
+  priority: '0'
+  rate: '0'
+  shipping: '0'
+  state: OR
+wootax/29324:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '97495'
+    location_type: postcode
+  name: DOUGLAS COUNTY
+  order: '0'
+  priority: '0'
+  rate: '0'
+  shipping: '0'
+  state: OR
+wootax/29325:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '97496'
+    location_type: postcode
+  name: SOUTHERN DISTRICT SP
+  order: '0'
+  priority: '0'
+  rate: '0'
+  shipping: '0'
+  state: OR
+wootax/29326:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '97497'
+    location_type: postcode
+  name: SOUTHERN DISTRICT SP
+  order: '0'
+  priority: '0'
+  rate: '0'
+  shipping: '0'
+  state: OR
+wootax/29327:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '97498'
+    location_type: postcode
+  name: CENTRAL COAST DISTRICT SP
+  order: '0'
+  priority: '0'
+  rate: '0'
+  shipping: '0'
+  state: OR
+wootax/29328:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '97499'
+    location_type: postcode
+  name: DOUGLAS COUNTY
+  order: '0'
+  priority: '0'
+  rate: '0'
+  shipping: '0'
+  state: OR
+wootax/29329:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '97501'
+    location_type: postcode
+  name: SOUTHERN DISTRICT SP
+  order: '0'
+  priority: '0'
+  rate: '0'
+  shipping: '0'
+  state: OR
+wootax/29330:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '97502'
+    location_type: postcode
+  name: SOUTHERN DISTRICT SP
+  order: '0'
+  priority: '0'
+  rate: '0'
+  shipping: '0'
+  state: OR
+wootax/29331:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '97503'
+    location_type: postcode
+  name: SOUTHERN DISTRICT SP
+  order: '0'
+  priority: '0'
+  rate: '0'
+  shipping: '0'
+  state: OR
+wootax/29332:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '97504'
+    location_type: postcode
+  name: SOUTHERN DISTRICT SP
+  order: '0'
+  priority: '0'
+  rate: '0'
+  shipping: '0'
+  state: OR
+wootax/29333:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '97520'
+    location_type: postcode
+  name: SOUTHERN DISTRICT SP
+  order: '0'
+  priority: '0'
+  rate: '0'
+  shipping: '0'
+  state: OR
+wootax/29334:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '97522'
+    location_type: postcode
+  name: SOUTHERN DISTRICT SP
+  order: '0'
+  priority: '0'
+  rate: '0'
+  shipping: '0'
+  state: OR
+wootax/29335:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '97523'
+    location_type: postcode
+  name: SOUTHERN DISTRICT SP
+  order: '0'
+  priority: '0'
+  rate: '0'
+  shipping: '0'
+  state: OR
+wootax/29336:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '97524'
+    location_type: postcode
+  name: SOUTHERN DISTRICT SP
+  order: '0'
+  priority: '0'
+  rate: '0'
+  shipping: '0'
+  state: OR
+wootax/29337:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '97525'
+    location_type: postcode
+  name: SOUTHERN DISTRICT SP
+  order: '0'
+  priority: '0'
+  rate: '0'
+  shipping: '0'
+  state: OR
+wootax/29338:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '97526'
+    location_type: postcode
+  name: SOUTHERN DISTRICT SP
+  order: '0'
+  priority: '0'
+  rate: '0'
+  shipping: '0'
+  state: OR
+wootax/29339:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '97527'
+    location_type: postcode
+  name: SOUTHERN DISTRICT SP
+  order: '0'
+  priority: '0'
+  rate: '0'
+  shipping: '0'
+  state: OR
+wootax/29340:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '97528'
+    location_type: postcode
+  name: SOUTHERN DISTRICT SP
+  order: '0'
+  priority: '0'
+  rate: '0'
+  shipping: '0'
+  state: OR
+wootax/29341:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '97530'
+    location_type: postcode
+  name: SOUTHERN DISTRICT SP
+  order: '0'
+  priority: '0'
+  rate: '0'
+  shipping: '0'
+  state: OR
+wootax/29342:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '97531'
+    location_type: postcode
+  name: SOUTHERN DISTRICT SP
+  order: '0'
+  priority: '0'
+  rate: '0'
+  shipping: '0'
+  state: OR
+wootax/29343:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '97532'
+    location_type: postcode
+  name: SOUTHERN DISTRICT SP
+  order: '0'
+  priority: '0'
+  rate: '0'
+  shipping: '0'
+  state: OR
+wootax/29344:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '97533'
+    location_type: postcode
+  name: OREGON STATE
+  order: '0'
+  priority: '0'
+  rate: '0'
+  shipping: '0'
+  state: OR
+wootax/29345:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '97534'
+    location_type: postcode
+  name: SOUTHERN DISTRICT SP
+  order: '0'
+  priority: '0'
+  rate: '0'
+  shipping: '0'
+  state: OR
+wootax/29346:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '97535'
+    location_type: postcode
+  name: SOUTHERN DISTRICT SP
+  order: '0'
+  priority: '0'
+  rate: '0'
+  shipping: '0'
+  state: OR
+wootax/29347:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '97536'
+    location_type: postcode
+  name: SOUTHERN DISTRICT SP
+  order: '0'
+  priority: '0'
+  rate: '0'
+  shipping: '0'
+  state: OR
+wootax/29348:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '97537'
+    location_type: postcode
+  name: SOUTHERN DISTRICT SP
+  order: '0'
+  priority: '0'
+  rate: '0'
+  shipping: '0'
+  state: OR
+wootax/29349:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '97538'
+    location_type: postcode
+  name: SOUTHERN DISTRICT SP
+  order: '0'
+  priority: '0'
+  rate: '0'
+  shipping: '0'
+  state: OR
+wootax/29350:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '97539'
+    location_type: postcode
+  name: SOUTHERN DISTRICT SP
+  order: '0'
+  priority: '0'
+  rate: '0'
+  shipping: '0'
+  state: OR
+wootax/29351:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '97540'
+    location_type: postcode
+  name: SOUTHERN DISTRICT SP
+  order: '0'
+  priority: '0'
+  rate: '0'
+  shipping: '0'
+  state: OR
+wootax/29352:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '97541'
+    location_type: postcode
+  name: SOUTHERN DISTRICT SP
+  order: '0'
+  priority: '0'
+  rate: '0'
+  shipping: '0'
+  state: OR
+wootax/29353:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '97543'
+    location_type: postcode
+  name: SOUTHERN DISTRICT SP
+  order: '0'
+  priority: '0'
+  rate: '0'
+  shipping: '0'
+  state: OR
+wootax/29354:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '97544'
+    location_type: postcode
+  name: SOUTHERN DISTRICT SP
+  order: '0'
+  priority: '0'
+  rate: '0'
+  shipping: '0'
+  state: OR
+wootax/29355:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '97601'
+    location_type: postcode
+  name: SOUTHERN DISTRICT SP
+  order: '0'
+  priority: '0'
+  rate: '0'
+  shipping: '0'
+  state: OR
+wootax/29356:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '97602'
+    location_type: postcode
+  name: SOUTHERN DISTRICT SP
+  order: '0'
+  priority: '0'
+  rate: '0'
+  shipping: '0'
+  state: OR
+wootax/29357:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '97603'
+    location_type: postcode
+  name: SOUTHERN DISTRICT SP
+  order: '0'
+  priority: '0'
+  rate: '0'
+  shipping: '0'
+  state: OR
+wootax/29358:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '97604'
+    location_type: postcode
+  name: OREGON STATE
+  order: '0'
+  priority: '0'
+  rate: '0'
+  shipping: '0'
+  state: OR
+wootax/29359:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '97620'
+    location_type: postcode
+  name: SOUTHEASTERN DISTRICT SP
+  order: '0'
+  priority: '0'
+  rate: '0'
+  shipping: '0'
+  state: OR
+wootax/29360:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '97621'
+    location_type: postcode
+  name: SOUTHERN DISTRICT SP
+  order: '0'
+  priority: '0'
+  rate: '0'
+  shipping: '0'
+  state: OR
+wootax/29361:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '97622'
+    location_type: postcode
+  name: SOUTHERN DISTRICT SP
+  order: '0'
+  priority: '0'
+  rate: '0'
+  shipping: '0'
+  state: OR
+wootax/29362:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '97623'
+    location_type: postcode
+  name: SOUTHERN DISTRICT SP
+  order: '0'
+  priority: '0'
+  rate: '0'
+  shipping: '0'
+  state: OR
+wootax/29363:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '97624'
+    location_type: postcode
+  name: SOUTHERN DISTRICT SP
+  order: '0'
+  priority: '0'
+  rate: '0'
+  shipping: '0'
+  state: OR
+wootax/29364:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '97625'
+    location_type: postcode
+  name: SOUTHERN DISTRICT SP
+  order: '0'
+  priority: '0'
+  rate: '0'
+  shipping: '0'
+  state: OR
+wootax/29365:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '97626'
+    location_type: postcode
+  name: SOUTHERN DISTRICT SP
+  order: '0'
+  priority: '0'
+  rate: '0'
+  shipping: '0'
+  state: OR
+wootax/29366:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '97627'
+    location_type: postcode
+  name: SOUTHERN DISTRICT SP
+  order: '0'
+  priority: '0'
+  rate: '0'
+  shipping: '0'
+  state: OR
+wootax/29367:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '97630'
+    location_type: postcode
+  name: SOUTHEASTERN DISTRICT SP
+  order: '0'
+  priority: '0'
+  rate: '0'
+  shipping: '0'
+  state: OR
+wootax/29368:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '97632'
+    location_type: postcode
+  name: SOUTHERN DISTRICT SP
+  order: '0'
+  priority: '0'
+  rate: '0'
+  shipping: '0'
+  state: OR
+wootax/29369:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '97633'
+    location_type: postcode
+  name: SOUTHERN DISTRICT SP
+  order: '0'
+  priority: '0'
+  rate: '0'
+  shipping: '0'
+  state: OR
+wootax/29370:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '97634'
+    location_type: postcode
+  name: OREGON STATE
+  order: '0'
+  priority: '0'
+  rate: '0'
+  shipping: '0'
+  state: OR
+wootax/29371:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '97635'
+    location_type: postcode
+  name: SOUTHEASTERN DISTRICT SP
+  order: '0'
+  priority: '0'
+  rate: '0'
+  shipping: '0'
+  state: OR
+wootax/29372:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '97636'
+    location_type: postcode
+  name: SOUTHEASTERN DISTRICT SP
+  order: '0'
+  priority: '0'
+  rate: '0'
+  shipping: '0'
+  state: OR
+wootax/29373:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '97637'
+    location_type: postcode
+  name: SOUTHEASTERN DISTRICT SP
+  order: '0'
+  priority: '0'
+  rate: '0'
+  shipping: '0'
+  state: OR
+wootax/29374:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '97638'
+    location_type: postcode
+  name: SOUTHEASTERN DISTRICT SP
+  order: '0'
+  priority: '0'
+  rate: '0'
+  shipping: '0'
+  state: OR
+wootax/29375:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '97639'
+    location_type: postcode
+  name: SOUTHERN DISTRICT SP
+  order: '0'
+  priority: '0'
+  rate: '0'
+  shipping: '0'
+  state: OR
+wootax/29376:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '97640'
+    location_type: postcode
+  name: SOUTHEASTERN DISTRICT SP
+  order: '0'
+  priority: '0'
+  rate: '0'
+  shipping: '0'
+  state: OR
+wootax/29377:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '97641'
+    location_type: postcode
+  name: SOUTHEASTERN DISTRICT SP
+  order: '0'
+  priority: '0'
+  rate: '0'
+  shipping: '0'
+  state: OR
+wootax/29378:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '97701'
+    location_type: postcode
+  name: CENTRAL DISTRICT SP
+  order: '0'
+  priority: '0'
+  rate: '0'
+  shipping: '0'
+  state: OR
+wootax/29379:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '97702'
+    location_type: postcode
+  name: CENTRAL DISTRICT SP
+  order: '0'
+  priority: '0'
+  rate: '0'
+  shipping: '0'
+  state: OR
+wootax/29380:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '97703'
+    location_type: postcode
+  name: CENTRAL DISTRICT SP
+  order: '0'
+  priority: '0'
+  rate: '0'
+  shipping: '0'
+  state: OR
+wootax/29381:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '97707'
+    location_type: postcode
+  name: CENTRAL DISTRICT SP
+  order: '0'
+  priority: '0'
+  rate: '0'
+  shipping: '0'
+  state: OR
+wootax/29382:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '97708'
+    location_type: postcode
+  name: CENTRAL DISTRICT SP
+  order: '0'
+  priority: '0'
+  rate: '0'
+  shipping: '0'
+  state: OR
+wootax/29383:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '97709'
+    location_type: postcode
+  name: CENTRAL DISTRICT SP
+  order: '0'
+  priority: '0'
+  rate: '0'
+  shipping: '0'
+  state: OR
+wootax/29384:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '97710'
+    location_type: postcode
+  name: SOUTHEASTERN DISTRICT SP
+  order: '0'
+  priority: '0'
+  rate: '0'
+  shipping: '0'
+  state: OR
+wootax/29385:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '97711'
+    location_type: postcode
+  name: CENTRAL DISTRICT SP
+  order: '0'
+  priority: '0'
+  rate: '0'
+  shipping: '0'
+  state: OR
+wootax/29386:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '97712'
+    location_type: postcode
+  name: CENTRAL DISTRICT SP
+  order: '0'
+  priority: '0'
+  rate: '0'
+  shipping: '0'
+  state: OR
+wootax/29387:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '97720'
+    location_type: postcode
+  name: SOUTHEASTERN DISTRICT SP
+  order: '0'
+  priority: '0'
+  rate: '0'
+  shipping: '0'
+  state: OR
+wootax/29388:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '97721'
+    location_type: postcode
+  name: SOUTHEASTERN DISTRICT SP
+  order: '0'
+  priority: '0'
+  rate: '0'
+  shipping: '0'
+  state: OR
+wootax/29389:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '97722'
+    location_type: postcode
+  name: SOUTHEASTERN DISTRICT SP
+  order: '0'
+  priority: '0'
+  rate: '0'
+  shipping: '0'
+  state: OR
+wootax/29390:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '97730'
+    location_type: postcode
+  name: CENTRAL DISTRICT SP
+  order: '0'
+  priority: '0'
+  rate: '0'
+  shipping: '0'
+  state: OR
+wootax/29391:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '97731'
+    location_type: postcode
+  name: SOUTHERN DISTRICT SP
+  order: '0'
+  priority: '0'
+  rate: '0'
+  shipping: '0'
+  state: OR
+wootax/29392:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '97732'
+    location_type: postcode
+  name: SOUTHEASTERN DISTRICT SP
+  order: '0'
+  priority: '0'
+  rate: '0'
+  shipping: '0'
+  state: OR
+wootax/29393:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '97733'
+    location_type: postcode
+  name: SOUTHERN DISTRICT SP
+  order: '0'
+  priority: '0'
+  rate: '0'
+  shipping: '0'
+  state: OR
+wootax/29394:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '97734'
+    location_type: postcode
+  name: CENTRAL DISTRICT SP
+  order: '0'
+  priority: '0'
+  rate: '0'
+  shipping: '0'
+  state: OR
+wootax/29395:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '97735'
+    location_type: postcode
+  name: SOUTHERN DISTRICT SP
+  order: '0'
+  priority: '0'
+  rate: '0'
+  shipping: '0'
+  state: OR
+wootax/29396:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '97736'
+    location_type: postcode
+  name: SOUTHEASTERN DISTRICT SP
+  order: '0'
+  priority: '0'
+  rate: '0'
+  shipping: '0'
+  state: OR
+wootax/29397:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '97737'
+    location_type: postcode
+  name: SOUTHERN DISTRICT SP
+  order: '0'
+  priority: '0'
+  rate: '0'
+  shipping: '0'
+  state: OR
+wootax/29398:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '97738'
+    location_type: postcode
+  name: SOUTHEASTERN DISTRICT SP
+  order: '0'
+  priority: '0'
+  rate: '0'
+  shipping: '0'
+  state: OR
+wootax/29399:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '97739'
+    location_type: postcode
+  name: CENTRAL DISTRICT SP
+  order: '0'
+  priority: '0'
+  rate: '0'
+  shipping: '0'
+  state: OR
+wootax/29400:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '97741'
+    location_type: postcode
+  name: CENTRAL DISTRICT SP
+  order: '0'
+  priority: '0'
+  rate: '0'
+  shipping: '0'
+  state: OR
+wootax/29401:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '97750'
+    location_type: postcode
+  name: NORTH EASTERN DISTRICT SP
+  order: '0'
+  priority: '0'
+  rate: '0'
+  shipping: '0'
+  state: OR
+wootax/29402:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '97751'
+    location_type: postcode
+  name: CENTRAL DISTRICT SP
+  order: '0'
+  priority: '0'
+  rate: '0'
+  shipping: '0'
+  state: OR
+wootax/29403:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '97752'
+    location_type: postcode
+  name: CENTRAL DISTRICT SP
+  order: '0'
+  priority: '0'
+  rate: '0'
+  shipping: '0'
+  state: OR
+wootax/29404:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '97753'
+    location_type: postcode
+  name: CENTRAL DISTRICT SP
+  order: '0'
+  priority: '0'
+  rate: '0'
+  shipping: '0'
+  state: OR
+wootax/29405:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '97754'
+    location_type: postcode
+  name: CENTRAL DISTRICT SP
+  order: '0'
+  priority: '0'
+  rate: '0'
+  shipping: '0'
+  state: OR
+wootax/29406:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '97756'
+    location_type: postcode
+  name: CENTRAL DISTRICT SP
+  order: '0'
+  priority: '0'
+  rate: '0'
+  shipping: '0'
+  state: OR
+wootax/29407:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '97758'
+    location_type: postcode
+  name: SOUTHEASTERN DISTRICT SP
+  order: '0'
+  priority: '0'
+  rate: '0'
+  shipping: '0'
+  state: OR
+wootax/29408:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '97759'
+    location_type: postcode
+  name: CENTRAL DISTRICT SP
+  order: '0'
+  priority: '0'
+  rate: '0'
+  shipping: '0'
+  state: OR
+wootax/29409:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '97760'
+    location_type: postcode
+  name: CENTRAL DISTRICT SP
+  order: '0'
+  priority: '0'
+  rate: '0'
+  shipping: '0'
+  state: OR
+wootax/29410:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '97761'
+    location_type: postcode
+  name: CENTRAL DISTRICT SP
+  order: '0'
+  priority: '0'
+  rate: '0'
+  shipping: '0'
+  state: OR
+wootax/29411:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '97801'
+    location_type: postcode
+  name: NORTH EASTERN DISTRICT SP
+  order: '0'
+  priority: '0'
+  rate: '0'
+  shipping: '0'
+  state: OR
+wootax/29412:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '97810'
+    location_type: postcode
+  name: NORTH EASTERN DISTRICT SP
+  order: '0'
+  priority: '0'
+  rate: '0'
+  shipping: '0'
+  state: OR
+wootax/29413:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '97812'
+    location_type: postcode
+  name: NORTH EASTERN DISTRICT SP
+  order: '0'
+  priority: '0'
+  rate: '0'
+  shipping: '0'
+  state: OR
+wootax/29414:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '97813'
+    location_type: postcode
+  name: NORTH EASTERN DISTRICT SP
+  order: '0'
+  priority: '0'
+  rate: '0'
+  shipping: '0'
+  state: OR
+wootax/29415:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '97814'
+    location_type: postcode
+  name: NORTH EASTERN DISTRICT SP
+  order: '0'
+  priority: '0'
+  rate: '0'
+  shipping: '0'
+  state: OR
+wootax/29416:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '97817'
+    location_type: postcode
+  name: NORTH EASTERN DISTRICT SP
+  order: '0'
+  priority: '0'
+  rate: '0'
+  shipping: '0'
+  state: OR
+wootax/29417:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '97818'
+    location_type: postcode
+  name: NORTH EASTERN DISTRICT SP
+  order: '0'
+  priority: '0'
+  rate: '0'
+  shipping: '0'
+  state: OR
+wootax/29418:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '97819'
+    location_type: postcode
+  name: NORTH EASTERN DISTRICT SP
+  order: '0'
+  priority: '0'
+  rate: '0'
+  shipping: '0'
+  state: OR
+wootax/29419:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '97820'
+    location_type: postcode
+  name: NORTH EASTERN DISTRICT SP
+  order: '0'
+  priority: '0'
+  rate: '0'
+  shipping: '0'
+  state: OR
+wootax/29420:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '97823'
+    location_type: postcode
+  name: NORTH EASTERN DISTRICT SP
+  order: '0'
+  priority: '0'
+  rate: '0'
+  shipping: '0'
+  state: OR
+wootax/29421:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '97824'
+    location_type: postcode
+  name: NORTH EASTERN DISTRICT SP
+  order: '0'
+  priority: '0'
+  rate: '0'
+  shipping: '0'
+  state: OR
+wootax/29422:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '97825'
+    location_type: postcode
+  name: NORTH EASTERN DISTRICT SP
+  order: '0'
+  priority: '0'
+  rate: '0'
+  shipping: '0'
+  state: OR
+wootax/29423:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '97826'
+    location_type: postcode
+  name: NORTH EASTERN DISTRICT SP
+  order: '0'
+  priority: '0'
+  rate: '0'
+  shipping: '0'
+  state: OR
+wootax/29424:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '97827'
+    location_type: postcode
+  name: NORTH EASTERN DISTRICT SP
+  order: '0'
+  priority: '0'
+  rate: '0'
+  shipping: '0'
+  state: OR
+wootax/29425:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '97828'
+    location_type: postcode
+  name: NORTH EASTERN DISTRICT SP
+  order: '0'
+  priority: '0'
+  rate: '0'
+  shipping: '0'
+  state: OR
+wootax/29426:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '97830'
+    location_type: postcode
+  name: NORTH EASTERN DISTRICT SP
+  order: '0'
+  priority: '0'
+  rate: '0'
+  shipping: '0'
+  state: OR
+wootax/29427:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '97833'
+    location_type: postcode
+  name: NORTH EASTERN DISTRICT SP
+  order: '0'
+  priority: '0'
+  rate: '0'
+  shipping: '0'
+  state: OR
+wootax/29428:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '97834'
+    location_type: postcode
+  name: NORTH EASTERN DISTRICT SP
+  order: '0'
+  priority: '0'
+  rate: '0'
+  shipping: '0'
+  state: OR
+wootax/29429:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '97835'
+    location_type: postcode
+  name: NORTH EASTERN DISTRICT SP
+  order: '0'
+  priority: '0'
+  rate: '0'
+  shipping: '0'
+  state: OR
+wootax/29430:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '97836'
+    location_type: postcode
+  name: MORROW COUNTY
+  order: '0'
+  priority: '0'
+  rate: '0'
+  shipping: '0'
+  state: OR
+wootax/29431:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '97837'
+    location_type: postcode
+  name: NORTH EASTERN DISTRICT SP
+  order: '0'
+  priority: '0'
+  rate: '0'
+  shipping: '0'
+  state: OR
+wootax/29432:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '97838'
+    location_type: postcode
+  name: NORTH EASTERN DISTRICT SP
+  order: '0'
+  priority: '0'
+  rate: '0'
+  shipping: '0'
+  state: OR
+wootax/29433:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '97839'
+    location_type: postcode
+  name: MORROW COUNTY
+  order: '0'
+  priority: '0'
+  rate: '0'
+  shipping: '0'
+  state: OR
+wootax/29434:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '97840'
+    location_type: postcode
+  name: NORTH EASTERN DISTRICT SP
+  order: '0'
+  priority: '0'
+  rate: '0'
+  shipping: '0'
+  state: OR
+wootax/29435:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '97841'
+    location_type: postcode
+  name: NORTH EASTERN DISTRICT SP
+  order: '0'
+  priority: '0'
+  rate: '0'
+  shipping: '0'
+  state: OR
+wootax/29436:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '97842'
+    location_type: postcode
+  name: NORTH EASTERN DISTRICT SP
+  order: '0'
+  priority: '0'
+  rate: '0'
+  shipping: '0'
+  state: OR
+wootax/29437:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '97843'
+    location_type: postcode
+  name: MORROW COUNTY
+  order: '0'
+  priority: '0'
+  rate: '0'
+  shipping: '0'
+  state: OR
+wootax/29438:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '97844'
+    location_type: postcode
+  name: MORROW COUNTY
+  order: '0'
+  priority: '0'
+  rate: '0'
+  shipping: '0'
+  state: OR
+wootax/29439:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '97845'
+    location_type: postcode
+  name: NORTH EASTERN DISTRICT SP
+  order: '0'
+  priority: '0'
+  rate: '0'
+  shipping: '0'
+  state: OR
+wootax/29440:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '97846'
+    location_type: postcode
+  name: NORTH EASTERN DISTRICT SP
+  order: '0'
+  priority: '0'
+  rate: '0'
+  shipping: '0'
+  state: OR
+wootax/29441:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '97848'
+    location_type: postcode
+  name: NORTH EASTERN DISTRICT SP
+  order: '0'
+  priority: '0'
+  rate: '0'
+  shipping: '0'
+  state: OR
+wootax/29442:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '97850'
+    location_type: postcode
+  name: NORTH EASTERN DISTRICT SP
+  order: '0'
+  priority: '0'
+  rate: '0'
+  shipping: '0'
+  state: OR
+wootax/29443:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '97856'
+    location_type: postcode
+  name: NORTH EASTERN DISTRICT SP
+  order: '0'
+  priority: '0'
+  rate: '0'
+  shipping: '0'
+  state: OR
+wootax/29444:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '97857'
+    location_type: postcode
+  name: NORTH EASTERN DISTRICT SP
+  order: '0'
+  priority: '0'
+  rate: '0'
+  shipping: '0'
+  state: OR
+wootax/29445:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '97859'
+    location_type: postcode
+  name: NORTH EASTERN DISTRICT SP
+  order: '0'
+  priority: '0'
+  rate: '0'
+  shipping: '0'
+  state: OR
+wootax/29446:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '97861'
+    location_type: postcode
+  name: NORTH EASTERN DISTRICT SP
+  order: '0'
+  priority: '0'
+  rate: '0'
+  shipping: '0'
+  state: OR
+wootax/29447:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '97862'
+    location_type: postcode
+  name: NORTH EASTERN DISTRICT SP
+  order: '0'
+  priority: '0'
+  rate: '0'
+  shipping: '0'
+  state: OR
+wootax/29448:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '97864'
+    location_type: postcode
+  name: NORTH EASTERN DISTRICT SP
+  order: '0'
+  priority: '0'
+  rate: '0'
+  shipping: '0'
+  state: OR
+wootax/29449:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '97865'
+    location_type: postcode
+  name: NORTH EASTERN DISTRICT SP
+  order: '0'
+  priority: '0'
+  rate: '0'
+  shipping: '0'
+  state: OR
+wootax/29450:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '97867'
+    location_type: postcode
+  name: NORTH EASTERN DISTRICT SP
+  order: '0'
+  priority: '0'
+  rate: '0'
+  shipping: '0'
+  state: OR
+wootax/29451:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '97868'
+    location_type: postcode
+  name: NORTH EASTERN DISTRICT SP
+  order: '0'
+  priority: '0'
+  rate: '0'
+  shipping: '0'
+  state: OR
+wootax/29452:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '97869'
+    location_type: postcode
+  name: NORTH EASTERN DISTRICT SP
+  order: '0'
+  priority: '0'
+  rate: '0'
+  shipping: '0'
+  state: OR
+wootax/29453:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '97870'
+    location_type: postcode
+  name: NORTH EASTERN DISTRICT SP
+  order: '0'
+  priority: '0'
+  rate: '0'
+  shipping: '0'
+  state: OR
+wootax/29454:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '97873'
+    location_type: postcode
+  name: NORTH EASTERN DISTRICT SP
+  order: '0'
+  priority: '0'
+  rate: '0'
+  shipping: '0'
+  state: OR
+wootax/29455:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '97874'
+    location_type: postcode
+  name: NORTH EASTERN DISTRICT SP
+  order: '0'
+  priority: '0'
+  rate: '0'
+  shipping: '0'
+  state: OR
+wootax/29456:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '97875'
+    location_type: postcode
+  name: NORTH EASTERN DISTRICT SP
+  order: '0'
+  priority: '0'
+  rate: '0'
+  shipping: '0'
+  state: OR
+wootax/29457:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '97876'
+    location_type: postcode
+  name: NORTH EASTERN DISTRICT SP
+  order: '0'
+  priority: '0'
+  rate: '0'
+  shipping: '0'
+  state: OR
+wootax/29458:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '97877'
+    location_type: postcode
+  name: NORTH EASTERN DISTRICT SP
+  order: '0'
+  priority: '0'
+  rate: '0'
+  shipping: '0'
+  state: OR
+wootax/29459:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '97880'
+    location_type: postcode
+  name: NORTH EASTERN DISTRICT SP
+  order: '0'
+  priority: '0'
+  rate: '0'
+  shipping: '0'
+  state: OR
+wootax/29460:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '97882'
+    location_type: postcode
+  name: NORTH EASTERN DISTRICT SP
+  order: '0'
+  priority: '0'
+  rate: '0'
+  shipping: '0'
+  state: OR
+wootax/29461:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '97883'
+    location_type: postcode
+  name: NORTH EASTERN DISTRICT SP
+  order: '0'
+  priority: '0'
+  rate: '0'
+  shipping: '0'
+  state: OR
+wootax/29462:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '97884'
+    location_type: postcode
+  name: NORTH EASTERN DISTRICT SP
+  order: '0'
+  priority: '0'
+  rate: '0'
+  shipping: '0'
+  state: OR
+wootax/29463:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '97885'
+    location_type: postcode
+  name: NORTH EASTERN DISTRICT SP
+  order: '0'
+  priority: '0'
+  rate: '0'
+  shipping: '0'
+  state: OR
+wootax/29464:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '97886'
+    location_type: postcode
+  name: NORTH EASTERN DISTRICT SP
+  order: '0'
+  priority: '0'
+  rate: '0'
+  shipping: '0'
+  state: OR
+wootax/29465:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '97901'
+    location_type: postcode
+  name: SOUTHEASTERN DISTRICT SP
+  order: '0'
+  priority: '0'
+  rate: '0'
+  shipping: '0'
+  state: OR
+wootax/29466:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '97902'
+    location_type: postcode
+  name: SOUTHEASTERN DISTRICT SP
+  order: '0'
+  priority: '0'
+  rate: '0'
+  shipping: '0'
+  state: OR
+wootax/29467:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '97903'
+    location_type: postcode
+  name: SOUTHEASTERN DISTRICT SP
+  order: '0'
+  priority: '0'
+  rate: '0'
+  shipping: '0'
+  state: OR
+wootax/29468:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '97904'
+    location_type: postcode
+  name: SOUTHEASTERN DISTRICT SP
+  order: '0'
+  priority: '0'
+  rate: '0'
+  shipping: '0'
+  state: OR
+wootax/29469:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '97905'
+    location_type: postcode
+  name: NORTH EASTERN DISTRICT SP
+  order: '0'
+  priority: '0'
+  rate: '0'
+  shipping: '0'
+  state: OR
+wootax/29470:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '97906'
+    location_type: postcode
+  name: SOUTHEASTERN DISTRICT SP
+  order: '0'
+  priority: '0'
+  rate: '0'
+  shipping: '0'
+  state: OR
+wootax/29471:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '97907'
+    location_type: postcode
+  name: NORTH EASTERN DISTRICT SP
+  order: '0'
+  priority: '0'
+  rate: '0'
+  shipping: '0'
+  state: OR
+wootax/29472:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '97908'
+    location_type: postcode
+  name: SOUTHEASTERN DISTRICT SP
+  order: '0'
+  priority: '0'
+  rate: '0'
+  shipping: '0'
+  state: OR
+wootax/29473:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '97909'
+    location_type: postcode
+  name: SOUTHEASTERN DISTRICT SP
+  order: '0'
+  priority: '0'
+  rate: '0'
+  shipping: '0'
+  state: OR
+wootax/29474:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '97910'
+    location_type: postcode
+  name: SOUTHEASTERN DISTRICT SP
+  order: '0'
+  priority: '0'
+  rate: '0'
+  shipping: '0'
+  state: OR
+wootax/29475:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '97911'
+    location_type: postcode
+  name: SOUTHEASTERN DISTRICT SP
+  order: '0'
+  priority: '0'
+  rate: '0'
+  shipping: '0'
+  state: OR
+wootax/29476:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '97913'
+    location_type: postcode
+  name: SOUTHEASTERN DISTRICT SP
+  order: '0'
+  priority: '0'
+  rate: '0'
+  shipping: '0'
+  state: OR
+wootax/29477:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '97914'
+    location_type: postcode
+  name: SOUTHEASTERN DISTRICT SP
+  order: '0'
+  priority: '0'
+  rate: '0'
+  shipping: '0'
+  state: OR
+wootax/29478:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '97917'
+    location_type: postcode
+  name: SOUTHEASTERN DISTRICT SP
+  order: '0'
+  priority: '0'
+  rate: '0'
+  shipping: '0'
+  state: OR
+wootax/29479:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '97918'
+    location_type: postcode
+  name: SOUTHEASTERN DISTRICT SP
+  order: '0'
+  priority: '0'
+  rate: '0'
+  shipping: '0'
+  state: OR
+wootax/29480:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '97920'
+    location_type: postcode
+  name: SOUTHEASTERN DISTRICT SP
+  order: '0'
+  priority: '0'
+  rate: '0'
+  shipping: '0'
+  state: OR

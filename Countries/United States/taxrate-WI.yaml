@@ -1,0 +1,11310 @@
+wootax/38457:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '53001'
+    location_type: postcode
+  name: SHEBOYGAN COUNTY
+  order: '0'
+  priority: '0'
+  rate: '5.5'
+  shipping: '1'
+  state: WI
+wootax/38458:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '53002'
+    location_type: postcode
+  name: WASHINGTON COUNTY
+  order: '0'
+  priority: '0'
+  rate: '5.6'
+  shipping: '1'
+  state: WI
+wootax/38459:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '53003'
+    location_type: postcode
+  name: DODGE COUNTY
+  order: '0'
+  priority: '0'
+  rate: '5.5'
+  shipping: '1'
+  state: WI
+wootax/38460:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '53004'
+    location_type: postcode
+  name: OZAUKEE COUNTY
+  order: '0'
+  priority: '0'
+  rate: '5.6'
+  shipping: '1'
+  state: WI
+wootax/38461:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '53005'
+    location_type: postcode
+  name: BROOKFIELD
+  order: '0'
+  priority: '0'
+  rate: '5.1'
+  shipping: '1'
+  state: WI
+wootax/38462:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '53006'
+    location_type: postcode
+  name: DODGE COUNTY
+  order: '0'
+  priority: '0'
+  rate: '5.5'
+  shipping: '1'
+  state: WI
+wootax/38463:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '53007'
+    location_type: postcode
+  name: WAUKESHA
+  order: '0'
+  priority: '0'
+  rate: '5.1'
+  shipping: '1'
+  state: WI
+wootax/38464:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '53008'
+    location_type: postcode
+  name: BROOKFIELD
+  order: '0'
+  priority: '0'
+  rate: '5.1'
+  shipping: '1'
+  state: WI
+wootax/38465:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '53010'
+    location_type: postcode
+  name: FOND DU LAC COUNTY
+  order: '0'
+  priority: '0'
+  rate: '5.5'
+  shipping: '1'
+  state: WI
+wootax/38466:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '53011'
+    location_type: postcode
+  name: SHEBOYGAN COUNTY
+  order: '0'
+  priority: '0'
+  rate: '5.5'
+  shipping: '1'
+  state: WI
+wootax/38467:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '53012'
+    location_type: postcode
+  name: 'CEDARBURG '
+  order: '0'
+  priority: '0'
+  rate: '5.6'
+  shipping: '1'
+  state: WI
+wootax/38468:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '53013'
+    location_type: postcode
+  name: SHEBOYGAN COUNTY
+  order: '0'
+  priority: '0'
+  rate: '5.5'
+  shipping: '1'
+  state: WI
+wootax/38469:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '53014'
+    location_type: postcode
+  name: 'CHILTON '
+  order: '0'
+  priority: '0'
+  rate: '5.5'
+  shipping: '1'
+  state: WI
+wootax/38470:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '53015'
+    location_type: postcode
+  name: MANITOWOC
+  order: '0'
+  priority: '0'
+  rate: '5'
+  shipping: '1'
+  state: WI
+wootax/38471:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '53016'
+    location_type: postcode
+  name: DODGE COUNTY
+  order: '0'
+  priority: '0'
+  rate: '5.5'
+  shipping: '1'
+  state: WI
+wootax/38472:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '53017'
+    location_type: postcode
+  name: WASHINGTON COUNTY
+  order: '0'
+  priority: '0'
+  rate: '5.6'
+  shipping: '1'
+  state: WI
+wootax/38473:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '53018'
+    location_type: postcode
+  name: 'DELAFIELD '
+  order: '0'
+  priority: '0'
+  rate: '5.1'
+  shipping: '1'
+  state: WI
+wootax/38474:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '53019'
+    location_type: postcode
+  name: FOND DU LAC COUNTY
+  order: '0'
+  priority: '0'
+  rate: '5.5'
+  shipping: '1'
+  state: WI
+wootax/38475:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '53020'
+    location_type: postcode
+  name: SHEBOYGAN COUNTY
+  order: '0'
+  priority: '0'
+  rate: '5.5'
+  shipping: '1'
+  state: WI
+wootax/38476:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '53021'
+    location_type: postcode
+  name: OZAUKEE COUNTY
+  order: '0'
+  priority: '0'
+  rate: '5.6'
+  shipping: '1'
+  state: WI
+wootax/38477:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '53022'
+    location_type: postcode
+  name: WASHINGTON COUNTY
+  order: '0'
+  priority: '0'
+  rate: '5.6'
+  shipping: '1'
+  state: WI
+wootax/38478:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '53023'
+    location_type: postcode
+  name: SHEBOYGAN COUNTY
+  order: '0'
+  priority: '0'
+  rate: '5.5'
+  shipping: '1'
+  state: WI
+wootax/38479:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '53024'
+    location_type: postcode
+  name: OZAUKEE COUNTY
+  order: '0'
+  priority: '0'
+  rate: '5.6'
+  shipping: '1'
+  state: WI
+wootax/38480:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '53026'
+    location_type: postcode
+  name: SHEBOYGAN COUNTY
+  order: '0'
+  priority: '0'
+  rate: '5.5'
+  shipping: '1'
+  state: WI
+wootax/38481:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '53027'
+    location_type: postcode
+  name: 'HARTFORD '
+  order: '0'
+  priority: '0'
+  rate: '5.6'
+  shipping: '1'
+  state: WI
+wootax/38482:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '53029'
+    location_type: postcode
+  name: WAUKESHA
+  order: '0'
+  priority: '0'
+  rate: '5.1'
+  shipping: '1'
+  state: WI
+wootax/38483:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '53031'
+    location_type: postcode
+  name: SHEBOYGAN COUNTY
+  order: '0'
+  priority: '0'
+  rate: '5.5'
+  shipping: '1'
+  state: WI
+wootax/38484:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '53032'
+    location_type: postcode
+  name: 'HORICON '
+  order: '0'
+  priority: '0'
+  rate: '5.5'
+  shipping: '1'
+  state: WI
+wootax/38485:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '53033'
+    location_type: postcode
+  name: WASHINGTON COUNTY
+  order: '0'
+  priority: '0'
+  rate: '5.6'
+  shipping: '1'
+  state: WI
+wootax/38486:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '53034'
+    location_type: postcode
+  name: DODGE COUNTY
+  order: '0'
+  priority: '0'
+  rate: '5.5'
+  shipping: '1'
+  state: WI
+wootax/38487:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '53035'
+    location_type: postcode
+  name: DODGE COUNTY
+  order: '0'
+  priority: '0'
+  rate: '5.5'
+  shipping: '1'
+  state: WI
+wootax/38488:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '53036'
+    location_type: postcode
+  name: JEFFERSON COUNTY
+  order: '0'
+  priority: '0'
+  rate: '5.5'
+  shipping: '1'
+  state: WI
+wootax/38489:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '53037'
+    location_type: postcode
+  name: WASHINGTON COUNTY
+  order: '0'
+  priority: '0'
+  rate: '5.6'
+  shipping: '1'
+  state: WI
+wootax/38490:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '53038'
+    location_type: postcode
+  name: JEFFERSON COUNTY
+  order: '0'
+  priority: '0'
+  rate: '5.5'
+  shipping: '1'
+  state: WI
+wootax/38491:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '53039'
+    location_type: postcode
+  name: JUNEAU
+  order: '0'
+  priority: '0'
+  rate: '5.5'
+  shipping: '1'
+  state: WI
+wootax/38492:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '53040'
+    location_type: postcode
+  name: WASHINGTON COUNTY
+  order: '0'
+  priority: '0'
+  rate: '5.6'
+  shipping: '1'
+  state: WI
+wootax/38493:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '53042'
+    location_type: postcode
+  name: MANITOWOC
+  order: '0'
+  priority: '0'
+  rate: '5'
+  shipping: '1'
+  state: WI
+wootax/38494:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '53044'
+    location_type: postcode
+  name: SHEBOYGAN COUNTY
+  order: '0'
+  priority: '0'
+  rate: '5.5'
+  shipping: '1'
+  state: WI
+wootax/38495:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '53045'
+    location_type: postcode
+  name: BROOKFIELD
+  order: '0'
+  priority: '0'
+  rate: '5.1'
+  shipping: '1'
+  state: WI
+wootax/38496:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '53046'
+    location_type: postcode
+  name: WAUKESHA
+  order: '0'
+  priority: '0'
+  rate: '5.1'
+  shipping: '1'
+  state: WI
+wootax/38497:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '53047'
+    location_type: postcode
+  name: DODGE COUNTY
+  order: '0'
+  priority: '0'
+  rate: '5.5'
+  shipping: '1'
+  state: WI
+wootax/38498:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '53048'
+    location_type: postcode
+  name: DODGE COUNTY
+  order: '0'
+  priority: '0'
+  rate: '5.5'
+  shipping: '1'
+  state: WI
+wootax/38499:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '53049'
+    location_type: postcode
+  name: FOND DU LAC COUNTY
+  order: '0'
+  priority: '0'
+  rate: '5.5'
+  shipping: '1'
+  state: WI
+wootax/38500:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '53050'
+    location_type: postcode
+  name: MAYVILLE
+  order: '0'
+  priority: '0'
+  rate: '5.5'
+  shipping: '1'
+  state: WI
+wootax/38501:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '53051'
+    location_type: postcode
+  name: WAUKESHA
+  order: '0'
+  priority: '0'
+  rate: '5.1'
+  shipping: '1'
+  state: WI
+wootax/38502:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '53052'
+    location_type: postcode
+  name: WAUKESHA
+  order: '0'
+  priority: '0'
+  rate: '5.1'
+  shipping: '1'
+  state: WI
+wootax/38503:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '53056'
+    location_type: postcode
+  name: WAUKESHA
+  order: '0'
+  priority: '0'
+  rate: '5.1'
+  shipping: '1'
+  state: WI
+wootax/38504:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '53057'
+    location_type: postcode
+  name: FOND DU LAC COUNTY
+  order: '0'
+  priority: '0'
+  rate: '5.5'
+  shipping: '1'
+  state: WI
+wootax/38505:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '53058'
+    location_type: postcode
+  name: WAUKESHA
+  order: '0'
+  priority: '0'
+  rate: '5.1'
+  shipping: '1'
+  state: WI
+wootax/38506:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '53059'
+    location_type: postcode
+  name: DODGE COUNTY
+  order: '0'
+  priority: '0'
+  rate: '5.5'
+  shipping: '1'
+  state: WI
+wootax/38507:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '53060'
+    location_type: postcode
+  name: WASHINGTON COUNTY
+  order: '0'
+  priority: '0'
+  rate: '5.6'
+  shipping: '1'
+  state: WI
+wootax/38508:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '53061'
+    location_type: postcode
+  name: NEW HOLSTEIN
+  order: '0'
+  priority: '0'
+  rate: '5.5'
+  shipping: '1'
+  state: WI
+wootax/38509:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '53062'
+    location_type: postcode
+  name: NEW HOLSTEIN
+  order: '0'
+  priority: '0'
+  rate: '5.5'
+  shipping: '1'
+  state: WI
+wootax/38510:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '53063'
+    location_type: postcode
+  name: MANITOWOC
+  order: '0'
+  priority: '0'
+  rate: '5'
+  shipping: '1'
+  state: WI
+wootax/38511:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '53064'
+    location_type: postcode
+  name: WAUKESHA
+  order: '0'
+  priority: '0'
+  rate: '5.1'
+  shipping: '1'
+  state: WI
+wootax/38512:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '53065'
+    location_type: postcode
+  name: FOND DU LAC COUNTY
+  order: '0'
+  priority: '0'
+  rate: '5.5'
+  shipping: '1'
+  state: WI
+wootax/38513:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '53066'
+    location_type: postcode
+  name: WAUKESHA
+  order: '0'
+  priority: '0'
+  rate: '5.1'
+  shipping: '1'
+  state: WI
+wootax/38514:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '53069'
+    location_type: postcode
+  name: WAUKESHA
+  order: '0'
+  priority: '0'
+  rate: '5.1'
+  shipping: '1'
+  state: WI
+wootax/38515:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '53070'
+    location_type: postcode
+  name: SHEBOYGAN COUNTY
+  order: '0'
+  priority: '0'
+  rate: '5.5'
+  shipping: '1'
+  state: WI
+wootax/38516:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '53072'
+    location_type: postcode
+  name: WAUKESHA
+  order: '0'
+  priority: '0'
+  rate: '5.1'
+  shipping: '1'
+  state: WI
+wootax/38517:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '53073'
+    location_type: postcode
+  name: PLYMOUTH
+  order: '0'
+  priority: '0'
+  rate: '5.5'
+  shipping: '1'
+  state: WI
+wootax/38518:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '53074'
+    location_type: postcode
+  name: PORT WASHINGTON
+  order: '0'
+  priority: '0'
+  rate: '5.6'
+  shipping: '1'
+  state: WI
+wootax/38519:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '53075'
+    location_type: postcode
+  name: SHEBOYGAN COUNTY
+  order: '0'
+  priority: '0'
+  rate: '5.5'
+  shipping: '1'
+  state: WI
+wootax/38520:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '53076'
+    location_type: postcode
+  name: WASHINGTON COUNTY
+  order: '0'
+  priority: '0'
+  rate: '5.6'
+  shipping: '1'
+  state: WI
+wootax/38521:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '53078'
+    location_type: postcode
+  name: DODGE COUNTY
+  order: '0'
+  priority: '0'
+  rate: '5.5'
+  shipping: '1'
+  state: WI
+wootax/38522:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '53079'
+    location_type: postcode
+  name: FOND DU LAC COUNTY
+  order: '0'
+  priority: '0'
+  rate: '5.5'
+  shipping: '1'
+  state: WI
+wootax/38523:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '53080'
+    location_type: postcode
+  name: OZAUKEE COUNTY
+  order: '0'
+  priority: '0'
+  rate: '5.6'
+  shipping: '1'
+  state: WI
+wootax/38524:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '53081'
+    location_type: postcode
+  name: SHEBOYGAN
+  order: '0'
+  priority: '0'
+  rate: '5.5'
+  shipping: '1'
+  state: WI
+wootax/38525:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '53082'
+    location_type: postcode
+  name: SHEBOYGAN
+  order: '0'
+  priority: '0'
+  rate: '5.5'
+  shipping: '1'
+  state: WI
+wootax/38526:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '53083'
+    location_type: postcode
+  name: SHEBOYGAN COUNTY
+  order: '0'
+  priority: '0'
+  rate: '5.5'
+  shipping: '1'
+  state: WI
+wootax/38527:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '53085'
+    location_type: postcode
+  name: SHEBOYGAN FALLS
+  order: '0'
+  priority: '0'
+  rate: '5.5'
+  shipping: '1'
+  state: WI
+wootax/38528:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '53086'
+    location_type: postcode
+  name: WASHINGTON COUNTY
+  order: '0'
+  priority: '0'
+  rate: '5.6'
+  shipping: '1'
+  state: WI
+wootax/38529:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '53088'
+    location_type: postcode
+  name: CALUMET
+  order: '0'
+  priority: '0'
+  rate: '5.5'
+  shipping: '1'
+  state: WI
+wootax/38530:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '53089'
+    location_type: postcode
+  name: WAUKESHA
+  order: '0'
+  priority: '0'
+  rate: '5.1'
+  shipping: '1'
+  state: WI
+wootax/38531:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '53090'
+    location_type: postcode
+  name: WEST BEND
+  order: '0'
+  priority: '0'
+  rate: '5.6'
+  shipping: '1'
+  state: WI
+wootax/38532:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '53091'
+    location_type: postcode
+  name: DODGE COUNTY
+  order: '0'
+  priority: '0'
+  rate: '5.5'
+  shipping: '1'
+  state: WI
+wootax/38533:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '53092'
+    location_type: postcode
+  name: MEQUON
+  order: '0'
+  priority: '0'
+  rate: '5.6'
+  shipping: '1'
+  state: WI
+wootax/38534:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '53093'
+    location_type: postcode
+  name: SHEBOYGAN COUNTY
+  order: '0'
+  priority: '0'
+  rate: '5.5'
+  shipping: '1'
+  state: WI
+wootax/38535:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '53094'
+    location_type: postcode
+  name: WATERTOWN
+  order: '0'
+  priority: '0'
+  rate: '5.5'
+  shipping: '1'
+  state: WI
+wootax/38536:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '53095'
+    location_type: postcode
+  name: WEST BEND
+  order: '0'
+  priority: '0'
+  rate: '5.6'
+  shipping: '1'
+  state: WI
+wootax/38537:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '53097'
+    location_type: postcode
+  name: MEQUON
+  order: '0'
+  priority: '0'
+  rate: '5.6'
+  shipping: '1'
+  state: WI
+wootax/38538:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '53098'
+    location_type: postcode
+  name: WATERTOWN
+  order: '0'
+  priority: '0'
+  rate: '5.5'
+  shipping: '1'
+  state: WI
+wootax/38539:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '53099'
+    location_type: postcode
+  name: DODGE COUNTY
+  order: '0'
+  priority: '0'
+  rate: '5.5'
+  shipping: '1'
+  state: WI
+wootax/38540:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '53101'
+    location_type: postcode
+  name: KENOSHA COUNTY
+  order: '0'
+  priority: '0'
+  rate: '5.5'
+  shipping: '1'
+  state: WI
+wootax/38541:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '53102'
+    location_type: postcode
+  name: KENOSHA COUNTY
+  order: '0'
+  priority: '0'
+  rate: '5.5'
+  shipping: '1'
+  state: WI
+wootax/38542:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '53103'
+    location_type: postcode
+  name: WAUKESHA
+  order: '0'
+  priority: '0'
+  rate: '5.1'
+  shipping: '1'
+  state: WI
+wootax/38543:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '53104'
+    location_type: postcode
+  name: KENOSHA COUNTY
+  order: '0'
+  priority: '0'
+  rate: '5.5'
+  shipping: '1'
+  state: WI
+wootax/38544:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '53105'
+    location_type: postcode
+  name: BURLINGTON
+  order: '0'
+  priority: '0'
+  rate: '5.1'
+  shipping: '1'
+  state: WI
+wootax/38545:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '53108'
+    location_type: postcode
+  name: RACINE
+  order: '0'
+  priority: '0'
+  rate: '5.1'
+  shipping: '1'
+  state: WI
+wootax/38546:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '53109'
+    location_type: postcode
+  name: KENOSHA COUNTY
+  order: '0'
+  priority: '0'
+  rate: '5.5'
+  shipping: '1'
+  state: WI
+wootax/38547:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '53110'
+    location_type: postcode
+  name: 'CUDAHY '
+  order: '0'
+  priority: '0'
+  rate: '5.6'
+  shipping: '1'
+  state: WI
+wootax/38548:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '53114'
+    location_type: postcode
+  name: WALWORTH COUNTY
+  order: '0'
+  priority: '0'
+  rate: '5.5'
+  shipping: '1'
+  state: WI
+wootax/38549:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '53115'
+    location_type: postcode
+  name: WALWORTH COUNTY
+  order: '0'
+  priority: '0'
+  rate: '5.5'
+  shipping: '1'
+  state: WI
+wootax/38550:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '53118'
+    location_type: postcode
+  name: WAUKESHA
+  order: '0'
+  priority: '0'
+  rate: '5.1'
+  shipping: '1'
+  state: WI
+wootax/38551:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '53119'
+    location_type: postcode
+  name: WAUKESHA
+  order: '0'
+  priority: '0'
+  rate: '5.1'
+  shipping: '1'
+  state: WI
+wootax/38552:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '53120'
+    location_type: postcode
+  name: WALWORTH COUNTY
+  order: '0'
+  priority: '0'
+  rate: '5.5'
+  shipping: '1'
+  state: WI
+wootax/38553:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '53121'
+    location_type: postcode
+  name: WALWORTH COUNTY
+  order: '0'
+  priority: '0'
+  rate: '5.5'
+  shipping: '1'
+  state: WI
+wootax/38554:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '53122'
+    location_type: postcode
+  name: WAUKESHA
+  order: '0'
+  priority: '0'
+  rate: '5.1'
+  shipping: '1'
+  state: WI
+wootax/38555:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '53125'
+    location_type: postcode
+  name: WALWORTH COUNTY
+  order: '0'
+  priority: '0'
+  rate: '5.5'
+  shipping: '1'
+  state: WI
+wootax/38556:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '53126'
+    location_type: postcode
+  name: RACINE
+  order: '0'
+  priority: '0'
+  rate: '5.1'
+  shipping: '1'
+  state: WI
+wootax/38557:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '53127'
+    location_type: postcode
+  name: WAUKESHA
+  order: '0'
+  priority: '0'
+  rate: '5.1'
+  shipping: '1'
+  state: WI
+wootax/38558:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '53128'
+    location_type: postcode
+  name: WALWORTH COUNTY
+  order: '0'
+  priority: '0'
+  rate: '5.5'
+  shipping: '1'
+  state: WI
+wootax/38559:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '53129'
+    location_type: postcode
+  name: MILWAUKEE
+  order: '0'
+  priority: '0'
+  rate: '5.6'
+  shipping: '1'
+  state: WI
+wootax/38560:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '53130'
+    location_type: postcode
+  name: MILWAUKEE
+  order: '0'
+  priority: '0'
+  rate: '5.6'
+  shipping: '1'
+  state: WI
+wootax/38561:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '53132'
+    location_type: postcode
+  name: 'FRANKLIN '
+  order: '0'
+  priority: '0'
+  rate: '5.6'
+  shipping: '1'
+  state: WI
+wootax/38562:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '53137'
+    location_type: postcode
+  name: JEFFERSON COUNTY
+  order: '0'
+  priority: '0'
+  rate: '5.5'
+  shipping: '1'
+  state: WI
+wootax/38563:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '53138'
+    location_type: postcode
+  name: WALWORTH COUNTY
+  order: '0'
+  priority: '0'
+  rate: '5.5'
+  shipping: '1'
+  state: WI
+wootax/38564:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '53139'
+    location_type: postcode
+  name: RACINE
+  order: '0'
+  priority: '0'
+  rate: '5.1'
+  shipping: '1'
+  state: WI
+wootax/38565:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '53140'
+    location_type: postcode
+  name: 'KENOSHA '
+  order: '0'
+  priority: '0'
+  rate: '5.5'
+  shipping: '1'
+  state: WI
+wootax/38566:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '53141'
+    location_type: postcode
+  name: 'KENOSHA '
+  order: '0'
+  priority: '0'
+  rate: '5.5'
+  shipping: '1'
+  state: WI
+wootax/38567:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '53142'
+    location_type: postcode
+  name: 'KENOSHA '
+  order: '0'
+  priority: '0'
+  rate: '5.5'
+  shipping: '1'
+  state: WI
+wootax/38568:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '53143'
+    location_type: postcode
+  name: 'KENOSHA '
+  order: '0'
+  priority: '0'
+  rate: '5.5'
+  shipping: '1'
+  state: WI
+wootax/38569:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '53144'
+    location_type: postcode
+  name: 'KENOSHA '
+  order: '0'
+  priority: '0'
+  rate: '5.5'
+  shipping: '1'
+  state: WI
+wootax/38570:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '53146'
+    location_type: postcode
+  name: NEW BERLIN
+  order: '0'
+  priority: '0'
+  rate: '5.1'
+  shipping: '1'
+  state: WI
+wootax/38571:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '53147'
+    location_type: postcode
+  name: WALWORTH COUNTY
+  order: '0'
+  priority: '0'
+  rate: '5.5'
+  shipping: '1'
+  state: WI
+wootax/38572:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '53148'
+    location_type: postcode
+  name: WALWORTH COUNTY
+  order: '0'
+  priority: '0'
+  rate: '5.5'
+  shipping: '1'
+  state: WI
+wootax/38573:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '53149'
+    location_type: postcode
+  name: WAUKESHA
+  order: '0'
+  priority: '0'
+  rate: '5.1'
+  shipping: '1'
+  state: WI
+wootax/38574:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '53150'
+    location_type: postcode
+  name: MUSKEGO
+  order: '0'
+  priority: '0'
+  rate: '5.1'
+  shipping: '1'
+  state: WI
+wootax/38575:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '53151'
+    location_type: postcode
+  name: NEW BERLIN
+  order: '0'
+  priority: '0'
+  rate: '5.1'
+  shipping: '1'
+  state: WI
+wootax/38576:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '53152'
+    location_type: postcode
+  name: KENOSHA COUNTY
+  order: '0'
+  priority: '0'
+  rate: '5.5'
+  shipping: '1'
+  state: WI
+wootax/38577:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '53153'
+    location_type: postcode
+  name: WAUKESHA
+  order: '0'
+  priority: '0'
+  rate: '5.1'
+  shipping: '1'
+  state: WI
+wootax/38578:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '53154'
+    location_type: postcode
+  name: OAK CREEK
+  order: '0'
+  priority: '0'
+  rate: '5.6'
+  shipping: '1'
+  state: WI
+wootax/38579:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '53156'
+    location_type: postcode
+  name: JEFFERSON COUNTY
+  order: '0'
+  priority: '0'
+  rate: '5.5'
+  shipping: '1'
+  state: WI
+wootax/38580:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '53157'
+    location_type: postcode
+  name: WALWORTH COUNTY
+  order: '0'
+  priority: '0'
+  rate: '5.5'
+  shipping: '1'
+  state: WI
+wootax/38581:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '53158'
+    location_type: postcode
+  name: KENOSHA COUNTY
+  order: '0'
+  priority: '0'
+  rate: '5.5'
+  shipping: '1'
+  state: WI
+wootax/38582:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '53159'
+    location_type: postcode
+  name: KENOSHA COUNTY
+  order: '0'
+  priority: '0'
+  rate: '5.5'
+  shipping: '1'
+  state: WI
+wootax/38583:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '53167'
+    location_type: postcode
+  name: RACINE
+  order: '0'
+  priority: '0'
+  rate: '5.1'
+  shipping: '1'
+  state: WI
+wootax/38584:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '53168'
+    location_type: postcode
+  name: KENOSHA COUNTY
+  order: '0'
+  priority: '0'
+  rate: '5.5'
+  shipping: '1'
+  state: WI
+wootax/38585:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '53170'
+    location_type: postcode
+  name: KENOSHA COUNTY
+  order: '0'
+  priority: '0'
+  rate: '5.5'
+  shipping: '1'
+  state: WI
+wootax/38586:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '53171'
+    location_type: postcode
+  name: KENOSHA COUNTY
+  order: '0'
+  priority: '0'
+  rate: '5.5'
+  shipping: '1'
+  state: WI
+wootax/38587:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '53172'
+    location_type: postcode
+  name: SOUTH MILWAUKEE
+  order: '0'
+  priority: '0'
+  rate: '5.6'
+  shipping: '1'
+  state: WI
+wootax/38588:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '53176'
+    location_type: postcode
+  name: WALWORTH COUNTY
+  order: '0'
+  priority: '0'
+  rate: '5.5'
+  shipping: '1'
+  state: WI
+wootax/38589:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '53177'
+    location_type: postcode
+  name: RACINE
+  order: '0'
+  priority: '0'
+  rate: '5.1'
+  shipping: '1'
+  state: WI
+wootax/38590:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '53178'
+    location_type: postcode
+  name: JEFFERSON COUNTY
+  order: '0'
+  priority: '0'
+  rate: '5.5'
+  shipping: '1'
+  state: WI
+wootax/38591:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '53179'
+    location_type: postcode
+  name: KENOSHA COUNTY
+  order: '0'
+  priority: '0'
+  rate: '5.5'
+  shipping: '1'
+  state: WI
+wootax/38592:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '53181'
+    location_type: postcode
+  name: KENOSHA COUNTY
+  order: '0'
+  priority: '0'
+  rate: '5.5'
+  shipping: '1'
+  state: WI
+wootax/38593:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '53182'
+    location_type: postcode
+  name: RACINE
+  order: '0'
+  priority: '0'
+  rate: '5.1'
+  shipping: '1'
+  state: WI
+wootax/38594:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '53183'
+    location_type: postcode
+  name: WAUKESHA
+  order: '0'
+  priority: '0'
+  rate: '5.1'
+  shipping: '1'
+  state: WI
+wootax/38595:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '53184'
+    location_type: postcode
+  name: WALWORTH COUNTY
+  order: '0'
+  priority: '0'
+  rate: '5.5'
+  shipping: '1'
+  state: WI
+wootax/38596:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '53185'
+    location_type: postcode
+  name: RACINE
+  order: '0'
+  priority: '0'
+  rate: '5.1'
+  shipping: '1'
+  state: WI
+wootax/38597:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '53186'
+    location_type: postcode
+  name: WAUKESHA
+  order: '0'
+  priority: '0'
+  rate: '5.1'
+  shipping: '1'
+  state: WI
+wootax/38598:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '53187'
+    location_type: postcode
+  name: WAUKESHA
+  order: '0'
+  priority: '0'
+  rate: '5.1'
+  shipping: '1'
+  state: WI
+wootax/38599:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '53188'
+    location_type: postcode
+  name: WAUKESHA
+  order: '0'
+  priority: '0'
+  rate: '5.1'
+  shipping: '1'
+  state: WI
+wootax/38600:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '53189'
+    location_type: postcode
+  name: WAUKESHA
+  order: '0'
+  priority: '0'
+  rate: '5.1'
+  shipping: '1'
+  state: WI
+wootax/38601:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '53190'
+    location_type: postcode
+  name: WHITEWATER
+  order: '0'
+  priority: '0'
+  rate: '5.5'
+  shipping: '1'
+  state: WI
+wootax/38602:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '53191'
+    location_type: postcode
+  name: WALWORTH COUNTY
+  order: '0'
+  priority: '0'
+  rate: '5.5'
+  shipping: '1'
+  state: WI
+wootax/38603:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '53192'
+    location_type: postcode
+  name: KENOSHA COUNTY
+  order: '0'
+  priority: '0'
+  rate: '5.5'
+  shipping: '1'
+  state: WI
+wootax/38604:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '53194'
+    location_type: postcode
+  name: KENOSHA COUNTY
+  order: '0'
+  priority: '0'
+  rate: '5.5'
+  shipping: '1'
+  state: WI
+wootax/38605:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '53195'
+    location_type: postcode
+  name: WALWORTH COUNTY
+  order: '0'
+  priority: '0'
+  rate: '5.5'
+  shipping: '1'
+  state: WI
+wootax/38606:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '53201'
+    location_type: postcode
+  name: MILWAUKEE
+  order: '0'
+  priority: '0'
+  rate: '5.6'
+  shipping: '1'
+  state: WI
+wootax/38607:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '53202'
+    location_type: postcode
+  name: MILWAUKEE
+  order: '0'
+  priority: '0'
+  rate: '5.6'
+  shipping: '1'
+  state: WI
+wootax/38608:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '53203'
+    location_type: postcode
+  name: MILWAUKEE
+  order: '0'
+  priority: '0'
+  rate: '5.6'
+  shipping: '1'
+  state: WI
+wootax/38609:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '53204'
+    location_type: postcode
+  name: MILWAUKEE
+  order: '0'
+  priority: '0'
+  rate: '5.6'
+  shipping: '1'
+  state: WI
+wootax/38610:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '53205'
+    location_type: postcode
+  name: MILWAUKEE
+  order: '0'
+  priority: '0'
+  rate: '5.6'
+  shipping: '1'
+  state: WI
+wootax/38611:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '53206'
+    location_type: postcode
+  name: MILWAUKEE
+  order: '0'
+  priority: '0'
+  rate: '5.6'
+  shipping: '1'
+  state: WI
+wootax/38612:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '53207'
+    location_type: postcode
+  name: MILWAUKEE
+  order: '0'
+  priority: '0'
+  rate: '5.6'
+  shipping: '1'
+  state: WI
+wootax/38613:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '53208'
+    location_type: postcode
+  name: MILWAUKEE
+  order: '0'
+  priority: '0'
+  rate: '5.6'
+  shipping: '1'
+  state: WI
+wootax/38614:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '53209'
+    location_type: postcode
+  name: MILWAUKEE
+  order: '0'
+  priority: '0'
+  rate: '5.6'
+  shipping: '1'
+  state: WI
+wootax/38615:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '53210'
+    location_type: postcode
+  name: MILWAUKEE
+  order: '0'
+  priority: '0'
+  rate: '5.6'
+  shipping: '1'
+  state: WI
+wootax/38616:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '53211'
+    location_type: postcode
+  name: MILWAUKEE
+  order: '0'
+  priority: '0'
+  rate: '5.6'
+  shipping: '1'
+  state: WI
+wootax/38617:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '53212'
+    location_type: postcode
+  name: MILWAUKEE
+  order: '0'
+  priority: '0'
+  rate: '5.6'
+  shipping: '1'
+  state: WI
+wootax/38618:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '53213'
+    location_type: postcode
+  name: WAUWATOSA
+  order: '0'
+  priority: '0'
+  rate: '5.6'
+  shipping: '1'
+  state: WI
+wootax/38619:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '53214'
+    location_type: postcode
+  name: WEST ALLIS
+  order: '0'
+  priority: '0'
+  rate: '5.6'
+  shipping: '1'
+  state: WI
+wootax/38620:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '53215'
+    location_type: postcode
+  name: MILWAUKEE
+  order: '0'
+  priority: '0'
+  rate: '5.6'
+  shipping: '1'
+  state: WI
+wootax/38621:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '53216'
+    location_type: postcode
+  name: MILWAUKEE
+  order: '0'
+  priority: '0'
+  rate: '5.6'
+  shipping: '1'
+  state: WI
+wootax/38622:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '53217'
+    location_type: postcode
+  name: MILWAUKEE
+  order: '0'
+  priority: '0'
+  rate: '5.6'
+  shipping: '1'
+  state: WI
+wootax/38623:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '53218'
+    location_type: postcode
+  name: MILWAUKEE
+  order: '0'
+  priority: '0'
+  rate: '5.6'
+  shipping: '1'
+  state: WI
+wootax/38624:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '53219'
+    location_type: postcode
+  name: MILWAUKEE
+  order: '0'
+  priority: '0'
+  rate: '5.6'
+  shipping: '1'
+  state: WI
+wootax/38625:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '53220'
+    location_type: postcode
+  name: 'GREENFIELD '
+  order: '0'
+  priority: '0'
+  rate: '5.6'
+  shipping: '1'
+  state: WI
+wootax/38626:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '53221'
+    location_type: postcode
+  name: MILWAUKEE
+  order: '0'
+  priority: '0'
+  rate: '5.6'
+  shipping: '1'
+  state: WI
+wootax/38627:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '53222'
+    location_type: postcode
+  name: MILWAUKEE
+  order: '0'
+  priority: '0'
+  rate: '5.6'
+  shipping: '1'
+  state: WI
+wootax/38628:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '53223'
+    location_type: postcode
+  name: MILWAUKEE
+  order: '0'
+  priority: '0'
+  rate: '5.6'
+  shipping: '1'
+  state: WI
+wootax/38629:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '53224'
+    location_type: postcode
+  name: MILWAUKEE
+  order: '0'
+  priority: '0'
+  rate: '5.6'
+  shipping: '1'
+  state: WI
+wootax/38630:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '53225'
+    location_type: postcode
+  name: MILWAUKEE
+  order: '0'
+  priority: '0'
+  rate: '5.6'
+  shipping: '1'
+  state: WI
+wootax/38631:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '53226'
+    location_type: postcode
+  name: WAUWATOSA
+  order: '0'
+  priority: '0'
+  rate: '5.6'
+  shipping: '1'
+  state: WI
+wootax/38632:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '53227'
+    location_type: postcode
+  name: WEST ALLIS
+  order: '0'
+  priority: '0'
+  rate: '5.6'
+  shipping: '1'
+  state: WI
+wootax/38633:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '53228'
+    location_type: postcode
+  name: 'GREENFIELD '
+  order: '0'
+  priority: '0'
+  rate: '5.6'
+  shipping: '1'
+  state: WI
+wootax/38634:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '53233'
+    location_type: postcode
+  name: MILWAUKEE
+  order: '0'
+  priority: '0'
+  rate: '5.6'
+  shipping: '1'
+  state: WI
+wootax/38635:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '53234'
+    location_type: postcode
+  name: MILWAUKEE
+  order: '0'
+  priority: '0'
+  rate: '5.6'
+  shipping: '1'
+  state: WI
+wootax/38636:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '53235'
+    location_type: postcode
+  name: ST. FRANCIS
+  order: '0'
+  priority: '0'
+  rate: '5.6'
+  shipping: '1'
+  state: WI
+wootax/38637:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '53237'
+    location_type: postcode
+  name: MILWAUKEE
+  order: '0'
+  priority: '0'
+  rate: '5.6'
+  shipping: '1'
+  state: WI
+wootax/38638:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '53259'
+    location_type: postcode
+  name: MILWAUKEE
+  order: '0'
+  priority: '0'
+  rate: '5.6'
+  shipping: '1'
+  state: WI
+wootax/38639:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '53263'
+    location_type: postcode
+  name: WAUWATOSA
+  order: '0'
+  priority: '0'
+  rate: '5.6'
+  shipping: '1'
+  state: WI
+wootax/38640:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '53274'
+    location_type: postcode
+  name: MILWAUKEE
+  order: '0'
+  priority: '0'
+  rate: '5.6'
+  shipping: '1'
+  state: WI
+wootax/38641:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '53278'
+    location_type: postcode
+  name: MILWAUKEE
+  order: '0'
+  priority: '0'
+  rate: '5.6'
+  shipping: '1'
+  state: WI
+wootax/38642:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '53288'
+    location_type: postcode
+  name: MILWAUKEE
+  order: '0'
+  priority: '0'
+  rate: '5.6'
+  shipping: '1'
+  state: WI
+wootax/38643:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '53290'
+    location_type: postcode
+  name: MILWAUKEE
+  order: '0'
+  priority: '0'
+  rate: '5.6'
+  shipping: '1'
+  state: WI
+wootax/38644:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '53293'
+    location_type: postcode
+  name: MILWAUKEE
+  order: '0'
+  priority: '0'
+  rate: '5.6'
+  shipping: '1'
+  state: WI
+wootax/38645:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '53295'
+    location_type: postcode
+  name: MILWAUKEE
+  order: '0'
+  priority: '0'
+  rate: '5.6'
+  shipping: '1'
+  state: WI
+wootax/38646:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '53401'
+    location_type: postcode
+  name: RACINE
+  order: '0'
+  priority: '0'
+  rate: '5.1'
+  shipping: '1'
+  state: WI
+wootax/38647:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '53402'
+    location_type: postcode
+  name: RACINE
+  order: '0'
+  priority: '0'
+  rate: '5.1'
+  shipping: '1'
+  state: WI
+wootax/38648:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '53403'
+    location_type: postcode
+  name: RACINE
+  order: '0'
+  priority: '0'
+  rate: '5.1'
+  shipping: '1'
+  state: WI
+wootax/38649:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '53404'
+    location_type: postcode
+  name: RACINE
+  order: '0'
+  priority: '0'
+  rate: '5.1'
+  shipping: '1'
+  state: WI
+wootax/38650:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '53405'
+    location_type: postcode
+  name: RACINE
+  order: '0'
+  priority: '0'
+  rate: '5.1'
+  shipping: '1'
+  state: WI
+wootax/38651:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '53406'
+    location_type: postcode
+  name: RACINE
+  order: '0'
+  priority: '0'
+  rate: '5.1'
+  shipping: '1'
+  state: WI
+wootax/38652:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '53408'
+    location_type: postcode
+  name: RACINE
+  order: '0'
+  priority: '0'
+  rate: '5.1'
+  shipping: '1'
+  state: WI
+wootax/38653:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '53501'
+    location_type: postcode
+  name: ROCK COUNTY
+  order: '0'
+  priority: '0'
+  rate: '5.5'
+  shipping: '1'
+  state: WI
+wootax/38654:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '53502'
+    location_type: postcode
+  name: GREEN COUNTY
+  order: '0'
+  priority: '0'
+  rate: '5.5'
+  shipping: '1'
+  state: WI
+wootax/38655:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '53503'
+    location_type: postcode
+  name: IOWA COUNTY
+  order: '0'
+  priority: '0'
+  rate: '5.5'
+  shipping: '1'
+  state: WI
+wootax/38656:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '53504'
+    location_type: postcode
+  name: LAFAYETTE COUNTY
+  order: '0'
+  priority: '0'
+  rate: '5.5'
+  shipping: '1'
+  state: WI
+wootax/38657:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '53505'
+    location_type: postcode
+  name: ROCK COUNTY
+  order: '0'
+  priority: '0'
+  rate: '5.5'
+  shipping: '1'
+  state: WI
+wootax/38658:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '53506'
+    location_type: postcode
+  name: IOWA COUNTY
+  order: '0'
+  priority: '0'
+  rate: '5.5'
+  shipping: '1'
+  state: WI
+wootax/38659:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '53507'
+    location_type: postcode
+  name: IOWA COUNTY
+  order: '0'
+  priority: '0'
+  rate: '5.5'
+  shipping: '1'
+  state: WI
+wootax/38660:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '53508'
+    location_type: postcode
+  name: DANE COUNTY
+  order: '0'
+  priority: '0'
+  rate: '5.5'
+  shipping: '1'
+  state: WI
+wootax/38661:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '53510'
+    location_type: postcode
+  name: LAFAYETTE COUNTY
+  order: '0'
+  priority: '0'
+  rate: '5.5'
+  shipping: '1'
+  state: WI
+wootax/38662:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '53511'
+    location_type: postcode
+  name: 'BELOIT '
+  order: '0'
+  priority: '0'
+  rate: '5.5'
+  shipping: '1'
+  state: WI
+wootax/38663:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '53512'
+    location_type: postcode
+  name: 'BELOIT '
+  order: '0'
+  priority: '0'
+  rate: '5.5'
+  shipping: '1'
+  state: WI
+wootax/38664:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '53515'
+    location_type: postcode
+  name: DANE COUNTY
+  order: '0'
+  priority: '0'
+  rate: '5.5'
+  shipping: '1'
+  state: WI
+wootax/38665:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '53516'
+    location_type: postcode
+  name: LAFAYETTE COUNTY
+  order: '0'
+  priority: '0'
+  rate: '5.5'
+  shipping: '1'
+  state: WI
+wootax/38666:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '53517'
+    location_type: postcode
+  name: DANE COUNTY
+  order: '0'
+  priority: '0'
+  rate: '5.5'
+  shipping: '1'
+  state: WI
+wootax/38667:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '53518'
+    location_type: postcode
+  name: RICHLAND COUNTY
+  order: '0'
+  priority: '0'
+  rate: '5.5'
+  shipping: '1'
+  state: WI
+wootax/38668:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '53520'
+    location_type: postcode
+  name: 'BRODHEAD '
+  order: '0'
+  priority: '0'
+  rate: '5.5'
+  shipping: '1'
+  state: WI
+wootax/38669:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '53521'
+    location_type: postcode
+  name: GREEN COUNTY
+  order: '0'
+  priority: '0'
+  rate: '5.5'
+  shipping: '1'
+  state: WI
+wootax/38670:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '53522'
+    location_type: postcode
+  name: GREEN COUNTY
+  order: '0'
+  priority: '0'
+  rate: '5.5'
+  shipping: '1'
+  state: WI
+wootax/38671:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '53523'
+    location_type: postcode
+  name: DANE COUNTY
+  order: '0'
+  priority: '0'
+  rate: '5.5'
+  shipping: '1'
+  state: WI
+wootax/38672:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '53525'
+    location_type: postcode
+  name: ROCK COUNTY
+  order: '0'
+  priority: '0'
+  rate: '5.5'
+  shipping: '1'
+  state: WI
+wootax/38673:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '53526'
+    location_type: postcode
+  name: IOWA COUNTY
+  order: '0'
+  priority: '0'
+  rate: '5.5'
+  shipping: '1'
+  state: WI
+wootax/38674:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '53527'
+    location_type: postcode
+  name: DANE COUNTY
+  order: '0'
+  priority: '0'
+  rate: '5.5'
+  shipping: '1'
+  state: WI
+wootax/38675:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '53528'
+    location_type: postcode
+  name: DANE COUNTY
+  order: '0'
+  priority: '0'
+  rate: '5.5'
+  shipping: '1'
+  state: WI
+wootax/38676:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '53529'
+    location_type: postcode
+  name: DANE COUNTY
+  order: '0'
+  priority: '0'
+  rate: '5.5'
+  shipping: '1'
+  state: WI
+wootax/38677:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '53530'
+    location_type: postcode
+  name: 'DARLINGTON '
+  order: '0'
+  priority: '0'
+  rate: '5.5'
+  shipping: '1'
+  state: WI
+wootax/38678:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '53531'
+    location_type: postcode
+  name: DANE COUNTY
+  order: '0'
+  priority: '0'
+  rate: '5.5'
+  shipping: '1'
+  state: WI
+wootax/38679:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '53532'
+    location_type: postcode
+  name: DANE COUNTY
+  order: '0'
+  priority: '0'
+  rate: '5.5'
+  shipping: '1'
+  state: WI
+wootax/38680:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '53533'
+    location_type: postcode
+  name: 'DODGEVILLE '
+  order: '0'
+  priority: '0'
+  rate: '5.5'
+  shipping: '1'
+  state: WI
+wootax/38681:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '53534'
+    location_type: postcode
+  name: ROCK COUNTY
+  order: '0'
+  priority: '0'
+  rate: '5.5'
+  shipping: '1'
+  state: WI
+wootax/38682:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '53535'
+    location_type: postcode
+  name: IOWA COUNTY
+  order: '0'
+  priority: '0'
+  rate: '5.5'
+  shipping: '1'
+  state: WI
+wootax/38683:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '53536'
+    location_type: postcode
+  name: ROCK COUNTY
+  order: '0'
+  priority: '0'
+  rate: '5.5'
+  shipping: '1'
+  state: WI
+wootax/38684:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '53537'
+    location_type: postcode
+  name: ROCK COUNTY
+  order: '0'
+  priority: '0'
+  rate: '5.5'
+  shipping: '1'
+  state: WI
+wootax/38685:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '53538'
+    location_type: postcode
+  name: 'FORT ATKINSON '
+  order: '0'
+  priority: '0'
+  rate: '5.5'
+  shipping: '1'
+  state: WI
+wootax/38686:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '53540'
+    location_type: postcode
+  name: RICHLAND COUNTY
+  order: '0'
+  priority: '0'
+  rate: '5.5'
+  shipping: '1'
+  state: WI
+wootax/38687:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '53541'
+    location_type: postcode
+  name: LAFAYETTE COUNTY
+  order: '0'
+  priority: '0'
+  rate: '5.5'
+  shipping: '1'
+  state: WI
+wootax/38688:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '53542'
+    location_type: postcode
+  name: ROCK COUNTY
+  order: '0'
+  priority: '0'
+  rate: '5.5'
+  shipping: '1'
+  state: WI
+wootax/38689:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '53543'
+    location_type: postcode
+  name: IOWA COUNTY
+  order: '0'
+  priority: '0'
+  rate: '5.5'
+  shipping: '1'
+  state: WI
+wootax/38690:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '53544'
+    location_type: postcode
+  name: IOWA COUNTY
+  order: '0'
+  priority: '0'
+  rate: '5.5'
+  shipping: '1'
+  state: WI
+wootax/38691:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '53545'
+    location_type: postcode
+  name: JANESVILLE
+  order: '0'
+  priority: '0'
+  rate: '5.5'
+  shipping: '1'
+  state: WI
+wootax/38692:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '53546'
+    location_type: postcode
+  name: JANESVILLE
+  order: '0'
+  priority: '0'
+  rate: '5.5'
+  shipping: '1'
+  state: WI
+wootax/38693:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '53547'
+    location_type: postcode
+  name: JANESVILLE
+  order: '0'
+  priority: '0'
+  rate: '5.5'
+  shipping: '1'
+  state: WI
+wootax/38694:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '53548'
+    location_type: postcode
+  name: JANESVILLE
+  order: '0'
+  priority: '0'
+  rate: '5.5'
+  shipping: '1'
+  state: WI
+wootax/38695:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '53549'
+    location_type: postcode
+  name: JEFFERSON
+  order: '0'
+  priority: '0'
+  rate: '5.5'
+  shipping: '1'
+  state: WI
+wootax/38696:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '53550'
+    location_type: postcode
+  name: GREEN COUNTY
+  order: '0'
+  priority: '0'
+  rate: '5.5'
+  shipping: '1'
+  state: WI
+wootax/38697:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '53551'
+    location_type: postcode
+  name: LAKE MILLS
+  order: '0'
+  priority: '0'
+  rate: '5.5'
+  shipping: '1'
+  state: WI
+wootax/38698:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '53553'
+    location_type: postcode
+  name: IOWA COUNTY
+  order: '0'
+  priority: '0'
+  rate: '5.5'
+  shipping: '1'
+  state: WI
+wootax/38699:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '53554'
+    location_type: postcode
+  name: GRANT COUNTY
+  order: '0'
+  priority: '0'
+  rate: '5.5'
+  shipping: '1'
+  state: WI
+wootax/38700:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '53555'
+    location_type: postcode
+  name: COLUMBIA COUNTY
+  order: '0'
+  priority: '0'
+  rate: '5.5'
+  shipping: '1'
+  state: WI
+wootax/38701:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '53556'
+    location_type: postcode
+  name: RICHLAND COUNTY
+  order: '0'
+  priority: '0'
+  rate: '5.5'
+  shipping: '1'
+  state: WI
+wootax/38702:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '53557'
+    location_type: postcode
+  name: DODGE COUNTY
+  order: '0'
+  priority: '0'
+  rate: '5.5'
+  shipping: '1'
+  state: WI
+wootax/38703:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '53558'
+    location_type: postcode
+  name: DANE COUNTY
+  order: '0'
+  priority: '0'
+  rate: '5.5'
+  shipping: '1'
+  state: WI
+wootax/38704:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '53559'
+    location_type: postcode
+  name: DANE COUNTY
+  order: '0'
+  priority: '0'
+  rate: '5.5'
+  shipping: '1'
+  state: WI
+wootax/38705:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '53560'
+    location_type: postcode
+  name: DANE COUNTY
+  order: '0'
+  priority: '0'
+  rate: '5.5'
+  shipping: '1'
+  state: WI
+wootax/38706:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '53561'
+    location_type: postcode
+  name: SAUK COUNTY
+  order: '0'
+  priority: '0'
+  rate: '5.5'
+  shipping: '1'
+  state: WI
+wootax/38707:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '53562'
+    location_type: postcode
+  name: MIDDLETON
+  order: '0'
+  priority: '0'
+  rate: '5.5'
+  shipping: '1'
+  state: WI
+wootax/38708:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '53563'
+    location_type: postcode
+  name: ROCK COUNTY
+  order: '0'
+  priority: '0'
+  rate: '5.5'
+  shipping: '1'
+  state: WI
+wootax/38709:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '53565'
+    location_type: postcode
+  name: MINERAL POINT
+  order: '0'
+  priority: '0'
+  rate: '5.5'
+  shipping: '1'
+  state: WI
+wootax/38710:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '53566'
+    location_type: postcode
+  name: MONROE
+  order: '0'
+  priority: '0'
+  rate: '5.5'
+  shipping: '1'
+  state: WI
+wootax/38711:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '53569'
+    location_type: postcode
+  name: GRANT COUNTY
+  order: '0'
+  priority: '0'
+  rate: '5.5'
+  shipping: '1'
+  state: WI
+wootax/38712:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '53570'
+    location_type: postcode
+  name: GREEN COUNTY
+  order: '0'
+  priority: '0'
+  rate: '5.5'
+  shipping: '1'
+  state: WI
+wootax/38713:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '53571'
+    location_type: postcode
+  name: DANE COUNTY
+  order: '0'
+  priority: '0'
+  rate: '5.5'
+  shipping: '1'
+  state: WI
+wootax/38714:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '53572'
+    location_type: postcode
+  name: DANE COUNTY
+  order: '0'
+  priority: '0'
+  rate: '5.5'
+  shipping: '1'
+  state: WI
+wootax/38715:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '53573'
+    location_type: postcode
+  name: GRANT COUNTY
+  order: '0'
+  priority: '0'
+  rate: '5.5'
+  shipping: '1'
+  state: WI
+wootax/38716:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '53574'
+    location_type: postcode
+  name: GREEN COUNTY
+  order: '0'
+  priority: '0'
+  rate: '5.5'
+  shipping: '1'
+  state: WI
+wootax/38717:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '53575'
+    location_type: postcode
+  name: DANE COUNTY
+  order: '0'
+  priority: '0'
+  rate: '5.5'
+  shipping: '1'
+  state: WI
+wootax/38718:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '53576'
+    location_type: postcode
+  name: ROCK COUNTY
+  order: '0'
+  priority: '0'
+  rate: '5.5'
+  shipping: '1'
+  state: WI
+wootax/38719:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '53577'
+    location_type: postcode
+  name: SAUK COUNTY
+  order: '0'
+  priority: '0'
+  rate: '5.5'
+  shipping: '1'
+  state: WI
+wootax/38720:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '53578'
+    location_type: postcode
+  name: SAUK COUNTY
+  order: '0'
+  priority: '0'
+  rate: '5.5'
+  shipping: '1'
+  state: WI
+wootax/38721:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '53579'
+    location_type: postcode
+  name: DODGE COUNTY
+  order: '0'
+  priority: '0'
+  rate: '5.5'
+  shipping: '1'
+  state: WI
+wootax/38722:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '53580'
+    location_type: postcode
+  name: IOWA COUNTY
+  order: '0'
+  priority: '0'
+  rate: '5.5'
+  shipping: '1'
+  state: WI
+wootax/38723:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '53581'
+    location_type: postcode
+  name: RICHLAND COUNTY
+  order: '0'
+  priority: '0'
+  rate: '5.5'
+  shipping: '1'
+  state: WI
+wootax/38724:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '53582'
+    location_type: postcode
+  name: IOWA COUNTY
+  order: '0'
+  priority: '0'
+  rate: '5.5'
+  shipping: '1'
+  state: WI
+wootax/38725:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '53583'
+    location_type: postcode
+  name: SAUK COUNTY
+  order: '0'
+  priority: '0'
+  rate: '5.5'
+  shipping: '1'
+  state: WI
+wootax/38726:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '53584'
+    location_type: postcode
+  name: RICHLAND COUNTY
+  order: '0'
+  priority: '0'
+  rate: '5.5'
+  shipping: '1'
+  state: WI
+wootax/38727:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '53585'
+    location_type: postcode
+  name: WALWORTH COUNTY
+  order: '0'
+  priority: '0'
+  rate: '5.5'
+  shipping: '1'
+  state: WI
+wootax/38728:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '53586'
+    location_type: postcode
+  name: SHULLSBURG
+  order: '0'
+  priority: '0'
+  rate: '5.5'
+  shipping: '1'
+  state: WI
+wootax/38729:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '53587'
+    location_type: postcode
+  name: LAFAYETTE COUNTY
+  order: '0'
+  priority: '0'
+  rate: '5.5'
+  shipping: '1'
+  state: WI
+wootax/38730:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '53588'
+    location_type: postcode
+  name: SAUK COUNTY
+  order: '0'
+  priority: '0'
+  rate: '5.5'
+  shipping: '1'
+  state: WI
+wootax/38731:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '53589'
+    location_type: postcode
+  name: STOUGHTON
+  order: '0'
+  priority: '0'
+  rate: '5.5'
+  shipping: '1'
+  state: WI
+wootax/38732:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '53590'
+    location_type: postcode
+  name: SUN PRAIRIE
+  order: '0'
+  priority: '0'
+  rate: '5.5'
+  shipping: '1'
+  state: WI
+wootax/38733:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '53593'
+    location_type: postcode
+  name: VERONA
+  order: '0'
+  priority: '0'
+  rate: '5.5'
+  shipping: '1'
+  state: WI
+wootax/38734:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '53594'
+    location_type: postcode
+  name: WATERLOO
+  order: '0'
+  priority: '0'
+  rate: '5.5'
+  shipping: '1'
+  state: WI
+wootax/38735:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '53595'
+    location_type: postcode
+  name: 'DODGEVILLE '
+  order: '0'
+  priority: '0'
+  rate: '5.5'
+  shipping: '1'
+  state: WI
+wootax/38736:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '53596'
+    location_type: postcode
+  name: SUN PRAIRIE
+  order: '0'
+  priority: '0'
+  rate: '5.5'
+  shipping: '1'
+  state: WI
+wootax/38737:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '53597'
+    location_type: postcode
+  name: DANE COUNTY
+  order: '0'
+  priority: '0'
+  rate: '5.5'
+  shipping: '1'
+  state: WI
+wootax/38738:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '53598'
+    location_type: postcode
+  name: DANE COUNTY
+  order: '0'
+  priority: '0'
+  rate: '5.5'
+  shipping: '1'
+  state: WI
+wootax/38739:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '53599'
+    location_type: postcode
+  name: LAFAYETTE COUNTY
+  order: '0'
+  priority: '0'
+  rate: '5.5'
+  shipping: '1'
+  state: WI
+wootax/38740:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '53701'
+    location_type: postcode
+  name: MADISON
+  order: '0'
+  priority: '0'
+  rate: '5.5'
+  shipping: '1'
+  state: WI
+wootax/38741:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '53702'
+    location_type: postcode
+  name: MADISON
+  order: '0'
+  priority: '0'
+  rate: '5.5'
+  shipping: '1'
+  state: WI
+wootax/38742:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '53703'
+    location_type: postcode
+  name: MADISON
+  order: '0'
+  priority: '0'
+  rate: '5.5'
+  shipping: '1'
+  state: WI
+wootax/38743:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '53704'
+    location_type: postcode
+  name: MADISON
+  order: '0'
+  priority: '0'
+  rate: '5.5'
+  shipping: '1'
+  state: WI
+wootax/38744:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '53705'
+    location_type: postcode
+  name: MADISON
+  order: '0'
+  priority: '0'
+  rate: '5.5'
+  shipping: '1'
+  state: WI
+wootax/38745:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '53706'
+    location_type: postcode
+  name: MADISON
+  order: '0'
+  priority: '0'
+  rate: '5.5'
+  shipping: '1'
+  state: WI
+wootax/38746:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '53707'
+    location_type: postcode
+  name: MADISON
+  order: '0'
+  priority: '0'
+  rate: '5.5'
+  shipping: '1'
+  state: WI
+wootax/38747:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '53708'
+    location_type: postcode
+  name: MADISON
+  order: '0'
+  priority: '0'
+  rate: '5.5'
+  shipping: '1'
+  state: WI
+wootax/38748:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '53711'
+    location_type: postcode
+  name: MADISON
+  order: '0'
+  priority: '0'
+  rate: '5.5'
+  shipping: '1'
+  state: WI
+wootax/38749:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '53713'
+    location_type: postcode
+  name: MADISON
+  order: '0'
+  priority: '0'
+  rate: '5.5'
+  shipping: '1'
+  state: WI
+wootax/38750:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '53714'
+    location_type: postcode
+  name: MADISON
+  order: '0'
+  priority: '0'
+  rate: '5.5'
+  shipping: '1'
+  state: WI
+wootax/38751:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '53715'
+    location_type: postcode
+  name: MADISON
+  order: '0'
+  priority: '0'
+  rate: '5.5'
+  shipping: '1'
+  state: WI
+wootax/38752:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '53716'
+    location_type: postcode
+  name: MADISON
+  order: '0'
+  priority: '0'
+  rate: '5.5'
+  shipping: '1'
+  state: WI
+wootax/38753:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '53717'
+    location_type: postcode
+  name: MADISON
+  order: '0'
+  priority: '0'
+  rate: '5.5'
+  shipping: '1'
+  state: WI
+wootax/38754:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '53718'
+    location_type: postcode
+  name: MADISON
+  order: '0'
+  priority: '0'
+  rate: '5.5'
+  shipping: '1'
+  state: WI
+wootax/38755:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '53719'
+    location_type: postcode
+  name: MADISON
+  order: '0'
+  priority: '0'
+  rate: '5.5'
+  shipping: '1'
+  state: WI
+wootax/38756:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '53725'
+    location_type: postcode
+  name: MADISON
+  order: '0'
+  priority: '0'
+  rate: '5.5'
+  shipping: '1'
+  state: WI
+wootax/38757:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '53726'
+    location_type: postcode
+  name: MADISON
+  order: '0'
+  priority: '0'
+  rate: '5.5'
+  shipping: '1'
+  state: WI
+wootax/38758:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '53744'
+    location_type: postcode
+  name: MADISON
+  order: '0'
+  priority: '0'
+  rate: '5.5'
+  shipping: '1'
+  state: WI
+wootax/38759:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '53777'
+    location_type: postcode
+  name: MADISON
+  order: '0'
+  priority: '0'
+  rate: '5.5'
+  shipping: '1'
+  state: WI
+wootax/38760:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '53783'
+    location_type: postcode
+  name: MADISON
+  order: '0'
+  priority: '0'
+  rate: '5.5'
+  shipping: '1'
+  state: WI
+wootax/38761:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '53784'
+    location_type: postcode
+  name: MONONA
+  order: '0'
+  priority: '0'
+  rate: '5.5'
+  shipping: '1'
+  state: WI
+wootax/38762:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '53788'
+    location_type: postcode
+  name: MADISON
+  order: '0'
+  priority: '0'
+  rate: '5.5'
+  shipping: '1'
+  state: WI
+wootax/38763:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '53791'
+    location_type: postcode
+  name: MADISON
+  order: '0'
+  priority: '0'
+  rate: '5.5'
+  shipping: '1'
+  state: WI
+wootax/38764:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '53792'
+    location_type: postcode
+  name: MADISON
+  order: '0'
+  priority: '0'
+  rate: '5.5'
+  shipping: '1'
+  state: WI
+wootax/38765:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '53801'
+    location_type: postcode
+  name: GRANT COUNTY
+  order: '0'
+  priority: '0'
+  rate: '5.5'
+  shipping: '1'
+  state: WI
+wootax/38766:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '53802'
+    location_type: postcode
+  name: GRANT COUNTY
+  order: '0'
+  priority: '0'
+  rate: '5.5'
+  shipping: '1'
+  state: WI
+wootax/38767:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '53803'
+    location_type: postcode
+  name: LAFAYETTE COUNTY
+  order: '0'
+  priority: '0'
+  rate: '5.5'
+  shipping: '1'
+  state: WI
+wootax/38768:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '53804'
+    location_type: postcode
+  name: GRANT COUNTY
+  order: '0'
+  priority: '0'
+  rate: '5.5'
+  shipping: '1'
+  state: WI
+wootax/38769:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '53805'
+    location_type: postcode
+  name: BOSCOBEL
+  order: '0'
+  priority: '0'
+  rate: '5.5'
+  shipping: '1'
+  state: WI
+wootax/38770:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '53806'
+    location_type: postcode
+  name: GRANT COUNTY
+  order: '0'
+  priority: '0'
+  rate: '5.5'
+  shipping: '1'
+  state: WI
+wootax/38771:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '53807'
+    location_type: postcode
+  name: 'CUBA CITY '
+  order: '0'
+  priority: '0'
+  rate: '5.5'
+  shipping: '1'
+  state: WI
+wootax/38772:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '53808'
+    location_type: postcode
+  name: GRANT COUNTY
+  order: '0'
+  priority: '0'
+  rate: '5.5'
+  shipping: '1'
+  state: WI
+wootax/38773:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '53809'
+    location_type: postcode
+  name: 'FENNIMORE '
+  order: '0'
+  priority: '0'
+  rate: '5.5'
+  shipping: '1'
+  state: WI
+wootax/38774:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '53810'
+    location_type: postcode
+  name: GRANT COUNTY
+  order: '0'
+  priority: '0'
+  rate: '5.5'
+  shipping: '1'
+  state: WI
+wootax/38775:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '53811'
+    location_type: postcode
+  name: GRANT COUNTY
+  order: '0'
+  priority: '0'
+  rate: '5.5'
+  shipping: '1'
+  state: WI
+wootax/38776:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '53812'
+    location_type: postcode
+  name: GRANT COUNTY
+  order: '0'
+  priority: '0'
+  rate: '5.5'
+  shipping: '1'
+  state: WI
+wootax/38777:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '53813'
+    location_type: postcode
+  name: LANCASTER
+  order: '0'
+  priority: '0'
+  rate: '5.5'
+  shipping: '1'
+  state: WI
+wootax/38778:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '53816'
+    location_type: postcode
+  name: GRANT COUNTY
+  order: '0'
+  priority: '0'
+  rate: '5.5'
+  shipping: '1'
+  state: WI
+wootax/38779:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '53817'
+    location_type: postcode
+  name: GRANT COUNTY
+  order: '0'
+  priority: '0'
+  rate: '5.5'
+  shipping: '1'
+  state: WI
+wootax/38780:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '53818'
+    location_type: postcode
+  name: PLATTEVILLE
+  order: '0'
+  priority: '0'
+  rate: '5.5'
+  shipping: '1'
+  state: WI
+wootax/38781:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '53820'
+    location_type: postcode
+  name: GRANT COUNTY
+  order: '0'
+  priority: '0'
+  rate: '5.5'
+  shipping: '1'
+  state: WI
+wootax/38782:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '53821'
+    location_type: postcode
+  name: PRAIRIE DU CHIEN
+  order: '0'
+  priority: '0'
+  rate: '5.5'
+  shipping: '1'
+  state: WI
+wootax/38783:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '53824'
+    location_type: postcode
+  name: GRANT COUNTY
+  order: '0'
+  priority: '0'
+  rate: '5.5'
+  shipping: '1'
+  state: WI
+wootax/38784:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '53825'
+    location_type: postcode
+  name: GRANT COUNTY
+  order: '0'
+  priority: '0'
+  rate: '5.5'
+  shipping: '1'
+  state: WI
+wootax/38785:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '53826'
+    location_type: postcode
+  name: CRAWFORD COUNTY
+  order: '0'
+  priority: '0'
+  rate: '5.5'
+  shipping: '1'
+  state: WI
+wootax/38786:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '53827'
+    location_type: postcode
+  name: GRANT COUNTY
+  order: '0'
+  priority: '0'
+  rate: '5.5'
+  shipping: '1'
+  state: WI
+wootax/38787:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '53901'
+    location_type: postcode
+  name: PORTAGE
+  order: '0'
+  priority: '0'
+  rate: '5.5'
+  shipping: '1'
+  state: WI
+wootax/38788:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '53910'
+    location_type: postcode
+  name: 'ADAMS '
+  order: '0'
+  priority: '0'
+  rate: '5.5'
+  shipping: '1'
+  state: WI
+wootax/38789:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '53911'
+    location_type: postcode
+  name: COLUMBIA COUNTY
+  order: '0'
+  priority: '0'
+  rate: '5.5'
+  shipping: '1'
+  state: WI
+wootax/38790:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '53913'
+    location_type: postcode
+  name: 'BARABOO '
+  order: '0'
+  priority: '0'
+  rate: '5.5'
+  shipping: '1'
+  state: WI
+wootax/38791:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '53916'
+    location_type: postcode
+  name: 'BEAVER DAM '
+  order: '0'
+  priority: '0'
+  rate: '5.5'
+  shipping: '1'
+  state: WI
+wootax/38792:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '53919'
+    location_type: postcode
+  name: FOND DU LAC COUNTY
+  order: '0'
+  priority: '0'
+  rate: '5.5'
+  shipping: '1'
+  state: WI
+wootax/38793:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '53920'
+    location_type: postcode
+  name: MARQUETTE COUNTY
+  order: '0'
+  priority: '0'
+  rate: '5.5'
+  shipping: '1'
+  state: WI
+wootax/38794:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '53922'
+    location_type: postcode
+  name: DODGE COUNTY
+  order: '0'
+  priority: '0'
+  rate: '5.5'
+  shipping: '1'
+  state: WI
+wootax/38795:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '53923'
+    location_type: postcode
+  name: COLUMBIA COUNTY
+  order: '0'
+  priority: '0'
+  rate: '5.5'
+  shipping: '1'
+  state: WI
+wootax/38796:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '53924'
+    location_type: postcode
+  name: RICHLAND COUNTY
+  order: '0'
+  priority: '0'
+  rate: '5.5'
+  shipping: '1'
+  state: WI
+wootax/38797:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '53925'
+    location_type: postcode
+  name: COLUMBUS
+  order: '0'
+  priority: '0'
+  rate: '5.5'
+  shipping: '1'
+  state: WI
+wootax/38798:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '53926'
+    location_type: postcode
+  name: GREEN LAKE COUNTY
+  order: '0'
+  priority: '0'
+  rate: '5.5'
+  shipping: '1'
+  state: WI
+wootax/38799:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '53928'
+    location_type: postcode
+  name: COLUMBIA COUNTY
+  order: '0'
+  priority: '0'
+  rate: '5.5'
+  shipping: '1'
+  state: WI
+wootax/38800:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '53929'
+    location_type: postcode
+  name: 'ELROY '
+  order: '0'
+  priority: '0'
+  rate: '5.5'
+  shipping: '1'
+  state: WI
+wootax/38801:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '53930'
+    location_type: postcode
+  name: MARQUETTE COUNTY
+  order: '0'
+  priority: '0'
+  rate: '5.5'
+  shipping: '1'
+  state: WI
+wootax/38802:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '53931'
+    location_type: postcode
+  name: FOND DU LAC COUNTY
+  order: '0'
+  priority: '0'
+  rate: '5.5'
+  shipping: '1'
+  state: WI
+wootax/38803:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '53932'
+    location_type: postcode
+  name: COLUMBIA COUNTY
+  order: '0'
+  priority: '0'
+  rate: '5.5'
+  shipping: '1'
+  state: WI
+wootax/38804:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '53933'
+    location_type: postcode
+  name: 'FOX LAKE '
+  order: '0'
+  priority: '0'
+  rate: '5.5'
+  shipping: '1'
+  state: WI
+wootax/38805:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '53934'
+    location_type: postcode
+  name: ADAMS COUNTY
+  order: '0'
+  priority: '0'
+  rate: '5.5'
+  shipping: '1'
+  state: WI
+wootax/38806:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '53935'
+    location_type: postcode
+  name: COLUMBIA COUNTY
+  order: '0'
+  priority: '0'
+  rate: '5.5'
+  shipping: '1'
+  state: WI
+wootax/38807:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '53936'
+    location_type: postcode
+  name: ADAMS COUNTY
+  order: '0'
+  priority: '0'
+  rate: '5.5'
+  shipping: '1'
+  state: WI
+wootax/38808:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '53937'
+    location_type: postcode
+  name: SAUK COUNTY
+  order: '0'
+  priority: '0'
+  rate: '5.5'
+  shipping: '1'
+  state: WI
+wootax/38809:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '53939'
+    location_type: postcode
+  name: GREEN LAKE COUNTY
+  order: '0'
+  priority: '0'
+  rate: '5.5'
+  shipping: '1'
+  state: WI
+wootax/38810:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '53940'
+    location_type: postcode
+  name: LAKE DELTON
+  order: '0'
+  priority: '0'
+  rate: '5.5'
+  shipping: '1'
+  state: WI
+wootax/38811:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '53941'
+    location_type: postcode
+  name: SAUK COUNTY
+  order: '0'
+  priority: '0'
+  rate: '5.5'
+  shipping: '1'
+  state: WI
+wootax/38812:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '53942'
+    location_type: postcode
+  name: SAUK COUNTY
+  order: '0'
+  priority: '0'
+  rate: '5.5'
+  shipping: '1'
+  state: WI
+wootax/38813:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '53943'
+    location_type: postcode
+  name: SAUK COUNTY
+  order: '0'
+  priority: '0'
+  rate: '5.5'
+  shipping: '1'
+  state: WI
+wootax/38814:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '53944'
+    location_type: postcode
+  name: JUNEAU COUNTY
+  order: '0'
+  priority: '0'
+  rate: '5.5'
+  shipping: '1'
+  state: WI
+wootax/38815:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '53946'
+    location_type: postcode
+  name: GREEN LAKE COUNTY
+  order: '0'
+  priority: '0'
+  rate: '5.5'
+  shipping: '1'
+  state: WI
+wootax/38816:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '53947'
+    location_type: postcode
+  name: GREEN LAKE COUNTY
+  order: '0'
+  priority: '0'
+  rate: '5.5'
+  shipping: '1'
+  state: WI
+wootax/38817:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '53948'
+    location_type: postcode
+  name: JUNEAU COUNTY
+  order: '0'
+  priority: '0'
+  rate: '5.5'
+  shipping: '1'
+  state: WI
+wootax/38818:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '53949'
+    location_type: postcode
+  name: MARQUETTE COUNTY
+  order: '0'
+  priority: '0'
+  rate: '5.5'
+  shipping: '1'
+  state: WI
+wootax/38819:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '53950'
+    location_type: postcode
+  name: JUNEAU COUNTY
+  order: '0'
+  priority: '0'
+  rate: '5.5'
+  shipping: '1'
+  state: WI
+wootax/38820:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '53951'
+    location_type: postcode
+  name: SAUK COUNTY
+  order: '0'
+  priority: '0'
+  rate: '5.5'
+  shipping: '1'
+  state: WI
+wootax/38821:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '53952'
+    location_type: postcode
+  name: ADAMS COUNTY
+  order: '0'
+  priority: '0'
+  rate: '5.5'
+  shipping: '1'
+  state: WI
+wootax/38822:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '53953'
+    location_type: postcode
+  name: MARQUETTE COUNTY
+  order: '0'
+  priority: '0'
+  rate: '5.5'
+  shipping: '1'
+  state: WI
+wootax/38823:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '53954'
+    location_type: postcode
+  name: COLUMBIA COUNTY
+  order: '0'
+  priority: '0'
+  rate: '5.5'
+  shipping: '1'
+  state: WI
+wootax/38824:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '53955'
+    location_type: postcode
+  name: COLUMBIA COUNTY
+  order: '0'
+  priority: '0'
+  rate: '5.5'
+  shipping: '1'
+  state: WI
+wootax/38825:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '53956'
+    location_type: postcode
+  name: DODGE COUNTY
+  order: '0'
+  priority: '0'
+  rate: '5.5'
+  shipping: '1'
+  state: WI
+wootax/38826:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '53957'
+    location_type: postcode
+  name: DODGE COUNTY
+  order: '0'
+  priority: '0'
+  rate: '5.5'
+  shipping: '1'
+  state: WI
+wootax/38827:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '53958'
+    location_type: postcode
+  name: REEDSBURG
+  order: '0'
+  priority: '0'
+  rate: '5.5'
+  shipping: '1'
+  state: WI
+wootax/38828:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '53959'
+    location_type: postcode
+  name: REEDSBURG
+  order: '0'
+  priority: '0'
+  rate: '5.5'
+  shipping: '1'
+  state: WI
+wootax/38829:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '53960'
+    location_type: postcode
+  name: COLUMBIA COUNTY
+  order: '0'
+  priority: '0'
+  rate: '5.5'
+  shipping: '1'
+  state: WI
+wootax/38830:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '53961'
+    location_type: postcode
+  name: SAUK COUNTY
+  order: '0'
+  priority: '0'
+  rate: '5.5'
+  shipping: '1'
+  state: WI
+wootax/38831:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '53962'
+    location_type: postcode
+  name: JUNEAU COUNTY
+  order: '0'
+  priority: '0'
+  rate: '5.5'
+  shipping: '1'
+  state: WI
+wootax/38832:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '53963'
+    location_type: postcode
+  name: WAUPUN
+  order: '0'
+  priority: '0'
+  rate: '5.5'
+  shipping: '1'
+  state: WI
+wootax/38833:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '53964'
+    location_type: postcode
+  name: MARQUETTE COUNTY
+  order: '0'
+  priority: '0'
+  rate: '5.5'
+  shipping: '1'
+  state: WI
+wootax/38834:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '53965'
+    location_type: postcode
+  name: ADAMS COUNTY
+  order: '0'
+  priority: '0'
+  rate: '5.5'
+  shipping: '1'
+  state: WI
+wootax/38835:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '53968'
+    location_type: postcode
+  name: JUNEAU COUNTY
+  order: '0'
+  priority: '0'
+  rate: '5.5'
+  shipping: '1'
+  state: WI
+wootax/38836:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '53969'
+    location_type: postcode
+  name: COLUMBIA COUNTY
+  order: '0'
+  priority: '0'
+  rate: '5.5'
+  shipping: '1'
+  state: WI
+wootax/38837:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '54001'
+    location_type: postcode
+  name: POLK COUNTY
+  order: '0'
+  priority: '0'
+  rate: '5.5'
+  shipping: '1'
+  state: WI
+wootax/38838:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '54002'
+    location_type: postcode
+  name: ST. CROIX COUNTY
+  order: '0'
+  priority: '0'
+  rate: '5.5'
+  shipping: '1'
+  state: WI
+wootax/38839:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '54003'
+    location_type: postcode
+  name: PIERCE COUNTY
+  order: '0'
+  priority: '0'
+  rate: '5.5'
+  shipping: '1'
+  state: WI
+wootax/38840:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '54004'
+    location_type: postcode
+  name: POLK COUNTY
+  order: '0'
+  priority: '0'
+  rate: '5.5'
+  shipping: '1'
+  state: WI
+wootax/38841:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '54005'
+    location_type: postcode
+  name: POLK COUNTY
+  order: '0'
+  priority: '0'
+  rate: '5.5'
+  shipping: '1'
+  state: WI
+wootax/38842:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '54006'
+    location_type: postcode
+  name: POLK COUNTY
+  order: '0'
+  priority: '0'
+  rate: '5.5'
+  shipping: '1'
+  state: WI
+wootax/38843:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '54007'
+    location_type: postcode
+  name: ST. CROIX COUNTY
+  order: '0'
+  priority: '0'
+  rate: '5.5'
+  shipping: '1'
+  state: WI
+wootax/38844:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '54009'
+    location_type: postcode
+  name: POLK COUNTY
+  order: '0'
+  priority: '0'
+  rate: '5.5'
+  shipping: '1'
+  state: WI
+wootax/38845:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '54010'
+    location_type: postcode
+  name: PIERCE COUNTY
+  order: '0'
+  priority: '0'
+  rate: '5.5'
+  shipping: '1'
+  state: WI
+wootax/38846:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '54011'
+    location_type: postcode
+  name: PIERCE COUNTY
+  order: '0'
+  priority: '0'
+  rate: '5.5'
+  shipping: '1'
+  state: WI
+wootax/38847:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '54013'
+    location_type: postcode
+  name: ST. CROIX COUNTY
+  order: '0'
+  priority: '0'
+  rate: '5.5'
+  shipping: '1'
+  state: WI
+wootax/38848:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '54014'
+    location_type: postcode
+  name: PIERCE COUNTY
+  order: '0'
+  priority: '0'
+  rate: '5.5'
+  shipping: '1'
+  state: WI
+wootax/38849:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '54015'
+    location_type: postcode
+  name: ST. CROIX COUNTY
+  order: '0'
+  priority: '0'
+  rate: '5.5'
+  shipping: '1'
+  state: WI
+wootax/38850:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '54016'
+    location_type: postcode
+  name: HUDSON
+  order: '0'
+  priority: '0'
+  rate: '5.5'
+  shipping: '1'
+  state: WI
+wootax/38851:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '54017'
+    location_type: postcode
+  name: NEW RICHMOND
+  order: '0'
+  priority: '0'
+  rate: '5.5'
+  shipping: '1'
+  state: WI
+wootax/38852:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '54020'
+    location_type: postcode
+  name: POLK COUNTY
+  order: '0'
+  priority: '0'
+  rate: '5.5'
+  shipping: '1'
+  state: WI
+wootax/38853:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '54021'
+    location_type: postcode
+  name: PRESCOTT
+  order: '0'
+  priority: '0'
+  rate: '5.5'
+  shipping: '1'
+  state: WI
+wootax/38854:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '54022'
+    location_type: postcode
+  name: RIVER FALLS
+  order: '0'
+  priority: '0'
+  rate: '5.5'
+  shipping: '1'
+  state: WI
+wootax/38855:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '54023'
+    location_type: postcode
+  name: ST. CROIX COUNTY
+  order: '0'
+  priority: '0'
+  rate: '5.5'
+  shipping: '1'
+  state: WI
+wootax/38856:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '54024'
+    location_type: postcode
+  name: POLK COUNTY
+  order: '0'
+  priority: '0'
+  rate: '5.5'
+  shipping: '1'
+  state: WI
+wootax/38857:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '54025'
+    location_type: postcode
+  name: ST. CROIX COUNTY
+  order: '0'
+  priority: '0'
+  rate: '5.5'
+  shipping: '1'
+  state: WI
+wootax/38858:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '54026'
+    location_type: postcode
+  name: POLK COUNTY
+  order: '0'
+  priority: '0'
+  rate: '5.5'
+  shipping: '1'
+  state: WI
+wootax/38859:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '54027'
+    location_type: postcode
+  name: ST. CROIX COUNTY
+  order: '0'
+  priority: '0'
+  rate: '5.5'
+  shipping: '1'
+  state: WI
+wootax/38860:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '54028'
+    location_type: postcode
+  name: ST. CROIX COUNTY
+  order: '0'
+  priority: '0'
+  rate: '5.5'
+  shipping: '1'
+  state: WI
+wootax/38861:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '54082'
+    location_type: postcode
+  name: ST. CROIX COUNTY
+  order: '0'
+  priority: '0'
+  rate: '5.5'
+  shipping: '1'
+  state: WI
+wootax/38862:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '54101'
+    location_type: postcode
+  name: OCONTO COUNTY
+  order: '0'
+  priority: '0'
+  rate: '5.5'
+  shipping: '1'
+  state: WI
+wootax/38863:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '54102'
+    location_type: postcode
+  name: MARINETTE COUNTY
+  order: '0'
+  priority: '0'
+  rate: '5.5'
+  shipping: '1'
+  state: WI
+wootax/38864:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '54103'
+    location_type: postcode
+  name: FOREST COUNTY
+  order: '0'
+  priority: '0'
+  rate: '5.5'
+  shipping: '1'
+  state: WI
+wootax/38865:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '54104'
+    location_type: postcode
+  name: MARINETTE COUNTY
+  order: '0'
+  priority: '0'
+  rate: '5.5'
+  shipping: '1'
+  state: WI
+wootax/38866:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '54106'
+    location_type: postcode
+  name: OUTAGAMIE
+  order: '0'
+  priority: '0'
+  rate: '5'
+  shipping: '1'
+  state: WI
+wootax/38867:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '54107'
+    location_type: postcode
+  name: SHAWANO COUNTY
+  order: '0'
+  priority: '0'
+  rate: '5.5'
+  shipping: '1'
+  state: WI
+wootax/38868:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '54110'
+    location_type: postcode
+  name: 'BRILLION '
+  order: '0'
+  priority: '0'
+  rate: '5.5'
+  shipping: '1'
+  state: WI
+wootax/38869:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '54111'
+    location_type: postcode
+  name: SHAWANO COUNTY
+  order: '0'
+  priority: '0'
+  rate: '5.5'
+  shipping: '1'
+  state: WI
+wootax/38870:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '54112'
+    location_type: postcode
+  name: MARINETTE COUNTY
+  order: '0'
+  priority: '0'
+  rate: '5.5'
+  shipping: '1'
+  state: WI
+wootax/38871:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '54113'
+    location_type: postcode
+  name: OUTAGAMIE
+  order: '0'
+  priority: '0'
+  rate: '5'
+  shipping: '1'
+  state: WI
+wootax/38872:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '54114'
+    location_type: postcode
+  name: MARINETTE COUNTY
+  order: '0'
+  priority: '0'
+  rate: '5.5'
+  shipping: '1'
+  state: WI
+wootax/38873:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '54115'
+    location_type: postcode
+  name: 'DE PERE '
+  order: '0'
+  priority: '0'
+  rate: '5.5'
+  shipping: '1'
+  state: WI
+wootax/38874:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '54119'
+    location_type: postcode
+  name: MARINETTE COUNTY
+  order: '0'
+  priority: '0'
+  rate: '5.5'
+  shipping: '1'
+  state: WI
+wootax/38875:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '54120'
+    location_type: postcode
+  name: FLORENCE COUNTY
+  order: '0'
+  priority: '0'
+  rate: '5.5'
+  shipping: '1'
+  state: WI
+wootax/38876:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '54121'
+    location_type: postcode
+  name: FLORENCE COUNTY
+  order: '0'
+  priority: '0'
+  rate: '5.5'
+  shipping: '1'
+  state: WI
+wootax/38877:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '54123'
+    location_type: postcode
+  name: CALUMET
+  order: '0'
+  priority: '0'
+  rate: '5.5'
+  shipping: '1'
+  state: WI
+wootax/38878:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '54124'
+    location_type: postcode
+  name: OCONTO COUNTY
+  order: '0'
+  priority: '0'
+  rate: '5.5'
+  shipping: '1'
+  state: WI
+wootax/38879:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '54125'
+    location_type: postcode
+  name: MARINETTE COUNTY
+  order: '0'
+  priority: '0'
+  rate: '5.5'
+  shipping: '1'
+  state: WI
+wootax/38880:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '54126'
+    location_type: postcode
+  name: BROWN COUNTY
+  order: '0'
+  priority: '0'
+  rate: '5.5'
+  shipping: '1'
+  state: WI
+wootax/38881:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '54127'
+    location_type: postcode
+  name: SHAWANO COUNTY
+  order: '0'
+  priority: '0'
+  rate: '5.5'
+  shipping: '1'
+  state: WI
+wootax/38882:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '54128'
+    location_type: postcode
+  name: SHAWANO COUNTY
+  order: '0'
+  priority: '0'
+  rate: '5.5'
+  shipping: '1'
+  state: WI
+wootax/38883:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '54129'
+    location_type: postcode
+  name: CALUMET
+  order: '0'
+  priority: '0'
+  rate: '5.5'
+  shipping: '1'
+  state: WI
+wootax/38884:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '54130'
+    location_type: postcode
+  name: 'KAUKAUNA '
+  order: '0'
+  priority: '0'
+  rate: '5'
+  shipping: '1'
+  state: WI
+wootax/38885:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '54135'
+    location_type: postcode
+  name: MENOMINEE
+  order: '0'
+  priority: '0'
+  rate: '5'
+  shipping: '1'
+  state: WI
+wootax/38886:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '54136'
+    location_type: postcode
+  name: OUTAGAMIE
+  order: '0'
+  priority: '0'
+  rate: '5'
+  shipping: '1'
+  state: WI
+wootax/38887:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '54137'
+    location_type: postcode
+  name: SHAWANO COUNTY
+  order: '0'
+  priority: '0'
+  rate: '5.5'
+  shipping: '1'
+  state: WI
+wootax/38888:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '54138'
+    location_type: postcode
+  name: OCONTO COUNTY
+  order: '0'
+  priority: '0'
+  rate: '5.5'
+  shipping: '1'
+  state: WI
+wootax/38889:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '54139'
+    location_type: postcode
+  name: OCONTO COUNTY
+  order: '0'
+  priority: '0'
+  rate: '5.5'
+  shipping: '1'
+  state: WI
+wootax/38890:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '54140'
+    location_type: postcode
+  name: OUTAGAMIE
+  order: '0'
+  priority: '0'
+  rate: '5'
+  shipping: '1'
+  state: WI
+wootax/38891:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '54141'
+    location_type: postcode
+  name: OCONTO COUNTY
+  order: '0'
+  priority: '0'
+  rate: '5.5'
+  shipping: '1'
+  state: WI
+wootax/38892:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '54143'
+    location_type: postcode
+  name: MARINETTE
+  order: '0'
+  priority: '0'
+  rate: '5.5'
+  shipping: '1'
+  state: WI
+wootax/38893:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '54149'
+    location_type: postcode
+  name: OCONTO COUNTY
+  order: '0'
+  priority: '0'
+  rate: '5.5'
+  shipping: '1'
+  state: WI
+wootax/38894:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '54150'
+    location_type: postcode
+  name: MENOMINEE
+  order: '0'
+  priority: '0'
+  rate: '5'
+  shipping: '1'
+  state: WI
+wootax/38895:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '54151'
+    location_type: postcode
+  name: NIAGARA
+  order: '0'
+  priority: '0'
+  rate: '5.5'
+  shipping: '1'
+  state: WI
+wootax/38896:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '54152'
+    location_type: postcode
+  name: OUTAGAMIE
+  order: '0'
+  priority: '0'
+  rate: '5'
+  shipping: '1'
+  state: WI
+wootax/38897:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '54153'
+    location_type: postcode
+  name: OCONTO
+  order: '0'
+  priority: '0'
+  rate: '5.5'
+  shipping: '1'
+  state: WI
+wootax/38898:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '54154'
+    location_type: postcode
+  name: OCONTO FALLS
+  order: '0'
+  priority: '0'
+  rate: '5.5'
+  shipping: '1'
+  state: WI
+wootax/38899:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '54155'
+    location_type: postcode
+  name: BROWN COUNTY
+  order: '0'
+  priority: '0'
+  rate: '5.5'
+  shipping: '1'
+  state: WI
+wootax/38900:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '54156'
+    location_type: postcode
+  name: MARINETTE COUNTY
+  order: '0'
+  priority: '0'
+  rate: '5.5'
+  shipping: '1'
+  state: WI
+wootax/38901:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '54157'
+    location_type: postcode
+  name: PESHTIGO
+  order: '0'
+  priority: '0'
+  rate: '5.5'
+  shipping: '1'
+  state: WI
+wootax/38902:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '54159'
+    location_type: postcode
+  name: MARINETTE COUNTY
+  order: '0'
+  priority: '0'
+  rate: '5.5'
+  shipping: '1'
+  state: WI
+wootax/38903:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '54160'
+    location_type: postcode
+  name: CALUMET
+  order: '0'
+  priority: '0'
+  rate: '5.5'
+  shipping: '1'
+  state: WI
+wootax/38904:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '54161'
+    location_type: postcode
+  name: MARINETTE COUNTY
+  order: '0'
+  priority: '0'
+  rate: '5.5'
+  shipping: '1'
+  state: WI
+wootax/38905:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '54162'
+    location_type: postcode
+  name: SHAWANO COUNTY
+  order: '0'
+  priority: '0'
+  rate: '5.5'
+  shipping: '1'
+  state: WI
+wootax/38906:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '54165'
+    location_type: postcode
+  name: OUTAGAMIE
+  order: '0'
+  priority: '0'
+  rate: '5'
+  shipping: '1'
+  state: WI
+wootax/38907:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '54166'
+    location_type: postcode
+  name: SHAWANO
+  order: '0'
+  priority: '0'
+  rate: '5.5'
+  shipping: '1'
+  state: WI
+wootax/38908:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '54169'
+    location_type: postcode
+  name: CALUMET
+  order: '0'
+  priority: '0'
+  rate: '5.5'
+  shipping: '1'
+  state: WI
+wootax/38909:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '54170'
+    location_type: postcode
+  name: OUTAGAMIE
+  order: '0'
+  priority: '0'
+  rate: '5'
+  shipping: '1'
+  state: WI
+wootax/38910:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '54171'
+    location_type: postcode
+  name: OCONTO COUNTY
+  order: '0'
+  priority: '0'
+  rate: '5.5'
+  shipping: '1'
+  state: WI
+wootax/38911:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '54173'
+    location_type: postcode
+  name: BROWN COUNTY
+  order: '0'
+  priority: '0'
+  rate: '5.5'
+  shipping: '1'
+  state: WI
+wootax/38912:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '54174'
+    location_type: postcode
+  name: OCONTO COUNTY
+  order: '0'
+  priority: '0'
+  rate: '5.5'
+  shipping: '1'
+  state: WI
+wootax/38913:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '54175'
+    location_type: postcode
+  name: OCONTO COUNTY
+  order: '0'
+  priority: '0'
+  rate: '5.5'
+  shipping: '1'
+  state: WI
+wootax/38914:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '54177'
+    location_type: postcode
+  name: MARINETTE COUNTY
+  order: '0'
+  priority: '0'
+  rate: '5.5'
+  shipping: '1'
+  state: WI
+wootax/38915:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '54180'
+    location_type: postcode
+  name: BROWN COUNTY
+  order: '0'
+  priority: '0'
+  rate: '5.5'
+  shipping: '1'
+  state: WI
+wootax/38916:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '54201'
+    location_type: postcode
+  name: 'ALGOMA '
+  order: '0'
+  priority: '0'
+  rate: '5.5'
+  shipping: '1'
+  state: WI
+wootax/38917:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '54202'
+    location_type: postcode
+  name: DOOR COUNTY
+  order: '0'
+  priority: '0'
+  rate: '5.5'
+  shipping: '1'
+  state: WI
+wootax/38918:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '54204'
+    location_type: postcode
+  name: DOOR COUNTY
+  order: '0'
+  priority: '0'
+  rate: '5.5'
+  shipping: '1'
+  state: WI
+wootax/38919:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '54205'
+    location_type: postcode
+  name: KEWAUNEE COUNTY
+  order: '0'
+  priority: '0'
+  rate: '5.5'
+  shipping: '1'
+  state: WI
+wootax/38920:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '54207'
+    location_type: postcode
+  name: MANITOWOC
+  order: '0'
+  priority: '0'
+  rate: '5'
+  shipping: '1'
+  state: WI
+wootax/38921:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '54208'
+    location_type: postcode
+  name: BROWN COUNTY
+  order: '0'
+  priority: '0'
+  rate: '5.5'
+  shipping: '1'
+  state: WI
+wootax/38922:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '54209'
+    location_type: postcode
+  name: DOOR COUNTY
+  order: '0'
+  priority: '0'
+  rate: '5.5'
+  shipping: '1'
+  state: WI
+wootax/38923:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '54210'
+    location_type: postcode
+  name: DOOR COUNTY
+  order: '0'
+  priority: '0'
+  rate: '5.5'
+  shipping: '1'
+  state: WI
+wootax/38924:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '54211'
+    location_type: postcode
+  name: DOOR COUNTY
+  order: '0'
+  priority: '0'
+  rate: '5.5'
+  shipping: '1'
+  state: WI
+wootax/38925:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '54212'
+    location_type: postcode
+  name: DOOR COUNTY
+  order: '0'
+  priority: '0'
+  rate: '5.5'
+  shipping: '1'
+  state: WI
+wootax/38926:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '54213'
+    location_type: postcode
+  name: DOOR COUNTY
+  order: '0'
+  priority: '0'
+  rate: '5.5'
+  shipping: '1'
+  state: WI
+wootax/38927:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '54214'
+    location_type: postcode
+  name: MANITOWOC
+  order: '0'
+  priority: '0'
+  rate: '5'
+  shipping: '1'
+  state: WI
+wootax/38928:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '54215'
+    location_type: postcode
+  name: MANITOWOC
+  order: '0'
+  priority: '0'
+  rate: '5'
+  shipping: '1'
+  state: WI
+wootax/38929:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '54216'
+    location_type: postcode
+  name: KEWAUNEE
+  order: '0'
+  priority: '0'
+  rate: '5.5'
+  shipping: '1'
+  state: WI
+wootax/38930:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '54217'
+    location_type: postcode
+  name: KEWAUNEE COUNTY
+  order: '0'
+  priority: '0'
+  rate: '5.5'
+  shipping: '1'
+  state: WI
+wootax/38931:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '54220'
+    location_type: postcode
+  name: MANITOWOC
+  order: '0'
+  priority: '0'
+  rate: '5'
+  shipping: '1'
+  state: WI
+wootax/38932:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '54226'
+    location_type: postcode
+  name: STURGEON BAY
+  order: '0'
+  priority: '0'
+  rate: '5.5'
+  shipping: '1'
+  state: WI
+wootax/38933:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '54227'
+    location_type: postcode
+  name: MANITOWOC
+  order: '0'
+  priority: '0'
+  rate: '5'
+  shipping: '1'
+  state: WI
+wootax/38934:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '54228'
+    location_type: postcode
+  name: MANITOWOC
+  order: '0'
+  priority: '0'
+  rate: '5'
+  shipping: '1'
+  state: WI
+wootax/38935:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '54229'
+    location_type: postcode
+  name: BROWN COUNTY
+  order: '0'
+  priority: '0'
+  rate: '5.5'
+  shipping: '1'
+  state: WI
+wootax/38936:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '54230'
+    location_type: postcode
+  name: MANITOWOC
+  order: '0'
+  priority: '0'
+  rate: '5'
+  shipping: '1'
+  state: WI
+wootax/38937:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '54232'
+    location_type: postcode
+  name: MANITOWOC
+  order: '0'
+  priority: '0'
+  rate: '5'
+  shipping: '1'
+  state: WI
+wootax/38938:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '54234'
+    location_type: postcode
+  name: SISTER BAY
+  order: '0'
+  priority: '0'
+  rate: '5.5'
+  shipping: '1'
+  state: WI
+wootax/38939:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '54235'
+    location_type: postcode
+  name: STURGEON BAY
+  order: '0'
+  priority: '0'
+  rate: '5.5'
+  shipping: '1'
+  state: WI
+wootax/38940:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '54241'
+    location_type: postcode
+  name: TWO RIVERS
+  order: '0'
+  priority: '0'
+  rate: '5'
+  shipping: '1'
+  state: WI
+wootax/38941:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '54245'
+    location_type: postcode
+  name: MANITOWOC
+  order: '0'
+  priority: '0'
+  rate: '5'
+  shipping: '1'
+  state: WI
+wootax/38942:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '54246'
+    location_type: postcode
+  name: DOOR COUNTY
+  order: '0'
+  priority: '0'
+  rate: '5.5'
+  shipping: '1'
+  state: WI
+wootax/38943:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '54247'
+    location_type: postcode
+  name: MANITOWOC
+  order: '0'
+  priority: '0'
+  rate: '5'
+  shipping: '1'
+  state: WI
+wootax/38944:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '54301'
+    location_type: postcode
+  name: BROWN COUNTY
+  order: '0'
+  priority: '0'
+  rate: '5.5'
+  shipping: '1'
+  state: WI
+wootax/38945:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '54302'
+    location_type: postcode
+  name: 'GREEN BAY '
+  order: '0'
+  priority: '0'
+  rate: '5.5'
+  shipping: '1'
+  state: WI
+wootax/38946:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '54303'
+    location_type: postcode
+  name: 'GREEN BAY '
+  order: '0'
+  priority: '0'
+  rate: '5.5'
+  shipping: '1'
+  state: WI
+wootax/38947:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '54304'
+    location_type: postcode
+  name: 'GREEN BAY '
+  order: '0'
+  priority: '0'
+  rate: '5.5'
+  shipping: '1'
+  state: WI
+wootax/38948:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '54305'
+    location_type: postcode
+  name: 'GREEN BAY '
+  order: '0'
+  priority: '0'
+  rate: '5.5'
+  shipping: '1'
+  state: WI
+wootax/38949:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '54307'
+    location_type: postcode
+  name: 'GREEN BAY '
+  order: '0'
+  priority: '0'
+  rate: '5.5'
+  shipping: '1'
+  state: WI
+wootax/38950:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '54308'
+    location_type: postcode
+  name: 'GREEN BAY '
+  order: '0'
+  priority: '0'
+  rate: '5.5'
+  shipping: '1'
+  state: WI
+wootax/38951:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '54311'
+    location_type: postcode
+  name: 'GREEN BAY '
+  order: '0'
+  priority: '0'
+  rate: '5.5'
+  shipping: '1'
+  state: WI
+wootax/38952:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '54313'
+    location_type: postcode
+  name: BROWN COUNTY
+  order: '0'
+  priority: '0'
+  rate: '5.5'
+  shipping: '1'
+  state: WI
+wootax/38953:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '54324'
+    location_type: postcode
+  name: BROWN COUNTY
+  order: '0'
+  priority: '0'
+  rate: '5.5'
+  shipping: '1'
+  state: WI
+wootax/38954:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '54344'
+    location_type: postcode
+  name: 'GREEN BAY '
+  order: '0'
+  priority: '0'
+  rate: '5.5'
+  shipping: '1'
+  state: WI
+wootax/38955:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '54401'
+    location_type: postcode
+  name: WAUSAU
+  order: '0'
+  priority: '0'
+  rate: '5.5'
+  shipping: '1'
+  state: WI
+wootax/38956:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '54402'
+    location_type: postcode
+  name: WAUSAU
+  order: '0'
+  priority: '0'
+  rate: '5.5'
+  shipping: '1'
+  state: WI
+wootax/38957:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '54403'
+    location_type: postcode
+  name: WAUSAU
+  order: '0'
+  priority: '0'
+  rate: '5.5'
+  shipping: '1'
+  state: WI
+wootax/38958:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '54404'
+    location_type: postcode
+  name: MARSHFIELD
+  order: '0'
+  priority: '0'
+  rate: '5.5'
+  shipping: '1'
+  state: WI
+wootax/38959:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '54405'
+    location_type: postcode
+  name: 'ABBOTSFORD '
+  order: '0'
+  priority: '0'
+  rate: '5.5'
+  shipping: '1'
+  state: WI
+wootax/38960:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '54406'
+    location_type: postcode
+  name: PORTAGE COUNTY
+  order: '0'
+  priority: '0'
+  rate: '5.5'
+  shipping: '1'
+  state: WI
+wootax/38961:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '54407'
+    location_type: postcode
+  name: PORTAGE COUNTY
+  order: '0'
+  priority: '0'
+  rate: '5.5'
+  shipping: '1'
+  state: WI
+wootax/38962:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '54408'
+    location_type: postcode
+  name: MARATHON COUNTY
+  order: '0'
+  priority: '0'
+  rate: '5.5'
+  shipping: '1'
+  state: WI
+wootax/38963:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '54409'
+    location_type: postcode
+  name: 'ANTIGO '
+  order: '0'
+  priority: '0'
+  rate: '5.5'
+  shipping: '1'
+  state: WI
+wootax/38964:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '54410'
+    location_type: postcode
+  name: WOOD COUNTY
+  order: '0'
+  priority: '0'
+  rate: '5.5'
+  shipping: '1'
+  state: WI
+wootax/38965:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '54411'
+    location_type: postcode
+  name: MARATHON COUNTY
+  order: '0'
+  priority: '0'
+  rate: '5.5'
+  shipping: '1'
+  state: WI
+wootax/38966:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '54412'
+    location_type: postcode
+  name: WOOD COUNTY
+  order: '0'
+  priority: '0'
+  rate: '5.5'
+  shipping: '1'
+  state: WI
+wootax/38967:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '54413'
+    location_type: postcode
+  name: WOOD COUNTY
+  order: '0'
+  priority: '0'
+  rate: '5.5'
+  shipping: '1'
+  state: WI
+wootax/38968:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '54414'
+    location_type: postcode
+  name: SHAWANO COUNTY
+  order: '0'
+  priority: '0'
+  rate: '5.5'
+  shipping: '1'
+  state: WI
+wootax/38969:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '54415'
+    location_type: postcode
+  name: WOOD COUNTY
+  order: '0'
+  priority: '0'
+  rate: '5.5'
+  shipping: '1'
+  state: WI
+wootax/38970:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '54416'
+    location_type: postcode
+  name: SHAWANO COUNTY
+  order: '0'
+  priority: '0'
+  rate: '5.5'
+  shipping: '1'
+  state: WI
+wootax/38971:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '54417'
+    location_type: postcode
+  name: MARATHON COUNTY
+  order: '0'
+  priority: '0'
+  rate: '5.5'
+  shipping: '1'
+  state: WI
+wootax/38972:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '54418'
+    location_type: postcode
+  name: LANGLADE COUNTY
+  order: '0'
+  priority: '0'
+  rate: '5.5'
+  shipping: '1'
+  state: WI
+wootax/38973:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '54420'
+    location_type: postcode
+  name: CLARK COUNTY
+  order: '0'
+  priority: '0'
+  rate: '5.5'
+  shipping: '1'
+  state: WI
+wootax/38974:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '54421'
+    location_type: postcode
+  name: CLARK COUNTY
+  order: '0'
+  priority: '0'
+  rate: '5.5'
+  shipping: '1'
+  state: WI
+wootax/38975:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '54422'
+    location_type: postcode
+  name: CLARK COUNTY
+  order: '0'
+  priority: '0'
+  rate: '5.5'
+  shipping: '1'
+  state: WI
+wootax/38976:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '54423'
+    location_type: postcode
+  name: PORTAGE COUNTY
+  order: '0'
+  priority: '0'
+  rate: '5.5'
+  shipping: '1'
+  state: WI
+wootax/38977:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '54424'
+    location_type: postcode
+  name: LANGLADE COUNTY
+  order: '0'
+  priority: '0'
+  rate: '5.5'
+  shipping: '1'
+  state: WI
+wootax/38978:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '54425'
+    location_type: postcode
+  name: CLARK COUNTY
+  order: '0'
+  priority: '0'
+  rate: '5.5'
+  shipping: '1'
+  state: WI
+wootax/38979:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '54426'
+    location_type: postcode
+  name: MARATHON COUNTY
+  order: '0'
+  priority: '0'
+  rate: '5.5'
+  shipping: '1'
+  state: WI
+wootax/38980:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '54427'
+    location_type: postcode
+  name: MARATHON COUNTY
+  order: '0'
+  priority: '0'
+  rate: '5.5'
+  shipping: '1'
+  state: WI
+wootax/38981:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '54428'
+    location_type: postcode
+  name: LANGLADE COUNTY
+  order: '0'
+  priority: '0'
+  rate: '5.5'
+  shipping: '1'
+  state: WI
+wootax/38982:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '54429'
+    location_type: postcode
+  name: MARATHON COUNTY
+  order: '0'
+  priority: '0'
+  rate: '5.5'
+  shipping: '1'
+  state: WI
+wootax/38983:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '54430'
+    location_type: postcode
+  name: LANGLADE COUNTY
+  order: '0'
+  priority: '0'
+  rate: '5.5'
+  shipping: '1'
+  state: WI
+wootax/38984:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '54433'
+    location_type: postcode
+  name: TAYLOR COUNTY
+  order: '0'
+  priority: '0'
+  rate: '5.5'
+  shipping: '1'
+  state: WI
+wootax/38985:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '54435'
+    location_type: postcode
+  name: LINCOLN COUNTY
+  order: '0'
+  priority: '0'
+  rate: '5.5'
+  shipping: '1'
+  state: WI
+wootax/38986:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '54436'
+    location_type: postcode
+  name: CLARK COUNTY
+  order: '0'
+  priority: '0'
+  rate: '5.5'
+  shipping: '1'
+  state: WI
+wootax/38987:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '54437'
+    location_type: postcode
+  name: CLARK COUNTY
+  order: '0'
+  priority: '0'
+  rate: '5.5'
+  shipping: '1'
+  state: WI
+wootax/38988:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '54440'
+    location_type: postcode
+  name: MARATHON COUNTY
+  order: '0'
+  priority: '0'
+  rate: '5.5'
+  shipping: '1'
+  state: WI
+wootax/38989:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '54441'
+    location_type: postcode
+  name: WOOD COUNTY
+  order: '0'
+  priority: '0'
+  rate: '5.5'
+  shipping: '1'
+  state: WI
+wootax/38990:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '54442'
+    location_type: postcode
+  name: LINCOLN COUNTY
+  order: '0'
+  priority: '0'
+  rate: '5.5'
+  shipping: '1'
+  state: WI
+wootax/38991:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '54443'
+    location_type: postcode
+  name: PORTAGE COUNTY
+  order: '0'
+  priority: '0'
+  rate: '5.5'
+  shipping: '1'
+  state: WI
+wootax/38992:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '54446'
+    location_type: postcode
+  name: CLARK COUNTY
+  order: '0'
+  priority: '0'
+  rate: '5.5'
+  shipping: '1'
+  state: WI
+wootax/38993:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '54447'
+    location_type: postcode
+  name: TAYLOR COUNTY
+  order: '0'
+  priority: '0'
+  rate: '5.5'
+  shipping: '1'
+  state: WI
+wootax/38994:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '54448'
+    location_type: postcode
+  name: MARATHON COUNTY
+  order: '0'
+  priority: '0'
+  rate: '5.5'
+  shipping: '1'
+  state: WI
+wootax/38995:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '54449'
+    location_type: postcode
+  name: MARSHFIELD
+  order: '0'
+  priority: '0'
+  rate: '5.5'
+  shipping: '1'
+  state: WI
+wootax/38996:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '54450'
+    location_type: postcode
+  name: SHAWANO COUNTY
+  order: '0'
+  priority: '0'
+  rate: '5.5'
+  shipping: '1'
+  state: WI
+wootax/38997:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '54451'
+    location_type: postcode
+  name: TAYLOR COUNTY
+  order: '0'
+  priority: '0'
+  rate: '5.5'
+  shipping: '1'
+  state: WI
+wootax/38998:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '54452'
+    location_type: postcode
+  name: MERRILL
+  order: '0'
+  priority: '0'
+  rate: '5.5'
+  shipping: '1'
+  state: WI
+wootax/38999:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '54454'
+    location_type: postcode
+  name: WOOD COUNTY
+  order: '0'
+  priority: '0'
+  rate: '5.5'
+  shipping: '1'
+  state: WI
+wootax/39000:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '54455'
+    location_type: postcode
+  name: MARATHON COUNTY
+  order: '0'
+  priority: '0'
+  rate: '5.5'
+  shipping: '1'
+  state: WI
+wootax/39001:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '54456'
+    location_type: postcode
+  name: CLARK COUNTY
+  order: '0'
+  priority: '0'
+  rate: '5.5'
+  shipping: '1'
+  state: WI
+wootax/39002:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '54457'
+    location_type: postcode
+  name: ADAMS COUNTY
+  order: '0'
+  priority: '0'
+  rate: '5.5'
+  shipping: '1'
+  state: WI
+wootax/39003:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '54458'
+    location_type: postcode
+  name: PORTAGE COUNTY
+  order: '0'
+  priority: '0'
+  rate: '5.5'
+  shipping: '1'
+  state: WI
+wootax/39004:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '54459'
+    location_type: postcode
+  name: PRICE COUNTY
+  order: '0'
+  priority: '0'
+  rate: '5.5'
+  shipping: '1'
+  state: WI
+wootax/39005:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '54460'
+    location_type: postcode
+  name: CLARK COUNTY
+  order: '0'
+  priority: '0'
+  rate: '5.5'
+  shipping: '1'
+  state: WI
+wootax/39006:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '54462'
+    location_type: postcode
+  name: LANGLADE COUNTY
+  order: '0'
+  priority: '0'
+  rate: '5.5'
+  shipping: '1'
+  state: WI
+wootax/39007:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '54463'
+    location_type: postcode
+  name: ONEIDA COUNTY
+  order: '0'
+  priority: '0'
+  rate: '5.5'
+  shipping: '1'
+  state: WI
+wootax/39008:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '54464'
+    location_type: postcode
+  name: LANGLADE COUNTY
+  order: '0'
+  priority: '0'
+  rate: '5.5'
+  shipping: '1'
+  state: WI
+wootax/39009:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '54465'
+    location_type: postcode
+  name: FOREST COUNTY
+  order: '0'
+  priority: '0'
+  rate: '5.5'
+  shipping: '1'
+  state: WI
+wootax/39010:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '54466'
+    location_type: postcode
+  name: WOOD COUNTY
+  order: '0'
+  priority: '0'
+  rate: '5.5'
+  shipping: '1'
+  state: WI
+wootax/39011:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '54467'
+    location_type: postcode
+  name: PORTAGE COUNTY
+  order: '0'
+  priority: '0'
+  rate: '5.5'
+  shipping: '1'
+  state: WI
+wootax/39012:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '54469'
+    location_type: postcode
+  name: WOOD COUNTY
+  order: '0'
+  priority: '0'
+  rate: '5.5'
+  shipping: '1'
+  state: WI
+wootax/39013:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '54470'
+    location_type: postcode
+  name: TAYLOR COUNTY
+  order: '0'
+  priority: '0'
+  rate: '5.5'
+  shipping: '1'
+  state: WI
+wootax/39014:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '54471'
+    location_type: postcode
+  name: MARATHON COUNTY
+  order: '0'
+  priority: '0'
+  rate: '5.5'
+  shipping: '1'
+  state: WI
+wootax/39015:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '54472'
+    location_type: postcode
+  name: MARSHFIELD
+  order: '0'
+  priority: '0'
+  rate: '5.5'
+  shipping: '1'
+  state: WI
+wootax/39016:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '54473'
+    location_type: postcode
+  name: PORTAGE COUNTY
+  order: '0'
+  priority: '0'
+  rate: '5.5'
+  shipping: '1'
+  state: WI
+wootax/39017:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '54474'
+    location_type: postcode
+  name: MARATHON COUNTY
+  order: '0'
+  priority: '0'
+  rate: '5.5'
+  shipping: '1'
+  state: WI
+wootax/39018:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '54475'
+    location_type: postcode
+  name: WOOD COUNTY
+  order: '0'
+  priority: '0'
+  rate: '5.5'
+  shipping: '1'
+  state: WI
+wootax/39019:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '54476'
+    location_type: postcode
+  name: MARATHON COUNTY
+  order: '0'
+  priority: '0'
+  rate: '5.5'
+  shipping: '1'
+  state: WI
+wootax/39020:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '54479'
+    location_type: postcode
+  name: MARATHON COUNTY
+  order: '0'
+  priority: '0'
+  rate: '5.5'
+  shipping: '1'
+  state: WI
+wootax/39021:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '54480'
+    location_type: postcode
+  name: TAYLOR COUNTY
+  order: '0'
+  priority: '0'
+  rate: '5.5'
+  shipping: '1'
+  state: WI
+wootax/39022:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '54481'
+    location_type: postcode
+  name: STEVENS POINT
+  order: '0'
+  priority: '0'
+  rate: '5.5'
+  shipping: '1'
+  state: WI
+wootax/39023:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '54482'
+    location_type: postcode
+  name: PORTAGE COUNTY
+  order: '0'
+  priority: '0'
+  rate: '5.5'
+  shipping: '1'
+  state: WI
+wootax/39024:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '54484'
+    location_type: postcode
+  name: MARATHON COUNTY
+  order: '0'
+  priority: '0'
+  rate: '5.5'
+  shipping: '1'
+  state: WI
+wootax/39025:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '54485'
+    location_type: postcode
+  name: LANGLADE COUNTY
+  order: '0'
+  priority: '0'
+  rate: '5.5'
+  shipping: '1'
+  state: WI
+wootax/39026:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '54486'
+    location_type: postcode
+  name: SHAWANO COUNTY
+  order: '0'
+  priority: '0'
+  rate: '5.5'
+  shipping: '1'
+  state: WI
+wootax/39027:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '54487'
+    location_type: postcode
+  name: LINCOLN COUNTY
+  order: '0'
+  priority: '0'
+  rate: '5.5'
+  shipping: '1'
+  state: WI
+wootax/39028:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '54488'
+    location_type: postcode
+  name: CLARK COUNTY
+  order: '0'
+  priority: '0'
+  rate: '5.5'
+  shipping: '1'
+  state: WI
+wootax/39029:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '54489'
+    location_type: postcode
+  name: WOOD COUNTY
+  order: '0'
+  priority: '0'
+  rate: '5.5'
+  shipping: '1'
+  state: WI
+wootax/39030:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '54490'
+    location_type: postcode
+  name: TAYLOR COUNTY
+  order: '0'
+  priority: '0'
+  rate: '5.5'
+  shipping: '1'
+  state: WI
+wootax/39031:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '54491'
+    location_type: postcode
+  name: LANGLADE COUNTY
+  order: '0'
+  priority: '0'
+  rate: '5.5'
+  shipping: '1'
+  state: WI
+wootax/39032:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '54492'
+    location_type: postcode
+  name: PORTAGE COUNTY
+  order: '0'
+  priority: '0'
+  rate: '5.5'
+  shipping: '1'
+  state: WI
+wootax/39033:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '54493'
+    location_type: postcode
+  name: CLARK COUNTY
+  order: '0'
+  priority: '0'
+  rate: '5.5'
+  shipping: '1'
+  state: WI
+wootax/39034:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '54494'
+    location_type: postcode
+  name: WISCONSIN RAPIDS
+  order: '0'
+  priority: '0'
+  rate: '5.5'
+  shipping: '1'
+  state: WI
+wootax/39035:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '54495'
+    location_type: postcode
+  name: WISCONSIN RAPIDS
+  order: '0'
+  priority: '0'
+  rate: '5.5'
+  shipping: '1'
+  state: WI
+wootax/39036:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '54498'
+    location_type: postcode
+  name: CLARK COUNTY
+  order: '0'
+  priority: '0'
+  rate: '5.5'
+  shipping: '1'
+  state: WI
+wootax/39037:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '54499'
+    location_type: postcode
+  name: SHAWANO COUNTY
+  order: '0'
+  priority: '0'
+  rate: '5.5'
+  shipping: '1'
+  state: WI
+wootax/39038:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '54501'
+    location_type: postcode
+  name: ONEIDA COUNTY
+  order: '0'
+  priority: '0'
+  rate: '5.5'
+  shipping: '1'
+  state: WI
+wootax/39039:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '54511'
+    location_type: postcode
+  name: FOREST COUNTY
+  order: '0'
+  priority: '0'
+  rate: '5.5'
+  shipping: '1'
+  state: WI
+wootax/39040:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '54512'
+    location_type: postcode
+  name: VILAS COUNTY
+  order: '0'
+  priority: '0'
+  rate: '5.5'
+  shipping: '1'
+  state: WI
+wootax/39041:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '54513'
+    location_type: postcode
+  name: PRICE COUNTY
+  order: '0'
+  priority: '0'
+  rate: '5.5'
+  shipping: '1'
+  state: WI
+wootax/39042:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '54514'
+    location_type: postcode
+  name: ASHLAND COUNTY
+  order: '0'
+  priority: '0'
+  rate: '5.5'
+  shipping: '1'
+  state: WI
+wootax/39043:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '54515'
+    location_type: postcode
+  name: PRICE COUNTY
+  order: '0'
+  priority: '0'
+  rate: '5.5'
+  shipping: '1'
+  state: WI
+wootax/39044:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '54517'
+    location_type: postcode
+  name: ASHLAND COUNTY
+  order: '0'
+  priority: '0'
+  rate: '5.5'
+  shipping: '1'
+  state: WI
+wootax/39045:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '54519'
+    location_type: postcode
+  name: VILAS COUNTY
+  order: '0'
+  priority: '0'
+  rate: '5.5'
+  shipping: '1'
+  state: WI
+wootax/39046:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '54520'
+    location_type: postcode
+  name: FOREST COUNTY
+  order: '0'
+  priority: '0'
+  rate: '5.5'
+  shipping: '1'
+  state: WI
+wootax/39047:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '54521'
+    location_type: postcode
+  name: VILAS COUNTY
+  order: '0'
+  priority: '0'
+  rate: '5.5'
+  shipping: '1'
+  state: WI
+wootax/39048:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '54524'
+    location_type: postcode
+  name: PRICE COUNTY
+  order: '0'
+  priority: '0'
+  rate: '5.5'
+  shipping: '1'
+  state: WI
+wootax/39049:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '54525'
+    location_type: postcode
+  name: MONTREAL
+  order: '0'
+  priority: '0'
+  rate: '5.5'
+  shipping: '1'
+  state: WI
+wootax/39050:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '54526'
+    location_type: postcode
+  name: RUSK COUNTY
+  order: '0'
+  priority: '0'
+  rate: '5.5'
+  shipping: '1'
+  state: WI
+wootax/39051:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '54527'
+    location_type: postcode
+  name: ASHLAND COUNTY
+  order: '0'
+  priority: '0'
+  rate: '5.5'
+  shipping: '1'
+  state: WI
+wootax/39052:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '54529'
+    location_type: postcode
+  name: ONEIDA COUNTY
+  order: '0'
+  priority: '0'
+  rate: '5.5'
+  shipping: '1'
+  state: WI
+wootax/39053:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '54530'
+    location_type: postcode
+  name: RUSK COUNTY
+  order: '0'
+  priority: '0'
+  rate: '5.5'
+  shipping: '1'
+  state: WI
+wootax/39054:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '54531'
+    location_type: postcode
+  name: ONEIDA COUNTY
+  order: '0'
+  priority: '0'
+  rate: '5.5'
+  shipping: '1'
+  state: WI
+wootax/39055:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '54532'
+    location_type: postcode
+  name: TOMAHAWK
+  order: '0'
+  priority: '0'
+  rate: '5.5'
+  shipping: '1'
+  state: WI
+wootax/39056:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '54534'
+    location_type: postcode
+  name: 'HURLEY '
+  order: '0'
+  priority: '0'
+  rate: '5.5'
+  shipping: '1'
+  state: WI
+wootax/39057:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '54536'
+    location_type: postcode
+  name: IRON COUNTY
+  order: '0'
+  priority: '0'
+  rate: '5.5'
+  shipping: '1'
+  state: WI
+wootax/39058:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '54537'
+    location_type: postcode
+  name: PRICE COUNTY
+  order: '0'
+  priority: '0'
+  rate: '5.5'
+  shipping: '1'
+  state: WI
+wootax/39059:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '54538'
+    location_type: postcode
+  name: VILAS COUNTY
+  order: '0'
+  priority: '0'
+  rate: '5.5'
+  shipping: '1'
+  state: WI
+wootax/39060:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '54539'
+    location_type: postcode
+  name: ONEIDA COUNTY
+  order: '0'
+  priority: '0'
+  rate: '5.5'
+  shipping: '1'
+  state: WI
+wootax/39061:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '54540'
+    location_type: postcode
+  name: VILAS COUNTY
+  order: '0'
+  priority: '0'
+  rate: '5.5'
+  shipping: '1'
+  state: WI
+wootax/39062:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '54541'
+    location_type: postcode
+  name: FOREST COUNTY
+  order: '0'
+  priority: '0'
+  rate: '5.5'
+  shipping: '1'
+  state: WI
+wootax/39063:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '54542'
+    location_type: postcode
+  name: FLORENCE COUNTY
+  order: '0'
+  priority: '0'
+  rate: '5.5'
+  shipping: '1'
+  state: WI
+wootax/39064:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '54543'
+    location_type: postcode
+  name: ONEIDA COUNTY
+  order: '0'
+  priority: '0'
+  rate: '5.5'
+  shipping: '1'
+  state: WI
+wootax/39065:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '54545'
+    location_type: postcode
+  name: VILAS COUNTY
+  order: '0'
+  priority: '0'
+  rate: '5.5'
+  shipping: '1'
+  state: WI
+wootax/39066:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '54546'
+    location_type: postcode
+  name: ASHLAND COUNTY
+  order: '0'
+  priority: '0'
+  rate: '5.5'
+  shipping: '1'
+  state: WI
+wootax/39067:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '54547'
+    location_type: postcode
+  name: IRON COUNTY
+  order: '0'
+  priority: '0'
+  rate: '5.5'
+  shipping: '1'
+  state: WI
+wootax/39068:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '54548'
+    location_type: postcode
+  name: ONEIDA COUNTY
+  order: '0'
+  priority: '0'
+  rate: '5.5'
+  shipping: '1'
+  state: WI
+wootax/39069:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '54550'
+    location_type: postcode
+  name: MONTREAL
+  order: '0'
+  priority: '0'
+  rate: '5.5'
+  shipping: '1'
+  state: WI
+wootax/39070:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '54552'
+    location_type: postcode
+  name: PRICE COUNTY
+  order: '0'
+  priority: '0'
+  rate: '5.5'
+  shipping: '1'
+  state: WI
+wootax/39071:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '54554'
+    location_type: postcode
+  name: VILAS COUNTY
+  order: '0'
+  priority: '0'
+  rate: '5.5'
+  shipping: '1'
+  state: WI
+wootax/39072:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '54555'
+    location_type: postcode
+  name: PRICE COUNTY
+  order: '0'
+  priority: '0'
+  rate: '5.5'
+  shipping: '1'
+  state: WI
+wootax/39073:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '54556'
+    location_type: postcode
+  name: PRICE COUNTY
+  order: '0'
+  priority: '0'
+  rate: '5.5'
+  shipping: '1'
+  state: WI
+wootax/39074:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '54557'
+    location_type: postcode
+  name: VILAS COUNTY
+  order: '0'
+  priority: '0'
+  rate: '5.5'
+  shipping: '1'
+  state: WI
+wootax/39075:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '54558'
+    location_type: postcode
+  name: VILAS COUNTY
+  order: '0'
+  priority: '0'
+  rate: '5.5'
+  shipping: '1'
+  state: WI
+wootax/39076:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '54559'
+    location_type: postcode
+  name: IRON COUNTY
+  order: '0'
+  priority: '0'
+  rate: '5.5'
+  shipping: '1'
+  state: WI
+wootax/39077:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '54560'
+    location_type: postcode
+  name: VILAS COUNTY
+  order: '0'
+  priority: '0'
+  rate: '5.5'
+  shipping: '1'
+  state: WI
+wootax/39078:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '54561'
+    location_type: postcode
+  name: VILAS COUNTY
+  order: '0'
+  priority: '0'
+  rate: '5.5'
+  shipping: '1'
+  state: WI
+wootax/39079:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '54562'
+    location_type: postcode
+  name: ONEIDA COUNTY
+  order: '0'
+  priority: '0'
+  rate: '5.5'
+  shipping: '1'
+  state: WI
+wootax/39080:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '54563'
+    location_type: postcode
+  name: RUSK COUNTY
+  order: '0'
+  priority: '0'
+  rate: '5.5'
+  shipping: '1'
+  state: WI
+wootax/39081:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '54564'
+    location_type: postcode
+  name: LINCOLN COUNTY
+  order: '0'
+  priority: '0'
+  rate: '5.5'
+  shipping: '1'
+  state: WI
+wootax/39082:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '54565'
+    location_type: postcode
+  name: IRON COUNTY
+  order: '0'
+  priority: '0'
+  rate: '5.5'
+  shipping: '1'
+  state: WI
+wootax/39083:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '54566'
+    location_type: postcode
+  name: FOREST COUNTY
+  order: '0'
+  priority: '0'
+  rate: '5.5'
+  shipping: '1'
+  state: WI
+wootax/39084:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '54568'
+    location_type: postcode
+  name: VILAS COUNTY
+  order: '0'
+  priority: '0'
+  rate: '5.5'
+  shipping: '1'
+  state: WI
+wootax/39085:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '54601'
+    location_type: postcode
+  name: LA CROSSE
+  order: '0'
+  priority: '0'
+  rate: '5.5'
+  shipping: '1'
+  state: WI
+wootax/39086:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '54602'
+    location_type: postcode
+  name: LA CROSSE
+  order: '0'
+  priority: '0'
+  rate: '5.5'
+  shipping: '1'
+  state: WI
+wootax/39087:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '54603'
+    location_type: postcode
+  name: LA CROSSE
+  order: '0'
+  priority: '0'
+  rate: '5.5'
+  shipping: '1'
+  state: WI
+wootax/39088:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '54610'
+    location_type: postcode
+  name: BUFFALO COUNTY
+  order: '0'
+  priority: '0'
+  rate: '5.5'
+  shipping: '1'
+  state: WI
+wootax/39089:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '54611'
+    location_type: postcode
+  name: JACKSON COUNTY
+  order: '0'
+  priority: '0'
+  rate: '5.5'
+  shipping: '1'
+  state: WI
+wootax/39090:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '54612'
+    location_type: postcode
+  name: ARCADIA
+  order: '0'
+  priority: '0'
+  rate: '5.5'
+  shipping: '1'
+  state: WI
+wootax/39091:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '54613'
+    location_type: postcode
+  name: ADAMS COUNTY
+  order: '0'
+  priority: '0'
+  rate: '5.5'
+  shipping: '1'
+  state: WI
+wootax/39092:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '54614'
+    location_type: postcode
+  name: LA CROSSE COUNTY
+  order: '0'
+  priority: '0'
+  rate: '5.5'
+  shipping: '1'
+  state: WI
+wootax/39093:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '54615'
+    location_type: postcode
+  name: JACKSON COUNTY
+  order: '0'
+  priority: '0'
+  rate: '5.5'
+  shipping: '1'
+  state: WI
+wootax/39094:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '54616'
+    location_type: postcode
+  name: TREMPEALEAU COUNTY
+  order: '0'
+  priority: '0'
+  rate: '5.5'
+  shipping: '1'
+  state: WI
+wootax/39095:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '54618'
+    location_type: postcode
+  name: JUNEAU COUNTY
+  order: '0'
+  priority: '0'
+  rate: '5.5'
+  shipping: '1'
+  state: WI
+wootax/39096:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '54619'
+    location_type: postcode
+  name: MONROE COUNTY
+  order: '0'
+  priority: '0'
+  rate: '5.5'
+  shipping: '1'
+  state: WI
+wootax/39097:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '54620'
+    location_type: postcode
+  name: MONROE COUNTY
+  order: '0'
+  priority: '0'
+  rate: '5.5'
+  shipping: '1'
+  state: WI
+wootax/39098:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '54621'
+    location_type: postcode
+  name: VERNON COUNTY
+  order: '0'
+  priority: '0'
+  rate: '5.5'
+  shipping: '1'
+  state: WI
+wootax/39099:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '54622'
+    location_type: postcode
+  name: BUFFALO CITY
+  order: '0'
+  priority: '0'
+  rate: '5.5'
+  shipping: '1'
+  state: WI
+wootax/39100:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '54623'
+    location_type: postcode
+  name: VERNON COUNTY
+  order: '0'
+  priority: '0'
+  rate: '5.5'
+  shipping: '1'
+  state: WI
+wootax/39101:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '54624'
+    location_type: postcode
+  name: VERNON COUNTY
+  order: '0'
+  priority: '0'
+  rate: '5.5'
+  shipping: '1'
+  state: WI
+wootax/39102:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '54625'
+    location_type: postcode
+  name: TREMPEALEAU COUNTY
+  order: '0'
+  priority: '0'
+  rate: '5.5'
+  shipping: '1'
+  state: WI
+wootax/39103:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '54626'
+    location_type: postcode
+  name: CRAWFORD COUNTY
+  order: '0'
+  priority: '0'
+  rate: '5.5'
+  shipping: '1'
+  state: WI
+wootax/39104:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '54627'
+    location_type: postcode
+  name: TREMPEALEAU COUNTY
+  order: '0'
+  priority: '0'
+  rate: '5.5'
+  shipping: '1'
+  state: WI
+wootax/39105:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '54628'
+    location_type: postcode
+  name: CRAWFORD COUNTY
+  order: '0'
+  priority: '0'
+  rate: '5.5'
+  shipping: '1'
+  state: WI
+wootax/39106:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '54629'
+    location_type: postcode
+  name: BUFFALO COUNTY
+  order: '0'
+  priority: '0'
+  rate: '5.5'
+  shipping: '1'
+  state: WI
+wootax/39107:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '54630'
+    location_type: postcode
+  name: TREMPEALEAU COUNTY
+  order: '0'
+  priority: '0'
+  rate: '5.5'
+  shipping: '1'
+  state: WI
+wootax/39108:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '54631'
+    location_type: postcode
+  name: CRAWFORD COUNTY
+  order: '0'
+  priority: '0'
+  rate: '5.5'
+  shipping: '1'
+  state: WI
+wootax/39109:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '54632'
+    location_type: postcode
+  name: VERNON COUNTY
+  order: '0'
+  priority: '0'
+  rate: '5.5'
+  shipping: '1'
+  state: WI
+wootax/39110:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '54634'
+    location_type: postcode
+  name: VERNON COUNTY
+  order: '0'
+  priority: '0'
+  rate: '5.5'
+  shipping: '1'
+  state: WI
+wootax/39111:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '54635'
+    location_type: postcode
+  name: JACKSON COUNTY
+  order: '0'
+  priority: '0'
+  rate: '5.5'
+  shipping: '1'
+  state: WI
+wootax/39112:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '54636'
+    location_type: postcode
+  name: LA CROSSE COUNTY
+  order: '0'
+  priority: '0'
+  rate: '5.5'
+  shipping: '1'
+  state: WI
+wootax/39113:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '54637'
+    location_type: postcode
+  name: JUNEAU COUNTY
+  order: '0'
+  priority: '0'
+  rate: '5.5'
+  shipping: '1'
+  state: WI
+wootax/39114:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '54638'
+    location_type: postcode
+  name: MONROE COUNTY
+  order: '0'
+  priority: '0'
+  rate: '5.5'
+  shipping: '1'
+  state: WI
+wootax/39115:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '54639'
+    location_type: postcode
+  name: VERNON COUNTY
+  order: '0'
+  priority: '0'
+  rate: '5.5'
+  shipping: '1'
+  state: WI
+wootax/39116:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '54640'
+    location_type: postcode
+  name: CRAWFORD COUNTY
+  order: '0'
+  priority: '0'
+  rate: '5.5'
+  shipping: '1'
+  state: WI
+wootax/39117:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '54642'
+    location_type: postcode
+  name: JACKSON COUNTY
+  order: '0'
+  priority: '0'
+  rate: '5.5'
+  shipping: '1'
+  state: WI
+wootax/39118:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '54643'
+    location_type: postcode
+  name: JACKSON COUNTY
+  order: '0'
+  priority: '0'
+  rate: '5.5'
+  shipping: '1'
+  state: WI
+wootax/39119:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '54644'
+    location_type: postcode
+  name: LA CROSSE COUNTY
+  order: '0'
+  priority: '0'
+  rate: '5.5'
+  shipping: '1'
+  state: WI
+wootax/39120:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '54645'
+    location_type: postcode
+  name: CRAWFORD COUNTY
+  order: '0'
+  priority: '0'
+  rate: '5.5'
+  shipping: '1'
+  state: WI
+wootax/39121:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '54646'
+    location_type: postcode
+  name: JUNEAU COUNTY
+  order: '0'
+  priority: '0'
+  rate: '5.5'
+  shipping: '1'
+  state: WI
+wootax/39122:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '54648'
+    location_type: postcode
+  name: MONROE COUNTY
+  order: '0'
+  priority: '0'
+  rate: '5.5'
+  shipping: '1'
+  state: WI
+wootax/39123:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '54649'
+    location_type: postcode
+  name: MONROE COUNTY
+  order: '0'
+  priority: '0'
+  rate: '5.5'
+  shipping: '1'
+  state: WI
+wootax/39124:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '54650'
+    location_type: postcode
+  name: ONALASKA
+  order: '0'
+  priority: '0'
+  rate: '5.5'
+  shipping: '1'
+  state: WI
+wootax/39125:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '54651'
+    location_type: postcode
+  name: VERNON COUNTY
+  order: '0'
+  priority: '0'
+  rate: '5.5'
+  shipping: '1'
+  state: WI
+wootax/39126:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '54652'
+    location_type: postcode
+  name: VERNON COUNTY
+  order: '0'
+  priority: '0'
+  rate: '5.5'
+  shipping: '1'
+  state: WI
+wootax/39127:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '54653'
+    location_type: postcode
+  name: LA CROSSE COUNTY
+  order: '0'
+  priority: '0'
+  rate: '5.5'
+  shipping: '1'
+  state: WI
+wootax/39128:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '54654'
+    location_type: postcode
+  name: CRAWFORD COUNTY
+  order: '0'
+  priority: '0'
+  rate: '5.5'
+  shipping: '1'
+  state: WI
+wootax/39129:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '54655'
+    location_type: postcode
+  name: CRAWFORD COUNTY
+  order: '0'
+  priority: '0'
+  rate: '5.5'
+  shipping: '1'
+  state: WI
+wootax/39130:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '54656'
+    location_type: postcode
+  name: MONROE COUNTY
+  order: '0'
+  priority: '0'
+  rate: '5.5'
+  shipping: '1'
+  state: WI
+wootax/39131:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '54657'
+    location_type: postcode
+  name: CRAWFORD COUNTY
+  order: '0'
+  priority: '0'
+  rate: '5.5'
+  shipping: '1'
+  state: WI
+wootax/39132:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '54658'
+    location_type: postcode
+  name: VERNON COUNTY
+  order: '0'
+  priority: '0'
+  rate: '5.5'
+  shipping: '1'
+  state: WI
+wootax/39133:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '54659'
+    location_type: postcode
+  name: JACKSON COUNTY
+  order: '0'
+  priority: '0'
+  rate: '5.5'
+  shipping: '1'
+  state: WI
+wootax/39134:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '54660'
+    location_type: postcode
+  name: TOMAH
+  order: '0'
+  priority: '0'
+  rate: '5.5'
+  shipping: '1'
+  state: WI
+wootax/39135:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '54661'
+    location_type: postcode
+  name: TREMPEALEAU COUNTY
+  order: '0'
+  priority: '0'
+  rate: '5.5'
+  shipping: '1'
+  state: WI
+wootax/39136:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '54662'
+    location_type: postcode
+  name: MONROE COUNTY
+  order: '0'
+  priority: '0'
+  rate: '5.5'
+  shipping: '1'
+  state: WI
+wootax/39137:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '54664'
+    location_type: postcode
+  name: RICHLAND COUNTY
+  order: '0'
+  priority: '0'
+  rate: '5.5'
+  shipping: '1'
+  state: WI
+wootax/39138:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '54665'
+    location_type: postcode
+  name: VERNON COUNTY
+  order: '0'
+  priority: '0'
+  rate: '5.5'
+  shipping: '1'
+  state: WI
+wootax/39139:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '54666'
+    location_type: postcode
+  name: MONROE COUNTY
+  order: '0'
+  priority: '0'
+  rate: '5.5'
+  shipping: '1'
+  state: WI
+wootax/39140:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '54667'
+    location_type: postcode
+  name: VERNON COUNTY
+  order: '0'
+  priority: '0'
+  rate: '5.5'
+  shipping: '1'
+  state: WI
+wootax/39141:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '54669'
+    location_type: postcode
+  name: LA CROSSE COUNTY
+  order: '0'
+  priority: '0'
+  rate: '5.5'
+  shipping: '1'
+  state: WI
+wootax/39142:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '54670'
+    location_type: postcode
+  name: MONROE COUNTY
+  order: '0'
+  priority: '0'
+  rate: '5.5'
+  shipping: '1'
+  state: WI
+wootax/39143:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '54701'
+    location_type: postcode
+  name: 'EAU CLAIRE '
+  order: '0'
+  priority: '0'
+  rate: '5.5'
+  shipping: '1'
+  state: WI
+wootax/39144:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '54702'
+    location_type: postcode
+  name: 'EAU CLAIRE '
+  order: '0'
+  priority: '0'
+  rate: '5.5'
+  shipping: '1'
+  state: WI
+wootax/39145:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '54703'
+    location_type: postcode
+  name: 'EAU CLAIRE '
+  order: '0'
+  priority: '0'
+  rate: '5.5'
+  shipping: '1'
+  state: WI
+wootax/39146:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '54720'
+    location_type: postcode
+  name: 'ALTOONA '
+  order: '0'
+  priority: '0'
+  rate: '5.5'
+  shipping: '1'
+  state: WI
+wootax/39147:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '54721'
+    location_type: postcode
+  name: PEPIN COUNTY
+  order: '0'
+  priority: '0'
+  rate: '5.5'
+  shipping: '1'
+  state: WI
+wootax/39148:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '54722'
+    location_type: postcode
+  name: EAU CLAIRE COUNTY
+  order: '0'
+  priority: '0'
+  rate: '5.5'
+  shipping: '1'
+  state: WI
+wootax/39149:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '54723'
+    location_type: postcode
+  name: PIERCE COUNTY
+  order: '0'
+  priority: '0'
+  rate: '5.5'
+  shipping: '1'
+  state: WI
+wootax/39150:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '54724'
+    location_type: postcode
+  name: CHIPPEWA COUNTY
+  order: '0'
+  priority: '0'
+  rate: '5.5'
+  shipping: '1'
+  state: WI
+wootax/39151:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '54725'
+    location_type: postcode
+  name: DUNN COUNTY
+  order: '0'
+  priority: '0'
+  rate: '5.5'
+  shipping: '1'
+  state: WI
+wootax/39152:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '54726'
+    location_type: postcode
+  name: CHIPPEWA COUNTY
+  order: '0'
+  priority: '0'
+  rate: '5.5'
+  shipping: '1'
+  state: WI
+wootax/39153:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '54727'
+    location_type: postcode
+  name: CHIPPEWA COUNTY
+  order: '0'
+  priority: '0'
+  rate: '5.5'
+  shipping: '1'
+  state: WI
+wootax/39154:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '54728'
+    location_type: postcode
+  name: BARRON COUNTY
+  order: '0'
+  priority: '0'
+  rate: '5.5'
+  shipping: '1'
+  state: WI
+wootax/39155:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '54729'
+    location_type: postcode
+  name: 'CHIPPEWA FALLS '
+  order: '0'
+  priority: '0'
+  rate: '5.5'
+  shipping: '1'
+  state: WI
+wootax/39156:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '54730'
+    location_type: postcode
+  name: DUNN COUNTY
+  order: '0'
+  priority: '0'
+  rate: '5.5'
+  shipping: '1'
+  state: WI
+wootax/39157:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '54731'
+    location_type: postcode
+  name: RUSK COUNTY
+  order: '0'
+  priority: '0'
+  rate: '5.5'
+  shipping: '1'
+  state: WI
+wootax/39158:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '54732'
+    location_type: postcode
+  name: CORNELL
+  order: '0'
+  priority: '0'
+  rate: '5.5'
+  shipping: '1'
+  state: WI
+wootax/39159:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '54733'
+    location_type: postcode
+  name: BARRON COUNTY
+  order: '0'
+  priority: '0'
+  rate: '5.5'
+  shipping: '1'
+  state: WI
+wootax/39160:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '54734'
+    location_type: postcode
+  name: DUNN COUNTY
+  order: '0'
+  priority: '0'
+  rate: '5.5'
+  shipping: '1'
+  state: WI
+wootax/39161:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '54735'
+    location_type: postcode
+  name: DUNN COUNTY
+  order: '0'
+  priority: '0'
+  rate: '5.5'
+  shipping: '1'
+  state: WI
+wootax/39162:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '54736'
+    location_type: postcode
+  name: 'DURAND '
+  order: '0'
+  priority: '0'
+  rate: '5.5'
+  shipping: '1'
+  state: WI
+wootax/39163:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '54737'
+    location_type: postcode
+  name: DUNN COUNTY
+  order: '0'
+  priority: '0'
+  rate: '5.5'
+  shipping: '1'
+  state: WI
+wootax/39164:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '54738'
+    location_type: postcode
+  name: EAU CLAIRE COUNTY
+  order: '0'
+  priority: '0'
+  rate: '5.5'
+  shipping: '1'
+  state: WI
+wootax/39165:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '54739'
+    location_type: postcode
+  name: DUNN COUNTY
+  order: '0'
+  priority: '0'
+  rate: '5.5'
+  shipping: '1'
+  state: WI
+wootax/39166:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '54740'
+    location_type: postcode
+  name: PIERCE COUNTY
+  order: '0'
+  priority: '0'
+  rate: '5.5'
+  shipping: '1'
+  state: WI
+wootax/39167:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '54741'
+    location_type: postcode
+  name: EAU CLAIRE COUNTY
+  order: '0'
+  priority: '0'
+  rate: '5.5'
+  shipping: '1'
+  state: WI
+wootax/39168:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '54742'
+    location_type: postcode
+  name: EAU CLAIRE COUNTY
+  order: '0'
+  priority: '0'
+  rate: '5.5'
+  shipping: '1'
+  state: WI
+wootax/39169:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '54743'
+    location_type: postcode
+  name: BUFFALO COUNTY
+  order: '0'
+  priority: '0'
+  rate: '5.5'
+  shipping: '1'
+  state: WI
+wootax/39170:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '54745'
+    location_type: postcode
+  name: CHIPPEWA COUNTY
+  order: '0'
+  priority: '0'
+  rate: '5.5'
+  shipping: '1'
+  state: WI
+wootax/39171:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '54746'
+    location_type: postcode
+  name: CLARK COUNTY
+  order: '0'
+  priority: '0'
+  rate: '5.5'
+  shipping: '1'
+  state: WI
+wootax/39172:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '54747'
+    location_type: postcode
+  name: INDEPENDENCE
+  order: '0'
+  priority: '0'
+  rate: '5.5'
+  shipping: '1'
+  state: WI
+wootax/39173:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '54748'
+    location_type: postcode
+  name: CHIPPEWA COUNTY
+  order: '0'
+  priority: '0'
+  rate: '5.5'
+  shipping: '1'
+  state: WI
+wootax/39174:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '54749'
+    location_type: postcode
+  name: DUNN COUNTY
+  order: '0'
+  priority: '0'
+  rate: '5.5'
+  shipping: '1'
+  state: WI
+wootax/39175:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '54750'
+    location_type: postcode
+  name: PIERCE COUNTY
+  order: '0'
+  priority: '0'
+  rate: '5.5'
+  shipping: '1'
+  state: WI
+wootax/39176:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '54751'
+    location_type: postcode
+  name: MENOMONIE
+  order: '0'
+  priority: '0'
+  rate: '5.5'
+  shipping: '1'
+  state: WI
+wootax/39177:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '54754'
+    location_type: postcode
+  name: JACKSON COUNTY
+  order: '0'
+  priority: '0'
+  rate: '5.5'
+  shipping: '1'
+  state: WI
+wootax/39178:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '54755'
+    location_type: postcode
+  name: MONDOVI
+  order: '0'
+  priority: '0'
+  rate: '5.5'
+  shipping: '1'
+  state: WI
+wootax/39179:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '54756'
+    location_type: postcode
+  name: BUFFALO COUNTY
+  order: '0'
+  priority: '0'
+  rate: '5.5'
+  shipping: '1'
+  state: WI
+wootax/39180:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '54757'
+    location_type: postcode
+  name: CHIPPEWA COUNTY
+  order: '0'
+  priority: '0'
+  rate: '5.5'
+  shipping: '1'
+  state: WI
+wootax/39181:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '54758'
+    location_type: postcode
+  name: TREMPEALEAU COUNTY
+  order: '0'
+  priority: '0'
+  rate: '5.5'
+  shipping: '1'
+  state: WI
+wootax/39182:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '54759'
+    location_type: postcode
+  name: PEPIN COUNTY
+  order: '0'
+  priority: '0'
+  rate: '5.5'
+  shipping: '1'
+  state: WI
+wootax/39183:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '54760'
+    location_type: postcode
+  name: TREMPEALEAU COUNTY
+  order: '0'
+  priority: '0'
+  rate: '5.5'
+  shipping: '1'
+  state: WI
+wootax/39184:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '54761'
+    location_type: postcode
+  name: PIERCE COUNTY
+  order: '0'
+  priority: '0'
+  rate: '5.5'
+  shipping: '1'
+  state: WI
+wootax/39185:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '54762'
+    location_type: postcode
+  name: BARRON COUNTY
+  order: '0'
+  priority: '0'
+  rate: '5.5'
+  shipping: '1'
+  state: WI
+wootax/39186:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '54763'
+    location_type: postcode
+  name: DUNN COUNTY
+  order: '0'
+  priority: '0'
+  rate: '5.5'
+  shipping: '1'
+  state: WI
+wootax/39187:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '54765'
+    location_type: postcode
+  name: DUNN COUNTY
+  order: '0'
+  priority: '0'
+  rate: '5.5'
+  shipping: '1'
+  state: WI
+wootax/39188:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '54766'
+    location_type: postcode
+  name: RUSK COUNTY
+  order: '0'
+  priority: '0'
+  rate: '5.5'
+  shipping: '1'
+  state: WI
+wootax/39189:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '54767'
+    location_type: postcode
+  name: PIERCE COUNTY
+  order: '0'
+  priority: '0'
+  rate: '5.5'
+  shipping: '1'
+  state: WI
+wootax/39190:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '54768'
+    location_type: postcode
+  name: STANLEY
+  order: '0'
+  priority: '0'
+  rate: '5.5'
+  shipping: '1'
+  state: WI
+wootax/39191:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '54769'
+    location_type: postcode
+  name: PEPIN COUNTY
+  order: '0'
+  priority: '0'
+  rate: '5.5'
+  shipping: '1'
+  state: WI
+wootax/39192:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '54770'
+    location_type: postcode
+  name: TREMPEALEAU COUNTY
+  order: '0'
+  priority: '0'
+  rate: '5.5'
+  shipping: '1'
+  state: WI
+wootax/39193:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '54771'
+    location_type: postcode
+  name: CLARK COUNTY
+  order: '0'
+  priority: '0'
+  rate: '5.5'
+  shipping: '1'
+  state: WI
+wootax/39194:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '54772'
+    location_type: postcode
+  name: DUNN COUNTY
+  order: '0'
+  priority: '0'
+  rate: '5.5'
+  shipping: '1'
+  state: WI
+wootax/39195:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '54773'
+    location_type: postcode
+  name: TREMPEALEAU COUNTY
+  order: '0'
+  priority: '0'
+  rate: '5.5'
+  shipping: '1'
+  state: WI
+wootax/39196:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '54774'
+    location_type: postcode
+  name: 'CHIPPEWA FALLS '
+  order: '0'
+  priority: '0'
+  rate: '5.5'
+  shipping: '1'
+  state: WI
+wootax/39197:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '54801'
+    location_type: postcode
+  name: SPOONER
+  order: '0'
+  priority: '0'
+  rate: '5.5'
+  shipping: '1'
+  state: WI
+wootax/39198:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '54805'
+    location_type: postcode
+  name: BARRON COUNTY
+  order: '0'
+  priority: '0'
+  rate: '5.5'
+  shipping: '1'
+  state: WI
+wootax/39199:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '54806'
+    location_type: postcode
+  name: 'ASHLAND '
+  order: '0'
+  priority: '0'
+  rate: '5.5'
+  shipping: '1'
+  state: WI
+wootax/39200:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '54810'
+    location_type: postcode
+  name: POLK COUNTY
+  order: '0'
+  priority: '0'
+  rate: '5.5'
+  shipping: '1'
+  state: WI
+wootax/39201:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '54812'
+    location_type: postcode
+  name: 'BARRON '
+  order: '0'
+  priority: '0'
+  rate: '5.5'
+  shipping: '1'
+  state: WI
+wootax/39202:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '54813'
+    location_type: postcode
+  name: BARRON COUNTY
+  order: '0'
+  priority: '0'
+  rate: '5.5'
+  shipping: '1'
+  state: WI
+wootax/39203:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '54814'
+    location_type: postcode
+  name: BAYFIELD COUNTY
+  order: '0'
+  priority: '0'
+  rate: '5.5'
+  shipping: '1'
+  state: WI
+wootax/39204:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '54816'
+    location_type: postcode
+  name: BAYFIELD COUNTY
+  order: '0'
+  priority: '0'
+  rate: '5.5'
+  shipping: '1'
+  state: WI
+wootax/39205:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '54817'
+    location_type: postcode
+  name: WASHBURN COUNTY
+  order: '0'
+  priority: '0'
+  rate: '5.5'
+  shipping: '1'
+  state: WI
+wootax/39206:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '54818'
+    location_type: postcode
+  name: BARRON COUNTY
+  order: '0'
+  priority: '0'
+  rate: '5.5'
+  shipping: '1'
+  state: WI
+wootax/39207:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '54819'
+    location_type: postcode
+  name: RUSK COUNTY
+  order: '0'
+  priority: '0'
+  rate: '5.5'
+  shipping: '1'
+  state: WI
+wootax/39208:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '54820'
+    location_type: postcode
+  name: DOUGLAS COUNTY
+  order: '0'
+  priority: '0'
+  rate: '5.5'
+  shipping: '1'
+  state: WI
+wootax/39209:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '54821'
+    location_type: postcode
+  name: BAYFIELD COUNTY
+  order: '0'
+  priority: '0'
+  rate: '5.5'
+  shipping: '1'
+  state: WI
+wootax/39210:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '54822'
+    location_type: postcode
+  name: BARRON COUNTY
+  order: '0'
+  priority: '0'
+  rate: '5.5'
+  shipping: '1'
+  state: WI
+wootax/39211:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '54824'
+    location_type: postcode
+  name: POLK COUNTY
+  order: '0'
+  priority: '0'
+  rate: '5.5'
+  shipping: '1'
+  state: WI
+wootax/39212:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '54826'
+    location_type: postcode
+  name: BARRON COUNTY
+  order: '0'
+  priority: '0'
+  rate: '5.5'
+  shipping: '1'
+  state: WI
+wootax/39213:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '54827'
+    location_type: postcode
+  name: BAYFIELD COUNTY
+  order: '0'
+  priority: '0'
+  rate: '5.5'
+  shipping: '1'
+  state: WI
+wootax/39214:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '54828'
+    location_type: postcode
+  name: SAWYER COUNTY
+  order: '0'
+  priority: '0'
+  rate: '5.5'
+  shipping: '1'
+  state: WI
+wootax/39215:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '54829'
+    location_type: postcode
+  name: BARRON COUNTY
+  order: '0'
+  priority: '0'
+  rate: '5.5'
+  shipping: '1'
+  state: WI
+wootax/39216:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '54830'
+    location_type: postcode
+  name: BURNETT COUNTY
+  order: '0'
+  priority: '0'
+  rate: '5.5'
+  shipping: '1'
+  state: WI
+wootax/39217:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '54832'
+    location_type: postcode
+  name: BAYFIELD COUNTY
+  order: '0'
+  priority: '0'
+  rate: '5.5'
+  shipping: '1'
+  state: WI
+wootax/39218:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '54835'
+    location_type: postcode
+  name: SAWYER COUNTY
+  order: '0'
+  priority: '0'
+  rate: '5.5'
+  shipping: '1'
+  state: WI
+wootax/39219:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '54836'
+    location_type: postcode
+  name: DOUGLAS COUNTY
+  order: '0'
+  priority: '0'
+  rate: '5.5'
+  shipping: '1'
+  state: WI
+wootax/39220:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '54837'
+    location_type: postcode
+  name: POLK COUNTY
+  order: '0'
+  priority: '0'
+  rate: '5.5'
+  shipping: '1'
+  state: WI
+wootax/39221:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '54838'
+    location_type: postcode
+  name: DOUGLAS COUNTY
+  order: '0'
+  priority: '0'
+  rate: '5.5'
+  shipping: '1'
+  state: WI
+wootax/39222:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '54839'
+    location_type: postcode
+  name: BAYFIELD COUNTY
+  order: '0'
+  priority: '0'
+  rate: '5.5'
+  shipping: '1'
+  state: WI
+wootax/39223:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '54840'
+    location_type: postcode
+  name: BURNETT COUNTY
+  order: '0'
+  priority: '0'
+  rate: '5.5'
+  shipping: '1'
+  state: WI
+wootax/39224:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '54841'
+    location_type: postcode
+  name: BARRON COUNTY
+  order: '0'
+  priority: '0'
+  rate: '5.5'
+  shipping: '1'
+  state: WI
+wootax/39225:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '54842'
+    location_type: postcode
+  name: DOUGLAS COUNTY
+  order: '0'
+  priority: '0'
+  rate: '5.5'
+  shipping: '1'
+  state: WI
+wootax/39226:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '54843'
+    location_type: postcode
+  name: SAWYER COUNTY
+  order: '0'
+  priority: '0'
+  rate: '5.5'
+  shipping: '1'
+  state: WI
+wootax/39227:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '54844'
+    location_type: postcode
+  name: BAYFIELD COUNTY
+  order: '0'
+  priority: '0'
+  rate: '5.5'
+  shipping: '1'
+  state: WI
+wootax/39228:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '54845'
+    location_type: postcode
+  name: BURNETT COUNTY
+  order: '0'
+  priority: '0'
+  rate: '5.5'
+  shipping: '1'
+  state: WI
+wootax/39229:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '54846'
+    location_type: postcode
+  name: ASHLAND COUNTY
+  order: '0'
+  priority: '0'
+  rate: '5.5'
+  shipping: '1'
+  state: WI
+wootax/39230:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '54847'
+    location_type: postcode
+  name: BAYFIELD COUNTY
+  order: '0'
+  priority: '0'
+  rate: '5.5'
+  shipping: '1'
+  state: WI
+wootax/39231:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '54848'
+    location_type: postcode
+  name: LADYSMITH
+  order: '0'
+  priority: '0'
+  rate: '5.5'
+  shipping: '1'
+  state: WI
+wootax/39232:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '54849'
+    location_type: postcode
+  name: DOUGLAS COUNTY
+  order: '0'
+  priority: '0'
+  rate: '5.5'
+  shipping: '1'
+  state: WI
+wootax/39233:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '54850'
+    location_type: postcode
+  name: ASHLAND COUNTY
+  order: '0'
+  priority: '0'
+  rate: '5.5'
+  shipping: '1'
+  state: WI
+wootax/39234:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '54853'
+    location_type: postcode
+  name: POLK COUNTY
+  order: '0'
+  priority: '0'
+  rate: '5.5'
+  shipping: '1'
+  state: WI
+wootax/39235:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '54854'
+    location_type: postcode
+  name: DOUGLAS COUNTY
+  order: '0'
+  priority: '0'
+  rate: '5.5'
+  shipping: '1'
+  state: WI
+wootax/39236:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '54855'
+    location_type: postcode
+  name: ASHLAND COUNTY
+  order: '0'
+  priority: '0'
+  rate: '5.5'
+  shipping: '1'
+  state: WI
+wootax/39237:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '54856'
+    location_type: postcode
+  name: BAYFIELD COUNTY
+  order: '0'
+  priority: '0'
+  rate: '5.5'
+  shipping: '1'
+  state: WI
+wootax/39238:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '54857'
+    location_type: postcode
+  name: BARRON COUNTY
+  order: '0'
+  priority: '0'
+  rate: '5.5'
+  shipping: '1'
+  state: WI
+wootax/39239:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '54858'
+    location_type: postcode
+  name: POLK COUNTY
+  order: '0'
+  priority: '0'
+  rate: '5.5'
+  shipping: '1'
+  state: WI
+wootax/39240:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '54859'
+    location_type: postcode
+  name: WASHBURN COUNTY
+  order: '0'
+  priority: '0'
+  rate: '5.5'
+  shipping: '1'
+  state: WI
+wootax/39241:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '54861'
+    location_type: postcode
+  name: ASHLAND COUNTY
+  order: '0'
+  priority: '0'
+  rate: '5.5'
+  shipping: '1'
+  state: WI
+wootax/39242:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '54862'
+    location_type: postcode
+  name: SAWYER COUNTY
+  order: '0'
+  priority: '0'
+  rate: '5.5'
+  shipping: '1'
+  state: WI
+wootax/39243:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '54864'
+    location_type: postcode
+  name: DOUGLAS COUNTY
+  order: '0'
+  priority: '0'
+  rate: '5.5'
+  shipping: '1'
+  state: WI
+wootax/39244:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '54865'
+    location_type: postcode
+  name: BAYFIELD COUNTY
+  order: '0'
+  priority: '0'
+  rate: '5.5'
+  shipping: '1'
+  state: WI
+wootax/39245:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '54867'
+    location_type: postcode
+  name: SAWYER COUNTY
+  order: '0'
+  priority: '0'
+  rate: '5.5'
+  shipping: '1'
+  state: WI
+wootax/39246:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '54868'
+    location_type: postcode
+  name: RICE LAKE
+  order: '0'
+  priority: '0'
+  rate: '5.5'
+  shipping: '1'
+  state: WI
+wootax/39247:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '54870'
+    location_type: postcode
+  name: WASHBURN COUNTY
+  order: '0'
+  priority: '0'
+  rate: '5.5'
+  shipping: '1'
+  state: WI
+wootax/39248:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '54871'
+    location_type: postcode
+  name: WASHBURN COUNTY
+  order: '0'
+  priority: '0'
+  rate: '5.5'
+  shipping: '1'
+  state: WI
+wootax/39249:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '54872'
+    location_type: postcode
+  name: BURNETT COUNTY
+  order: '0'
+  priority: '0'
+  rate: '5.5'
+  shipping: '1'
+  state: WI
+wootax/39250:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '54873'
+    location_type: postcode
+  name: DOUGLAS COUNTY
+  order: '0'
+  priority: '0'
+  rate: '5.5'
+  shipping: '1'
+  state: WI
+wootax/39251:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '54874'
+    location_type: postcode
+  name: DOUGLAS COUNTY
+  order: '0'
+  priority: '0'
+  rate: '5.5'
+  shipping: '1'
+  state: WI
+wootax/39252:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '54875'
+    location_type: postcode
+  name: WASHBURN COUNTY
+  order: '0'
+  priority: '0'
+  rate: '5.5'
+  shipping: '1'
+  state: WI
+wootax/39253:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '54876'
+    location_type: postcode
+  name: SAWYER COUNTY
+  order: '0'
+  priority: '0'
+  rate: '5.5'
+  shipping: '1'
+  state: WI
+wootax/39254:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '54880'
+    location_type: postcode
+  name: SUPERIOR
+  order: '0'
+  priority: '0'
+  rate: '5.5'
+  shipping: '1'
+  state: WI
+wootax/39255:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '54888'
+    location_type: postcode
+  name: WASHBURN COUNTY
+  order: '0'
+  priority: '0'
+  rate: '5.5'
+  shipping: '1'
+  state: WI
+wootax/39256:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '54889'
+    location_type: postcode
+  name: BARRON COUNTY
+  order: '0'
+  priority: '0'
+  rate: '5.5'
+  shipping: '1'
+  state: WI
+wootax/39257:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '54890'
+    location_type: postcode
+  name: DOUGLAS COUNTY
+  order: '0'
+  priority: '0'
+  rate: '5.5'
+  shipping: '1'
+  state: WI
+wootax/39258:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '54891'
+    location_type: postcode
+  name: BAYFIELD COUNTY
+  order: '0'
+  priority: '0'
+  rate: '5.5'
+  shipping: '1'
+  state: WI
+wootax/39259:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '54893'
+    location_type: postcode
+  name: BURNETT COUNTY
+  order: '0'
+  priority: '0'
+  rate: '5.5'
+  shipping: '1'
+  state: WI
+wootax/39260:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '54895'
+    location_type: postcode
+  name: RUSK COUNTY
+  order: '0'
+  priority: '0'
+  rate: '5.5'
+  shipping: '1'
+  state: WI
+wootax/39261:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '54896'
+    location_type: postcode
+  name: SAWYER COUNTY
+  order: '0'
+  priority: '0'
+  rate: '5.5'
+  shipping: '1'
+  state: WI
+wootax/39262:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '54901'
+    location_type: postcode
+  name: OSHKOSH
+  order: '0'
+  priority: '0'
+  rate: '5'
+  shipping: '1'
+  state: WI
+wootax/39263:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '54902'
+    location_type: postcode
+  name: OSHKOSH
+  order: '0'
+  priority: '0'
+  rate: '5'
+  shipping: '1'
+  state: WI
+wootax/39264:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '54903'
+    location_type: postcode
+  name: OSHKOSH
+  order: '0'
+  priority: '0'
+  rate: '5'
+  shipping: '1'
+  state: WI
+wootax/39265:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '54904'
+    location_type: postcode
+  name: OSHKOSH
+  order: '0'
+  priority: '0'
+  rate: '5'
+  shipping: '1'
+  state: WI
+wootax/39266:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '54906'
+    location_type: postcode
+  name: OSHKOSH
+  order: '0'
+  priority: '0'
+  rate: '5'
+  shipping: '1'
+  state: WI
+wootax/39267:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '54909'
+    location_type: postcode
+  name: PORTAGE COUNTY
+  order: '0'
+  priority: '0'
+  rate: '5.5'
+  shipping: '1'
+  state: WI
+wootax/39268:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '54911'
+    location_type: postcode
+  name: APPLETON CITY
+  order: '0'
+  priority: '0'
+  rate: '5'
+  shipping: '1'
+  state: WI
+wootax/39269:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '54912'
+    location_type: postcode
+  name: APPLETON CITY
+  order: '0'
+  priority: '0'
+  rate: '5'
+  shipping: '1'
+  state: WI
+wootax/39270:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '54913'
+    location_type: postcode
+  name: OUTAGAMIE
+  order: '0'
+  priority: '0'
+  rate: '5'
+  shipping: '1'
+  state: WI
+wootax/39271:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '54914'
+    location_type: postcode
+  name: OUTAGAMIE
+  order: '0'
+  priority: '0'
+  rate: '5'
+  shipping: '1'
+  state: WI
+wootax/39272:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '54915'
+    location_type: postcode
+  name: APPLETON CITY
+  order: '0'
+  priority: '0'
+  rate: '5'
+  shipping: '1'
+  state: WI
+wootax/39273:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '54919'
+    location_type: postcode
+  name: APPLETON CITY
+  order: '0'
+  priority: '0'
+  rate: '5'
+  shipping: '1'
+  state: WI
+wootax/39274:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '54921'
+    location_type: postcode
+  name: PORTAGE COUNTY
+  order: '0'
+  priority: '0'
+  rate: '5.5'
+  shipping: '1'
+  state: WI
+wootax/39275:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '54922'
+    location_type: postcode
+  name: OUTAGAMIE
+  order: '0'
+  priority: '0'
+  rate: '5'
+  shipping: '1'
+  state: WI
+wootax/39276:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '54923'
+    location_type: postcode
+  name: BERLIN
+  order: '0'
+  priority: '0'
+  rate: '5.5'
+  shipping: '1'
+  state: WI
+wootax/39277:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '54926'
+    location_type: postcode
+  name: WAUPACA COUNTY
+  order: '0'
+  priority: '0'
+  rate: '5.5'
+  shipping: '1'
+  state: WI
+wootax/39278:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '54927'
+    location_type: postcode
+  name: WINNEBAGO
+  order: '0'
+  priority: '0'
+  rate: '5'
+  shipping: '1'
+  state: WI
+wootax/39279:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '54928'
+    location_type: postcode
+  name: SHAWANO COUNTY
+  order: '0'
+  priority: '0'
+  rate: '5.5'
+  shipping: '1'
+  state: WI
+wootax/39280:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '54929'
+    location_type: postcode
+  name: 'CLINTONVILLE '
+  order: '0'
+  priority: '0'
+  rate: '5.5'
+  shipping: '1'
+  state: WI
+wootax/39281:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '54930'
+    location_type: postcode
+  name: WAUSHARA COUNTY
+  order: '0'
+  priority: '0'
+  rate: '5.5'
+  shipping: '1'
+  state: WI
+wootax/39282:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '54931'
+    location_type: postcode
+  name: OUTAGAMIE
+  order: '0'
+  priority: '0'
+  rate: '5'
+  shipping: '1'
+  state: WI
+wootax/39283:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '54932'
+    location_type: postcode
+  name: FOND DU LAC COUNTY
+  order: '0'
+  priority: '0'
+  rate: '5.5'
+  shipping: '1'
+  state: WI
+wootax/39284:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '54933'
+    location_type: postcode
+  name: WAUPACA COUNTY
+  order: '0'
+  priority: '0'
+  rate: '5.5'
+  shipping: '1'
+  state: WI
+wootax/39285:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '54935'
+    location_type: postcode
+  name: 'FOND DU LAC '
+  order: '0'
+  priority: '0'
+  rate: '5.5'
+  shipping: '1'
+  state: WI
+wootax/39286:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '54936'
+    location_type: postcode
+  name: 'FOND DU LAC '
+  order: '0'
+  priority: '0'
+  rate: '5.5'
+  shipping: '1'
+  state: WI
+wootax/39287:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '54937'
+    location_type: postcode
+  name: FOND DU LAC COUNTY
+  order: '0'
+  priority: '0'
+  rate: '5.5'
+  shipping: '1'
+  state: WI
+wootax/39288:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '54940'
+    location_type: postcode
+  name: WAUPACA COUNTY
+  order: '0'
+  priority: '0'
+  rate: '5.5'
+  shipping: '1'
+  state: WI
+wootax/39289:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '54941'
+    location_type: postcode
+  name: GREEN LAKE COUNTY
+  order: '0'
+  priority: '0'
+  rate: '5.5'
+  shipping: '1'
+  state: WI
+wootax/39290:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '54942'
+    location_type: postcode
+  name: OUTAGAMIE
+  order: '0'
+  priority: '0'
+  rate: '5'
+  shipping: '1'
+  state: WI
+wootax/39291:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '54943'
+    location_type: postcode
+  name: WAUSHARA COUNTY
+  order: '0'
+  priority: '0'
+  rate: '5.5'
+  shipping: '1'
+  state: WI
+wootax/39292:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '54944'
+    location_type: postcode
+  name: OUTAGAMIE
+  order: '0'
+  priority: '0'
+  rate: '5'
+  shipping: '1'
+  state: WI
+wootax/39293:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '54945'
+    location_type: postcode
+  name: WAUPACA COUNTY
+  order: '0'
+  priority: '0'
+  rate: '5.5'
+  shipping: '1'
+  state: WI
+wootax/39294:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '54946'
+    location_type: postcode
+  name: WAUPACA COUNTY
+  order: '0'
+  priority: '0'
+  rate: '5.5'
+  shipping: '1'
+  state: WI
+wootax/39295:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '54947'
+    location_type: postcode
+  name: WINNEBAGO
+  order: '0'
+  priority: '0'
+  rate: '5'
+  shipping: '1'
+  state: WI
+wootax/39296:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '54948'
+    location_type: postcode
+  name: SHAWANO COUNTY
+  order: '0'
+  priority: '0'
+  rate: '5.5'
+  shipping: '1'
+  state: WI
+wootax/39297:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '54949'
+    location_type: postcode
+  name: WAUPACA COUNTY
+  order: '0'
+  priority: '0'
+  rate: '5.5'
+  shipping: '1'
+  state: WI
+wootax/39298:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '54950'
+    location_type: postcode
+  name: SHAWANO COUNTY
+  order: '0'
+  priority: '0'
+  rate: '5.5'
+  shipping: '1'
+  state: WI
+wootax/39299:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '54952'
+    location_type: postcode
+  name: 'MENASHA '
+  order: '0'
+  priority: '0'
+  rate: '5'
+  shipping: '1'
+  state: WI
+wootax/39300:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '54956'
+    location_type: postcode
+  name: 'NEENAH '
+  order: '0'
+  priority: '0'
+  rate: '5'
+  shipping: '1'
+  state: WI
+wootax/39301:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '54957'
+    location_type: postcode
+  name: 'NEENAH '
+  order: '0'
+  priority: '0'
+  rate: '5'
+  shipping: '1'
+  state: WI
+wootax/39302:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '54960'
+    location_type: postcode
+  name: MARQUETTE COUNTY
+  order: '0'
+  priority: '0'
+  rate: '5.5'
+  shipping: '1'
+  state: WI
+wootax/39303:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '54961'
+    location_type: postcode
+  name: NEW LONDON
+  order: '0'
+  priority: '0'
+  rate: '5.5'
+  shipping: '1'
+  state: WI
+wootax/39304:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '54962'
+    location_type: postcode
+  name: WAUPACA COUNTY
+  order: '0'
+  priority: '0'
+  rate: '5.5'
+  shipping: '1'
+  state: WI
+wootax/39305:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '54963'
+    location_type: postcode
+  name: OMRO
+  order: '0'
+  priority: '0'
+  rate: '5'
+  shipping: '1'
+  state: WI
+wootax/39306:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '54964'
+    location_type: postcode
+  name: WINNEBAGO
+  order: '0'
+  priority: '0'
+  rate: '5'
+  shipping: '1'
+  state: WI
+wootax/39307:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '54965'
+    location_type: postcode
+  name: WAUSHARA COUNTY
+  order: '0'
+  priority: '0'
+  rate: '5.5'
+  shipping: '1'
+  state: WI
+wootax/39308:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '54966'
+    location_type: postcode
+  name: WAUSHARA COUNTY
+  order: '0'
+  priority: '0'
+  rate: '5.5'
+  shipping: '1'
+  state: WI
+wootax/39309:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '54967'
+    location_type: postcode
+  name: WAUSHARA COUNTY
+  order: '0'
+  priority: '0'
+  rate: '5.5'
+  shipping: '1'
+  state: WI
+wootax/39310:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '54968'
+    location_type: postcode
+  name: GREEN LAKE COUNTY
+  order: '0'
+  priority: '0'
+  rate: '5.5'
+  shipping: '1'
+  state: WI
+wootax/39311:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '54969'
+    location_type: postcode
+  name: WAUPACA COUNTY
+  order: '0'
+  priority: '0'
+  rate: '5.5'
+  shipping: '1'
+  state: WI
+wootax/39312:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '54970'
+    location_type: postcode
+  name: WAUSHARA COUNTY
+  order: '0'
+  priority: '0'
+  rate: '5.5'
+  shipping: '1'
+  state: WI
+wootax/39313:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '54971'
+    location_type: postcode
+  name: RIPON
+  order: '0'
+  priority: '0'
+  rate: '5.5'
+  shipping: '1'
+  state: WI
+wootax/39314:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '54974'
+    location_type: postcode
+  name: FOND DU LAC COUNTY
+  order: '0'
+  priority: '0'
+  rate: '5.5'
+  shipping: '1'
+  state: WI
+wootax/39315:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '54976'
+    location_type: postcode
+  name: WAUSHARA COUNTY
+  order: '0'
+  priority: '0'
+  rate: '5.5'
+  shipping: '1'
+  state: WI
+wootax/39316:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '54977'
+    location_type: postcode
+  name: WAUPACA COUNTY
+  order: '0'
+  priority: '0'
+  rate: '5.5'
+  shipping: '1'
+  state: WI
+wootax/39317:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '54978'
+    location_type: postcode
+  name: SHAWANO COUNTY
+  order: '0'
+  priority: '0'
+  rate: '5.5'
+  shipping: '1'
+  state: WI
+wootax/39318:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '54979'
+    location_type: postcode
+  name: FOND DU LAC COUNTY
+  order: '0'
+  priority: '0'
+  rate: '5.5'
+  shipping: '1'
+  state: WI
+wootax/39319:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '54980'
+    location_type: postcode
+  name: WINNEBAGO
+  order: '0'
+  priority: '0'
+  rate: '5'
+  shipping: '1'
+  state: WI
+wootax/39320:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '54981'
+    location_type: postcode
+  name: WAUPACA COUNTY
+  order: '0'
+  priority: '0'
+  rate: '5.5'
+  shipping: '1'
+  state: WI
+wootax/39321:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '54982'
+    location_type: postcode
+  name: WAUSHARA COUNTY
+  order: '0'
+  priority: '0'
+  rate: '5.5'
+  shipping: '1'
+  state: WI
+wootax/39322:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '54983'
+    location_type: postcode
+  name: WAUPACA COUNTY
+  order: '0'
+  priority: '0'
+  rate: '5.5'
+  shipping: '1'
+  state: WI
+wootax/39323:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '54984'
+    location_type: postcode
+  name: WAUSHARA COUNTY
+  order: '0'
+  priority: '0'
+  rate: '5.5'
+  shipping: '1'
+  state: WI
+wootax/39324:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '54985'
+    location_type: postcode
+  name: WINNEBAGO
+  order: '0'
+  priority: '0'
+  rate: '5'
+  shipping: '1'
+  state: WI
+wootax/39325:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '54986'
+    location_type: postcode
+  name: WINNEBAGO
+  order: '0'
+  priority: '0'
+  rate: '5'
+  shipping: '1'
+  state: WI
+wootax/39326:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '54990'
+    location_type: postcode
+  name: WAUPACA COUNTY
+  order: '0'
+  priority: '0'
+  rate: '5.5'
+  shipping: '1'
+  state: WI

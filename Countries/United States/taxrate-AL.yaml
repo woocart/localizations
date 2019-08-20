@@ -1,0 +1,10127 @@
+wootax/1000:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '36867'
+    location_type: postcode
+  name: PHENIX CITY (RUSSELL CO)
+  order: '0'
+  priority: '0'
+  rate: '9.5'
+  shipping: '0'
+  state: AL
+wootax/1001:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '36868'
+    location_type: postcode
+  name: PHENIX CITY (RUSSELL CO)
+  order: '0'
+  priority: '0'
+  rate: '9.5'
+  shipping: '0'
+  state: AL
+wootax/1002:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '36869'
+    location_type: postcode
+  name: PHENIX CITY (RUSSELL CO)
+  order: '0'
+  priority: '0'
+  rate: '9.5'
+  shipping: '0'
+  state: AL
+wootax/1003:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '36870'
+    location_type: postcode
+  name: PHENIX PJ (LEE CO)
+  order: '0'
+  priority: '0'
+  rate: '9.75'
+  shipping: '0'
+  state: AL
+wootax/1004:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '36871'
+    location_type: postcode
+  name: RUSSELL CO (RM/7057)
+  order: '0'
+  priority: '0'
+  rate: '8'
+  shipping: '0'
+  state: AL
+wootax/1005:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '36874'
+    location_type: postcode
+  name: LEE COUNTY
+  order: '0'
+  priority: '0'
+  rate: '8'
+  shipping: '0'
+  state: AL
+wootax/1006:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '36875'
+    location_type: postcode
+  name: RUSSELL CO (RM/7057)
+  order: '0'
+  priority: '0'
+  rate: '8'
+  shipping: '0'
+  state: AL
+wootax/1007:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '36877'
+    location_type: postcode
+  name: SMITHS STATION
+  order: '0'
+  priority: '0'
+  rate: '9'
+  shipping: '0'
+  state: AL
+wootax/1008:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '36879'
+    location_type: postcode
+  name: LEE COUNTY
+  order: '0'
+  priority: '0'
+  rate: '8'
+  shipping: '0'
+  state: AL
+wootax/1009:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '36901'
+    location_type: postcode
+  name: SUMTER COUNTY
+  order: '0'
+  priority: '0'
+  rate: '7'
+  shipping: '0'
+  state: AL
+wootax/1010:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '36904'
+    location_type: postcode
+  name: CHOCTAW COUNTY
+  order: '0'
+  priority: '0'
+  rate: '7'
+  shipping: '0'
+  state: AL
+wootax/1011:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '36907'
+    location_type: postcode
+  name: SUMTER COUNTY
+  order: '0'
+  priority: '0'
+  rate: '7'
+  shipping: '0'
+  state: AL
+wootax/1012:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '36908'
+    location_type: postcode
+  name: CHOCTAW COUNTY
+  order: '0'
+  priority: '0'
+  rate: '7'
+  shipping: '0'
+  state: AL
+wootax/1013:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '36910'
+    location_type: postcode
+  name: CHOCTAW COUNTY
+  order: '0'
+  priority: '0'
+  rate: '7'
+  shipping: '0'
+  state: AL
+wootax/1014:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '36912'
+    location_type: postcode
+  name: CHOCTAW COUNTY
+  order: '0'
+  priority: '0'
+  rate: '7'
+  shipping: '0'
+  state: AL
+wootax/1015:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '36913'
+    location_type: postcode
+  name: CHOCTAW COUNTY
+  order: '0'
+  priority: '0'
+  rate: '7'
+  shipping: '0'
+  state: AL
+wootax/1016:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '36915'
+    location_type: postcode
+  name: CHOCTAW COUNTY
+  order: '0'
+  priority: '0'
+  rate: '7'
+  shipping: '0'
+  state: AL
+wootax/1017:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '36916'
+    location_type: postcode
+  name: PENNINGTON
+  order: '0'
+  priority: '0'
+  rate: '10'
+  shipping: '0'
+  state: AL
+wootax/1018:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '36919'
+    location_type: postcode
+  name: CHOCTAW COUNTY
+  order: '0'
+  priority: '0'
+  rate: '7'
+  shipping: '0'
+  state: AL
+wootax/1019:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '36921'
+    location_type: postcode
+  name: CHOCTAW COUNTY
+  order: '0'
+  priority: '0'
+  rate: '7'
+  shipping: '0'
+  state: AL
+wootax/1020:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '36922'
+    location_type: postcode
+  name: CHOCTAW COUNTY
+  order: '0'
+  priority: '0'
+  rate: '7'
+  shipping: '0'
+  state: AL
+wootax/1021:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '36925'
+    location_type: postcode
+  name: YORK
+  order: '0'
+  priority: '0'
+  rate: '11'
+  shipping: '0'
+  state: AL
+wootax/243:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '35004'
+    location_type: postcode
+  name: MOODY
+  order: '0'
+  priority: '0'
+  rate: '10'
+  shipping: '0'
+  state: AL
+wootax/244:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '35005'
+    location_type: postcode
+  name: ADAMSVILLE
+  order: '0'
+  priority: '0'
+  rate: '10'
+  shipping: '0'
+  state: AL
+wootax/245:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '35006'
+    location_type: postcode
+  name: JEFFERSON COUNTY
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '0'
+  state: AL
+wootax/246:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '35007'
+    location_type: postcode
+  name: ALABASTER
+  order: '0'
+  priority: '0'
+  rate: '9'
+  shipping: '0'
+  state: AL
+wootax/247:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '35010'
+    location_type: postcode
+  name: ALEXANDER
+  order: '0'
+  priority: '0'
+  rate: '10'
+  shipping: '0'
+  state: AL
+wootax/248:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '35013'
+    location_type: postcode
+  name: ALLGOOD
+  order: '0'
+  priority: '0'
+  rate: '10'
+  shipping: '0'
+  state: AL
+wootax/249:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '35014'
+    location_type: postcode
+  name: TALLADEGA COUNTY
+  order: '0'
+  priority: '0'
+  rate: '7'
+  shipping: '0'
+  state: AL
+wootax/250:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '35015'
+    location_type: postcode
+  name: IRONDALE
+  order: '0'
+  priority: '0'
+  rate: '10'
+  shipping: '0'
+  state: AL
+wootax/251:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '35016'
+    location_type: postcode
+  name: ARAB (MARSHALL CO)
+  order: '0'
+  priority: '0'
+  rate: '9'
+  shipping: '0'
+  state: AL
+wootax/252:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '35019'
+    location_type: postcode
+  name: CULLMAN COUNTY
+  order: '0'
+  priority: '0'
+  rate: '8.5'
+  shipping: '0'
+  state: AL
+wootax/253:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '35020'
+    location_type: postcode
+  name: BESSEMER
+  order: '0'
+  priority: '0'
+  rate: '10'
+  shipping: '0'
+  state: AL
+wootax/254:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '35021'
+    location_type: postcode
+  name: BESSEMER
+  order: '0'
+  priority: '0'
+  rate: '10'
+  shipping: '0'
+  state: AL
+wootax/255:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '35022'
+    location_type: postcode
+  name: BESSEMER
+  order: '0'
+  priority: '0'
+  rate: '10'
+  shipping: '0'
+  state: AL
+wootax/256:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '35023'
+    location_type: postcode
+  name: HUEYTOWN
+  order: '0'
+  priority: '0'
+  rate: '10'
+  shipping: '0'
+  state: AL
+wootax/257:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '35031'
+    location_type: postcode
+  name: BLOUNT COUNTY
+  order: '0'
+  priority: '0'
+  rate: '7'
+  shipping: '0'
+  state: AL
+wootax/258:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '35032'
+    location_type: postcode
+  name: BON AIR TOWN
+  order: '0'
+  priority: '0'
+  rate: '5'
+  shipping: '0'
+  state: AL
+wootax/259:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '35033'
+    location_type: postcode
+  name: CULLMAN COUNTY
+  order: '0'
+  priority: '0'
+  rate: '8.5'
+  shipping: '0'
+  state: AL
+wootax/260:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '35034'
+    location_type: postcode
+  name: BIBB COUNTY
+  order: '0'
+  priority: '0'
+  rate: '8'
+  shipping: '0'
+  state: AL
+wootax/261:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '35035'
+    location_type: postcode
+  name: BIBB COUNTY
+  order: '0'
+  priority: '0'
+  rate: '8'
+  shipping: '0'
+  state: AL
+wootax/262:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '35036'
+    location_type: postcode
+  name: GARDENDALE
+  order: '0'
+  priority: '0'
+  rate: '10'
+  shipping: '0'
+  state: AL
+wootax/263:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '35038'
+    location_type: postcode
+  name: DORA
+  order: '0'
+  priority: '0'
+  rate: '9'
+  shipping: '0'
+  state: AL
+wootax/264:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '35040'
+    location_type: postcode
+  name: CALERA (SHELBY CO)
+  order: '0'
+  priority: '0'
+  rate: '9'
+  shipping: '0'
+  state: AL
+wootax/265:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '35042'
+    location_type: postcode
+  name: CENTREVILLE
+  order: '0'
+  priority: '0'
+  rate: '10'
+  shipping: '0'
+  state: AL
+wootax/266:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '35043'
+    location_type: postcode
+  name: CHELSEA
+  order: '0'
+  priority: '0'
+  rate: '9'
+  shipping: '0'
+  state: AL
+wootax/267:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '35044'
+    location_type: postcode
+  name: CHILDERSBURG
+  order: '0'
+  priority: '0'
+  rate: '9'
+  shipping: '0'
+  state: AL
+wootax/268:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '35045'
+    location_type: postcode
+  name: CLANTON
+  order: '0'
+  priority: '0'
+  rate: '9'
+  shipping: '0'
+  state: AL
+wootax/269:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '35046'
+    location_type: postcode
+  name: CHILTON COUNTY
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '0'
+  state: AL
+wootax/270:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '35048'
+    location_type: postcode
+  name: CLAY
+  order: '0'
+  priority: '0'
+  rate: '10'
+  shipping: '0'
+  state: AL
+wootax/271:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '35049'
+    location_type: postcode
+  name: CLEVELAND PJ
+  order: '0'
+  priority: '0'
+  rate: '8'
+  shipping: '0'
+  state: AL
+wootax/272:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '35051'
+    location_type: postcode
+  name: SHELBY COUNTY
+  order: '0'
+  priority: '0'
+  rate: '5'
+  shipping: '0'
+  state: AL
+wootax/273:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '35052'
+    location_type: postcode
+  name: ST. CLAIR COUNTY
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '0'
+  state: AL
+wootax/274:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '35053'
+    location_type: postcode
+  name: CULLMAN COUNTY
+  order: '0'
+  priority: '0'
+  rate: '8.5'
+  shipping: '0'
+  state: AL
+wootax/275:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '35054'
+    location_type: postcode
+  name: ST. CLAIR COUNTY
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '0'
+  state: AL
+wootax/276:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '35055'
+    location_type: postcode
+  name: CULLMAN
+  order: '0'
+  priority: '0'
+  rate: '9'
+  shipping: '0'
+  state: AL
+wootax/277:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '35056'
+    location_type: postcode
+  name: CULLMAN
+  order: '0'
+  priority: '0'
+  rate: '9'
+  shipping: '0'
+  state: AL
+wootax/278:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '35057'
+    location_type: postcode
+  name: CULLMAN COUNTY
+  order: '0'
+  priority: '0'
+  rate: '8.5'
+  shipping: '0'
+  state: AL
+wootax/279:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '35058'
+    location_type: postcode
+  name: CULLMAN COUNTY
+  order: '0'
+  priority: '0'
+  rate: '8.5'
+  shipping: '0'
+  state: AL
+wootax/280:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '35060'
+    location_type: postcode
+  name: ADAMSVILLE PJ
+  order: '0'
+  priority: '0'
+  rate: '8'
+  shipping: '0'
+  state: AL
+wootax/281:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '35061'
+    location_type: postcode
+  name: BIRMINGHAM (JEFFERSON CO)
+  order: '0'
+  priority: '0'
+  rate: '10'
+  shipping: '0'
+  state: AL
+wootax/282:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '35062'
+    location_type: postcode
+  name: DORA
+  order: '0'
+  priority: '0'
+  rate: '9'
+  shipping: '0'
+  state: AL
+wootax/283:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '35063'
+    location_type: postcode
+  name: WALKER COUNTY
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '0'
+  state: AL
+wootax/284:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '35064'
+    location_type: postcode
+  name: FAIRFIELD
+  order: '0'
+  priority: '0'
+  rate: '10'
+  shipping: '0'
+  state: AL
+wootax/285:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '35068'
+    location_type: postcode
+  name: FULTONDALE
+  order: '0'
+  priority: '0'
+  rate: '10'
+  shipping: '0'
+  state: AL
+wootax/286:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '35070'
+    location_type: postcode
+  name: GARDEN CITY
+  order: '0'
+  priority: '0'
+  rate: '9'
+  shipping: '0'
+  state: AL
+wootax/287:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '35071'
+    location_type: postcode
+  name: GARDENDALE
+  order: '0'
+  priority: '0'
+  rate: '10'
+  shipping: '0'
+  state: AL
+wootax/288:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '35072'
+    location_type: postcode
+  name: CLAY COUNTY
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '0'
+  state: AL
+wootax/289:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '35073'
+    location_type: postcode
+  name: GRAYSVILLE
+  order: '0'
+  priority: '0'
+  rate: '10'
+  shipping: '0'
+  state: AL
+wootax/290:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '35074'
+    location_type: postcode
+  name: WOODSTOCK PJ
+  order: '0'
+  priority: '0'
+  rate: '9'
+  shipping: '0'
+  state: AL
+wootax/291:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '35077'
+    location_type: postcode
+  name: HANCEVILLE UN
+  order: '0'
+  priority: '0'
+  rate: '8.75'
+  shipping: '0'
+  state: AL
+wootax/292:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '35078'
+    location_type: postcode
+  name: HARPERSVILLE
+  order: '0'
+  priority: '0'
+  rate: '9'
+  shipping: '0'
+  state: AL
+wootax/293:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '35079'
+    location_type: postcode
+  name: BLOUNT COUNTY
+  order: '0'
+  priority: '0'
+  rate: '7'
+  shipping: '0'
+  state: AL
+wootax/294:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '35080'
+    location_type: postcode
+  name: HELENA (SHELBY CO)
+  order: '0'
+  priority: '0'
+  rate: '9'
+  shipping: '0'
+  state: AL
+wootax/295:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '35082'
+    location_type: postcode
+  name: CLAY COUNTY
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '0'
+  state: AL
+wootax/296:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '35083'
+    location_type: postcode
+  name: CULLMAN COUNTY
+  order: '0'
+  priority: '0'
+  rate: '8.5'
+  shipping: '0'
+  state: AL
+wootax/297:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '35085'
+    location_type: postcode
+  name: CHILTON COUNTY
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '0'
+  state: AL
+wootax/298:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '35087'
+    location_type: postcode
+  name: CULLMAN COUNTY
+  order: '0'
+  priority: '0'
+  rate: '8.5'
+  shipping: '0'
+  state: AL
+wootax/299:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '35089'
+    location_type: postcode
+  name: COOSA COUNTY
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '0'
+  state: AL
+wootax/300:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '35091'
+    location_type: postcode
+  name: KIMBERLY
+  order: '0'
+  priority: '0'
+  rate: '10'
+  shipping: '0'
+  state: AL
+wootax/301:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '35094'
+    location_type: postcode
+  name: LEEDS (JEFFERSON CO)
+  order: '0'
+  priority: '0'
+  rate: '10'
+  shipping: '0'
+  state: AL
+wootax/302:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '35096'
+    location_type: postcode
+  name: LINCOLN
+  order: '0'
+  priority: '0'
+  rate: '10'
+  shipping: '0'
+  state: AL
+wootax/303:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '35097'
+    location_type: postcode
+  name: LOCUST FORK
+  order: '0'
+  priority: '0'
+  rate: '9'
+  shipping: '0'
+  state: AL
+wootax/304:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '35098'
+    location_type: postcode
+  name: CULLMAN COUNTY
+  order: '0'
+  priority: '0'
+  rate: '8.5'
+  shipping: '0'
+  state: AL
+wootax/305:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '35111'
+    location_type: postcode
+  name: JEFFERSON COUNTY
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '0'
+  state: AL
+wootax/306:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '35112'
+    location_type: postcode
+  name: MARGARET
+  order: '0'
+  priority: '0'
+  rate: '10'
+  shipping: '0'
+  state: AL
+wootax/307:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '35114'
+    location_type: postcode
+  name: ALABASTER
+  order: '0'
+  priority: '0'
+  rate: '9'
+  shipping: '0'
+  state: AL
+wootax/308:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '35115'
+    location_type: postcode
+  name: MONTEVALLO
+  order: '0'
+  priority: '0'
+  rate: '10'
+  shipping: '0'
+  state: AL
+wootax/309:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '35116'
+    location_type: postcode
+  name: MORRIS
+  order: '0'
+  priority: '0'
+  rate: '10'
+  shipping: '0'
+  state: AL
+wootax/310:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '35117'
+    location_type: postcode
+  name: JEFFERSON COUNTY
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '0'
+  state: AL
+wootax/311:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '35118'
+    location_type: postcode
+  name: JEFFERSON COUNTY
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '0'
+  state: AL
+wootax/312:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '35119'
+    location_type: postcode
+  name: GARDENDALE
+  order: '0'
+  priority: '0'
+  rate: '10'
+  shipping: '0'
+  state: AL
+wootax/313:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '35120'
+    location_type: postcode
+  name: ODENVILLE
+  order: '0'
+  priority: '0'
+  rate: '9'
+  shipping: '0'
+  state: AL
+wootax/314:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '35121'
+    location_type: postcode
+  name: ONEONTA
+  order: '0'
+  priority: '0'
+  rate: '10'
+  shipping: '0'
+  state: AL
+wootax/315:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '35123'
+    location_type: postcode
+  name: PINSON
+  order: '0'
+  priority: '0'
+  rate: '10'
+  shipping: '0'
+  state: AL
+wootax/316:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '35124'
+    location_type: postcode
+  name: PELHAM
+  order: '0'
+  priority: '0'
+  rate: '9'
+  shipping: '0'
+  state: AL
+wootax/317:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '35125'
+    location_type: postcode
+  name: ST. CLAIR COUNTY
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '0'
+  state: AL
+wootax/318:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '35126'
+    location_type: postcode
+  name: JEFFERSON COUNTY
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '0'
+  state: AL
+wootax/319:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '35127'
+    location_type: postcode
+  name: PLEASANT GROVE
+  order: '0'
+  priority: '0'
+  rate: '10'
+  shipping: '0'
+  state: AL
+wootax/320:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '35128'
+    location_type: postcode
+  name: PELL
+  order: '0'
+  priority: '0'
+  rate: '10'
+  shipping: '0'
+  state: AL
+wootax/321:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '35130'
+    location_type: postcode
+  name: WALKER COUNTY
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '0'
+  state: AL
+wootax/322:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '35131'
+    location_type: postcode
+  name: RAGLAND
+  order: '0'
+  priority: '0'
+  rate: '10'
+  shipping: '0'
+  state: AL
+wootax/323:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '35133'
+    location_type: postcode
+  name: BLOUNT COUNTY
+  order: '0'
+  priority: '0'
+  rate: '7'
+  shipping: '0'
+  state: AL
+wootax/324:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '35135'
+    location_type: postcode
+  name: RIVERSIDE
+  order: '0'
+  priority: '0'
+  rate: '10'
+  shipping: '0'
+  state: AL
+wootax/325:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '35136'
+    location_type: postcode
+  name: ROCKFORD
+  order: '0'
+  priority: '0'
+  rate: '9'
+  shipping: '0'
+  state: AL
+wootax/326:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '35137'
+    location_type: postcode
+  name: CALERA PJ (SHELBY CO)
+  order: '0'
+  priority: '0'
+  rate: '7'
+  shipping: '0'
+  state: AL
+wootax/327:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '35139'
+    location_type: postcode
+  name: ADAMSVILLE PJ
+  order: '0'
+  priority: '0'
+  rate: '8'
+  shipping: '0'
+  state: AL
+wootax/328:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '35142'
+    location_type: postcode
+  name: HOOVER (JEFFERSON CO)
+  order: '0'
+  priority: '0'
+  rate: '9.5'
+  shipping: '0'
+  state: AL
+wootax/329:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '35143'
+    location_type: postcode
+  name: SHELBY COUNTY
+  order: '0'
+  priority: '0'
+  rate: '5'
+  shipping: '0'
+  state: AL
+wootax/330:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '35146'
+    location_type: postcode
+  name: ST. CLAIR COUNTY
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '0'
+  state: AL
+wootax/331:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '35147'
+    location_type: postcode
+  name: SHELBY COUNTY
+  order: '0'
+  priority: '0'
+  rate: '5'
+  shipping: '0'
+  state: AL
+wootax/332:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '35148'
+    location_type: postcode
+  name: SUMITON (WALKER CO)
+  order: '0'
+  priority: '0'
+  rate: '9.5'
+  shipping: '0'
+  state: AL
+wootax/333:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '35149'
+    location_type: postcode
+  name: TALLADEGA COUNTY
+  order: '0'
+  priority: '0'
+  rate: '7'
+  shipping: '0'
+  state: AL
+wootax/334:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '35150'
+    location_type: postcode
+  name: SYLACAUGA
+  order: '0'
+  priority: '0'
+  rate: '8'
+  shipping: '0'
+  state: AL
+wootax/335:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '35151'
+    location_type: postcode
+  name: TALLADEGA COUNTY
+  order: '0'
+  priority: '0'
+  rate: '7'
+  shipping: '0'
+  state: AL
+wootax/336:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '35160'
+    location_type: postcode
+  name: TALLADEGA
+  order: '0'
+  priority: '0'
+  rate: '10'
+  shipping: '0'
+  state: AL
+wootax/337:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '35171'
+    location_type: postcode
+  name: THORSBY
+  order: '0'
+  priority: '0'
+  rate: '9'
+  shipping: '0'
+  state: AL
+wootax/338:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '35172'
+    location_type: postcode
+  name: BLOUNT COUNTY
+  order: '0'
+  priority: '0'
+  rate: '7'
+  shipping: '0'
+  state: AL
+wootax/339:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '35173'
+    location_type: postcode
+  name: TRUSSVILLE (JEFFERSON CO)
+  order: '0'
+  priority: '0'
+  rate: '10'
+  shipping: '0'
+  state: AL
+wootax/340:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '35175'
+    location_type: postcode
+  name: MARSHALL COUNTY
+  order: '0'
+  priority: '0'
+  rate: '5'
+  shipping: '0'
+  state: AL
+wootax/341:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '35176'
+    location_type: postcode
+  name: SHELBY COUNTY
+  order: '0'
+  priority: '0'
+  rate: '5'
+  shipping: '0'
+  state: AL
+wootax/342:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '35178'
+    location_type: postcode
+  name: VINCENT (SHELBY CO)
+  order: '0'
+  priority: '0'
+  rate: '9'
+  shipping: '0'
+  state: AL
+wootax/343:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '35179'
+    location_type: postcode
+  name: CULLMAN COUNTY
+  order: '0'
+  priority: '0'
+  rate: '8.5'
+  shipping: '0'
+  state: AL
+wootax/344:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '35180'
+    location_type: postcode
+  name: BLOUNT COUNTY
+  order: '0'
+  priority: '0'
+  rate: '7'
+  shipping: '0'
+  state: AL
+wootax/345:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '35181'
+    location_type: postcode
+  name: BROOKSIDE UN
+  order: '0'
+  priority: '0'
+  rate: '8'
+  shipping: '0'
+  state: AL
+wootax/346:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '35182'
+    location_type: postcode
+  name: ST. CLAIR COUNTY
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '0'
+  state: AL
+wootax/347:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '35183'
+    location_type: postcode
+  name: COOSA COUNTY
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '0'
+  state: AL
+wootax/348:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '35184'
+    location_type: postcode
+  name: BIBB COUNTY
+  order: '0'
+  priority: '0'
+  rate: '8'
+  shipping: '0'
+  state: AL
+wootax/349:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '35185'
+    location_type: postcode
+  name: WESTOVER
+  order: '0'
+  priority: '0'
+  rate: '9'
+  shipping: '0'
+  state: AL
+wootax/350:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '35186'
+    location_type: postcode
+  name: WILSONVILLE
+  order: '0'
+  priority: '0'
+  rate: '8'
+  shipping: '0'
+  state: AL
+wootax/351:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '35187'
+    location_type: postcode
+  name: WILTON
+  order: '0'
+  priority: '0'
+  rate: '8'
+  shipping: '0'
+  state: AL
+wootax/352:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '35188'
+    location_type: postcode
+  name: WOODSTOCK (BIBB CO)
+  order: '0'
+  priority: '0'
+  rate: '10'
+  shipping: '0'
+  state: AL
+wootax/353:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '35201'
+    location_type: postcode
+  name: BIRMINGHAM (JEFFERSON CO)
+  order: '0'
+  priority: '0'
+  rate: '10'
+  shipping: '0'
+  state: AL
+wootax/354:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '35202'
+    location_type: postcode
+  name: BIRMINGHAM (JEFFERSON CO)
+  order: '0'
+  priority: '0'
+  rate: '10'
+  shipping: '0'
+  state: AL
+wootax/355:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '35203'
+    location_type: postcode
+  name: BIRMINGHAM (JEFFERSON CO)
+  order: '0'
+  priority: '0'
+  rate: '10'
+  shipping: '0'
+  state: AL
+wootax/356:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '35204'
+    location_type: postcode
+  name: BIRMINGHAM (JEFFERSON CO)
+  order: '0'
+  priority: '0'
+  rate: '10'
+  shipping: '0'
+  state: AL
+wootax/357:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '35205'
+    location_type: postcode
+  name: BIRMINGHAM (JEFFERSON CO)
+  order: '0'
+  priority: '0'
+  rate: '10'
+  shipping: '0'
+  state: AL
+wootax/358:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '35206'
+    location_type: postcode
+  name: BIRMINGHAM (JEFFERSON CO)
+  order: '0'
+  priority: '0'
+  rate: '10'
+  shipping: '0'
+  state: AL
+wootax/359:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '35207'
+    location_type: postcode
+  name: BIRMINGHAM (JEFFERSON CO)
+  order: '0'
+  priority: '0'
+  rate: '10'
+  shipping: '0'
+  state: AL
+wootax/360:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '35208'
+    location_type: postcode
+  name: BIRMINGHAM (JEFFERSON CO)
+  order: '0'
+  priority: '0'
+  rate: '10'
+  shipping: '0'
+  state: AL
+wootax/361:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '35209'
+    location_type: postcode
+  name: HOMEWOOD
+  order: '0'
+  priority: '0'
+  rate: '10'
+  shipping: '0'
+  state: AL
+wootax/362:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '35210'
+    location_type: postcode
+  name: IRONDALE
+  order: '0'
+  priority: '0'
+  rate: '10'
+  shipping: '0'
+  state: AL
+wootax/363:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '35211'
+    location_type: postcode
+  name: BIRMINGHAM (JEFFERSON CO)
+  order: '0'
+  priority: '0'
+  rate: '10'
+  shipping: '0'
+  state: AL
+wootax/364:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '35212'
+    location_type: postcode
+  name: BIRMINGHAM (JEFFERSON CO)
+  order: '0'
+  priority: '0'
+  rate: '10'
+  shipping: '0'
+  state: AL
+wootax/365:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '35213'
+    location_type: postcode
+  name: MOUNTAIN BROOK
+  order: '0'
+  priority: '0'
+  rate: '9'
+  shipping: '0'
+  state: AL
+wootax/366:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '35214'
+    location_type: postcode
+  name: JEFFERSON COUNTY
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '0'
+  state: AL
+wootax/367:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '35215'
+    location_type: postcode
+  name: CENTER POINT
+  order: '0'
+  priority: '0'
+  rate: '10'
+  shipping: '0'
+  state: AL
+wootax/368:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '35216'
+    location_type: postcode
+  name: VESTAVIA HILLS (JEFFERSON CO)
+  order: '0'
+  priority: '0'
+  rate: '10'
+  shipping: '0'
+  state: AL
+wootax/369:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '35217'
+    location_type: postcode
+  name: TARRANT
+  order: '0'
+  priority: '0'
+  rate: '10'
+  shipping: '0'
+  state: AL
+wootax/370:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '35218'
+    location_type: postcode
+  name: BIRMINGHAM (JEFFERSON CO)
+  order: '0'
+  priority: '0'
+  rate: '10'
+  shipping: '0'
+  state: AL
+wootax/371:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '35219'
+    location_type: postcode
+  name: HOMEWOOD
+  order: '0'
+  priority: '0'
+  rate: '10'
+  shipping: '0'
+  state: AL
+wootax/372:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '35220'
+    location_type: postcode
+  name: CENTER POINT
+  order: '0'
+  priority: '0'
+  rate: '10'
+  shipping: '0'
+  state: AL
+wootax/373:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '35221'
+    location_type: postcode
+  name: BIRMINGHAM (JEFFERSON CO)
+  order: '0'
+  priority: '0'
+  rate: '10'
+  shipping: '0'
+  state: AL
+wootax/374:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '35222'
+    location_type: postcode
+  name: BIRMINGHAM (JEFFERSON CO)
+  order: '0'
+  priority: '0'
+  rate: '10'
+  shipping: '0'
+  state: AL
+wootax/375:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '35223'
+    location_type: postcode
+  name: MOUNTAIN BROOK
+  order: '0'
+  priority: '0'
+  rate: '9'
+  shipping: '0'
+  state: AL
+wootax/376:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '35224'
+    location_type: postcode
+  name: BIRMINGHAM (JEFFERSON CO)
+  order: '0'
+  priority: '0'
+  rate: '10'
+  shipping: '0'
+  state: AL
+wootax/377:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '35226'
+    location_type: postcode
+  name: HOOVER (JEFFERSON CO)
+  order: '0'
+  priority: '0'
+  rate: '9.5'
+  shipping: '0'
+  state: AL
+wootax/378:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '35228'
+    location_type: postcode
+  name: MIDFIELD
+  order: '0'
+  priority: '0'
+  rate: '10'
+  shipping: '0'
+  state: AL
+wootax/379:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '35229'
+    location_type: postcode
+  name: HOMEWOOD
+  order: '0'
+  priority: '0'
+  rate: '10'
+  shipping: '0'
+  state: AL
+wootax/380:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '35231'
+    location_type: postcode
+  name: JEFFERSON COUNTY
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '0'
+  state: AL
+wootax/381:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '35232'
+    location_type: postcode
+  name: BIRMINGHAM (JEFFERSON CO)
+  order: '0'
+  priority: '0'
+  rate: '10'
+  shipping: '0'
+  state: AL
+wootax/382:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '35233'
+    location_type: postcode
+  name: BIRMINGHAM (JEFFERSON CO)
+  order: '0'
+  priority: '0'
+  rate: '10'
+  shipping: '0'
+  state: AL
+wootax/383:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '35234'
+    location_type: postcode
+  name: BIRMINGHAM (JEFFERSON CO)
+  order: '0'
+  priority: '0'
+  rate: '10'
+  shipping: '0'
+  state: AL
+wootax/384:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '35235'
+    location_type: postcode
+  name: BIRMINGHAM (JEFFERSON CO)
+  order: '0'
+  priority: '0'
+  rate: '10'
+  shipping: '0'
+  state: AL
+wootax/385:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '35236'
+    location_type: postcode
+  name: HOOVER (JEFFERSON CO)
+  order: '0'
+  priority: '0'
+  rate: '9.5'
+  shipping: '0'
+  state: AL
+wootax/386:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '35237'
+    location_type: postcode
+  name: BIRMINGHAM (JEFFERSON CO)
+  order: '0'
+  priority: '0'
+  rate: '10'
+  shipping: '0'
+  state: AL
+wootax/387:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '35238'
+    location_type: postcode
+  name: SHELBY COUNTY
+  order: '0'
+  priority: '0'
+  rate: '5'
+  shipping: '0'
+  state: AL
+wootax/388:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '35242'
+    location_type: postcode
+  name: SHELBY COUNTY
+  order: '0'
+  priority: '0'
+  rate: '5'
+  shipping: '0'
+  state: AL
+wootax/389:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '35243'
+    location_type: postcode
+  name: VESTAVIA HILLS (JEFFERSON CO)
+  order: '0'
+  priority: '0'
+  rate: '10'
+  shipping: '0'
+  state: AL
+wootax/390:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '35244'
+    location_type: postcode
+  name: HOOVER (JEFFERSON CO)
+  order: '0'
+  priority: '0'
+  rate: '9.5'
+  shipping: '0'
+  state: AL
+wootax/391:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '35249'
+    location_type: postcode
+  name: BIRMINGHAM (JEFFERSON CO)
+  order: '0'
+  priority: '0'
+  rate: '10'
+  shipping: '0'
+  state: AL
+wootax/392:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '35253'
+    location_type: postcode
+  name: HOMEWOOD
+  order: '0'
+  priority: '0'
+  rate: '10'
+  shipping: '0'
+  state: AL
+wootax/393:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '35254'
+    location_type: postcode
+  name: BIRMINGHAM (JEFFERSON CO)
+  order: '0'
+  priority: '0'
+  rate: '10'
+  shipping: '0'
+  state: AL
+wootax/394:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '35255'
+    location_type: postcode
+  name: BIRMINGHAM (JEFFERSON CO)
+  order: '0'
+  priority: '0'
+  rate: '10'
+  shipping: '0'
+  state: AL
+wootax/395:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '35259'
+    location_type: postcode
+  name: HOMEWOOD
+  order: '0'
+  priority: '0'
+  rate: '10'
+  shipping: '0'
+  state: AL
+wootax/396:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '35260'
+    location_type: postcode
+  name: HOOVER (JEFFERSON CO)
+  order: '0'
+  priority: '0'
+  rate: '9.5'
+  shipping: '0'
+  state: AL
+wootax/397:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '35261'
+    location_type: postcode
+  name: BIRMINGHAM (JEFFERSON CO)
+  order: '0'
+  priority: '0'
+  rate: '10'
+  shipping: '0'
+  state: AL
+wootax/398:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '35266'
+    location_type: postcode
+  name: HOMEWOOD
+  order: '0'
+  priority: '0'
+  rate: '10'
+  shipping: '0'
+  state: AL
+wootax/399:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '35270'
+    location_type: postcode
+  name: BIRMINGHAM (JEFFERSON CO)
+  order: '0'
+  priority: '0'
+  rate: '10'
+  shipping: '0'
+  state: AL
+wootax/400:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '35282'
+    location_type: postcode
+  name: BIRMINGHAM (JEFFERSON CO)
+  order: '0'
+  priority: '0'
+  rate: '10'
+  shipping: '0'
+  state: AL
+wootax/401:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '35285'
+    location_type: postcode
+  name: BIRMINGHAM (JEFFERSON CO)
+  order: '0'
+  priority: '0'
+  rate: '10'
+  shipping: '0'
+  state: AL
+wootax/402:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '35293'
+    location_type: postcode
+  name: HOMEWOOD
+  order: '0'
+  priority: '0'
+  rate: '10'
+  shipping: '0'
+  state: AL
+wootax/403:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '35294'
+    location_type: postcode
+  name: BIRMINGHAM (JEFFERSON CO)
+  order: '0'
+  priority: '0'
+  rate: '10'
+  shipping: '0'
+  state: AL
+wootax/404:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '35295'
+    location_type: postcode
+  name: BIRMINGHAM (JEFFERSON CO)
+  order: '0'
+  priority: '0'
+  rate: '10'
+  shipping: '0'
+  state: AL
+wootax/405:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '35401'
+    location_type: postcode
+  name: TUSCALOOSA
+  order: '0'
+  priority: '0'
+  rate: '9'
+  shipping: '0'
+  state: AL
+wootax/406:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '35402'
+    location_type: postcode
+  name: TUSCALOOSA
+  order: '0'
+  priority: '0'
+  rate: '9'
+  shipping: '0'
+  state: AL
+wootax/407:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '35403'
+    location_type: postcode
+  name: TUSCALOOSA
+  order: '0'
+  priority: '0'
+  rate: '9'
+  shipping: '0'
+  state: AL
+wootax/408:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '35404'
+    location_type: postcode
+  name: TUSCALOOSA
+  order: '0'
+  priority: '0'
+  rate: '9'
+  shipping: '0'
+  state: AL
+wootax/409:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '35405'
+    location_type: postcode
+  name: TUSCALOOSA
+  order: '0'
+  priority: '0'
+  rate: '9'
+  shipping: '0'
+  state: AL
+wootax/410:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '35406'
+    location_type: postcode
+  name: TUSCALOOSA
+  order: '0'
+  priority: '0'
+  rate: '9'
+  shipping: '0'
+  state: AL
+wootax/411:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '35407'
+    location_type: postcode
+  name: TUSCALOOSA
+  order: '0'
+  priority: '0'
+  rate: '9'
+  shipping: '0'
+  state: AL
+wootax/412:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '35440'
+    location_type: postcode
+  name: TUSCALOOSA COUNTY
+  order: '0'
+  priority: '0'
+  rate: '9'
+  shipping: '0'
+  state: AL
+wootax/413:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '35441'
+    location_type: postcode
+  name: HALE COUNTY
+  order: '0'
+  priority: '0'
+  rate: '7'
+  shipping: '0'
+  state: AL
+wootax/414:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '35442'
+    location_type: postcode
+  name: ALICEVILLE
+  order: '0'
+  priority: '0'
+  rate: '9'
+  shipping: '0'
+  state: AL
+wootax/415:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '35443'
+    location_type: postcode
+  name: GREENE COUNTY
+  order: '0'
+  priority: '0'
+  rate: '7'
+  shipping: '0'
+  state: AL
+wootax/416:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '35444'
+    location_type: postcode
+  name: BROOKWOOD
+  order: '0'
+  priority: '0'
+  rate: '9'
+  shipping: '0'
+  state: AL
+wootax/417:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '35446'
+    location_type: postcode
+  name: TUSCALOOSA COUNTY
+  order: '0'
+  priority: '0'
+  rate: '9'
+  shipping: '0'
+  state: AL
+wootax/418:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '35447'
+    location_type: postcode
+  name: PICKENS COUNTY
+  order: '0'
+  priority: '0'
+  rate: '8'
+  shipping: '0'
+  state: AL
+wootax/419:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '35448'
+    location_type: postcode
+  name: GREENE COUNTY
+  order: '0'
+  priority: '0'
+  rate: '7'
+  shipping: '0'
+  state: AL
+wootax/420:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '35449'
+    location_type: postcode
+  name: COALING
+  order: '0'
+  priority: '0'
+  rate: '10'
+  shipping: '0'
+  state: AL
+wootax/421:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '35452'
+    location_type: postcode
+  name: NORTHPORT PJ
+  order: '0'
+  priority: '0'
+  rate: '9'
+  shipping: '0'
+  state: AL
+wootax/422:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '35453'
+    location_type: postcode
+  name: TUSCALOOSA PJ
+  order: '0'
+  priority: '0'
+  rate: '9'
+  shipping: '0'
+  state: AL
+wootax/423:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '35456'
+    location_type: postcode
+  name: TUSCALOOSA PJ
+  order: '0'
+  priority: '0'
+  rate: '9'
+  shipping: '0'
+  state: AL
+wootax/424:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '35457'
+    location_type: postcode
+  name: TUSCALOOSA COUNTY
+  order: '0'
+  priority: '0'
+  rate: '9'
+  shipping: '0'
+  state: AL
+wootax/425:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '35458'
+    location_type: postcode
+  name: TUSCALOOSA COUNTY
+  order: '0'
+  priority: '0'
+  rate: '9'
+  shipping: '0'
+  state: AL
+wootax/426:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '35459'
+    location_type: postcode
+  name: SUMTER COUNTY
+  order: '0'
+  priority: '0'
+  rate: '7'
+  shipping: '0'
+  state: AL
+wootax/427:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '35460'
+    location_type: postcode
+  name: SUMTER COUNTY
+  order: '0'
+  priority: '0'
+  rate: '7'
+  shipping: '0'
+  state: AL
+wootax/428:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '35461'
+    location_type: postcode
+  name: PICKENS COUNTY
+  order: '0'
+  priority: '0'
+  rate: '8'
+  shipping: '0'
+  state: AL
+wootax/429:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '35462'
+    location_type: postcode
+  name: EUTAW
+  order: '0'
+  priority: '0'
+  rate: '10'
+  shipping: '0'
+  state: AL
+wootax/430:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '35463'
+    location_type: postcode
+  name: TUSCALOOSA COUNTY
+  order: '0'
+  priority: '0'
+  rate: '9'
+  shipping: '0'
+  state: AL
+wootax/431:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '35464'
+    location_type: postcode
+  name: SUMTER COUNTY
+  order: '0'
+  priority: '0'
+  rate: '7'
+  shipping: '0'
+  state: AL
+wootax/432:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '35466'
+    location_type: postcode
+  name: PICKENS COUNTY
+  order: '0'
+  priority: '0'
+  rate: '8'
+  shipping: '0'
+  state: AL
+wootax/433:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '35468'
+    location_type: postcode
+  name: TUSCALOOSA COUNTY
+  order: '0'
+  priority: '0'
+  rate: '9'
+  shipping: '0'
+  state: AL
+wootax/434:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '35469'
+    location_type: postcode
+  name: GREENE COUNTY
+  order: '0'
+  priority: '0'
+  rate: '7'
+  shipping: '0'
+  state: AL
+wootax/435:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '35470'
+    location_type: postcode
+  name: SUMTER COUNTY
+  order: '0'
+  priority: '0'
+  rate: '7'
+  shipping: '0'
+  state: AL
+wootax/436:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '35471'
+    location_type: postcode
+  name: PICKENS COUNTY
+  order: '0'
+  priority: '0'
+  rate: '8'
+  shipping: '0'
+  state: AL
+wootax/437:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '35473'
+    location_type: postcode
+  name: NORTHPORT
+  order: '0'
+  priority: '0'
+  rate: '9'
+  shipping: '0'
+  state: AL
+wootax/438:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '35474'
+    location_type: postcode
+  name: HALE COUNTY
+  order: '0'
+  priority: '0'
+  rate: '7'
+  shipping: '0'
+  state: AL
+wootax/439:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '35475'
+    location_type: postcode
+  name: TUSCALOOSA PJ
+  order: '0'
+  priority: '0'
+  rate: '9'
+  shipping: '0'
+  state: AL
+wootax/440:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '35476'
+    location_type: postcode
+  name: NORTHPORT
+  order: '0'
+  priority: '0'
+  rate: '9'
+  shipping: '0'
+  state: AL
+wootax/441:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '35477'
+    location_type: postcode
+  name: SUMTER COUNTY
+  order: '0'
+  priority: '0'
+  rate: '7'
+  shipping: '0'
+  state: AL
+wootax/442:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '35478'
+    location_type: postcode
+  name: TUSCALOOSA PJ
+  order: '0'
+  priority: '0'
+  rate: '9'
+  shipping: '0'
+  state: AL
+wootax/443:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '35480'
+    location_type: postcode
+  name: TUSCALOOSA COUNTY
+  order: '0'
+  priority: '0'
+  rate: '9'
+  shipping: '0'
+  state: AL
+wootax/444:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '35481'
+    location_type: postcode
+  name: PICKENS COUNTY
+  order: '0'
+  priority: '0'
+  rate: '8'
+  shipping: '0'
+  state: AL
+wootax/445:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '35482'
+    location_type: postcode
+  name: TUSCALOOSA COUNTY
+  order: '0'
+  priority: '0'
+  rate: '9'
+  shipping: '0'
+  state: AL
+wootax/446:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '35486'
+    location_type: postcode
+  name: TUSCALOOSA
+  order: '0'
+  priority: '0'
+  rate: '9'
+  shipping: '0'
+  state: AL
+wootax/447:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '35490'
+    location_type: postcode
+  name: VANCE PJ (TUSCALOOSA CO)
+  order: '0'
+  priority: '0'
+  rate: '9'
+  shipping: '0'
+  state: AL
+wootax/448:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '35491'
+    location_type: postcode
+  name: GREENE COUNTY
+  order: '0'
+  priority: '0'
+  rate: '7'
+  shipping: '0'
+  state: AL
+wootax/449:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '35501'
+    location_type: postcode
+  name: JASPER
+  order: '0'
+  priority: '0'
+  rate: '9'
+  shipping: '0'
+  state: AL
+wootax/450:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '35502'
+    location_type: postcode
+  name: JASPER
+  order: '0'
+  priority: '0'
+  rate: '9'
+  shipping: '0'
+  state: AL
+wootax/451:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '35503'
+    location_type: postcode
+  name: WALKER COUNTY
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '0'
+  state: AL
+wootax/452:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '35504'
+    location_type: postcode
+  name: WALKER COUNTY
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '0'
+  state: AL
+wootax/453:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '35540'
+    location_type: postcode
+  name: WINSTON COUNTY
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '0'
+  state: AL
+wootax/454:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '35541'
+    location_type: postcode
+  name: WINSTON COUNTY
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '0'
+  state: AL
+wootax/455:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '35542'
+    location_type: postcode
+  name: FAYETTE COUNTY
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '0'
+  state: AL
+wootax/456:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '35543'
+    location_type: postcode
+  name: BEAR CREEK
+  order: '0'
+  priority: '0'
+  rate: '9'
+  shipping: '0'
+  state: AL
+wootax/457:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '35544'
+    location_type: postcode
+  name: LAMAR COUNTY
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '0'
+  state: AL
+wootax/458:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '35545'
+    location_type: postcode
+  name: BELK
+  order: '0'
+  priority: '0'
+  rate: '7'
+  shipping: '0'
+  state: AL
+wootax/459:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '35546'
+    location_type: postcode
+  name: FAYETTE COUNTY
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '0'
+  state: AL
+wootax/460:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '35548'
+    location_type: postcode
+  name: BRILLIANT
+  order: '0'
+  priority: '0'
+  rate: '9'
+  shipping: '0'
+  state: AL
+wootax/461:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '35549'
+    location_type: postcode
+  name: CARBON HILL
+  order: '0'
+  priority: '0'
+  rate: '9'
+  shipping: '0'
+  state: AL
+wootax/462:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '35550'
+    location_type: postcode
+  name: WALKER COUNTY
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '0'
+  state: AL
+wootax/463:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '35551'
+    location_type: postcode
+  name: HALEYVILLE PJ (WINSTON CO)
+  order: '0'
+  priority: '0'
+  rate: '8'
+  shipping: '0'
+  state: AL
+wootax/464:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '35552'
+    location_type: postcode
+  name: MARION COUNTY
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '0'
+  state: AL
+wootax/465:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '35553'
+    location_type: postcode
+  name: WINSTON COUNTY
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '0'
+  state: AL
+wootax/466:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '35554'
+    location_type: postcode
+  name: FAYETTE COUNTY
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '0'
+  state: AL
+wootax/467:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '35555'
+    location_type: postcode
+  name: FAYETTE COUNTY
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '0'
+  state: AL
+wootax/468:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '35559'
+    location_type: postcode
+  name: GLEN ALLEN (FAYETTE CO)
+  order: '0'
+  priority: '0'
+  rate: '7'
+  shipping: '0'
+  state: AL
+wootax/469:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '35560'
+    location_type: postcode
+  name: WALKER COUNTY
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '0'
+  state: AL
+wootax/470:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '35563'
+    location_type: postcode
+  name: GUIN
+  order: '0'
+  priority: '0'
+  rate: '9'
+  shipping: '0'
+  state: AL
+wootax/471:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '35564'
+    location_type: postcode
+  name: HACKLEBURG
+  order: '0'
+  priority: '0'
+  rate: '8'
+  shipping: '0'
+  state: AL
+wootax/472:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '35565'
+    location_type: postcode
+  name: HALEYVILLE (WINSTON CO)
+  order: '0'
+  priority: '0'
+  rate: '10'
+  shipping: '0'
+  state: AL
+wootax/473:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '35570'
+    location_type: postcode
+  name: HAMILTON
+  order: '0'
+  priority: '0'
+  rate: '9'
+  shipping: '0'
+  state: AL
+wootax/474:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '35571'
+    location_type: postcode
+  name: FRANKLIN COUNTY
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '0'
+  state: AL
+wootax/475:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '35572'
+    location_type: postcode
+  name: WINSTON COUNTY
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '0'
+  state: AL
+wootax/476:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '35573'
+    location_type: postcode
+  name: KANSAS
+  order: '0'
+  priority: '0'
+  rate: '7'
+  shipping: '0'
+  state: AL
+wootax/477:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '35574'
+    location_type: postcode
+  name: LAMAR COUNTY
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '0'
+  state: AL
+wootax/478:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '35575'
+    location_type: postcode
+  name: LYNN
+  order: '0'
+  priority: '0'
+  rate: '8'
+  shipping: '0'
+  state: AL
+wootax/479:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '35576'
+    location_type: postcode
+  name: LAMAR COUNTY
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '0'
+  state: AL
+wootax/480:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '35577'
+    location_type: postcode
+  name: NATURAL BRIDGE
+  order: '0'
+  priority: '0'
+  rate: '9'
+  shipping: '0'
+  state: AL
+wootax/481:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '35578'
+    location_type: postcode
+  name: WALKER COUNTY
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '0'
+  state: AL
+wootax/482:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '35579'
+    location_type: postcode
+  name: WALKER COUNTY
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '0'
+  state: AL
+wootax/483:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '35580'
+    location_type: postcode
+  name: WALKER COUNTY
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '0'
+  state: AL
+wootax/484:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '35581'
+    location_type: postcode
+  name: FRANKLIN COUNTY
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '0'
+  state: AL
+wootax/485:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '35582'
+    location_type: postcode
+  name: RED BAY
+  order: '0'
+  priority: '0'
+  rate: '8.5'
+  shipping: '0'
+  state: AL
+wootax/486:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '35584'
+    location_type: postcode
+  name: SIPSEY
+  order: '0'
+  priority: '0'
+  rate: '8'
+  shipping: '0'
+  state: AL
+wootax/487:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '35585'
+    location_type: postcode
+  name: FRANKLIN COUNTY
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '0'
+  state: AL
+wootax/488:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '35586'
+    location_type: postcode
+  name: LAMAR COUNTY
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '0'
+  state: AL
+wootax/489:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '35587'
+    location_type: postcode
+  name: WALKER COUNTY
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '0'
+  state: AL
+wootax/490:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '35592'
+    location_type: postcode
+  name: LAMAR COUNTY
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '0'
+  state: AL
+wootax/491:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '35593'
+    location_type: postcode
+  name: FRANKLIN COUNTY
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '0'
+  state: AL
+wootax/492:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '35594'
+    location_type: postcode
+  name: WINFIELD (MARION CO)
+  order: '0'
+  priority: '0'
+  rate: '10'
+  shipping: '0'
+  state: AL
+wootax/493:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '35601'
+    location_type: postcode
+  name: DECATUR (MORGAN CO)
+  order: '0'
+  priority: '0'
+  rate: '9'
+  shipping: '0'
+  state: AL
+wootax/494:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '35602'
+    location_type: postcode
+  name: DECATUR (MORGAN CO)
+  order: '0'
+  priority: '0'
+  rate: '9'
+  shipping: '0'
+  state: AL
+wootax/495:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '35603'
+    location_type: postcode
+  name: DECATUR (MORGAN CO)
+  order: '0'
+  priority: '0'
+  rate: '9'
+  shipping: '0'
+  state: AL
+wootax/496:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '35610'
+    location_type: postcode
+  name: LAUDERDALE COUNTY
+  order: '0'
+  priority: '0'
+  rate: '5.5'
+  shipping: '0'
+  state: AL
+wootax/497:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '35611'
+    location_type: postcode
+  name: ATHENS
+  order: '0'
+  priority: '0'
+  rate: '9'
+  shipping: '0'
+  state: AL
+wootax/498:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '35612'
+    location_type: postcode
+  name: ATHENS
+  order: '0'
+  priority: '0'
+  rate: '9'
+  shipping: '0'
+  state: AL
+wootax/499:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '35613'
+    location_type: postcode
+  name: LIMESTONE COUNTY
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '0'
+  state: AL
+wootax/500:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '35614'
+    location_type: postcode
+  name: LIMESTONE COUNTY
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '0'
+  state: AL
+wootax/501:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '35615'
+    location_type: postcode
+  name: DECATUR UN
+  order: '0'
+  priority: '0'
+  rate: '8'
+  shipping: '0'
+  state: AL
+wootax/502:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '35616'
+    location_type: postcode
+  name: COLBERT COUNTY
+  order: '0'
+  priority: '0'
+  rate: '5.5'
+  shipping: '0'
+  state: AL
+wootax/503:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '35617'
+    location_type: postcode
+  name: LAUDERDALE COUNTY
+  order: '0'
+  priority: '0'
+  rate: '5.5'
+  shipping: '0'
+  state: AL
+wootax/504:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '35618'
+    location_type: postcode
+  name: LAWRENCE COUNTY
+  order: '0'
+  priority: '0'
+  rate: '7'
+  shipping: '0'
+  state: AL
+wootax/505:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '35619'
+    location_type: postcode
+  name: LAWRENCE COUNTY
+  order: '0'
+  priority: '0'
+  rate: '7'
+  shipping: '0'
+  state: AL
+wootax/506:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '35620'
+    location_type: postcode
+  name: LIMESTONE COUNTY
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '0'
+  state: AL
+wootax/507:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '35621'
+    location_type: postcode
+  name: MORGAN COUNTY
+  order: '0'
+  priority: '0'
+  rate: '7'
+  shipping: '0'
+  state: AL
+wootax/508:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '35622'
+    location_type: postcode
+  name: MORGAN COUNTY
+  order: '0'
+  priority: '0'
+  rate: '7'
+  shipping: '0'
+  state: AL
+wootax/509:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '35630'
+    location_type: postcode
+  name: FLORENCE
+  order: '0'
+  priority: '0'
+  rate: '9.5'
+  shipping: '0'
+  state: AL
+wootax/510:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '35631'
+    location_type: postcode
+  name: FLORENCE
+  order: '0'
+  priority: '0'
+  rate: '9.5'
+  shipping: '0'
+  state: AL
+wootax/511:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '35632'
+    location_type: postcode
+  name: FLORENCE
+  order: '0'
+  priority: '0'
+  rate: '9.5'
+  shipping: '0'
+  state: AL
+wootax/512:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '35633'
+    location_type: postcode
+  name: LAUDERDALE COUNTY
+  order: '0'
+  priority: '0'
+  rate: '5.5'
+  shipping: '0'
+  state: AL
+wootax/513:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '35634'
+    location_type: postcode
+  name: LAUDERDALE COUNTY
+  order: '0'
+  priority: '0'
+  rate: '5.5'
+  shipping: '0'
+  state: AL
+wootax/514:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '35640'
+    location_type: postcode
+  name: HARTSELLE
+  order: '0'
+  priority: '0'
+  rate: '9'
+  shipping: '0'
+  state: AL
+wootax/515:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '35643'
+    location_type: postcode
+  name: LAWRENCE COUNTY
+  order: '0'
+  priority: '0'
+  rate: '7'
+  shipping: '0'
+  state: AL
+wootax/516:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '35645'
+    location_type: postcode
+  name: LAUDERDALE COUNTY
+  order: '0'
+  priority: '0'
+  rate: '5.5'
+  shipping: '0'
+  state: AL
+wootax/517:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '35646'
+    location_type: postcode
+  name: COLBERT COUNTY
+  order: '0'
+  priority: '0'
+  rate: '5.5'
+  shipping: '0'
+  state: AL
+wootax/518:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '35647'
+    location_type: postcode
+  name: LIMESTONE COUNTY
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '0'
+  state: AL
+wootax/519:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '35648'
+    location_type: postcode
+  name: LAUDERDALE COUNTY
+  order: '0'
+  priority: '0'
+  rate: '5.5'
+  shipping: '0'
+  state: AL
+wootax/520:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '35649'
+    location_type: postcode
+  name: MOORESVILLE
+  order: '0'
+  priority: '0'
+  rate: '8'
+  shipping: '0'
+  state: AL
+wootax/521:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '35650'
+    location_type: postcode
+  name: LAWRENCE COUNTY
+  order: '0'
+  priority: '0'
+  rate: '7'
+  shipping: '0'
+  state: AL
+wootax/522:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '35651'
+    location_type: postcode
+  name: LAWRENCE COUNTY
+  order: '0'
+  priority: '0'
+  rate: '7'
+  shipping: '0'
+  state: AL
+wootax/523:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '35652'
+    location_type: postcode
+  name: LAUDERDALE COUNTY
+  order: '0'
+  priority: '0'
+  rate: '5.5'
+  shipping: '0'
+  state: AL
+wootax/524:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '35653'
+    location_type: postcode
+  name: RUSSELLVILLE
+  order: '0'
+  priority: '0'
+  rate: '9'
+  shipping: '0'
+  state: AL
+wootax/525:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '35654'
+    location_type: postcode
+  name: FRANKLIN COUNTY
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '0'
+  state: AL
+wootax/526:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '35660'
+    location_type: postcode
+  name: SHEFFIELD
+  order: '0'
+  priority: '0'
+  rate: '9'
+  shipping: '0'
+  state: AL
+wootax/527:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '35661'
+    location_type: postcode
+  name: MUSCLE SHOALS
+  order: '0'
+  priority: '0'
+  rate: '9'
+  shipping: '0'
+  state: AL
+wootax/528:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '35670'
+    location_type: postcode
+  name: MORGAN COUNTY
+  order: '0'
+  priority: '0'
+  rate: '7'
+  shipping: '0'
+  state: AL
+wootax/529:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '35671'
+    location_type: postcode
+  name: LIMESTONE COUNTY
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '0'
+  state: AL
+wootax/530:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '35672'
+    location_type: postcode
+  name: LAWRENCE COUNTY
+  order: '0'
+  priority: '0'
+  rate: '7'
+  shipping: '0'
+  state: AL
+wootax/531:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '35673'
+    location_type: postcode
+  name: LAWRENCE COUNTY
+  order: '0'
+  priority: '0'
+  rate: '7'
+  shipping: '0'
+  state: AL
+wootax/532:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '35674'
+    location_type: postcode
+  name: TUSCUMBIA
+  order: '0'
+  priority: '0'
+  rate: '9'
+  shipping: '0'
+  state: AL
+wootax/533:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '35677'
+    location_type: postcode
+  name: LAUDERDALE COUNTY
+  order: '0'
+  priority: '0'
+  rate: '5.5'
+  shipping: '0'
+  state: AL
+wootax/534:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '35739'
+    location_type: postcode
+  name: LIMESTONE COUNTY
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '0'
+  state: AL
+wootax/535:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '35740'
+    location_type: postcode
+  name: BRIDGEPORT
+  order: '0'
+  priority: '0'
+  rate: '9'
+  shipping: '0'
+  state: AL
+wootax/536:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '35741'
+    location_type: postcode
+  name: MADISON COUNTY
+  order: '0'
+  priority: '0'
+  rate: '5.5'
+  shipping: '0'
+  state: AL
+wootax/537:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '35742'
+    location_type: postcode
+  name: LIMESTONE COUNTY
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '0'
+  state: AL
+wootax/538:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '35744'
+    location_type: postcode
+  name: JACKSON COUNTY
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '0'
+  state: AL
+wootax/539:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '35745'
+    location_type: postcode
+  name: JACKSON COUNTY
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '0'
+  state: AL
+wootax/540:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '35746'
+    location_type: postcode
+  name: JACKSON COUNTY
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '0'
+  state: AL
+wootax/541:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '35747'
+    location_type: postcode
+  name: MARSHALL COUNTY
+  order: '0'
+  priority: '0'
+  rate: '5'
+  shipping: '0'
+  state: AL
+wootax/542:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '35748'
+    location_type: postcode
+  name: MADISON COUNTY
+  order: '0'
+  priority: '0'
+  rate: '5.5'
+  shipping: '0'
+  state: AL
+wootax/543:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '35749'
+    location_type: postcode
+  name: MADISON COUNTY
+  order: '0'
+  priority: '0'
+  rate: '5.5'
+  shipping: '0'
+  state: AL
+wootax/544:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '35750'
+    location_type: postcode
+  name: MADISON COUNTY
+  order: '0'
+  priority: '0'
+  rate: '5.5'
+  shipping: '0'
+  state: AL
+wootax/545:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '35751'
+    location_type: postcode
+  name: JACKSON COUNTY
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '0'
+  state: AL
+wootax/546:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '35752'
+    location_type: postcode
+  name: HOLLYWOOD
+  order: '0'
+  priority: '0'
+  rate: '9'
+  shipping: '0'
+  state: AL
+wootax/547:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '35754'
+    location_type: postcode
+  name: MORGAN COUNTY
+  order: '0'
+  priority: '0'
+  rate: '7'
+  shipping: '0'
+  state: AL
+wootax/548:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '35755'
+    location_type: postcode
+  name: LANGSTON
+  order: '0'
+  priority: '0'
+  rate: '8'
+  shipping: '0'
+  state: AL
+wootax/549:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '35756'
+    location_type: postcode
+  name: LIMESTONE COUNTY
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '0'
+  state: AL
+wootax/550:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '35757'
+    location_type: postcode
+  name: MADISON COUNTY
+  order: '0'
+  priority: '0'
+  rate: '5.5'
+  shipping: '0'
+  state: AL
+wootax/551:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '35758'
+    location_type: postcode
+  name: MADISON (MADISON CO)
+  order: '0'
+  priority: '0'
+  rate: '9'
+  shipping: '0'
+  state: AL
+wootax/552:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '35759'
+    location_type: postcode
+  name: MADISON COUNTY
+  order: '0'
+  priority: '0'
+  rate: '5.5'
+  shipping: '0'
+  state: AL
+wootax/553:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '35760'
+    location_type: postcode
+  name: MADISON COUNTY
+  order: '0'
+  priority: '0'
+  rate: '5.5'
+  shipping: '0'
+  state: AL
+wootax/554:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '35761'
+    location_type: postcode
+  name: MADISON COUNTY
+  order: '0'
+  priority: '0'
+  rate: '5.5'
+  shipping: '0'
+  state: AL
+wootax/555:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '35762'
+    location_type: postcode
+  name: HUNTSVILLE (MADISON CO)
+  order: '0'
+  priority: '0'
+  rate: '9'
+  shipping: '0'
+  state: AL
+wootax/556:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '35763'
+    location_type: postcode
+  name: HUNTSVILLE (MADISON CO)
+  order: '0'
+  priority: '0'
+  rate: '9'
+  shipping: '0'
+  state: AL
+wootax/557:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '35764'
+    location_type: postcode
+  name: JACKSON COUNTY
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '0'
+  state: AL
+wootax/558:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '35765'
+    location_type: postcode
+  name: JACKSON COUNTY
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '0'
+  state: AL
+wootax/559:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '35766'
+    location_type: postcode
+  name: JACKSON COUNTY
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '0'
+  state: AL
+wootax/560:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '35767'
+    location_type: postcode
+  name: MADISON COUNTY
+  order: '0'
+  priority: '0'
+  rate: '5.5'
+  shipping: '0'
+  state: AL
+wootax/561:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '35768'
+    location_type: postcode
+  name: SCOTTSBORO
+  order: '0'
+  priority: '0'
+  rate: '9'
+  shipping: '0'
+  state: AL
+wootax/562:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '35769'
+    location_type: postcode
+  name: SCOTTSBORO
+  order: '0'
+  priority: '0'
+  rate: '9'
+  shipping: '0'
+  state: AL
+wootax/563:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '35771'
+    location_type: postcode
+  name: JACKSON COUNTY
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '0'
+  state: AL
+wootax/564:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '35772'
+    location_type: postcode
+  name: STEVENSON PJ
+  order: '0'
+  priority: '0'
+  rate: '7.5'
+  shipping: '0'
+  state: AL
+wootax/565:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '35773'
+    location_type: postcode
+  name: MADISON COUNTY
+  order: '0'
+  priority: '0'
+  rate: '5.5'
+  shipping: '0'
+  state: AL
+wootax/566:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '35774'
+    location_type: postcode
+  name: JACKSON COUNTY
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '0'
+  state: AL
+wootax/567:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '35775'
+    location_type: postcode
+  name: MORGAN COUNTY
+  order: '0'
+  priority: '0'
+  rate: '7'
+  shipping: '0'
+  state: AL
+wootax/568:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '35776'
+    location_type: postcode
+  name: JACKSON COUNTY
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '0'
+  state: AL
+wootax/569:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '35801'
+    location_type: postcode
+  name: HUNTSVILLE (MADISON CO)
+  order: '0'
+  priority: '0'
+  rate: '9'
+  shipping: '0'
+  state: AL
+wootax/570:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '35802'
+    location_type: postcode
+  name: HUNTSVILLE (MADISON CO)
+  order: '0'
+  priority: '0'
+  rate: '9'
+  shipping: '0'
+  state: AL
+wootax/571:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '35803'
+    location_type: postcode
+  name: HUNTSVILLE (MADISON CO)
+  order: '0'
+  priority: '0'
+  rate: '9'
+  shipping: '0'
+  state: AL
+wootax/572:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '35804'
+    location_type: postcode
+  name: HUNTSVILLE (MADISON CO)
+  order: '0'
+  priority: '0'
+  rate: '9'
+  shipping: '0'
+  state: AL
+wootax/573:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '35805'
+    location_type: postcode
+  name: HUNTSVILLE (MADISON CO)
+  order: '0'
+  priority: '0'
+  rate: '9'
+  shipping: '0'
+  state: AL
+wootax/574:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '35806'
+    location_type: postcode
+  name: HUNTSVILLE (MADISON CO)
+  order: '0'
+  priority: '0'
+  rate: '9'
+  shipping: '0'
+  state: AL
+wootax/575:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '35807'
+    location_type: postcode
+  name: HUNTSVILLE (MADISON CO)
+  order: '0'
+  priority: '0'
+  rate: '9'
+  shipping: '0'
+  state: AL
+wootax/576:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '35808'
+    location_type: postcode
+  name: MADISON COUNTY
+  order: '0'
+  priority: '0'
+  rate: '5.5'
+  shipping: '0'
+  state: AL
+wootax/577:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '35809'
+    location_type: postcode
+  name: HUNTSVILLE (MADISON CO)
+  order: '0'
+  priority: '0'
+  rate: '9'
+  shipping: '0'
+  state: AL
+wootax/578:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '35810'
+    location_type: postcode
+  name: HUNTSVILLE (MADISON CO)
+  order: '0'
+  priority: '0'
+  rate: '9'
+  shipping: '0'
+  state: AL
+wootax/579:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '35811'
+    location_type: postcode
+  name: MADISON COUNTY
+  order: '0'
+  priority: '0'
+  rate: '5.5'
+  shipping: '0'
+  state: AL
+wootax/580:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '35812'
+    location_type: postcode
+  name: HUNTSVILLE (MADISON CO)
+  order: '0'
+  priority: '0'
+  rate: '9'
+  shipping: '0'
+  state: AL
+wootax/581:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '35813'
+    location_type: postcode
+  name: HUNTSVILLE (MADISON CO)
+  order: '0'
+  priority: '0'
+  rate: '9'
+  shipping: '0'
+  state: AL
+wootax/582:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '35814'
+    location_type: postcode
+  name: HUNTSVILLE (MADISON CO)
+  order: '0'
+  priority: '0'
+  rate: '9'
+  shipping: '0'
+  state: AL
+wootax/583:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '35815'
+    location_type: postcode
+  name: HUNTSVILLE (MADISON CO)
+  order: '0'
+  priority: '0'
+  rate: '9'
+  shipping: '0'
+  state: AL
+wootax/584:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '35816'
+    location_type: postcode
+  name: HUNTSVILLE (MADISON CO)
+  order: '0'
+  priority: '0'
+  rate: '9'
+  shipping: '0'
+  state: AL
+wootax/585:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '35824'
+    location_type: postcode
+  name: HUNTSVILLE (MADISON CO)
+  order: '0'
+  priority: '0'
+  rate: '9'
+  shipping: '0'
+  state: AL
+wootax/586:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '35893'
+    location_type: postcode
+  name: HUNTSVILLE (MADISON CO)
+  order: '0'
+  priority: '0'
+  rate: '9'
+  shipping: '0'
+  state: AL
+wootax/587:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '35894'
+    location_type: postcode
+  name: HUNTSVILLE (MADISON CO)
+  order: '0'
+  priority: '0'
+  rate: '9'
+  shipping: '0'
+  state: AL
+wootax/588:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '35895'
+    location_type: postcode
+  name: HUNTSVILLE (MADISON CO)
+  order: '0'
+  priority: '0'
+  rate: '9'
+  shipping: '0'
+  state: AL
+wootax/589:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '35896'
+    location_type: postcode
+  name: HUNTSVILLE (MADISON CO)
+  order: '0'
+  priority: '0'
+  rate: '9'
+  shipping: '0'
+  state: AL
+wootax/590:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '35897'
+    location_type: postcode
+  name: MADISON COUNTY
+  order: '0'
+  priority: '0'
+  rate: '5.5'
+  shipping: '0'
+  state: AL
+wootax/591:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '35899'
+    location_type: postcode
+  name: HUNTSVILLE (MADISON CO)
+  order: '0'
+  priority: '0'
+  rate: '9'
+  shipping: '0'
+  state: AL
+wootax/592:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '35901'
+    location_type: postcode
+  name: GADSDEN
+  order: '0'
+  priority: '0'
+  rate: '10'
+  shipping: '0'
+  state: AL
+wootax/593:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '35902'
+    location_type: postcode
+  name: GADSDEN
+  order: '0'
+  priority: '0'
+  rate: '10'
+  shipping: '0'
+  state: AL
+wootax/594:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '35903'
+    location_type: postcode
+  name: GADSDEN
+  order: '0'
+  priority: '0'
+  rate: '10'
+  shipping: '0'
+  state: AL
+wootax/595:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '35904'
+    location_type: postcode
+  name: GADSDEN
+  order: '0'
+  priority: '0'
+  rate: '10'
+  shipping: '0'
+  state: AL
+wootax/596:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '35905'
+    location_type: postcode
+  name: GLENCOE (ETOWAH CO)
+  order: '0'
+  priority: '0'
+  rate: '10'
+  shipping: '0'
+  state: AL
+wootax/597:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '35906'
+    location_type: postcode
+  name: RAINBOW
+  order: '0'
+  priority: '0'
+  rate: '9'
+  shipping: '0'
+  state: AL
+wootax/598:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '35907'
+    location_type: postcode
+  name: SOUTHSIDE (ETOWAH CO)
+  order: '0'
+  priority: '0'
+  rate: '10'
+  shipping: '0'
+  state: AL
+wootax/599:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '35950'
+    location_type: postcode
+  name: ALBERTVILLE
+  order: '0'
+  priority: '0'
+  rate: '9'
+  shipping: '0'
+  state: AL
+wootax/600:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '35951'
+    location_type: postcode
+  name: ALBERTVILLE
+  order: '0'
+  priority: '0'
+  rate: '9'
+  shipping: '0'
+  state: AL
+wootax/601:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '35952'
+    location_type: postcode
+  name: ETOWAH COUNTY
+  order: '0'
+  priority: '0'
+  rate: '5'
+  shipping: '0'
+  state: AL
+wootax/602:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '35953'
+    location_type: postcode
+  name: ST. CLAIR COUNTY
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '0'
+  state: AL
+wootax/603:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '35954'
+    location_type: postcode
+  name: ETOWAH COUNTY
+  order: '0'
+  priority: '0'
+  rate: '5'
+  shipping: '0'
+  state: AL
+wootax/604:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '35956'
+    location_type: postcode
+  name: ETOWAH COUNTY
+  order: '0'
+  priority: '0'
+  rate: '5'
+  shipping: '0'
+  state: AL
+wootax/605:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '35957'
+    location_type: postcode
+  name: BOAZ
+  order: '0'
+  priority: '0'
+  rate: '9'
+  shipping: '0'
+  state: AL
+wootax/606:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '35958'
+    location_type: postcode
+  name: JACKSON COUNTY
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '0'
+  state: AL
+wootax/607:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '35959'
+    location_type: postcode
+  name: CHEROKEE COUNTY
+  order: '0'
+  priority: '0'
+  rate: '7.5'
+  shipping: '0'
+  state: AL
+wootax/608:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '35960'
+    location_type: postcode
+  name: CHEROKEE COUNTY
+  order: '0'
+  priority: '0'
+  rate: '7.5'
+  shipping: '0'
+  state: AL
+wootax/609:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '35961'
+    location_type: postcode
+  name: DEKALB COUNTY
+  order: '0'
+  priority: '0'
+  rate: '5'
+  shipping: '0'
+  state: AL
+wootax/610:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '35962'
+    location_type: postcode
+  name: DEKALB COUNTY
+  order: '0'
+  priority: '0'
+  rate: '5'
+  shipping: '0'
+  state: AL
+wootax/611:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '35963'
+    location_type: postcode
+  name: DEKALB COUNTY
+  order: '0'
+  priority: '0'
+  rate: '5'
+  shipping: '0'
+  state: AL
+wootax/612:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '35964'
+    location_type: postcode
+  name: DOUGLAS
+  order: '0'
+  priority: '0'
+  rate: '8'
+  shipping: '0'
+  state: AL
+wootax/613:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '35966'
+    location_type: postcode
+  name: JACKSON COUNTY
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '0'
+  state: AL
+wootax/614:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '35967'
+    location_type: postcode
+  name: FORT PAYNE
+  order: '0'
+  priority: '0'
+  rate: '9'
+  shipping: '0'
+  state: AL
+wootax/615:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '35968'
+    location_type: postcode
+  name: DEKALB COUNTY
+  order: '0'
+  priority: '0'
+  rate: '5'
+  shipping: '0'
+  state: AL
+wootax/616:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '35971'
+    location_type: postcode
+  name: DEKALB COUNTY
+  order: '0'
+  priority: '0'
+  rate: '5'
+  shipping: '0'
+  state: AL
+wootax/617:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '35972'
+    location_type: postcode
+  name: ETOWAH COUNTY
+  order: '0'
+  priority: '0'
+  rate: '5'
+  shipping: '0'
+  state: AL
+wootax/618:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '35973'
+    location_type: postcode
+  name: CHEROKEE COUNTY
+  order: '0'
+  priority: '0'
+  rate: '7.5'
+  shipping: '0'
+  state: AL
+wootax/619:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '35974'
+    location_type: postcode
+  name: GERALDINE PJ
+  order: '0'
+  priority: '0'
+  rate: '7'
+  shipping: '0'
+  state: AL
+wootax/620:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '35975'
+    location_type: postcode
+  name: DEKALB COUNTY
+  order: '0'
+  priority: '0'
+  rate: '5'
+  shipping: '0'
+  state: AL
+wootax/621:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '35976'
+    location_type: postcode
+  name: GUNTERSVILLE PJ
+  order: '0'
+  priority: '0'
+  rate: '7.5'
+  shipping: '0'
+  state: AL
+wootax/622:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '35978'
+    location_type: postcode
+  name: HENAGAR
+  order: '0'
+  priority: '0'
+  rate: '9'
+  shipping: '0'
+  state: AL
+wootax/623:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '35979'
+    location_type: postcode
+  name: DEKALB COUNTY
+  order: '0'
+  priority: '0'
+  rate: '5'
+  shipping: '0'
+  state: AL
+wootax/624:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '35980'
+    location_type: postcode
+  name: MARSHALL COUNTY
+  order: '0'
+  priority: '0'
+  rate: '5'
+  shipping: '0'
+  state: AL
+wootax/625:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '35981'
+    location_type: postcode
+  name: IDER PJ
+  order: '0'
+  priority: '0'
+  rate: '7'
+  shipping: '0'
+  state: AL
+wootax/626:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '35983'
+    location_type: postcode
+  name: CHEROKEE COUNTY
+  order: '0'
+  priority: '0'
+  rate: '7.5'
+  shipping: '0'
+  state: AL
+wootax/627:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '35984'
+    location_type: postcode
+  name: DEKALB COUNTY
+  order: '0'
+  priority: '0'
+  rate: '5'
+  shipping: '0'
+  state: AL
+wootax/628:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '35986'
+    location_type: postcode
+  name: RAINSVILLE
+  order: '0'
+  priority: '0'
+  rate: '9'
+  shipping: '0'
+  state: AL
+wootax/629:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '35987'
+    location_type: postcode
+  name: STEELE
+  order: '0'
+  priority: '0'
+  rate: '8'
+  shipping: '0'
+  state: AL
+wootax/630:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '35988'
+    location_type: postcode
+  name: SYLVANIA
+  order: '0'
+  priority: '0'
+  rate: '9'
+  shipping: '0'
+  state: AL
+wootax/631:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '35989'
+    location_type: postcode
+  name: DEKALB COUNTY
+  order: '0'
+  priority: '0'
+  rate: '5'
+  shipping: '0'
+  state: AL
+wootax/632:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '35990'
+    location_type: postcode
+  name: WALNUT GROVE
+  order: '0'
+  priority: '0'
+  rate: '8'
+  shipping: '0'
+  state: AL
+wootax/633:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '36003'
+    location_type: postcode
+  name: AUTAUGA COUNTY
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '0'
+  state: AL
+wootax/634:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '36005'
+    location_type: postcode
+  name: PIKE COUNTY
+  order: '0'
+  priority: '0'
+  rate: '7.5'
+  shipping: '0'
+  state: AL
+wootax/635:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '36006'
+    location_type: postcode
+  name: AUTAUGA COUNTY
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '0'
+  state: AL
+wootax/636:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '36008'
+    location_type: postcode
+  name: AUTAUGA COUNTY
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '0'
+  state: AL
+wootax/637:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '36009'
+    location_type: postcode
+  name: CRENSHAW COUNTY
+  order: '0'
+  priority: '0'
+  rate: '7.5'
+  shipping: '0'
+  state: AL
+wootax/638:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '36010'
+    location_type: postcode
+  name: BRUNDIDGE
+  order: '0'
+  priority: '0'
+  rate: '9.5'
+  shipping: '0'
+  state: AL
+wootax/639:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '36013'
+    location_type: postcode
+  name: PIKE ROAD PJ
+  order: '0'
+  priority: '0'
+  rate: '7.625'
+  shipping: '0'
+  state: AL
+wootax/640:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '36015'
+    location_type: postcode
+  name: BUTLER COUNTY
+  order: '0'
+  priority: '0'
+  rate: '5.5'
+  shipping: '0'
+  state: AL
+wootax/641:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '36016'
+    location_type: postcode
+  name: BARBOUR COUNTY
+  order: '0'
+  priority: '0'
+  rate: '5.5'
+  shipping: '0'
+  state: AL
+wootax/642:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '36017'
+    location_type: postcode
+  name: CLIO
+  order: '0'
+  priority: '0'
+  rate: '9.5'
+  shipping: '0'
+  state: AL
+wootax/643:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '36020'
+    location_type: postcode
+  name: COOSADA
+  order: '0'
+  priority: '0'
+  rate: '8.5'
+  shipping: '0'
+  state: AL
+wootax/644:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '36022'
+    location_type: postcode
+  name: ELMORE COUNTY
+  order: '0'
+  priority: '0'
+  rate: '5'
+  shipping: '0'
+  state: AL
+wootax/645:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '36024'
+    location_type: postcode
+  name: ELMORE COUNTY
+  order: '0'
+  priority: '0'
+  rate: '5'
+  shipping: '0'
+  state: AL
+wootax/646:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '36025'
+    location_type: postcode
+  name: ELMORE PJ
+  order: '0'
+  priority: '0'
+  rate: '6.5'
+  shipping: '0'
+  state: AL
+wootax/647:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '36026'
+    location_type: postcode
+  name: COOSA COUNTY
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '0'
+  state: AL
+wootax/648:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '36027'
+    location_type: postcode
+  name: EUFAULA
+  order: '0'
+  priority: '0'
+  rate: '9.5'
+  shipping: '0'
+  state: AL
+wootax/649:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '36028'
+    location_type: postcode
+  name: COVINGTON COUNTY
+  order: '0'
+  priority: '0'
+  rate: '6.5'
+  shipping: '0'
+  state: AL
+wootax/650:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '36029'
+    location_type: postcode
+  name: BULLOCK COUNTY
+  order: '0'
+  priority: '0'
+  rate: '6.5'
+  shipping: '0'
+  state: AL
+wootax/651:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '36030'
+    location_type: postcode
+  name: BUTLER COUNTY
+  order: '0'
+  priority: '0'
+  rate: '5.5'
+  shipping: '0'
+  state: AL
+wootax/652:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '36031'
+    location_type: postcode
+  name: MACON COUNTY
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '0'
+  state: AL
+wootax/653:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '36032'
+    location_type: postcode
+  name: FORT DEPOSIT
+  order: '0'
+  priority: '0'
+  rate: '10.5'
+  shipping: '0'
+  state: AL
+wootax/654:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '36033'
+    location_type: postcode
+  name: GEORGIANA
+  order: '0'
+  priority: '0'
+  rate: '9.5'
+  shipping: '0'
+  state: AL
+wootax/655:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '36034'
+    location_type: postcode
+  name: PIKE COUNTY
+  order: '0'
+  priority: '0'
+  rate: '7.5'
+  shipping: '0'
+  state: AL
+wootax/656:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '36035'
+    location_type: postcode
+  name: PIKE COUNTY
+  order: '0'
+  priority: '0'
+  rate: '7.5'
+  shipping: '0'
+  state: AL
+wootax/657:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '36036'
+    location_type: postcode
+  name: MONTGOMERY COUNTY
+  order: '0'
+  priority: '0'
+  rate: '6.5'
+  shipping: '0'
+  state: AL
+wootax/658:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '36037'
+    location_type: postcode
+  name: BUTLER COUNTY
+  order: '0'
+  priority: '0'
+  rate: '5.5'
+  shipping: '0'
+  state: AL
+wootax/659:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '36039'
+    location_type: postcode
+  name: MACON COUNTY
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '0'
+  state: AL
+wootax/660:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '36040'
+    location_type: postcode
+  name: LOWNDES COUNTY
+  order: '0'
+  priority: '0'
+  rate: '8'
+  shipping: '0'
+  state: AL
+wootax/661:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '36041'
+    location_type: postcode
+  name: CRENSHAW COUNTY
+  order: '0'
+  priority: '0'
+  rate: '7.5'
+  shipping: '0'
+  state: AL
+wootax/662:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '36042'
+    location_type: postcode
+  name: CRENSHAW COUNTY
+  order: '0'
+  priority: '0'
+  rate: '7.5'
+  shipping: '0'
+  state: AL
+wootax/663:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '36043'
+    location_type: postcode
+  name: LOWNDES COUNTY
+  order: '0'
+  priority: '0'
+  rate: '8'
+  shipping: '0'
+  state: AL
+wootax/664:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '36046'
+    location_type: postcode
+  name: CRENSHAW COUNTY
+  order: '0'
+  priority: '0'
+  rate: '7.5'
+  shipping: '0'
+  state: AL
+wootax/665:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '36047'
+    location_type: postcode
+  name: LOWNDES COUNTY
+  order: '0'
+  priority: '0'
+  rate: '8'
+  shipping: '0'
+  state: AL
+wootax/666:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '36048'
+    location_type: postcode
+  name: BARBOUR COUNTY
+  order: '0'
+  priority: '0'
+  rate: '5.5'
+  shipping: '0'
+  state: AL
+wootax/667:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '36049'
+    location_type: postcode
+  name: LUVERNE
+  order: '0'
+  priority: '0'
+  rate: '10'
+  shipping: '0'
+  state: AL
+wootax/668:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '36051'
+    location_type: postcode
+  name: AUTAUGA COUNTY
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '0'
+  state: AL
+wootax/669:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '36052'
+    location_type: postcode
+  name: PIKE ROAD PJ
+  order: '0'
+  priority: '0'
+  rate: '7.625'
+  shipping: '0'
+  state: AL
+wootax/670:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '36053'
+    location_type: postcode
+  name: BULLOCK COUNTY
+  order: '0'
+  priority: '0'
+  rate: '6.5'
+  shipping: '0'
+  state: AL
+wootax/671:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '36054'
+    location_type: postcode
+  name: MILLBROOK
+  order: '0'
+  priority: '0'
+  rate: '8.5'
+  shipping: '0'
+  state: AL
+wootax/672:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '36057'
+    location_type: postcode
+  name: PIKE ROAD
+  order: '0'
+  priority: '0'
+  rate: '8.75'
+  shipping: '0'
+  state: AL
+wootax/673:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '36064'
+    location_type: postcode
+  name: PIKE ROAD PJ
+  order: '0'
+  priority: '0'
+  rate: '7.625'
+  shipping: '0'
+  state: AL
+wootax/674:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '36065'
+    location_type: postcode
+  name: MONTGOMERY COUNTY
+  order: '0'
+  priority: '0'
+  rate: '6.5'
+  shipping: '0'
+  state: AL
+wootax/675:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '36066'
+    location_type: postcode
+  name: PRATTVILLE (AUTAUGA CO)
+  order: '0'
+  priority: '0'
+  rate: '9.5'
+  shipping: '0'
+  state: AL
+wootax/676:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '36067'
+    location_type: postcode
+  name: PRATTVILLE (AUTAUGA CO)
+  order: '0'
+  priority: '0'
+  rate: '9.5'
+  shipping: '0'
+  state: AL
+wootax/677:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '36068'
+    location_type: postcode
+  name: PRATTVILLE (AUTAUGA CO)
+  order: '0'
+  priority: '0'
+  rate: '9.5'
+  shipping: '0'
+  state: AL
+wootax/678:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '36069'
+    location_type: postcode
+  name: MONTGOMERY COUNTY
+  order: '0'
+  priority: '0'
+  rate: '6.5'
+  shipping: '0'
+  state: AL
+wootax/679:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '36071'
+    location_type: postcode
+  name: CRENSHAW COUNTY
+  order: '0'
+  priority: '0'
+  rate: '7.5'
+  shipping: '0'
+  state: AL
+wootax/680:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '36072'
+    location_type: postcode
+  name: EUFAULA
+  order: '0'
+  priority: '0'
+  rate: '9.5'
+  shipping: '0'
+  state: AL
+wootax/681:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '36075'
+    location_type: postcode
+  name: SHORTER PJ
+  order: '0'
+  priority: '0'
+  rate: '8.5'
+  shipping: '0'
+  state: AL
+wootax/682:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '36078'
+    location_type: postcode
+  name: TALLASSEE (ELMORE CO)
+  order: '0'
+  priority: '0'
+  rate: '10'
+  shipping: '0'
+  state: AL
+wootax/683:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '36079'
+    location_type: postcode
+  name: TROY
+  order: '0'
+  priority: '0'
+  rate: '9.5'
+  shipping: '0'
+  state: AL
+wootax/684:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '36080'
+    location_type: postcode
+  name: ELMORE COUNTY
+  order: '0'
+  priority: '0'
+  rate: '5'
+  shipping: '0'
+  state: AL
+wootax/685:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '36081'
+    location_type: postcode
+  name: TROY
+  order: '0'
+  priority: '0'
+  rate: '9.5'
+  shipping: '0'
+  state: AL
+wootax/686:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '36082'
+    location_type: postcode
+  name: TROY
+  order: '0'
+  priority: '0'
+  rate: '9.5'
+  shipping: '0'
+  state: AL
+wootax/687:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '36083'
+    location_type: postcode
+  name: TUSKEGEE
+  order: '0'
+  priority: '0'
+  rate: '11'
+  shipping: '0'
+  state: AL
+wootax/688:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '36087'
+    location_type: postcode
+  name: TUSKEGEE
+  order: '0'
+  priority: '0'
+  rate: '11'
+  shipping: '0'
+  state: AL
+wootax/689:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '36088'
+    location_type: postcode
+  name: TUSKEGEE
+  order: '0'
+  priority: '0'
+  rate: '11'
+  shipping: '0'
+  state: AL
+wootax/690:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '36089'
+    location_type: postcode
+  name: UNION SPRINGS
+  order: '0'
+  priority: '0'
+  rate: '10'
+  shipping: '0'
+  state: AL
+wootax/691:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '36091'
+    location_type: postcode
+  name: CHILTON COUNTY
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '0'
+  state: AL
+wootax/692:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '36092'
+    location_type: postcode
+  name: WETUMPKA PJ
+  order: '0'
+  priority: '0'
+  rate: '7'
+  shipping: '0'
+  state: AL
+wootax/693:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '36093'
+    location_type: postcode
+  name: ELMORE COUNTY
+  order: '0'
+  priority: '0'
+  rate: '5'
+  shipping: '0'
+  state: AL
+wootax/694:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '36101'
+    location_type: postcode
+  name: MONTGOMERY
+  order: '0'
+  priority: '0'
+  rate: '10'
+  shipping: '0'
+  state: AL
+wootax/695:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '36102'
+    location_type: postcode
+  name: MONTGOMERY
+  order: '0'
+  priority: '0'
+  rate: '10'
+  shipping: '0'
+  state: AL
+wootax/696:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '36103'
+    location_type: postcode
+  name: MONTGOMERY
+  order: '0'
+  priority: '0'
+  rate: '10'
+  shipping: '0'
+  state: AL
+wootax/697:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '36104'
+    location_type: postcode
+  name: MONTGOMERY
+  order: '0'
+  priority: '0'
+  rate: '10'
+  shipping: '0'
+  state: AL
+wootax/698:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '36105'
+    location_type: postcode
+  name: MONTGOMERY
+  order: '0'
+  priority: '0'
+  rate: '10'
+  shipping: '0'
+  state: AL
+wootax/699:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '36106'
+    location_type: postcode
+  name: MONTGOMERY
+  order: '0'
+  priority: '0'
+  rate: '10'
+  shipping: '0'
+  state: AL
+wootax/700:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '36107'
+    location_type: postcode
+  name: MONTGOMERY
+  order: '0'
+  priority: '0'
+  rate: '10'
+  shipping: '0'
+  state: AL
+wootax/701:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '36108'
+    location_type: postcode
+  name: MONTGOMERY
+  order: '0'
+  priority: '0'
+  rate: '10'
+  shipping: '0'
+  state: AL
+wootax/702:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '36109'
+    location_type: postcode
+  name: MONTGOMERY
+  order: '0'
+  priority: '0'
+  rate: '10'
+  shipping: '0'
+  state: AL
+wootax/703:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '36110'
+    location_type: postcode
+  name: MONTGOMERY
+  order: '0'
+  priority: '0'
+  rate: '10'
+  shipping: '0'
+  state: AL
+wootax/704:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '36111'
+    location_type: postcode
+  name: MONTGOMERY
+  order: '0'
+  priority: '0'
+  rate: '10'
+  shipping: '0'
+  state: AL
+wootax/705:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '36112'
+    location_type: postcode
+  name: MONTGOMERY
+  order: '0'
+  priority: '0'
+  rate: '10'
+  shipping: '0'
+  state: AL
+wootax/706:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '36113'
+    location_type: postcode
+  name: MONTGOMERY
+  order: '0'
+  priority: '0'
+  rate: '10'
+  shipping: '0'
+  state: AL
+wootax/707:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '36114'
+    location_type: postcode
+  name: MONTGOMERY
+  order: '0'
+  priority: '0'
+  rate: '10'
+  shipping: '0'
+  state: AL
+wootax/708:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '36115'
+    location_type: postcode
+  name: MONTGOMERY
+  order: '0'
+  priority: '0'
+  rate: '10'
+  shipping: '0'
+  state: AL
+wootax/709:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '36116'
+    location_type: postcode
+  name: MONTGOMERY
+  order: '0'
+  priority: '0'
+  rate: '10'
+  shipping: '0'
+  state: AL
+wootax/710:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '36117'
+    location_type: postcode
+  name: MONTGOMERY
+  order: '0'
+  priority: '0'
+  rate: '10'
+  shipping: '0'
+  state: AL
+wootax/711:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '36118'
+    location_type: postcode
+  name: MONTGOMERY
+  order: '0'
+  priority: '0'
+  rate: '10'
+  shipping: '0'
+  state: AL
+wootax/712:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '36119'
+    location_type: postcode
+  name: MONTGOMERY
+  order: '0'
+  priority: '0'
+  rate: '10'
+  shipping: '0'
+  state: AL
+wootax/713:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '36120'
+    location_type: postcode
+  name: MONTGOMERY
+  order: '0'
+  priority: '0'
+  rate: '10'
+  shipping: '0'
+  state: AL
+wootax/714:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '36121'
+    location_type: postcode
+  name: MONTGOMERY
+  order: '0'
+  priority: '0'
+  rate: '10'
+  shipping: '0'
+  state: AL
+wootax/715:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '36123'
+    location_type: postcode
+  name: MONTGOMERY
+  order: '0'
+  priority: '0'
+  rate: '10'
+  shipping: '0'
+  state: AL
+wootax/716:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '36124'
+    location_type: postcode
+  name: MONTGOMERY
+  order: '0'
+  priority: '0'
+  rate: '10'
+  shipping: '0'
+  state: AL
+wootax/717:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '36125'
+    location_type: postcode
+  name: MONTGOMERY
+  order: '0'
+  priority: '0'
+  rate: '10'
+  shipping: '0'
+  state: AL
+wootax/718:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '36130'
+    location_type: postcode
+  name: MONTGOMERY
+  order: '0'
+  priority: '0'
+  rate: '10'
+  shipping: '0'
+  state: AL
+wootax/719:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '36131'
+    location_type: postcode
+  name: MONTGOMERY
+  order: '0'
+  priority: '0'
+  rate: '10'
+  shipping: '0'
+  state: AL
+wootax/720:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '36132'
+    location_type: postcode
+  name: MONTGOMERY
+  order: '0'
+  priority: '0'
+  rate: '10'
+  shipping: '0'
+  state: AL
+wootax/721:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '36133'
+    location_type: postcode
+  name: MONTGOMERY
+  order: '0'
+  priority: '0'
+  rate: '10'
+  shipping: '0'
+  state: AL
+wootax/722:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '36134'
+    location_type: postcode
+  name: MONTGOMERY
+  order: '0'
+  priority: '0'
+  rate: '10'
+  shipping: '0'
+  state: AL
+wootax/723:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '36201'
+    location_type: postcode
+  name: ANNISTON
+  order: '0'
+  priority: '0'
+  rate: '10'
+  shipping: '0'
+  state: AL
+wootax/724:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '36202'
+    location_type: postcode
+  name: ANNISTON
+  order: '0'
+  priority: '0'
+  rate: '10'
+  shipping: '0'
+  state: AL
+wootax/725:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '36203'
+    location_type: postcode
+  name: OXFORD (CALHOUN CO)
+  order: '0'
+  priority: '0'
+  rate: '10'
+  shipping: '0'
+  state: AL
+wootax/726:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '36204'
+    location_type: postcode
+  name: ANNISTON
+  order: '0'
+  priority: '0'
+  rate: '10'
+  shipping: '0'
+  state: AL
+wootax/727:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '36205'
+    location_type: postcode
+  name: ANNISTON
+  order: '0'
+  priority: '0'
+  rate: '10'
+  shipping: '0'
+  state: AL
+wootax/728:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '36206'
+    location_type: postcode
+  name: ANNISTON PJ
+  order: '0'
+  priority: '0'
+  rate: '9.5'
+  shipping: '0'
+  state: AL
+wootax/729:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '36207'
+    location_type: postcode
+  name: ANNISTON
+  order: '0'
+  priority: '0'
+  rate: '10'
+  shipping: '0'
+  state: AL
+wootax/730:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '36250'
+    location_type: postcode
+  name: CALHOUN COUNTY
+  order: '0'
+  priority: '0'
+  rate: '7'
+  shipping: '0'
+  state: AL
+wootax/731:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '36251'
+    location_type: postcode
+  name: CLAY COUNTY
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '0'
+  state: AL
+wootax/732:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '36253'
+    location_type: postcode
+  name: OXFORD (CALHOUN CO)
+  order: '0'
+  priority: '0'
+  rate: '10'
+  shipping: '0'
+  state: AL
+wootax/733:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '36254'
+    location_type: postcode
+  name: CALHOUN COUNTY
+  order: '0'
+  priority: '0'
+  rate: '7'
+  shipping: '0'
+  state: AL
+wootax/734:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '36255'
+    location_type: postcode
+  name: CLAY COUNTY
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '0'
+  state: AL
+wootax/735:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '36256'
+    location_type: postcode
+  name: NEW SITE
+  order: '0'
+  priority: '0'
+  rate: '9'
+  shipping: '0'
+  state: AL
+wootax/736:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '36257'
+    location_type: postcode
+  name: OXFORD (CALHOUN CO)
+  order: '0'
+  priority: '0'
+  rate: '10'
+  shipping: '0'
+  state: AL
+wootax/737:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '36258'
+    location_type: postcode
+  name: CLAY COUNTY
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '0'
+  state: AL
+wootax/738:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '36260'
+    location_type: postcode
+  name: OXFORD (CALHOUN CO)
+  order: '0'
+  priority: '0'
+  rate: '10'
+  shipping: '0'
+  state: AL
+wootax/739:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '36261'
+    location_type: postcode
+  name: EDWARDSVILLE
+  order: '0'
+  priority: '0'
+  rate: '8'
+  shipping: '0'
+  state: AL
+wootax/740:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '36262'
+    location_type: postcode
+  name: CLEBURNE COUNTY
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '0'
+  state: AL
+wootax/741:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '36263'
+    location_type: postcode
+  name: RANDOLPH COUNTY
+  order: '0'
+  priority: '0'
+  rate: '6.5'
+  shipping: '0'
+  state: AL
+wootax/742:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '36264'
+    location_type: postcode
+  name: CLEBURNE COUNTY
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '0'
+  state: AL
+wootax/743:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '36265'
+    location_type: postcode
+  name: JACKSONVILLE
+  order: '0'
+  priority: '0'
+  rate: '10'
+  shipping: '0'
+  state: AL
+wootax/744:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '36266'
+    location_type: postcode
+  name: CLAY COUNTY
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '0'
+  state: AL
+wootax/745:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '36267'
+    location_type: postcode
+  name: CLAY COUNTY
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '0'
+  state: AL
+wootax/746:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '36268'
+    location_type: postcode
+  name: TALLADEGA COUNTY
+  order: '0'
+  priority: '0'
+  rate: '7'
+  shipping: '0'
+  state: AL
+wootax/747:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '36269'
+    location_type: postcode
+  name: CLEBURNE COUNTY
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '0'
+  state: AL
+wootax/748:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '36271'
+    location_type: postcode
+  name: CALHOUN COUNTY
+  order: '0'
+  priority: '0'
+  rate: '7'
+  shipping: '0'
+  state: AL
+wootax/749:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '36272'
+    location_type: postcode
+  name: PIEDMONT (CALHOUN CO)
+  order: '0'
+  priority: '0'
+  rate: '10'
+  shipping: '0'
+  state: AL
+wootax/750:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '36273'
+    location_type: postcode
+  name: CLEBURNE COUNTY
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '0'
+  state: AL
+wootax/751:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '36274'
+    location_type: postcode
+  name: RANDOLPH COUNTY
+  order: '0'
+  priority: '0'
+  rate: '6.5'
+  shipping: '0'
+  state: AL
+wootax/752:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '36275'
+    location_type: postcode
+  name: CHEROKEE COUNTY
+  order: '0'
+  priority: '0'
+  rate: '7.5'
+  shipping: '0'
+  state: AL
+wootax/753:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '36276'
+    location_type: postcode
+  name: RANDOLPH COUNTY
+  order: '0'
+  priority: '0'
+  rate: '6.5'
+  shipping: '0'
+  state: AL
+wootax/754:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '36277'
+    location_type: postcode
+  name: WEAVER
+  order: '0'
+  priority: '0'
+  rate: '10'
+  shipping: '0'
+  state: AL
+wootax/755:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '36278'
+    location_type: postcode
+  name: RANDOLPH COUNTY
+  order: '0'
+  priority: '0'
+  rate: '6.5'
+  shipping: '0'
+  state: AL
+wootax/756:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '36279'
+    location_type: postcode
+  name: CALHOUN COUNTY
+  order: '0'
+  priority: '0'
+  rate: '7'
+  shipping: '0'
+  state: AL
+wootax/757:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '36280'
+    location_type: postcode
+  name: RANDOLPH COUNTY
+  order: '0'
+  priority: '0'
+  rate: '6.5'
+  shipping: '0'
+  state: AL
+wootax/758:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '36301'
+    location_type: postcode
+  name: DOTHAN (HOUSTON CO)
+  order: '0'
+  priority: '0'
+  rate: '9'
+  shipping: '0'
+  state: AL
+wootax/759:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '36302'
+    location_type: postcode
+  name: DOTHAN (HOUSTON CO)
+  order: '0'
+  priority: '0'
+  rate: '9'
+  shipping: '0'
+  state: AL
+wootax/760:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '36303'
+    location_type: postcode
+  name: DOTHAN (HOUSTON CO)
+  order: '0'
+  priority: '0'
+  rate: '9'
+  shipping: '0'
+  state: AL
+wootax/761:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '36305'
+    location_type: postcode
+  name: DOTHAN (HOUSTON CO)
+  order: '0'
+  priority: '0'
+  rate: '9'
+  shipping: '0'
+  state: AL
+wootax/762:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '36310'
+    location_type: postcode
+  name: HENRY COUNTY
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '0'
+  state: AL
+wootax/763:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '36311'
+    location_type: postcode
+  name: DALE COUNTY
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '0'
+  state: AL
+wootax/764:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '36312'
+    location_type: postcode
+  name: HOUSTON COUNTY
+  order: '0'
+  priority: '0'
+  rate: '5'
+  shipping: '0'
+  state: AL
+wootax/765:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '36313'
+    location_type: postcode
+  name: GENEVA COUNTY
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '0'
+  state: AL
+wootax/766:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '36314'
+    location_type: postcode
+  name: BLACK
+  order: '0'
+  priority: '0'
+  rate: '8'
+  shipping: '0'
+  state: AL
+wootax/767:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '36316'
+    location_type: postcode
+  name: GENEVA COUNTY
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '0'
+  state: AL
+wootax/768:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '36317'
+    location_type: postcode
+  name: HENRY COUNTY
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '0'
+  state: AL
+wootax/769:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '36318'
+    location_type: postcode
+  name: GENEVA COUNTY
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '0'
+  state: AL
+wootax/770:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '36319'
+    location_type: postcode
+  name: HENRY COUNTY
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '0'
+  state: AL
+wootax/771:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '36320'
+    location_type: postcode
+  name: HOUSTON COUNTY
+  order: '0'
+  priority: '0'
+  rate: '5'
+  shipping: '0'
+  state: AL
+wootax/772:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '36321'
+    location_type: postcode
+  name: COWARTS
+  order: '0'
+  priority: '0'
+  rate: '7'
+  shipping: '0'
+  state: AL
+wootax/773:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '36322'
+    location_type: postcode
+  name: DALEVILLE
+  order: '0'
+  priority: '0'
+  rate: '9'
+  shipping: '0'
+  state: AL
+wootax/774:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '36323'
+    location_type: postcode
+  name: COFFEE COUNTY
+  order: '0'
+  priority: '0'
+  rate: '5'
+  shipping: '0'
+  state: AL
+wootax/775:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '36330'
+    location_type: postcode
+  name: ENTERPRISE (COFFEE CO)
+  order: '0'
+  priority: '0'
+  rate: '9'
+  shipping: '0'
+  state: AL
+wootax/776:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '36340'
+    location_type: postcode
+  name: GENEVA
+  order: '0'
+  priority: '0'
+  rate: '9.5'
+  shipping: '0'
+  state: AL
+wootax/777:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '36343'
+    location_type: postcode
+  name: HOUSTON COUNTY
+  order: '0'
+  priority: '0'
+  rate: '5'
+  shipping: '0'
+  state: AL
+wootax/778:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '36344'
+    location_type: postcode
+  name: GENEVA COUNTY
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '0'
+  state: AL
+wootax/779:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '36345'
+    location_type: postcode
+  name: HEADLAND
+  order: '0'
+  priority: '0'
+  rate: '9'
+  shipping: '0'
+  state: AL
+wootax/780:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '36346'
+    location_type: postcode
+  name: COFFEE COUNTY
+  order: '0'
+  priority: '0'
+  rate: '5'
+  shipping: '0'
+  state: AL
+wootax/781:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '36349'
+    location_type: postcode
+  name: MALVERN
+  order: '0'
+  priority: '0'
+  rate: '8'
+  shipping: '0'
+  state: AL
+wootax/782:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '36350'
+    location_type: postcode
+  name: DALE COUNTY
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '0'
+  state: AL
+wootax/783:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '36351'
+    location_type: postcode
+  name: COFFEE COUNTY
+  order: '0'
+  priority: '0'
+  rate: '5'
+  shipping: '0'
+  state: AL
+wootax/784:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '36352'
+    location_type: postcode
+  name: HOUSTON COUNTY
+  order: '0'
+  priority: '0'
+  rate: '5'
+  shipping: '0'
+  state: AL
+wootax/785:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '36353'
+    location_type: postcode
+  name: HENRY COUNTY
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '0'
+  state: AL
+wootax/786:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '36360'
+    location_type: postcode
+  name: OZARK
+  order: '0'
+  priority: '0'
+  rate: '9'
+  shipping: '0'
+  state: AL
+wootax/787:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '36361'
+    location_type: postcode
+  name: OZARK
+  order: '0'
+  priority: '0'
+  rate: '9'
+  shipping: '0'
+  state: AL
+wootax/788:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '36362'
+    location_type: postcode
+  name: DALE COUNTY
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '0'
+  state: AL
+wootax/789:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '36370'
+    location_type: postcode
+  name: HOUSTON COUNTY
+  order: '0'
+  priority: '0'
+  rate: '5'
+  shipping: '0'
+  state: AL
+wootax/790:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '36371'
+    location_type: postcode
+  name: PINCKARD
+  order: '0'
+  priority: '0'
+  rate: '8'
+  shipping: '0'
+  state: AL
+wootax/791:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '36373'
+    location_type: postcode
+  name: HENRY COUNTY
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '0'
+  state: AL
+wootax/792:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '36374'
+    location_type: postcode
+  name: DALE COUNTY
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '0'
+  state: AL
+wootax/793:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '36375'
+    location_type: postcode
+  name: GENEVA COUNTY
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '0'
+  state: AL
+wootax/794:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '36376'
+    location_type: postcode
+  name: WEBB
+  order: '0'
+  priority: '0'
+  rate: '8'
+  shipping: '0'
+  state: AL
+wootax/795:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '36401'
+    location_type: postcode
+  name: CONECUH COUNTY
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '0'
+  state: AL
+wootax/796:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '36420'
+    location_type: postcode
+  name: ANDALUSIA
+  order: '0'
+  priority: '0'
+  rate: '10'
+  shipping: '0'
+  state: AL
+wootax/797:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '36421'
+    location_type: postcode
+  name: COVINGTON COUNTY
+  order: '0'
+  priority: '0'
+  rate: '6.5'
+  shipping: '0'
+  state: AL
+wootax/798:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '36425'
+    location_type: postcode
+  name: MONROE COUNTY
+  order: '0'
+  priority: '0'
+  rate: '6.5'
+  shipping: '0'
+  state: AL
+wootax/799:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '36426'
+    location_type: postcode
+  name: ESCAMBIA COUNTY
+  order: '0'
+  priority: '0'
+  rate: '9'
+  shipping: '0'
+  state: AL
+wootax/800:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '36429'
+    location_type: postcode
+  name: CONECUH COUNTY
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '0'
+  state: AL
+wootax/801:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '36432'
+    location_type: postcode
+  name: CONECUH COUNTY
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '0'
+  state: AL
+wootax/802:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '36435'
+    location_type: postcode
+  name: WILCOX COUNTY
+  order: '0'
+  priority: '0'
+  rate: '8.5'
+  shipping: '0'
+  state: AL
+wootax/803:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '36436'
+    location_type: postcode
+  name: CLARKE COUNTY
+  order: '0'
+  priority: '0'
+  rate: '5'
+  shipping: '0'
+  state: AL
+wootax/804:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '36439'
+    location_type: postcode
+  name: EXCEL
+  order: '0'
+  priority: '0'
+  rate: '8.5'
+  shipping: '0'
+  state: AL
+wootax/805:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '36441'
+    location_type: postcode
+  name: ESCAMBIA COUNTY
+  order: '0'
+  priority: '0'
+  rate: '9'
+  shipping: '0'
+  state: AL
+wootax/806:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '36442'
+    location_type: postcode
+  name: FLORALA
+  order: '0'
+  priority: '0'
+  rate: '10'
+  shipping: '0'
+  state: AL
+wootax/807:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '36444'
+    location_type: postcode
+  name: MONROE COUNTY
+  order: '0'
+  priority: '0'
+  rate: '6.5'
+  shipping: '0'
+  state: AL
+wootax/808:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '36445'
+    location_type: postcode
+  name: MONROE COUNTY
+  order: '0'
+  priority: '0'
+  rate: '6.5'
+  shipping: '0'
+  state: AL
+wootax/809:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '36446'
+    location_type: postcode
+  name: FULTON
+  order: '0'
+  priority: '0'
+  rate: '8'
+  shipping: '0'
+  state: AL
+wootax/810:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '36449'
+    location_type: postcode
+  name: MONROE COUNTY
+  order: '0'
+  priority: '0'
+  rate: '6.5'
+  shipping: '0'
+  state: AL
+wootax/811:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '36451'
+    location_type: postcode
+  name: CLARKE COUNTY
+  order: '0'
+  priority: '0'
+  rate: '5'
+  shipping: '0'
+  state: AL
+wootax/812:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '36453'
+    location_type: postcode
+  name: GENEVA COUNTY
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '0'
+  state: AL
+wootax/813:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '36454'
+    location_type: postcode
+  name: CONECUH COUNTY
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '0'
+  state: AL
+wootax/814:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '36455'
+    location_type: postcode
+  name: LOCKHART
+  order: '0'
+  priority: '0'
+  rate: '8.5'
+  shipping: '0'
+  state: AL
+wootax/815:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '36456'
+    location_type: postcode
+  name: BUTLER COUNTY
+  order: '0'
+  priority: '0'
+  rate: '5.5'
+  shipping: '0'
+  state: AL
+wootax/816:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '36458'
+    location_type: postcode
+  name: MONROEVILLE PJ
+  order: '0'
+  priority: '0'
+  rate: '7.75'
+  shipping: '0'
+  state: AL
+wootax/817:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '36460'
+    location_type: postcode
+  name: MONROEVILLE
+  order: '0'
+  priority: '0'
+  rate: '9'
+  shipping: '0'
+  state: AL
+wootax/818:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '36467'
+    location_type: postcode
+  name: OPP
+  order: '0'
+  priority: '0'
+  rate: '10'
+  shipping: '0'
+  state: AL
+wootax/819:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '36470'
+    location_type: postcode
+  name: MONROE COUNTY
+  order: '0'
+  priority: '0'
+  rate: '6.5'
+  shipping: '0'
+  state: AL
+wootax/820:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '36471'
+    location_type: postcode
+  name: MONROE COUNTY
+  order: '0'
+  priority: '0'
+  rate: '6.5'
+  shipping: '0'
+  state: AL
+wootax/821:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '36473'
+    location_type: postcode
+  name: CONECUH COUNTY
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '0'
+  state: AL
+wootax/822:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '36474'
+    location_type: postcode
+  name: COVINGTON COUNTY
+  order: '0'
+  priority: '0'
+  rate: '6.5'
+  shipping: '0'
+  state: AL
+wootax/823:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '36475'
+    location_type: postcode
+  name: CONECUH COUNTY
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '0'
+  state: AL
+wootax/824:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '36476'
+    location_type: postcode
+  name: RIVER FALLS
+  order: '0'
+  priority: '0'
+  rate: '8.5'
+  shipping: '0'
+  state: AL
+wootax/825:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '36477'
+    location_type: postcode
+  name: SAMSON
+  order: '0'
+  priority: '0'
+  rate: '9'
+  shipping: '0'
+  state: AL
+wootax/826:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '36480'
+    location_type: postcode
+  name: MONROE COUNTY
+  order: '0'
+  priority: '0'
+  rate: '6.5'
+  shipping: '0'
+  state: AL
+wootax/827:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '36481'
+    location_type: postcode
+  name: MONROE COUNTY
+  order: '0'
+  priority: '0'
+  rate: '6.5'
+  shipping: '0'
+  state: AL
+wootax/828:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '36482'
+    location_type: postcode
+  name: CLARKE COUNTY
+  order: '0'
+  priority: '0'
+  rate: '5'
+  shipping: '0'
+  state: AL
+wootax/829:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '36483'
+    location_type: postcode
+  name: COVINGTON COUNTY
+  order: '0'
+  priority: '0'
+  rate: '6.5'
+  shipping: '0'
+  state: AL
+wootax/830:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '36502'
+    location_type: postcode
+  name: ATMORE PJ
+  order: '0'
+  priority: '0'
+  rate: '9.5'
+  shipping: '0'
+  state: AL
+wootax/831:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '36503'
+    location_type: postcode
+  name: ATMORE
+  order: '0'
+  priority: '0'
+  rate: '10'
+  shipping: '0'
+  state: AL
+wootax/832:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '36505'
+    location_type: postcode
+  name: CREOLA PJ
+  order: '0'
+  priority: '0'
+  rate: '7.5'
+  shipping: '0'
+  state: AL
+wootax/833:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '36507'
+    location_type: postcode
+  name: BAY MINETTE PJ
+  order: '0'
+  priority: '0'
+  rate: '8.5'
+  shipping: '0'
+  state: AL
+wootax/834:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '36509'
+    location_type: postcode
+  name: BAYOU LA BATRE
+  order: '0'
+  priority: '0'
+  rate: '10'
+  shipping: '0'
+  state: AL
+wootax/835:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '36511'
+    location_type: postcode
+  name: BALDWIN COUNTY
+  order: '0'
+  priority: '0'
+  rate: '7'
+  shipping: '0'
+  state: AL
+wootax/836:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '36512'
+    location_type: postcode
+  name: MOBILE COUNTY
+  order: '0'
+  priority: '0'
+  rate: '5.5'
+  shipping: '0'
+  state: AL
+wootax/837:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '36513'
+    location_type: postcode
+  name: WASHINGTON
+  order: '0'
+  priority: '0'
+  rate: '5'
+  shipping: '0'
+  state: AL
+wootax/838:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '36518'
+    location_type: postcode
+  name: WASHINGTON
+  order: '0'
+  priority: '0'
+  rate: '5'
+  shipping: '0'
+  state: AL
+wootax/839:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '36521'
+    location_type: postcode
+  name: MOBILE COUNTY
+  order: '0'
+  priority: '0'
+  rate: '5.5'
+  shipping: '0'
+  state: AL
+wootax/840:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '36522'
+    location_type: postcode
+  name: CITRONELLE
+  order: '0'
+  priority: '0'
+  rate: '10'
+  shipping: '0'
+  state: AL
+wootax/841:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '36523'
+    location_type: postcode
+  name: MOBILE COUNTY
+  order: '0'
+  priority: '0'
+  rate: '5.5'
+  shipping: '0'
+  state: AL
+wootax/842:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '36524'
+    location_type: postcode
+  name: CLARKE COUNTY
+  order: '0'
+  priority: '0'
+  rate: '5'
+  shipping: '0'
+  state: AL
+wootax/843:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '36525'
+    location_type: postcode
+  name: CREOLA
+  order: '0'
+  priority: '0'
+  rate: '9.5'
+  shipping: '0'
+  state: AL
+wootax/844:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '36526'
+    location_type: postcode
+  name: DAPHNE
+  order: '0'
+  priority: '0'
+  rate: '9.5'
+  shipping: '0'
+  state: AL
+wootax/845:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '36527'
+    location_type: postcode
+  name: SPANISH FORT
+  order: '0'
+  priority: '0'
+  rate: '8.5'
+  shipping: '0'
+  state: AL
+wootax/846:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '36528'
+    location_type: postcode
+  name: DAUPHIN ISLAND
+  order: '0'
+  priority: '0'
+  rate: '10'
+  shipping: '0'
+  state: AL
+wootax/847:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '36529'
+    location_type: postcode
+  name: WASHINGTON
+  order: '0'
+  priority: '0'
+  rate: '5'
+  shipping: '0'
+  state: AL
+wootax/848:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '36530'
+    location_type: postcode
+  name: ELBERTA PJ
+  order: '0'
+  priority: '0'
+  rate: '9'
+  shipping: '0'
+  state: AL
+wootax/849:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '36532'
+    location_type: postcode
+  name: FAIRHOPE PJ
+  order: '0'
+  priority: '0'
+  rate: '8'
+  shipping: '0'
+  state: AL
+wootax/850:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '36533'
+    location_type: postcode
+  name: FAIRHOPE
+  order: '0'
+  priority: '0'
+  rate: '9'
+  shipping: '0'
+  state: AL
+wootax/851:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '36535'
+    location_type: postcode
+  name: FOLEY
+  order: '0'
+  priority: '0'
+  rate: '10'
+  shipping: '0'
+  state: AL
+wootax/852:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '36536'
+    location_type: postcode
+  name: FOLEY
+  order: '0'
+  priority: '0'
+  rate: '10'
+  shipping: '0'
+  state: AL
+wootax/853:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '36538'
+    location_type: postcode
+  name: WASHINGTON
+  order: '0'
+  priority: '0'
+  rate: '5'
+  shipping: '0'
+  state: AL
+wootax/854:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '36539'
+    location_type: postcode
+  name: WASHINGTON
+  order: '0'
+  priority: '0'
+  rate: '5'
+  shipping: '0'
+  state: AL
+wootax/855:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '36540'
+    location_type: postcode
+  name: CLARKE COUNTY
+  order: '0'
+  priority: '0'
+  rate: '5'
+  shipping: '0'
+  state: AL
+wootax/856:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '36541'
+    location_type: postcode
+  name: MOBILE COUNTY
+  order: '0'
+  priority: '0'
+  rate: '5.5'
+  shipping: '0'
+  state: AL
+wootax/857:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '36542'
+    location_type: postcode
+  name: GULF SHORES
+  order: '0'
+  priority: '0'
+  rate: '10'
+  shipping: '0'
+  state: AL
+wootax/858:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '36543'
+    location_type: postcode
+  name: ESCAMBIA COUNTY
+  order: '0'
+  priority: '0'
+  rate: '9'
+  shipping: '0'
+  state: AL
+wootax/859:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '36544'
+    location_type: postcode
+  name: MOBILE COUNTY
+  order: '0'
+  priority: '0'
+  rate: '5.5'
+  shipping: '0'
+  state: AL
+wootax/860:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '36545'
+    location_type: postcode
+  name: JACKSON
+  order: '0'
+  priority: '0'
+  rate: '9'
+  shipping: '0'
+  state: AL
+wootax/861:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '36547'
+    location_type: postcode
+  name: GULF SHORES
+  order: '0'
+  priority: '0'
+  rate: '10'
+  shipping: '0'
+  state: AL
+wootax/862:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '36548'
+    location_type: postcode
+  name: WASHINGTON
+  order: '0'
+  priority: '0'
+  rate: '5'
+  shipping: '0'
+  state: AL
+wootax/863:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '36549'
+    location_type: postcode
+  name: BALDWIN COUNTY
+  order: '0'
+  priority: '0'
+  rate: '7'
+  shipping: '0'
+  state: AL
+wootax/864:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '36550'
+    location_type: postcode
+  name: BALDWIN COUNTY
+  order: '0'
+  priority: '0'
+  rate: '7'
+  shipping: '0'
+  state: AL
+wootax/865:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '36551'
+    location_type: postcode
+  name: LOXLEY PJ
+  order: '0'
+  priority: '0'
+  rate: '8'
+  shipping: '0'
+  state: AL
+wootax/866:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '36553'
+    location_type: postcode
+  name: WASHINGTON
+  order: '0'
+  priority: '0'
+  rate: '5'
+  shipping: '0'
+  state: AL
+wootax/867:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '36555'
+    location_type: postcode
+  name: MAGNOLIA SPRINGS
+  order: '0'
+  priority: '0'
+  rate: '9'
+  shipping: '0'
+  state: AL
+wootax/868:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '36556'
+    location_type: postcode
+  name: WASHINGTON
+  order: '0'
+  priority: '0'
+  rate: '5'
+  shipping: '0'
+  state: AL
+wootax/869:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '36558'
+    location_type: postcode
+  name: WASHINGTON
+  order: '0'
+  priority: '0'
+  rate: '5'
+  shipping: '0'
+  state: AL
+wootax/870:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '36559'
+    location_type: postcode
+  name: FAIRHOPE PJ
+  order: '0'
+  priority: '0'
+  rate: '8'
+  shipping: '0'
+  state: AL
+wootax/871:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '36560'
+    location_type: postcode
+  name: MOBILE COUNTY
+  order: '0'
+  priority: '0'
+  rate: '5.5'
+  shipping: '0'
+  state: AL
+wootax/872:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '36561'
+    location_type: postcode
+  name: ORANGE BEACH
+  order: '0'
+  priority: '0'
+  rate: '10'
+  shipping: '0'
+  state: AL
+wootax/873:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '36562'
+    location_type: postcode
+  name: BALDWIN COUNTY
+  order: '0'
+  priority: '0'
+  rate: '7'
+  shipping: '0'
+  state: AL
+wootax/874:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '36564'
+    location_type: postcode
+  name: FAIRHOPE PJ
+  order: '0'
+  priority: '0'
+  rate: '8'
+  shipping: '0'
+  state: AL
+wootax/875:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '36567'
+    location_type: postcode
+  name: BALDWIN COUNTY
+  order: '0'
+  priority: '0'
+  rate: '7'
+  shipping: '0'
+  state: AL
+wootax/876:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '36568'
+    location_type: postcode
+  name: BAYOU LA BATRE PJ
+  order: '0'
+  priority: '0'
+  rate: '7.75'
+  shipping: '0'
+  state: AL
+wootax/877:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '36569'
+    location_type: postcode
+  name: WASHINGTON
+  order: '0'
+  priority: '0'
+  rate: '5'
+  shipping: '0'
+  state: AL
+wootax/878:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '36571'
+    location_type: postcode
+  name: SARALAND
+  order: '0'
+  priority: '0'
+  rate: '10'
+  shipping: '0'
+  state: AL
+wootax/879:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '36572'
+    location_type: postcode
+  name: SATSUMA
+  order: '0'
+  priority: '0'
+  rate: '10'
+  shipping: '0'
+  state: AL
+wootax/880:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '36574'
+    location_type: postcode
+  name: BALDWIN COUNTY
+  order: '0'
+  priority: '0'
+  rate: '7'
+  shipping: '0'
+  state: AL
+wootax/881:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '36575'
+    location_type: postcode
+  name: SEMMES PJ UN
+  order: '0'
+  priority: '0'
+  rate: '7'
+  shipping: '0'
+  state: AL
+wootax/882:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '36576'
+    location_type: postcode
+  name: SILVERHILL PJ
+  order: '0'
+  priority: '0'
+  rate: '8'
+  shipping: '0'
+  state: AL
+wootax/883:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '36577'
+    location_type: postcode
+  name: DAPHNE
+  order: '0'
+  priority: '0'
+  rate: '9.5'
+  shipping: '0'
+  state: AL
+wootax/884:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '36578'
+    location_type: postcode
+  name: SPANISH FORT PJ
+  order: '0'
+  priority: '0'
+  rate: '7.75'
+  shipping: '0'
+  state: AL
+wootax/885:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '36579'
+    location_type: postcode
+  name: BALDWIN COUNTY
+  order: '0'
+  priority: '0'
+  rate: '7'
+  shipping: '0'
+  state: AL
+wootax/886:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '36580'
+    location_type: postcode
+  name: BALDWIN COUNTY
+  order: '0'
+  priority: '0'
+  rate: '7'
+  shipping: '0'
+  state: AL
+wootax/887:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '36581'
+    location_type: postcode
+  name: WASHINGTON
+  order: '0'
+  priority: '0'
+  rate: '5'
+  shipping: '0'
+  state: AL
+wootax/888:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '36582'
+    location_type: postcode
+  name: MOBILE PJ
+  order: '0'
+  priority: '0'
+  rate: '8'
+  shipping: '0'
+  state: AL
+wootax/889:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '36583'
+    location_type: postcode
+  name: WASHINGTON
+  order: '0'
+  priority: '0'
+  rate: '5'
+  shipping: '0'
+  state: AL
+wootax/890:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '36584'
+    location_type: postcode
+  name: WASHINGTON
+  order: '0'
+  priority: '0'
+  rate: '5'
+  shipping: '0'
+  state: AL
+wootax/891:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '36585'
+    location_type: postcode
+  name: WASHINGTON
+  order: '0'
+  priority: '0'
+  rate: '5'
+  shipping: '0'
+  state: AL
+wootax/892:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '36587'
+    location_type: postcode
+  name: MOBILE COUNTY
+  order: '0'
+  priority: '0'
+  rate: '5.5'
+  shipping: '0'
+  state: AL
+wootax/893:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '36590'
+    location_type: postcode
+  name: MOBILE
+  order: '0'
+  priority: '0'
+  rate: '10'
+  shipping: '0'
+  state: AL
+wootax/894:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '36601'
+    location_type: postcode
+  name: MOBILE
+  order: '0'
+  priority: '0'
+  rate: '10'
+  shipping: '0'
+  state: AL
+wootax/895:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '36602'
+    location_type: postcode
+  name: MOBILE
+  order: '0'
+  priority: '0'
+  rate: '10'
+  shipping: '0'
+  state: AL
+wootax/896:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '36603'
+    location_type: postcode
+  name: MOBILE
+  order: '0'
+  priority: '0'
+  rate: '10'
+  shipping: '0'
+  state: AL
+wootax/897:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '36604'
+    location_type: postcode
+  name: MOBILE
+  order: '0'
+  priority: '0'
+  rate: '10'
+  shipping: '0'
+  state: AL
+wootax/898:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '36605'
+    location_type: postcode
+  name: MOBILE
+  order: '0'
+  priority: '0'
+  rate: '10'
+  shipping: '0'
+  state: AL
+wootax/899:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '36606'
+    location_type: postcode
+  name: MOBILE
+  order: '0'
+  priority: '0'
+  rate: '10'
+  shipping: '0'
+  state: AL
+wootax/900:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '36607'
+    location_type: postcode
+  name: MOBILE
+  order: '0'
+  priority: '0'
+  rate: '10'
+  shipping: '0'
+  state: AL
+wootax/901:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '36608'
+    location_type: postcode
+  name: MOBILE
+  order: '0'
+  priority: '0'
+  rate: '10'
+  shipping: '0'
+  state: AL
+wootax/902:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '36609'
+    location_type: postcode
+  name: MOBILE
+  order: '0'
+  priority: '0'
+  rate: '10'
+  shipping: '0'
+  state: AL
+wootax/903:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '36610'
+    location_type: postcode
+  name: PRICHARD
+  order: '0'
+  priority: '0'
+  rate: '10'
+  shipping: '0'
+  state: AL
+wootax/904:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '36611'
+    location_type: postcode
+  name: CHICKASAW
+  order: '0'
+  priority: '0'
+  rate: '10'
+  shipping: '0'
+  state: AL
+wootax/905:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '36612'
+    location_type: postcode
+  name: PRICHARD
+  order: '0'
+  priority: '0'
+  rate: '10'
+  shipping: '0'
+  state: AL
+wootax/906:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '36613'
+    location_type: postcode
+  name: PRICHARD
+  order: '0'
+  priority: '0'
+  rate: '10'
+  shipping: '0'
+  state: AL
+wootax/907:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '36615'
+    location_type: postcode
+  name: MOBILE
+  order: '0'
+  priority: '0'
+  rate: '10'
+  shipping: '0'
+  state: AL
+wootax/908:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '36616'
+    location_type: postcode
+  name: MOBILE
+  order: '0'
+  priority: '0'
+  rate: '10'
+  shipping: '0'
+  state: AL
+wootax/909:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '36617'
+    location_type: postcode
+  name: MOBILE
+  order: '0'
+  priority: '0'
+  rate: '10'
+  shipping: '0'
+  state: AL
+wootax/910:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '36618'
+    location_type: postcode
+  name: MOBILE
+  order: '0'
+  priority: '0'
+  rate: '10'
+  shipping: '0'
+  state: AL
+wootax/911:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '36619'
+    location_type: postcode
+  name: MOBILE PJ
+  order: '0'
+  priority: '0'
+  rate: '8'
+  shipping: '0'
+  state: AL
+wootax/912:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '36625'
+    location_type: postcode
+  name: MOBILE
+  order: '0'
+  priority: '0'
+  rate: '10'
+  shipping: '0'
+  state: AL
+wootax/913:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '36628'
+    location_type: postcode
+  name: MOBILE
+  order: '0'
+  priority: '0'
+  rate: '10'
+  shipping: '0'
+  state: AL
+wootax/914:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '36630'
+    location_type: postcode
+  name: MOBILE
+  order: '0'
+  priority: '0'
+  rate: '10'
+  shipping: '0'
+  state: AL
+wootax/915:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '36633'
+    location_type: postcode
+  name: MOBILE
+  order: '0'
+  priority: '0'
+  rate: '10'
+  shipping: '0'
+  state: AL
+wootax/916:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '36640'
+    location_type: postcode
+  name: MOBILE
+  order: '0'
+  priority: '0'
+  rate: '10'
+  shipping: '0'
+  state: AL
+wootax/917:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '36641'
+    location_type: postcode
+  name: MOBILE
+  order: '0'
+  priority: '0'
+  rate: '10'
+  shipping: '0'
+  state: AL
+wootax/918:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '36644'
+    location_type: postcode
+  name: MOBILE
+  order: '0'
+  priority: '0'
+  rate: '10'
+  shipping: '0'
+  state: AL
+wootax/919:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '36652'
+    location_type: postcode
+  name: MOBILE
+  order: '0'
+  priority: '0'
+  rate: '10'
+  shipping: '0'
+  state: AL
+wootax/920:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '36660'
+    location_type: postcode
+  name: MOBILE
+  order: '0'
+  priority: '0'
+  rate: '10'
+  shipping: '0'
+  state: AL
+wootax/921:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '36663'
+    location_type: postcode
+  name: CHICKASAW
+  order: '0'
+  priority: '0'
+  rate: '10'
+  shipping: '0'
+  state: AL
+wootax/922:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '36670'
+    location_type: postcode
+  name: MOBILE
+  order: '0'
+  priority: '0'
+  rate: '10'
+  shipping: '0'
+  state: AL
+wootax/923:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '36671'
+    location_type: postcode
+  name: CHICKASAW
+  order: '0'
+  priority: '0'
+  rate: '10'
+  shipping: '0'
+  state: AL
+wootax/924:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '36675'
+    location_type: postcode
+  name: MOBILE
+  order: '0'
+  priority: '0'
+  rate: '10'
+  shipping: '0'
+  state: AL
+wootax/925:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '36685'
+    location_type: postcode
+  name: MOBILE
+  order: '0'
+  priority: '0'
+  rate: '10'
+  shipping: '0'
+  state: AL
+wootax/926:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '36688'
+    location_type: postcode
+  name: MOBILE
+  order: '0'
+  priority: '0'
+  rate: '10'
+  shipping: '0'
+  state: AL
+wootax/927:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '36689'
+    location_type: postcode
+  name: MOBILE
+  order: '0'
+  priority: '0'
+  rate: '10'
+  shipping: '0'
+  state: AL
+wootax/928:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '36691'
+    location_type: postcode
+  name: MOBILE
+  order: '0'
+  priority: '0'
+  rate: '10'
+  shipping: '0'
+  state: AL
+wootax/929:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '36693'
+    location_type: postcode
+  name: MOBILE
+  order: '0'
+  priority: '0'
+  rate: '10'
+  shipping: '0'
+  state: AL
+wootax/930:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '36695'
+    location_type: postcode
+  name: MOBILE PJ
+  order: '0'
+  priority: '0'
+  rate: '8'
+  shipping: '0'
+  state: AL
+wootax/931:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '36701'
+    location_type: postcode
+  name: SELMA
+  order: '0'
+  priority: '0'
+  rate: '10'
+  shipping: '0'
+  state: AL
+wootax/932:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '36703'
+    location_type: postcode
+  name: SELMA
+  order: '0'
+  priority: '0'
+  rate: '10'
+  shipping: '0'
+  state: AL
+wootax/933:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '36720'
+    location_type: postcode
+  name: WILCOX COUNTY
+  order: '0'
+  priority: '0'
+  rate: '8.5'
+  shipping: '0'
+  state: AL
+wootax/934:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '36721'
+    location_type: postcode
+  name: WILCOX COUNTY
+  order: '0'
+  priority: '0'
+  rate: '8.5'
+  shipping: '0'
+  state: AL
+wootax/935:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '36722'
+    location_type: postcode
+  name: WILCOX COUNTY
+  order: '0'
+  priority: '0'
+  rate: '8.5'
+  shipping: '0'
+  state: AL
+wootax/936:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '36723'
+    location_type: postcode
+  name: WILCOX COUNTY
+  order: '0'
+  priority: '0'
+  rate: '8.5'
+  shipping: '0'
+  state: AL
+wootax/937:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '36726'
+    location_type: postcode
+  name: WILCOX COUNTY
+  order: '0'
+  priority: '0'
+  rate: '8.5'
+  shipping: '0'
+  state: AL
+wootax/938:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '36727'
+    location_type: postcode
+  name: CLARKE COUNTY
+  order: '0'
+  priority: '0'
+  rate: '5'
+  shipping: '0'
+  state: AL
+wootax/939:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '36728'
+    location_type: postcode
+  name: WILCOX COUNTY
+  order: '0'
+  priority: '0'
+  rate: '8.5'
+  shipping: '0'
+  state: AL
+wootax/940:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '36732'
+    location_type: postcode
+  name: DEMOPOLIS
+  order: '0'
+  priority: '0'
+  rate: '9'
+  shipping: '0'
+  state: AL
+wootax/941:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '36736'
+    location_type: postcode
+  name: MARENGO COUNTY
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '0'
+  state: AL
+wootax/942:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '36738'
+    location_type: postcode
+  name: MARENGO COUNTY
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '0'
+  state: AL
+wootax/943:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '36740'
+    location_type: postcode
+  name: FORKLAND
+  order: '0'
+  priority: '0'
+  rate: '9'
+  shipping: '0'
+  state: AL
+wootax/944:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '36741'
+    location_type: postcode
+  name: WILCOX COUNTY
+  order: '0'
+  priority: '0'
+  rate: '8.5'
+  shipping: '0'
+  state: AL
+wootax/945:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '36742'
+    location_type: postcode
+  name: MARENGO COUNTY
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '0'
+  state: AL
+wootax/946:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '36744'
+    location_type: postcode
+  name: HALE COUNTY
+  order: '0'
+  priority: '0'
+  rate: '7'
+  shipping: '0'
+  state: AL
+wootax/947:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '36745'
+    location_type: postcode
+  name: MARENGO COUNTY
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '0'
+  state: AL
+wootax/948:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '36748'
+    location_type: postcode
+  name: LINDEN
+  order: '0'
+  priority: '0'
+  rate: '9'
+  shipping: '0'
+  state: AL
+wootax/949:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '36749'
+    location_type: postcode
+  name: AUTAUGA COUNTY
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '0'
+  state: AL
+wootax/950:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '36750'
+    location_type: postcode
+  name: CHILTON COUNTY
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '0'
+  state: AL
+wootax/951:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '36751'
+    location_type: postcode
+  name: WILCOX COUNTY
+  order: '0'
+  priority: '0'
+  rate: '8.5'
+  shipping: '0'
+  state: AL
+wootax/952:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '36752'
+    location_type: postcode
+  name: LOWNDES COUNTY
+  order: '0'
+  priority: '0'
+  rate: '8'
+  shipping: '0'
+  state: AL
+wootax/953:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '36753'
+    location_type: postcode
+  name: WILCOX COUNTY
+  order: '0'
+  priority: '0'
+  rate: '8.5'
+  shipping: '0'
+  state: AL
+wootax/954:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '36754'
+    location_type: postcode
+  name: MARENGO COUNTY
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '0'
+  state: AL
+wootax/955:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '36756'
+    location_type: postcode
+  name: MARION
+  order: '0'
+  priority: '0'
+  rate: '10'
+  shipping: '0'
+  state: AL
+wootax/956:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '36758'
+    location_type: postcode
+  name: DALLAS COUNTY
+  order: '0'
+  priority: '0'
+  rate: '5.5'
+  shipping: '0'
+  state: AL
+wootax/957:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '36759'
+    location_type: postcode
+  name: DALLAS COUNTY
+  order: '0'
+  priority: '0'
+  rate: '5.5'
+  shipping: '0'
+  state: AL
+wootax/958:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '36761'
+    location_type: postcode
+  name: DALLAS COUNTY
+  order: '0'
+  priority: '0'
+  rate: '5.5'
+  shipping: '0'
+  state: AL
+wootax/959:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '36762'
+    location_type: postcode
+  name: CLARKE COUNTY
+  order: '0'
+  priority: '0'
+  rate: '5'
+  shipping: '0'
+  state: AL
+wootax/960:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '36763'
+    location_type: postcode
+  name: MYRTLEWOOD
+  order: '0'
+  priority: '0'
+  rate: '8'
+  shipping: '0'
+  state: AL
+wootax/961:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '36764'
+    location_type: postcode
+  name: MARENGO COUNTY
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '0'
+  state: AL
+wootax/962:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '36765'
+    location_type: postcode
+  name: HALE COUNTY
+  order: '0'
+  priority: '0'
+  rate: '7'
+  shipping: '0'
+  state: AL
+wootax/963:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '36766'
+    location_type: postcode
+  name: WILCOX COUNTY
+  order: '0'
+  priority: '0'
+  rate: '8.5'
+  shipping: '0'
+  state: AL
+wootax/964:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '36767'
+    location_type: postcode
+  name: DALLAS COUNTY
+  order: '0'
+  priority: '0'
+  rate: '5.5'
+  shipping: '0'
+  state: AL
+wootax/965:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '36768'
+    location_type: postcode
+  name: WILCOX COUNTY
+  order: '0'
+  priority: '0'
+  rate: '8.5'
+  shipping: '0'
+  state: AL
+wootax/966:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '36769'
+    location_type: postcode
+  name: WILCOX COUNTY
+  order: '0'
+  priority: '0'
+  rate: '8.5'
+  shipping: '0'
+  state: AL
+wootax/967:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '36773'
+    location_type: postcode
+  name: DALLAS COUNTY
+  order: '0'
+  priority: '0'
+  rate: '5.5'
+  shipping: '0'
+  state: AL
+wootax/968:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '36775'
+    location_type: postcode
+  name: DALLAS COUNTY
+  order: '0'
+  priority: '0'
+  rate: '5.5'
+  shipping: '0'
+  state: AL
+wootax/969:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '36776'
+    location_type: postcode
+  name: HALE COUNTY
+  order: '0'
+  priority: '0'
+  rate: '7'
+  shipping: '0'
+  state: AL
+wootax/970:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '36782'
+    location_type: postcode
+  name: MARENGO COUNTY
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '0'
+  state: AL
+wootax/971:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '36783'
+    location_type: postcode
+  name: MARENGO COUNTY
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '0'
+  state: AL
+wootax/972:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '36784'
+    location_type: postcode
+  name: THOMASVILLE
+  order: '0'
+  priority: '0'
+  rate: '10'
+  shipping: '0'
+  state: AL
+wootax/973:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '36785'
+    location_type: postcode
+  name: LOWNDES COUNTY
+  order: '0'
+  priority: '0'
+  rate: '8'
+  shipping: '0'
+  state: AL
+wootax/974:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '36786'
+    location_type: postcode
+  name: UNIONTOWN
+  order: '0'
+  priority: '0'
+  rate: '10'
+  shipping: '0'
+  state: AL
+wootax/975:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '36790'
+    location_type: postcode
+  name: CHILTON COUNTY
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '0'
+  state: AL
+wootax/976:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '36792'
+    location_type: postcode
+  name: BIBB COUNTY
+  order: '0'
+  priority: '0'
+  rate: '8'
+  shipping: '0'
+  state: AL
+wootax/977:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '36793'
+    location_type: postcode
+  name: BIBB COUNTY
+  order: '0'
+  priority: '0'
+  rate: '8'
+  shipping: '0'
+  state: AL
+wootax/978:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '36801'
+    location_type: postcode
+  name: OPELIKA
+  order: '0'
+  priority: '0'
+  rate: '9'
+  shipping: '0'
+  state: AL
+wootax/979:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '36803'
+    location_type: postcode
+  name: OPELIKA
+  order: '0'
+  priority: '0'
+  rate: '9'
+  shipping: '0'
+  state: AL
+wootax/980:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '36804'
+    location_type: postcode
+  name: OPELIKA UN
+  order: '0'
+  priority: '0'
+  rate: '7'
+  shipping: '0'
+  state: AL
+wootax/981:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '36830'
+    location_type: postcode
+  name: AUBURN
+  order: '0'
+  priority: '0'
+  rate: '9'
+  shipping: '0'
+  state: AL
+wootax/982:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '36831'
+    location_type: postcode
+  name: AUBURN
+  order: '0'
+  priority: '0'
+  rate: '9'
+  shipping: '0'
+  state: AL
+wootax/983:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '36832'
+    location_type: postcode
+  name: AUBURN
+  order: '0'
+  priority: '0'
+  rate: '9'
+  shipping: '0'
+  state: AL
+wootax/984:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '36849'
+    location_type: postcode
+  name: AUBURN
+  order: '0'
+  priority: '0'
+  rate: '9'
+  shipping: '0'
+  state: AL
+wootax/985:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '36850'
+    location_type: postcode
+  name: TALLAPOOSA COUNTY
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '0'
+  state: AL
+wootax/986:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '36851'
+    location_type: postcode
+  name: RUSSELL CO (RM/7057)
+  order: '0'
+  priority: '0'
+  rate: '8'
+  shipping: '0'
+  state: AL
+wootax/987:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '36852'
+    location_type: postcode
+  name: OPELIKA UN
+  order: '0'
+  priority: '0'
+  rate: '7'
+  shipping: '0'
+  state: AL
+wootax/988:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '36853'
+    location_type: postcode
+  name: TALLAPOOSA COUNTY
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '0'
+  state: AL
+wootax/989:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '36854'
+    location_type: postcode
+  name: VALLEY
+  order: '0'
+  priority: '0'
+  rate: '10'
+  shipping: '0'
+  state: AL
+wootax/990:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '36855'
+    location_type: postcode
+  name: CHAMBERS COUNTY
+  order: '0'
+  priority: '0'
+  rate: '9'
+  shipping: '0'
+  state: AL
+wootax/991:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '36856'
+    location_type: postcode
+  name: RUSSELL CO (RM/7057)
+  order: '0'
+  priority: '0'
+  rate: '8'
+  shipping: '0'
+  state: AL
+wootax/992:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '36858'
+    location_type: postcode
+  name: RUSSELL CO (RM/7057)
+  order: '0'
+  priority: '0'
+  rate: '8'
+  shipping: '0'
+  state: AL
+wootax/993:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '36859'
+    location_type: postcode
+  name: RUSSELL CO (RM/7057)
+  order: '0'
+  priority: '0'
+  rate: '8'
+  shipping: '0'
+  state: AL
+wootax/994:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '36860'
+    location_type: postcode
+  name: RUSSELL CO (RM/7057)
+  order: '0'
+  priority: '0'
+  rate: '8'
+  shipping: '0'
+  state: AL
+wootax/995:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '36861'
+    location_type: postcode
+  name: JACKSONS GAP PJ
+  order: '0'
+  priority: '0'
+  rate: '7.5'
+  shipping: '0'
+  state: AL
+wootax/996:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '36862'
+    location_type: postcode
+  name: CHAMBERS COUNTY
+  order: '0'
+  priority: '0'
+  rate: '9'
+  shipping: '0'
+  state: AL
+wootax/997:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '36863'
+    location_type: postcode
+  name: LANETT
+  order: '0'
+  priority: '0'
+  rate: '10'
+  shipping: '0'
+  state: AL
+wootax/998:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '36865'
+    location_type: postcode
+  name: LOACHAPOKA
+  order: '0'
+  priority: '0'
+  rate: '8'
+  shipping: '0'
+  state: AL
+wootax/999:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '36866'
+    location_type: postcode
+  name: MACON COUNTY
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '0'
+  state: AL

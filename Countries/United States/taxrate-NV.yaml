@@ -1,0 +1,3120 @@
+wootax/24569:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '89001'
+    location_type: postcode
+  name: LINCOLN COUNTY
+  order: '0'
+  priority: '0'
+  rate: '7.1'
+  shipping: '0'
+  state: NV
+wootax/24570:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '89002'
+    location_type: postcode
+  name: HENDERSON
+  order: '0'
+  priority: '0'
+  rate: '8.25'
+  shipping: '0'
+  state: NV
+wootax/24571:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '89003'
+    location_type: postcode
+  name: NYE COUNTY
+  order: '0'
+  priority: '0'
+  rate: '7.6'
+  shipping: '0'
+  state: NV
+wootax/24572:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '89004'
+    location_type: postcode
+  name: CLARK
+  order: '0'
+  priority: '0'
+  rate: '8.25'
+  shipping: '0'
+  state: NV
+wootax/24573:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '89005'
+    location_type: postcode
+  name: BOULDER CITY
+  order: '0'
+  priority: '0'
+  rate: '8.25'
+  shipping: '0'
+  state: NV
+wootax/24574:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '89006'
+    location_type: postcode
+  name: BOULDER CITY
+  order: '0'
+  priority: '0'
+  rate: '8.25'
+  shipping: '0'
+  state: NV
+wootax/24575:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '89007'
+    location_type: postcode
+  name: CLARK COUNTY
+  order: '0'
+  priority: '0'
+  rate: '8.25'
+  shipping: '0'
+  state: NV
+wootax/24576:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '89008'
+    location_type: postcode
+  name: CALIENTE
+  order: '0'
+  priority: '0'
+  rate: '7.1'
+  shipping: '0'
+  state: NV
+wootax/24577:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '89009'
+    location_type: postcode
+  name: HENDERSON
+  order: '0'
+  priority: '0'
+  rate: '8.25'
+  shipping: '0'
+  state: NV
+wootax/24578:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '89010'
+    location_type: postcode
+  name: ESMERALDA COUNTY
+  order: '0'
+  priority: '0'
+  rate: '6.85'
+  shipping: '0'
+  state: NV
+wootax/24579:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '89011'
+    location_type: postcode
+  name: HENDERSON
+  order: '0'
+  priority: '0'
+  rate: '8.25'
+  shipping: '0'
+  state: NV
+wootax/24580:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '89012'
+    location_type: postcode
+  name: HENDERSON
+  order: '0'
+  priority: '0'
+  rate: '8.25'
+  shipping: '0'
+  state: NV
+wootax/24581:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '89013'
+    location_type: postcode
+  name: ESMERALDA COUNTY
+  order: '0'
+  priority: '0'
+  rate: '6.85'
+  shipping: '0'
+  state: NV
+wootax/24582:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '89014'
+    location_type: postcode
+  name: HENDERSON
+  order: '0'
+  priority: '0'
+  rate: '8.25'
+  shipping: '0'
+  state: NV
+wootax/24583:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '89015'
+    location_type: postcode
+  name: HENDERSON
+  order: '0'
+  priority: '0'
+  rate: '8.25'
+  shipping: '0'
+  state: NV
+wootax/24584:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '89016'
+    location_type: postcode
+  name: HENDERSON
+  order: '0'
+  priority: '0'
+  rate: '8.25'
+  shipping: '0'
+  state: NV
+wootax/24585:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '89017'
+    location_type: postcode
+  name: LINCOLN COUNTY
+  order: '0'
+  priority: '0'
+  rate: '7.1'
+  shipping: '0'
+  state: NV
+wootax/24586:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '89018'
+    location_type: postcode
+  name: CLARK COUNTY
+  order: '0'
+  priority: '0'
+  rate: '8.25'
+  shipping: '0'
+  state: NV
+wootax/24587:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '89019'
+    location_type: postcode
+  name: CLARK COUNTY
+  order: '0'
+  priority: '0'
+  rate: '8.25'
+  shipping: '0'
+  state: NV
+wootax/24588:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '89020'
+    location_type: postcode
+  name: NYE COUNTY
+  order: '0'
+  priority: '0'
+  rate: '7.6'
+  shipping: '0'
+  state: NV
+wootax/24589:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '89021'
+    location_type: postcode
+  name: CLARK COUNTY
+  order: '0'
+  priority: '0'
+  rate: '8.25'
+  shipping: '0'
+  state: NV
+wootax/24590:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '89022'
+    location_type: postcode
+  name: NYE COUNTY
+  order: '0'
+  priority: '0'
+  rate: '7.6'
+  shipping: '0'
+  state: NV
+wootax/24591:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '89023'
+    location_type: postcode
+  name: NYE COUNTY
+  order: '0'
+  priority: '0'
+  rate: '7.6'
+  shipping: '0'
+  state: NV
+wootax/24592:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '89024'
+    location_type: postcode
+  name: MESQUITE
+  order: '0'
+  priority: '0'
+  rate: '8.25'
+  shipping: '0'
+  state: NV
+wootax/24593:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '89025'
+    location_type: postcode
+  name: CLARK COUNTY
+  order: '0'
+  priority: '0'
+  rate: '8.25'
+  shipping: '0'
+  state: NV
+wootax/24594:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '89026'
+    location_type: postcode
+  name: CLARK
+  order: '0'
+  priority: '0'
+  rate: '8.25'
+  shipping: '0'
+  state: NV
+wootax/24595:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '89027'
+    location_type: postcode
+  name: MESQUITE
+  order: '0'
+  priority: '0'
+  rate: '8.25'
+  shipping: '0'
+  state: NV
+wootax/24596:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '89028'
+    location_type: postcode
+  name: CLARK COUNTY
+  order: '0'
+  priority: '0'
+  rate: '8.25'
+  shipping: '0'
+  state: NV
+wootax/24597:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '89029'
+    location_type: postcode
+  name: CLARK COUNTY
+  order: '0'
+  priority: '0'
+  rate: '8.25'
+  shipping: '0'
+  state: NV
+wootax/24598:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '89030'
+    location_type: postcode
+  name: NORTH LAS VEGAS
+  order: '0'
+  priority: '0'
+  rate: '8.25'
+  shipping: '0'
+  state: NV
+wootax/24599:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '89031'
+    location_type: postcode
+  name: NORTH LAS VEGAS
+  order: '0'
+  priority: '0'
+  rate: '8.25'
+  shipping: '0'
+  state: NV
+wootax/24600:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '89032'
+    location_type: postcode
+  name: NORTH LAS VEGAS
+  order: '0'
+  priority: '0'
+  rate: '8.25'
+  shipping: '0'
+  state: NV
+wootax/24601:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '89033'
+    location_type: postcode
+  name: NORTH LAS VEGAS
+  order: '0'
+  priority: '0'
+  rate: '8.25'
+  shipping: '0'
+  state: NV
+wootax/24602:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '89034'
+    location_type: postcode
+  name: MESQUITE
+  order: '0'
+  priority: '0'
+  rate: '8.25'
+  shipping: '0'
+  state: NV
+wootax/24603:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '89036'
+    location_type: postcode
+  name: NORTH LAS VEGAS
+  order: '0'
+  priority: '0'
+  rate: '8.25'
+  shipping: '0'
+  state: NV
+wootax/24604:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '89039'
+    location_type: postcode
+  name: CLARK COUNTY
+  order: '0'
+  priority: '0'
+  rate: '8.25'
+  shipping: '0'
+  state: NV
+wootax/24605:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '89040'
+    location_type: postcode
+  name: CLARK COUNTY
+  order: '0'
+  priority: '0'
+  rate: '8.25'
+  shipping: '0'
+  state: NV
+wootax/24606:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '89041'
+    location_type: postcode
+  name: NYE
+  order: '0'
+  priority: '0'
+  rate: '7.6'
+  shipping: '0'
+  state: NV
+wootax/24607:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '89042'
+    location_type: postcode
+  name: LINCOLN COUNTY
+  order: '0'
+  priority: '0'
+  rate: '7.1'
+  shipping: '0'
+  state: NV
+wootax/24608:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '89043'
+    location_type: postcode
+  name: LINCOLN COUNTY
+  order: '0'
+  priority: '0'
+  rate: '7.1'
+  shipping: '0'
+  state: NV
+wootax/24609:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '89044'
+    location_type: postcode
+  name: HENDERSON
+  order: '0'
+  priority: '0'
+  rate: '8.25'
+  shipping: '0'
+  state: NV
+wootax/24610:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '89045'
+    location_type: postcode
+  name: NYE COUNTY
+  order: '0'
+  priority: '0'
+  rate: '7.6'
+  shipping: '0'
+  state: NV
+wootax/24611:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '89046'
+    location_type: postcode
+  name: CLARK COUNTY
+  order: '0'
+  priority: '0'
+  rate: '8.25'
+  shipping: '0'
+  state: NV
+wootax/24612:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '89047'
+    location_type: postcode
+  name: ESMERALDA COUNTY
+  order: '0'
+  priority: '0'
+  rate: '6.85'
+  shipping: '0'
+  state: NV
+wootax/24613:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '89048'
+    location_type: postcode
+  name: NYE
+  order: '0'
+  priority: '0'
+  rate: '7.6'
+  shipping: '0'
+  state: NV
+wootax/24614:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '89049'
+    location_type: postcode
+  name: NYE COUNTY
+  order: '0'
+  priority: '0'
+  rate: '7.6'
+  shipping: '0'
+  state: NV
+wootax/24615:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '89052'
+    location_type: postcode
+  name: HENDERSON
+  order: '0'
+  priority: '0'
+  rate: '8.25'
+  shipping: '0'
+  state: NV
+wootax/24616:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '89053'
+    location_type: postcode
+  name: HENDERSON
+  order: '0'
+  priority: '0'
+  rate: '8.25'
+  shipping: '0'
+  state: NV
+wootax/24617:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '89054'
+    location_type: postcode
+  name: CLARK
+  order: '0'
+  priority: '0'
+  rate: '8.25'
+  shipping: '0'
+  state: NV
+wootax/24618:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '89060'
+    location_type: postcode
+  name: NYE
+  order: '0'
+  priority: '0'
+  rate: '7.6'
+  shipping: '0'
+  state: NV
+wootax/24619:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '89061'
+    location_type: postcode
+  name: NYE
+  order: '0'
+  priority: '0'
+  rate: '7.6'
+  shipping: '0'
+  state: NV
+wootax/24620:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '89067'
+    location_type: postcode
+  name: CLARK COUNTY
+  order: '0'
+  priority: '0'
+  rate: '8.25'
+  shipping: '0'
+  state: NV
+wootax/24621:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '89074'
+    location_type: postcode
+  name: HENDERSON
+  order: '0'
+  priority: '0'
+  rate: '8.25'
+  shipping: '0'
+  state: NV
+wootax/24622:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '89077'
+    location_type: postcode
+  name: HENDERSON
+  order: '0'
+  priority: '0'
+  rate: '8.25'
+  shipping: '0'
+  state: NV
+wootax/24623:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '89081'
+    location_type: postcode
+  name: NORTH LAS VEGAS
+  order: '0'
+  priority: '0'
+  rate: '8.25'
+  shipping: '0'
+  state: NV
+wootax/24624:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '89084'
+    location_type: postcode
+  name: NORTH LAS VEGAS
+  order: '0'
+  priority: '0'
+  rate: '8.25'
+  shipping: '0'
+  state: NV
+wootax/24625:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '89085'
+    location_type: postcode
+  name: NORTH LAS VEGAS
+  order: '0'
+  priority: '0'
+  rate: '8.25'
+  shipping: '0'
+  state: NV
+wootax/24626:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '89086'
+    location_type: postcode
+  name: NORTH LAS VEGAS
+  order: '0'
+  priority: '0'
+  rate: '8.25'
+  shipping: '0'
+  state: NV
+wootax/24627:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '89087'
+    location_type: postcode
+  name: NORTH LAS VEGAS
+  order: '0'
+  priority: '0'
+  rate: '8.25'
+  shipping: '0'
+  state: NV
+wootax/24628:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '89101'
+    location_type: postcode
+  name: LAS VEGAS
+  order: '0'
+  priority: '0'
+  rate: '8.25'
+  shipping: '0'
+  state: NV
+wootax/24629:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '89102'
+    location_type: postcode
+  name: LAS VEGAS
+  order: '0'
+  priority: '0'
+  rate: '8.25'
+  shipping: '0'
+  state: NV
+wootax/24630:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '89103'
+    location_type: postcode
+  name: CLARK
+  order: '0'
+  priority: '0'
+  rate: '8.25'
+  shipping: '0'
+  state: NV
+wootax/24631:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '89104'
+    location_type: postcode
+  name: LAS VEGAS
+  order: '0'
+  priority: '0'
+  rate: '8.25'
+  shipping: '0'
+  state: NV
+wootax/24632:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '89105'
+    location_type: postcode
+  name: CLARK
+  order: '0'
+  priority: '0'
+  rate: '8.25'
+  shipping: '0'
+  state: NV
+wootax/24633:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '89106'
+    location_type: postcode
+  name: LAS VEGAS
+  order: '0'
+  priority: '0'
+  rate: '8.25'
+  shipping: '0'
+  state: NV
+wootax/24634:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '89107'
+    location_type: postcode
+  name: LAS VEGAS
+  order: '0'
+  priority: '0'
+  rate: '8.25'
+  shipping: '0'
+  state: NV
+wootax/24635:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '89108'
+    location_type: postcode
+  name: LAS VEGAS
+  order: '0'
+  priority: '0'
+  rate: '8.25'
+  shipping: '0'
+  state: NV
+wootax/24636:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '89109'
+    location_type: postcode
+  name: CLARK
+  order: '0'
+  priority: '0'
+  rate: '8.25'
+  shipping: '0'
+  state: NV
+wootax/24637:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '89110'
+    location_type: postcode
+  name: LAS VEGAS
+  order: '0'
+  priority: '0'
+  rate: '8.25'
+  shipping: '0'
+  state: NV
+wootax/24638:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '89111'
+    location_type: postcode
+  name: CLARK
+  order: '0'
+  priority: '0'
+  rate: '8.25'
+  shipping: '0'
+  state: NV
+wootax/24639:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '89112'
+    location_type: postcode
+  name: CLARK
+  order: '0'
+  priority: '0'
+  rate: '8.25'
+  shipping: '0'
+  state: NV
+wootax/24640:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '89113'
+    location_type: postcode
+  name: CLARK
+  order: '0'
+  priority: '0'
+  rate: '8.25'
+  shipping: '0'
+  state: NV
+wootax/24641:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '89114'
+    location_type: postcode
+  name: LAS VEGAS
+  order: '0'
+  priority: '0'
+  rate: '8.25'
+  shipping: '0'
+  state: NV
+wootax/24642:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '89115'
+    location_type: postcode
+  name: CLARK
+  order: '0'
+  priority: '0'
+  rate: '8.25'
+  shipping: '0'
+  state: NV
+wootax/24643:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '89116'
+    location_type: postcode
+  name: CLARK
+  order: '0'
+  priority: '0'
+  rate: '8.25'
+  shipping: '0'
+  state: NV
+wootax/24644:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '89117'
+    location_type: postcode
+  name: LAS VEGAS
+  order: '0'
+  priority: '0'
+  rate: '8.25'
+  shipping: '0'
+  state: NV
+wootax/24645:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '89118'
+    location_type: postcode
+  name: CLARK
+  order: '0'
+  priority: '0'
+  rate: '8.25'
+  shipping: '0'
+  state: NV
+wootax/24646:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '89119'
+    location_type: postcode
+  name: CLARK
+  order: '0'
+  priority: '0'
+  rate: '8.25'
+  shipping: '0'
+  state: NV
+wootax/24647:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '89120'
+    location_type: postcode
+  name: CLARK
+  order: '0'
+  priority: '0'
+  rate: '8.25'
+  shipping: '0'
+  state: NV
+wootax/24648:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '89121'
+    location_type: postcode
+  name: CLARK
+  order: '0'
+  priority: '0'
+  rate: '8.25'
+  shipping: '0'
+  state: NV
+wootax/24649:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '89122'
+    location_type: postcode
+  name: CLARK
+  order: '0'
+  priority: '0'
+  rate: '8.25'
+  shipping: '0'
+  state: NV
+wootax/24650:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '89123'
+    location_type: postcode
+  name: CLARK
+  order: '0'
+  priority: '0'
+  rate: '8.25'
+  shipping: '0'
+  state: NV
+wootax/24651:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '89124'
+    location_type: postcode
+  name: CLARK
+  order: '0'
+  priority: '0'
+  rate: '8.25'
+  shipping: '0'
+  state: NV
+wootax/24652:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '89125'
+    location_type: postcode
+  name: LAS VEGAS
+  order: '0'
+  priority: '0'
+  rate: '8.25'
+  shipping: '0'
+  state: NV
+wootax/24653:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '89126'
+    location_type: postcode
+  name: LAS VEGAS
+  order: '0'
+  priority: '0'
+  rate: '8.25'
+  shipping: '0'
+  state: NV
+wootax/24654:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '89127'
+    location_type: postcode
+  name: LAS VEGAS
+  order: '0'
+  priority: '0'
+  rate: '8.25'
+  shipping: '0'
+  state: NV
+wootax/24655:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '89128'
+    location_type: postcode
+  name: LAS VEGAS
+  order: '0'
+  priority: '0'
+  rate: '8.25'
+  shipping: '0'
+  state: NV
+wootax/24656:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '89129'
+    location_type: postcode
+  name: LAS VEGAS
+  order: '0'
+  priority: '0'
+  rate: '8.25'
+  shipping: '0'
+  state: NV
+wootax/24657:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '89130'
+    location_type: postcode
+  name: LAS VEGAS
+  order: '0'
+  priority: '0'
+  rate: '8.25'
+  shipping: '0'
+  state: NV
+wootax/24658:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '89131'
+    location_type: postcode
+  name: LAS VEGAS
+  order: '0'
+  priority: '0'
+  rate: '8.25'
+  shipping: '0'
+  state: NV
+wootax/24659:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '89132'
+    location_type: postcode
+  name: CLARK
+  order: '0'
+  priority: '0'
+  rate: '8.25'
+  shipping: '0'
+  state: NV
+wootax/24660:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '89133'
+    location_type: postcode
+  name: LAS VEGAS
+  order: '0'
+  priority: '0'
+  rate: '8.25'
+  shipping: '0'
+  state: NV
+wootax/24661:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '89134'
+    location_type: postcode
+  name: LAS VEGAS
+  order: '0'
+  priority: '0'
+  rate: '8.25'
+  shipping: '0'
+  state: NV
+wootax/24662:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '89135'
+    location_type: postcode
+  name: CLARK
+  order: '0'
+  priority: '0'
+  rate: '8.25'
+  shipping: '0'
+  state: NV
+wootax/24663:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '89136'
+    location_type: postcode
+  name: CLARK
+  order: '0'
+  priority: '0'
+  rate: '8.25'
+  shipping: '0'
+  state: NV
+wootax/24664:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '89137'
+    location_type: postcode
+  name: LAS VEGAS
+  order: '0'
+  priority: '0'
+  rate: '8.25'
+  shipping: '0'
+  state: NV
+wootax/24665:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '89138'
+    location_type: postcode
+  name: LAS VEGAS
+  order: '0'
+  priority: '0'
+  rate: '8.25'
+  shipping: '0'
+  state: NV
+wootax/24666:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '89139'
+    location_type: postcode
+  name: CLARK
+  order: '0'
+  priority: '0'
+  rate: '8.25'
+  shipping: '0'
+  state: NV
+wootax/24667:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '89140'
+    location_type: postcode
+  name: CLARK
+  order: '0'
+  priority: '0'
+  rate: '8.25'
+  shipping: '0'
+  state: NV
+wootax/24668:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '89141'
+    location_type: postcode
+  name: CLARK
+  order: '0'
+  priority: '0'
+  rate: '8.25'
+  shipping: '0'
+  state: NV
+wootax/24669:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '89142'
+    location_type: postcode
+  name: CLARK
+  order: '0'
+  priority: '0'
+  rate: '8.25'
+  shipping: '0'
+  state: NV
+wootax/24670:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '89143'
+    location_type: postcode
+  name: LAS VEGAS
+  order: '0'
+  priority: '0'
+  rate: '8.25'
+  shipping: '0'
+  state: NV
+wootax/24671:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '89144'
+    location_type: postcode
+  name: LAS VEGAS
+  order: '0'
+  priority: '0'
+  rate: '8.25'
+  shipping: '0'
+  state: NV
+wootax/24672:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '89145'
+    location_type: postcode
+  name: LAS VEGAS
+  order: '0'
+  priority: '0'
+  rate: '8.25'
+  shipping: '0'
+  state: NV
+wootax/24673:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '89146'
+    location_type: postcode
+  name: CLARK
+  order: '0'
+  priority: '0'
+  rate: '8.25'
+  shipping: '0'
+  state: NV
+wootax/24674:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '89147'
+    location_type: postcode
+  name: CLARK
+  order: '0'
+  priority: '0'
+  rate: '8.25'
+  shipping: '0'
+  state: NV
+wootax/24675:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '89148'
+    location_type: postcode
+  name: CLARK
+  order: '0'
+  priority: '0'
+  rate: '8.25'
+  shipping: '0'
+  state: NV
+wootax/24676:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '89149'
+    location_type: postcode
+  name: LAS VEGAS
+  order: '0'
+  priority: '0'
+  rate: '8.25'
+  shipping: '0'
+  state: NV
+wootax/24677:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '89150'
+    location_type: postcode
+  name: CLARK
+  order: '0'
+  priority: '0'
+  rate: '8.25'
+  shipping: '0'
+  state: NV
+wootax/24678:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '89151'
+    location_type: postcode
+  name: CLARK
+  order: '0'
+  priority: '0'
+  rate: '8.25'
+  shipping: '0'
+  state: NV
+wootax/24679:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '89152'
+    location_type: postcode
+  name: LAS VEGAS
+  order: '0'
+  priority: '0'
+  rate: '8.25'
+  shipping: '0'
+  state: NV
+wootax/24680:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '89153'
+    location_type: postcode
+  name: LAS VEGAS
+  order: '0'
+  priority: '0'
+  rate: '8.25'
+  shipping: '0'
+  state: NV
+wootax/24681:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '89154'
+    location_type: postcode
+  name: CLARK
+  order: '0'
+  priority: '0'
+  rate: '8.25'
+  shipping: '0'
+  state: NV
+wootax/24682:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '89155'
+    location_type: postcode
+  name: LAS VEGAS
+  order: '0'
+  priority: '0'
+  rate: '8.25'
+  shipping: '0'
+  state: NV
+wootax/24683:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '89156'
+    location_type: postcode
+  name: CLARK
+  order: '0'
+  priority: '0'
+  rate: '8.25'
+  shipping: '0'
+  state: NV
+wootax/24684:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '89157'
+    location_type: postcode
+  name: CLARK
+  order: '0'
+  priority: '0'
+  rate: '8.25'
+  shipping: '0'
+  state: NV
+wootax/24685:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '89158'
+    location_type: postcode
+  name: CLARK
+  order: '0'
+  priority: '0'
+  rate: '8.25'
+  shipping: '0'
+  state: NV
+wootax/24686:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '89160'
+    location_type: postcode
+  name: CLARK
+  order: '0'
+  priority: '0'
+  rate: '8.25'
+  shipping: '0'
+  state: NV
+wootax/24687:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '89161'
+    location_type: postcode
+  name: CLARK
+  order: '0'
+  priority: '0'
+  rate: '8.25'
+  shipping: '0'
+  state: NV
+wootax/24688:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '89162'
+    location_type: postcode
+  name: CLARK
+  order: '0'
+  priority: '0'
+  rate: '8.25'
+  shipping: '0'
+  state: NV
+wootax/24689:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '89163'
+    location_type: postcode
+  name: CLARK
+  order: '0'
+  priority: '0'
+  rate: '8.25'
+  shipping: '0'
+  state: NV
+wootax/24690:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '89164'
+    location_type: postcode
+  name: LAS VEGAS
+  order: '0'
+  priority: '0'
+  rate: '8.25'
+  shipping: '0'
+  state: NV
+wootax/24691:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '89165'
+    location_type: postcode
+  name: CLARK
+  order: '0'
+  priority: '0'
+  rate: '8.25'
+  shipping: '0'
+  state: NV
+wootax/24692:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '89166'
+    location_type: postcode
+  name: LAS VEGAS
+  order: '0'
+  priority: '0'
+  rate: '8.25'
+  shipping: '0'
+  state: NV
+wootax/24693:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '89169'
+    location_type: postcode
+  name: CLARK
+  order: '0'
+  priority: '0'
+  rate: '8.25'
+  shipping: '0'
+  state: NV
+wootax/24694:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '89170'
+    location_type: postcode
+  name: CLARK
+  order: '0'
+  priority: '0'
+  rate: '8.25'
+  shipping: '0'
+  state: NV
+wootax/24695:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '89173'
+    location_type: postcode
+  name: CLARK
+  order: '0'
+  priority: '0'
+  rate: '8.25'
+  shipping: '0'
+  state: NV
+wootax/24696:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '89178'
+    location_type: postcode
+  name: CLARK
+  order: '0'
+  priority: '0'
+  rate: '8.25'
+  shipping: '0'
+  state: NV
+wootax/24697:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '89179'
+    location_type: postcode
+  name: CLARK
+  order: '0'
+  priority: '0'
+  rate: '8.25'
+  shipping: '0'
+  state: NV
+wootax/24698:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '89180'
+    location_type: postcode
+  name: CLARK
+  order: '0'
+  priority: '0'
+  rate: '8.25'
+  shipping: '0'
+  state: NV
+wootax/24699:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '89183'
+    location_type: postcode
+  name: CLARK
+  order: '0'
+  priority: '0'
+  rate: '8.25'
+  shipping: '0'
+  state: NV
+wootax/24700:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '89185'
+    location_type: postcode
+  name: LAS VEGAS
+  order: '0'
+  priority: '0'
+  rate: '8.25'
+  shipping: '0'
+  state: NV
+wootax/24701:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '89191'
+    location_type: postcode
+  name: CLARK
+  order: '0'
+  priority: '0'
+  rate: '8.25'
+  shipping: '0'
+  state: NV
+wootax/24702:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '89193'
+    location_type: postcode
+  name: CLARK
+  order: '0'
+  priority: '0'
+  rate: '8.25'
+  shipping: '0'
+  state: NV
+wootax/24703:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '89199'
+    location_type: postcode
+  name: CLARK
+  order: '0'
+  priority: '0'
+  rate: '8.25'
+  shipping: '0'
+  state: NV
+wootax/24704:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '89301'
+    location_type: postcode
+  name: ELY
+  order: '0'
+  priority: '0'
+  rate: '7.725'
+  shipping: '0'
+  state: NV
+wootax/24705:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '89310'
+    location_type: postcode
+  name: LANDER COUNTY
+  order: '0'
+  priority: '0'
+  rate: '7.1'
+  shipping: '0'
+  state: NV
+wootax/24706:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '89311'
+    location_type: postcode
+  name: WHITE PINE COUNTY
+  order: '0'
+  priority: '0'
+  rate: '7.725'
+  shipping: '0'
+  state: NV
+wootax/24707:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '89314'
+    location_type: postcode
+  name: NYE COUNTY
+  order: '0'
+  priority: '0'
+  rate: '7.6'
+  shipping: '0'
+  state: NV
+wootax/24708:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '89316'
+    location_type: postcode
+  name: EUREKA COUNTY
+  order: '0'
+  priority: '0'
+  rate: '6.85'
+  shipping: '0'
+  state: NV
+wootax/24709:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '89317'
+    location_type: postcode
+  name: WHITE PINE COUNTY
+  order: '0'
+  priority: '0'
+  rate: '7.725'
+  shipping: '0'
+  state: NV
+wootax/24710:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '89318'
+    location_type: postcode
+  name: WHITE PINE COUNTY
+  order: '0'
+  priority: '0'
+  rate: '7.725'
+  shipping: '0'
+  state: NV
+wootax/24711:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '89319'
+    location_type: postcode
+  name: WHITE PINE COUNTY
+  order: '0'
+  priority: '0'
+  rate: '7.725'
+  shipping: '0'
+  state: NV
+wootax/24712:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '89402'
+    location_type: postcode
+  name: WASHOE
+  order: '0'
+  priority: '0'
+  rate: '8.265'
+  shipping: '0'
+  state: NV
+wootax/24713:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '89403'
+    location_type: postcode
+  name: LYON COUNTY
+  order: '0'
+  priority: '0'
+  rate: '7.1'
+  shipping: '0'
+  state: NV
+wootax/24714:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '89404'
+    location_type: postcode
+  name: HUMBOLDT COUNTY
+  order: '0'
+  priority: '0'
+  rate: '6.85'
+  shipping: '0'
+  state: NV
+wootax/24715:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '89406'
+    location_type: postcode
+  name: CHURCHILL COUNTY
+  order: '0'
+  priority: '0'
+  rate: '7.6'
+  shipping: '0'
+  state: NV
+wootax/24716:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '89407'
+    location_type: postcode
+  name: FALLON
+  order: '0'
+  priority: '0'
+  rate: '7.6'
+  shipping: '0'
+  state: NV
+wootax/24717:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '89408'
+    location_type: postcode
+  name: FERNLEY
+  order: '0'
+  priority: '0'
+  rate: '7.1'
+  shipping: '0'
+  state: NV
+wootax/24718:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '89409'
+    location_type: postcode
+  name: NYE COUNTY
+  order: '0'
+  priority: '0'
+  rate: '7.6'
+  shipping: '0'
+  state: NV
+wootax/24719:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '89410'
+    location_type: postcode
+  name: DOUGLAS COUNTY
+  order: '0'
+  priority: '0'
+  rate: '7.1'
+  shipping: '0'
+  state: NV
+wootax/24720:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '89411'
+    location_type: postcode
+  name: DOUGLAS COUNTY
+  order: '0'
+  priority: '0'
+  rate: '7.1'
+  shipping: '0'
+  state: NV
+wootax/24721:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '89412'
+    location_type: postcode
+  name: WASHOE
+  order: '0'
+  priority: '0'
+  rate: '8.265'
+  shipping: '0'
+  state: NV
+wootax/24722:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '89413'
+    location_type: postcode
+  name: DOUGLAS COUNTY
+  order: '0'
+  priority: '0'
+  rate: '7.1'
+  shipping: '0'
+  state: NV
+wootax/24723:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '89414'
+    location_type: postcode
+  name: HUMBOLDT COUNTY
+  order: '0'
+  priority: '0'
+  rate: '6.85'
+  shipping: '0'
+  state: NV
+wootax/24724:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '89415'
+    location_type: postcode
+  name: MINERAL COUNTY
+  order: '0'
+  priority: '0'
+  rate: '6.85'
+  shipping: '0'
+  state: NV
+wootax/24725:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '89418'
+    location_type: postcode
+  name: PERSHING COUNTY
+  order: '0'
+  priority: '0'
+  rate: '7.1'
+  shipping: '0'
+  state: NV
+wootax/24726:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '89419'
+    location_type: postcode
+  name: PERSHING COUNTY
+  order: '0'
+  priority: '0'
+  rate: '7.1'
+  shipping: '0'
+  state: NV
+wootax/24727:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '89420'
+    location_type: postcode
+  name: MINERAL COUNTY
+  order: '0'
+  priority: '0'
+  rate: '6.85'
+  shipping: '0'
+  state: NV
+wootax/24728:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '89421'
+    location_type: postcode
+  name: HUMBOLDT COUNTY
+  order: '0'
+  priority: '0'
+  rate: '6.85'
+  shipping: '0'
+  state: NV
+wootax/24729:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '89422'
+    location_type: postcode
+  name: MINERAL COUNTY
+  order: '0'
+  priority: '0'
+  rate: '6.85'
+  shipping: '0'
+  state: NV
+wootax/24730:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '89423'
+    location_type: postcode
+  name: DOUGLAS COUNTY
+  order: '0'
+  priority: '0'
+  rate: '7.1'
+  shipping: '0'
+  state: NV
+wootax/24731:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '89424'
+    location_type: postcode
+  name: WASHOE
+  order: '0'
+  priority: '0'
+  rate: '8.265'
+  shipping: '0'
+  state: NV
+wootax/24732:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '89425'
+    location_type: postcode
+  name: HUMBOLDT COUNTY
+  order: '0'
+  priority: '0'
+  rate: '6.85'
+  shipping: '0'
+  state: NV
+wootax/24733:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '89426'
+    location_type: postcode
+  name: HUMBOLDT COUNTY
+  order: '0'
+  priority: '0'
+  rate: '6.85'
+  shipping: '0'
+  state: NV
+wootax/24734:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '89427'
+    location_type: postcode
+  name: MINERAL COUNTY
+  order: '0'
+  priority: '0'
+  rate: '6.85'
+  shipping: '0'
+  state: NV
+wootax/24735:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '89428'
+    location_type: postcode
+  name: LYON COUNTY
+  order: '0'
+  priority: '0'
+  rate: '7.1'
+  shipping: '0'
+  state: NV
+wootax/24736:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '89429'
+    location_type: postcode
+  name: LYON COUNTY
+  order: '0'
+  priority: '0'
+  rate: '7.1'
+  shipping: '0'
+  state: NV
+wootax/24737:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '89430'
+    location_type: postcode
+  name: LYON COUNTY
+  order: '0'
+  priority: '0'
+  rate: '7.1'
+  shipping: '0'
+  state: NV
+wootax/24738:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '89431'
+    location_type: postcode
+  name: SPARKS
+  order: '0'
+  priority: '0'
+  rate: '8.265'
+  shipping: '0'
+  state: NV
+wootax/24739:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '89432'
+    location_type: postcode
+  name: SPARKS
+  order: '0'
+  priority: '0'
+  rate: '8.265'
+  shipping: '0'
+  state: NV
+wootax/24740:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '89433'
+    location_type: postcode
+  name: WASHOE
+  order: '0'
+  priority: '0'
+  rate: '8.265'
+  shipping: '0'
+  state: NV
+wootax/24741:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '89434'
+    location_type: postcode
+  name: SPARKS
+  order: '0'
+  priority: '0'
+  rate: '8.265'
+  shipping: '0'
+  state: NV
+wootax/24742:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '89435'
+    location_type: postcode
+  name: SPARKS
+  order: '0'
+  priority: '0'
+  rate: '8.265'
+  shipping: '0'
+  state: NV
+wootax/24743:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '89436'
+    location_type: postcode
+  name: SPARKS
+  order: '0'
+  priority: '0'
+  rate: '8.265'
+  shipping: '0'
+  state: NV
+wootax/24744:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '89437'
+    location_type: postcode
+  name: STOREY
+  order: '0'
+  priority: '0'
+  rate: '7.6'
+  shipping: '0'
+  state: NV
+wootax/24745:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '89438'
+    location_type: postcode
+  name: HUMBOLDT COUNTY
+  order: '0'
+  priority: '0'
+  rate: '6.85'
+  shipping: '0'
+  state: NV
+wootax/24746:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '89439'
+    location_type: postcode
+  name: RENO
+  order: '0'
+  priority: '0'
+  rate: '8.265'
+  shipping: '0'
+  state: NV
+wootax/24747:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '89440'
+    location_type: postcode
+  name: STOREY
+  order: '0'
+  priority: '0'
+  rate: '7.6'
+  shipping: '0'
+  state: NV
+wootax/24748:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '89441'
+    location_type: postcode
+  name: WASHOE
+  order: '0'
+  priority: '0'
+  rate: '8.265'
+  shipping: '0'
+  state: NV
+wootax/24749:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '89442'
+    location_type: postcode
+  name: WASHOE
+  order: '0'
+  priority: '0'
+  rate: '8.265'
+  shipping: '0'
+  state: NV
+wootax/24750:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '89444'
+    location_type: postcode
+  name: DOUGLAS COUNTY
+  order: '0'
+  priority: '0'
+  rate: '7.1'
+  shipping: '0'
+  state: NV
+wootax/24751:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '89445'
+    location_type: postcode
+  name: HUMBOLDT COUNTY
+  order: '0'
+  priority: '0'
+  rate: '6.85'
+  shipping: '0'
+  state: NV
+wootax/24752:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '89447'
+    location_type: postcode
+  name: YERINGTON
+  order: '0'
+  priority: '0'
+  rate: '7.1'
+  shipping: '0'
+  state: NV
+wootax/24753:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '89448'
+    location_type: postcode
+  name: DOUGLAS COUNTY
+  order: '0'
+  priority: '0'
+  rate: '7.1'
+  shipping: '0'
+  state: NV
+wootax/24754:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '89449'
+    location_type: postcode
+  name: DOUGLAS COUNTY
+  order: '0'
+  priority: '0'
+  rate: '7.1'
+  shipping: '0'
+  state: NV
+wootax/24755:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '89450'
+    location_type: postcode
+  name: WASHOE
+  order: '0'
+  priority: '0'
+  rate: '8.265'
+  shipping: '0'
+  state: NV
+wootax/24756:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '89451'
+    location_type: postcode
+  name: WASHOE
+  order: '0'
+  priority: '0'
+  rate: '8.265'
+  shipping: '0'
+  state: NV
+wootax/24757:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '89452'
+    location_type: postcode
+  name: WASHOE
+  order: '0'
+  priority: '0'
+  rate: '8.265'
+  shipping: '0'
+  state: NV
+wootax/24758:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '89460'
+    location_type: postcode
+  name: DOUGLAS COUNTY
+  order: '0'
+  priority: '0'
+  rate: '7.1'
+  shipping: '0'
+  state: NV
+wootax/24759:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '89496'
+    location_type: postcode
+  name: FALLON
+  order: '0'
+  priority: '0'
+  rate: '7.6'
+  shipping: '0'
+  state: NV
+wootax/24760:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '89501'
+    location_type: postcode
+  name: RENO
+  order: '0'
+  priority: '0'
+  rate: '8.265'
+  shipping: '0'
+  state: NV
+wootax/24761:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '89502'
+    location_type: postcode
+  name: RENO
+  order: '0'
+  priority: '0'
+  rate: '8.265'
+  shipping: '0'
+  state: NV
+wootax/24762:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '89503'
+    location_type: postcode
+  name: RENO
+  order: '0'
+  priority: '0'
+  rate: '8.265'
+  shipping: '0'
+  state: NV
+wootax/24763:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '89504'
+    location_type: postcode
+  name: RENO
+  order: '0'
+  priority: '0'
+  rate: '8.265'
+  shipping: '0'
+  state: NV
+wootax/24764:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '89505'
+    location_type: postcode
+  name: RENO
+  order: '0'
+  priority: '0'
+  rate: '8.265'
+  shipping: '0'
+  state: NV
+wootax/24765:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '89506'
+    location_type: postcode
+  name: RENO
+  order: '0'
+  priority: '0'
+  rate: '8.265'
+  shipping: '0'
+  state: NV
+wootax/24766:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '89507'
+    location_type: postcode
+  name: RENO
+  order: '0'
+  priority: '0'
+  rate: '8.265'
+  shipping: '0'
+  state: NV
+wootax/24767:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '89508'
+    location_type: postcode
+  name: WASHOE
+  order: '0'
+  priority: '0'
+  rate: '8.265'
+  shipping: '0'
+  state: NV
+wootax/24768:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '89509'
+    location_type: postcode
+  name: RENO
+  order: '0'
+  priority: '0'
+  rate: '8.265'
+  shipping: '0'
+  state: NV
+wootax/24769:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '89510'
+    location_type: postcode
+  name: WASHOE
+  order: '0'
+  priority: '0'
+  rate: '8.265'
+  shipping: '0'
+  state: NV
+wootax/24770:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '89511'
+    location_type: postcode
+  name: WASHOE
+  order: '0'
+  priority: '0'
+  rate: '8.265'
+  shipping: '0'
+  state: NV
+wootax/24771:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '89512'
+    location_type: postcode
+  name: RENO
+  order: '0'
+  priority: '0'
+  rate: '8.265'
+  shipping: '0'
+  state: NV
+wootax/24772:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '89513'
+    location_type: postcode
+  name: RENO
+  order: '0'
+  priority: '0'
+  rate: '8.265'
+  shipping: '0'
+  state: NV
+wootax/24773:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '89519'
+    location_type: postcode
+  name: RENO
+  order: '0'
+  priority: '0'
+  rate: '8.265'
+  shipping: '0'
+  state: NV
+wootax/24774:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '89521'
+    location_type: postcode
+  name: RENO
+  order: '0'
+  priority: '0'
+  rate: '8.265'
+  shipping: '0'
+  state: NV
+wootax/24775:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '89523'
+    location_type: postcode
+  name: RENO
+  order: '0'
+  priority: '0'
+  rate: '8.265'
+  shipping: '0'
+  state: NV
+wootax/24776:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '89533'
+    location_type: postcode
+  name: RENO
+  order: '0'
+  priority: '0'
+  rate: '8.265'
+  shipping: '0'
+  state: NV
+wootax/24777:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '89555'
+    location_type: postcode
+  name: RENO
+  order: '0'
+  priority: '0'
+  rate: '8.265'
+  shipping: '0'
+  state: NV
+wootax/24778:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '89557'
+    location_type: postcode
+  name: RENO
+  order: '0'
+  priority: '0'
+  rate: '8.265'
+  shipping: '0'
+  state: NV
+wootax/24779:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '89595'
+    location_type: postcode
+  name: RENO
+  order: '0'
+  priority: '0'
+  rate: '8.265'
+  shipping: '0'
+  state: NV
+wootax/24780:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '89599'
+    location_type: postcode
+  name: RENO
+  order: '0'
+  priority: '0'
+  rate: '8.265'
+  shipping: '0'
+  state: NV
+wootax/24781:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '89701'
+    location_type: postcode
+  name: CARSON CITY CO
+  order: '0'
+  priority: '0'
+  rate: '7.6'
+  shipping: '0'
+  state: NV
+wootax/24782:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '89702'
+    location_type: postcode
+  name: CARSON CITY CO
+  order: '0'
+  priority: '0'
+  rate: '7.6'
+  shipping: '0'
+  state: NV
+wootax/24783:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '89703'
+    location_type: postcode
+  name: CARSON CITY CO
+  order: '0'
+  priority: '0'
+  rate: '7.6'
+  shipping: '0'
+  state: NV
+wootax/24784:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '89704'
+    location_type: postcode
+  name: WASHOE
+  order: '0'
+  priority: '0'
+  rate: '8.265'
+  shipping: '0'
+  state: NV
+wootax/24785:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '89705'
+    location_type: postcode
+  name: DOUGLAS COUNTY
+  order: '0'
+  priority: '0'
+  rate: '7.1'
+  shipping: '0'
+  state: NV
+wootax/24786:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '89706'
+    location_type: postcode
+  name: CARSON CITY CO
+  order: '0'
+  priority: '0'
+  rate: '7.6'
+  shipping: '0'
+  state: NV
+wootax/24787:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '89711'
+    location_type: postcode
+  name: CARSON CITY CO
+  order: '0'
+  priority: '0'
+  rate: '7.6'
+  shipping: '0'
+  state: NV
+wootax/24788:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '89712'
+    location_type: postcode
+  name: CARSON CITY CO
+  order: '0'
+  priority: '0'
+  rate: '7.6'
+  shipping: '0'
+  state: NV
+wootax/24789:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '89713'
+    location_type: postcode
+  name: CARSON CITY CO
+  order: '0'
+  priority: '0'
+  rate: '7.6'
+  shipping: '0'
+  state: NV
+wootax/24790:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '89714'
+    location_type: postcode
+  name: CARSON CITY CO
+  order: '0'
+  priority: '0'
+  rate: '7.6'
+  shipping: '0'
+  state: NV
+wootax/24791:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '89721'
+    location_type: postcode
+  name: CARSON CITY CO
+  order: '0'
+  priority: '0'
+  rate: '7.6'
+  shipping: '0'
+  state: NV
+wootax/24792:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '89801'
+    location_type: postcode
+  name: ELKO
+  order: '0'
+  priority: '0'
+  rate: '7.1'
+  shipping: '0'
+  state: NV
+wootax/24793:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '89802'
+    location_type: postcode
+  name: ELKO
+  order: '0'
+  priority: '0'
+  rate: '7.1'
+  shipping: '0'
+  state: NV
+wootax/24794:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '89803'
+    location_type: postcode
+  name: ELKO
+  order: '0'
+  priority: '0'
+  rate: '7.1'
+  shipping: '0'
+  state: NV
+wootax/24795:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '89815'
+    location_type: postcode
+  name: ELKO COUNTY
+  order: '0'
+  priority: '0'
+  rate: '7.1'
+  shipping: '0'
+  state: NV
+wootax/24796:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '89820'
+    location_type: postcode
+  name: LANDER COUNTY
+  order: '0'
+  priority: '0'
+  rate: '7.1'
+  shipping: '0'
+  state: NV
+wootax/24797:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '89821'
+    location_type: postcode
+  name: EUREKA COUNTY
+  order: '0'
+  priority: '0'
+  rate: '6.85'
+  shipping: '0'
+  state: NV
+wootax/24798:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '89822'
+    location_type: postcode
+  name: CARLIN
+  order: '0'
+  priority: '0'
+  rate: '7.1'
+  shipping: '0'
+  state: NV
+wootax/24799:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '89823'
+    location_type: postcode
+  name: ELKO COUNTY
+  order: '0'
+  priority: '0'
+  rate: '7.1'
+  shipping: '0'
+  state: NV
+wootax/24800:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '89825'
+    location_type: postcode
+  name: ELKO
+  order: '0'
+  priority: '0'
+  rate: '7.1'
+  shipping: '0'
+  state: NV
+wootax/24801:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '89826'
+    location_type: postcode
+  name: ELKO COUNTY
+  order: '0'
+  priority: '0'
+  rate: '7.1'
+  shipping: '0'
+  state: NV
+wootax/24802:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '89828'
+    location_type: postcode
+  name: ELKO COUNTY
+  order: '0'
+  priority: '0'
+  rate: '7.1'
+  shipping: '0'
+  state: NV
+wootax/24803:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '89830'
+    location_type: postcode
+  name: ELKO COUNTY
+  order: '0'
+  priority: '0'
+  rate: '7.1'
+  shipping: '0'
+  state: NV
+wootax/24804:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '89831'
+    location_type: postcode
+  name: ELKO COUNTY
+  order: '0'
+  priority: '0'
+  rate: '7.1'
+  shipping: '0'
+  state: NV
+wootax/24805:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '89832'
+    location_type: postcode
+  name: ELKO COUNTY
+  order: '0'
+  priority: '0'
+  rate: '7.1'
+  shipping: '0'
+  state: NV
+wootax/24806:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '89834'
+    location_type: postcode
+  name: ELKO COUNTY
+  order: '0'
+  priority: '0'
+  rate: '7.1'
+  shipping: '0'
+  state: NV
+wootax/24807:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '89835'
+    location_type: postcode
+  name: WELLS
+  order: '0'
+  priority: '0'
+  rate: '7.1'
+  shipping: '0'
+  state: NV
+wootax/24808:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '89883'
+    location_type: postcode
+  name: WEST WENDOVER
+  order: '0'
+  priority: '0'
+  rate: '7.1'
+  shipping: '0'
+  state: NV

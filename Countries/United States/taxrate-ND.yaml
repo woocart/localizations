@@ -1,0 +1,5278 @@
+wootax/22160:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '58001'
+    location_type: postcode
+  name: ABERCROMBIE
+  order: '0'
+  priority: '0'
+  rate: '5'
+  shipping: '1'
+  state: ND
+wootax/22161:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '58002'
+    location_type: postcode
+  name: CASS COUNTY
+  order: '0'
+  priority: '0'
+  rate: '5.5'
+  shipping: '1'
+  state: ND
+wootax/22162:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '58004'
+    location_type: postcode
+  name: CASS COUNTY
+  order: '0'
+  priority: '0'
+  rate: '5.5'
+  shipping: '1'
+  state: ND
+wootax/22163:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '58005'
+    location_type: postcode
+  name: CASS COUNTY
+  order: '0'
+  priority: '0'
+  rate: '5.5'
+  shipping: '1'
+  state: ND
+wootax/22164:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '58006'
+    location_type: postcode
+  name: ARTHUR
+  order: '0'
+  priority: '0'
+  rate: '5.5'
+  shipping: '1'
+  state: ND
+wootax/22165:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '58007'
+    location_type: postcode
+  name: CASS COUNTY
+  order: '0'
+  priority: '0'
+  rate: '5.5'
+  shipping: '1'
+  state: ND
+wootax/22166:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '58008'
+    location_type: postcode
+  name: 'RICHLAND '
+  order: '0'
+  priority: '0'
+  rate: '5'
+  shipping: '1'
+  state: ND
+wootax/22167:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '58009'
+    location_type: postcode
+  name: TRAILL
+  order: '0'
+  priority: '0'
+  rate: '5'
+  shipping: '1'
+  state: ND
+wootax/22168:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '58011'
+    location_type: postcode
+  name: CASS COUNTY
+  order: '0'
+  priority: '0'
+  rate: '5.5'
+  shipping: '1'
+  state: ND
+wootax/22169:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '58012'
+    location_type: postcode
+  name: CASSELTON
+  order: '0'
+  priority: '0'
+  rate: '7.5'
+  shipping: '1'
+  state: ND
+wootax/22170:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '58013'
+    location_type: postcode
+  name: 'SARGENT '
+  order: '0'
+  priority: '0'
+  rate: '5'
+  shipping: '1'
+  state: ND
+wootax/22171:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '58015'
+    location_type: postcode
+  name: 'RICHLAND '
+  order: '0'
+  priority: '0'
+  rate: '5'
+  shipping: '1'
+  state: ND
+wootax/22172:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '58016'
+    location_type: postcode
+  name: 'CLIFFORD '
+  order: '0'
+  priority: '0'
+  rate: '5'
+  shipping: '1'
+  state: ND
+wootax/22173:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '58017'
+    location_type: postcode
+  name: 'SARGENT '
+  order: '0'
+  priority: '0'
+  rate: '5'
+  shipping: '1'
+  state: ND
+wootax/22174:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '58018'
+    location_type: postcode
+  name: 'RICHLAND '
+  order: '0'
+  priority: '0'
+  rate: '5'
+  shipping: '1'
+  state: ND
+wootax/22175:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '58021'
+    location_type: postcode
+  name: CASS COUNTY
+  order: '0'
+  priority: '0'
+  rate: '5.5'
+  shipping: '1'
+  state: ND
+wootax/22176:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '58027'
+    location_type: postcode
+  name: ENDERLIN
+  order: '0'
+  priority: '0'
+  rate: '7.5'
+  shipping: '1'
+  state: ND
+wootax/22177:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '58029'
+    location_type: postcode
+  name: CASS COUNTY
+  order: '0'
+  priority: '0'
+  rate: '5.5'
+  shipping: '1'
+  state: ND
+wootax/22178:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '58030'
+    location_type: postcode
+  name: 'RICHLAND '
+  order: '0'
+  priority: '0'
+  rate: '5'
+  shipping: '1'
+  state: ND
+wootax/22179:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '58031'
+    location_type: postcode
+  name: 'BARNES '
+  order: '0'
+  priority: '0'
+  rate: '5'
+  shipping: '1'
+  state: ND
+wootax/22180:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '58032'
+    location_type: postcode
+  name: FORMAN
+  order: '0'
+  priority: '0'
+  rate: '6.5'
+  shipping: '1'
+  state: ND
+wootax/22181:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '58033'
+    location_type: postcode
+  name: RANSOM
+  order: '0'
+  priority: '0'
+  rate: '5'
+  shipping: '1'
+  state: ND
+wootax/22182:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '58035'
+    location_type: postcode
+  name: GALESBURG
+  order: '0'
+  priority: '0'
+  rate: '5'
+  shipping: '1'
+  state: ND
+wootax/22183:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '58036'
+    location_type: postcode
+  name: CASS COUNTY
+  order: '0'
+  priority: '0'
+  rate: '5.5'
+  shipping: '1'
+  state: ND
+wootax/22184:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '58038'
+    location_type: postcode
+  name: GRANDIN
+  order: '0'
+  priority: '0'
+  rate: '5.5'
+  shipping: '1'
+  state: ND
+wootax/22185:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '58040'
+    location_type: postcode
+  name: GWINNER
+  order: '0'
+  priority: '0'
+  rate: '7'
+  shipping: '1'
+  state: ND
+wootax/22186:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '58041'
+    location_type: postcode
+  name: HANKINSON
+  order: '0'
+  priority: '0'
+  rate: '7'
+  shipping: '1'
+  state: ND
+wootax/22187:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '58042'
+    location_type: postcode
+  name: CASS COUNTY
+  order: '0'
+  priority: '0'
+  rate: '5.5'
+  shipping: '1'
+  state: ND
+wootax/22188:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '58043'
+    location_type: postcode
+  name: 'SARGENT '
+  order: '0'
+  priority: '0'
+  rate: '5'
+  shipping: '1'
+  state: ND
+wootax/22189:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '58045'
+    location_type: postcode
+  name: HILLSBORO
+  order: '0'
+  priority: '0'
+  rate: '7'
+  shipping: '1'
+  state: ND
+wootax/22190:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '58046'
+    location_type: postcode
+  name: HOPE
+  order: '0'
+  priority: '0'
+  rate: '8'
+  shipping: '1'
+  state: ND
+wootax/22191:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '58047'
+    location_type: postcode
+  name: HORACE
+  order: '0'
+  priority: '0'
+  rate: '7.5'
+  shipping: '1'
+  state: ND
+wootax/22192:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '58048'
+    location_type: postcode
+  name: HUNTER
+  order: '0'
+  priority: '0'
+  rate: '5.5'
+  shipping: '1'
+  state: ND
+wootax/22193:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '58049'
+    location_type: postcode
+  name: 'BARNES '
+  order: '0'
+  priority: '0'
+  rate: '5'
+  shipping: '1'
+  state: ND
+wootax/22194:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '58051'
+    location_type: postcode
+  name: KINDRED
+  order: '0'
+  priority: '0'
+  rate: '7.5'
+  shipping: '1'
+  state: ND
+wootax/22195:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '58052'
+    location_type: postcode
+  name: CASS COUNTY
+  order: '0'
+  priority: '0'
+  rate: '5.5'
+  shipping: '1'
+  state: ND
+wootax/22196:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '58053'
+    location_type: postcode
+  name: LIDGERWOOD
+  order: '0'
+  priority: '0'
+  rate: '7'
+  shipping: '1'
+  state: ND
+wootax/22197:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '58054'
+    location_type: postcode
+  name: LISBON
+  order: '0'
+  priority: '0'
+  rate: '7.5'
+  shipping: '1'
+  state: ND
+wootax/22198:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '58056'
+    location_type: postcode
+  name: 'BARNES '
+  order: '0'
+  priority: '0'
+  rate: '5'
+  shipping: '1'
+  state: ND
+wootax/22199:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '58057'
+    location_type: postcode
+  name: 'RICHLAND '
+  order: '0'
+  priority: '0'
+  rate: '5'
+  shipping: '1'
+  state: ND
+wootax/22200:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '58058'
+    location_type: postcode
+  name: 'RICHLAND '
+  order: '0'
+  priority: '0'
+  rate: '5'
+  shipping: '1'
+  state: ND
+wootax/22201:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '58059'
+    location_type: postcode
+  name: CASS COUNTY
+  order: '0'
+  priority: '0'
+  rate: '5.5'
+  shipping: '1'
+  state: ND
+wootax/22202:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '58060'
+    location_type: postcode
+  name: MILNOR
+  order: '0'
+  priority: '0'
+  rate: '7.5'
+  shipping: '1'
+  state: ND
+wootax/22203:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '58061'
+    location_type: postcode
+  name: 'RICHLAND '
+  order: '0'
+  priority: '0'
+  rate: '5'
+  shipping: '1'
+  state: ND
+wootax/22204:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '58062'
+    location_type: postcode
+  name: 'BARNES '
+  order: '0'
+  priority: '0'
+  rate: '5'
+  shipping: '1'
+  state: ND
+wootax/22205:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '58063'
+    location_type: postcode
+  name: 'BARNES '
+  order: '0'
+  priority: '0'
+  rate: '5'
+  shipping: '1'
+  state: ND
+wootax/22206:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '58064'
+    location_type: postcode
+  name: PAGE
+  order: '0'
+  priority: '0'
+  rate: '7.5'
+  shipping: '1'
+  state: ND
+wootax/22207:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '58065'
+    location_type: postcode
+  name: 'BARNES '
+  order: '0'
+  priority: '0'
+  rate: '5'
+  shipping: '1'
+  state: ND
+wootax/22208:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '58067'
+    location_type: postcode
+  name: RUTLAND
+  order: '0'
+  priority: '0'
+  rate: '5'
+  shipping: '1'
+  state: ND
+wootax/22209:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '58068'
+    location_type: postcode
+  name: RANSOM
+  order: '0'
+  priority: '0'
+  rate: '5'
+  shipping: '1'
+  state: ND
+wootax/22210:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '58069'
+    location_type: postcode
+  name: 'SARGENT '
+  order: '0'
+  priority: '0'
+  rate: '5'
+  shipping: '1'
+  state: ND
+wootax/22211:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '58071'
+    location_type: postcode
+  name: TOWER CITY
+  order: '0'
+  priority: '0'
+  rate: '7.5'
+  shipping: '1'
+  state: ND
+wootax/22212:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '58072'
+    location_type: postcode
+  name: VALLEY CITY
+  order: '0'
+  priority: '0'
+  rate: '7.5'
+  shipping: '1'
+  state: ND
+wootax/22213:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '58075'
+    location_type: postcode
+  name: WAHPETON
+  order: '0'
+  priority: '0'
+  rate: '7'
+  shipping: '1'
+  state: ND
+wootax/22214:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '58076'
+    location_type: postcode
+  name: WAHPETON
+  order: '0'
+  priority: '0'
+  rate: '7'
+  shipping: '1'
+  state: ND
+wootax/22215:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '58077'
+    location_type: postcode
+  name: 'RICHLAND '
+  order: '0'
+  priority: '0'
+  rate: '5'
+  shipping: '1'
+  state: ND
+wootax/22216:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '58078'
+    location_type: postcode
+  name: WEST FARGO
+  order: '0'
+  priority: '0'
+  rate: '7.5'
+  shipping: '1'
+  state: ND
+wootax/22217:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '58079'
+    location_type: postcode
+  name: CASS COUNTY
+  order: '0'
+  priority: '0'
+  rate: '5.5'
+  shipping: '1'
+  state: ND
+wootax/22218:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '58081'
+    location_type: postcode
+  name: 'RICHLAND '
+  order: '0'
+  priority: '0'
+  rate: '5'
+  shipping: '1'
+  state: ND
+wootax/22219:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '58102'
+    location_type: postcode
+  name: FARGO
+  order: '0'
+  priority: '0'
+  rate: '7.5'
+  shipping: '1'
+  state: ND
+wootax/22220:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '58103'
+    location_type: postcode
+  name: FARGO
+  order: '0'
+  priority: '0'
+  rate: '7.5'
+  shipping: '1'
+  state: ND
+wootax/22221:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '58104'
+    location_type: postcode
+  name: FARGO
+  order: '0'
+  priority: '0'
+  rate: '7.5'
+  shipping: '1'
+  state: ND
+wootax/22222:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '58105'
+    location_type: postcode
+  name: FARGO
+  order: '0'
+  priority: '0'
+  rate: '7.5'
+  shipping: '1'
+  state: ND
+wootax/22223:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '58106'
+    location_type: postcode
+  name: FARGO
+  order: '0'
+  priority: '0'
+  rate: '7.5'
+  shipping: '1'
+  state: ND
+wootax/22224:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '58107'
+    location_type: postcode
+  name: FARGO
+  order: '0'
+  priority: '0'
+  rate: '7.5'
+  shipping: '1'
+  state: ND
+wootax/22225:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '58108'
+    location_type: postcode
+  name: FARGO
+  order: '0'
+  priority: '0'
+  rate: '7.5'
+  shipping: '1'
+  state: ND
+wootax/22226:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '58109'
+    location_type: postcode
+  name: FARGO
+  order: '0'
+  priority: '0'
+  rate: '7.5'
+  shipping: '1'
+  state: ND
+wootax/22227:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '58121'
+    location_type: postcode
+  name: FARGO
+  order: '0'
+  priority: '0'
+  rate: '7.5'
+  shipping: '1'
+  state: ND
+wootax/22228:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '58122'
+    location_type: postcode
+  name: FARGO
+  order: '0'
+  priority: '0'
+  rate: '7.5'
+  shipping: '1'
+  state: ND
+wootax/22229:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '58124'
+    location_type: postcode
+  name: FARGO
+  order: '0'
+  priority: '0'
+  rate: '7.5'
+  shipping: '1'
+  state: ND
+wootax/22230:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '58125'
+    location_type: postcode
+  name: FARGO
+  order: '0'
+  priority: '0'
+  rate: '7.5'
+  shipping: '1'
+  state: ND
+wootax/22231:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '58126'
+    location_type: postcode
+  name: FARGO
+  order: '0'
+  priority: '0'
+  rate: '7.5'
+  shipping: '1'
+  state: ND
+wootax/22232:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '58201'
+    location_type: postcode
+  name: GRAND FORKS
+  order: '0'
+  priority: '0'
+  rate: '7.25'
+  shipping: '1'
+  state: ND
+wootax/22233:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '58202'
+    location_type: postcode
+  name: GRAND FORKS
+  order: '0'
+  priority: '0'
+  rate: '7.25'
+  shipping: '1'
+  state: ND
+wootax/22234:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '58203'
+    location_type: postcode
+  name: GRAND FORKS
+  order: '0'
+  priority: '0'
+  rate: '7.25'
+  shipping: '1'
+  state: ND
+wootax/22235:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '58204'
+    location_type: postcode
+  name: GRAND FORKS
+  order: '0'
+  priority: '0'
+  rate: '5'
+  shipping: '1'
+  state: ND
+wootax/22236:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '58205'
+    location_type: postcode
+  name: GRAND FORKS
+  order: '0'
+  priority: '0'
+  rate: '5'
+  shipping: '1'
+  state: ND
+wootax/22237:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '58206'
+    location_type: postcode
+  name: GRAND FORKS
+  order: '0'
+  priority: '0'
+  rate: '7.25'
+  shipping: '1'
+  state: ND
+wootax/22238:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '58207'
+    location_type: postcode
+  name: GRAND FORKS
+  order: '0'
+  priority: '0'
+  rate: '7.25'
+  shipping: '1'
+  state: ND
+wootax/22239:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '58208'
+    location_type: postcode
+  name: GRAND FORKS
+  order: '0'
+  priority: '0'
+  rate: '7.25'
+  shipping: '1'
+  state: ND
+wootax/22240:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '58210'
+    location_type: postcode
+  name: WALSH COUNTY
+  order: '0'
+  priority: '0'
+  rate: '5.25'
+  shipping: '1'
+  state: ND
+wootax/22241:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '58212'
+    location_type: postcode
+  name: ANETA
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: ND
+wootax/22242:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '58214'
+    location_type: postcode
+  name: GRAND FORKS
+  order: '0'
+  priority: '0'
+  rate: '5'
+  shipping: '1'
+  state: ND
+wootax/22243:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '58216'
+    location_type: postcode
+  name: PEMBINA
+  order: '0'
+  priority: '0'
+  rate: '5'
+  shipping: '1'
+  state: ND
+wootax/22244:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '58218'
+    location_type: postcode
+  name: BUXTON
+  order: '0'
+  priority: '0'
+  rate: '5'
+  shipping: '1'
+  state: ND
+wootax/22245:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '58219'
+    location_type: postcode
+  name: TRAILL
+  order: '0'
+  priority: '0'
+  rate: '5'
+  shipping: '1'
+  state: ND
+wootax/22246:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '58220'
+    location_type: postcode
+  name: CAVALIER
+  order: '0'
+  priority: '0'
+  rate: '7'
+  shipping: '1'
+  state: ND
+wootax/22247:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '58222'
+    location_type: postcode
+  name: PEMBINA
+  order: '0'
+  priority: '0'
+  rate: '5'
+  shipping: '1'
+  state: ND
+wootax/22248:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '58223'
+    location_type: postcode
+  name: TRAILL
+  order: '0'
+  priority: '0'
+  rate: '5'
+  shipping: '1'
+  state: ND
+wootax/22249:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '58224'
+    location_type: postcode
+  name: NELSON
+  order: '0'
+  priority: '0'
+  rate: '5'
+  shipping: '1'
+  state: ND
+wootax/22250:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '58225'
+    location_type: postcode
+  name: DRAYTON
+  order: '0'
+  priority: '0'
+  rate: '6.5'
+  shipping: '1'
+  state: ND
+wootax/22251:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '58227'
+    location_type: postcode
+  name: WALSH COUNTY
+  order: '0'
+  priority: '0'
+  rate: '5.25'
+  shipping: '1'
+  state: ND
+wootax/22252:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '58228'
+    location_type: postcode
+  name: EMERADO
+  order: '0'
+  priority: '0'
+  rate: '5'
+  shipping: '1'
+  state: ND
+wootax/22253:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '58229'
+    location_type: postcode
+  name: WALSH COUNTY
+  order: '0'
+  priority: '0'
+  rate: '5.25'
+  shipping: '1'
+  state: ND
+wootax/22254:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '58230'
+    location_type: postcode
+  name: FINLEY
+  order: '0'
+  priority: '0'
+  rate: '8'
+  shipping: '1'
+  state: ND
+wootax/22255:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '58231'
+    location_type: postcode
+  name: 'FORDVILLE '
+  order: '0'
+  priority: '0'
+  rate: '5.25'
+  shipping: '1'
+  state: ND
+wootax/22256:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '58233'
+    location_type: postcode
+  name: WALSH COUNTY
+  order: '0'
+  priority: '0'
+  rate: '5.25'
+  shipping: '1'
+  state: ND
+wootax/22257:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '58235'
+    location_type: postcode
+  name: GRAND FORKS
+  order: '0'
+  priority: '0'
+  rate: '5'
+  shipping: '1'
+  state: ND
+wootax/22258:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '58236'
+    location_type: postcode
+  name: PEMBINA
+  order: '0'
+  priority: '0'
+  rate: '5'
+  shipping: '1'
+  state: ND
+wootax/22259:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '58237'
+    location_type: postcode
+  name: GRAFTON
+  order: '0'
+  priority: '0'
+  rate: '7.75'
+  shipping: '1'
+  state: ND
+wootax/22260:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '58238'
+    location_type: postcode
+  name: PEMBINA
+  order: '0'
+  priority: '0'
+  rate: '5'
+  shipping: '1'
+  state: ND
+wootax/22261:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '58239'
+    location_type: postcode
+  name: CAVALIER
+  order: '0'
+  priority: '0'
+  rate: '5'
+  shipping: '1'
+  state: ND
+wootax/22262:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '58240'
+    location_type: postcode
+  name: HATTON
+  order: '0'
+  priority: '0'
+  rate: '7.5'
+  shipping: '1'
+  state: ND
+wootax/22263:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '58241'
+    location_type: postcode
+  name: PEMBINA
+  order: '0'
+  priority: '0'
+  rate: '5'
+  shipping: '1'
+  state: ND
+wootax/22264:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '58243'
+    location_type: postcode
+  name: WALSH COUNTY
+  order: '0'
+  priority: '0'
+  rate: '5.25'
+  shipping: '1'
+  state: ND
+wootax/22265:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '58244'
+    location_type: postcode
+  name: INKSTER
+  order: '0'
+  priority: '0'
+  rate: '5'
+  shipping: '1'
+  state: ND
+wootax/22266:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '58249'
+    location_type: postcode
+  name: LANGDON
+  order: '0'
+  priority: '0'
+  rate: '7'
+  shipping: '1'
+  state: ND
+wootax/22267:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '58250'
+    location_type: postcode
+  name: WALSH COUNTY
+  order: '0'
+  priority: '0'
+  rate: '5.25'
+  shipping: '1'
+  state: ND
+wootax/22268:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '58251'
+    location_type: postcode
+  name: GRAND FORKS
+  order: '0'
+  priority: '0'
+  rate: '5'
+  shipping: '1'
+  state: ND
+wootax/22269:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '58254'
+    location_type: postcode
+  name: NELSON
+  order: '0'
+  priority: '0'
+  rate: '5'
+  shipping: '1'
+  state: ND
+wootax/22270:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '58255'
+    location_type: postcode
+  name: CAVALIER
+  order: '0'
+  priority: '0'
+  rate: '5'
+  shipping: '1'
+  state: ND
+wootax/22271:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '58256'
+    location_type: postcode
+  name: GRAND FORKS
+  order: '0'
+  priority: '0'
+  rate: '5'
+  shipping: '1'
+  state: ND
+wootax/22272:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '58257'
+    location_type: postcode
+  name: MAYVILLE
+  order: '0'
+  priority: '0'
+  rate: '7'
+  shipping: '1'
+  state: ND
+wootax/22273:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '58258'
+    location_type: postcode
+  name: GRAND FORKS
+  order: '0'
+  priority: '0'
+  rate: '5'
+  shipping: '1'
+  state: ND
+wootax/22274:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '58259'
+    location_type: postcode
+  name: NELSON
+  order: '0'
+  priority: '0'
+  rate: '5'
+  shipping: '1'
+  state: ND
+wootax/22275:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '58260'
+    location_type: postcode
+  name: CAVALIER
+  order: '0'
+  priority: '0'
+  rate: '5'
+  shipping: '1'
+  state: ND
+wootax/22276:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '58261'
+    location_type: postcode
+  name: WALSH COUNTY
+  order: '0'
+  priority: '0'
+  rate: '5.25'
+  shipping: '1'
+  state: ND
+wootax/22277:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '58262'
+    location_type: postcode
+  name: 'MOUNTAIN '
+  order: '0'
+  priority: '0'
+  rate: '5'
+  shipping: '1'
+  state: ND
+wootax/22278:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '58265'
+    location_type: postcode
+  name: NECHE
+  order: '0'
+  priority: '0'
+  rate: '7'
+  shipping: '1'
+  state: ND
+wootax/22279:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '58266'
+    location_type: postcode
+  name: GRAND FORKS
+  order: '0'
+  priority: '0'
+  rate: '5'
+  shipping: '1'
+  state: ND
+wootax/22280:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '58267'
+    location_type: postcode
+  name: GRAND FORKS
+  order: '0'
+  priority: '0'
+  rate: '5'
+  shipping: '1'
+  state: ND
+wootax/22281:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '58269'
+    location_type: postcode
+  name: CAVALIER
+  order: '0'
+  priority: '0'
+  rate: '5'
+  shipping: '1'
+  state: ND
+wootax/22282:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '58270'
+    location_type: postcode
+  name: PARK RIVER
+  order: '0'
+  priority: '0'
+  rate: '7.25'
+  shipping: '1'
+  state: ND
+wootax/22283:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '58271'
+    location_type: postcode
+  name: PEMBINA
+  order: '0'
+  priority: '0'
+  rate: '7.5'
+  shipping: '1'
+  state: ND
+wootax/22284:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '58272'
+    location_type: postcode
+  name: NELSON
+  order: '0'
+  priority: '0'
+  rate: '5'
+  shipping: '1'
+  state: ND
+wootax/22285:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '58273'
+    location_type: postcode
+  name: WALSH COUNTY
+  order: '0'
+  priority: '0'
+  rate: '5.25'
+  shipping: '1'
+  state: ND
+wootax/22286:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '58274'
+    location_type: postcode
+  name: PORTLAND
+  order: '0'
+  priority: '0'
+  rate: '7'
+  shipping: '1'
+  state: ND
+wootax/22287:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '58275'
+    location_type: postcode
+  name: GRAND FORKS
+  order: '0'
+  priority: '0'
+  rate: '5'
+  shipping: '1'
+  state: ND
+wootax/22288:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '58276'
+    location_type: postcode
+  name: SAINT THOMAS
+  order: '0'
+  priority: '0'
+  rate: '5'
+  shipping: '1'
+  state: ND
+wootax/22289:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '58277'
+    location_type: postcode
+  name: SHARON
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: ND
+wootax/22290:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '58278'
+    location_type: postcode
+  name: GRAND FORKS
+  order: '0'
+  priority: '0'
+  rate: '5'
+  shipping: '1'
+  state: ND
+wootax/22291:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '58281'
+    location_type: postcode
+  name: CAVALIER
+  order: '0'
+  priority: '0'
+  rate: '5'
+  shipping: '1'
+  state: ND
+wootax/22292:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '58282'
+    location_type: postcode
+  name: WALHALLA
+  order: '0'
+  priority: '0'
+  rate: '7'
+  shipping: '1'
+  state: ND
+wootax/22293:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '58301'
+    location_type: postcode
+  name: DEVILS LAKE
+  order: '0'
+  priority: '0'
+  rate: '7.25'
+  shipping: '1'
+  state: ND
+wootax/22294:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '58310'
+    location_type: postcode
+  name: ROLETTE
+  order: '0'
+  priority: '0'
+  rate: '5'
+  shipping: '1'
+  state: ND
+wootax/22295:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '58311'
+    location_type: postcode
+  name: CAVALIER
+  order: '0'
+  priority: '0'
+  rate: '5'
+  shipping: '1'
+  state: ND
+wootax/22296:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '58313'
+    location_type: postcode
+  name: BALTA
+  order: '0'
+  priority: '0'
+  rate: '5'
+  shipping: '1'
+  state: ND
+wootax/22297:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '58316'
+    location_type: postcode
+  name: ROLETTE
+  order: '0'
+  priority: '0'
+  rate: '5'
+  shipping: '1'
+  state: ND
+wootax/22298:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '58317'
+    location_type: postcode
+  name: TOWNER
+  order: '0'
+  priority: '0'
+  rate: '5'
+  shipping: '1'
+  state: ND
+wootax/22299:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '58318'
+    location_type: postcode
+  name: BOTTINEAU
+  order: '0'
+  priority: '0'
+  rate: '7'
+  shipping: '1'
+  state: ND
+wootax/22300:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '58321'
+    location_type: postcode
+  name: RAMSEY
+  order: '0'
+  priority: '0'
+  rate: '5'
+  shipping: '1'
+  state: ND
+wootax/22301:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '58323'
+    location_type: postcode
+  name: CAVALIER
+  order: '0'
+  priority: '0'
+  rate: '5'
+  shipping: '1'
+  state: ND
+wootax/22302:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '58324'
+    location_type: postcode
+  name: CANDO
+  order: '0'
+  priority: '0'
+  rate: '7'
+  shipping: '1'
+  state: ND
+wootax/22303:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '58325'
+    location_type: postcode
+  name: RAMSEY
+  order: '0'
+  priority: '0'
+  rate: '5'
+  shipping: '1'
+  state: ND
+wootax/22304:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '58327'
+    location_type: postcode
+  name: RAMSEY
+  order: '0'
+  priority: '0'
+  rate: '5'
+  shipping: '1'
+  state: ND
+wootax/22305:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '58329'
+    location_type: postcode
+  name: DUNSEITH
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: ND
+wootax/22306:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '58330'
+    location_type: postcode
+  name: RAMSEY
+  order: '0'
+  priority: '0'
+  rate: '5'
+  shipping: '1'
+  state: ND
+wootax/22307:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '58331'
+    location_type: postcode
+  name: TOWNER
+  order: '0'
+  priority: '0'
+  rate: '5'
+  shipping: '1'
+  state: ND
+wootax/22308:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '58332'
+    location_type: postcode
+  name: 'BENSON '
+  order: '0'
+  priority: '0'
+  rate: '5'
+  shipping: '1'
+  state: ND
+wootax/22309:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '58335'
+    location_type: postcode
+  name: 'BENSON '
+  order: '0'
+  priority: '0'
+  rate: '5'
+  shipping: '1'
+  state: ND
+wootax/22310:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '58338'
+    location_type: postcode
+  name: RAMSEY
+  order: '0'
+  priority: '0'
+  rate: '5'
+  shipping: '1'
+  state: ND
+wootax/22311:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '58339'
+    location_type: postcode
+  name: HANSBORO
+  order: '0'
+  priority: '0'
+  rate: '5'
+  shipping: '1'
+  state: ND
+wootax/22312:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '58341'
+    location_type: postcode
+  name: HARVEY
+  order: '0'
+  priority: '0'
+  rate: '7'
+  shipping: '1'
+  state: ND
+wootax/22313:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '58343'
+    location_type: postcode
+  name: 'BENSON '
+  order: '0'
+  priority: '0'
+  rate: '5'
+  shipping: '1'
+  state: ND
+wootax/22314:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '58344'
+    location_type: postcode
+  name: LAKOTA
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: ND
+wootax/22315:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '58345'
+    location_type: postcode
+  name: RAMSEY
+  order: '0'
+  priority: '0'
+  rate: '5'
+  shipping: '1'
+  state: ND
+wootax/22316:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '58346'
+    location_type: postcode
+  name: 'BENSON '
+  order: '0'
+  priority: '0'
+  rate: '5'
+  shipping: '1'
+  state: ND
+wootax/22317:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '58348'
+    location_type: postcode
+  name: 'BENSON '
+  order: '0'
+  priority: '0'
+  rate: '5'
+  shipping: '1'
+  state: ND
+wootax/22318:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '58351'
+    location_type: postcode
+  name: 'BENSON '
+  order: '0'
+  priority: '0'
+  rate: '5'
+  shipping: '1'
+  state: ND
+wootax/22319:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '58352'
+    location_type: postcode
+  name: CAVALIER
+  order: '0'
+  priority: '0'
+  rate: '5'
+  shipping: '1'
+  state: ND
+wootax/22320:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '58353'
+    location_type: postcode
+  name: ROLETTE
+  order: '0'
+  priority: '0'
+  rate: '5'
+  shipping: '1'
+  state: ND
+wootax/22321:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '58355'
+    location_type: postcode
+  name: NEKOMA
+  order: '0'
+  priority: '0'
+  rate: '5'
+  shipping: '1'
+  state: ND
+wootax/22322:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '58356'
+    location_type: postcode
+  name: NEW ROCKFORD
+  order: '0'
+  priority: '0'
+  rate: '7.5'
+  shipping: '1'
+  state: ND
+wootax/22323:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '58357'
+    location_type: postcode
+  name: 'BENSON '
+  order: '0'
+  priority: '0'
+  rate: '5'
+  shipping: '1'
+  state: ND
+wootax/22324:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '58361'
+    location_type: postcode
+  name: NELSON
+  order: '0'
+  priority: '0'
+  rate: '5'
+  shipping: '1'
+  state: ND
+wootax/22325:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '58362'
+    location_type: postcode
+  name: RAMSEY
+  order: '0'
+  priority: '0'
+  rate: '5'
+  shipping: '1'
+  state: ND
+wootax/22326:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '58363'
+    location_type: postcode
+  name: TOWNER
+  order: '0'
+  priority: '0'
+  rate: '5'
+  shipping: '1'
+  state: ND
+wootax/22327:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '58365'
+    location_type: postcode
+  name: TOWNER
+  order: '0'
+  priority: '0'
+  rate: '5'
+  shipping: '1'
+  state: ND
+wootax/22328:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '58366'
+    location_type: postcode
+  name: ROLETTE
+  order: '0'
+  priority: '0'
+  rate: '7'
+  shipping: '1'
+  state: ND
+wootax/22329:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '58367'
+    location_type: postcode
+  name: ROLLA
+  order: '0'
+  priority: '0'
+  rate: '7'
+  shipping: '1'
+  state: ND
+wootax/22330:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '58368'
+    location_type: postcode
+  name: RUGBY
+  order: '0'
+  priority: '0'
+  rate: '7'
+  shipping: '1'
+  state: ND
+wootax/22331:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '58369'
+    location_type: postcode
+  name: ROLETTE
+  order: '0'
+  priority: '0'
+  rate: '5'
+  shipping: '1'
+  state: ND
+wootax/22332:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '58370'
+    location_type: postcode
+  name: 'BENSON '
+  order: '0'
+  priority: '0'
+  rate: '5'
+  shipping: '1'
+  state: ND
+wootax/22333:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '58372'
+    location_type: postcode
+  name: CAVALIER
+  order: '0'
+  priority: '0'
+  rate: '5'
+  shipping: '1'
+  state: ND
+wootax/22334:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '58374'
+    location_type: postcode
+  name: EDDY
+  order: '0'
+  priority: '0'
+  rate: '5'
+  shipping: '1'
+  state: ND
+wootax/22335:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '58377'
+    location_type: postcode
+  name: RAMSEY
+  order: '0'
+  priority: '0'
+  rate: '5'
+  shipping: '1'
+  state: ND
+wootax/22336:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '58379'
+    location_type: postcode
+  name: 'BENSON '
+  order: '0'
+  priority: '0'
+  rate: '5'
+  shipping: '1'
+  state: ND
+wootax/22337:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '58380'
+    location_type: postcode
+  name: NELSON
+  order: '0'
+  priority: '0'
+  rate: '5'
+  shipping: '1'
+  state: ND
+wootax/22338:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '58381'
+    location_type: postcode
+  name: EDDY
+  order: '0'
+  priority: '0'
+  rate: '5'
+  shipping: '1'
+  state: ND
+wootax/22339:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '58382'
+    location_type: postcode
+  name: RAMSEY
+  order: '0'
+  priority: '0'
+  rate: '5'
+  shipping: '1'
+  state: ND
+wootax/22340:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '58384'
+    location_type: postcode
+  name: BOTTINEAU
+  order: '0'
+  priority: '0'
+  rate: '5'
+  shipping: '1'
+  state: ND
+wootax/22341:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '58385'
+    location_type: postcode
+  name: PIERCE
+  order: '0'
+  priority: '0'
+  rate: '5'
+  shipping: '1'
+  state: ND
+wootax/22342:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '58386'
+    location_type: postcode
+  name: 'BENSON '
+  order: '0'
+  priority: '0'
+  rate: '5'
+  shipping: '1'
+  state: ND
+wootax/22343:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '58401'
+    location_type: postcode
+  name: JAMESTOWN
+  order: '0'
+  priority: '0'
+  rate: '7'
+  shipping: '1'
+  state: ND
+wootax/22344:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '58402'
+    location_type: postcode
+  name: JAMESTOWN
+  order: '0'
+  priority: '0'
+  rate: '7'
+  shipping: '1'
+  state: ND
+wootax/22345:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '58405'
+    location_type: postcode
+  name: JAMESTOWN
+  order: '0'
+  priority: '0'
+  rate: '7'
+  shipping: '1'
+  state: ND
+wootax/22346:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '58413'
+    location_type: postcode
+  name: ASHLEY
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: ND
+wootax/22347:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '58415'
+    location_type: postcode
+  name: LAMOURE
+  order: '0'
+  priority: '0'
+  rate: '5'
+  shipping: '1'
+  state: ND
+wootax/22348:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '58416'
+    location_type: postcode
+  name: GRIGGS
+  order: '0'
+  priority: '0'
+  rate: '5'
+  shipping: '1'
+  state: ND
+wootax/22349:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '58418'
+    location_type: postcode
+  name: WELLS
+  order: '0'
+  priority: '0'
+  rate: '5'
+  shipping: '1'
+  state: ND
+wootax/22350:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '58420'
+    location_type: postcode
+  name: STUTSMAN
+  order: '0'
+  priority: '0'
+  rate: '5'
+  shipping: '1'
+  state: ND
+wootax/22351:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '58421'
+    location_type: postcode
+  name: CARRINGTON
+  order: '0'
+  priority: '0'
+  rate: '7'
+  shipping: '1'
+  state: ND
+wootax/22352:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '58422'
+    location_type: postcode
+  name: WELLS
+  order: '0'
+  priority: '0'
+  rate: '5'
+  shipping: '1'
+  state: ND
+wootax/22353:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '58423'
+    location_type: postcode
+  name: WELLS
+  order: '0'
+  priority: '0'
+  rate: '5'
+  shipping: '1'
+  state: ND
+wootax/22354:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '58424'
+    location_type: postcode
+  name: STUTSMAN
+  order: '0'
+  priority: '0'
+  rate: '5'
+  shipping: '1'
+  state: ND
+wootax/22355:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '58425'
+    location_type: postcode
+  name: COOPERSTOWN
+  order: '0'
+  priority: '0'
+  rate: '6.5'
+  shipping: '1'
+  state: ND
+wootax/22356:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '58426'
+    location_type: postcode
+  name: STUTSMAN
+  order: '0'
+  priority: '0'
+  rate: '5'
+  shipping: '1'
+  state: ND
+wootax/22357:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '58428'
+    location_type: postcode
+  name: KIDDER
+  order: '0'
+  priority: '0'
+  rate: '5'
+  shipping: '1'
+  state: ND
+wootax/22358:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '58429'
+    location_type: postcode
+  name: 'BARNES '
+  order: '0'
+  priority: '0'
+  rate: '5'
+  shipping: '1'
+  state: ND
+wootax/22359:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '58430'
+    location_type: postcode
+  name: SHERIDAN
+  order: '0'
+  priority: '0'
+  rate: '5'
+  shipping: '1'
+  state: ND
+wootax/22360:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '58431'
+    location_type: postcode
+  name: LAMOURE
+  order: '0'
+  priority: '0'
+  rate: '5'
+  shipping: '1'
+  state: ND
+wootax/22361:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '58433'
+    location_type: postcode
+  name: LAMOURE
+  order: '0'
+  priority: '0'
+  rate: '5'
+  shipping: '1'
+  state: ND
+wootax/22362:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '58436'
+    location_type: postcode
+  name: ELLENDALE
+  order: '0'
+  priority: '0'
+  rate: '7'
+  shipping: '1'
+  state: ND
+wootax/22363:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '58438'
+    location_type: postcode
+  name: FESSENDEN
+  order: '0'
+  priority: '0'
+  rate: '7'
+  shipping: '1'
+  state: ND
+wootax/22364:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '58439'
+    location_type: postcode
+  name: DICKEY
+  order: '0'
+  priority: '0'
+  rate: '5'
+  shipping: '1'
+  state: ND
+wootax/22365:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '58440'
+    location_type: postcode
+  name: LOGAN
+  order: '0'
+  priority: '0'
+  rate: '5'
+  shipping: '1'
+  state: ND
+wootax/22366:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '58441'
+    location_type: postcode
+  name: DICKEY
+  order: '0'
+  priority: '0'
+  rate: '5'
+  shipping: '1'
+  state: ND
+wootax/22367:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '58442'
+    location_type: postcode
+  name: GACKLE
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: ND
+wootax/22368:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '58443'
+    location_type: postcode
+  name: FOSTER
+  order: '0'
+  priority: '0'
+  rate: '5'
+  shipping: '1'
+  state: ND
+wootax/22369:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '58444'
+    location_type: postcode
+  name: SHERIDAN
+  order: '0'
+  priority: '0'
+  rate: '5'
+  shipping: '1'
+  state: ND
+wootax/22370:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '58445'
+    location_type: postcode
+  name: FOSTER
+  order: '0'
+  priority: '0'
+  rate: '5'
+  shipping: '1'
+  state: ND
+wootax/22371:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '58448'
+    location_type: postcode
+  name: GRIGGS
+  order: '0'
+  priority: '0'
+  rate: '5'
+  shipping: '1'
+  state: ND
+wootax/22372:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '58451'
+    location_type: postcode
+  name: WELLS
+  order: '0'
+  priority: '0'
+  rate: '5'
+  shipping: '1'
+  state: ND
+wootax/22373:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '58452'
+    location_type: postcode
+  name: GRIGGS
+  order: '0'
+  priority: '0'
+  rate: '5'
+  shipping: '1'
+  state: ND
+wootax/22374:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '58454'
+    location_type: postcode
+  name: LAMOURE
+  order: '0'
+  priority: '0'
+  rate: '5'
+  shipping: '1'
+  state: ND
+wootax/22375:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '58455'
+    location_type: postcode
+  name: KENSAL
+  order: '0'
+  priority: '0'
+  rate: '5'
+  shipping: '1'
+  state: ND
+wootax/22376:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '58456'
+    location_type: postcode
+  name: KULM
+  order: '0'
+  priority: '0'
+  rate: '7'
+  shipping: '1'
+  state: ND
+wootax/22377:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '58458'
+    location_type: postcode
+  name: LAMOURE
+  order: '0'
+  priority: '0'
+  rate: '7'
+  shipping: '1'
+  state: ND
+wootax/22378:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '58460'
+    location_type: postcode
+  name: MCINTOSH
+  order: '0'
+  priority: '0'
+  rate: '5'
+  shipping: '1'
+  state: ND
+wootax/22379:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '58461'
+    location_type: postcode
+  name: 'BARNES '
+  order: '0'
+  priority: '0'
+  rate: '5'
+  shipping: '1'
+  state: ND
+wootax/22380:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '58463'
+    location_type: postcode
+  name: SHERIDAN
+  order: '0'
+  priority: '0'
+  rate: '5'
+  shipping: '1'
+  state: ND
+wootax/22381:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '58464'
+    location_type: postcode
+  name: FOSTER
+  order: '0'
+  priority: '0'
+  rate: '5'
+  shipping: '1'
+  state: ND
+wootax/22382:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '58466'
+    location_type: postcode
+  name: LAMOURE
+  order: '0'
+  priority: '0'
+  rate: '5'
+  shipping: '1'
+  state: ND
+wootax/22383:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '58467'
+    location_type: postcode
+  name: STUTSMAN
+  order: '0'
+  priority: '0'
+  rate: '5'
+  shipping: '1'
+  state: ND
+wootax/22384:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '58472'
+    location_type: postcode
+  name: STUTSMAN
+  order: '0'
+  priority: '0'
+  rate: '5'
+  shipping: '1'
+  state: ND
+wootax/22385:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '58474'
+    location_type: postcode
+  name: OAKES
+  order: '0'
+  priority: '0'
+  rate: '7'
+  shipping: '1'
+  state: ND
+wootax/22386:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '58475'
+    location_type: postcode
+  name: KIDDER
+  order: '0'
+  priority: '0'
+  rate: '5'
+  shipping: '1'
+  state: ND
+wootax/22387:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '58476'
+    location_type: postcode
+  name: STUTSMAN
+  order: '0'
+  priority: '0'
+  rate: '5'
+  shipping: '1'
+  state: ND
+wootax/22388:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '58477'
+    location_type: postcode
+  name: BURLEIGH CO
+  order: '0'
+  priority: '0'
+  rate: '5.5'
+  shipping: '1'
+  state: ND
+wootax/22389:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '58478'
+    location_type: postcode
+  name: KIDDER
+  order: '0'
+  priority: '0'
+  rate: '5'
+  shipping: '1'
+  state: ND
+wootax/22390:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '58479'
+    location_type: postcode
+  name: 'BARNES '
+  order: '0'
+  priority: '0'
+  rate: '5'
+  shipping: '1'
+  state: ND
+wootax/22391:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '58480'
+    location_type: postcode
+  name: 'BARNES '
+  order: '0'
+  priority: '0'
+  rate: '5'
+  shipping: '1'
+  state: ND
+wootax/22392:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '58481'
+    location_type: postcode
+  name: 'BARNES '
+  order: '0'
+  priority: '0'
+  rate: '5'
+  shipping: '1'
+  state: ND
+wootax/22393:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '58482'
+    location_type: postcode
+  name: STEELE
+  order: '0'
+  priority: '0'
+  rate: '7'
+  shipping: '1'
+  state: ND
+wootax/22394:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '58483'
+    location_type: postcode
+  name: STREETER
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: ND
+wootax/22395:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '58484'
+    location_type: postcode
+  name: GRIGGS
+  order: '0'
+  priority: '0'
+  rate: '5'
+  shipping: '1'
+  state: ND
+wootax/22396:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '58486'
+    location_type: postcode
+  name: WELLS
+  order: '0'
+  priority: '0'
+  rate: '5'
+  shipping: '1'
+  state: ND
+wootax/22397:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '58487'
+    location_type: postcode
+  name: KIDDER
+  order: '0'
+  priority: '0'
+  rate: '5'
+  shipping: '1'
+  state: ND
+wootax/22398:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '58488'
+    location_type: postcode
+  name: KIDDER
+  order: '0'
+  priority: '0'
+  rate: '5'
+  shipping: '1'
+  state: ND
+wootax/22399:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '58490'
+    location_type: postcode
+  name: LAMOURE
+  order: '0'
+  priority: '0'
+  rate: '5'
+  shipping: '1'
+  state: ND
+wootax/22400:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '58492'
+    location_type: postcode
+  name: 'BARNES '
+  order: '0'
+  priority: '0'
+  rate: '5'
+  shipping: '1'
+  state: ND
+wootax/22401:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '58494'
+    location_type: postcode
+  name: BURLEIGH CO
+  order: '0'
+  priority: '0'
+  rate: '5.5'
+  shipping: '1'
+  state: ND
+wootax/22402:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '58495'
+    location_type: postcode
+  name: WISHEK
+  order: '0'
+  priority: '0'
+  rate: '6.5'
+  shipping: '1'
+  state: ND
+wootax/22403:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '58496'
+    location_type: postcode
+  name: STUTSMAN
+  order: '0'
+  priority: '0'
+  rate: '5'
+  shipping: '1'
+  state: ND
+wootax/22404:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '58497'
+    location_type: postcode
+  name: STUTSMAN
+  order: '0'
+  priority: '0'
+  rate: '5'
+  shipping: '1'
+  state: ND
+wootax/22405:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '58501'
+    location_type: postcode
+  name: BISMARCK
+  order: '0'
+  priority: '0'
+  rate: '7'
+  shipping: '1'
+  state: ND
+wootax/22406:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '58502'
+    location_type: postcode
+  name: BISMARCK
+  order: '0'
+  priority: '0'
+  rate: '7'
+  shipping: '1'
+  state: ND
+wootax/22407:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '58503'
+    location_type: postcode
+  name: BISMARCK
+  order: '0'
+  priority: '0'
+  rate: '7'
+  shipping: '1'
+  state: ND
+wootax/22408:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '58504'
+    location_type: postcode
+  name: BISMARCK
+  order: '0'
+  priority: '0'
+  rate: '7'
+  shipping: '1'
+  state: ND
+wootax/22409:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '58505'
+    location_type: postcode
+  name: BISMARCK
+  order: '0'
+  priority: '0'
+  rate: '7'
+  shipping: '1'
+  state: ND
+wootax/22410:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '58506'
+    location_type: postcode
+  name: BISMARCK
+  order: '0'
+  priority: '0'
+  rate: '7'
+  shipping: '1'
+  state: ND
+wootax/22411:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '58507'
+    location_type: postcode
+  name: BISMARCK
+  order: '0'
+  priority: '0'
+  rate: '7'
+  shipping: '1'
+  state: ND
+wootax/22412:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '58520'
+    location_type: postcode
+  name: MORTON CO
+  order: '0'
+  priority: '0'
+  rate: '5.5'
+  shipping: '1'
+  state: ND
+wootax/22413:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '58521'
+    location_type: postcode
+  name: BURLEIGH CO
+  order: '0'
+  priority: '0'
+  rate: '5.5'
+  shipping: '1'
+  state: ND
+wootax/22414:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '58523'
+    location_type: postcode
+  name: BEULAH
+  order: '0'
+  priority: '0'
+  rate: '7'
+  shipping: '1'
+  state: ND
+wootax/22415:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '58524'
+    location_type: postcode
+  name: EMMONS
+  order: '0'
+  priority: '0'
+  rate: '5'
+  shipping: '1'
+  state: ND
+wootax/22416:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '58528'
+    location_type: postcode
+  name: SIOUX
+  order: '0'
+  priority: '0'
+  rate: '5'
+  shipping: '1'
+  state: ND
+wootax/22417:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '58529'
+    location_type: postcode
+  name: GRANT
+  order: '0'
+  priority: '0'
+  rate: '5'
+  shipping: '1'
+  state: ND
+wootax/22418:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '58530'
+    location_type: postcode
+  name: 'OLIVER '
+  order: '0'
+  priority: '0'
+  rate: '5'
+  shipping: '1'
+  state: ND
+wootax/22419:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '58531'
+    location_type: postcode
+  name: MCLEAN
+  order: '0'
+  priority: '0'
+  rate: '5'
+  shipping: '1'
+  state: ND
+wootax/22420:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '58532'
+    location_type: postcode
+  name: BURLEIGH CO
+  order: '0'
+  priority: '0'
+  rate: '5.5'
+  shipping: '1'
+  state: ND
+wootax/22421:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '58533'
+    location_type: postcode
+  name: ELGIN
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: ND
+wootax/22422:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '58535'
+    location_type: postcode
+  name: FLASHER
+  order: '0'
+  priority: '0'
+  rate: '5.5'
+  shipping: '1'
+  state: ND
+wootax/22423:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '58538'
+    location_type: postcode
+  name: SIOUX
+  order: '0'
+  priority: '0'
+  rate: '5'
+  shipping: '1'
+  state: ND
+wootax/22424:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '58540'
+    location_type: postcode
+  name: MCLEAN
+  order: '0'
+  priority: '0'
+  rate: '5'
+  shipping: '1'
+  state: ND
+wootax/22425:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '58541'
+    location_type: postcode
+  name: MERCER
+  order: '0'
+  priority: '0'
+  rate: '5'
+  shipping: '1'
+  state: ND
+wootax/22426:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '58542'
+    location_type: postcode
+  name: EMMONS
+  order: '0'
+  priority: '0'
+  rate: '5'
+  shipping: '1'
+  state: ND
+wootax/22427:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '58544'
+    location_type: postcode
+  name: EMMONS
+  order: '0'
+  priority: '0'
+  rate: '5'
+  shipping: '1'
+  state: ND
+wootax/22428:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '58545'
+    location_type: postcode
+  name: HAZEN
+  order: '0'
+  priority: '0'
+  rate: '6.5'
+  shipping: '1'
+  state: ND
+wootax/22429:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '58549'
+    location_type: postcode
+  name: EMMONS
+  order: '0'
+  priority: '0'
+  rate: '5'
+  shipping: '1'
+  state: ND
+wootax/22430:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '58552'
+    location_type: postcode
+  name: LINTON
+  order: '0'
+  priority: '0'
+  rate: '7'
+  shipping: '1'
+  state: ND
+wootax/22431:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '58554'
+    location_type: postcode
+  name: MANDAN
+  order: '0'
+  priority: '0'
+  rate: '7.25'
+  shipping: '1'
+  state: ND
+wootax/22432:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '58558'
+    location_type: postcode
+  name: BURLEIGH CO
+  order: '0'
+  priority: '0'
+  rate: '5.5'
+  shipping: '1'
+  state: ND
+wootax/22433:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '58559'
+    location_type: postcode
+  name: MCLEAN
+  order: '0'
+  priority: '0'
+  rate: '5'
+  shipping: '1'
+  state: ND
+wootax/22434:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '58560'
+    location_type: postcode
+  name: BURLEIGH CO
+  order: '0'
+  priority: '0'
+  rate: '5.5'
+  shipping: '1'
+  state: ND
+wootax/22435:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '58561'
+    location_type: postcode
+  name: NAPOLEON
+  order: '0'
+  priority: '0'
+  rate: '7'
+  shipping: '1'
+  state: ND
+wootax/22436:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '58562'
+    location_type: postcode
+  name: GRANT
+  order: '0'
+  priority: '0'
+  rate: '5'
+  shipping: '1'
+  state: ND
+wootax/22437:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '58563'
+    location_type: postcode
+  name: MORTON CO
+  order: '0'
+  priority: '0'
+  rate: '5.5'
+  shipping: '1'
+  state: ND
+wootax/22438:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '58564'
+    location_type: postcode
+  name: GRANT
+  order: '0'
+  priority: '0'
+  rate: '5'
+  shipping: '1'
+  state: ND
+wootax/22439:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '58565'
+    location_type: postcode
+  name: RIVERDALE
+  order: '0'
+  priority: '0'
+  rate: '5'
+  shipping: '1'
+  state: ND
+wootax/22440:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '58566'
+    location_type: postcode
+  name: MORTON CO
+  order: '0'
+  priority: '0'
+  rate: '5.5'
+  shipping: '1'
+  state: ND
+wootax/22441:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '58568'
+    location_type: postcode
+  name: SIOUX
+  order: '0'
+  priority: '0'
+  rate: '5'
+  shipping: '1'
+  state: ND
+wootax/22442:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '58569'
+    location_type: postcode
+  name: GRANT
+  order: '0'
+  priority: '0'
+  rate: '5'
+  shipping: '1'
+  state: ND
+wootax/22443:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '58570'
+    location_type: postcode
+  name: MORTON CO
+  order: '0'
+  priority: '0'
+  rate: '5.5'
+  shipping: '1'
+  state: ND
+wootax/22444:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '58571'
+    location_type: postcode
+  name: STANTON
+  order: '0'
+  priority: '0'
+  rate: '5'
+  shipping: '1'
+  state: ND
+wootax/22445:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '58572'
+    location_type: postcode
+  name: BURLEIGH CO
+  order: '0'
+  priority: '0'
+  rate: '5.5'
+  shipping: '1'
+  state: ND
+wootax/22446:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '58573'
+    location_type: postcode
+  name: STRASBURG
+  order: '0'
+  priority: '0'
+  rate: '7'
+  shipping: '1'
+  state: ND
+wootax/22447:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '58575'
+    location_type: postcode
+  name: MCLEAN
+  order: '0'
+  priority: '0'
+  rate: '5'
+  shipping: '1'
+  state: ND
+wootax/22448:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '58576'
+    location_type: postcode
+  name: UNDERWOOD
+  order: '0'
+  priority: '0'
+  rate: '7'
+  shipping: '1'
+  state: ND
+wootax/22449:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '58577'
+    location_type: postcode
+  name: WASHBURN
+  order: '0'
+  priority: '0'
+  rate: '7'
+  shipping: '1'
+  state: ND
+wootax/22450:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '58579'
+    location_type: postcode
+  name: WILTON
+  order: '0'
+  priority: '0'
+  rate: '7'
+  shipping: '1'
+  state: ND
+wootax/22451:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '58580'
+    location_type: postcode
+  name: MERCER
+  order: '0'
+  priority: '0'
+  rate: '5'
+  shipping: '1'
+  state: ND
+wootax/22452:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '58581'
+    location_type: postcode
+  name: MCINTOSH
+  order: '0'
+  priority: '0'
+  rate: '5'
+  shipping: '1'
+  state: ND
+wootax/22453:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '58601'
+    location_type: postcode
+  name: DICKINSON
+  order: '0'
+  priority: '0'
+  rate: '6.5'
+  shipping: '1'
+  state: ND
+wootax/22454:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '58602'
+    location_type: postcode
+  name: DICKINSON
+  order: '0'
+  priority: '0'
+  rate: '6.5'
+  shipping: '1'
+  state: ND
+wootax/22455:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '58620'
+    location_type: postcode
+  name: SLOPE
+  order: '0'
+  priority: '0'
+  rate: '5'
+  shipping: '1'
+  state: ND
+wootax/22456:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '58621'
+    location_type: postcode
+  name: BEACH
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: ND
+wootax/22457:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '58622'
+    location_type: postcode
+  name: BELFIELD
+  order: '0'
+  priority: '0'
+  rate: '7'
+  shipping: '1'
+  state: ND
+wootax/22458:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '58623'
+    location_type: postcode
+  name: BOWMAN
+  order: '0'
+  priority: '0'
+  rate: '7'
+  shipping: '1'
+  state: ND
+wootax/22459:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '58625'
+    location_type: postcode
+  name: 'DUNN '
+  order: '0'
+  priority: '0'
+  rate: '5'
+  shipping: '1'
+  state: ND
+wootax/22460:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '58626'
+    location_type: postcode
+  name: DUNN CENTER
+  order: '0'
+  priority: '0'
+  rate: '5'
+  shipping: '1'
+  state: ND
+wootax/22461:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '58627'
+    location_type: postcode
+  name: BILLINGS
+  order: '0'
+  priority: '0'
+  rate: '5'
+  shipping: '1'
+  state: ND
+wootax/22462:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '58630'
+    location_type: postcode
+  name: STARK
+  order: '0'
+  priority: '0'
+  rate: '5'
+  shipping: '1'
+  state: ND
+wootax/22463:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '58631'
+    location_type: postcode
+  name: GLEN ULLIN
+  order: '0'
+  priority: '0'
+  rate: '6.5'
+  shipping: '1'
+  state: ND
+wootax/22464:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '58632'
+    location_type: postcode
+  name: GOLDEN VALLEY
+  order: '0'
+  priority: '0'
+  rate: '5'
+  shipping: '1'
+  state: ND
+wootax/22465:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '58634'
+    location_type: postcode
+  name: MCKENZIE
+  order: '0'
+  priority: '0'
+  rate: '5'
+  shipping: '1'
+  state: ND
+wootax/22466:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '58636'
+    location_type: postcode
+  name: 'DUNN '
+  order: '0'
+  priority: '0'
+  rate: '5'
+  shipping: '1'
+  state: ND
+wootax/22467:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '58638'
+    location_type: postcode
+  name: HEBRON
+  order: '0'
+  priority: '0'
+  rate: '5.5'
+  shipping: '1'
+  state: ND
+wootax/22468:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '58639'
+    location_type: postcode
+  name: HETTINGER
+  order: '0'
+  priority: '0'
+  rate: '6.5'
+  shipping: '1'
+  state: ND
+wootax/22469:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '58640'
+    location_type: postcode
+  name: 'DUNN '
+  order: '0'
+  priority: '0'
+  rate: '5'
+  shipping: '1'
+  state: ND
+wootax/22470:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '58641'
+    location_type: postcode
+  name: STARK
+  order: '0'
+  priority: '0'
+  rate: '5'
+  shipping: '1'
+  state: ND
+wootax/22471:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '58642'
+    location_type: postcode
+  name: 'DUNN '
+  order: '0'
+  priority: '0'
+  rate: '5'
+  shipping: '1'
+  state: ND
+wootax/22472:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '58643'
+    location_type: postcode
+  name: MARMARTH
+  order: '0'
+  priority: '0'
+  rate: '5'
+  shipping: '1'
+  state: ND
+wootax/22473:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '58644'
+    location_type: postcode
+  name: 'DUNN '
+  order: '0'
+  priority: '0'
+  rate: '5'
+  shipping: '1'
+  state: ND
+wootax/22474:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '58645'
+    location_type: postcode
+  name: BILLINGS
+  order: '0'
+  priority: '0'
+  rate: '5'
+  shipping: '1'
+  state: ND
+wootax/22475:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '58646'
+    location_type: postcode
+  name: MOTT
+  order: '0'
+  priority: '0'
+  rate: '7.5'
+  shipping: '1'
+  state: ND
+wootax/22476:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '58647'
+    location_type: postcode
+  name: NEW ENGLAND
+  order: '0'
+  priority: '0'
+  rate: '7.5'
+  shipping: '1'
+  state: ND
+wootax/22477:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '58649'
+    location_type: postcode
+  name: REEDER
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: ND
+wootax/22478:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '58650'
+    location_type: postcode
+  name: REGENT
+  order: '0'
+  priority: '0'
+  rate: '7.5'
+  shipping: '1'
+  state: ND
+wootax/22479:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '58651'
+    location_type: postcode
+  name: BOWMAN
+  order: '0'
+  priority: '0'
+  rate: '5'
+  shipping: '1'
+  state: ND
+wootax/22480:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '58652'
+    location_type: postcode
+  name: RICHARDTON
+  order: '0'
+  priority: '0'
+  rate: '7'
+  shipping: '1'
+  state: ND
+wootax/22481:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '58653'
+    location_type: postcode
+  name: SCRANTON
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: ND
+wootax/22482:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '58654'
+    location_type: postcode
+  name: GOLDEN VALLEY
+  order: '0'
+  priority: '0'
+  rate: '5'
+  shipping: '1'
+  state: ND
+wootax/22483:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '58655'
+    location_type: postcode
+  name: STARK
+  order: '0'
+  priority: '0'
+  rate: '5'
+  shipping: '1'
+  state: ND
+wootax/22484:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '58656'
+    location_type: postcode
+  name: STARK
+  order: '0'
+  priority: '0'
+  rate: '5'
+  shipping: '1'
+  state: ND
+wootax/22485:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '58701'
+    location_type: postcode
+  name: MINOT
+  order: '0'
+  priority: '0'
+  rate: '7.5'
+  shipping: '1'
+  state: ND
+wootax/22486:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '58702'
+    location_type: postcode
+  name: MINOT
+  order: '0'
+  priority: '0'
+  rate: '7.5'
+  shipping: '1'
+  state: ND
+wootax/22487:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '58703'
+    location_type: postcode
+  name: MINOT
+  order: '0'
+  priority: '0'
+  rate: '7.5'
+  shipping: '1'
+  state: ND
+wootax/22488:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '58704'
+    location_type: postcode
+  name: WARD CO
+  order: '0'
+  priority: '0'
+  rate: '5.5'
+  shipping: '1'
+  state: ND
+wootax/22489:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '58705'
+    location_type: postcode
+  name: WARD CO
+  order: '0'
+  priority: '0'
+  rate: '5.5'
+  shipping: '1'
+  state: ND
+wootax/22490:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '58707'
+    location_type: postcode
+  name: MINOT
+  order: '0'
+  priority: '0'
+  rate: '7.5'
+  shipping: '1'
+  state: ND
+wootax/22491:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '58710'
+    location_type: postcode
+  name: ANAMOOSE
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: ND
+wootax/22492:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '58711'
+    location_type: postcode
+  name: BOTTINEAU
+  order: '0'
+  priority: '0'
+  rate: '5'
+  shipping: '1'
+  state: ND
+wootax/22493:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '58712'
+    location_type: postcode
+  name: MCHENRY
+  order: '0'
+  priority: '0'
+  rate: '5'
+  shipping: '1'
+  state: ND
+wootax/22494:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '58713'
+    location_type: postcode
+  name: MCHENRY
+  order: '0'
+  priority: '0'
+  rate: '5'
+  shipping: '1'
+  state: ND
+wootax/22495:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '58716'
+    location_type: postcode
+  name: MCLEAN
+  order: '0'
+  priority: '0'
+  rate: '5'
+  shipping: '1'
+  state: ND
+wootax/22496:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '58718'
+    location_type: postcode
+  name: WARD CO
+  order: '0'
+  priority: '0'
+  rate: '5.5'
+  shipping: '1'
+  state: ND
+wootax/22497:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '58721'
+    location_type: postcode
+  name: BURKE
+  order: '0'
+  priority: '0'
+  rate: '5'
+  shipping: '1'
+  state: ND
+wootax/22498:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '58722'
+    location_type: postcode
+  name: BURLINGTON
+  order: '0'
+  priority: '0'
+  rate: '7'
+  shipping: '1'
+  state: ND
+wootax/22499:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '58723'
+    location_type: postcode
+  name: MCLEAN
+  order: '0'
+  priority: '0'
+  rate: '5'
+  shipping: '1'
+  state: ND
+wootax/22500:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '58725'
+    location_type: postcode
+  name: 'RENVILLE '
+  order: '0'
+  priority: '0'
+  rate: '5'
+  shipping: '1'
+  state: ND
+wootax/22501:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '58727'
+    location_type: postcode
+  name: BURKE
+  order: '0'
+  priority: '0'
+  rate: '5'
+  shipping: '1'
+  state: ND
+wootax/22502:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '58730'
+    location_type: postcode
+  name: CROSBY
+  order: '0'
+  priority: '0'
+  rate: '8'
+  shipping: '1'
+  state: ND
+wootax/22503:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '58731'
+    location_type: postcode
+  name: MCHENRY
+  order: '0'
+  priority: '0'
+  rate: '5'
+  shipping: '1'
+  state: ND
+wootax/22504:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '58733'
+    location_type: postcode
+  name: WARD CO
+  order: '0'
+  priority: '0'
+  rate: '5.5'
+  shipping: '1'
+  state: ND
+wootax/22505:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '58734'
+    location_type: postcode
+  name: WARD CO
+  order: '0'
+  priority: '0'
+  rate: '5.5'
+  shipping: '1'
+  state: ND
+wootax/22506:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '58735'
+    location_type: postcode
+  name: WARD CO
+  order: '0'
+  priority: '0'
+  rate: '5.5'
+  shipping: '1'
+  state: ND
+wootax/22507:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '58736'
+    location_type: postcode
+  name: DRAKE
+  order: '0'
+  priority: '0'
+  rate: '7'
+  shipping: '1'
+  state: ND
+wootax/22508:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '58737'
+    location_type: postcode
+  name: BURKE
+  order: '0'
+  priority: '0'
+  rate: '5'
+  shipping: '1'
+  state: ND
+wootax/22509:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '58740'
+    location_type: postcode
+  name: GLENBURN
+  order: '0'
+  priority: '0'
+  rate: '7'
+  shipping: '1'
+  state: ND
+wootax/22510:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '58741'
+    location_type: postcode
+  name: MCHENRY
+  order: '0'
+  priority: '0'
+  rate: '5'
+  shipping: '1'
+  state: ND
+wootax/22511:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '58744'
+    location_type: postcode
+  name: MCHENRY
+  order: '0'
+  priority: '0'
+  rate: '5'
+  shipping: '1'
+  state: ND
+wootax/22512:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '58746'
+    location_type: postcode
+  name: KENMARE
+  order: '0'
+  priority: '0'
+  rate: '7.5'
+  shipping: '1'
+  state: ND
+wootax/22513:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '58748'
+    location_type: postcode
+  name: BOTTINEAU
+  order: '0'
+  priority: '0'
+  rate: '5'
+  shipping: '1'
+  state: ND
+wootax/22514:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '58750'
+    location_type: postcode
+  name: BOTTINEAU
+  order: '0'
+  priority: '0'
+  rate: '5'
+  shipping: '1'
+  state: ND
+wootax/22515:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '58752'
+    location_type: postcode
+  name: LIGNITE
+  order: '0'
+  priority: '0'
+  rate: '7'
+  shipping: '1'
+  state: ND
+wootax/22516:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '58755'
+    location_type: postcode
+  name: WILLIAMS COUNTY
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: ND
+wootax/22517:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '58756'
+    location_type: postcode
+  name: WARD CO
+  order: '0'
+  priority: '0'
+  rate: '5.5'
+  shipping: '1'
+  state: ND
+wootax/22518:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '58757'
+    location_type: postcode
+  name: 'DUNN '
+  order: '0'
+  priority: '0'
+  rate: '5'
+  shipping: '1'
+  state: ND
+wootax/22519:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '58758'
+    location_type: postcode
+  name: SHERIDAN
+  order: '0'
+  priority: '0'
+  rate: '5'
+  shipping: '1'
+  state: ND
+wootax/22520:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '58759'
+    location_type: postcode
+  name: WARD CO
+  order: '0'
+  priority: '0'
+  rate: '5.5'
+  shipping: '1'
+  state: ND
+wootax/22521:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '58760'
+    location_type: postcode
+  name: BOTTINEAU
+  order: '0'
+  priority: '0'
+  rate: '5'
+  shipping: '1'
+  state: ND
+wootax/22522:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '58761'
+    location_type: postcode
+  name: MOHALL
+  order: '0'
+  priority: '0'
+  rate: '7'
+  shipping: '1'
+  state: ND
+wootax/22523:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '58762'
+    location_type: postcode
+  name: BOTTINEAU
+  order: '0'
+  priority: '0'
+  rate: '5'
+  shipping: '1'
+  state: ND
+wootax/22524:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '58763'
+    location_type: postcode
+  name: NEW TOWN
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: ND
+wootax/22525:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '58765'
+    location_type: postcode
+  name: DIVIDE
+  order: '0'
+  priority: '0'
+  rate: '5'
+  shipping: '1'
+  state: ND
+wootax/22526:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '58768'
+    location_type: postcode
+  name: WARD CO
+  order: '0'
+  priority: '0'
+  rate: '5.5'
+  shipping: '1'
+  state: ND
+wootax/22527:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '58769'
+    location_type: postcode
+  name: MOUNTRAIL
+  order: '0'
+  priority: '0'
+  rate: '5'
+  shipping: '1'
+  state: ND
+wootax/22528:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '58770'
+    location_type: postcode
+  name: PARSHALL
+  order: '0'
+  priority: '0'
+  rate: '5'
+  shipping: '1'
+  state: ND
+wootax/22529:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '58771'
+    location_type: postcode
+  name: MOUNTRAIL
+  order: '0'
+  priority: '0'
+  rate: '5'
+  shipping: '1'
+  state: ND
+wootax/22530:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '58772'
+    location_type: postcode
+  name: BURKE
+  order: '0'
+  priority: '0'
+  rate: '5'
+  shipping: '1'
+  state: ND
+wootax/22531:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '58773'
+    location_type: postcode
+  name: BURKE
+  order: '0'
+  priority: '0'
+  rate: '5'
+  shipping: '1'
+  state: ND
+wootax/22532:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '58775'
+    location_type: postcode
+  name: MCLEAN
+  order: '0'
+  priority: '0'
+  rate: '5'
+  shipping: '1'
+  state: ND
+wootax/22533:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '58776'
+    location_type: postcode
+  name: MOUNTRAIL
+  order: '0'
+  priority: '0'
+  rate: '5'
+  shipping: '1'
+  state: ND
+wootax/22534:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '58778'
+    location_type: postcode
+  name: MCLEAN
+  order: '0'
+  priority: '0'
+  rate: '5'
+  shipping: '1'
+  state: ND
+wootax/22535:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '58779'
+    location_type: postcode
+  name: MCLEAN
+  order: '0'
+  priority: '0'
+  rate: '5'
+  shipping: '1'
+  state: ND
+wootax/22536:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '58781'
+    location_type: postcode
+  name: WARD CO
+  order: '0'
+  priority: '0'
+  rate: '5.5'
+  shipping: '1'
+  state: ND
+wootax/22537:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '58782'
+    location_type: postcode
+  name: 'RENVILLE '
+  order: '0'
+  priority: '0'
+  rate: '5'
+  shipping: '1'
+  state: ND
+wootax/22538:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '58783'
+    location_type: postcode
+  name: BOTTINEAU
+  order: '0'
+  priority: '0'
+  rate: '5'
+  shipping: '1'
+  state: ND
+wootax/22539:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '58784'
+    location_type: postcode
+  name: STANLEY
+  order: '0'
+  priority: '0'
+  rate: '6.5'
+  shipping: '1'
+  state: ND
+wootax/22540:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '58785'
+    location_type: postcode
+  name: SURREY
+  order: '0'
+  priority: '0'
+  rate: '7.5'
+  shipping: '1'
+  state: ND
+wootax/22541:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '58787'
+    location_type: postcode
+  name: 'RENVILLE '
+  order: '0'
+  priority: '0'
+  rate: '5'
+  shipping: '1'
+  state: ND
+wootax/22542:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '58788'
+    location_type: postcode
+  name: MCHENRY
+  order: '0'
+  priority: '0'
+  rate: '5'
+  shipping: '1'
+  state: ND
+wootax/22543:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '58789'
+    location_type: postcode
+  name: MCHENRY
+  order: '0'
+  priority: '0'
+  rate: '5'
+  shipping: '1'
+  state: ND
+wootax/22544:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '58790'
+    location_type: postcode
+  name: VELVA
+  order: '0'
+  priority: '0'
+  rate: '7'
+  shipping: '1'
+  state: ND
+wootax/22545:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '58792'
+    location_type: postcode
+  name: MCHENRY
+  order: '0'
+  priority: '0'
+  rate: '5'
+  shipping: '1'
+  state: ND
+wootax/22546:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '58793'
+    location_type: postcode
+  name: WESTHOPE
+  order: '0'
+  priority: '0'
+  rate: '7'
+  shipping: '1'
+  state: ND
+wootax/22547:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '58794'
+    location_type: postcode
+  name: MOUNTRAIL
+  order: '0'
+  priority: '0'
+  rate: '5'
+  shipping: '1'
+  state: ND
+wootax/22548:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '58795'
+    location_type: postcode
+  name: WILLIAMS COUNTY
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: ND
+wootax/22549:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '58801'
+    location_type: postcode
+  name: WILLISTON
+  order: '0'
+  priority: '0'
+  rate: '8'
+  shipping: '1'
+  state: ND
+wootax/22550:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '58802'
+    location_type: postcode
+  name: WILLISTON
+  order: '0'
+  priority: '0'
+  rate: '8'
+  shipping: '1'
+  state: ND
+wootax/22551:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '58803'
+    location_type: postcode
+  name: WILLISTON
+  order: '0'
+  priority: '0'
+  rate: '8'
+  shipping: '1'
+  state: ND
+wootax/22552:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '58830'
+    location_type: postcode
+  name: WILLIAMS COUNTY
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: ND
+wootax/22553:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '58831'
+    location_type: postcode
+  name: MCKENZIE
+  order: '0'
+  priority: '0'
+  rate: '5'
+  shipping: '1'
+  state: ND
+wootax/22554:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '58833'
+    location_type: postcode
+  name: DIVIDE
+  order: '0'
+  priority: '0'
+  rate: '5'
+  shipping: '1'
+  state: ND
+wootax/22555:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '58835'
+    location_type: postcode
+  name: MCKENZIE
+  order: '0'
+  priority: '0'
+  rate: '5'
+  shipping: '1'
+  state: ND
+wootax/22556:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '58838'
+    location_type: postcode
+  name: MCKENZIE
+  order: '0'
+  priority: '0'
+  rate: '5'
+  shipping: '1'
+  state: ND
+wootax/22557:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '58843'
+    location_type: postcode
+  name: WILLIAMS COUNTY
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: ND
+wootax/22558:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '58844'
+    location_type: postcode
+  name: DIVIDE
+  order: '0'
+  priority: '0'
+  rate: '5'
+  shipping: '1'
+  state: ND
+wootax/22559:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '58845'
+    location_type: postcode
+  name: GRENORA
+  order: '0'
+  priority: '0'
+  rate: '7'
+  shipping: '1'
+  state: ND
+wootax/22560:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '58847'
+    location_type: postcode
+  name: MCKENZIE
+  order: '0'
+  priority: '0'
+  rate: '5'
+  shipping: '1'
+  state: ND
+wootax/22561:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '58849'
+    location_type: postcode
+  name: WILLIAMS COUNTY
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: ND
+wootax/22562:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '58852'
+    location_type: postcode
+  name: TIOGA
+  order: '0'
+  priority: '0'
+  rate: '8.5'
+  shipping: '1'
+  state: ND
+wootax/22563:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '58853'
+    location_type: postcode
+  name: WILLIAMS COUNTY
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: ND
+wootax/22564:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '58854'
+    location_type: postcode
+  name: MCKENZIE
+  order: '0'
+  priority: '0'
+  rate: '6.5'
+  shipping: '1'
+  state: ND
+wootax/22565:
+  class: ''
+  compound: '0'
+  country: US
+  locations:
+  - location_code: '58856'
+    location_type: postcode
+  name: WILLIAMS COUNTY
+  order: '0'
+  priority: '0'
+  rate: '6'
+  shipping: '1'
+  state: ND
