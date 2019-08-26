@@ -95,7 +95,7 @@ class WooSchema:
         "woo/woocommerce_registration_privacy_policy_text": Str(),
         ".woo/woocommerce_bacs_settings_format": Enum(["serialized"]),
         ".woo/woocommerce_cod_settings_format": Enum(["serialized"]),
-        ".woo/woocommerce_tax_classes_format": Enum(["implode_newline"]),
+        Optional(".woo/woocommerce_tax_classes_format"): Enum(["implode_newline"]),
     }
 
     @staticmethod

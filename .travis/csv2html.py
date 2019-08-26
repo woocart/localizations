@@ -28,10 +28,10 @@ def main(csv_file: str, base: str):
     """Parse CSV and output HTML file with base name.
 
     Arguments:
-        csv_file {str} -- Path to the csv file.
-        base {str} -- Name of the base HTML file and folder with images.
-    """
+        csv_file: Path to the csv file.
+        base: Name of the base HTML file and folder with images.
 
+    """
     products = []
     with open(csv_file) as csvfile:
         out = csv.reader(csvfile, delimiter=",", quotechar='"')
