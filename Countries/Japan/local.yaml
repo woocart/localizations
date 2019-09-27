@@ -71,4 +71,5 @@ woo/woocommerce_registration_privacy_policy_text: 'Your personal data will be us
 # Metadata -- KEEP --
 .woo/woocommerce_bacs_settings_format: serialized
 .woo/woocommerce_cod_settings_format: serialized
+.woo/woocommerce_tax_classes_format: implode_newline
 # Metadata -- KEEP --
