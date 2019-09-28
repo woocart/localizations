@@ -34,4 +34,4 @@ for translation in langs:
     log.info("Adding", language=wplang, name=name)
     model.append(f'  "{wplang}",  # {name}')  # noqa: C408
 model.append("]")
-Path(".travis/wplang.py").write_text(HEADER + "\n".join(model))
+Path(".circleci/wplang.py").write_text(HEADER + "\n".join(model))

@@ -1,6 +1,6 @@
 """Convert CSV from WooCommerce to HTML file.
 
-For example: `.travis/csv2html.py csv/electronics.csv electronics`
+For example: `.circleci/csv2html.py csv/electronics.csv electronics`
 """
 
 from os import getcwd
