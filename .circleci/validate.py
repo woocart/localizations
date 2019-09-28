@@ -82,7 +82,7 @@ def main():
                 english = subprocess.Popen(
                     (
                         "aspell --lang=en --encoding=utf-8 "
-                        "--personal=./.travis/dictionaries/en.pws list"
+                        "--personal=./.circleci/dictionaries/en.pws list"
                     ).split(" "),
                     stdin=cat.stdout,
                     stdout=subprocess.PIPE,
@@ -90,7 +90,7 @@ def main():
                 output = subprocess.check_output(
                     (
                         f"aspell --lang={language} --encoding=utf-8 "
-                        f"--personal=./.travis/dictionaries/{language}.pws list"
+                        f"--personal=./.circleci/dictionaries/{language}.pws list"
                     ).split(" "),
                     stdin=english.stdout,
                 )

@@ -1,4 +1,5 @@
-[![WooCart Project](https://img.shields.io/badge/powered%20by-WooCart-943af9.svg)](https://woocart.com) [![Build Status](https://travis-ci.com/woocart/localizations.svg?branch=master)](https://travis-ci.com/woocart/localizations)
+[![WooCart Project](https://img.shields.io/badge/powered%20by-WooCart-943af9.svg)](https://woocart.com)
+[![CircleCI](https://circleci.com/gh/woocart/localizations/tree/master.svg?style=svg&circle-token=8107e3f75f54fb5cbbcac62571dfe0a86c540d45)](https://circleci.com/gh/woocart/localizations/tree/master)
 # WooCart Localizations
 
 This repository contains default settings for a [WooCart](https://woocart.com/) store and specific settings for each country.
@@ -62,7 +63,7 @@ There are three types of localization: store (WordPress and WooCommerce settings
 - Go to `Products` > `Export`
 - Select `Name`, `Description`, `Short Description`, `Regular Price`, `Images` in the export field.
 - Save file to `csv` folder
-- Run `pipenv run python .travis/csv2html.py csv/your_file_name.csv Countries/.common/store_name` to generate product HTML page and download images for products.
+- Run `pipenv run python .circleci/csv2html.py csv/your_file_name.csv Countries/.common/store_name` to generate product HTML page and download images for products.
 
 ## Translating the products
 

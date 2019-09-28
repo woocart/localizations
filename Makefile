@@ -19,7 +19,7 @@ install:
 
 # Run validaion
 validate: .installed
-	@pipenv run python .travis/validate.py
+	@pipenv run python .circleci/validate.py
 
 # Testing and linting targets
 lint: .installed
@@ -27,15 +27,15 @@ lint: .installed
 
 type: types
 types: .installed
-	@pipenv run mypy .travis/*.py
+	@pipenv run mypy .circleci/*.py
 
 sort: .installed
-	@pipenv run isort -rc --atomic .travis/*.py
+	@pipenv run isort -rc --atomic .circleci/*.py
 
 fmt: format
 black: format
 format: .installed sort
-	@pipenv run black .travis/*.py
+	@pipenv run black .circleci/*.py
 
 clean:
 	@if [ -d ".venv/" ]; then pipenv --rm; fi
@@ -43,10 +43,10 @@ clean:
 	@rm -f .installed
 
 gen: codegen
-	pipenv run python .travis/csv2html.py csv/electronics.csv Countries/.common/electronics
-	pipenv run python .travis/csv2html.py csv/bookstore.csv Countries/.common/bookstore
-	pipenv run python .travis/csv2html.py csv/toys.csv Countries/.common/toys
-	pipenv run python .travis/csv2html.py csv/jewellery.csv Countries/.common/jewellery
+	pipenv run python .circleci/csv2html.py csv/electronics.csv Countries/.common/electronics
+	pipenv run python .circleci/csv2html.py csv/bookstore.csv Countries/.common/bookstore
+	pipenv run python .circleci/csv2html.py csv/toys.csv Countries/.common/toys
+	pipenv run python .circleci/csv2html.py csv/jewellery.csv Countries/.common/jewellery
 
 optimize:
 	find Countries/.common/ -iname "*.jpg" -exec convert {} -resize 960x960\> {} \;

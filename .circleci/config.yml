@@ -1,0 +1,59 @@
+version: 2.1
+
+workflows:
+  python-php-tests:
+    jobs:
+      - python-tests
+      - php-tests
+
+
+jobs:
+  python-tests:
+      working_directory: ~/localizations
+      docker:
+        - image: circleci/python:3.7
+      environment:
+        PIPENV_VENV_IN_PROJECT: true
+        PIPENV_IGNORE_VIRTUALENVS: true
+      steps:
+        - checkout
+        - run:
+            name: Install spell checkers for different languages
+            command: |
+              sudo apt-get install aspell aspell-en aspell-ro aspell-sl
+              touch .installed
+        - restore_cache:
+            keys:
+              - localizations-{{ .Branch }}-{{ checksum "Pipfile.lock" }}
+              - localizations-
+        - run:
+            name: Install Python tests dependencies
+            command: |
+              pipenv install --deploy
+        - save_cache:
+            key: localizations-{{ .Branch }}-{{ checksum "Pipfile.lock" }}
+            paths:
+              - ./.venv
+              - ../.cache
+        - run:
+            name: Run Python Tests
+            command: |
+              pipenv run black .circleci/validate.py --check
+              make lint
+              make types
+              make validate
+
+  php-tests:
+    working_directory: ~/localizations
+    docker:
+      - image: circleci/php:7.2
+    steps:
+      - checkout
+      - run:
+          name: Install PHP tests dependencies
+          command: |
+            composer require symfony/yaml
+      - run:
+          name: Run PHP Tests
+          command: |
+            php -f .circleci/validate.php
