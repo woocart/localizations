@@ -68,32 +68,17 @@ wootax/4: # Zero rate
 
 # Payments - Direct bank transfer
 woo/woocommerce_bacs_settings:
-    enabled: 'yes'
-    title: 'Transfer bancar' # Translate
-    description: 'Plătește direct în contul nostru bancar.' # Translate
-    instructions: 'Te rugăm să utilizezi numărul comenzii tale ca referință a plății. Comanda ta va fi livrată doar după ce plata se regăsește în contul nostru.' # Translate
-    account_name: ''
-    account_number: ''
-    sort_code: ''
-    bank_name: ''
-    iban: ''
-    bic: ''
-    account_details: ''
+    enabled: 'no' # Enable when it's a common payment method
 
 # Payments -  Cash on delivery
 woo/woocommerce_cod_settings:
-    enabled: 'yes'
-    title: 'Plata cash la livrare' # Translate
-    description: 'Plătește cash la livrare.' # Translate
-    instructions: 'Plătește cash la livrare.' # Translate
-    enable_for_methods: ''
-    enable_for_virtual: 'no'
+    enabled: 'no' # Enable when it's a common payment method
 
 # Privacy Policy -  Checkout privacy policy
-woo/woocommerce_checkout_privacy_policy_text: "Datele tale personale vor fi utilizate pentru a-ți procesa comanda, a-ți furniza cea mai bună experiență la utilizarea website-ului și pentru alte scopuri descrise în [privacy_policy]." # Translate
+woo/woocommerce_checkout_privacy_policy_text: 'Your personal data will be used to process your order, support your experience throughout this website, and for other purposes described in our [privacy_policy].' # Translate
 
 # Privacy Policy - Registration privacy policy
-woo/woocommerce_registration_privacy_policy_text: 'Datele tale personale vor fi utilizate pentru a-ți furniza cea mai bună experiență la utilizarea website-ului, pentru a-ți putea accesa contul și pentru alte scopuri descrise în [privacy_policy].' # Translate
+woo/woocommerce_registration_privacy_policy_text: 'Your personal data will be used to support your experience throughout this website, to manage access to your account, and for other purposes described in our [privacy_policy].' # Translate
 
 # Store tagline
 wp/blogdescription: 'Magazinul tău WooCart'
