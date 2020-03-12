@@ -33,6 +33,7 @@ requests = "*"
 strictyaml = {git = "https://github.com/woocart/strictyaml.git", editable = true}
 html-linter = "*"
 structlog = "*"
+toml = "*"
 
 [dev-packages]
 structlog = "*"
