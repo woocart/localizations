@@ -1,0 +1,27 @@
+<!--
+post_title: Delivery Information
+post_name: delivery
+post_type: page
+post_status: publish
+meta_input:
+  site-sidebar-layout: "no-sidebar"
+  site-content-layout: "plain-container"
+woocart_defaults:
+  wp/woocommerce_returns_page_id: $ID
+-->
+
+
+<h2>Order Fulfillment</h2>
+<p>Orders are processed for delivery Monday through Friday, excluding holidays. We deliver the goods in accordance with the delivery option selected by you during the order process.</p>
+
+<p>We cannot accept any liability for delayed delivery caused by any third party. As soon as you have received the goods, you assume all risk in the goods.</p>
+
+<h2>Delivery Times</h2>
+<p><strong>Standard Shipping</strong></p>
+
+<p><strong>International Shipping</strong></p>
+
+<h2>Shipping Rates</h2>
+<p><strong>Standard Shipping</strong></p>
+
+<p><strong>International Shipping</strong></p>
