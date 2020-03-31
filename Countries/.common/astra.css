@@ -1,0 +1,20 @@
+.ast-masthead-custom-menu-items.woocommerce-custom-menu-item{
+    margin-top: -8px;
+}
+
+.ast-theme-transparent-header.ast-above-sticky-header-active .ast-masthead-custom-menu-items.woocommerce-custom-menu-item{
+    margin-top: -6px;
+}
+
+.ast-theme-transparent-header.ast-above-sticky-header-active .ast-woo-header-cart-info-wrap {
+    color: #54595f;
+}
+
+.wc-block-grid .wc-block-grid__products .wc-block-grid__product .wc-block-grid__product-title {
+    font-size: 1.250rem !important;
+    font-weight: 700 !important;
+}
+
+.wc-block-grid .wc-block-grid__products .wc-block-grid__product .price {
+    font-size: 1rem !important;
+}
