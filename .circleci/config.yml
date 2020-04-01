@@ -21,14 +21,16 @@ jobs:
               touch .installed
         - restore_cache:
             keys:
-              - localizations-{{ .Branch }}-{{ checksum "poetry.lock" }}
-              - localizations-
+              - localizations-v1-{{ .Branch }}-{{ checksum "poetry.lock" }}
+              - localizations-v1-
         - run:
             name: Install Python tests dependencies
             command: |
+              pip install pip --upgrade
+              poetry run pip install pip --upgrade
               poetry install
         - save_cache:
-            key: localizations-{{ .Branch }}-{{ checksum "poetry.lock" }}
+            key: localizations-v1-{{ .Branch }}-{{ checksum "poetry.lock" }}
             paths:
               - ./.venv
               - ../.cache
