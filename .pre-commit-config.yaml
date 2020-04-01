@@ -51,13 +51,3 @@
         exclude_types: [svg]
         exclude: 'Countries|.circleci/wplang.py|.circleci/const.py|.circleci/dictionaries|.csv|defaults.yaml'
         stages: [push]
-
-    -   id: htmllint
-        name: HTML Linter
-        description: Checks for HTML syntax errors.
-        entry: poetry run html_lint.py --disable=protocol,optional_tag,concerns_separation,void_element,entities --printfilename
-        language: system
-        files: ^Countries/
-        types: [non-executable, file, text]
-        exclude_types: [svg]
-        stages: [push]
