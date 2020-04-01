@@ -27,6 +27,10 @@ def main():
         "products-electronics.html",
         "products-jewellery.html",
         "products-toys.html",
+        "my-account.html",
+        "checkout.html",
+        "cart.html",
+        "legal-shipping.html",
     }
 
     for country in root.joinpath("Countries").glob("*"):
