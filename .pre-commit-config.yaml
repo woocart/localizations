@@ -8,19 +8,19 @@
 
     -   id: flake8
         name: Flake8
-        entry: pipenv run flake8
+        entry: poetry run flake8
         language: system
         types: [python]
 
     -   id: black
         name: black
-        entry: pipenv run black
+        entry: poetry run black
         language: system
         types: [python]
 
     -   id: trailing-whitespace
         name: Trim Trailing Space
-        entry: pipenv run trailing-whitespace-fixer
+        entry: poetry run trailing-whitespace-fixer
         language: system
         types: [non-executable, file, text]
         exclude_types: [svg]
@@ -29,7 +29,7 @@
     -   id: end-of-file-fixer
         name: Fix End of Files
         description: Ensures that a file is either empty, or ends with one newline.
-        entry: pipenv run end-of-file-fixer
+        entry: poetry run end-of-file-fixer
         language: system
         types: [non-executable, file, text]
         exclude_types: [svg]
@@ -38,14 +38,14 @@
     -   id: check-merge-conflict
         name: Check for merge conflicts
         description: Check for files that contain merge conflict strings.
-        entry: pipenv run check-merge-conflict
+        entry: poetry run check-merge-conflict
         language: system
         stages: [push]
 
     -   id: codespell
         name: Check Spelling
         description: Checks for common misspellings in text files.
-        entry: pipenv run codespell
+        entry: poetry run codespell
         language: system
         types: [non-executable, file, text]
         exclude_types: [svg]
@@ -55,7 +55,7 @@
     -   id: htmllint
         name: HTML Linter
         description: Checks for HTML syntax errors.
-        entry: pipenv run html_lint.py --disable=protocol,optional_tag,concerns_separation,void_element,entities --printfilename
+        entry: poetry run html_lint.py --disable=protocol,optional_tag,concerns_separation,void_element,entities --printfilename
         language: system
         files: ^Countries/
         types: [non-executable, file, text]
