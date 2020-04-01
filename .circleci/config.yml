@@ -33,14 +33,14 @@ jobs:
             key: localizations-v1-{{ .Branch }}-{{ checksum "poetry.lock" }}
             paths:
               - ./.venv
-              - ../.cache
+              - ~/.cache
         - run:
             name: Run Python Tests
             command: |
               poetry run black .circleci/validate.py --check
               make lint
               make types
-              make validate
+              # make validate
 
   php-tests:
     working_directory: ~/localizations
