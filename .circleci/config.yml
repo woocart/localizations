@@ -34,12 +34,16 @@ jobs:
               - ./.venv
               - ~/.cache
         - run:
+            name: Run Validation Tests
+            command: |
+              make validate
+        - run:
             name: Run Python Tests
             command: |
               poetry run black .circleci/validate.py --check
               make lint
               make types
-              make validate
+
 
   php-tests:
     working_directory: ~/localizations
