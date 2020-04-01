@@ -11,10 +11,7 @@ jobs:
   python-tests:
       working_directory: ~/localizations
       docker:
-        - image: circleci/python:3.7
-      environment:
-        PIPENV_VENV_IN_PROJECT: true
-        PIPENV_IGNORE_VIRTUALENVS: true
+        - image: circleci/python:3.8
       steps:
         - checkout
         - run:
@@ -24,21 +21,21 @@ jobs:
               touch .installed
         - restore_cache:
             keys:
-              - localizations-{{ .Branch }}-{{ checksum "Pipfile.lock" }}
+              - localizations-{{ .Branch }}-{{ checksum "poetry.lock" }}
               - localizations-
         - run:
             name: Install Python tests dependencies
             command: |
-              pipenv install --deploy
+              poetry install
         - save_cache:
-            key: localizations-{{ .Branch }}-{{ checksum "Pipfile.lock" }}
+            key: localizations-{{ .Branch }}-{{ checksum "poetry.lock" }}
             paths:
               - ./.venv
               - ../.cache
         - run:
             name: Run Python Tests
             command: |
-              pipenv run black .circleci/validate.py --check
+              poetry run black .circleci/validate.py --check
               make lint
               make types
               make validate
@@ -46,7 +43,7 @@ jobs:
   php-tests:
     working_directory: ~/localizations
     docker:
-      - image: circleci/php:7.2
+      - image: circleci/php:7.4
     steps:
       - checkout
       - run:
