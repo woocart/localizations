@@ -18,7 +18,6 @@ jobs:
             name: Install spell checkers for different languages
             command: |
               sudo apt-get install aspell aspell-en aspell-ro aspell-sl
-              touch .installed
         - restore_cache:
             keys:
               - localizations-v1-{{ .Branch }}-{{ checksum "poetry.lock" }}
@@ -28,7 +27,7 @@ jobs:
             command: |
               pip install pip --upgrade
               poetry run pip install pip --upgrade
-              poetry install
+              make install
         - save_cache:
             key: localizations-v1-{{ .Branch }}-{{ checksum "poetry.lock" }}
             paths:
@@ -40,7 +39,7 @@ jobs:
               poetry run black .circleci/validate.py --check
               make lint
               make types
-              # make validate
+              make validate
 
   php-tests:
     working_directory: ~/localizations

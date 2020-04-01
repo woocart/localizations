@@ -46,7 +46,7 @@ python-dateutil = "^2.8.1"
 "ruamel.yaml.clib" = "^0.2.0"
 six = "^1.14.0"
 snowballstemmer = "^2.0.0"
-strictyaml = "^1.0.6"
+strictyaml = { git = "https://github.com/woocart/strictyaml.git", branch = "master" }
 structlog = "^20.1.0"
 template-remover = "^0.1.9"
 testfixtures = "^6.14.0"
