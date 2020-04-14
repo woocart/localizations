@@ -8,6 +8,7 @@ wp/show_on_front: 'page' # Your homepage displays
 wp/avatar_default: 'gravatar_default'
 wp/blog_public: '1' # Search Engine Visibility
 wp/permalink_structure: '/blog/%postname%/'
+wp/uploads_use_yearmonth_folders: '0' # don't split uploads into folders
 
 # WooCommerce General
 woo/woocommerce_demo_store: 'yes' # Store notice
@@ -49,7 +50,7 @@ woo/woocommerce_downloads_grant_access_after_payment: 'yes' # Grant access to do
 
 # Shipping Options
 woo/woocommerce_enable_shipping_calc: 'yes' # Enable the shipping calculator on the basket page
-woo/woocommerce_ship_to_destination: 'shipping' # Shipping destination
+woo/woocommerce_ship_to_destination: 'billing' # Shipping destination
 woo/woocommerce_shipping_cost_requires_address: 'yes' # Hide shipping costs until an address is entered
 woo/woocommerce_shipping_debug_mode: 'no' # Debug mode
 
