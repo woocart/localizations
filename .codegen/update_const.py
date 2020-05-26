@@ -25,7 +25,7 @@ model = []
 model.append("WPLANGS: List[str] = [")
 model.append('  "en_US",  # WordPress base')
 log.info("Fetching info")
-res = requests.get(f"http://api.wordpress.org/translations/core/1.0/")
+res = requests.get("http://api.wordpress.org/translations/core/1.0/")
 res.raise_for_status()
 langs = res.json()["translations"]
 for translation in langs:
