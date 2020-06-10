@@ -80,7 +80,7 @@ def main():
             exit(255)
 
         # spellcheck
-        if language in ["en", "ro", "sl"]:
+        if language in ["en"]:
             for html in country.glob("*.html"):
                 cat = subprocess.Popen(("cat", html), stdout=subprocess.PIPE)
                 english = subprocess.Popen(
