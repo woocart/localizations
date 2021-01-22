@@ -3,6 +3,8 @@ on:
   schedule:
     # On the second of every month
     - cron: '0 0 2 * *'
+  workflow_dispatch:
+    # Manually trigger from the "Actions" tab
 
 jobs:
   update:
