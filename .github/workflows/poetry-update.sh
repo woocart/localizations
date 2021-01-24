@@ -4,7 +4,7 @@ set -xeu
 git fetch --unshallow
 
 # Update the python packages
-poetry update
+poetry lock
 
 # Only continue if there are any changes
 if ! git diff-index --quiet HEAD; then
